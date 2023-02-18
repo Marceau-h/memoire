@@ -3,7 +3,7 @@ python3.11 -m pip install -U 'spacy[transformers,lookups]'
 python3.11 -m spacy download en_core_web_sm
 python3.11 -m spacy download en_core_web_md
 python3.11 -m spacy download en_core_web_lg
-python3.11 -m spacy download en_core_web_trtf
+python3.11 -m spacy download en_core_web_trf
 
 python3.11 -m spacy download fr_core_news_sm
 python3.11 -m spacy download fr_core_news_md
