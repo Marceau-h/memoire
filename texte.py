@@ -1,4 +1,5 @@
 import contextlib
+import glob
 import json
 import re
 from collections import Counter
@@ -26,6 +27,7 @@ class Texte:
     lexique = mots_LGERM
 
     def __init__(self, path):
+        self.lignes_non_lexicalisees = 0
         self.elts = None
         self.lexicalite = None
         self.lexicalites = None
@@ -121,7 +123,7 @@ class Texte:
 
         plain = ' '.join(mot for page in txt for line in page for mot in line)
 
-        if not txt:
+        if not plain:
             print(f"Empty file: {self.path = }")
 
         self.texte = txt
@@ -140,7 +142,7 @@ class Texte:
         self.lexicalite = mean(self.lexicalites)
 
         self.hapaxes = [self.mesurer_hapax(page) for page in pages]
-        self.hapax = mean(self.hapaxes)
+        self.hapax = sum(self.hapaxes)
         self.hapax_ratio = self.hapax / self.n_words
 
         self.pages = pages
@@ -158,9 +160,9 @@ class Texte:
         mots_LGERM = self.lexique
 
         mots = [mot for mot in tokens if mot in mots_LGERM]
-        
+
         if not mots:
-            print(f"Empty string, {self.path = }")
+            self.lignes_non_lexicalisees += 1
             return -1
 
         return len(tokens) / len(mots)
@@ -171,6 +173,11 @@ class Texte:
         count = Counter(mots)
         return sum(1 for mot, occurrences in count.items() if occurrences == 1)
 
+    @staticmethod
+    def corpora(path):
+        for file in glob.glob(path):
+            yield Texte(file)
+
 
 if __name__ == "__main__":
     path = "Corpus/Mazarinades/*/*.xml"
@@ -180,7 +187,4 @@ if __name__ == "__main__":
     texte = Texte(testfile)
     print(texte.__dict__)
 
-
-
-
-
+    liste = list(Texte.corpora(path))

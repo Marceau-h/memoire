@@ -13,7 +13,11 @@ Il permet également de créer un environnement virtuel python et d'installer le
 
 # Fichiers
 
-## ttr.ipynb: notebook jupyter pour diverses statistiques sur le corpus
+## ttr.ipynb : notebook jupyter pour diverses statistiques sur le corpus
+
+- Graphiques
+
+## texte.py : module python pour extraire des informations sur un texte
 
 - Stats
   - TTR
@@ -21,17 +25,12 @@ Il permet également de créer un environnement virtuel python et d'installer le
   - mots
   - caractères
   - ...
-
-- Graphiques
-- Extraction de certaines propriétés
+- Propriétés
   - date de publication
   - date de correction
   - ...
-
-### TODO
-- refaire les mesures et les renommer !
-- Mettre le tout dans une classe et un fichier séparé
-
-
-
-
+- Méthodes
+- Texte nettoyé
+  - Par ligne
+  - Par page
+  - Entier
