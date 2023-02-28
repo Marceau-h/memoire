@@ -7,6 +7,7 @@ from collections import Counter
 import xmltodict
 from bs4 import BeautifulSoup
 from numpy import mean
+from tqdm import tqdm
 
 
 def eval_sub_type(str_):
@@ -23,23 +24,32 @@ with open("LGERM.json", encoding="utf-8") as f:
 mots_LGERM = set(LGERM)
 
 
+def corpora(path):
+    for file in tqdm(glob.glob(path)):
+        yield Texte(file)
+
+
 class Texte:
     lexique = mots_LGERM
 
     def __init__(self, path):
-        self.lignes_non_lexicalisees = 0
         self.elts = None
-        self.lexicalite = None
-        self.lexicalites = None
+
+        self.ttrs = None
+        self.ttr = None
+
         self.hapaxes = None
+        self.hapax = None
+        self.hapax_ratio = None
+
+        self.texte = None
         self.plain = None
         self.pages = None
-        self.ttrs = None
-        self.hapax_ratio = None
-        self.hapax = None
-        self.tok_voc_ratio = None
-        self.ttr = None
-        self.texte = None
+
+        self.lexicalites = None
+        self.lexicalite = None
+        self.lignes_non_lexicalisees = 0
+
         self.n_words = None
         self.n_lines = None
         self.n_pages = None
@@ -125,6 +135,7 @@ class Texte:
 
         if not plain:
             print(f"Empty file: {self.path = }")
+            return
 
         self.texte = txt
 
@@ -134,6 +145,13 @@ class Texte:
         self.n_lines = sum(len(page) for page in txt)
         self.n_words = len(plain.split())
         self.n_chars = sum(len(line) for page in txt for line in page)
+
+        # if self.n_words == 0:
+        #     print(f"Empty file: {self.path = }")
+        #     print(f"{self.n_lines = }")
+        #     print(f"{self.n_words = }")
+        #     print(f"{self.n_chars = }")
+        #     print(f"{self.n_pages = }")
 
         self.ttrs = [self.mesurer_ttr(page) for page in pages]
         self.ttr = mean(self.ttrs)
@@ -165,18 +183,13 @@ class Texte:
             self.lignes_non_lexicalisees += 1
             return -1
 
-        return len(tokens) / len(mots)
+        return len(mots) / len(tokens)
 
     @staticmethod
     def mesurer_hapax(text):
         mots = text.split()
         count = Counter(mots)
         return sum(1 for mot, occurrences in count.items() if occurrences == 1)
-
-    @staticmethod
-    def corpora(path):
-        for file in glob.glob(path):
-            yield Texte(file)
 
 
 if __name__ == "__main__":
@@ -187,4 +200,4 @@ if __name__ == "__main__":
     texte = Texte(testfile)
     print(texte.__dict__)
 
-    liste = list(Texte.corpora(path))
+    liste = list(corpora(path))
