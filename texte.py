@@ -25,7 +25,10 @@ mots_LGERM = set(LGERM)
 
 
 def corpora(path):
-    for file in tqdm(glob.glob(path)):
+    if isinstance(path, str):
+        path = glob.glob(path)
+
+    for file in tqdm(path):
         yield Texte(file)
 
 
