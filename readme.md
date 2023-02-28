@@ -13,7 +13,7 @@ Il permet également de créer un environnement virtuel python et d'installer le
 
 # Fichiers
 
-## ttr.ipynb : notebook jupyter pour diverses statistiques sur le corpus
+## stats.ipynb : notebook jupyter pour diverses statistiques sur le corpus
 
 - Graphiques
 
