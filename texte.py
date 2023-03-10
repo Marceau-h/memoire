@@ -184,7 +184,7 @@ class Texte:
 
         if not mots:
             self.lignes_non_lexicalisees += 1
-            return -1
+            return 0 # -1  a retester
 
         return len(mots) / len(tokens)
 
