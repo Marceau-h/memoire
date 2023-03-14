@@ -149,13 +149,6 @@ class Texte:
         self.n_words = len(plain.split())
         self.n_chars = sum(len(line) for page in txt for line in page)
 
-        # if self.n_words == 0:
-        #     print(f"Empty file: {self.path = }")
-        #     print(f"{self.n_lines = }")
-        #     print(f"{self.n_words = }")
-        #     print(f"{self.n_chars = }")
-        #     print(f"{self.n_pages = }")
-
         self.ttrs = [self.mesurer_ttr(page) for page in pages]
         self.ttr = mean(self.ttrs)
 
@@ -184,7 +177,7 @@ class Texte:
 
         if not mots:
             self.lignes_non_lexicalisees += 1
-            return 0 # -1  a retester
+            return 0  # -1  a retester
 
         return len(mots) / len(tokens)
 
