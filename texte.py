@@ -127,9 +127,9 @@ class Texte:
         }
 
         txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
-        txt = [re.split(r"\n|<lb/>|<l>", line) for line in txt]
+        txt = [re.split(r"\n|<lb/>|<l>|<\\l>", line) for line in txt]
         txt = [[re.sub(r"<.*?>|  |\t", "", line) for line in page] for page in txt]
-        txt = [[line for line in page if line.strip()] for page in txt]
+        txt = [[line.strip() for line in page if line.strip()] for page in txt]
         txt = [page for page in txt if page]
 
         pages = [' '.join(line for line in page) for page in txt]
@@ -189,6 +189,8 @@ class Texte:
 
 
 if __name__ == "__main__":
+    test = "soft"
+
     path = "Corpus/Mazarinades/*/*.xml"
 
     testfile = "Corpus/Mazarinades/1-100/Moreau3_MAZ.xml"
@@ -196,4 +198,6 @@ if __name__ == "__main__":
     texte = Texte(testfile)
     print(texte.__dict__)
 
-    liste = list(corpora(path))
+    if test != "soft":
+        liste = list(corpora(path))
+

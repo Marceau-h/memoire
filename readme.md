@@ -34,3 +34,13 @@ Il permet également de créer un environnement virtuel python et d'installer le
   - Par ligne
   - Par page
   - Entier
+
+
+# Notes
+https://github.com/pemistahl/lingua-py
+https://github.com/IohannesArnold/lewis-short-json
+https://stackoverflow.com/questions/23838056/what-is-the-difference-between-transform-and-fit-transform-in-sklearn
+
+
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics.pairwise
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_extraction.text
