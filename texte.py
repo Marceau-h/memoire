@@ -68,9 +68,9 @@ class Texte:
         self.plain = None
         self.pages = None
 
-        self.lexicalites = None
+        self.fr_lexicalites = None
         self.lat_lexicalites = None
-        self.lexicalite = None
+        self.fr_lexicalite = None
         self.lat_lexicalite = None
         self.lignes_non_lexicalisees = {}
         self.langue = None
@@ -197,9 +197,9 @@ class Texte:
         self.ttrs = [self.mesurer_ttr(page) for page in pages]
         self.ttr = mean(self.ttrs)
 
-        self.lexicalites = [self.mesurer_lexicalite(page) for page in pages]
+        self.fr_lexicalites = [self.mesurer_lexicalite(page) for page in pages]
         self.lat_lexicalites = [self.mesurer_lexicalite(page, mode="ducange") for page in pages]
-        self.lexicalite = mean(self.lexicalites)
+        self.fr_lexicalite = mean(self.fr_lexicalites)
         self.lat_lexicalite = mean(self.lat_lexicalites)
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
 
@@ -239,6 +239,14 @@ class Texte:
     def determiner_langue(self):
         k, v = min(self.lignes_non_lexicalisees.items(), key=lambda x: x[1])
         return k, v
+
+    @property
+    def lexicalites(self):
+        return self.fr_lexicalites if self.langue == "LGERM" else self.lat_lexicalites
+
+    @property
+    def lexicalite(self):
+        return min(self.fr_lexicalite, self.lat_lexicalite)
 
 
 if __name__ == "__main__":
