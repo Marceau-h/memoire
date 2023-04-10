@@ -23,13 +23,13 @@ def eval_sub_type(str_: str) -> bool or str:
             return str_
 
 
-with open("lexiques/LGERM.json", encoding="utf-8") as f:
-    LGERM = json.load(f)
-mots_LGERM = set(LGERM)
-
-with open("lexiques/ducange.json", encoding="utf-8") as f:
-    ducange = json.load(f)
-mots_ducange = set(ducange)
+# with open("lexiques/LGERM.json", encoding="utf-8") as f:
+#     LGERM = json.load(f)
+# mots_LGERM = set(LGERM)
+#
+# with open("lexiques/ducange.json", encoding="utf-8") as f:
+#     ducange = json.load(f)
+# mots_ducange = set(ducange)
 
 lexiques = Path("lexiques").glob("*.json")
 
@@ -38,9 +38,6 @@ dict_lexiques = {
     for fic in lexiques
 }
 
-print(dict_lexiques.keys(), [len(e) for e in dict_lexiques.values()])
-
-1/0
 
 def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
     if isinstance(path, str):
@@ -59,10 +56,7 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 
 class Texte:
-    lexique = {
-        "LGERM": mots_LGERM,
-        "ducange": mots_ducange,
-    }
+    lexique = dict_lexiques
 
     def __init__(self, path: Path or str):
         self.elts = None
@@ -209,10 +203,14 @@ class Texte:
         self.ttrs = [self.mesurer_ttr(page) for page in pages]
         self.ttr = mean(self.ttrs)
 
-        self.fr_lexicalites = [self.mesurer_lexicalite(page) for page in pages]
-        self.lat_lexicalites = [self.mesurer_lexicalite(page, mode="ducange") for page in pages]
-        self.fr_lexicalite = mean(self.fr_lexicalites)
-        self.lat_lexicalite = mean(self.lat_lexicalites)
+        # self.fr_lexicalites = [self.mesurer_lexicalite(page) for page in pages]
+        # self.lat_lexicalites = [self.mesurer_lexicalite(page, mode="ducange") for page in pages]
+        # self.fr_lexicalite = mean(self.fr_lexicalites)
+        # self.lat_lexicalite = mean(self.lat_lexicalites)
+
+        self.dict_lexicalites = {key: [self.mesurer_lexicalite(page, mode=key) for page in pages] for key in self.lexique}
+        self.dict_lexicalite = {key: mean(self.dict_lexicalites[key]) for key in self.lexique}
+
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
 
         self.hapaxes = [self.mesurer_hapax(page) for page in pages]
@@ -248,16 +246,16 @@ class Texte:
         return sum(1 for mot, occurrences in count.items() if occurrences == 1)
 
     def determiner_langue(self):
-        k, v = min(self.lignes_non_lexicalisees.items(), key=lambda x: x[1])
-        return k, v
+        k, _ = max(self.dict_lexicalite.items(), key=lambda item: item[1])
+        return k, self.lignes_non_lexicalisees[k]
 
     @property
     def lexicalites(self):
-        return self.fr_lexicalites if self.langue == "LGERM" else self.lat_lexicalites
+        return self.dict_lexicalites[self.langue]
 
     @property
     def lexicalite(self):
-        return min(self.fr_lexicalite, self.lat_lexicalite)
+        return self.dict_lexicalite[self.langue]
 
 
 if __name__ == "__main__":
