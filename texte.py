@@ -23,14 +23,24 @@ def eval_sub_type(str_: str) -> bool or str:
             return str_
 
 
-with open("LGERM.json", encoding="utf-8") as f:
+with open("lexiques/LGERM.json", encoding="utf-8") as f:
     LGERM = json.load(f)
 mots_LGERM = set(LGERM)
 
-with open("ducange.json", encoding="utf-8") as f:
+with open("lexiques/ducange.json", encoding="utf-8") as f:
     ducange = json.load(f)
 mots_ducange = set(ducange)
 
+lexiques = Path("lexiques").glob("*.json")
+
+dict_lexiques = {
+    fic.stem: set(json.load(fic.open(encoding="utf-8")))
+    for fic in lexiques
+}
+
+print(dict_lexiques.keys(), [len(e) for e in dict_lexiques.values()])
+
+1/0
 
 def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
     if isinstance(path, str):
@@ -179,20 +189,22 @@ class Texte:
 
         pages = [' '.join(line for line in page) for page in txt]
 
-        plain = ' '.join(mot for page in txt for line in page for mot in line)
+        plain = ' '.join(mot for page in txt for line in page for mot in line.split())
 
         if not plain:
             print(f"Empty file: {self.path = }")
             return
 
+        self.plain = plain
+
         self.texte = txt
 
         self.elts = elts
 
-        self.n_pages = len(self.txt)
-        self.n_lines = sum(len(page) for page in txt)
+        self.n_pages = len(self.texte)
+        self.n_lines = sum(len(page) for page in self.texte)
         self.n_words = len(plain.split())
-        self.n_chars = sum(len(line) for page in txt for line in page)
+        self.n_chars = sum(len(line.strip()) for page in self.texte for line in page)
 
         self.ttrs = [self.mesurer_ttr(page) for page in pages]
         self.ttr = mean(self.ttrs)
@@ -208,7 +220,6 @@ class Texte:
         self.hapax_ratio = self.hapax / self.n_words
 
         self.pages = pages
-        self.plain = plain
 
     def mesurer_ttr(self, text):
         mots = text.split()

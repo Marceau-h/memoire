@@ -97,7 +97,7 @@ chriffre_romain = re.compile("([IVXLCDMivxlcdm]+\.?)|(·[IVXLCDMivxlcdmJjUu]+·)
 with open("correspondances.json", mode="w", encoding="utf-8") as f:
     json.dump(correspondances, f, indent=4, ensure_ascii=False)
 
-with open("LGERM.json") as f:
+with open("lexiques/LGERM.json") as f:
     LGERM = json.load(f)
 
 for i, e in enumerate(LGERM):
@@ -107,7 +107,7 @@ for e in LGERM:
     if not mot_is_ok(e):
         print(e)
 
-with open("LGERM.json", mode="w", encoding="utf-8") as f:
+with open("lexiques/LGERM.json", mode="w", encoding="utf-8") as f:
     json.dump(LGERM, f, indent=4, ensure_ascii=False)
 
 # Pour l'instant, je ne vois pas comment remplacer les derniers caractères, du coup je les laisse tels quels.
