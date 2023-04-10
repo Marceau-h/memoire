@@ -105,8 +105,8 @@ class Texte:
                  {self.header['langue'] = }.
                  La langue détectée est {self.langue = }""")
 
-            if self.langue == "ducange":
-                print(f"Latin détecté pour {path.name} \n {self.header['langue'] = }")
+            # if self.langue != "LGERM":
+            #     print(f"{self.langue} détecté \n {self.header['langue'] = }")
 
     def get_txt(self):
         return self.txt
@@ -115,7 +115,7 @@ class Texte:
         return f"{self.__class__.__name__}({self.txt!r})"
 
     def __str__(self):
-        return self.txt
+        return self.plain
 
     def __len__(self):
         return len(self.txt)
