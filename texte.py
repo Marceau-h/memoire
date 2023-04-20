@@ -57,6 +57,8 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
+    crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
+    crade2 = re.compile(r"[liIba1]*\s?[liIba1]*")
 
     def __init__(self, path: Path or str):
         self.elts = None
@@ -179,6 +181,10 @@ class Texte:
         txt = [re.split(r"\n|<lb/>|<l>|<\\l>", line) for line in txt]
         txt = [[re.sub(r"<.*?>|  |\t", "", line) for line in page] for page in txt]
         txt = [[line.strip() for line in page if line.strip()] for page in txt]
+        txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
+        txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
+        # txt = [[line.strip() for line in page if line.strip()] for page in txt]
+
         txt = [page for page in txt if page]
 
         pages = [' '.join(line for line in page) for page in txt]
