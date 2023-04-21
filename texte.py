@@ -58,9 +58,12 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 class Texte:
     lexique = dict_lexiques
     crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
+    crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"[liIba1]*\s?[liIba1]*")
 
     def __init__(self, path: Path or str):
+        self.dict_lexicalites = None
+        self.dict_lexicalite = None
         self.elts = None
 
         self.ttrs = None
@@ -214,7 +217,8 @@ class Texte:
         # self.fr_lexicalite = mean(self.fr_lexicalites)
         # self.lat_lexicalite = mean(self.lat_lexicalites)
 
-        self.dict_lexicalites = {key: [self.mesurer_lexicalite(page, mode=key) for page in pages] for key in self.lexique}
+        self.dict_lexicalites = {key: [self.mesurer_lexicalite(page, mode=key) for page in pages] for key in
+                                 self.lexique}
         self.dict_lexicalite = {key: mean(self.dict_lexicalites[key]) for key in self.lexique}
 
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
@@ -241,7 +245,7 @@ class Texte:
         self.lignes_non_lexicalisees[mode] = 0
         if not mots:
             self.lignes_non_lexicalisees[mode] += 1
-            return 0  # -1  a retester
+            return 0  # 0 | -1  a retester
 
         return len(mots) / len(tokens)
 

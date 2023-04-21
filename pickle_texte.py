@@ -5,7 +5,7 @@ import texte
 
 paths = list(Path("Corpus/Mazarinades").glob("*/*.xml"))
 
-collection_textes = [e for e in texte.corpora(paths)]
+collection_textes = [e for e in texte.corpora(paths) if e.plain]
 
 print("save")
 
