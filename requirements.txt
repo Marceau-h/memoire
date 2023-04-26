@@ -2,11 +2,12 @@ jupyter
 
 
 
-xmltodict
-beautifulsoup4
-numpy
-pandas
+xmltodict~=0.13.0
+beautifulsoup4~=4.11.2
+numpy~=1.24.2
+pandas~=1.5.3
 matplotlib
-tqdm
+tqdm~=4.65.0
 scikit-learn
 lxml
+upsetplot
