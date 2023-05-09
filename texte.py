@@ -4,6 +4,7 @@ import json
 import re
 from collections import Counter
 from collections.abc import Sequence, Generator
+from xml.sax.saxutils import unescape
 
 import xmltodict
 from bs4 import BeautifulSoup
@@ -181,6 +182,7 @@ class Texte:
         }
 
         txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
+        txt = [unescape(e) for e in txt if e.strip()]
         txt = [re.split(r"\n|<lb/>|<l>|<\\l>", line) for line in txt]
         txt = [[re.sub(r"<.*?>|  |\t", "", line) for line in page] for page in txt]
         txt = [[line.strip() for line in page if line.strip()] for page in txt]
@@ -240,7 +242,8 @@ class Texte:
         tokens = text.split()
         lexique = self.lexique[mode]
 
-        mots = [mot for mot in tokens if mot in lexique]
+        mots = [mot.lower() for mot in tokens]
+        mots = [mot for mot in mots if mot in lexique]
 
         self.lignes_non_lexicalisees[mode] = 0
         if not mots:
