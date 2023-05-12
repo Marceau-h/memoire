@@ -2,6 +2,7 @@ import contextlib
 import glob
 import json
 import re
+from string import punctuation
 from collections import Counter
 from collections.abc import Sequence, Generator
 from xml.sax.saxutils import unescape
@@ -61,6 +62,8 @@ class Texte:
     crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
     crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"[liIba1]*\s?[liIba1]*")
+    chriffre_romain = re.compile("[IVXLCDM]+\.?")
+
 
     def __init__(self, path: Path or str):
         self.dict_lexicalites = None
@@ -238,12 +241,16 @@ class Texte:
             raise ValueError(f"Empty string, {self.path = }")
         return len(vocabulaire) / len(mots)
 
+    def lexicalise(self, mot: str, lexique: set) -> bool:
+        mot = mot.lower()
+        return mot in lexique or mot.isdigit() or mot in punctuation or re.fullmatch(self.chriffre_romain, mot)
+
     def mesurer_lexicalite(self, text, mode="LGERM"):
         tokens = text.split()
         lexique = self.lexique[mode]
 
         mots = [mot.lower() for mot in tokens]
-        mots = [mot for mot in mots if mot in lexique]
+        mots = [mot for mot in mots if self.lexicalise(mot, lexique)]
 
         self.lignes_non_lexicalisees[mode] = 0
         if not mots:
