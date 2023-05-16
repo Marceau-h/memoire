@@ -11,3 +11,4 @@ print("save")
 
 with open("collection_textes.pickle", mode="wb") as f:
     pickle.dump(collection_textes, f)
+

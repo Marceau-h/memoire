@@ -224,7 +224,7 @@ class Texte:
 
         self.dict_lexicalites = {key: [self.mesurer_lexicalite(page, mode=key) for page in pages] for key in
                                  self.lexique}
-        self.dict_lexicalite = {key: mean(self.dict_lexicalites[key]) for key in self.lexique}
+        self.dict_lexicalite = {key: self.mesurer_lexicalite(plain, mode=key, type_="plain") for key in self.lexique}
 
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
 
@@ -245,16 +245,18 @@ class Texte:
         mot = mot.lower()
         return mot in lexique or mot.isdigit() or mot in punctuation or re.fullmatch(self.chriffre_romain, mot)
 
-    def mesurer_lexicalite(self, text, mode="LGERM"):
+    def mesurer_lexicalite(self, text: str, mode: str = "LGERM", type_: str = "page"):
         tokens = text.split()
         lexique = self.lexique[mode]
 
         mots = [mot.lower() for mot in tokens]
         mots = [mot for mot in mots if self.lexicalise(mot, lexique)]
 
-        self.lignes_non_lexicalisees[mode] = 0
+        if type_ == "page":
+            self.lignes_non_lexicalisees[mode] = 0
         if not mots:
-            self.lignes_non_lexicalisees[mode] += 1
+            if type_ == "page":
+                self.lignes_non_lexicalisees[mode] += .5
             return 0  # 0 | -1  a retester
 
         return len(mots) / len(tokens)
