@@ -59,9 +59,9 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
-    crade = re.compile("[liIba1]*")  # (r"([liIba1]*\s?)+").
-    crade2 = re.compile(r"[liIba1]*\s?[liIba1]*")
+    crade = re.compile("[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
+    crade2 = re.compile(r"[liIba1ſ.,:'’]*\s?[liIba1ſ.,:!;'’]*")
+    toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile("[IVXLCDM]+\.?")
 
 
@@ -187,10 +187,11 @@ class Texte:
         txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
         txt = [unescape(e) for e in txt if e.strip()]
         txt = [re.split(r"\n|<lb/>|<l>|<\\l>", line) for line in txt]
-        txt = [[re.sub(r"<.*?>|  |\t", "", line) for line in page] for page in txt]
+        txt = [[re.sub(r"<.*?>|  |\t|¬", "", line) for line in page] for page in txt]
         txt = [[line.strip() for line in page if line.strip()] for page in txt]
         txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
         txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
+        txt = [[line for line in page if not re.fullmatch(self.toujours_crade, line)] for page in txt]
         # txt = [[line.strip() for line in page if line.strip()] for page in txt]
 
         txt = [page for page in txt if page]
