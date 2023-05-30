@@ -50,8 +50,8 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile(r"^[liIba1ſ.,:!;'’]{3,}")  # (r"([liIba1]*\s?)+").
-    crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*")
+    crade = re.compile(r"^[liIba1ſ.,:!;'’]{3,}$")  # (r"([liIba1]*\s?)+").
+    crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*$")
     toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
@@ -255,7 +255,7 @@ class Texte:
             self.tendance = mean(self.ecarts) > 0
             self.ecart = mean([abs(e) for e in self.ecarts])
             self.onepage = False
-            self.ecart_type = stdev(self.ecarts)
+            self.ecart_type = stdev([abs(e) for e in self.ecarts])
         elif len(self.ecarts) == 1:
             self.ecart = self.ecarts[0]
             if self.n_pages == 1:
