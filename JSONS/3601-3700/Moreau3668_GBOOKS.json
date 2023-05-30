@@ -1,216 +1,72 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "épitaphe",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-02-19",
+        "creation": "1649-04-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-23",
-            "@who": "AB"
+            "@when": "2022-06-09",
+            "@who": "ZC"
         },
-        "titre": "Le siège d'Aubervilliers, en vers burlesques.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-18",
-                "#text": "18 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-27",
-                "#text": "27 avril 2021"
-            }
-        ],
+        "titre": "La seure , l'éclatante et la glorieuse victoire des\n          Bourdelois, malgré la trahison de leurs faux amis par manière d'épitaphe, avec deux\n          épitaphes pour M. de Chambret (Chambaret), leur général.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau3669_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3668_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE",
-            "SIEGE",
-            "D'AVBERVILLIERS",
-            "En Vers Burleſques.",
-            "A PARIS",
-            "M DC. XLIX. <pb n=\"2\"",
-            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k56200126/f3.item.r=bpt6k56200126\"/>"
+            "L seureéctnte etgoreuse vctore des Bourdeos mgrétrhson de eurs fux ms pr mnère déptphe vec deux éptphes pour M de Chmret (Chmret) eur génér Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Seure () éctnte etgoreuse vctore des Bourdeos mgrétrhson de eurs fux ms pr mnère déptphe vec deux éptphes pour M de Chmret (Chmret) eur génér PrsSns Nom649 Lyon Bothèque muncpe3080TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3668 Seure ()éctnte etgoreuse vctore des Rourdeos mgrétrhson de eurs fux ms pr mnère déptphe vec deux éptphes pour M de Chmret (Chmret) eur génér Prs 6495 pges Rdcue ftrs qu nest pourtnt ps commun Tout ce qu en fut retenr cest que Chrret psst pour vor été tué pr un des sens dnsdéroutevers prose éptphe Voyge de Fndre 640"
         ],
         [
-            "LE",
-            "SIEGE",
-            "D'AVBERVILLIERS.",
-            "CE fut le Mercredy dernier,",
-            "Le vingt-quatre de Feurier",
-            "Que nos Bourgeois comme des Droles",
-            "Prirent Fuzils ſur leurs eſpaules,",
-            "Et s'en allerent à Sainct Denys",
-            "Pour ſe charger de pain beniſt;",
-            "Car les pains beniſts l'on appelle",
-            "Tout ce qu'on met dans la Chapelle,",
-            "Et touſiours on appellera",
-            "Tant que la guerre durera.",
-            "Mais par ce que dans leurs potages",
-            "De long-temps n'auoient mis d'herbages:",
-            "Ils aſſiegerent Auberuillers",
-            "Pour en recouurer des milliers.",
-            "Auſſi-toſt qu'ils en furent proches",
-            "Ils en firent tous les approches,",
-            "Mais parce que les ennemis"
+            "LA SEVRE LESCLATANTE ET LA GLOREVSE VCTORE DES BOVRDELOS MALGRE LA TRAHSON de eurs fux ms pr mnere dEptphe Auec deux Eptphes pour Moneur de Chmres eur GenerA PARS M DC XLX"
         ],
         [
-            "4",
-            "Des ſentinelles auoient mis,",
-            "L'on commanda la compagnie",
-            "Des goulus, qui ſans raillerie",
-            "Les inueſtiſſans tout de bon,",
-            "Enleuerent tout le canon.",
-            "Sçauez-vous ce que ie veux dire,",
-            "Ie vous coniure de n'en rire.",
-            "Les canons eſtoient des nauets,",
-            "Et les balles eſtoient des pets.",
-            "Dedans cette grande bataille",
-            "Il n'y eut point de funeraille,",
-            "Car le Canonier mal-adroit",
-            "Ne ſçachant pas tirer bien droit,",
-            "Donnoit tous ſes coups dans la terre,",
-            "(Choſe qui luy eſtoit amere",
-            "Et les balles de ſon canon",
-            "Ne donnoient que dans le talon.",
-            "Des gens ils auoient à combattre",
-            "Qui ne demandoient qu'à ſe battre,",
-            "Et tous les Bourgeois de Paris,",
-            "Qui n'en paroiſſoient point marris:",
-            "Car ils auoient pour Capitaine",
-            "Vn certain nommé la BEDAINE,",
-            "Et pour ſon Lieutenant la DENT,",
-            "Qui ſeul en tuë plus de cinq cent:",
-            "Qui au milieu de la Bataille",
-            "Ne demande que la ripaille.",
-            "Les ennemis pour General",
-            "Auoient vn qui fait bien du mal,",
-            "Mort"
+            "LA SEVRE LESCLATANTE &goreue Vctore des Bourdeos m greétrhon de eurs fux ms pr m nere déptphe eeAs s A svous rretez cy vos ps pous conderer ces tomeux prenez en gr g de que queque compon ne vous ur ? orenne & que vous ne peurez pour ceux à que e Cerendus pus heureux que vous s ont eu e courge de vouor deffendre eu memes & eur Ptre detyrnne qu opprme cet vne go re pres quee s ne nous ç̧uroent donner à peu rer Degrnds deens rendentdgnes &heu cçon que reue entrepre on dot putot enr eur oeur ou meprer eur mheur que non ps de pndre eur perte Ms s ont morts?et vry s ne ont ps es eus qu ont cedé u detn & qu ont uccomhé ous e fx de eurs noes entre pres Leur oeur toutesfos nen etps mons grndA j"
         ],
         [
-            "5",
-            "Mort-non-pas, c'eſt vn meſchant homme,",
-            "Aſſeurément il vient de Rome,",
-            "C'eſtoit le Capitaine OYGNON,",
-            "Qui fait larmoyer tout de bon",
-            "Celuy qui de trop prez l'approche,",
-            "Il ne demande que la broche,",
-            "Que ſang, que meurtre, qu'à piller",
-            "De tout ce que l'on peut piler,",
-            "Il gaigne touſiours la victoire,",
-            "Il eſt amoureux de la gloire:",
-            "Il combattit dernierement",
-            "Des boeufs vn bon gros Regiment,",
-            "Et leur caſſant à tous la teſte,",
-            "Il n'en laiſſa pas vn de reſte:",
-            "Mais il y fut à cette fois",
-            "Bien eſtrillé par nos Bourgeois,",
-            "Qui ioyeux de faire ripaille",
-            "Gagnerent viſte la bataille.",
-            "Si vous voulez ſçauoir comment,",
-            "Attendez encore vn moment,",
-            "Ie m'en vay commencer d'eſcrire,",
-            "Si vous auez loiſir de lire,",
-            "Vous ſçaurez ce qui s'eſt paſsé,",
-            "Et qu'on y vid de treſpaſsé.",
-            "Tous les habitans de la ville",
-            "De l'Auberuilliers ſi gentille,",
-            "Ayant veu leur canon perdu,",
-            "Et qu'ils en auoient dans le cu,",
-            "Se reſoluent à la ſortie",
-            "B"
+            "nous e conderons uec des yeux epurez de fues umeres L vertu qu prend vn utre deen dns ce premer mouuement et teement heureue qu net pus ren cpe dmondrrfecté Que ce deen t vne uë fuore ou contrre nmpor te comme es uccez ne ont ps dnsmn & que es éuenemens ne reeuent pont de on empre eu e mpreon quee cet donnée dvneee m ge et cout ce qufecte & qucome de oye & de oeur Qu doute que e deen des Bourdeos ( qu ont ceux qu repoent heureuemét cy) ne fut vn utre deen? s ont vû̂ qu touteFrnce rmeée pourrune de on tyrns ont vû de rous es outs du mon de venr des ennems conurez pourrune L grn de &popueue ve de Prs s ont entenduë ne crer quemort de ce crue & ne vomr qumprec tons contre ce Brre En ce temp qund s e fuent vns u rete de tnt de genereux ennems eur generoté neut ps touours eté mondre que cee des utres Ms s ont creu qu y uot ez depé́es nuës pour trncher vne eue tete & qunutement es eurs eroent peut etre degnées Que e coup ns doute erot ft unt qus fuent preprez Qu y urot dehonte ̀ rruer trop trt & qu vot meux demeurerà ttendre es euenemens Certes de ft vne nfnté de peronnes onteté urpres u uccez des ffres ms on ne ce fut mgné́"
         ],
         [
-            "6",
-            "Pour chaſſer la trouppe ennemie",
-            "On commanda premierement",
-            "BETTERAVE & ſon Regiment,",
-            "Aprés ſuiuoient dedans la preſſe",
-            "Les CHOVX qui tant ayment la graiſſe,",
-            "Et celuy des TOPINAMBOVRS",
-            "Preſt au premier coup de tambours.",
-            "Pour la trouppe Pariſienne",
-            "Qui vouloit ja faire des ſienne,",
-            "Auoit armé contre l'OYGNON",
-            "ROBERT cruel plus qu'vn lyon;",
-            "Pour le CHOVX, c'eſtoit la BEDAINE,",
-            "Qui eſt vn vaillant Capitaine:",
-            "La MACHOIRE y eſtoit auſſi",
-            "Qui combattit à Iuuiſi,",
-            "Où il gagna cette victoire",
-            "Dont l'on ne perdra la memoire:",
-            "L'on dit que grand furent les chocs,",
-            "Tel n'eſt pas celuy de deux cocq.",
-            "Helas ! que de bleſſez par terre !",
-            "Iamais on ne vit telle guerre:",
-            "Le Pariſien ne manque pas",
-            "De ioüer des mains & des bras;",
-            "Et l'on dit que dans la bataille",
-            "Ils tuerent cette canaille.",
-            "ROBERT d'vn coup d'eſtramaçon",
-            "Coupa la teſte de l'OYGNON,",
-            "Et luy deſpoüilla ſa chemiſe",
-            "Qu'il auoit deſſus ſa chair miſe,"
+            "mgné́ que Ptsfort cut n honteuement uc comeé & que ces fers Htns euent pû ouffrr tnt de trtres es oondure & dpoer à eur yeuxperfdement de eurs ens de eur honneur & de eur ve Vngrnd mheururprs eucoup de fortes mes &ffgé toutes es onnes En ce rencontre toutefos toutes es Prounces ont uuy e trteort de cette heureue ve De touteprts ont tendu e co & es mns Qnuotecoüée oug ms onenreceu vn tout nouueu eucoup pus pent que epremer & e chngement de nôtre fortune cet pour nous ft uec tnt de deuntge que upunt nous etons mheureux uourdhuy nous forhtes u derner degré de notre mheur &tout proches du deepor Les Bourdeos qu nuoent ren dtpendnt es c meurs de toutce Royume qu seœtent tenus com me dns e repect ors que eur cence pouuot etre uthoré́e pr vnueree qund s ont vu tout c me que toureFrnce etot de rchef tuë & uot pus que msgorge ous e ped de on y rn s e ont emeus ̀ ce trte pectce s epe roent peutre que e Regnesot doucr s ont vû̂ rruer tout e rehours de eur epernce Ce fer nm qu e veut eor ur e Trone de uotre Agneu ( e oe dre en ces termes) ne eur pû̂ p rotre en cet Ett ns eur fre horreur Aors cette6 generofe qu cetotretenué ne set pus moderée Ce feu cchéré cesnchots & vouu fre vor à rout e monde qu ruot encores quefâme neut ps eteé pperceuë teement que ceux que nos fureurs nuoent pont nmez ont trouue dns no re trmdté pus de courge qus nuoent ft de coere dns notre courouxe ne veux pont dre ce qus ont ft on o cçt ez s nee ont ps ez ruer s ont rué s fons orts de eur ve s ont tenucmpgne s ont commncé & heureuement pouruuy vn ege cependnt qus etoent es eus en Frnce qu ne fonp ps e qu u ouc & ndorent ps m ge&ee pouuor deh eteLeur deen etot done ns doute des pus u tres Duor ns crnte ny ns ecours entreprs euc fecd qurnuot ps reu ̀ touteFrnce Vn xempe fs du mheurde eurs pres deuot n tmder des courges medocres & es eurs douent uoneteé des pus grds de setre ms ̀mercy dvne mer où cnt de veux ̀ eurs yeux venoent de f re nufrge dns vn temps qu promettot à tous es nochers vuheureux voyge S donc eur deeneté́ utre eur ett et pen de fecté & de gore s ontmorts ms s e ont pour vneonnhe cuece net pont vn ecrme qu es à ft perr Lvertu et ce rmeu dor qu coõdutEnée ux entres du treps ns qu perdtve & cette"
         ],
         [
-            "7",
-            "Et aprés l'auoir bien haché",
-            "Menu comme chair à pâté,",
-            "Le mit dans vne léche-frite",
-            "Sans que le pauuret le merite,",
-            "Et là fit vn certain boüillon",
-            "Qu'on a nommé ſaulce à l'Oygnon:",
-            "Cruauté bien épouuentable !",
-            "Qu'on ne hait pourtant pas à table:",
-            "Car pour vne ſaulce à Robert",
-            "Souuent tout le diſner on perd.",
-            "Par tout où rodoit la MACHOIRE,",
-            "L'on gaignoit touſiours la victoire:",
-            "Car il auoit des Regiments",
-            "De vrais Diables, ſi ie ne ments,",
-            "Qui portoient auec eux la foudre,",
-            "Pour reduire le monde en poudre.",
-            "Aprés la BEDAINE ſuiuoit,",
-            "Lequel iamais ne s'enfuyoit,",
-            "Et qui comme ſa compagnie",
-            "Tuoit de plaiſante manie:",
-            "Enfin par touts les bataillons",
-            "L'on s'en alloit à reculons:",
-            "Les CHOVX & tous les BETTERAVES",
-            "Se retirerent dans des caues,",
-            "Les Bourgeois ne les quittent point,",
-            "Mais touſiours à bruſle-pourpoint,",
-            "Rendez-vous, s'eſcrient-ils enſemble:",
-            "Mais à pas vn d'eux cela ſemble",
-            "Iuſte, ny honeſte, ny beau,"
+            "meme vertu qus ont profeé́eft qus ont exp eé ns perdre e our & qus vuront dnsmemo re des gens de en mgré e treps Nous conderons ce quon ppee eur nfortune uec enue & nous dons pcquez demuton qus ont emeux detre nforrunez Certes de ft vn on heurgrd et vn treor en rreet de ceux que es morts emportent uec eux Les Peupes qu ettoent dnsfoe de eurs deffuncts de or des perreres des ecues ne eur donnoent ren dvn prx ég ux rchees que nos utres Bourdeos ont emportées L terre pourror es otres vntez uec e corps u que ees etoent voüées ms e vry en &r chee qu es ont uus ont des treors ncorru ptes & tout e monde çur touours qus ont morts pourdeffence depuque erté Ceux qu deux me ns unt eux ont eu e on heur & e coutge den fre de memes vuent enco res quee ongue vene fut done ps que nous croyons qusoent morts pus qus ont herters du detn de ceux qu ne peuuent mourt pourquoy doncques es peurerons nous? e te e reds doncencores pnt ne peure pont pour eux regrde u hut de cet Eptphe & tu es verrs procmer vnqueurs Ssont des vnqueurs s ne veuent entendre que chnts de tromphe & ne e cçuroent pre ux pntes ugures Les ouprs ont trop trtes pour eux Fts ton deuor"
         ],
         [
-            "8",
-            "De ſe rendre ainſi comme veau.",
-            "Aprés que la ville fut priſe,",
-            "Ne falut vſer de remiſe,",
-            "Car autrement point de quartiers,",
-            "L'on les auroit mis en quartiers.",
-            "Voilà cette belle bataille",
-            "Qu'on donna deuant la muraille",
-            "De la ville d'Auberuilliers,",
-            "Où l'on prit des choux à milliers,",
-            "Voila cette grande iournée,",
-            "Qui ſera par la renommée",
-            "Miſe deuant tous les combats",
-            "Qu'on a donnés aux Pays-bas.",
-            "FIN."
+            "pnt pue eur vctore & non ps eur mort Le ut de eurs comts tu e ç̧s s ne vouoent queortr deryrnne du Mzrn Les commnde mens dvn v & putot du mondre de tous es hommes etoent nupportes ̀ ces mes Hero ques s cherchoent à̀ ce erer de on ndgne & trop mpe pouuor Hé en nont s ps heureue ment reu? Ms cet en mournt & qumporte ss ont rruez u eu pr vn utte chemn? Nee ps touoursmeme choeeneont s ps touours dns ett qus ont ouhté? Leur vctore meme et dutnt pus utre quee et promptement empor tée s ont ot otenu que deré eur oeur Autrementy uot vne nfnteé de dffcutez à vn cre Les uccez ont douteux quoy que es deens oent onseut fu onempscomttre & peut etre en vn Apres pueurs coups receus & donnez e tyrn pouuot uor e deus eurs epées pou uoent etre encor chngées en chnes & tout eur courge ne es grntot ps en de cptuté s ont grces ̀ Deu exempts de tous es pers s ruent dè où s ont en toute eurnce udce du fer demon qu nous domne encores Ces muus deens ne es ç̧uroent pus ondre s ne ont pus que pour es deteter & non ps pour es reentr Quee pus grnde vctore pouuoen rempor ter ur ennemy de eur erté ffrnche Qund s uroent en me rencontres vncu me de es v ets"
+        ],
+        [
+            "ets comme e eur dEpernon & eucoup du tres donty enquequens dencores enpus grnde etoffe Qund s uroent pé u trnchnt de epé́e deux cens me de es ecues & qu ne eror pus meme en Frnce s nen eroent ps meux ffrnchs qus ont Leur erté courrot en cores peutre pus de rquepourrot retourner dns vn eu oùeten mntenu & reprendre pr vne utre reuouton empre quon uy urot vne fos oteé Comenfortunetee ouuent oü̈é des roes de cette nture Ne ç̧uons nous ps que Mrcus pres uor eté e premer à̀ Rome mend du pn ong temps & fut vne fos contrnt de e noyer uques à̀ouche pour es mes de es ennems & quenfn reuntencor pres tous es mheurs u grnd qu eut ms eté Comen de ãns en grce ont reue nus u grnds & u puns quupruent N on ps vû cent fos des peronnes etre qu rppe ée demort ̀Couronne & etre peu sen fut e euez ur e trone du pus profond du tomeu Sur tout en ce rencontre oumemore des grnds eru ces que Mzrnrendus à cet Ett et touourspreente ̀ ceux qu domnent ou on e conerue pour deonnes & de utes ronserot ̀ crn dre que s setot retré on ne e vouut eot rppeerL erté de ces utres mortset donc de cette f"
+        ],
+        [
+            "9 e çon en meux ferme quee ne e erot ss v uoent encores & vnqueurs En cet ett quee fe cté et comptre à ce qus ont receuë? qu peut de ceux qu retent en Frnce vuns ce dre u tnt heureux que morts s e ont? Hes nous demeurons dnstyrnne qus ont urmontéefut que nous portons e pent ougqus ont ecoü̈eéfut que nous oeons à̀ notre ennemy & quencor nous ons es fers oùnous ft gemr L ve doù ces genereux exprez ont orts nous ttche ̀ ces ox mgré nous Pus qu fut v uree fut erur Encornotre mheur en dereurot oùet S ne pouuns pus ren eperer nous ne deuons pus nen crndre Ms queque grnde que ot notre merepprente nous deuons encor etre en pus mheureux Qund ce crue nous ur ruy tous nos ens on e verr sen prendre mptoyement à nos ves & ynt mmoé tous nos treors̀ on u rce fcrfer encore notre ng àcruuté Ben tot notre nhumn S v fre dutnt de Frn cos utnt dhotes Beot nous ons vor en Frnce es memes procrtons qu enngnterent utrefos Rome & e meme Trumvrt Pourquoy ommes nous demeurez pres nos chers reres? Pourquoy ne peurons nous ps putot pour nous que pour eux S es rmes de compon onerché́es pr vn ojet de mere cet pour nous eus"
+        ],
+        [
+            "quon en dot verer Pour eux on ne peut es con derer dns e trte & e funere ett où nous ommes reduts TouteFrnce dot enr nuoe fde teé qus uy ont temognée Tous es vrs Frnços douent er porter des feurs ur eurs tomes & cou ronner eur eputures de me fetons Nous eur de nons me ortes dhommges & des Pyens es do roent comme des hommes quemort eur urot rendu des Deux protecteurs Pour moy e ne trouue ps qu yt dmpeté à̀ eur crfer des oü̈nges eté de tout temps perms de oü̈er pres eur tre ps ceux qu dns es ctons de eur ve ont eté tous pens de gore & dhonneur Chntons donc ns nous er des chnts de trom phe pour eux encore quon cre pr tout eur déroute Ceux qu ont morts & que nous oüons nont pont eucheté de futet vry que rmée du Pr ement de Bourdeuxeteé me en routeet vry quetrhon dequntteé de ches pyez pour tr hr ceux qus fegnoent de erurrompu ordre des tonset vry que ces perfdes àveue dvne pognée dennems ont fuy comme s uoent proms & qus nont n eté que trop fdees de dns eur nfdeté En fuynt s entrnoent comme pr force ceux qu netoent ps reous de prtr n ces trtres rompoent es rngs & emoentepouuente prmy ceux qu ne cçuoent ce quece tot de frermn"
+        ],
+        [
+            "En vn grnd nomrs de odts es pus vns font ordnrementce qus voyont fre pource que cet vne exercce foe à vn prteuer dentreprendre ren tour eu dns vne déroute qu vot fur sy prepre & net pstemerre de vouor demeurer eu contre rtous es ennems Ben ouuentfute et vn ordre donné pour ce uuer ors que e Gener vot qu et mpoe de fre ferme &ne fut ps douter que es trtres en fuyns ne dent uue qu peut pour rendredéroute pus prompte &vctore des en nems pus eurécEn ce rencontre Moneur de CHAMBRET e ge nereux Gener des vncus ft ce qu pû̂t pour re meder u mheur de on ute prtyne fut ps douter qu ne e met ouuent prmy es fuyrds pour es rppeer Ms quoy ce grnd Cptne ne prot qù des trtres ou qù des trhs qù des gens pyez pourfute ou à̀ dutres qu ronne ment ne pouuoent ps demeurer dns vne déroute  genere &en trmée Ce fut dns cét epouuen tement que moururent ceux que nous oüons & que nous ne peurons ps Ce fut en cette confuon que e vnt & e ge de Chmret fnt on de uor uquenms mnqué pendntve re ceut prmn dvn trtre & des ens propres e coup morte que tous es ennems eneme ncuent oé ms uy donner Vous uez prns y pener ches ecues du mondre"
+        ],
+        [
+            "mondre des hommes temogné ett que vous f ez de ceuy que vous uez ft ner DEpernon nuot ps creu e pouuor vncre en ute guerre Mzrn ny o Cone ne e etoent ps mgnez Cetot vn homme ncorrupte ux promees & qu ç̧uot meprer es mences Cetot vn vry Gener & non ps vn homme à per on prty ns e erur Enfnetot te qufu des trtres poursen deffre prce qu ny uot pont depe rnce de e ggner ny de e vnere Certorus utre fos en Epgne eutvn meme detn espus grnds hommes deterre nen euent ceu venr à out queques perfdes ns e déroerent àterrefuyot comme toy de Chmretperecuton des ryrns deptre Comme toyfot peur & dom mge à ces enems & comme à eoy de ches fm hers uy oterent vne ve qu uot genereuerment deffenduë contre toutes es forces de Empre Ms f comme toyeut vne detnée enfn dé pore commeuot eu u comme toy vne ve en ute goreue comme uy tu ne mours ms dnsmemore deshommes & ect de t hute & de t fume vertu rer du fonds de ton tomeu & ntrurPotertéF N *3 E"
+        ],
+        [
+            "4  opeptepttotteett  Eptphe de M de Chmret Gener des Bourdeos gt du gnnd Chmret e corps tn Pr es cdes vetnde nfmo Cmnenn etos detné euurr purFhnm  nu eenn qrds t omdm  A trerFnm  De us e e deo  Et ps etre dmu  F N"
+        ],
+        [
+            "ep  Autre gt de MZr ennemy ndoute  LQu neut ns vnc que prtrhs uy fdot quequme detet  Qu e eruft du fer ou du poon  An fnft vne veee  Cnmrer reot mont dvne mn nfdee  Et de cs nnems seuront es detns  Toutesfos cet en peu es remords es dechre  Leur crme ̀ tout moment es gene es rtyre  Et os non oge encor cent fryeurs dns eurens  FN"
         ]
     ]
 }

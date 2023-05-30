@@ -1,86 +1,72 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "narration",
+            "pamphlet"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Lusignan, François de (1... -1656 ; marquis)",
-            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
-            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
-            "Villeneuve-sur-Lot (Lot-et-Garonne) – 1652 (siège)"
-        ],
-        "creation": "1652-07-02",
+        "creation": "1652-01-09",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-15",
+            "@when": "2022-10-03",
             "@who": "AB"
         },
-        "titre": "La marche de l'armée de monseigneur le prince de Conty,\n          commandée par le marquis de Lusignan, pour le secours de la ville d'Agénois , assiégée par\n          monsieur le comte d'Arcourt , avec l'ordonnance de mondit seigneur le prince sur les\n          offres faites par les bourgeois et habitants de la ville de Bourdeaux pour le secours de\n          ladite ville.",
+        "titre": "La marche de l'armée de monseigneur le Prince au-devant\n          du cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2026-04-26",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2409_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2408_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LA MARCHE",
-            "DE L’ARMEE",
-            "DE MONSEIGNEVR LE PRINCE",
-            "DE CONTY.",
-            "COMMANDEE PAR LE",
-            "Marquis de Luſignan, pour le ſecours",
-            "de la Ville d’Agennois, aſſiegée par",
-            "Monſieur le Comte d’Arcourt.",
-            "Auec l’Ordonnance de mondit Seigneur le Prince,",
-            "ſur les offres faites par les ourgeos & Habitans de",
-            "la Vile de Bourdeaux, pour le ſecours de ladite Ville.",
-            "A PARIS,",
-            "Iouſte la copie Imprimée à Bourdeaxu.",
-            "Par G. DE LA COVRT, Imprimeur ordinaire du",
-            "Roy, & de ſon Alteſſe.",
-            "M. DC. LII.",
-            "Auec Permißion de ſon Alteſſe Royale."
+            "L mrche de rmée de monsegneur e Prnce evnt du crdn Mzrn Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Mrche () de rmée de monsegneur e Prnce evnt du crdn Mzrn Sns LeuSns Nom652 Lyon Bothèque muncpeRés 30922TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs2408 Mrche () de rmée de monsegneur e Prnceudevnt du crdn Mzrn Sns Leu 652 5 pges Ce pmphet nest ps m ftetest rre Luteur prétend que e Prement vt décrété dccuston Nves qu étt venu à Prs trouver e duc dEeuf deprt du crdn Je ne me souvens ps dvor rencontré eurs cette necdoteprose nrrton pmphet Le conseer Btut est ft prsonner pr e mréch dHocquncourt 659"
         ],
         [
-            "3",
-            "LE PRINCE",
-            "DE CONTY.",
-            "PRINCE DV SANG,",
-            "Pair de France, Gouuerneur & Lieutenant Gene",
-            "ral pour le Poy en ſes Prouinces de Champagne, é&",
-            "Srie, Generaliſſime des Armées de ſa Majeſté.",
-            "ES Bourgeois & Habitans de cette",
-            "Ville, continuans de plus en plus a",
-            "Q nous donner des preuues de leur al.",
-            "ed fection au ſeruice du Roy, de Mou",
-            "ſieur le Prince & le Noſtre, s’eſtans",
-            "offerts de donner des hommes pour ſecourir Vil",
-            "leneufve d’Agennois, aſſiegée par les Trouppes",
-            "de Monſeur le Comte d’Arcourt: NO vS en",
-            "acceptant leur bonne volonte; ORDONNONS,",
-            "à ceux qui voudront bailler des hommes, ou aller",
-            "en perſonne au ſecours de ladite Ville, de donner",
-            "leurs noms au Sieur Marquis de Luſignan, Lieute",
-            "nant General des Armées du Roy en Guyenne,",
-            "A ij"
+            "LA MARCHE DE LARMEE DE MONSEGNEVR LE PRNCE Au deuut du Crdn Mzrn M DC L"
         ],
         [
-            "ſouhs noſtre Authoriteé, pour en tenir eſta: Re",
-            "gler les Compagnies, les conduires & faires mar.",
-            "cher le pluſtoſt qu’il ſe pourra, auec les Troup",
-            "pes reiglées, & Milices que Nous tenons preſtes",
-            "pour cét effect: Enſemble les choſes neceſſaires",
-            "pour Ieurs ſubſiſtances. FAIT Bourdaaux, ce",
-            "deuxiéme iour de Iuillet 1652.",
-            "A. DE BOVRBON.",
-            "Et pus bas:",
-            "Par Monſeigneur,",
-            "MEVRET DELA TOVR."
+            "LA MARCHE DE LARMEE DEMONSEGNEVR LE PRNCE A DEANT D Crdnm MrnL fut en que e Ce fuore es2 deens de Moneur e Prnce puns „que tnds qu comt contre es Enems on vot que es ennems meme ement comttre pour uy S dvn coteé pot àtete de on Armée pour soppoeu retour du Crdn Mzrn ce d e prepre pour rentrer dednsthe Ms prvn etrnge eugemens"
+        ],
+        [
+            "4vent comme ecourr e prty de Mon eur e Prnce en montrnt pr on retourutce de es rmes An ces deux pr ys oppoez conprent ujourdhuy àgore pr des moyens en dfferens & pr des voyes contrres pus qus eruent à meme temps à outenr ou à utfer n nocénce de es deens &onté́ decue Vous ez vor vn dnsmrche de Moneur e Prnce & utre dns cee du Mzrn npprtent quut gtnds courges de ç̧uor trompher des ons u en quevncre es hommes & de chercher es occons de comttre en des temps où̀ es utres trouuent es moyens de e repoer Ben que Hyuer ne ot ps prpre pour f re des Cmpgnesert nentmons à Moneur e Prnce pour fre de grndes ctons Et commerdeur de on cour ge ou e zee qupour e en de Ett empechot de entr es rgueurs du frodexpoe on utre peronne ux ncom modtez de cette on pour ne perdre ps vn moment dns vne guerremportnte &jute & pour fre vor à tout e monde qu çt cuer des Lurers memes prmy es neges & es geées Apres"
+        ],
+        [
+            "rrr r  rApres que Moneur e Prnce eut rem porteé à on deprt deBergere es dun tges que vous uez ç̧eu & qu ont eteé pus grnds quon nuot ps creu dord prce quvne prte des vncus uot prs prry dns Armée de Son Atee perRuere ̀ Teourg e vngt cn quéme du mos pé & de ̀ sdunç juques à S Sunen pour ttrer prpreence Moneur dHrcour u comt ou pour uy en fcteres occons s enuot tnt denue commeuot pué Ms ceux qu uoent témognétnt de feu tnds qu y uot vne Ruere entre Ar mé́e de Son Atee &eur & des des fez à per qu rendoent vne te preque mpoe ouerent eur premere reo uton qund s vrent protre es trou pes & qund s eurent de pus grndes commodtez de comttre Moneur e Prnce pou dord queques Corps de Grde des Ennems qu etoent des pus d uncez fn qus ent duertr eur Gener que rmeée netot ps eogneé́eToutes ces genereues emonces ont eté nutes uques à cette heure & ot que e frod deon ye tent rdeur du eourge des Ennems ot qus n2"
+        ],
+        [
+            "2 s tent ps ez forts mntennt qus ne ont pus ecourus pr es puyes ot enn que Atmée de ot ps en ett de comt tre ̀ cue des truux queeouferts & du deffut de vures quee endure Moneur dHrcourt set retré dns nt en dAngey ent à Moneur e Prn ce cét duntge ez condere duor ft recuervn Ennemy qu uot upr unt mencé́ de e venr ttquer uques dns es retrnchemens Ms tnds que Moneur dHrcour re ecue dvn coté nous uons prs que e Crdn Mzrn sunce de utre On ne doute pus de on retour depus qupru urfrontere & qué́crt à̀ Mon feur e Duc Deœuf pour uy demnder Cone s deuot rcntrer dnsFrnce àtete de cnqou x me hommes qu e vnte duor eüez pour e eruce du Roy Ce Duc enuoyettre qu uot receue deprt du Crdn uecre pone qu uy uot fte à̀ Moneur e Premer Predent du Prement de Prs Les Chmres furent emées ur cette occurrence e vngtéme du mos peé & uunt es concuons des gens du Royut ordonneé que es Deputez qu uoent"
+        ],
+        [
+            "eteé dé j detnez pourCour prtroert ncemment pour er duertr S Mje teé́ du contenu de cette Lertre des ruts qu sugmentent tous es ours du retour du Crdn & des eü̈ees qu e font urrontere pour fcter executon de ce deen Et cependntCour decret dd journement peronne contre e eur de Nues que e Crdn uot enuoyé u Duc Deœuf pour cette negoeton Le rut court dé dns Prs que cé́t etrn ger et entré en Frnce ce qu commnce de cuer detrnges cemuemens Ces nouuees ont trop untgeues àMoneur e Prnce pour me contenter dv ne mpe reton ns vous fre prt des refectons qu ont eté ftes ur ce ujet pus que cet vn entment oommun que e retour du Mzrn etjutfcton de Moneur e Prnce & REFLEXONSApremer6 refexon egrdecondute du Crdn qu pr vn etrn ge ueugement true àutf cton de Moneur e Prnce & qu em"
+        ],
+        [
+            "e uot deen de eourr qundvent põr e perdre Tout e monde ç̧t que Son eeprs es rmes pour em pecher e reour de cét etrnger & que eproteté oemneement quvne des prncpes rons qu ont ogé ̀ cetre guerreeté pont deffendre uecerté cee de touteFrnce contre cét ennemy ommun Cependntes ennems de Mon eur é Prnce ont pué́ hutement que ce netot quvn pretexte uppoé pour éouurr des ronspus odeues quu re te e retour dt Mzrn etot vn dnger mgnre & uque uot eté́ uffm ment pourueu Qu es Decrtons du Roy & es Arrets des Premens uoent ms des otcdes ez puns u ret ement de ce Mntte ns qu fut eon de prendre es rmes pour comtre vn en nemy qu netot pus Et ur ce fonde ment pretendu on decre Moneur e Prnce crmne de eze Mjeté́ & fme outrgeuementpus ee reput ton du monde ms voy preque u me metemps que e Crdn e preente co me pourrefuter cette Decrton & pour fre vor en reuennt dnsFrnce que ce Prfce uot eu ron dpprehender on retour Et"
+        ],
+        [
+            "Eereuenjudhu ete o rmeée pour monttdd pnoene de on retour q et reohuderomprodous es otces qu y oppoe qo rentro e tromphe dns Ets dpne oté nny uehonte Ettetourepres de ougs prepr̀tfs qu uy fu fré pour euer os troupes fnm defune vr à tu mond queeenet psneé oudne msvn deen premedteé tee ment quà̀ upputer es tempse trouue ue tnds quon po dns n Etncquoon reou netot quvn puetexte î preprot ur feoncere es oyens de o retemet & es troupes eceresàeoyge Enmpreopo mqup pfo quenportopuquetou eprons dnonde edeu hrr de dffete fon rerourà̀ vn hre temps one fu ps rntgeu à Mofe opoe de mpeu ruenr uend rnce Ne fu ps queo ueugement yeeté prodgeux s n psuperu cequ uénot rendre à oDenemy u ge pooo oen mpnfnusyn peeueu suctês sopntrce deens Muscet ftee d̀ Deuqu feetode uu doüdutqnmodu pd C"
+        ],
+        [
+            "0 pos ft c P nont pe e mdoye de cdoupeLe L duxéme tefexon regrdecon duoe d Conequ copre uec e M drn pous e fheuenr dns Ernce u prejudce dés Deerons qu ont efte ftes contre uy Qund on me eudro ps es ordr qu uy onc eté enuoye o es peporns quoneeteé expodez ousnom du Roy pour on vdyge come omd deécouuert depus peu Nefte ps vs quec nny f odex à rous es pupdes huro ns form̂ e defnm dereuen ns e conentement deCou? Que pprencequ ye eu des troupes quj eveede rentres eErce àtetd dvne Ameéque s Gonnednouredes R çes fronteno oene ntgnceueo uy pour fcter on rerou ouqu ene r e jodre à ce ouueux en omuetoute efouermeuepr ddre du ConeCendnt Moeur e Poe etue udogné doGor pour es uôs deîqu euot d mueonte dee memd Conec conjuré ào? tot ouours pne que s rhcpu d tesqu e compnfptor ee"
+        ],
+        [
+            "dds e reour du Mzrn qus entrere oen ds ntegences creres ue uy & que egt de cét etrnger en qu fur eogndeFrnce regnot u meu de Cou Sr ce oncre contre ce Pén ce on dt qu cs ont des oupçons nm fondez & on ft per pour vo rm e ong qu prend desen deffendre Et co eet é de utfr puhquemnt des upcçons quoy que egtes pce qus ons ouuent fondez ur des cuese retes & que deurs on oppootthorté du Roy ux deffncos du Prne es penpes qu etoent encores ndffrns etoent en pene de e neoudre uques à ce quon u pprochere Crdn qu vent decouurruy meme es uppotons du Cone & jutfer pr oms retour es defnees de Monfeure Prne Cr er pruer euprotmnn ntqe osoupçons ont eteé en fodes & es pnsospgtues & qujute ron s e deffendre & de e pndre Tout Frnce t ujourdy perudé́e des pfondu Cone & des ntegen ces ecsetes qu uot uoc e Cedn voyue qees vont e produre ueo tt dect Ders onvot dns cette oco"
+        ],
+        [
+            "4 on que es Mntres uent de uthe rté du Roy comme Moneur e Prnce uot egue dns es pntes prce qus e eruent du nom de S Mjeté pour rp peer ceét Etrnger contre een de E t Netce psfor pr ces ves hus e repect & oeynce que es peu pes douenc à ce nom cré &ctre u thorté́ Souuerne? Et pus que ce meme Cone e fert égement de ce nom & de cette uthorté́ Roye & pour condm ner Moneur e Prnce & pour rppeer e Mzrn commeet ps receue qunddout e coupene dot ps non pus etre qundcondmne nno cent Cet n que es Cones où es p ons predent e detruent eu me meet n que e Cdh vene def fre ujourdhuy p or retour ce qu ? uot eté ft pour on retour meme Et ce quprot encor de pus etrnge dnscodutte du Cone cet que queque vns des Mntres qu ont encor à Prs comme entrutres Moneur e Codju teur prex uor ttcté puquementue0 e Crdt oht euhrdee de fre eou2 rr e rut que Moneur e Prnoe otot dntegence uec cét Etrnger pour e fre"
+        ],
+        [
+            "fré reuenet vry que ce retour etduntgeux à Moneur e Prnce qu eme que o ennemy ot dntegence uec uy pour fuorercue Ms eue nement fr yor fueté́ de cette nuen tonEnnroeéme refexon quon ft ur es ffre preentes regrdecondure du Prement de Prs qu pres uor en regtreéDecrton contre Mouur e Prnce seme cone e Crdn & prononce desArrtets pmr mpecer o Lretour Enquoy certnemetemhe cme deuoüer ce qu efté ft con trednnocene de vn pr e qu fc u jourdpy contre e crmesde nne Cr re qu soée & es Arrets emdnt puquà oteFrncevertédenetrs qumne peu pds douer d dogeqdnd nu not qe cét Ange ee pftedyppoerdeS fnme odese oL peut on due que ce nt tomods tcpftfps dgdfs feu eernoe dusdeeonsfd teîncens pusquschfes enp2 fsnefdegsx Opdurds mnsf doer q set hpoA p dféà verfer cette Dttoro dcnuqnê"
+        ],
+        [
+            "4 ce dontnnce & es eruces rendus à Ett mertoent en quon upendt en cor ce coup & dont enfn euenement montre crement nnocence Ms ur tout e zee que ce Prement teé mogne pour empecher e retour du M 2rn utfe ceuy de Moneur e Prnce Ces deux Punces conprep eneme contre cét Eunemy cemmun ees ont vn meme deen & ce que vn ft pr es r es utre e pouru pr es Arrets Com ment ee quees Arrets de v peuuent condmner es Armes de utre ? Certese Prement de Prs veut effccement empecher e cenour du Mzrnne peut ps condner Moneur e Prnce qusop poe à ce deen Ouo Pueunens cou dmne Monfeur e Prnceur depe ne à peruderFrnoe qu veüde fnce rementsoppoer u Mzrnout meux crore que ce premer entment qu vert féDecrtoh conse ce Prnceeté́ vneurpn que es po tereées de quequsvs ont fu àd ncerté des u esu eu qe ces derners Areets ot des effets dvne dutce puce & re & du ee queeés Agute Penenstouours notné pour e en de Ett"
         ]
     ]
 }

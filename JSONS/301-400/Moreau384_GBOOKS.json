@@ -1,199 +1,76 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "narration",
-        "subject": null,
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-07-30",
+        "creation": "1649-04-16",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-14",
+            "@when": "2022-04-01",
             "@who": "AB"
         },
-        "titre": "L'arrivée de l’armée de l’archiduc Léopold à La\n          Ferté-Milon, et la honteuse fuite du maréchal de Turenne; ensemble les particularités de\n          ce qui s’est passé au combat de messieurs les ducs de Beaufort et de Nemours.",
+        "titre": "Arrhes de la paix universelle sur les cérémonies et\n          allégresses, faites à Rome pour le roi très-chrétien Louis XIV, dit Dieudonné, présentés à\n          la reine régenté à Saint-Germain-en-Laye.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-20",
-            "#text": "26 avril 2021"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau385_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau384_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L’ARRIVEE",
-            "DE LARMEE",
-            "DE L’ARCHIDVC",
-            "LEOPOLD.",
-            "A la Ferté Milon",
-            "Et la honteuſe Fuitte du Mareſschal de Turenne.",
-            "Enſemble les Paritcularitez de ce qui s'eſt paſſé au Com",
-            "bat d'entre Meßieurs les DUcs de Beaufort,",
-            "& de Neumours.",
-            "A PARIS,",
-            "Chez LOVYS LE GAILLARD, derriere le",
-            "Puits Certain. M. DC. LII."
+            "Arrhes depx unversee sur es cérémones et égresses ftes à Rome pour e ro trèhréten Lous XV dt Deudonné présentés àrene régenté à Snermye Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202Jcques Lé Arrhes depx unversee sur es cérémones et égresses ftes à Rome pour e ro trèhréten Lous XV dt Deudonné présentés àrene régenté à Snermye Prs Jen Pétrn Ncos Jcqurd 649 dté du 7 vr 649 Lyon Bothèque muncpe3098TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs384 Arrhes depx unversee sur es cérémones et ô 77 égresses ftes à Rome pour e ro trèhréten Lous XTV dt Deudonnéprésentés àrene r genté à Snermye Prs J Pétrn et Nc Jcqurd 649 6 pges L permsson dmprmä‘ vt été donnée àdte du 7 vr 649 pr e eutennt cv dAurye On t àfn depècetros qutrns fort rdcues surpx génére àreneu chnceer et à Mdemosee Luteur est un certn Jcques Lé dontexste une pèce ntéreure nttuéeLe fdée domestque à Mgr e duc dO énsetcvers proseArrvée du prnce de Condé à Prs 64"
         ],
         [
-            "3",
-            "L'ARRIVEE DE L'ARMEE DE",
-            "l’Archidue Laopold la Ferteé Miln.",
-            "LE Mareſchal de Turenne nayant pû̂",
-            "s’oppoſer à la marche des Trouppes de",
-            "l’Arehidue Leopold, au paſſage de la rRa",
-            "uiere d’Aiſne, ſe reſolut, ne ſe voyant pas aſſez",
-            "fort de ſe retirer, où̀ à ſa retraitte l eſt deneuré",
-            "quelques Gens de ſon arriere garde, qui furent",
-            "pourſuiuis par des volontaires dettachez de l’ar",
-            "mée ſpagnole, & ſe rendis deux iours apres",
-            "auee ſon Armede à Ville-neufue ſous Damp",
-            "aarrin.- Car les Eſpagnols ayant paſſé le. du",
-            "mois de luillet, aupres du Bac de ladite Riuiere,",
-            "ſaz deux ponts de atteaux, ſe vinrent camper à",
-            "Spigaul ptoche le eamp du Ducde Lorraine,",
-            "qui eſtoit aco à Condé & à Vifletcouri &apres",
-            "ue ce Duc eut conferé auec le Comte de F̈en",
-            "ſaldaigne, ils ſe ioignirent enſemble, oules Lor",
-            "rains ayant pris la gauche, toutes ces Trouppes",
-            "mareherét enſemble par la montaigne de Rouſ.",
-            "ſi, à Fiſmes& Bazoche, où elles arriuerent le 9.",
-            "à deſſein, de continuet leur route par la Ferté",
-            "Milon, où ils arriuerent le deuxiéme d’Aouſt.",
-            "Le ving-ſuléme, Monſeigneur le Due dor"
+            "ARRHES DE PAX VNVERSELLE SVR LES CEREMONES ET ALLEGRESSES Ftes à Rome POVR LE ROY TREHRESTEN LOVS XV dt Deonné PRESENTEZ A LA RENE REGENTE à nct Germn en LyeA PARS ChezPETRNAL & NCOLAS ACQUARD ruë Chrtrère prés e Putertn u Tres vert M DC XLXAVEC PERMSSON"
         ],
         [
-            "leans,s’eſtat rendu u Parlementauec le Prince",
-            "de Conde: Son A. Royale diſt, qu’elle acceptoi",
-            "rres-volontiers la charge de Lieutenant General",
-            "du Roy, qu’elle auoit eſteé́ priée de prendre par",
-            "Arreſt du o. du meſme mois; mais, comme elle",
-            "deſiroit que ſa conduitte fuſt connuë de tout le",
-            "monde, qu’elle pretendoit auoir vn Conſeil e",
-            "ſtably par la Compagnie: Surquoy le Parlamet,",
-            "toutes les Chambres aſſenblées, ayant deliberée.",
-            "apres que le ſieur Bignon l vn des Avocats Ge:",
-            "neraux, eut parle à ſou ordinaire, c’eſt à̀ dire auſ",
-            "ſi éloquement que judicieulement, il fut arreſle,",
-            "que Sadite Alteſſe ſeroit :emerciée de ce qu’elle,",
-            "acceptoit cette charge, & du zele qu’ell; teſmoi",
-            "gnoit par là̀ pour la conſeruation de la Monar",
-            "chie & le bien de l’Eſlat, & que ſadite Alteſſe",
-            "compoſeroit ſon Conſeil de teſles persones qu’il:",
-            "luy plairoit; meſmes pourroit en donner auis au",
-            "Chancelier de France pour y venir prendre a",
-            "place, & y tenir le rang & la ſeaace que ſa char",
-            "ge luy donne, (aà̀ condition qu’il ne s’y traiteroit",
-            "rien qui ne fuſt à̀ la conſeruaon du Roy, de lE.",
-            "ſtat & de la Monarchie.)",
-            "Le vingt-aeuf Sadite A, R. & le Pr. de Coadé",
-            "aſlerent ſur less. heures du natinen la Chambre",
-            "des Compres: où adite Alteſſe diſt, Qu’ayane",
-            "pris la qualte de Lieutenant ſeneral du Roy,",
-            "(qui’elle n’a acceptée que pout paunir plas",
-            "proptement"
+            "3 A LA REYNE REGENTEp M Le Ce vous ynt dé er u choe pour heureue &poue dun Monnque donthute pere dot erv de modee ̀ tous es oys derenreouu pt pr e Don don oe unt peur que mtueement rencontré n vo A j"
         ],
         [
-            "promptemeût aà la paix & la qulttera des le mo",
-            "ment que le CardnalMazarin ſera ſorty de Fran",
-            "ce, elle en eſtoit venuë donner auls à la Chambre,",
-            "& par meſme moyen luy demander qu’elle noim",
-            "maſt quelquesvns de ſon Corps pour entrer",
-            "dans le Conſeil de Sadite Aleſſe: dequoy la Ch",
-            "bre le remercia, & luy ayant donné le chois de",
-            "Prendre tolles perſonnes que bon luy ſembleroit,",
-            "Sadite Alteſſe choiſit les Preſidens Aubry & Lar",
-            "cher: comme lle auoit fait du Parlement, les Pre",
-            "idens de Neſmond & de Longueil: Au ſortir de",
-            "laà, les Princes furent auſſi enla Cour des Aydes,",
-            "ouù la melme choſe fut reſoluë, Sadire Alteſſe ayant",
-            "nommé les Preſidens Dorieux & le Noir pour aſ",
-            "ſſter pareillement à ſon Conſeil.",
-            "Le meſme iour, il y eut Aſſamblée Genecrale en",
-            "l’Hoſtel de ville, où̀ les Princes ſe trouuerent. Il y",
-            "fut reſolu entr aurres e hoſes, qu’il ſeroit fait vne",
-            "leuée de ooo mille liures & qu’à̀ cete fin, chaque",
-            "porte cochere de cette vlle & faux-bourgs, paye",
-            "roit 75 liures les portes mediocres & boutiques",
-            "es Marchands, chacune jo liures & lespetites,5.",
-            "liures: & qu’inceſſamment ſeroit procede à, l’ou",
-            "verture desBureaux, tant des entrees que des groſ",
-            "ſes Fermes.",
-            "Le trentieſme. ſur les ſept heures du ſoir; le Duc",
-            "de Beaufort eſtant atriué à la porte du pare de",
-            "lHoſtel de Veadoſme, accompagne du Cote de"
+            "4 creées peronnes remer és curs de tous es peupes de ce Goreux Empre que votre Mjeteé regt mntennt vne forte epernce quenfn e en de Europe ( prccuerement de cette tnt redouté́e Monrche)nous donnerot de votre en tout Roy vn eu Duphn & vn Roy tout eneme du Regne duque toutes es Ntons ées des orges dvne trop ongue Guerre dovent pour tous jours eperer e cme dePx Ce qu m ogé (MAD AME en que e mondre des ujets de cét Agon des Ce urs D E DEV DONNE à̀ferveur de vos ntes préres putot qù mportunte de nos Vœux de mn der vn recueu verte des Grces ren dues ̀ Deu horsFrnce meme ̀ nouvee de cét heureux & Roy Ger me du pus jute Roy des Lys Fs né de Ee En quoy votre Mjeté (M ADAME ggréer es vryes mr ques du Vf reentment des Genereux Frnços pr toutes es mgnfcences qus ont ft ecter dns Rome Souve rne de touteChretenteé pour séjouyr ̀ orent de eur pett ms desj Trom phnt Domnteur receu qu er en receu"
         ],
         [
-            "5",
-            "Pury Roſtain ſon couſin & des ſeurs Breiſſer",
-            "d’Hericourt & de Ris les Gentils-h mmes, pour",
-            "s’y promener: lors qu’il frapoit à la porte pour y",
-            "faire entrer les Dames de Canaples & de Cauois",
-            "qui s’y rencontrerent auec d’autres pour y pren",
-            "dre l’air, le Duc de Nemours y ſuuint, ſuiui des",
-            "ſieurs de Vllars, la Ch ſe, d’Veche & Campan,",
-            "auſſ ſes Gentils-hommes: & ayans pris querelle",
-            "enſemble, le Duc de Beaufort fut obligé de ſe ſai",
-            "ſir d’vn piſtolet & d’vne eſpée qui ſe trouuerent",
-            "entre les mains de ceux qui accompagnoient le",
-            "Duc de Nemours: lequel avec pareilles armes, s’e",
-            "ſtant approché, andis que ces Gentils hommes ſe",
-            "battoient avec leurs eſpees ſeulemét: quoy qu’in",
-            "égales & telles qu’elle ſe trouuerent à leues colle,",
-            "& auec tout le zele & le courage que l’on pouuoit",
-            "attendre d’eux, ces Princes tirerent preſque e",
-            "meſme remps leurs piſtolets, celuy du Duc de Ne",
-            "mours, qui auoit eſté́ tiŕ le premier, n’ayant heu",
-            "reuſement qu’efleuré le bout des cheueux du",
-            "Duc de Beaufort à vn doigt de l’oreille gauche,",
-            "mais celuy dudit Duc de Beaufort furt plus ma",
-            "heureux, ayãt porteé du meſme coſleé, deux doigts",
-            "au deſſous du tetin du Duc de Nemours: qui ne",
-            "laiſſa pas neantmoins d’alonger quelques coups",
-            "d’eſpées, que le Duc de Beaufort ſe contenta de",
-            "parer: Mais le Duec de Nemours eſlant preſque",
-            "auſſitoſt tombé ſur ſes genoux, le Duc de Beau"
+            "receu de tous ur tout ss pprenent que votre onteé(MADAME) ye d gné ggréer pour renouveer des Vœux u Ce de vouor enr e Roy conerver votre Mjeté & fre fructfer es ons de votre Augute Regence ous quee rep re pettement De votre Augute Mjete MADAMELe reme ujet & tres oenmt eruteurC QE3 LBB"
         ],
         [
-            "3 y",
-            "ot, a pres auoir deſatme quelques-vns des do",
-            "meſtiques du’Duc de Nemours, qui uenoient au",
-            "ſecours de leurs Maitre, les mena pous l’aſſiſter,",
-            "&tous enſemble: touchez d’vne meſde ouler,",
-            "lemirent dans ſon carroſe & l’emmenerent, quel:",
-            "que inſtance qu’euſt faite le Duc de Beaufort pour",
-            "le faire demeurer à l’Hoſtel de Vendoſme, mais il",
-            "mourut enchemin. Le Duc de Beaufort ſe retra",
-            "en ſuitte, auec vne douleur incroyabe de la perte",
-            "dece Prince qui eſtoit ſon beau-frere & qu’il ay.",
-            "noit vniquement & du malheur où il s’eſtoit",
-            "uouué engagé mal gré luy.",
-            "lLe 3. le Comte de Rieux, ſecond fils du Duc",
-            "d’Elbœuf; fut mis en la Baſtlleipar ordre de Son",
-            "Aleſſe Royale pour, auoir dans le Palais d’Or",
-            "leans, ofenſeé le Prince de Condé: qui neantmoins",
-            "auaille puiſſamment pour ſa libert́.",
-            "L’armée des Princes, qui eſtoit le a decampée",
-            "du faux bourg S. Victor, s’alla poſter à Iuviſi, où",
-            "lle demeura iuſqu’auditiour ; qua’yant eu’auis",
-            "que les trouppes du Mareſchal de Turenne fai",
-            "loient mine de vouloir paſſer les riuie re à Laigny",
-            "& a Corbeil, cette armée ſe vint mettre en barail",
-            "le audeſſus des Chartreux où apres auoir demeureé́",
-            "vnheure, elle prit ſa marche versS Clou: & eſt",
-            "maintenant campee le longde la riuiere iuſqus à",
-            "Surenne."
+            "SAe hA eeeé ese Aueee ete epSo eeAteet AV ROY r DSONNETer Monrque ò e Cems tourepenePour en fre vn Cheœuvre ccompy de ot pont Ftes que es ders me nmous deçovent pont Empnt notre tenteen queenne L Px durnt vos ours nous et toute eertne Puque votre oeur ̀ nos vœox e cojot Et que on vod enfn que e Ce nous rejont Apres tos es seuys dvne Guerre shnmse Dé es Ntons qu ont en on dcy Pr eur oye & eurs crs nous otent d oe7 En nous fnt or vne onne epernce Qe qunmd vos regnerez o deus nous es prs ront eu prmy toureFrnce Et quon ny verr pusGuerre nmy es coupsr"
         ],
         [
-            "8",
-            "Le ptemier de ee mois, le cotps du defunt Due",
-            "de Nemours fut expoſé à face decouuerte en ſon",
-            "Hoſtel, auec coutes les ceremonies funebte",
-            "deuësà ſa Maiſon; à ſes Alliances & au merite de",
-            "ſa perſonne.",
-            "FIN."
+            "7ud & & te e e ege38e reeeee eret? ARRH ESr DE PAX VNVERSELLE SVR LES CEREMONESET ALLEGRESSES Fctes à Rome POVR LE ROY TREHRESTEN Louys XV dt Deonné é O mA4 r pr es ctons de grces deues & rendues à̀ Deu pour vn Don préceux àFrnce à̀ vnuereejoe de ude puenrs ru que e E uure nneo on emogne vou r or contruer ( come s ont fs pr cueremenmt ds Rome) Vous çurez queMee y fut chnté́e vec oennté e Dmnche jour dePre entton de trete & crée Verge dns Ege Ntone de Snt Louys pr qutre Chœurs demeéure muque qu e peut chor ou terent es Segneurs Crdnux Bentvoe & Anthne neveus du Ppe Vr V& protecteur de Frnce uec Monfeur e Mrech dEtrée pour ors Am eur de Frnce en Cour de Romepus de vngt Pre B j"
+        ],
+        [
+            "ts quntt́ de Noee Frnçoe & vn nomre n fny de peupe juques hors Ege en quee dre Mee de Ber &e eonFete du jour fût cee re pr vn Eveque & u eu de Proe on chnt Ode cy jonte sops drQ T L y N DE PHNOe A T O ODE JON mrsmdefctus vndEcce ed ummo rutns Oympo Numns dono meors extDephn n urs At nunc tndem ooes cu Rego urgs totes pett Que uonotrs m dur pet Fnus ortu"
+        ],
+        [
+            "9 Quæ fces e furque Mrts Demt n feem gdum recurvnsntegr n metos recrere poe Pce coonos V Exs totum popuus per orem Letus & Fetos ceerns honores Frnce nto mnus profus L funds V Noque Murum Chorus hunc umnum Omnum vots petmus qus Vndcr vrtus pntérque trpeGrt poçt V Ego qu nos nopn ugunr Cud ererms ceeremus Hymns Omn futo Gents HoreMetr dcntesV n Annrtu Lodoc & Anne Nomen & tn puer onoro ec"
+        ],
+        [
+            "e0 Peronent cntu ug ce pnd Antr̃que Cyrrhæ 7 V2 Seu qus tru tudum Mnervæ Sve Beonæ medtetur rtem pe pr Mtr mque ptn unget vtrûmque A LOfferte deMee e chnterent u queques Aores ounoe dude rnue Dups Mee fne e pme Exdt pus uec es qutre chœurs de Muque e Cntque e Dem durnt eque furent condutes trentut fes en memore des 38& n neées quvot e Roys eque es preéceédoyent e Crdn Anthone à douze ou qunze dequeesdonn cent e cus pour entrer en Regon & ux utres cnqunte pour e mrer Apres cette ceremone fte vn ere Augutn ft vne treocte Oron àounge du Roy deFrn ce & dudt eur Crdn Anthone Fge etot prée des pus rches tperes de on ps Le or fut ft vn feu drtfce deunt cee Ege où etot repreenteé vn nuge upres duque etot vn Cere re qu repreentotguerrefmne &pete q jett des mers de petrts & fuees conre dre nuequee en ft recproquement utnt pusnuë e épr en deux & prut vn Soe qu fut en vn qur heure en feu ns e conommer Et deus e port deEge vne Lune qu ft e meme effetupres de dte nue etot genoüée vne Reyne qu repreentotFgnce uec certe ncrpton Donec e ns mt optt rég&vAnge upendu en r uec ne trompette &cettemcrpn uts vt pfm foret"
+        ],
+        [
+            "Le port de Ege etot rempy es Aemes du ep du Roy du prnce Duphn & dudt feur Crdn An thonegrnde quvne ur dc Lys ou vne mouche eue uot x peds de hut e tout reuetu de cn qunt & y uot vne nfnt́ de mpes ttchêes deus qu furent umées tros ors durnt teement que on peut eurer qud y uot tnt en mpes quen nternes pus de cnqmeres qu rendoent vn ect mer ueeux & donnoent de dmrton à tout e peu pe Suut vn utre feu compoé dvne qunté de fuces que nous ppeons cy gyrndequ ft vn effet non gue res mons gree que e feu qu e ft u chteu ncét Ange u our de nct erreLundy Monegneur du Nozet Audteur de Rote & Recteur de ge nt Louys en ft u tn utre urruere où etot repreenté dvn coté vn Hercue & dc utre vn Aths & u meu vn D uphn qu reu t fort hen Le Mrdy Monegneur Amdeur en ftvn utre urrucre où̀ etot repreenté vu gros & punt g ou rmé de toutes peces àpoupedu que prut to jours rdent & ns e cononnrevm uphn & des tros mts ortt vnegrnde qutté de fuoesque tout e monde en demeur tout etonn Le Mercredy edt er Cdn Anthoe ne vou nt ceder ux utres en pendeur non pus qundgnmte en ft fre vn utte dnsgrnde pce qu et entren Ps & e Ĉuent des Cuens equhs veprefnto heree etenduë ur vn rocher tennt vn ure entre ouere rempyde coueyres& erpe?uy een vntntmrreffrye ptrgueedrtfce dotetot cormpé érs qeVrefe fut nonsmée e rocher e epr & prur vne coomne couronnée d quee souurnt ft prtre s Armes du Rodu touts"
+        ],
+        [
+            "2 en feu epce de pus dvn qurt dheure ns e con ommer eud es Regeux Mnmes deTte voys que e rdn uot roe e or herees ouuer uurt ut fonmrche & enfre ruere peres & de ftnrentdt der fr e por de eur Ege vn ne ue pr cone quent vn due ̀ es ped e nesdepvnut ouours enuronne de uuees e de Spresuos ft eucoupde ut jetn eu& fmnnme pr es y u s cormes & de toutes prts fut enfn ru é conomme & reduten cendres enefne our de eudy Monfeur quefé Aoent de Frnee en fe vn uutre dnspce de Trnte u re pret ntot es rmes du oy enuronoeesde deP pns & jer grde quntre drtfce qu reut for ende our de n& Andrefut ft vne poceon pou ernporet ds eques de ne Yues que on gudo depus quequeemp nouys dep dre feouede ǹ Loovsne& Yues ou terent moodt e neutAmodeur & qunte de Noee Frncoes orns touvn meu de cre nthe ̀ ounterune Femt toutos es es utes vetuës de eu uquees Monegnour e Crdn uot donneédoteue de crre proeon vn Pere con preeh eres doeemet ̀ounge de ne Yes duRoy & de Fnee & e or furent ftsdes feux drtfcede unt fdte Ege qu repreentoent vn Aths por et te goe do terre ur eque etoent es Armes de FrneeL7 e mncheo e Mrdy mondr egneur Am deur ft frede coures de cheux tout e ongderuë oudemurot ouyuopyx d ve pcce dor & de oye Le Lundyft court es rques urruere & ecore"
+        ],
+        [
+            "3 corc oye oùdonnme p x quà̀coure u dte Tous es qutre premers ors es Ps de mondt egneur mdeur & dudc ur Crdn ceuy du Duc de Prme & de Forence memes de pueurs utres egneurs de Rome furent enuronnez de m eux de cre nche & es utres prtcuers e con tenterent de metre des nternes ux fenetres & de f re des feux deunt eurs portes Ledt egneur Crdn Anthone prut en ce pus pendde quucun utre y ynt à entour du en pus de tros cens de tes fm eux de qutre à x ures pece & u deous degrn dportey uot des chndeers compoez en forme de feurs de ys & e our qu ft on feu es huts on noent u deus de dte porte es trompetes de utre coté reonnoent & pus dvne dousne de tmours toent dnspce Apres e feuft courrgue àunere des fm cux où Moneur e Mrqus de Lnty ft des meux ̀ ue decoureft vn umptueux nquet à mondtegneur Amdeur à Mdmefemme à Mde moeefe & meme à quntté́ de noeey uot ces ours à des fontnes de vn nc & de crer tnt chez mondt egneur Amfdeur quen pueurs eux des FrnçosLes Regeux de nct Anthone n eu de fre des feux qu ne eroent veus que de fort peu de monde etns en eu ez écrte dtruerentx m pns denuro tros ncspece à tous es puures qu sy trou uerent Enfn pt toutes ces ees & rres nuentons prue comme à enuepeue egree des notres à que e e jogntmgnfcence des Prnces du nt Sege puquc Cetot à houneur denfnce du Fs né de"
+        ],
+        [
+            "4 Ege meme queques Prnces eftrngers t́mogne rent eur conjouynce voyns ce gné et du Ce vere ur e pus fornt Ett de Europe con trntsddmrerFrnce qus redoutent comme pr tcuerement œdes de Deu pourpcté́ de es Mo nrques vrs protecteurs degore de on Snct Oeteeoe CCE E Z 2 f"
+        ],
+        [
+            "53 ptuteettddt ee ede ee e ee oe ere eppe erp e e epsrspe ep qpu rT rrH ZV LD L L A LA REYNE REGENTE POVR LA PAX VNVERSELLE 8VADRA Res pe n por veeHM LL Roy tren Mere dn Roy Duphn né pourMonrche Bmenez nous ce Roy u en dePtre ee t un peu n or nr de A"
+        ],
+        [
+            "A d e u tepoeeue ve V eee e ee e A oSeE LE CHANCELLER rA D N N de Thems & d dermer des E Oou e ete de peu done pon e mpr Sde t pout fon peupe ceee P qu eoprere redut comme vn Cert ux oys A LV T MADEMOSELLE QVADRANe Ce doucy pr es Vœux de tnt des S vour depoyerGe & ou fre vn oror ren de perrere que fous e jeue ot e en d u nu de r pmos ds on Fue 2 Seue?Perms fre mprmer ce Trté nttué Arrhes de Px Vveee &e rs xV Auvn os Sgné DABRA"
         ]
     ]
 }

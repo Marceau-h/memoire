@@ -1,186 +1,83 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
+        "form": "vers",
+        "genre": [
+            "lettre",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": [
+            "Scarron",
+            null
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-26",
+        "creation": "1652-10-21",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-15",
+            "@when": "2022-09-08",
             "@who": "AB"
         },
-        "titre": "L'équipage nécessaire pour aller à la chasse aux larrons\n          de ce royaume.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Épitre chagrine",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-15",
+                "#text": "15 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-08",
+                "#text": "8 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau1271_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1268_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L'EQVIPAGE",
-            "NECESSAIRE POVR",
-            "ALLER A LA CHASSE",
-            "AVX",
-            "LARRONS",
-            "DE CE ROYAVME.",
-            "A PARIS",
-            "Chez NICOLAS DE LA VIGNE",
-            "prés Sainct Hilaire.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
+            "Éptre chgrne Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté5 févrer 202 8 vr 202Pu Scrron Éptre chgrne Sns LeuSns Nom652 Prs Bothèque ntone de Frnce Déprtement ttérture et rt Y75TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs268 Éptre chgrne (S652) 3 pges non chffrées Édton orgne et rre dune des meeures pèces de vers de Scrron Scrron écrt des ords deLore peutre de Tours à son m Rosteu« Toï qu de tous temps s été Le fdèe dépostre De m mondre pette ffre… Depus que je sus venu ore Des eux du eu feuve de Lore Et que de crnte dun ocus Et dedzette décusP qutté Prs sns trompette fut porter dns Amérque Un chgrn s méncoque Et vor s sous un utre ce Son snthe devendr me »règne dns cete pèce un ton de méncoe quon nttend guère de Scrron quoque e uresque ny perde ps tous ses drots Le poëte se pnt demuvse fortune des poëtes« De Cornee es trgédes S mgnfques s hrdes De jour en jour ssent de prx Luteur du fmeux Ærtmène (Scudéry) À perdu son gouvernement……Notre m Trstngentïhomme Autnt quun dctteur de RomeAtend encor quefortune Contre u nt pont de rncune » Scrron se pnt de ce que dAorrétes gens ne u rendent ps rgent qu eur prétt Je cros que ce ft est ssez nouveu En 639ft prître une Seconde épêtre chgrne qu ne vut pspremère Nese ps Épître chgrne que My sgne sous e ttre nexct deVoyge du seur Scrron en Amérque pge 265 de son deuxème vovers ettre uresque strque Scrron Entrée du ro dns Prs 65"
         ],
         [
-            "Ee",
-            "ITBA",
-            "4",
-            "LV A I L",
-            "NECESSAIRE POVR",
-            "ALLER A LA CHASSE",
-            "AV T",
-            "AVX LARRONS",
-            "AE",
-            "DE CE ROYAVME.",
-            "J EST vne choſe tres-certaine,",
-            "Ià &peſonnen’en peutdoutet que",
-            "la France a touſiours eu la repu",
-            "ao de ſire le pu lheure, li plu,",
-            "euriſſant, & le plus riche de tous les",
-            "Royaumes dé ’Europe: Ses ennemis meſ",
-            "mes l’aduouentdiſans, que ſon Roy eſt",
-            "n riche Bdrgor, dont los moutons & les",
-            "6 3"
+            "EPSTRE CHAGRNE ROteu que etme & que ymePour e mons utnt que moy memeAmy oy & genereuxGnt er moureuxFnt touours queque mtreeQu netnt pont Oure ou TygreeAyme meux guerr des eezQue den fre des trespezDepus que e us venu oreDes eux du eu feuue de LoreEt que de crnte dvn ocusEt dedzette decusQu cue toute utre dzettey qutté Prs ns trompetteLe m de ton éognementM rendu chgrn dementMon humeur ds enjoüéeDe tous & pr tout tnt oüéeA"
         ],
         [
-            "Q",
-            "4",
-            "brebis portent la toiſon d’Or. Mais quel",
-            "uaneage ſeuroirt-ele er de ce bonr",
-            "enr & deeebeau luſtre que luy profe",
-            "erte ſertilités queluy ſeruét cousſes hre",
-            "lors,& toures ſes rieheſſespuis qu eleen",
-            "ene n eue diun ne ſomiuiee de",
-            "oleurs, qu par leurs erimes temiſſenu&",
-            "ſeureiſemeſo eſclat, par leurs maluer",
-            "atons &e fourberes eſpniſen ſas fnan",
-            "e, & par leurs eſpouanubles duiſol",
-            "aons les prodiguent, & den rendetpO",
-            "pileuaine n ſ doue tems e",
-            "Pranreois, que oous faſiei paroite",
-            "onleut de uo couraoes voureen",
-            "3e leete etmine qui eonmnme chenul",
-            "rampantes, & ſautrerelles armées, ayant",
-            "l denus defer, le venere d’acier, & lede",
-            "adn de reu, boutene, deuoet & con;",
-            "duou ue ene ie dle ſenae euer",
-            "atuteur idaes a dla quimd -eaioede",
-            "Edear Eaes, fitei, qu’an plouoſût e",
-            "ulles harpies qui ne eſpireque",
-            "iereoines & A la fareun ergudequa",
-            "ousvo eures deuaue poadanmese",
-            "poſez"
+            "EPSTRE Net pus quvne muue humeurEt e ne us pus ce RmeurDe qugrde muzetteDe cent Rmeurs contreftteA pru meme uec ectA Meeurs du gout dectAu nee ps choe etrngeQucy s toute choe chngeEt que mon mheur euementNet pont ujet u chngementQund ce me monte àtetee men fche comme vne eteComme Fortune uNen trttot ps dutres nDns e mudt ece où nous ommesLe pus honnete homme des hommesS net Geeur ou SoudrtLe meeur deques et pendrtFu çunt & duntgeQue Nué Gumn ou MengeOu tes utres grnds çuntsSrenuerfeue dEttsDont e chox et ouuent meNe eur veut etre fuoreEt eur çuor & eur vertuLeur eruront mons quvn fetu"
         ],
         [
-            "poſez, reſſentent la force & la puiſſance de",
-            "vos armes: Car ſi iamais le temps a eſté",
-            "popre pour contraindre ces Voleurs aà̀",
-            "endie leurs larcins, ſacrileges & pecu",
-            "lats c’eſt celuy dans lequel ous ſommes,",
-            "&s’ily eut iamais occaſion plus fauorable",
-            "a nos ſouhaits, c’eſt celle-cy, qui nous",
-            "oumit les moyens de mertre au preſſoi.",
-            "de luſtice ces eſponges enflées d’extor.",
-            "ſions & d’exce. Enfin, il eſt en noſte",
-            "rouuoir d’eſcraſer fur nos playes ces ſang",
-            "7e",
-            "ues & baſilics qui rongentnos corps, &",
-            "Ieuent de noſtre ſang lfaut aller le droit",
-            "cemin, & ne point cdhercher de voyes",
-            "ooliques, crainte que le Royaume n’en",
-            "ceuſt quelque detriment, que les Pre",
-            "ot fuſſent fruſtrez de leurs eſperances,",
-            "&que l’Executeur de la haute uſtice ne",
-            "perdiſt de ſi riches deſpoüilles. Chacun",
-            "ait que quelques Rois eſrangens, a cauſe",
-            "de la terſité de leurs Prouinces, ſont con",
-            "Iaints d’éuoyer aà groſſes flottes des naui",
-            "Ss & des vaiſſeaux de guerre eſquipez de",
-            "uſieren rnun o enuenene ne ſorn er"
+            "CHAGRN Auourdhuy ueuge FortuneEt pour qu ot pour qu petunePour e oüeur ppeur fuPour e poon du mos dAurMquereu quon nomme en vugrePour e trtre pour e fureBref pour tout homme vunt mEt pour tout nue nmLes puures Courtns des MuesSont uourdhuy trttez de BuzesQuutrefos defunct RcheeuQus ont trtté de demeuTrttot defçon quAugutePrnce u genereux que uteA trtté es hommes çunsDont es vers ont encor vunsEt vuront mgré gnornceM qu regne eurs comme en FrnceOù mnt gros oyeu de nt LucPutot que de nt en et DucTnt e detn qu tout gouuerneQu porte vn & utre erneAgt ur tout nutementFute de on dcernementLes eux Vers &ee ProeVent uourdhuy peu de choeẽ ÿ"
         ],
         [
-            "6",
-            "les mers, pur en ti-er les threſors, & e",
-            "emoortet toutes les arete qui s y en",
-            "coneent, & qu’ordinairement is ne re",
-            "ou nent pas de ces regions eſransee",
-            "quaue de tees ſienalées peress de eet",
-            "lrunads t ais &e aan d iaisla neeu",
-            "dans laquele nous auons eté reduit pa",
-            "cettains eſcumeurs de nos fnanees, nou",
-            "doit forer a aler cou ageuſement, &ſans",
-            "crainte d’aucuns perils à la glorieuſe con",
-            "queſte de la toi on d Or qu’ils nous onte",
-            "le ouy, nous deuons, bien qu’aueevn",
-            "ee-petit apparei, entreprende had",
-            "menecette nauigation qui nous ſerad’n",
-            "apport merueilcux, & qui ſans peine",
-            "ſans defpenſe, & ſans aucun naufrage nous",
-            "era ecoaurer la meilleure partie de ce",
-            "que ces pirtes nous ont pilé & volé de;",
-            "puis tant d’annees. Nous forcerons &",
-            "iſerons facilement les portes ferrées de.",
-            "leurs ſuoerbe & magnifiques Palais; q",
-            "ſont fitués dans vn quatier de la Vile,",
-            "qui ſe peut auec raiſon appeller le Perou",
-            "cauſe des monſtreues richeſſes & in"
+            "EPSTRE Se vor en Autheur érgéEt vn ntre preugéPourfortune dvn puure hommePr m foyuos ft commeA ft More ouBondeuQue çn ? de Poëtereue eros Mrqus àmodeLe tent de en fre vne OdeVn Romnt Comque vn phetNe grot ps vn pett ftPeu de gens çchns en ecrreOnt ondmment dequoy frreLes Deortes & BooersFen u en des VersQuen ft nfortuné MhereAuourdhuy nuroent que de hereEux qu dns vn Sece meeurDu ot meter de RmeurOnt eu touterecompeneHen enrge qund y penePeu de Rcheeux uourdhuySuf SEGVER qu ft comme uyFont reuure defunt MeceneRen net pus puure queSceneQuon vt opuente utrefosQuoy que e pr de nos Ros"
         ],
         [
-            "croyables delices, dont ils regorgent.",
-            "7",
-            "Pour toutes nauires, nous n’aurons",
-            "beſoin que de la Chambre du Conſeil, ac",
-            "compagnée de la Chambre des Ccm",
-            "ptes. lour maſts, il ne faut que la main",
-            "Royalle, & ſon glaiue de luſtice; pour Pi",
-            "lotes & Patrons qui ſoient ſages & piu",
-            "dens, vingt luges, dont la probité & l’in",
-            "egitéſoit connüe;pourfidelles ſoldats&",
-            "matelots, quelques denonciateurs & per",
-            "ſonnes quiayent vne parfaite connoiſſan.",
-            "ce des affaires, des ſecretes intelligences",
-            "& maluerſations de ces gens fins & caute",
-            "leus. Finalement pour voiles & pour cor",
-            "dages leurs comptes, roolles, acquits,",
-            "eſtats, inuentaires, & autres papiers, en",
-            "ſemble les memoires qui nous ſeront four",
-            "nis: Et ie vous puis aſſeurer que deuant la",
-            "fin de la preſente année, ceux qui ſont au",
-            "iourd’huy:",
-            "-Semblables à celuy- là",
-            "Quia plus grand defauit de ce queplous il,",
-            "Et bien qu’il ſoit plongé iuſqu’au col dans",
-            "le Fleuue"
+            "CHAGRNE  net Stque enPceQu meux es ffres ne feQue e meeur ComedenSot Frnços ot tenDe Cornee es ComedesS mgnfqueshrdesDe our en our ent de prxNous voyons tous nos eux EfprtsM en rgent & m en neLAutheur du fmeux ArtmeneA perdu on GouuernementSns çuor pourquoy ny commentEt on Romnt que on dmrePeutre ne ert quà uy nuree ne vos ps e vent tournéA en vor vn our guerdonnéNotre Amy Trtn GenthommeAutnt quvn Dctteur de RomeQu ft des VersnoementEt dont e tour etchrmntAttend encor queFortuneContre uy nt pus de rncuneen pourros cent utres nommerDont Esprt e ft etmerPr ces tros de rre merteDontrecompene et petteẽ ÿ"
         ],
         [
-            "De la ſoif toutefois les rigeurs il eſpreu",
-            "ue.",
-            "Deuiendront les plus riches & opulents,",
-            "quiayent iamais eſteé veus dans ce Royau",
-            "me, & pourront dignement & fidelle",
-            "mentſeruir le Roy.",
-            "Car les lmpoſts oſtez, & les Tailles.",
-            "diminućes, nous verrons que les peuples",
-            "tranſportez de ioye & d’allegreſſe, feront",
-            "des feux de ioye en toutes leurs Prouin",
-            "ces, & ne ceſſeront de faire des vœux&",
-            "des prieres pour la conſeruation du Roy,",
-            "& de ſon Eftat.",
-            "FIN."
+            "EPSTRE On peut fcement ugerQue es utres ont en dngerS Atre mn onemps dureDendurerpuureté dureLquee onte ux cheueux grsEtpete des eux & EprtsPr exempe nsSuedeSnt Amnt etot ns remedeComme on Poëte crottéQu pmment chntéQuvn ft pprenne à en ecrreEt que ce ft çche vn peu rePour peu que e onheur uy rtVous voyez ce ft en credtQu pe pour grnd peronngeEt net quvn ft pour tout potgeVn homme prft en tout ensGrny de vertu de on ensDeprt de coeur de poteeDe euté de nté ddreeEt de cét r rre & gntQu fnt vn homme exceentS rrue qu etudeS ft Poëme ou ComedeVn cmpgnrt vn courtnVn frnc Bourgeos vn Prtn"
+        ],
+        [
+            "CHAGRNE Enfn queque tete m fteDr dord cet vn PoëteEt pener dre vn eu motL me pete ot du otTout ce me rend mntropeEt m Chgrne CoppeNe çurot vor vn cmpgnrtQuee ne de à tout hzrtCet vn ft &temerreQu peut etre urot pû meux freNe e trompe que rrementDns on trop hrdy ugementEe trouue u dnsveMtere déchuffereTnt e nomre des ots et grndL otte regne & e prendDns Prs & dnsCour memeOù e pus prft qu trop smeS ny prend grde en symnt tropCourt àotte u gopOuycmpgne net ps eueOù es deurs de mots de gueueLes eternes compmenteursLes ncorrges menteursLes conteteurs à toute outrncePr otte ou pr gnornce"
+        ],
+        [
+            "EPSTRE Font enrger es gens de enPeronne ne e connot enTe contre qu touours on peteCrot que chcun yme de reteEt nu ne voudrot ns retourTroquer ojet de on mourNe vous dépe cet uy memeContre Socrte que tnt ymeContre ton my feu CerComme toy tnt ot peu prNous ne nous fons pont utceEtfte et vn vceDont e pus ge et entchéFu ns tout utre pechéCet cet mour propre peutreQu ft que ns en reconnetreS e fs me fs ene ne prens pus pr à rene ves & ors que y ongeEt quen ce pener e me pongeMes mux & pez & preensAugmentent e frod de mes nsTout mmportune & tout me fcheLe pr quonqund on mcheLe eu que mes mux mont ßéNe met pus quvn pr pßéEt"
+        ],
+        [
+            "CHAGRNE Et tnt mon chgrn et extrémeS et queque choe que ymeSongent qu e fudr qutter ne ert quà mnqueterPour come de mon nfortuneMoy meme que tout mportunee commence à mmportunerOn me e peut en prdonnere us dns e ece où nous ommesLe pus nfortuné des hommesEt dutnt pus ufortunéQue e ne proos ps néLe pus mpertnent du mondeMs e Ce ur qu uy pt FrondePus qu veut me trtter nSot ft e e veux en uMs ouos en de te dreQue quconque mme sttreQueque nfortune tot ou trdToy qu prends en moy queque prtSonge comen on sy hzrdeAu nom de Deu prens y en grdeMymer et vn coup en hrdLe moy à e te e dPour dechrger m concencey ft vne utre experence"
+        ],
+        [
+            "EPSTRE S e veux quequvn ogerCe quequvn me ft enrgerLhonnete homme cee de etreEt e découure ngrt ou trtreLors que pr vn zee ndcrete uy fs prt de mon ecretOu que ns mes euretez prendree uy prete ce qu dot rendreTu çse ds vertéToy qu de tout temps s etéLe fdee depotreDe m mondre pette ffreTu çs comme on m guerdonnéQund en ot y mon en donnéContre moy tout en m e chngeS e trttos uec vn AngeCét Ange deuendrot DemonChngent de nture & de nom fut porter dns AmerqueVn chgrnmencoqueEt vorous vn utre CeSon nte deuendr meLà nue fuxon ny goutteLà nu frod que tnt e redouteL nut euement vn vent frsY eme etre ft tout exprés"
+        ],
+        [
+            "CHAGRNE Contre e chud deournéeLà e Prntemps toute nnéeY coneruegyetéLAutonnemturtéEt Eté ns ruer es heresChque mos y donne des geresEt tous tros des fruts runsAfos meurs nez & nnsVneu ujet ce me emeVut en que e qutte mon meEt quu per de fre vn utNoftre Pegze e pr hute vy donc donner du hut teComme ferot cy VgeEt monté ur mes grnds CheuuxLes pouer pr monts & pr vuxLAdore fmeu du mondeSortnt du vte en de OndéY prot ux yeux ehsNon te que dns nos frods PysDes oques trts qu nous drdeEoünt qu e regrdeEt dpnt ur OronQueque egere exonNon te qund du ruge MureMontnt u Ce pres Auroreẽ j"
+        ],
+        [
+            "EPSTRE A pene pr uy ont percezLes roürds ur Onde mezMs uecmgnfcenceDvn Atre de cette mportnceEt dns vn uere ppre e ft vor dés on réueAuec vn excés de umereQue ne outent pontpuperreDe on vge pceuxCouurnt tout n coté des CeuxAumnt es pnes humdesDe me & me foux qudesEt dutnt de Ryons dorezL voûte des Ceux zureZTnt de meruees eméesNe ont pont eurs etéesQue dns ces cmts fortuneZQu ont des Tropques ornezLà notre cher SndnpeNe vendr n toy n t meToy qu cros que ong de PrsOn et utnt qu mort ou prsEt que ns Cors ou SueOn ne peut en pervePrs ns doutedes ttrtsMs es prs ont de grnds frrs"
+        ],
+        [
+            "CHAGRNE Nos ndennes & nos NegresAutnt que des Bques egresVent en en eur nudtéTes Dmes en eur propretéLeur tent po dEene noreVut en vn tent nc comme YuoreQu de nc fde fretéDeunt quetre ve et gtéLe repose ne me trompeVut en ton Prs &PompeCet e pus rche des TreorsQue Amerqueur es ordsLe conteu pour peu de choe ?Ce eu peut en etre cueQue en tot notre Cp de NortDes mheureux er e portComme mheureux e my coueLong du tumute & defoueS e my voyos uec toye eros pus heureux quvn RoyFN"
         ]
     ]
 }

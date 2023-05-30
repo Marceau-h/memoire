@@ -1,173 +1,57 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "lettre",
-        "subject": null,
+        "form": "vers",
+        "genre": [
+            "lettre",
+            "burlesque"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-06-16",
+        "creation": "1651-12-12",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-07",
+            "@when": "2022-04-21",
             "@who": "AB"
         },
-        "titre": "Lettre de madame la duchesse d'Orléans envoyée au duc\n          Charles, son frère, sur le sujet de son infâme trahison.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-06-08",
-            "#text": "8 juin 2021"
-        },
+        "titre": "Lettre de la signora Foutakina à messer Julio Mazarini,\n          touchant l'armement des bardaches pour donner secours à son éminence, en vers\n          burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-15",
+                "#text": "15 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-28",
+                "#text": "28 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau1949_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1948_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRE ou6",
-            "DE MADAME",
-            "LA DVCHESSE",
-            "DORLEANS",
-            "AV DVCCHARLES",
-            "SVRLE SVIET D SON",
-            "inſigne Trabiſon,",
-            "nz IEAN DV RAE e Ecoſe",
-            "r s oe"
+            "Lettre desgnor Foutkn à messer Juo Mzrn touchnt rmement des rdches pour donner secours à son émnence en vers uresques Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté5 févrer 202 28 vr 202Sgnor Foutkn Lettre desgnor Foutkn à messer Juo Mzrn touchnt rmement des rdches pour donner secours à son émnence en vers uresques Sns LeuSns Nom65 Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y425TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs948 Lettre desgnor Foutkn à messer Juo Mzrn touchnt rmement des rdches pour donner secours à son émnence en vers uresques Sns Leu 657 pges Lertnge sns esprt Je regrette dvor à dre que cette pèce est ssez rre pour être recherchéevers ettreuresque Le ro mnde u crdn Mzrn de rentrer en Frnce 6"
         ],
         [
-            "e",
-            "115",
-            "5.",
-            "4",
-            "2",
-            "e ’o",
-            "5",
-            ".. A",
-            ".. .-",
-            ".1.!., e",
-            "E",
-            "e4",
-            "i aû’’",
-            ". E",
-            ".. i. .",
-            "ee. l,",
-            "e",
-            "iu",
-            "oaGoogle"
+            "LETTRE DE LA SGNORA FOVTAKNA A MESSER VLO MAZARN Touchnt Armement des Brdches pour donner ecours à on EmnenceEN VERS BVRLESQVE"
         ],
         [
-            "u",
-            "r",
-            "nnnnmnr",
-            "Charles ſon frera, ſar le ſauſet de ſon",
-            "inſigne trahiſon.",
-            "osvn",
-            "ſ joſe vſer de ce mo",
-            "& croy que c’eſt à bon droi,",
-            "puis que ie ne vous reconaoispls",
-            "par celuy de frere. Jex’eus iamais",
-            "penſé que la racine de Vaudémont",
-            "eut produit & ietté vn’fuict ims",
-            "poiſonné qui ne ſert quà̀d́ftruie",
-            "& ruyner toute l’Europe. on"
+            "3 LETTRE DE LA SGNORA FOVTAKNA A MESSER VLO MAZARN Touchnt Armement des Brdches pour donner ecours à on EmnenceVers Bureque  Veve de mon me  Moy qu pour toy us nfâme  S prtu nprens mon nom  Foutqun de grnd renom  Ahte ecrpt cette ettre  Aynt prs mon treher mtre  Que queque grnd De de cour  Te vouot fre vn muus tour  Tu fers entu denches  Et tchesuy fre nches  Sos prompt à uy tourner e cu  Et tu ne ers ps vncu  Ben que tu me os nfdee  Ont cette trte nouuee  y pené mourr de doueur  Qund on m depent ton eur"
         ],
         [
-            "eie",
-            "4",
-            "oſloe plus ſamaon Ptogeniteur.",
-            "diſoitſouuent ces mots; Que vous",
-            "eſtiez né pour bruſler voſtre pais",
-            "depuſs fa mort́, eeſt touſiours ren",
-            "contté veritable; Vous oſtes guer",
-            "rier, mais traiſtre & remply de",
-            "couardiſe: vous ne tenez rien du",
-            "rang de Prince, ny du ſang dont",
-            "vous eſtes deſcendu: vous eſtes",
-            "vn homme d’argent; vn ſcelerat",
-            "& vn fauſſaire: N’eſperez plus que",
-            "i pale autrementde voſtre per",
-            "ſoninei vous n’eſtes pas digne de",
-            "iure; & peux bien m’aſſeurer que",
-            "le Ciel fe vangera de yos diſſimu",
-            "lations; N’eſtoit ce point aſſez da",
-            "uoir one fois enflamḿ la Frances",
-            "la urahien fauſſant la foy que you",
-            "auiol iurte fur la ſainte Euanil.",
-            "ſans"
+            "4 en porte vne onne prte  A cue deympthe  Afn de ne te ps ceder  e me etous poeder  Msfut pourtnt que e cede  Quoy quvn grnd nomre me poede  Tu e fs en toute fçon  En grde u en quen grçon  Pr moy cette gntere  Ne e ft que pr rere  e ny ps es rens ez forts  Pour fre degrnds eorts  e ne pus etre quvne fe  Tu mes en vge t que  Et ns y mettre ren du ten  Tu e fs uec vn ruen  Echo cette ee preue  Cette rde moureue  Ne peut chnter vn troet  Surfutte ou e fgeoet  De ce fer grçon de Nrce  Qu mourut pres de june  Ms duouë que ur ce ponct  De toy e ne me pndry pont  On ne m ms rencontrée  Refunte n refuée  Tu ne ms grces à mour  ms ft vnmuus tout  e te tens pus vnt quAche  Qu fut cue que tnt de me  De rues furent sechufer  Deunt eurs temps dedns Enfer  Et ntt deous es rmes  Quvne euté pene de chrmes"
         ],
         [
-            "ſars, de gayoué ds cur, comber en des",
-            "ations leſqudles vous ptterot toufiours",
-            "prejudice Quoy ſaa-til dit coudaeé",
-            "dans l’Hdiftoire, qu’vn Prince, vra Dac, vn",
-            "Guidoa de d’Enpiie, ait eonmais vne laſ",
-            "daeteé pour mailles piſtollesi ſealaaaent p Ouà",
-            "aaie-oous esu? Aptes dés paoles i",
-            "os &e potaſtées aears Monſeigouar &",
-            "car oſpou, de Meſieass de Coadé &de",
-            "Raufore, & auctes peſohns de rmatq:",
-            "Qe paune-ous eſperer qu’va blaſme",
-            "gaerad & perpetd? Ce eoupde trahiſon",
-            "e omoe pas dadonent ar aouss, -uâie",
-            "auſi ſar le Roy d’Eſpagae, loquel vos",
-            "donné le tilu ’abſolus de Planipocodalre,",
-            "pour traitter la Paix gearale. Nel’abaafes",
-            "voas pas ?’ Que ne dita-il point de vous?",
-            "I ous auoit confié ſes foacas & ſes ſenres",
-            "&e vous en ſez tout au cotraie de ſa v",
-            "loaaé. onane de ſan g de rapine1l",
-            "vsu la Paixs, il l’a daſire e vous ne demar",
-            "dez quà enmerenir la guae. Qui eſt e",
-            "Peiuace dans l’Earope qul vous ſoit ſauabla",
-            "ble ’Il n’y en a point , aufſi ne troapes-i",
-            "re, lors que ie vauas apaſs cete qgaali",
-            "B",
-            ".L. L2.Ll2-.-"
+            "5 Ant forcé ns fre rut  Vne fere dns on ct  Encore de pr rue  Et qu pourrot erur dexcue  Ant reconnu on mnt  Pre vous vous muez en dormnt  Pre vous muez endorme  Vous etez vne fue me  Ou putot vn mechnt grçon  De me trtter defçon  Ce preux dot ceder à t gore  De frche & de vee memore  Des fes & Pges de cour  Ont dt que tu eur fs ce tour  Ou meme queque vete  T trouué femme & fort on me  Queque offcers de Cyprs  Mynt rpporté quon teut prs  S tu neues ggnéporte  Auec vne pette ecorte  e vy pour tout euenement  Louer vn punt rmement  De Putns ougres & rdches  De monopoeurs & guches  e fery donner dvne prt  Queques coureues de remprs  Dutres qu ont de fnes mouches  Pourront fre des ecrmouches  Les meres des enfns perdus  Pourront erur denfns perdus  e mettry dednste  Cees qu nont pont ee te fudr donner e deunt  A cees qu e pus ouuent B"
         ],
         [
-            "eé. Ie ne ſçay ſi vous l’auez, mais au moin",
-            "ie puis aſſeurer qus vous ne ha merite pas",
-            "N’auiez-vous point de honte de vous faire",
-            "aceconamoder des Ponts, afin de faire paſſs",
-            "voſtre arnaée, de laquelle ie me mocque,",
-            "car ous n’auez pû emmener auez vous que",
-            "les Lorrains que vous bridez comme des",
-            "Oyſons. Mais les Troappes d’Eſpagnes,",
-            "qui connoiſſent fott bien voſtre natarel,",
-            "ne vous ont pas ſuiuies ; C’eſt peosrqoy",
-            "ieſtime que vons na viendrez pas au bus",
-            "de vos pretentioas. Vous verrez la iute",
-            "vangeance du Ciel tomber ſur voſtre teſte",
-            "e dans peu de ious. Ile proteſte deant",
-            "Dieu e deuant tes otmue, que ie vous",
-            "reaie pour monfrere : & queiene vos tien",
-            "dray pas ſeulement au rang d’vn ſinaple",
-            "Baſtard. le iure qu’il ne ſe preſentera au",
-            "cuneoccaſion que ie ne faſſe mes efforts pour",
-            "vous auire; le vous promets de mandet à",
-            "tous les Poatcentats de la Chreſtienté, voſtre",
-            "trahiſon & infidelité. Ie vous deffend",
-            "abſolumont, que vous, ne m’appelliez",
-            "plus da no de Sœar; par ce que ie ne fus",
-            "iamais ſemblable en mœurs auec les vo"
+            "6  Ont vendu pretnt ur ons gges  Leurs reterez puceges  Lrrere grde e fer  De cees que on trouuer  Etnt encore entreux ges  Pouuor fre deux peronnges  L gore duor entreprs  De prendre ou deger Prs  De ecourr on Emnence  Fortfer eur vnce  On verr ous eurs etendrs  Comttre mour u eu de Mrs fut donc treDne  An quànopce de enne  Ou en enuoer de ets  Pez en forme de pouets  Ou dre dnsComede  Quon onne vn rne de orte  Que pour emnent Crdn  Ant entendu e gn  Tous es ordeux prennent es rmes  Pour er choquer es gens drmes  Quon puc rrer  Auqu ont ns turn  An venus ftreueue  Et v comttre toute nue  Sns rmes derme ce grs  Que tout e monde ppee Mrs  Nous ons ouuent àreche  Sns crndre n rc nfeche  N ptoes n ptoets  Bomes grendes ny ouets  Qus vennent ur nous àchrge  Nous nttendons que eur dechrge"
         ],
         [
-            "5",
-            "ſtras. le vos prie de faire du pis que vous",
-            "pourez eae nooy; car -vous eſtes cerrain",
-            "que ie ne vous eſpargneray pas. Et ſç̧a",
-            "chez q’autant de bien que ie ous ay proure;",
-            "que ie feray tous mes efforts poſfibles pour le",
-            "deſtruire. La Loraine vous euſt eſteé renduë;",
-            "mais croyez quevôuas ne l’aurez iamais & que ie",
-            "peiray pluſtoſt. Allez, vous ne meritez pas de",
-            "voir les rayons du Soleil ſçachez que vous ren",
-            "diez oante de vos pillages & vollerieC’eſt celle",
-            "qui e veu pluas & vous deffend de l’appelles",
-            "Saar, qui vaus eſcrit ces choſes;",
-            "o aai oes",
-            ". in g",
-            "a, -"
+            "7  Qund memes s treroent deux coups  Nous repondrons à tous eurs coups  Nous uons de onne cues  Au fortes que eurs cures  Et eurs fons tourner e dos  Aes quon es e à repos  e me vente porter pr terre  Le pus fureux foudre de guerre  De tout vncre de tout er  A force de en creer  An v donc en epernce  Tout true à r deurnce  S ne te mnque des ecus  Tu trouuers ez de cu  Qu feront entrer juques ux grdes  Lepée ux pus vns gendrmes  Quoyque ton vedze à roüet  Serut mgré nous de ouet  A de qus à de guches  Les putns ougres & rdches  S monques Prtns  Et meme queques courtns  Pour ne vor cette venne  Tendront on pourtyrnne"
         ]
     ]
 }

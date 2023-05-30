@@ -1,180 +1,57 @@
 {
     "entête": {
-        "form": "vers",
+        "form": "prose",
         "genre": [
-            "stances",
-            "burlesque"
+            "texte officiel",
+            "ordonnance",
+            "règlement"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-16",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Las Présents faits à Son A. Royalle et à messieurs les\n          princes de Condé de Beaufort à leur arrivée au palais, pour messieurs du\n          parlement.",
+        "titre": "Ordonnances du roy vérifiées en la Conr du parlement et\n          Chambre des comptes pour le règlement de la gendarmerie et chevau-légers, leues et\n          publiées au siége de la connestablie et mareschaussée de France à la table de marbre du\n          Palais à Paris, le vingt-un janvier 1649.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2suppl156_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2suppl151_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LES",
-            "PRESENTS",
-            "FAITS A SON",
-            "A. ROYALE",
-            "ET A MESSIEVRS",
-            "LES PRINCES",
-            "DE CONDE' ET DE BEAVFORT.",
-            "à leurs arriuée au Palais.",
-            "POVR MESSIEVRS DV PARLEMENT.",
-            "A PARIS,",
-            "Chez IEAN BRVNET, ruë Saincte Anne.",
-            "M. DC. LII."
+            "Ordonnnces du roy vérfées enConr du prement et Chmre des comptes pour e règement degendrmere et chevgers eues et puées u sége deconneste et mreschussée de Frnce àte de mrre du Ps à Prs e vngn jnver 649 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Lous XVOrdonnnces du roy vérfées enConr du prement et Chmre des comptes pour e règement degendrmere et chevgers eues et puées u sége deconneste et mreschussée de Frnce àte de mrre du Ps à Prs e vngn jnver 649 Prs Mrtn Coet 649 jnver 649 Lyon Bothèque muncpe de LyonRés 3925TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs5 Ordonnnces du roy vérfées enConr du pr ment et Chmre des comptes pour e règement dege drmere et chevgers eues et puées u sége deconneste et mreschussée de Frnce àte de m re du Ps à Prs e vngn jnver 649 Prs M tn Coet 649 8 pges ueprose texte offce ordonnnce règement Prement de Prs"
         ],
         [
-            "LES PRESENS FAITS",
-            "à ſon A. Royalle, & à Meſsieurs les",
-            "Princes",
-            "Prinçes de Condé & de Beaufort,",
-            "D-a a daeſ",
-            "à leurs arriuée au Palais, Pour Meſ.",
-            "ſieurs du Parlement.",
-            "ſ eu re",
-            "Ss lteſſe Ryalle.",
-            "AS T ON pour a bele conduite,",
-            "’on voit le Maarin vaincu,",
-            "A3Et toute ſon armee reduite,",
-            "A A nos Soldats tourer leeul.",
-            "LA FRANCE AV PIED DV PRINCE",
-            "DECOND.",
-            "STNS8.",
-            "JL eſt donc deretour, Adieu més longues peines:",
-            "JMes ſouſpiry, mes ennuisou mon cœur s’eſt plongé,",
-            "iſoque quin ie eaois fnp e domur ounſleeenue",
-            "Fuyez, ie vous ban & uous doane congé"
+            "8925 ORDONNANCESDV ROY VERFEESENLA COVRde Prement & Cmhre des ComptesPOVR LE RE GLEMENTDE LA GEN drmere & Cheuugers Leues & puées u Sege deConnet e & Mrechuß́ede Frnce ̀Te de Mrre du Pus ̀ Prse vngpvn nuct 4988d et EnJ A Eud fd ud epe?uoonA PARSChe M o r u Ps en Gere des Pronners e e e reueoeree M DC XLX"
         ],
         [
-            "4",
-            "Ceſes oeſe mes yurees ſoqitnet de lde",
-            "Reprenea voſte’e&celatſredoſſſie vois le ieus,",
-            "Ie le tiens, il eſt mien, Q DE quittes lsarmes,",
-            "Il faut qute ld̀ valleur obeſes a l’Amou T",
-            "Que de contentemens, que de biens ie poſſede,",
-            "Que dhonneusie e ſuis eni ́e ttiomphie tie;",
-            "Si Iupiter ſe plaiſt à yoir ſon Canimeddg",
-            "5",
-            "Moy’Fance le me plais à receuir mon Lo VIS.",
-            "Pourquoy grand Rrſnce, auie vouus deliſſée",
-            "Ie le ſçay, vous deuiez voſtre ſeruie au oy,",
-            "Si par voſtre départ i’auois eſté bleſſée,",
-            "Iout mon mal eſt guery, puis que ie vous reuoy.",
-            "Ainſi apres vingt-ans reuoyant ſon Vliſſe,",
-            "La Chaſte Penelope oublia ſes malheurs,",
-            "Si i’ay dit aux ennuits, il faut que ie periſſe,",
-            "Ie commande aux plaiſirs d’effacer mes douleuts",
-            "Il ne m’en ſouuient plus, & mon amous qui rage l",
-            "Dans la mer des plaiſirs, ’a peur qu’ìs l’adanie",
-            "Ce Prince valeureux qui cauſois mon vefuage ,",
-            "Par vn ſecond départ, le faſſe reuenir.",
-            "AV PRINCE DE CONDE.",
-            "N",
-            "SONET.",
-            "D IN C E, ie ſuis force par l’eſprit qui me guide",
-            "E",
-            "TDe vous dire ces motssy pour faie mon deioir,",
-            "oueun oeue e ene i e ſeno",
-            "D’vn"
+            "uttéttttAAtâté ETr7 D E NH LL L POVR LA GENDARMERE& Cheuugers pgrr Ee n r Afn que nos Gens dordonnnceoyent contenus encrnte de Deu & ne oyen nsexercce de Regon drnt e enps qus eront es copgoes & quees mrcheront oc u cp ou rresheux pot ntre eruce Nous enendons & vouonsque à en chcue dedtes compgnesy t vn Pretre qu drstee pe cheun our A quee trnt es Ctnesemores & utres de te compgne ss nont egtoe empechement Et urs edt Pretre ur dte compge por o entreteement omnme qu er rtrée pr e Cptne & Chef dcee à prendre urode de chcun homme dres & tchers decompgne 2 Preement uons ft defenes ux ges de nodtes ordonnnees de ne phemer e S nom de Deu ns uor es choes nétes en n guere recommndton & reuerence ur peeux denquns & co treuenns de peredxe pcte de eur ode pourpremere fos poureeondemoté & pourtroé́me e tot & edts denes ns à mous neuens ons & ss pereueroe e tee fute vouoetre cez deconpgeAu uos eté duerts que poeuvs pronnes etns preuenus de utce de crmes & dects pour furpunton dceux e mettent de odtes ordonnnces & etns demndee & repetez pr nos Offcers es Chefs dedces compgnes ont refuns de es er & deurer en m m de uce do proeede toute npunté Pour à ce ouer defendns à tous Cptnes & Chefs de nos ordnnnees de receuo en eeesu euns preuems de utee& us Conmres & Controoeurs de es per àontre Et ceux dedces compgnes qu eront deferez en jognons dts Chefs es repreenter en jtcerequss enotOrdonnons que ceuy qu r oûé es rnes & cheuux & ceuy qu es ur ggnex oyen ce de nos ordonnces & edts rmes & heuu confqexprot du dénoncteurE qunddendr qe mos voudrons fre tener vne ou pufeurs de ns Conpgnes de os ordonnnces dvne Prounce ou gouuerne nent en v re ou es fre scher eneme pour notse euce A ees fns er pr nons o p es Mreeux de Frnce ou pr es Gonuenueurs & nos Leutens generux dedtes Peounces deputé nmoceenptés pour ee edes Chefs de compgnes es condure"
         ],
         [
-            "s",
-            "’vn pare repantit ſeroit touche Ouide,",
-            "Qu’Vn Epeeur ingrat bannit paſon pouuoir,",
-            "De l’Empife Latin ſans iamais s’eſmouuoir,",
-            "L’abandonnant aux flots de l’element humide;",
-            "L’vn chanteroit ONlEiaux ſieles aduenir3",
-            "Non de cẽ fûgiti que Troye la, veu anmir, l",
-            "Les diuers accidéns de la mer orageuſe.",
-            "Mais vn Prince guerrier touſiurs Victorieuix,",
-            "L’autre d’vn versplus doux pourcontentet vosyeux",
-            "Feroit ſortir Venusi de la mer eſoumeuſe.",
-            "AV MESME,",
-            "Au Nom de tout le Peuple.",
-            "QVATRA1NS5.",
-            "Rand Pince nul ne peut aſſez vous recherchor,",
-            "Puis que tousvos ayeux pont eu cet aduantage,;",
-            "Que la France afigée a congneu leurs couragé,",
-            "Comme aux flots irritez on codnoiſt le Nocher.",
-            "Fidelle à nos Roys on vous a veu marcher,",
-            "Aux pefils, aux hâàrds pour ſurhonter l’orage,",
-            "Et eſftoufer vainqueurs la chaleur & la rage,",
-            "Qui tomboient ſut lés Lyts afin de les ſechier.",
-            "B"
+            "& fre rrcher prt es pus drots & grnds chemns & ux meeures &e pus ronnes ournées que fre e pourr & ns eourner pr chcun our pus dvne nt ecepte v our ener enemne n que es chems eron ez udts Commres pr edss Mre chux ou pr es Gouuerneurs ou Leuens generux du pys dou edtes compgnes ortront & en defut des Gouuomeur ou Leuten udts pr e By Senee ou uge Roy 6 Et ou es outgs vges & res eux dceux grnds chemns o edts ogs eront drefez & ets e crouuerontpess & peu ogen es quecompgne rchnt enenme ny pue enterenment og En ce es & non utremene ee epourr eprer & deprtr nf qu er dué pr edes Chefs & Conmre& cee oges és vgesô hmeus pus prochns des eux dude ogs ou e pncp Chef de meurer uce édt Comre Et enuoyerons vne pes de dute com pgne és ucres eux & en chcun deeu vn des Chefs en enee ques commetcrons dos pus notes & pprens Geooomes detrouppe qu reondront des muerons qu e pourront comere pr eeux qu eron à euruce à fute de repreencer esdenqu 3 Vouns que e Mrech desogs de chcune compgne e ous es ors udt Comsore qu e condrvn roe fgné demn contennt tes norms rnomss egueures & denoeurnces cnt de ho me drmes &e Areher que de hote emon duqueer osé n quedent queque pnue ou crere ur eun edus Chefs e Cfre pent prompement recognotre es denquns por y pouruox omtemeut eon engenee des cs 3 Et e e trounot ucones jments & utres etes chrettes & chrots or eté prs pr force de nodts ues Nous vouons ceux ere prom pcement rendus à ceux ques s e erouueront ppenr Eoon ux Chefs dedtes compgnes dece fre ur pene den nepondre & à odts Offcers dy tenrmn epree & proceder cncre efdts denquns comme dt etEt qunt à equppge ec eque ern enus etre & opro es ens de ones ordonnnees pour nous fre erce ous vouons honse dres etre mé drnes ou hement de tefte fermé o orps de cure rrs ou unstees euots ues e go oueres & deut de greues etoe & epée drmesee rnée denc & derrere & uor deux ous cheuux de eruce uec pte ets n LAreher oo Cger pontesrmet ouoggnotte ns qu poue or oo ànece ur on orps de cnre untrts v ns teres & euots ee eftoe &efpée drmes& vn on cheuos de eruce outre ceuy de gge & eox ptoesQe es mpes courtus u hecquenées ne eont pepour eh de eruce Le Cpne rednt àgrmon & rchns pour nore emce er ceu or douxe cheudn e Leuent ct Eneene s"
         ],
         [
-            "6",
-            "eeer",
-            "err",
-            "gr",
-            "ieAVrME SM e er n fE",
-            "r",
-            "A Pes l tempſted’orage,",
-            "fele feulas fureuit ilalrage, io",
-            "L’inſolencei loppreſſiou,;",
-            "i i i e",
-            "France de malheuns aſſiegée ,l",
-            "A la ſinſe oir ſoulagée,",
-            "Benyſoit OS B’cvR ô",
-            "Princes les feruursde osi vćille;",
-            "Suiuent ſes faueurs nompareilles,",
-            "Et vos loiables actions,",
-            "Luy ſont tellement agreables3",
-            "Qu’a iamais vos faits memorables",
-            "Seront loûez des iations",
-            "Mazarin, traiſtres & perfide,",
-            "De pluſieurs François homicide,",
-            "Eſperoit bien vous erraſſer,",
-            "Mais yous dvn géneireis outage,",
-            "Vous faites voir à ce Viſage,",
-            "Quil ne ſcait rien que menaſſet",
-            "E3.1",
-            "ei e",
-            "-amre",
-            "Le deſeſpoir de Mararin, Sur la perte de ſes gens, à la",
-            "Bataille gaignée par Meſſiers les Pnnces",
-            "de Coulé, de eauifott,",
-            "& de Neinours.",
-            "Oicy le deſeſpoir de s’il qui fait la guerre,",
-            "M Iamais le mal-facteur ne trouue de repos,"
+            "4 Gudon x een e Mrec des ogs cnq homsme drmes tross rcher ou Cheuger deux 2 S e trouue ucun Chefhonme drmes Archer ou Cheuueger uoremprunté cheuux & rmes pour per àmontre Nous vouons & decrons ceux cheuux cqus & confquez u proft du enonc eur Ee ceuy qu ur comms te us etre cé & à ms prué de os ordonnnces gEnjognons ux Cores& Controoeurs ordnres de nos guer res fns es nontres & reueueés de otre gendrmere de ne pes tcuns chefs hommes drmes Archers ou Cheuugers comme preens ss ne comprent en peronne rmez & montez en equpgé uedt ns escer & mettre eur ode en deners à nous reuenns ons Semement es défns à dte montre eront ms ens & cezNe e feront enrooemens que pr Commres & Cotuooeurs ordnres des guerres euementuques s decreront eurs noms e gneures & demeurnces & e Chet qu es preente pout es enrooer g Nous vouons que dorenunt fns pr es Comnsres & Co rrooeurs ordnres de nos guerres es mntresde notredte gendrme re s nyent ur pene de pruton de euts etts à enrooepe ucuns pour hommes drmes Archers u Cheugersss ne ont Gentommesvuns noemene onu qus ne nous yentfe eruce en otre nfntere commndns en ttre de Cpene Leûent E egne ou Sergent Mjor pour e mons epe de fx ns Et que cex qu voudront entrer en pce dhomme drmes oyene gez de vgt à vngn n & Archer ou Cheuu eger de dpt nsmons 6 Ne vouens u quucun pue cres etre receu enpce ds Leu tennt Enegne Gudon ou Mreeh des ogs qune nousyt fe eruce en quté dhomme drnmes Archer ou Cheu eger epc de tros ns pour e mons dequoypporter ttetton desCptnes ous equesnous ur ft edt eruce 7 Qund vn homme drmes er trouué m monté & quà deux mon tresuy ur eté commndé & enjont de oy rmonter &n oey udt commndementon trouue qu t en dequoy &ne tcnne quAmuue voonté e Roy veut & odonne quen ee csot ecé & perde es gges du qurter S duenot que es Cptnes prent en hne ucun honmrme drrmes Archers ou Cheuux egers de eurs compgnes à cut qus pourroent etre veeux & uns & que ce ne ot à ppett de queqne rpporteur ou ftteur dédtCptne e prrcer e pe montre & non ntretnent & fre enrooér vutren oneu Etetot trouué que edt Cptne eut eé pr hne uence & contron & edé en vuee fre pourute enuers mes Se gneurs es Mrechu de Frnce pour en uo reprton coere e Cp tne fre e pourr Et e pourr enquerr edt Comre des gens dordonnnte en dte compgne en ffntmontrej s ycue qu"
         ],
         [
-            "7",
-            "La crainte qui le ſuit le trouble à tout propos,",
-            "Le remords ſon bourreau le point picque, & le ſerre.",
-            "Il reſſemble an Sanglier que le veneur enſerre,",
-            "Qui a dedans ſes os le fer mortel enclos,",
-            "Qui plus il pouſſe auant, plus il briſe ſes os,",
-            "Tant que la paſle mort le Rodit ſur la terre.",
-            "Iules en eſt de meſme, il n’eſt point negligent,",
-            "Il reconnoit ſa faute en perdant ſon argent,",
-            "Il dit qu’il ne deuoit le ſang François repandre,",
-            "Il va, il vient, il court la rage le pourſuit,",
-            "Son ombre luy fait peurs le deſeſpoir l’induit,",
-            "A prendre le cordeau duquel il ſe va pendre.",
-            "A MONSIEVR",
-            "DE BEAVFORT.",
-            "QVe de Palmes & l’Auriers ſont acquis à Beaufort,",
-            "La France à ce iourd’huy ſe tient ſon obligée,",
-            "Iuſe Mazarin la réduiſoit à mort,",
-            "Sans e guearier qui les a deſgagée.",
-            "FIN."
+            "er eq teS ou e e t EcevoLeufs epc4 neoo e ens ot céhomnt e qu ue ren qmre ee e ot eeetd pt qu ot ce & de que etme v nce & condtonet tenu & etmé à dte compgne fn den temogneredt cé sen veut yder à fre pourute contre edt Cptne 9 Ledt Segneur veur & ordonne que dorenunt qund vne com pgne e remüer de eu en utre qu y t Commres expres pourondure uec ertres du Comnre de uy ou des Mrechu de Frnce & que ce ot à enegne depoyeée & en rmes & que e Cp tne on Leutennt Enegne ou Gudon y ot pourmener & que es Gouuerneurs des pys ou eurs Lecutenns & edts Mrechux de Frnce és eux ounyucuns Gouuerneurs eur eut e chemn pr ecrt gné de eurs mns 20 Ordonne ed Segneur qunt vne compgne dvn eu en utre que edt Comre qucondur donne ordre de fse pyer es vures à prx ronne ynt egrd ux gges & odes des gens dr mes comme deus et dt& quceux Comnres fcent toutes choes f de contenter e peupe e meux qu er poe en orte qu nen pue venr ucune pnte 2 Et nepourr ueun homme drmes Archer ou heuger prendre u ogs qu uy ur eté é engron ucun vure pour oy ou es cheuuxce net en pynt du conentement commun ccord & onne voonté de on hote Etutremente ft pr ucuns hommes drmes Archers o Cheuuers Nous vouons es denquns etre nconnent tetez & prns pr es Cptnes urpnte eue de hot ou hotec offenez & cee pnte ommrement verfée en etre ft ur heure & u meme ntnt pr es Cptnes & chefs ro udt hote ou hte & ceux de nquns cez & ms é mns du pus prochn Preut e nos mez & feux es Connee & Mrechux de Frnce pour en etre pr eux ftpunton tee qu pprtendr & de mnte quece ot excmpe à tous utres 22 Dorenunt es compgnes de nos ordonnnces eront ogées & tendront grnons és ones ves coes de notre Royume uunt es ncennes odonnnees de notre gendrmere equees erot ez ogs & vtenes n hommes drmes Archers u Cheuugers de dtes comgnes à çuor nge de te de t vee & ures me nus vtenes de menge ns que ceux des vges & pt pys oent ucunement tenus àfournte dedtes ytees ne ceux de nodtes ordonnnces de pyer ucune choe pour vge dc eux ne pree mene pour edt ogs deux & eurs cheuux eques vtenes eurs erontez pr nuentre de jutce etmton dceux preement fte pout en ver cormme ons peres de fme & u deoger es rendre és epeces qus eurs uront eté ourns g Defendns u trepreément à tou Cptnes de nodtes or donnnces qus ne ouffrcnt àute de eurs compgnes u cuns hom mes de guerress ne ont enroez és rooes de eur compgne receuns ode&ucuns sy en trouuent nous vouons qus oent ms és mns B"
+        ],
+        [
+            "dedts Preuots des Connete & Mrechux de Frnce pour etre puns comme vgons 24 Defendns rexpreément à tous hommes drmes Arehers o Cheuugers de nodtes ordonnnces quns pr pys s nyent à secrter ny ndonnertrouppe ns à uyure eur chef& enegne & quetns en eurs grnons s ne fourrgent ou ouffrent eurs vets fourtger ne per cn queque mnere que ce ot ur pene à eeux qu feront e contrre detre pendus & etrngez 25 Frs eues prohtons & ur meme pene u Mnns & Htns des Ves & V ges ouù̀ edtes compgncs de nos ordonnn ces peront ou eront en grnon qus nyent à encher en orte que ce ot es vures & denrécs qus põrteront & vendront tnt edts eut ou s peront qués grnons ns à es er à prx ronne eon e cours du mrché & on du temps26 Tous chefs & memres de compgnes tnt de gens à cheu quà ped qn etrouueront uor prns exgé & extorqué deners pour ne o ger és mons & vges eront puns de mort ns epernce de grce prdon & remon 7 Defendons à teutes peronnes ur pene deve der àutte des compgnes de gens de guerre ot poury vure à eur dueu oucheter deux utn & utre choe 28 Ne pourront edts hommes drmes Archets ou Cheuugers ne eurs vets ns pr pys & ejournns edtes grnons secrter deeurs compgnes per ne fourrger en ucune mnere ur pene detre pendus & etrngez Preement edts hommes drmes Ar chers ou Cheuux egers ns & retournns dedtes grnons ne pour ront semer pus grnde troupe que de dx tnt mtres que vets ogens & vuns pt es eux & endrots ou s peront en pynt u prx du mrché ur es mefmes penes que deusce net qus mrchene eneme ouscondute dvn Chefou memre dedtes com pgnes eque en ce cs repondr des ctons & déportemens dedts hommes drmes Archets ou Cheuugers en on propre & prué nom 29 Defendons en outre à notre Leutennt Cu à Prs & tous utres uges entreprendre ucune jurdct on ny cognonce pour ce qu concerne e fct de notredte gendrmere dutnt que ce erot dre ctement contreuenr & otercognonce de ce qu pprtent àju rdcton de dte Mrechuée Et où s uroyent entreprs ou entre prendroent dte cognonce Nous es uons dés à preent comme pour ors u nent cez & nnuez cons & nnuons pr ces pre entes fne defenes à tous nos Huers ou Sergens de fre ucuns expots en veru de eurs ordonnnces ur pene dmende rtrre & de tous depens domges & nteret o Pour reuton des procez & dfferens qu pourroent nreruenr pour e fct de notredte gendrmere dontcognonce et ttruée"
+        ],
+        [
+            "r uà e ces e oO egers ettet r pen ues At ne pou e et oynt e sAtes com ns o e & pru s utres or e eoot du es uene et coqu e se eounne nton utns ux Mreehu de Frnce ou eurs Leutenns à dte Mrechuée Nous vouons commndons & tre expreément enjognons que edt Leutennt ns fore ne fgurede precez & uunt es ncennes or donnnces memes ns srteter ux formtez ccoutuméeses t à vuder ommrement & de pn AAAAA REGLEMENT POVRLES 7 7 7 E Cee RsRe merE nmEnt Auons defendu & defendons trexpreément d à tou ptnes de nouuees ãdes dedts cheuux egers& utres L de ne outrre es odts es vns des utres & udts odts de chã ger de Cptnes encores que es montres & pyemens qu eur eronr cres fts oent pour uor eru ou en pour erur uques à u tre prochne montre enuunt & ce ur pene deve Vn mos une quee montre ceux qu voudront prendre congé eront enus e de crer & fre entendre à eur Cptne fn quen eurs pces s pu ent retenr & seurer dutres odts pour tenr eurs ndes compet tes & rempes Moyennnt quee decrton edts prenns congé e ront pyez de eur eruce juques à dte montre enuunt pourve qus yent eru uques udt our ou en pour e temps qus uront eru en fnt ppror u Commres & Controoeurs de eurdt congé gné de eurs C ptnes 2 Et à ò ucuns odts pretendroent eur uor eté pr ceux Cpt nes ft ucun tort pour ron dequoy s euent ute occon de es er s en feront eurs pntes à eur Coonne ou à on Leutennt en o ence ou en u Mtre de Cmp en ence dceux Coonne & Leutennt pour ur ce eur pouruor n qu er de ron 3 Defendons u udts Cptnes qus nyent à rctrer ne receuor ous eur chrge ucuns dceux odts s ne eur ppert pr ecrt de eurdt congé ou de ordonnnce de eurdt Coonne ou de ondtLeutennt ou Mtre de cmp ny de er à ps vn de eurdts odtspus dettr qu ur de nous eon ce que deus et dt ur pene à ceuy dedts Cptnes qu fer e contrre de pruton de ondt ett de Cptne 4 Duntge vouons & entendons qués rooes qu eront dorenunt dreez pour es montres dedtes ndes de cheuugers tnt vees que nouuees es noms & urnoms u vry des Cptnes Leutenns & Enegnes y oent es premers ncrptspus eeux des ppontez à r on de vngnqures & pres ceux qu uront vnge ures & pus ceux qu nuront que éze ures treze os qutre denefs tournose tout pr"
+        ],
+        [
+            "mos Tous eques erons eon edr ordre ppeez à dte montre & pyez prtcuerement pr e Treorer dedts cheugers eu es comms en preence ddts Commres & Controoeurs 5 Et ne er ucun receu ny peé s net en ett & eéqpge requs drmes & cheuux à uy pprtenns Et à òe trouuerot ucuns qu en euent emprunté Nous uons des à preent comme pour ors decré cees rmes & cheuux empruntez à nous confquez 6 Ser perms ux Htns des eux de grnn de fre grde ux por tes dceux & ce euement pour ne er ortr ucun odt de Cuere ou nfntcre ns congé du Mtre de cm u Régment ou de ceuy qu commnder e corps à pem à ceux qu eron en grde de repondrc cuement des deordres qus feront ES preentecs Odo nces ont eteeues & puees u Sege deCon Lnete & Mrechue de fFrnce Te de re du Pscopes dceer euueyees ous es Precots nt gcnernx proucnx que prtcers c fs enehnx &uens Crmnes de Roe corte de ce oynmee ̀e enjont de renurmn ̀ execuon decëes dfenes ̀ routes peronnes de es enfredre ur es penes y coteeucs &rous uges den cogotre contre &pre de de urhor é de Voecgeurs es Mrechnue de Frnce & dudt Sege nr eror es contreue nns ge ou reuoye e ceuy pour yetre uge en premere tnce & pr pe enCour unt e gement r & donné ce rquernr en Pnon dertnere Ecuyer Coneer & Procureur d oy udt Sege pr Nous FrncoRoy Coneer deAe fte Letenn gener e Nods Segers es AMrechnx de Frnce nudt Sege deConnete Te ds Mrrsg nermcens qrnteu Sgné TRT2rE 2"
         ]
     ]
 }

@@ -1,263 +1,278 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "non renseigné",
-        "subject": null,
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "satirique",
+            "comédie"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-03-11",
+        "subject": "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-05",
-            "@who": "MF"
+            "@when": "2022-03-10",
+            "@who": "AB"
         },
-        "titre": "La berne mazarine, suite de la Mazarinade.",
+        "titre": "La bernarde , comédie. (5 a. v.)",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau581_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau580_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LA BERNE",
-            "MAZARINE,",
-            "SVITTE DE LA",
-            "MAZARINADE.",
-            "Sur la copie imprimée à Bruxelles.",
-            "M. DC. LI."
+            "L ernrdecoméde (5v) Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 L Bernrde comede Djon J Thut 65 à prtr de mrs 65 Prs Bothèque MzrneM5430FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Stre posthume contre e duc dEpernon gouverneur deGuyenne Lste des\" cteurs\" vs \"ux ecteurs\" Texte pru à prtr de mrs 65 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 9v) 580 Bernrde () coméde ( 5v) Djon J T ut 65 « Cope dune mzrnde rrssme qu nest ctée n pr Be chmp n pr L Vère ete et que nous ne voyons mentonnée nue prt Cest une stre posthume contre Bernrd duc dEpernon gouverneur de Guyenne quoquee roue sur es rrcdes de Prs en 648est queston des troues qu furent réprmés vec tnt de rgueur pr e crdn Mzrn On remrque une tee nmosté dns ce drme hstorque qu fut supposer que Futeur vt été tourmenté et ms en prson prèssédton de Bordeux On vot deurs à son stye et à son orthogrphe qu étt ourdeos Chque cte cst termné pr des stnces gsconnes qu ne mnquent n desprt n de verve Voc es noms des personnges« Le duc dOréns e duc de Beufort un conseer du pr ment de Prs un conseer du prement de Bordeux e M rn défunt mnstre dÉtt e duc dÉpernon défunt gouverneur deGuyenne et mnt de Nnonnèce de Mzrn Nnon Mronsœur de Nnon et mîtresse de Snuentn Sn Quentn écuyer du duc dÉpernon et mnt de MronPrsens sodtsetc » ‘ Extrt du Ctogue de Socnne rt 374$ L cope de cette mzrtde étt mnuscrte dnsothèque de M de Soenne L note ssez snguère de M Pu Lcrox nen ft ps connître orgnevers prose strque comédeÉpernon Bernrd de Nogret de L Vette (596duc d)"
         ],
         [
-            "LA BERNE",
-            "L. LA",
-            "r e r J",
-            "SVITTE DE LA",
-            "T",
-            "L.LLV",
-            "Anglé d’vn puiſſant coup de Fronde,",
-            "DPereeure de tout le monde,",
-            "Opprobre du Cardinalat,",
-            "Et l’anatheme de l’Eſtat,",
-            "Tu fais bien voir parta ſortie,",
-            "Qu’enfin, tu quittes la partie.",
-            "OCardinal impertinent,",
-            "Dix mille fois plus qu’Eminent.",
-            "Mais ayant couppé noſtre bourſe,",
-            "N’arreſterons nous point tacourſe,",
-            "Et nous eſtans laiſſez voller,",
-            "Te laiſſerons nous en aller,",
-            "Sans te faire vn peu rendre gorge.",
-            "Quoy donc monté comme vn ſainct George,",
-            "Auec tes forfantes pimpans,",
-            "Tu t’en iras à nos defpens,",
-            "Te panader en Italie,",
-            "Dont tu n’es que la moindre lie,",
-            "Ou pour mieux dire l’excrement:",
-            "Ha, ſi l’on ſuit mon ſentiment.",
-            "Il faut pluſtoſt mettre en prattique,",
-            "Quelque ingredient pharmatique,",
-            "Et par vn puiſſant vomitif,",
-            "Quoy que tu faſſe le retif,",
-            "Te purger de bonne manierë,",
-            "Tant pardeuant que par derriere3",
-            "De tous les biens ſur nous emblez,",
-            "E.",
-            "H",
-            "A 5"
+            "LA BERNARDE COMEDE A DJON PrTHBAVT mprmeur & Mrchnd Lrre M DC L"
         ],
         [
-            "4",
-            "Que tes coffres ont auallez:",
-            "Il faut que tu rendes ſans feinte,",
-            "Notre ſang, dont tapourpreeſteinte,",
-            "Tant de millions de Louis",
-            "Dont iniuſtement tu iouys,",
-            "Et tant de riches Benefices -",
-            "Vſurpés par tes artifices.",
-            "He quoy pauure diable as-tupeur,",
-            "Cela te fait-il mal au cœur,",
-            "Tu fais le delicat ce ſembles",
-            "A ce mot de vomir tu tremblés.",
-            "C’eſt pourtant vn faire le faut,",
-            "Ie le dis tout net, & touthaut,",
-            "Et ſi vomitifny clyſtere",
-            "Ne ſert de rien à ce myſtere.",
-            "Ie ſçauray fort bien t’appliquer",
-            "Dequoy te faire d’eſmaquer;",
-            "Peut-eſtre, qu’en liſant ma rime,",
-            "O Cardinal falotiſſime,",
-            "Tu pourras marmonner tout bas,",
-            "A couyon, tu né me tiens pas.",
-            "Mais tu n’en perdras que l’attente,",
-            "Vn iour, deux iours, dix-vingt, ou trente,",
-            "N’amanderont pas ton marché,",
-            "Tu ſeras enfin dépeſché",
-            "Donc qu’en attendant ie te tire,",
-            "Les poignants traits d’vne Satyre.",
-            "Dont le ſtile graue & mocqueur,",
-            "T’aille percer iuſques au cœur,",
-            "Iules tu dois cherir ma muſe,",
-            "Puis qu’apreſent, elle s’amuſe,",
-            "A te porter iuſques aux Cieux 2",
-            "Mais n’en ſois pas ſi glorieux:",
-            "Car i’entens auec vne Berne",
-            "C’ eſt ainſi qu’elle ſi gouuerne;",
-            "Et ie t’en dy la verité",
-            "Pour rabattre ta vanité.",
-            "niil",
-            "e",
-            "h l",
-            "eei"
+            "ACTEVRS LE DVCDORLEANS LE DVC de Beufort Vn Coneer du Prement de Prs Vn Coneer deputé du Prement de Bour deux LE MAZARN defunt Mntre dEtt LEDV CdEpernon defunt Gouuerneur de uyenne & Amnt de Nnon Les Nepces du Mzrn Vn Frncos dometque du Mzrn NANON MARON œur de Nnon & m tree de St Quentn Snt Qenen Eeunyer duDe dpernon & mnt de Mron Des Sodts pour eDuc dEpernon Les Pr ens en rmes VN GASCON"
         ],
         [
-            "5",
-            "Cheres Prouinces deſolées,",
-            "Par ces factions depeuplées:",
-            "Que par tiranniques exploits,",
-            "Il a reduittes aux abois;",
-            "Dont il à tiré́ la ſubſtance,",
-            "Sous le beau nom de ſubſiſtance,",
-            "Et mangé la chair iuſques auxos.",
-            "Sus Paris monſtrez vous diſpos;",
-            "Champagne, Prouẽce, & Gaſcogne",
-            "Empoignez cette Caſtelogne:",
-            "Tenez b ien roidiſſez les coings,",
-            "Y eſtes vous fermez lespoins,",
-            "Et fairtes ſauter iuſqu’aux nues",
-            "Par des ſecouſſes continuës,",
-            "Sans crier iamais c’eſt aſſez",
-            "N’y que vos bras en ſoient laſſez:",
-            "Ce franc faquin a triple eſtage,",
-            "Qui n’eſt propre pour tout potage,:",
-            "Qu’à faire en l’air des entrechats,",
-            "Comme l’on en voit faire aux chats:",
-            "Que toutes ſes Mazarinettes,",
-            "Ses Singes, ſes Marionnettes,",
-            "Et ſes Bardaches auiourd’huy,",
-            "Soient ſecouez quant & quant luy..",
-            "Voila qui va le mieux du monde,",
-            "BonsDieus entẽdez cõme il gronde,",
-            "Qu’elle grimace, quel portraict,",
-            "Vn conſtipé́ ſur vnretraict;",
-            "Vn vieux charlatan quiboufonne,",
-            "Vn Mulet roigneux qu’õ bouchõne:",
-            "Vn Singe qui croque des pous,",
-            "Vn Maſtin aſſailly des Lous:",
-            "Dom-Guichotte dans les eſcornes,",
-            "Vn fou quandon luy fait les cornes,",
-            "Et ouilaumesen machant des noix,",
-            "Font moins de mine trente fois,",
-            "Voyez voyez, comme il eſcume,.!",
-            "B"
+            "3 AVX LECTEVRS E ne ey de que œ mes Lecteurs verrons cerce pece Pour moy oe me peruder que nos deux Tyrns nont pont dmsntereez qus ne confeent qus me ont exeremement o gez duor depent eursmces dns cete Comede ss e veuenr donnerpene dexmner mes ronset vry que eny ps entreprs de fre vn Pne gyrque de eurs vertus e ne us ps ez hr r J dy pour mentrouuertement e ny pre tendu donner u puc quvne ver te de crpton de eur vte & dns cette penée e rends vn eruce ez condere à̀ eur me nore ss e cuent reconnotre et per ms ̀ ceux qu compoent des Htores de remrquer u vrry es vces & es vertus des per onnes es pus utres eurs ecrts ne onr n pont ceuez de mednce pr ce quen ce grnd ect dhonneur es ncntons que onne e peuuent quuec pe ne ccher àconnonce genere de tout e monde & quon et ogé de oüer ou condmnert eurs ctons pr ce quon es dot propoer pour exempes à̀ ceux qu eur douent ucceder Et comme es Htorens font vne excte profe"
         ],
         [
-            "6",
-            "Voyez comme ſa teſte fume,",
-            "Ie croy qu’il à le Diable au corps,",
-            "Que iamais n’en ſoit il dehors;",
-            "Meſſer Satan, ievousencharge,",
-            "Et bien au long, & bien au large,",
-            "Qu’il en puiſſe creuer d’ahan,",
-            "Et vomir l’ame auec le bran:",
-            "Où pluſtoſt auec la Finance;",
-            "Dont ce Fat a leché la France.",
-            "Bon bon, voila tous nos Louys;",
-            "Que mes yeux en ſont reſiouïs,",
-            "Ie vous reuoy donc nos piſtolles,",
-            "Dont il a tant fait ſes idolles;",
-            "Vous voila beaux eſcus mignons,",
-            "Mais où ſont tous vos compagnons:",
-            "Ilelas! il en faut bienencore,",
-            "Il en a ſouſtraict la pecore,",
-            "Tous les plus beaux & les meilleurs,",
-            "Qu’il a mis autre-part qu’ailleurs.",
-            "La peſte comme il cabriolle,",
-            "Il n’a pas perdu la parolle:",
-            "Eſcoutons ce qu’il chante,o!ố!",
-            "Oimé! l’où machant populo,",
-            "Io n’en popou, jo ſon perdoute:",
-            "Machante citta, ma machaute p- nutte.",
-            "Non me ſca pas recompenſau,",
-            "De la trhiſon de Caſau.",
-            "Qu’el diable de baragouinage,",
-            "Qui peut entendre ce langage:",
-            "Mais excuſés-le toutesfois,",
-            "C’eſt qu’il eſcorche le François.",
-            "Allons courage en conſcience,",
-            "C eſt luy preſter trop d’audiance:",
-            "Donnés encor ſix tourdions,",
-            "Pour ſes Singes & ſes mions:",
-            "Pauure Eminence debiffée,",
-            "D’où vient ce ſuperbe trof́e:",
-            "1.2",
-            "2"
+            "on de ne sefo gner ms deverté u eurs entmens pent ordnrement pout vertes S eue ecrt dns vn dcours ereux & en tye oren es ves du Cr d n Mzrn & du Due dEpernon juros enterement fétr eur memore pr eprncpe quon ne crot ps quvn Htoren e reouementrement Au eu que nynt ft quvne Comede de eurs mechn cetez on eror peutre que e me us eru deerté des Poëtes à̀ quet perms que que fos de fendre en qu ne ot ps necere dver de fcton ors quemtere et ez mpe dee meme Rdedo dcere ve rm qud vet An en ne detrm nt ps en terement eur reputton dns es eprts de ceux qu ont ̀ venr e fs vor à̀ ces mheu reux Tyrns que eurs mces ne nous ont ps nconnués Et peut etre prron queComede fut ete & receuë qus roug ront de eurs propres ctons & qus tâ̂che ront pr vn mndement heureux de reprer des futes qu ont ft peurerouuent notre Frnce"
         ],
         [
-            "7",
-            "Dvne Pantoufle où d’vn patn,",
-            "D’vne calotte de ſatin:",
-            "D’vn beau Mãchonfouré de martes,",
-            "De trois beaux dez, d’vn ieu decartes,",
-            "D’vne lettre de Manchini:",
-            "A Ioulio Mazarini:",
-            "Qui ſe meſlans à la rencontre,",
-            "Auec bourſes, ſtilet & montre:",
-            "Et mille autres joliuetez,",
-            "Vont brinballant à tes coſtez.",
-            "Mais qu’elle eſtrange conioncture,",
-            "Vit-on iamais telle auanture,",
-            "On nous en baille, on nous en vend,",
-            "Nous ne bernons plus que du vent:",
-            "Et le demon qui le poſſede,",
-            "Mieux qu’il ne fit iamais Salcede;",
-            "Le rendant ainſi qu’autres fois,",
-            "De l’ordre de laroſe Croix:",
-            "Aſon Eminence emportée,",
-            "Pour eſtre aux enfers ſi frottée;",
-            "Qu’aupri de luy les Gaufredis,",
-            "Penſeront eſtre en Paradis.",
-            "De grace officieux Fantoſmes,",
-            "S’y dans l’Empire des Atomes,",
-            "Où la mort veut que vous viuiez",
-            "Par hazard vous le retrouuiez:",
-            "Prenez au lieu de couuerture,",
-            "Quelque vieux drap de ſepulture;",
-            "Et me le bernez en amy,",
-            "C’eſt à dire en diable & demy:",
-            "Et d’autant qu’il faut eſtre quatre,",
-            "Quand vous voudrez vous en ébattre;",
-            "Ie bruſle d’vn ſi grand deſir,",
-            "D’auoir encorevn tel plaiſir;",
-            "Que pour eſtre de la partie,",
-            "S’y i’y pouuois aller enuie:",
-            "D vn eſprit beaucoupplus diſpos,"
+            "LA BERNARDE COMEDE   ACTE PE SCENE PREMERE  ANONET ARoN  NANON  Nfn voey m eur e fru de es enes  FEee ee nue e ere ene  Dn me eqenmne on me mommedgre  nen e pns eenr o e e ens muton  e feur  J e e ene ne eeene nene"
         ],
         [
-            "8",
-            "Qu’vn grimaut, lors qu’ilà campos",
-            "I’irois vous y preſter main forte,",
-            "Pour le berner de bonne ſorte.",
-            "Hé bien!o Cardinal Berné,",
-            "Et de la berne mal mené:",
-            "N’eſt-il pas plus que raiſonnable,",
-            "Puis que tu terends ſibernable,",
-            "De ſentir le branſle Eternel,",
-            "D’vn bernement continuel.",
-            "Tu l’as merité pour tes crimes,",
-            "Tu le ſeras donc par ces rimes,",
-            "Tu le ſeras pareillement,",
-            "Et d’effet & reellement,",
-            "I’entens en ta propre perſonne,.",
-            "Comme, ſi Dieu netepardonne,",
-            "Tu le pourras eſtre la bas,",
-            "Par les ſuppots de Satanas,",
-            "Dans les enſers, ou te conduiſe,",
-            "Ton lmpoſture, ou ta beſtiſe.",
-            "R1I"
+            "LA BERNARDE  S dutres qeernrd ne meen pont toueee  MARON  Le prer e monde ecoute es dconrs  Ms téche de ggner queque choe tôjours  Nose cce rompees epere  Mes cones ont du mons uos es ppreces  NANON  Apprence trompeuehereus epor  MARON  Ne eemporte ps tt pre os teouuor?  etoe e ps ez qe pr m ue dre  Tu te voyos o r dn Prcemtree  NANON  Ds Pruce mgnre  MARON  Au pmos dv Goeuerneur  Dn DPuc é Pr de Frnce  NANON  A fux ees dhonneur  Dn âehe Gouuerneur que notre ps che  D r ̀ quCour des prs otepdce  MARON  Ms enfn dv contnt & verte mnt"
+        ],
+        [
+            "CMED E  NANON  Amnt voous uy donneZ ce nom njfement  Non nonnuree & honteue mpunce  Repond x trtes rurs qe de uyftFrnce  E pr des eZ& verrdes onms  O vouoe or ce pone rerhercher des teons  Lugute nom de Fox qutterotfme  Dmnt femnn ms dontmon re  MARON  T pex comme utrefos pr des moyens ecrets  Reehereer es prs dns des Amns dcrets  endnt que ce D pr vnme utre foee  Croynt etre e eu que s non eree  Fournr prource ̀ nos ponsemens  NANON  Vons ueZ Mron vos duerteens  ous poues ̀ toute here ̀ tous momës sã̃s ernte  Ss mportne s fente ns contrte  Recerrher vos prs uecque erte  Cepedn que e us dnscptute  Croyeous que mes yenx pent vor ns ene  Que vous goteZ tous prs es prs deve  Cepednt que hoeur dvn mpuentjouss  Me prue de ce fruct que e trouur fdox  No oufreZ Mron es cr ees d Prnce  Et que Nnon enf retorne euronce"
+        ],
+        [
+            "COMEDE   Dont t dos te err dns cette uento  Tu e verrs eot es yeux trempeZ de rmes  Pr rous es pus eux trts que poedent tes  crmes  Conjrer t onteé dgreer quen effet  rede eeremenm o epr sf ofrr es ensDuce couronne  Et tout ce quon etme en uy horsperonne  Ms e vocy venr m œur que mes dns  Soens du mons ceste fos heureuement uus  Se8ges3 eêeéSees3é  T T T J  T SLN A  LE DVC DESPERNON NANoN  LE DVC  Vee erfn de m trte nfortne e eu menreux ̀ ehe n nmporunme  Toue e monde à̀ enuy mexcroque de rgené  Ben que pus que es gueux e me trouue ndgent  Ah que Bourdeux me coute & de en & de  rmes  Contreeré́pour uor prs es rmes  Ms ne ps comtene duor tnt tre  Que de tout mo onneur de muor depoe  De muor té dns es pdees puques?  ourquoy pouruure encor es freurs tyrnques"
+        ],
+        [
+            "COMEDE  NANON  5  Grud Duevos vouez cõme vn vnmt ger  Vor enfn couronner votre front de rer (rer  Tdehez de rous coteZ rmer des foces  Attres vers vons pr des douces orces  DeeZ votre ource & forcez vos ode  Pr vnpußnt chrme ̀ ne vous qutter ps  Pour çuez que rgent et e nerfdeguerre  Et qe ns on ecours Mrs n psnt de tonmerre  Pour moy dns eet ett Segeur e me reous  Quoy quuec depr ̀ meogner de vous  LM preence pourrot rretervengence  Que de vos ennenmms merte noence  LE DVC  e us trop on Crefen e eur y prdon  NANON  Quoy ce pepe nn ee ourgeos mutné  Ar donc ns repect ttque votre Atee  Encor mpnément ce qu e pus me eße  S mednce ur on oonneur r  LE DVC  Ms de necetfons tous deux er    Lons ces Bourdeos qu cuentdeffendre  S e eur fs du m s vedront me e rendre  Dns er eognement y voé eurs ens  3"
+        ],
+        [
+            "À ueeu derneues een  COMEDtE  Mon mheur en ce pon econdot mon der  Pus qu me permsettot ue pus de or  7  Dentretenr ojes dem fé̂me moureue  Ms hes mnteãt cette humeur dedgneu  Q vet doremnt renmoncer ̀ me vor  e jere ds ett dvn cruedeepor  eeeeê eseée  T T 7T  8    D L LN V  LE DVC DESPERNON  r SANCT QVENTN  LE DVC  A me confden de roures nes peoees Q dns exrremté de nmes doueurs pées AsSeté de mes mx vnque reconfors  Prtgent uec moy es rgueurs de mon ort?  L des mon frontdgrce nouuee  Qu frppe mon eprt dvne ttente mortede  SQVENTN  Pousrqoy vous ez vous u m tnt emporter  Cet vnemet Segneur es forees rrter  Et rendre comtre vos on eort nnee  Que de rendre ̀ es coups votre cœurene"
+        ],
+        [
+            "LA BERN ARD E  SeoeéSeeé eseeêeeéé  6J  OSN L V  S QVENTN eu  T Edet jor ye net ps ontrre s  Que e ne pe enfn ement rsfre  A ce que y proms pour trer Mron  Bere dont es fueurs font mon mten  e ne ç̧uos cõment uy donnmer queques nppes 6  Msfut en ce pont mon eprt que tppes F  Cr tu s qen effect ce fo de Gouuernmeur  Et de tous es mortes e pdus grd eneur (qun A  Qu tondrot ur vn eœuf qoe cere meur mefs A ft honteuement refrodr cfe  eros qe mous deons expoer notre en  Pour mô̂ntrer notre zee ̀ conerer e en  s mourtouehépumment o me  Qu scrfr tout à rdeur dême  Conuons ron r ce nouueu ujee  Ms vocy cet me &chrmnt oojet  e ege deete es e eduee ete e ee pe  T E 7T T  SLLNE V  MARON ET S QVENTN MARON  Ve vex doncques ps eqter tes promees Cro que ns rgent e ouffre tes crees?"
+        ],
+        [
+            "COMEDE  2  Peneu n Qentn me poor gouerer  E promettnt tôjours ms ns ren me doner  Tus cs que non humeur net ps detre excro  queue  Pourtns ce me dot efre ve choe honteu  Qe de e or ps re de monmefer  S QVEN TN  Nons ee Mron mon eprt tout enter  Soeupe ncemment ̀ chercher queque re  Pour e te pyer ps dvne fruoe excue (reux  L fortune ujourdhuy qe me vet redre heu  Me preente vns moyen fuore mes vu  T chrne enon pr es douces proes  A s en teeft ofre Pnnce de oes  Qu et dns e pnchnt dvn deepor f  S t œur contnu ̀ e trterm ne e fche ps quvne ve enneme  Pereere ̀ couurrmo dnfme  Quee por ut rõjours ce deenCour  S ouche ne e pnt que de on eu monr  En cette oceonnet ren qu ne fce  S Nnon eut enf e receuor en grce3  Lmourpumment tromphe de on cœur  Qu ne peus pus onger quà féehrrgeor  Et pour uosee emet e remertre  y chrge devor & de uy tous promettre  Connos ru qu en ce e y deqoy profter  Pour pouuor enuers toy m promee cquter"
+        ],
+        [
+            "n  2 2  LA BERN AD E  MARON  chey ce dee et or de m ete (efte JA  Pour prendre n e Duc ce veux gmd pour Q  Et cet pr mo cone qs Nonrte  Ce fo de gonerr ueqg crre5  Pus que e ortft reußr certe rue  T voonte me tent cette fos eu dexcue  s 5e trouuer e Due fts dns es vœus  Ee dy que Nno et eude ̀ es feox  Pour ne retooer pus dnsmee ndgene  Deoree rons du ng en endnce  e croy ps oentmsos qe tus pes tousours  FPyer t Mron dv euoc ecouprs  e me us jourdhuy q d̀ oene ogée  P  E t pro net que pr moy deggée  Ans donc reconoy ds des omets eureux  Ceree ogton pr tes ons mourex  Ve offre pont ceoy qeque ßme ouuee  S ru neés er os oy du mone fdee  7  4  STANC Gconnes  Es perounes que oun nchudes  er et foes à̀ me  Soun en tous ocs tnt counchudes  Que nou poden ps et me  0"
+        ],
+        [
+            "COMDE  Ququet ques gous que e grtte  Mes per exempe e Bernt  upre dene oe poore  Que guz e encre f ou ft  Condere mquet tge Lous repcs dquet front rdt?  Pod on ere vnn gtge  Ques quet n esrt Ms encre uprez dvne pute  Et oudré f du et gouyt Nnon ̀fn en reure  Prce que ey quet es crett  As tu s qu quttt es rmes pet ouede mouroox  Nnon que u ere es rmes  Ses me contret en courroux  Ereper ex perence  Qucos toute humdtt  Quec ucop de ptence  Lon pod tr dqueet e onue n dn Cnornne  Ms et moutrtet quere vn poutron  Lon counchut quet ere vn ne  Que ne f me re de on  Et es pus geneoux que qutre  Qun et e troe tout ouet  Ms ces queton de e ttre  t Et treme ors coume vn pouet  Qun et t ou Ctet Troumpete  23  ?  8"
+        ],
+        [
+            "LA BENARD 24  Aeget per ous de Bourdeu  me oun nnocente rete  Ne e rret de oun fourreu  A tque deBtde  Qun vn oudt y demndet  S oué y er de gude  Et poure coume vn edet  Enfn quet n nfme  Dens mou es et pus heurous?  Pot et netn home ny fme  Se mede f mourous  Nnon es enfn nujde  Que degun netsfe  Eehounte det pgde  Deeougne quet y fe  Bos me crere ere Ageneze  Dere te dquet penrd  Appren qucos vne fdeze  Qun vne fe me vn erd  Retourne cen densGcougne  Ben ty reouy tout à oun  Ton tge à prou oune trougne  Per ttrp quuque frpoun  F d premer Ate  ts   ?"
+        ],
+        [
+            "C omE DE  AEe éeeeeA3e  T TT  A  S L  EE DE  SCENE PREMERE S QVENTN Montrnt vne ource  à Mron  MARON NANON  S QVENTN  JOru en ce que cet ce e De dEpernon  Vu eeue n e s don e  MARON  De ngentm eurfue que e confee  Que t te cs condure ueeque trop ddree  Quyr vux out vn nmonde & e pus te jurer  Que ren ̀ ton epr ne e peut comprer  pproche oy non ouffre que e temre  sfus reconnore vnegrnde grce  fut pre ̀ ce Due pour ce r e f Souffe de on mor mgnmre efes  NANON  Se Due comme u vos n ps hmeur mequne  p?"
+        ],
+        [
+            "LA BERNARDE  26  A cetteexremte quvn chcun smge  Lors que dns e mheur quequvn ome ujour  dhuy  uenen ee  Toue e monde sttche medre de uy  Lndfferent en rt & my ndone  L fortune eut touours vn vge chngent  Ms cette ouree enfn  MARON  Prtgeon rgen  NANON  T te moeques de moy quoy qne mengge  Ds en qu mpprten d ouffrr de prtge  En vn mos ce preen et tos eer pour noy  E en veux dpoer  MARON  Cet rgent ettoy  T te trompes m œur treue de rdere  e ne c uros ouffrr ur ce pont que onre  MANON  Neps ggne  A   MARON  V cet trop r gugne  Doà tens tu e moyen pr qu tu s ggne?"
+        ],
+        [
+            "COMEDE  29  De me ter eu dvn qu pourrot me donner  S QVENTN  Cher ojes de mes vœux ppe t coere  Afn y trouue dequoy te tsfre  Tu ps en que pednt es guerres de Bourdeux  Que ous cex qd Due rent es drpes  A mtton de notre oueus Prne  Perent es nmons de toute vne Prounce  Et prm es voeurs de ces ̃ches guerrers  T cs que Se Quenn ne ft ps des derners  e me defr donc de mde gteddes  Af de toger ̀ fnr tes querees  Ms de ros ces rcns n que eu entends  Pour fre de rgentft vn peu de temps  epre rtenns qe Vnon nous e donne  Pour ous en refuer e croy quee eterop one  Nous perdons cependnt de notre ouuenr  Qu en deux ou tros momens e Dut deuot venr  Quttons donc ce dcours cr e croy q et ute  Que pour e receor notre Nnon sute  o3éseee3e ége2eeee3ée  S T J  J  L N L LE DVC DESPERNON MARON 5 7  LE DVC  TE en cher St Quentn conmmene vont mes  mours"
+        ],
+        [
+            "30  LA BERARD E  Se QVEN TN  Segeur cet ujourdhuy e ps e de vos ours  Potre fortune enfn e eroue ns ege  Ee çchez quen effet votre hmeur ere  A teeent crm vofre ede o  Quee ne e ouens que de votre eunom  MARON  Grud Prnce queque fos exceZ dvne fortne  Lors que nosvoyons etre pus qe conmmune  Atre des uoceZ dutnme pus rgoureux  Qe eur retror rprẽd cex qu õt trop heureux  ous rendeZ de Nnonforeunegrnde  Qec fte je on epr ppreede  Qe de ore e renere ̀fn on our  LE DVC  expoer pour edees ens & honneur  Et de qeque eccdent queper sentresene  L perte de Nnon entrnermenne  s cet perdre e temps en dcours uperus  MARON  ExceZ on mer  LE DVC ne men ouuent pus  Ts crnteé pr hzrd meft vorce"
+        ],
+        [
+            "LA BE rN A RDE  3  Acee qu tntotuu mon reut  MARON  os me deez mo Prnce vn eterne tru?  y ft chnger ce cœur qu pr vne houmeur ote  Aot porter Nnon ̀ fregote  Po    P  Mon dree grnd Dcvnc cet eprs  et  De tons es eux deens qu mntennt e r T  Les mx er deprs es oû̂prs & des rmes  Ds e oeur qu ut font prouuer pus de  chrnmes  e  Ceux qu deusmer one trez pr eur ort c  Gotens meux e pr detre rrneZ per Apres que es efforts dvn hor e tempete  pe  Pr des crues uts one mencé eur ete  LE DVC    Et cet dns mon mheur ce qu m conoe  Ms us pr e mon peut etre cce  h  Ms vocy no  eeeeeetesteeseeeeeégte J 4   L N LE DVC NANON  LE DVC  eute nms pree  Cher ojet de mes vœux dore meruee  0  0  uJ"
+        ],
+        [
+            "Co mE d E  33  Qu cheZ moy rends mons vnpnt o  queur?  Pourquoy ne pu à ud t fre vor mo cœr Tu reconnoross eue ue  Pr des urns de fe vueenr mprees  E ors e doont pdus de n édedre  Ts nros por moy t fere crute  N AN ON  Segneur ce compmet & ne coque & me te?  Croyous que e os cpedtre gr  S e vous y mrque queque pe de froeur  Ce net ps que mon cur neut pour vous cete r  deur  Pr q votre non votre ehere oee  Dot repondremour qù por moy voreLA  ee  Non e ny de pfr y pus grnd ny ps doe  Qe ors que vous voues me ouffrr preés de oou  LE DVC  Oontes ege ôproe ehrmnte  Lors que non e veus ee et trop ogemte  O que ce p de mors ss prtent de ron eœr  Sruens e mmnrreprr r puun  NANON  ee duu n n qun umnrus ud  Mo cœur ne demët pon ce q ors de m ouee  E"
+        ],
+        [
+            "COMEDE  3j  ms du ouuer ne e doe rrcer  Et quoy que vos ets eruent à̀ me comfondre  e t̂eher pouret uec on dy repondre  e vSe eoséée eeeeéees  T T  H JLN L V  J LE CARDNAL MALARN LE DVC  e  DESPERNON N ANON  LE MAZARN    L Nfn mgreé eort de tous vos ennems Dns vos premers es vous vous verrez re  os  ourdeux ̀ eu crer & demnder ufce uy fut ns repque er ce edce  E e gouuernement que vous uez perd  r Pr mon uthorte vous dot ere red ?  Qen dtes vonsede  NANON  uy Segnmeur et fte  Que vous fez vor vofre pouuor ugfe  He quoy ouffrreZ vous quvn peupe reuodse  Q dns es propres murs vous mrté  Trompht ujourdhuy prpropre uoence  Dvn Mntre dEfe qu reuere Frnce"
+        ],
+        [
+            "e  CoME DE  q s  33  L tot on ggeuec cnqmemorts  De nos meeurs guerrers e genereux corge  Achept pr on ng cet utre untge  e vous y grnds eros cete ogton  Que votre mors remet mrepetton  Apres qoye cror q net pont dpprene  Qe tous mes enems ne tremes dsFysce  Et snds qu et chud e rs en e fer  DeFrode ujourdhuy nous pourrõs tromper  Aemons e cone pour vor ce q fut fre  LE DVC  te Et toy chere euté que ton cœur deere  Comneur en ces efe os nons pourrons venger  De cex de qnge o os otrger  éseseeeeeseeeseese  5 T 7T  E  P  D LN V  NANON MARON ET LES  T  NEPCES DV MALARN  VNE DES NEPCES  L Nfn notre oeur urpé epermee  Que nous oonms uor de regner dns d Frnee  Tons ces Prnces ̀ qugrndeur de eur rng  F ot honmteuemene meprer nofre ng  Et qu depprouuocnt ces noes hymenćes"
+        ],
+        [
+            "LA BER ARD E  46  Ou pr e Crdn nous etons detnees  Veront dorenut e preenmter à nous  Et eront ̀ enuy de ce honneur joux  Le genereux Benfort on de éômer on frere  Luy meme pprouuer es deens de on pere  Etdms cee et nous e voons offrr  Pour vse de vous deux nous e verros ourr  Ms peun oer tous es premers cprces  Pour pres nt de mux greer es eruces  VNE AVTRE NEPCE  Perdons e ouuenr de ce q set peé  Son reper rendr tout on crme effcé  VNE NEPCE  Pour ton e fer ̀ cetee me hutné  Dont humeur ̀ notre Once dõné tnt de pene  Cee eprt remunt pour choqoergrmdeur  Sns ceeset jereedns e prt Frondeur  Et pouruunt toufors es trmes ermnees  n ms cee dppuyer es reees  VNE NEPCE  Aceordons queque choe ̀ on reentment  setot veu trter eZ ndgnement  NANON  s  Pour moy e jugeros qu erot eeere  De chercher es moyens de pouor sen deffre Connont  h"
+        ],
+        [
+            "CoMEDrE  Connont eet eprt e ne cror ms  Qupe conentr à̀ nous er en px et de tous nos muxource verte  4  Et du mheur d Dutcue depore  Deffoos d ehef nos res ennems  A uos dereros erons o os  VNE NEPCE  Sunons es monuemens du detn qu nous poe  Eprouons en effet quevengnce et docej  Lore nos rons s nos ennemss  Nu contre nos deesss ne rendr des comts  Les pus grndes mons qu oent dedns Frnce  Recereheront dors ofre node dee  Et pour pus fortemenmt oger nos epres  A vnger notre honneur de ee houtex meprs  AQe queqes mheuredx ont fe de nos persõ̃nes  Qe e Ce predetne ̀ porter des couronnes  Dns nmôtre ouuenr repons des ffrots  Dont ces fosouent ont ft rougr nos fronts  NANON  Ces des dAgenos ces ngues mednes LMont ft uques ey cent peces noenes  Meme pres es dtours fene venue es coups  s euent ece m tete de cox S n̂tre Gouermenr ne meut eruy de  s mont vou cer oe fos de der ve  nt"
+        ],
+        [
+            "L BrnA DE  42  ec quee fe n ce eu vec  c  o  s mot honteuement coup roe u cu  s me nomment tou husgrce dv veuxL  ccre  s ont ce r moy queques poes dncre  MARON  e  c  E cetfe oceon vous ués ce oy  Que de eurs vns dcours vous reZ de hon  t re) jN  neu  S nous ommes puns ( comme on peut e conno C  ous çuez en Nnon que vous etes du  tre  Au eu que Mron et cee du vet  N A N ON  Leurs mns eet fos de ouë onmo coet  VNE NEPCE  Au eu dvn Crdn de repecfer es Neces  Tout Prs dt de nous vò de ees peces  Nont ees ps e nez en ft & en torneé  Pouy vor ̀ eur ymen vn Prnce detne  Ce ntre dEtt uot rop de foe  Aors qu fs venr ces grces de  SoufrreZ vous Frncos quenfn ce voon?  Ae u Sng Roy e ng dvn poton  MAN ON  s ont ces Agenos ces nfmes etyes"
+        ],
+        [
+            "CoEDE  Ch́ deunt m porte & ps c es veres  De on gouernement qund e Duc fut Leur tsfcfossdns nfn  43  Aors ces effronteZ perent dns mes poches  Pour prfmer du D es nouches ̀ Loches  MARON  Ces monfres de eofer ces mheureux eprs  An que depus peu emo meme pprs  Nous ons onseuement dns Agen outrgees  Cr enfu r ds porte ò nous etons ogees s ont ecrt Mon o Borde ̀ oer  VNE DES NEPCES  L ces pepes utnsfe oer  Ms tous es Frnços ont pour nos tnt derge  Les vnts Bourdeos om ené eur courge  Nofre once dns eurs murs e vt m trter  Que n homme dhonneurme y fue vter  Tous es commndemens que eur ft notre Reyne  Ne peurent ren ggner r eur hueur htne  s ont trttenotre once & e Du en coquns  s en onr ft cent fos des nfmes fquns  Leurs grndeurs ̀ ce pont on pr eux meprees  Que eurs noms one ojet des pques rees  Remettons douc e Duc dns on gounernemene  Qoe ce grnd honsme enfn t e contentement  Sur ce peupe necé douurvengence  Sns quucun t e cœur de e mee en deffence  F j"
+        ],
+        [
+            "C omEd e  Pour es Preset rop dgereuxs  Dexecuter contreux des rrets rgosures?  Leur nomre et trop pnt & cetegrnde v  Pqurros redre ement ce dee nmute e e eenen eunern e en  Pnon qeqv nenons ̀ eert  e  45y  NANON  s pour des Agenos cfer noenee  Prenos ur ces monet vneenfeye vengene5  Qee de ng dns eurs urs coue de toutes prs  Aonmos out fns hões fémmes vedr  ettonsvde e feu qùfnvren ny rete  Que de nô̂tre courrox vne mrque funete  Et pour porer encor ps nmt os efforts  Vengeous nos s e pe ur es cenmdrss des morts  MARON  Et prce qu et vry qe pr oeFrme  Tout e monde de nous pre uec mednce  Que es femmes pr tout oes nommët des puts  Fons roer pr tout des odts nhuss  Qus forcent en tous eux es fesmes & es fdes  Que ce deehonneur entre en outes es fdes  Afn que ny rene nue femue de e  ̂re exe ujorduy ne nos reproche ren  VNE NEPCE  Aprés es grnds eets dvne ute coere  F j"
+        ],
+        [
+            "L BE rnR DE  46 fut que nô̂re eprt ongenous tsfre  Lmor qu dtout teps regné dns on cur  e rû̂e eement pour e Due de Mereœut  Qe e vex vor venr cete heree ournée  Oà ous ccompros sôtre dftre hymenée  VNE AVTRE NEPCE  Au grnd Duc de Beufotrt e voudros me donner  S mon once ujourdhy y pouo prdonner  VNE AVTRE NEPCE  eyns vouor preedre ̀on Roye  e oe contentery ds Segeur de Cnde  NANON  Et por moy e pretends que e Duc dEpernmos  Renonee ̀ on hymen pour epouer Nnon  LMes fmesonemps ont pe pour des crmes  Quedes vdee effn deenr egrmes  MARON  e nenr ms heusr de otre det  S e Due me more ueeque St Quet  s s etrre mss deds nôtre nce  e veux q ce gdot Duc & Pr de Fruce"
+        ],
+        [
+            "ComE E  cp  47   STA NCES  7 T   Gconnes  TEé het ces tu quet y  s ouprns gr de en dquees en gup  Dont ous s nous oudrenen  L corde u cod u ps de es tupes  Son gen à nous et fe mue fd  A dus eprts que oent tout tud  Contre eur rge nen nous prepr  L ptencees vne cue otte  Sche que res ne e pot compr  Afurou derce Coudote  Qund perfute vn prue hõme es perdut  Lou monde r de ou ere pendut  As tu prs grde en dquet Crdnu  Ls tu s d ge me que ten eme  Nes ps & en vn nes dorgnu  Etes et ft et mechn tout eneme  Ms et es fou qund & cre touton  Que ous Frncez deen crgne vn potron  QueBernd m fet rre touours  ou nou cur mempech de ou pgne  Qund et e png de ous trtes mours  Et que ous œs de es rmes et gne  Acos pett de ere oupr  Aquet erd que nous fe que pour"
+        ],
+        [
+            "LA BéRtARE  48  Enfn pertn ou nou cur ouffr  Quvn homme e mouroux à on âge  Snt Mthurn ne ou çure gur  Et es trop fou per podé en ge  Apresquoqu y pot prdonn  Quvn teprt nous eue gouern  Peupe Frncez et fudré e deff  Dquets tyrns dont ou co nous mence  Au ps nceu quet fut f  Et nous fudré eur donn dece  Lon nous prendré per des mrmorts  S deux n guds nous prene en per fts  Per e de ure en en pts  Been enfn es cnq gupes pendudes  Ou permetten per pour eurs peccts  Dns vn conen quees en tondudes  Aec ou tens per vn on repent  Ees een e pourrn comert  Fn duecnd Acte  tt&uu  AA  A    vV  AC TE e"
+        ],
+        [
+            "CMẽ rE  49  ooepe poue  ACTE  CEE E  LD E   ALN E EEE  VNCONSELLER DEPVTE DV  PARLEMENTDE BOVRDEAVX  VN CONSELLER DV PARLE  MENT DE PARS  LE CONSELLER DE BOVRDEAVX  E duoe et vry nos ommes en rpr  De vor e zrn trompher dns Ps  Ce pompeux ppre cete uere te  F vor e trte eft òfFrnce et redre  LE CONSE LLER DE PARS  A momet goreux que nos rues gerrers  Couurent ereemet eurs tefes de urers  Que es noes efforts de eur rre vnce  De os fers enems font trompherrnce  Qe Epgne en dépt de nos dufons  Perd e frut tout eeer de es uentons  e me pus memepecer de condmnercrnre  G"
+        ],
+        [
+            "LA BE r e  56  Don vous ofrez q cy votre me ot ttente  E CONSELLER DE BoRDEAvVX J  e f vor prpeur que vous o ez âmer  Que e h dett ̧t eot eu me chrmen L  Mon epr t et r de dftre og  D nos hrurs gue rers qu empo es e corge  Quence ̀hnse pprenmeà etrnger E  Sou n noueu poouor qu ootrger  Hors es dons qu net ms poße  Quepropre veur nerende nonce  s e ne pus ôfrr pres ce eu comt  De vor e Mrn dns vnut ee  en que es Frnços oene couromnez de gore  Qu ce fo de mntre s douent eur vtore S  e quoy ce grnd Royumse ò ogeveur  Nofre chere ptr ee ce mher  Qede nt pet produre ve ee peone  Qu ç̧che heureement protegercourone Ee qe mous ne pons vncre ns prtger  Lhonneur de nos rers uecque etrnger  LE PARSEN  Qenporte de que eu nous venne ftce  Poure qe ce ecours reeue otre Frnce  Et quee voye enfn es genereux enfns  De es fers enems desenr romphns  J"
+        ],
+        [
+            "Co Ed e  LE BOVRDELOS  3  Ms pour v teeffet net ps necere  Qee ntre Frnce enpoye vne mn efgere  Le dzr por eddt nfore ppy  Q ede ̀ pus de cen fos ces rropover ns uy  s qud mene on rs couronneros p tete  Encor pres vtefnut chercher honete5  An uunt es ox que nous prer oner  Qund es dens eron econdeZeur  Ss ceer e ort dv cnuge cprce  n cror que de Cemurs rend ufce  S frunet ̀ rrm uer  Sns or ne édêmer on pndr mon mheur  Ds ce fefeef eésn pe coneffre  Se mheureue que e ne dos ps e  Et ydpuequvn rn de mo doerte  ure drer reserofe  Cete pedrf me pourr sfre  Quprés tosr nr fee que e deeos fre  s enor croye vous quece é̂ce efrger  A perdu s defr qu ̀ de e vnger  Vn oée ecez nmnt on courge er eonre os écter qedque orge  LE PARSEN  ous nuez pons ̀ crndre vn mnquement de  foy  ous ués pour grproe du Ry  FE j"
+        ],
+        [
+            "s  Co me e  Cee ont ps es ons donmt ce fo e trde  me onge mstoe extremté  ?  Q mtenr éer de on utorte  Ms ps q̀ ce osdheur e Ce nos ûdone  Qe ce â̂che ujourd uy gosuernCouronne  e murros s ds qe os Frçoss  Tronperons ous uy pr eur noes expos5  Sous voos nr cet omne de os erres  Nous ponrrons nous eer dns ds ouedes guér  res  Lpnnmce qnu ̀de e vger denmos  us ftps er eprer o errox  LE BOVRDE LOS  Les jets de n per omt dffrs ds vofres  Le forees de Prs ont ures que des mofres  Quees Rrddos e oene ̀ demy  s rroet come vous de ce fer esy  e ne ps mc frer dv vne epne  Nou ne çuros tesj costre toueFrnce?  e genereux Turenne ynt efé ttu  Nos orgeos uront ou é pquer d ert  Pour ntenr effer de ders dex utes  Les forces des Frncos netne pont duertes  s verrnt dex rns qu vone er foy  Frons rcher contreux tous es oddts du Roy  G j"
+        ],
+        [
+            "34  L Bn d e  eéseeesesesseeé  T T JT  4  O N A   ?  VN FRANCOS DOMESTQVE DV CARDNAL LE CONSELLER DE  PARS LE CONSELLER DE  BOVRDEAVX  LE DOMESTQVE DVC ARDNAL E vous etonmnez ps quvn de es dometques é̂me ds Crdn es fureurs yrnques  e ne çuros ôfrr ee que eee Ernger  Medte core vosf de e vger  Etnt nevry Frnçcos e dos pus ̀Fpnce Q̀fy qe mon cur dot à̀ on Emnenc Encore queneffee e os demo  e nme pus pproerd̂ee rhon  Sçcehez done que depus eeee utre ournee  Que dvn nouueu durerFrnee et ecouromnee3 Que depus ce comtfmeue à hcre  Os tre re cqut vn oooneur more  Ce utre defe euenmé derge  ece de rempr toue Prs de ernge 3 veut regner en Frnce & onnmto  Oe tour mnmoer ̀ cette pßon  Et prce quuourdhuy e prty deFronde  Empeche e deen ou on epor e fonde"
+        ],
+        [
+            "Co me d e  e veut r̈ner & pr foree emportes  53  Ce qe pr es vertus n pes mercer  Dnsce meme soment cetyrn deFrnce  Et e Due dEpernon conutentvngnce  A q ers eems ne peuuent echpper  r eursoeneos sr e ene romper  LE BoRDEL0S Le ojet de n crme e hen ronep  Aerons nous e s f qmos eee  Où deomus enfn preuer de mâur  LE PARSEN  Vos ne curons uor v enmment meer  Sofrnr dece tyrn pus ong enmps es mces  De es mehceteZ nmos nous rendrons compees  Ls psr ne fre pont des efforts qu oené  s  Que e rue eufor eonde nos deems  Nofre Ve un que fs vôrre Prounce  econot crement nmocence du Prnce  Esôtre Pr ement en cente ocefon  Sccorde hurement ̀ vtre renton dej pr fon Aee Poye  De mere en erté ete me urpe  Ce Heros qunet neé que pour nous oger  E pour uer r de mns de Ernger"
+        ],
+        [
+            "L Be ARD E  56  eeeeseeeeeeeéeeeeeeeeseeé r  T J  8 J N LE  LE DVC DE BEAVORT LE CONSELLER DE PARS ET CELVY DE BOVRDEAVX  LEDVCDE BEAVFORT  re  4  A quemon eut ne vue e nun Que fers m rrne enee ononcnure vò goree & tes noes enfns  De on oe enemy mntennt tromphns motnt t veur e ne çy que reoudre  E nmgré tes urers e crns pour toyfoudre N  T gore met pee & onpropre on eur  e fre e mo eprs e ne c quee peur  Ee oue meme mn qu couronne t tete  Ade fs pprehender qeque horre tempete Ce nntre crue ms ne chnger qes e per e trtre nos perdr LE PARSEN  Ce deen mntemnt meeon eprt epene Ee eeuy de ce Duc qu trouGuenne  Ms que es Bourdeos nmmez utement Ond fn ehe de on gouuernement  LE DVC DE BEAVFORT Ce ft nfrment deperte commune  ho t oûjours notre heureue fortume  Force"
+        ],
+        [
+            "s  Cnt  Foree s yex pour come de ̂  A meu deoye ̀ e noyer de peurs?  Et fr erur e oeur deFrnce  gy  A executon dvne mute vengnmce  Nofre oer e cepont erop nterefé  Por ouffrr ps onemps eeét eprt ené  A es propres depens nous uy vouons pprenmdre  Qee de es trhons ous cuons nous deffedre  Nous nuons ps eo detre fort genereux  Porompre d tyrn es deens mheureux e 5fut euement quvne mpe ece  Afn de oger dndonerpce  Vu etre es mores ymetrhon  Qe ne ot ee spr mene ron  L OVRDELOS  Pour e ponr des mnxquft dsFree  Permettons que e peupe en trevngnce  De dex tens que e treps honteux  Aprenex etrngersdemeurerehez ex  LE PARSEN  oze vos duouer que pour nous sfre  Le Mzrn erre vme mot exepre  L Putce e vent & pere quenf  De ce ce tyrnmheureue fn  Frot ̀ duenr pdus de en ̀Frce  Qe e doux procedeé dne vne cemece  H"
+        ],
+        [
+            "COMMD E  LE DVC DE BEAVFORT  Cette meme penée et unt dns mn cœr  s pour pouuor ̂gruec ps de vguenr  e voudros que mos on tee Roye  Truddt ̀ srcete e deoye  eesgéegeé 8  r SCENE T MONSEVR DORLEANS  LE DVC DE BEAVFORT  MONSEVR DORLEANS  Voy donc mpunemeut ces nfne etrnger?  Det es propres yex ur peu moutrger?  Quoy porros jendurer q t eu noence  De condmnerfoy des pus grnds deFrnce  Qc Frfx & Cromuescompre uour  E dom effrontemẽtme nomme ppuy y  LE DVC DE BEA VFORT Depsqe r e ng demon oe  e perfdeportéfureur ns ége  en efet en pro tros Prnces ms  pene qu net ren qe ne uy ot perr"
+        ],
+        [
+            "C o 63  On ne curot douterdemce extree (me  E que es scheteZ que ns cee comme  Codmnent qu es vot & qe es uy permes  Vons deoez de ce fo deurer notre Frnc  Ce er heet eeonder epernce  Dont ecee renoe ede oe e er  LE DVC DORLEANS Defortes rons e douent emporter c ogeex depens d me  A repodre des ux qu trodentpte  LE DVC DE BEAVFORT  De pus e Prementde deedeé  Qeou ge e procez d Prnce de Conme  Qee et nmnoeent vet quon erge  Qe sd eft crmne que e Roy e pune  Aprez tous Mogner netpont de rfon  Qeon trnedonenmps eros Prmcesen prfon  De eur detenton ns quon rendece  LE DVC DORLEANS   Cet ee que ce moment mon epr e propoe  Cre conets por eé Eft?  Q de ce grd erosFrce seurt  e voudus preuenr pr vn coup de prdence (rce  Les ux qon me f crdre nec trp pp"
+        ],
+        [
+            "s  OM  6  Qe rpe cey de nos Pres dng  E qoe pr pe horre & ongue efrontr  voé rget de toute ptre  LE DVC ORLEANS  Ses ehes procede ecen vrercnt  Ses vos merterpet pn te chtt  E dns e rteettoFrnce etrete  e me s reodu de rreterutte  Etpouréô tof ohercét pme eureux  Dons e proes Pre genereu  e npreede pot gue ce dereorge  e vger de nous ene on corge  LE DVC DE BE AVEORT  Le es deptre ̀ re Prceet eher  Qev hmueeux deen nme e çuroutoche  LE DVC DORLEANS  Et qund meme Comé́ e trpuerpt cpupe  Ps ce prcedé ne er pndonne  Qu punt on erere & on frere uec y  Et per dex uncespour es cres dtruy  p  STANCES GASCONNES  ere Bernd êure quy frn( rp  V Tonuppot et perdur ture que ey"
+        ],
+        [
+            "sS  L B nn  Qu de nous trht note Prnce Tonmc Mrn quet de ncrnt Hors de note pys er en eu ct  Comme tu es de hors de note Pronce  Becy ce que Bourdeu ne te çue cch S t es on p res ne pot enpech  Que Cdec nngue perterre  Ms en ren pren qunut notes es JS  odts  Ne euüen ps rmforce de eur r  A dous mpes cus per n f gurre  Deguntes chets ne preten m  Lon ou dus ennemcs que poquen ug  ment  E  pereur deffence note gor  Et notes Bourdeez ec tous eurs trux Nn ouut que u ous mhour oux hou  tux  Qu ruu ou Pernon mettee or  Once de note Rey dece dus Frnces  Gton guete ett onprue Frnce és  Ere ngus en ee ge  Ceme oun tyrn? fe y rompé ous fers  Perde ou ouen dux mux que eouf  ferts  Ton coreout ce quet oure  Aquet en de treme de me pou  Etou guz pn quet nés ps ezou  Afn dttendretmpete"
+        ],
+        [
+            "C MME  é659  S ou uy on den on pot segur  Quen dquete momen et eprepr  Pet vne re fuyte à gurnt tete  Aprez extremtt onFrnce e ey  Lous Frncez à ton cntern à jmey  Que de eur ut et es nchre  Et pouré uquu out oge ou pys (hs  Set ouffré que dquet que noustnt tr  L mort renoueetz ou ort du Mrqus  dAncre  De tnt de mux ouffertsreprton De tnt de ens outsrettuton  Me emere en necer Queou Mzrn pod entu secp (p Tout ou mõde ens pou guzer nous tron  Puqueper ou oufr on et rn oontr  J   Fn du troéme cte  H perè r   s  ?"
+        ],
+        [
+            "re  L B n A 3e 3 e é e t s r    LE  e N  o E  rD  FNE DR N E E L  LE CARDNAL MAZARN J  r vN sEnN nosSTv LE AAL vene oodeoese eere orroeds 4 pete  Qu commenee dns r à gronderur m tete?   Ah ds Premet poureus tetouours  Tes mereux dees qu out de mes p  ëors ?  uquoû porteru es effets de t hne?  Quee erfn de t rge nhunne?  e ps tsft des pereécutons  Qe tu m5 ft ouffrr en tnt doecfons  Td ms fe oe ffronts dont emondre et c  pe  e ene n punmtordpunude  Eteree equté que t ncfe rgueur  unt euereent es crues de mon cœur  2  Jp"
+        ],
+        [
+            "Cs s t 3  Nonses mnx que y ft edurer ̀ Frsce  Ne çuroent ertercree vengence  Qeen feur des uets reees ̀ er Roj  Etterre & e Ce ordonnent contre moy  LE DOMESTQVE  r   Non non et eertn quen fn votre Eneee  Ade todus es Frnços épteneeé?  Croez vous que cet pe orrrE  De otre uthorté por mntenr eët  Edept dus oér q nos rs ccompgne  Oorx pe retrderperte de Epgme ?  ee re que dor detenu ens rons  Le generex Beufortdonemps en pro  Vos ez eesé tot rgent deFre  Sns pyer x odtsmondre utnee  Vuez vous ps vou perdre es Peens  Prce qs soppooent ̀ vos ceonnemes  Er por venr ̀ ot dvn deenrgque  Pos ueZ me fos trhfoy pcque  Fe en cét ett que e Roy voes t ms  Porfuderes uets pus que es ennems  Et qeenfn es Frnços conentent ̀ erperte  S e frnce ̀ ercrs n ps oree ouuerte  LE CARDNAL  e doueft vry e ne pns eceer  Ames eus ntereffs e e e teeer  L perse des Frncoet pen orfdere"
+        ],
+        [
+            "LA Be 74  Dont pr mon urce vn pe trop dergée  L Frnce etot de preque toute ccée  e cs  Aors es Premens pr eur uthorté  Sentoent mons ce emot cete neces té  Sns ongerquds pouuoët renuerer n fortne  e vouns es pongerspere conune  De uut hors de Prs eneuememt du Roy  Tous es troues pucs mes mnquemsems de fy  De mes muds coes onehonteue ute  Pour enfn ous nes ox vorFrnce redue  Deurs sppreendos quece eune eros  Qu rompot mes deens qufoent monrepos Ne port̂t trop untderere vctore  Et qun Epgnorenoncnt à gore  Nchepet ̀ eeprx qu voudrot cconder  L px quen ceét ettot demnder  eus peur en ce moment que ce genereux Pree  Ne ous ft deFndre vne utre Prounce  e vouus eopecher pr vs copde meur  Les goreux effets derre veur  Du pys etrnger e duerts es rmes  Qu depus ̀ Prs couterent tnt de rmes  7  t e  e  e cçen que cetos trhrvos nterets  As quon pprenne us qu e fuyospx ?u  LE DOMESTQVE  Comment outenmdrez vous cette nore utce  Duor empronné tros Prnces pr cprce3    e  e t  Qu  e"
+        ],
+        [
+            "C o D E  LECARDNAL  e cres que ce deen netot pspropos  Et qec vne rnséee erot fce  7s  De oumsere ̀ es ox cette upere ve  Ders er Gouuereur & Cude on fs  Sont es ps eurez de es meeurs ms  Et d mes nepees vne etot ors detnée  De ce jenneSegeur̀ ouffrr Hymenée  LE DOMESTQVE  s Cet pourtne uourdhy e eu pont qe vous  Edopus qà eur crs e chemn et ouuert perd  ms es Bourdeos nont ceé de e pndre Et de ̀ venr eqe vos e ̀ crdre  2 LE CARDNAL  3  Lers mudts Deptez prvn on mport  Seent me preprer vs eur on commeu  LE DOMESTQVE  Et puque pr oeur e preuoytempete  Q peut dns vn moment ccer votre tete  Ne trouuez ps muus quen meognnt de  e te de me etre ̀ ry de tes coups vons  Quevous ne onge qù ce qu vous regre  Cethomme et nene qu pour vous e hre  2  3"
+        ],
+        [
+            "CO8D ẽéêeeg  e  r  2  2 Y    L L V L  sgts   LE CARDNAL SEVL  Dure ues enfs que eonepredrs  e ens qe ton epre et roue preque tu  Cen et fs ̀ ce cop es propres dometques  Sotennet cotre toy es querees pquses  Prend grde à̀ toy de preés u ne peux eehpper  A cex que to eprt ceustouuent tronmper  FueGyene vne eue Prounce  Sote ̀ deder d ertede Prmce  uos cre ns ron quepxde Bourdeex  Sert pour per tos des proues noueux  s e voy qu fot en couperrcne  Et pr v on cone preer rne  e deuos conteurer ce pepe geerex  Deurnt e pys dvn tyrn mehereux  Contre des etmens queegne meon echoe  e deuoes me reouedre ̀ tenrporoe  e eros ̀ couuert des mportute  Qus me fout prvox de eurs fers Deprez  Lhoneurde o my de ce Dc ere  Au prx de mo t net pot codere  S y uques cy try honn ds Roy  Et ee de Eft pour ne pener q̀ moye"
+        ],
+        [
+            "8 LA BE RNA E  Fu pr des moyens qu ont pe egtms o  e demetr moeme & coquer es gx  e oy que pr mheur e prefere ourtmes  mon propre repos es nterets dtruy  ereresuegogsseseeeeess8   T T T  D  S EN  T LE CARDNAL  T 5  T E  ET SES NEPCES   LE CARDNAL  N  J ere ders dvne utre fortne  V Tont dvne grndeur q netot ps  SoyeZ ̀ e v exepe fex conmene  De ntté́ des fuors heureux  e prepros pour vous des noes Hymenées  Ax pus gr̃ds des Frncos vous etez detńes  e croyos or en euré́ m grndenr  Q  Et pouor trompher de ce prt frondeur  Q rnmnt on œur dvne nouuee udce F  Me eoe preprer queque etrnge dgrce  VNE NEPCE  Croyez vous en qupres e comt de Rehe    r"
+        ],
+        [
+            "C o n n rn  79  on pe en queque prt rencontrr vs more  4 Qu soppoe ux deens que concevr votre me  LE CARDNAL  e y cre comme vous & dvne dgne fme  Dãs ces ex chmps de rs e y ee  De ous mes enueux pourvox étoufer e  uenenere e ene e en e eee  Ne curoent epecer es effers dehne  Qe es pepes pr tot ons conce contre moy  VNE NEPCE  Ftes vor cotreux thorté ds toy  LE CARDNAL et ere eurs mns  VNE NEPCE  Eneuon  LE CARD NAL  L e En etnt roméeerot dffee  VNE NEPCE  Monfeurnpprtent quux hõmes generex pe eomuer dun reus q e un de eueun"
+        ],
+        [
+            "8o  L Br  LE CARDNAL  Mon me qo qucy mon ourge y de  Crot que cette penée et vn peu rrop hrde  Jme nmeex dns d Frnce ndoõner mosë  O e ne pourry perre prez tout ren du men  Et fre effort de mettre en eureté m ve  Que corr e hZrd quee me ot rue  Qoy qu en ot votre onee et tojours Crd  Et cete dgnté́ dns mon pys nt n  Couurr e defut de m e nnce  s voudront tou entrer dedns mon nce  Qund e vous doter de rgent des Frnços  Qu des duers prts vous donner e chos VNE NEPCE  Heé que deuendr doe e Segner de Cte Je  S pr votre eoed je ys deoye  VNE AVTRE NEPCE  Ms encor que fer e grmt Due de Mercœur S e ns n es mes de moncœur?  LE CARDN AL  Eee  Votre fdeté dns mour et oe3  Ms en cette rencontre ee et peu prdonmne Leoy reuer eu pour pouuor ̀ or Medter e coned que nous deuons chor  SCENE"
+        ],
+        [
+            "o usr  AAu  J  u 4  O LN ALA  E LE GARDNAL ET  7  LE DVC DESPERNON  LE DVC DESPERNON  Tò vous ventoudn cetre menchoe?  see pr mheur qe vô̂tre eprt sue  Appreedos tt ceroees Cors  Que cõtre ers efforts vous mqez de ecours  Que que ot eur dee d chercher des vëgences  er poor e setéd qù quee ques rensontrãces  Qè des pntes qon pet o ne ps ecoter  Ou ues trop de per emens rerer  Poorqooy doc coceuorcesfryeurs ns prees  Pourvn m quon eute en fermt es orees?  LE CARDNAL  Ceey net ren ee eme& porẽe cet eucop  e ne pos me uer cotre vnrde cop  Ces remontrees ont v pe ps qe des pn  Et font uec ron e ujet de es etes es  deeros ̀ eouert pr eurs jetez"
+        ],
+        [
+            "L B R n Se pouoent meprer es mporttez trmee Q ous vnemom quvne home remo  Dpenent es Frnços de euroeyence  E forcent en ouunt ushorté des Roys  De eurs propres Sujets ̀ receuor des Lox  Cet er dre en v mog fres de onnegrc  Ce qu fut mgré vous ̀fn que on fce  LE DVC DESPERNON fut pour cés effet orforce enme  LE CARDNAL  7 Le peupe m ntrut esonde eur deen  Et eon es ds q ne deuros ps uure  Ne erns qùpreZ es mus rrteen6  Le Prnce e seoporre ̀ des reeumens  Po  V  r  P  A  E  demde usouy qe e Prnce o eure  LE DVC DESPERNON  Que uy peut nprer vn derde vngence   L  LE CARDNAL  Les peupes ne ont pus dns cette nmeffnce Le Preoment repond que ce jeune Heros  Ve onger js trouer eur repos  Et ece fus condmmt eurcrmte omme vne Tournët comtre nous deux tout effort de eur hnes Le grnd Duc dOrensnee conent  Aeeque tout e mode ̀ qttermon prt"
+        ],
+        [
+            "Cs u s  LE DVC DESPERNON  3  et vry qu ur nous oor tont orge  S Condeé peut ortr de on trte eeuge  Purent qooy que Prs vous pße demnder  Votre eprt o dot rend ot pprehenert  ous eftes rout pußnt dns e Hvre de Grce  Pque e eonmmndnmt tent de vous cette pcs  A toge xtremteé́ornefre s furprs  us netes ogeé qd orr de Ps  Et de peur que ur vustempete nette  Andonnez es murs de cette ve grte  Fees putot effrt pour eneuer e Roy  u  LE CARDNA L Le pus e ns dnger  LE DVC DESPERNON  osrempre deffroy  Les eprts de tous eux dont extreme noence  Oeutement choquer votre Emnenee  ous ués des ms qu vous coderont  LE CARDNAL  n Ty pourros pr mheur receuor quetque ffront  LE DVC DE SPERNON  Le dnger net ps grnd puque e e mepre"
+        ],
+        [
+            "2?  Lt  LECARDNAL  A tot oonderercerte hute entrepre  Ve pprroe ps sexecuter ns moy?  LE DVC DESPERNON  ene veux ps doeterss e m que yvoj  os gens e porserpt uec pus de courge  S e nmeee dgernrceux vos enggé  LE CARDNAL  Lonses dngers pour ne vous ftterps  e ne fe ̀ mes pes spe pds qmes rs  LE DVC DESPERNON  e s de votre dus & mon me etrue  Qe Pous nexpoez pot foemeoe votre ve  Et moy meme pre tous en vZeros Prtez done e putot qe vous pourrez dey  LE CARDNAL  Qud es Prfeus me verrot hrs eur ve  Leeemet d Roy vous er ps fee  e me vy de ce pt mettre ordre pourprtr  2„"
+        ],
+        [
+            "83  Cs st ûtssées u s sesep   u r  J  L L LN E V  LE DVC DESPERN ON  NANON  LE DVCESPERN ON  S T vry que e Ce ne pue conentr  Aee que os goutons vne prfte oye  NANON  De qe oe er eeos os preyês  Aprez e eu cceZ du comsr de Rete  y cre ds Crd e retre te  Que e ort ne çurot renuererfortne  LE DVC DESPERNON  A de ces Premensfureurmportume  See 2uor ttendu ce heere one  Nootmt notre epor pour pus eneent  ous fre reentr des eets dehne  NANON  Queeoneddone prs cette Gouromuerne  LE DVC DESPERNON  Ee vet retrer e Prnce depron"
+        ],
+        [
+            "3s  LB n e u  Et e ne pusçuor pr quee trhon  Ee ft quourdhy on Atee Roye  Conent ̀ deturercette me mrte  N ANON  Nous ommes doe pendr  LE DVC DESPERNON  e ne çy queperer  e  Mon cœr cotre m peur ne me peut reeurer  Et tou fdee mnt erot nconoe  ce e ort dns mour ne metot fuore  P   Et  A  NANON  E  s Asome etds mherex en tous pouct Ce  LE DVC DESPERNON  P  Ton mour & s foy font preque tos mes ons  Ees rsfco qoVno me donne e  M durcent ux mux où e Ce m dou  Et fpour m grndeur e forme queques vux  et pour en fre prt ̀ ojet de mes feux  NANON  Ce net ps dourdhuy que y çeu recônotre  Cetté or que mes yex dns vôtre me ont ft  tre  P  Et quoy que mon onneur mt touours eté cher  vus uez qù dfn e oypeu mempeehers ee"
+        ],
+        [
+            "L Brr n  e  Puque otre our depen de m peronh3  os e verrez duerer q ternné́  5j vos nme rtehez qu s fdeé  LE DVC DESPERNON  e e demde re pre ete erce  Que moge u dè de m propre epernce  e een vy cependnt comme e y proms  Poureneuere Roy preprermes ess  eeegeeegeeneetgee?  T   E  SCEN E V  LES NEPCES DV MAARN  NANON ET MARON  VNE NEPCE  H mes œrs qordhuy os os mherees  Le eur de vos vor ous renmdot orgue  ees  Ms quvnrre enduré pe de teps  MARON  Les prs es ps grnds ont es ps conts  VNE NEPCE  uns nons eu onr de votre connos  Qee"
+        ],
+        [
+            "C 6 u se  89  Que pour ouffrr ftot vne rds ̃nmee  A pene goutons nos e pfrde vous vor  Qu nous ft os reoudre d̀ ne ps reeeuor  Ces tsfctonsgrdes &cheres  NANON  Ne nous fttez pont tnt ees ot en egere  Nous memes nos croyons que nous vonspe  Que vous ne nous tenez ce dcours que prje  Cette cté́ érot meux ̀ nos ouches  e  t  ct  Qu  VNE NEPCE  Vnon pr t douceurteement tu me touches  Qeee me rouos dvn exe dfferent  ros portes ex yex vn mors grnd  Qge ceuy qe ton Duc conceu pour tes chrnes  N AN N  Cet à vous quen rous ex des cœrs rdët es r  Et es Frnços eront dns vn ueugeentmes  Qund s conentront ̀ votre éognement  Pourrotr de ehez ee vor prtr ns foe  Ce que de pus prftprodt te?  MARON  e vous dor en quen ce crueArret  os Dmes troueront vn heureux nterot  S on ne voyot pus vos eutez ns prees  Reure dnsCour comne tns de omeruees  6"
+        ],
+        [
+            "Cs d  9   STANCES GASCONNES  e  Augré urçe mudte  AvQusy fde et es nent?  Augues tu mey pent  Ahonte que ec eur te  Ms nnen ps es ccu  Erres çuren e degu  Et en contr es uerdes  Ms prez eurs confeons  Son erres ez esfrontdes  Per dene g eurs ctons  Et es en ry on ou du creyre  Querce dus Mzrns  Ncs ps per ure en Cpucns  Tout ou monde ou pod en cyrc  Beyc pertnt ce que metonne  Quet sy tro quuque peronne  Que e fde en dus ponts tructs  Ms encre ce que me fche  Acos qu dem ous peccts  Son perdonnts qund on ous cche  On set quen notes eprs  Lou Crdnu senf ges  Notes ons ern nutes  Per retr ce quetprs  Nmporte oufren toutes cues"
+        ],
+        [
+            "C D 93  e ssp  T E 7   A  A A L LV  mo d SCENE PRE MERE  VN CONSELLER DEPV TE  DV PAEMEN DE oyRoEAvVX  Et vn Coeer de Prs  LE CONSELLER DV PARLEMENT  DE PARS  Neor ceét efrnger ceét ojet de vos pntes  Le zrn e e je de vos crstes?  LE CONSELLER DE BOVRDEAVX  Ce net pus ourdy dntereft deé ourdeux  Q ette moneprt dns des troes nouues  LE CONSELLERDE PARS  Ce perfdequtté́ honteuementVe  LE CONSELLER DE BOVRDEAVX  e crns que do nt prs vne pene nte  Et e ne pus ps croree de e pnr  Qe Prs dns es mrs ne e deut reeenr"
+        ],
+        [
+            "96  L BANAR A n duusus u purpnuuuur h  Qu ehe de nos mux ce mheureux utheur LE CONSELLER DE PARS  Vos pouuez vous ttter dvne douce epernce  Vos poue coeeor vne ferme ernce  Que ce jene Heros ne ouffrr js  Que de Cone e porte ̀ trouer votre px  Deunt quetre ogé́ prreconnonce  S oré utement outvotre mocence  Ee rret e cours de vos troues prenmers  Et enmot preudre prt dns vos propres urers  LE CONSELLER DE BOVRDEAVX  r t  oe encore porter pds ntpene  Et crore queFrnce et trop mtereée  Anrde nos cœurs es mecontentemes  Qes porroent exeter des ouex mouees e en nee e ene ene eeon p  u repos du pys ns cee qusoppoe  Et pourenterement remettre es eprts  Des duers entmens qu e trouuest urprs  e cry quen ceés eft otre genereux Prs  Peut eu pcfer notre puure rounce  C  LE CON SE L LER DE PARS e pene qùfny fudr ver  Et que pour effcer e trte ouenr  Des mux qe vore Decué dns vos terres   Vous"
+        ],
+        [
+            "CMEDe  Nos vous deons oter cet utheur de vos guer  Et prceque Bourden du Prnce fut ppy res  Que Bourdenx uß dot eperer tonut de ey  ses  T TT  HH  L MONSEVR DORLEANS LE  DVC DE BEAVFORT VN  CONSELLER DV P ARLEMENT  DE PARS  LE DVC DE BEAVFORT  Ve e e e e ee e e e  Pouruuos juquu out cet eprt neń vte  Lon n ree preqe ft ce neft qe commenceé fut que votre Atee cheue on ourge  Lmteret de on ng ̀ ce deen engge  LE DVC DORLEANS  e ne us ps dhumer de er mprft  Ce dontFrnce ttend vn gorex effet  y ouffert trop ong temps quee ft mheu  Prneceté dvne ron hontee (reue  e dos de mon Neveu coeruer des Effts  Et ny ps eéprgner y on cœur y meon rs  N"
+        ],
+        [
+            "COMEDE  Mrquent ncemment pour e en deFrnce  Ce que vous propoez e dot executer  Puque de vos vs nos deuons profter  Et pr ce qe on vot queperre etestée  Acheons erous vne choe rretee  Eteet noent nous ons peu nr  Pruon de epor de ms reuenr  LE DVC DE BEAVFORT  Segneur occon me eme fore  Pour codrefn vn deenoe  ns  99  LE DVC DORLEANS  e pretes oger e Coe jourdhuy  ofrr qu on prononce vn rretcontre y  Et pus q et che de cette grnde Fe  Durefe du Royume e tte quon exe  Nous otendrons d Roydecrton  Qu nous fortfr dns ôrre tenton  LE CONSELLER DE PARS  De pdus e Prement y fer es tnces  Et ondr r ce pont es umes remontrnces  A nos crse en de Eft eur et cher  Enmfn eurs jetez e erone toucher  A toute extrenmeevous çueZpunce  Qe vous dõne cez ous v̂tre tre Nmce  VeneZ utorer vn goreux Arret  Que noô̂tre Premene ̀ doner et tout pret  N j"
+        ],
+        [
+            "o0 L BERnNARD E  LE DVC DORLEANS  9  e ne me tte ponr vô̂tre Cour Souuerne  Pourrot pus que nous tous oger nôtre Reyne A qutter e prty de ce ̃che etrnger  Pour nous er enm ue en pouor de vnger E?  Les mux dont cet nfme cce nôtre Epre  Qu pour es ̂chetez en me e oûpre  LE CONSELLER DE PARS  Ms vous fereZ vor pr voôtre hrté́  Tout ce quuecque vous nous urons rreté  Nos ne tomerons pus dns ce mheur extreme e  Quon pe e erur de vous contre vosmemeA  F on repecdter des reoutons  0  Dont e coe erndr es executon  Deurs nous ne pouuons ns offencerFrnce  Sns vous ereer des pntsdeue epor  oce  Vous ctes de Es Leutennt Geners  Et vous deue repondre & d en & du m Qu peuuent rrner smondre Prunee  Dnsuorté deôtre ene Prnce  E nvc noRES   e e dos ms es Ceux me ot uß temons Que y pour cet effes empoyé tons mes oms Et puqe vere Cor crot qu et necere Que e uec uos s punce etrngeres"
+        ],
+        [
+            "L A BEN A RDE  Eeeeeee3ee3   E  EE  SCENE LE CONSELLER DE PARS  LE DOMESTQVE DV CARDNAL  LE DVC DORLEANS  LE DVC DE BEAVFORT  LE CONSELLER DE PARS  Ve e ete ene ne tee  Et qu npprouns ps e perfde rtenre  Que on eœur medtos pour runer Es  En veus donner us ns doute ̀ vôre Aeee E  LE DOMESTQVE DV CARDNAL y Segneur e uouëfe quon e confee  Que ce dehe Efrnger ce fo de Crdn  Ne peut en trhons rencontrer on eg  Meme shteon depr deVe  Cet pour rédre ujourdhuy on deen ps fce  Ges eprt en mce & resfecond  A e dns Prs vn mheureu econd  Qu nourr dns es mux & ve dns es  crmes  Sut & es emes ps & es memes mxmses  e vous découurry e Cone quprs"
+        ],
+        [
+            "COMEDE  03  Deunt que sengger ̀ prtr de Prs  D Segneur dEpernontrepromee  Dendeuer notre Roy pr force ou pr dree crot quen on enceer pus e  Dexecuter ereux e deen propoe  e en vex por emos que vos prpres orreddes  LE DVC DORLEANS  Tnt de meehncetez ones eurs prees  LE DOMESTQVE DV CARDNAL  Ms venez vor ce Duc dns ce prochn r  dn  Auec on Ecuyer quon nomme S Quenmtn  Vous pouez emet ör enur coference  Et de tous eurs deensentrer en connonce  AAAAtuAu  LL T   O ALLN L L  LE DVC DESPERNON  J S QVENTN dns e rdn du  Ps Roy  LE DVC DESPERNON  s encor e vrycomme t s proms  AV Que tues euré́ de mes meers ms"
+        ],
+        [
+            "04  L BenrRDE  S QVENTN  ouy Segmeur ces Meßeurs oeront entreprendre Des rsgenereux tout ce quon peut tendre S eonutce o eut regeé eur ort  Leur veur msde fos ̀uerte d mort  e e e e e ene ee ee4  Peuent ppremment eurer eurs courges  LE DVC DESPERNON  e dpoe en vn mot de qutre cens fous  Q ne çeurent ms crndre ren hors es   cops  Et mon cœur eftdvne fryeur pree  S QVENTN  CroyeZ vous quen ce eu ce ot vne meruee e  S pour vous econder & pour vous ter  ôre rre er on prerend ters  VPous nez nue peur qund es ujets de crnte  Ceent à̀ vôtre eprt de donner qeque tnte  LE DVC DESPERNON  Pour erur mes ms e me cy coneruer  S QVENTN  Et pour nmour de vouss veuent e uer  Ms s mos eruront puque cette recontre  Nu per ̀ preent ̀ enrs yeux ne e montre"
+        ],
+        [
+            "ComEDE  LE DVC DESPERNON  e nconques s oeront entreprendre ns mvoy  e genereux deen deneuer nore Ry  2o5  S QVENTN Mon eprt ne crot ps qus puens sy reoudre  LE DVC DESPERNON Sns ver dorge en r on peur defondre?  S QVEN TN Mspeut sy ormer  LE DVC DESPERNON  Donc dns cette ctons  4 ene curos uor rp de preeunno  Et oe ppreheder comme u peux conuetre  Pn dnger qu net ps ms pourtons qu peut  ére  S QVETN  Cete meme ron ders eprts pes toucher  LE DVC DE SPE RNON  Et eetee qprez tout nus deons empeher  S QVENTN  Aors q vous verrome prmy eur ee"
+        ],
+        [
+            "06 LA BERNARDE  Ler me pr ds peur ne er ponut troue Ee nous oerons tous meprer vn dnger  ors qù Votre Ateeprétr eger  Dns des choes Segneur dvne tee mportnmce  Conderez v pe ce que peutpreence  Pequeous vn omens de geerote  LE DVC DESPERNON  Vn peu mons de courge & pus de eurere  S QVENT N fut que vô̂tre epr enfn e derermne  LE DVC DESPERNON e fs e e voy msf̂cheue epne  Que e crns e uccés de cét eneuemen  S QVENTN  Vous uez etreprs  LE DVC DESPERNON  Aez mprdemment  S QVENT N  Nueous ps unt dgeré eoutes choes  LE DVC DESPERNON  Non non e fus urprs exmnn es eues  e peny pr ex de mos cher zr"
+        ],
+        [
+            "2o8 LA BERNARDE  5AtpunAe4  C  SCENE V  LE DOMESTQVE DV CARDNAL  LE DVC DORLEANS LE DVC  DE BEAVFORT LE CONSEL  LER DE PARS  LE DOMESTQVE  J os ffeous donré de cette perfde  LE DVC DORLEANS  e  N  8  dees d ee rren un ee unn ourozer medter eneuemens du Roy  LE DVC DE BEAVFORT  A pene pcor core ce que e voy  Ahque es Bourdedos ntes deutce  Qund s e ont rmez pour pnrmee  De ce fo meurenx qucront e vnger  Se decre en fer dvn perfde Etrnger  os ons nenross cet erex végé  Que nos fers enmnems nont ps trop de courge 3  S fot conuter eor eue vooé  s exeeureroene ce qus ont preereé  An e oure efort que o fe et cpe  De tre de eos genstrope detete"
+        ],
+        [
+            "2  COMEDE  LE DVC DORLEANS  093  e cy que nous pouons en cette occo  Dßper ement eur eonurton  n  LE CONSELLER DE PARS e fut ps pourtnt meprer vne choe  Qu dvn ngnt mheur pourrot etre cue  Nous nuons decouuerr que qeqes coureZ  Qu mrquens que eurs cœnrs ne ont ps es  re  Ms nous ne çuons psdes ms ps v  es  Ne eoderont pont ces mes noenres  LE DVC DORLEANS  e vous s ogeé pour deons vs  Et us r qus oen hereement us  Deve ez donc fre ferer es portes  Et ur tout quujourd hy es grdes y oen  fortes  Ee vous qu nous ue decouers v deens  Que pr votre oyen ous onsreodre v5  ettez dns ce momsent e penpe ous es rmes  Qu ot pret ̀ ortr ux premeres rmes  O j"
+        ],
+        [
+            "0 LA DERNARD E  ttAtAA  EE 7T SLLNEV  LE DVC DE BEAVEORT  LE DVC DORLEANS  LE DVC DE BEAVFORT  E condeous ps voô̂tre propre onté  L Pr qu e Mzrnonemps f̂t feé́  S vô̂re Atee eut esmn vn peu ps prom  pte  Pour vger es Frnos de eur eomomune hontre  os e nous verrons pont e ete dor per  Des res dont e ert cet ngne trompeur  LE DVC DORLEANS  e croy p en dept de toutece  Que de ce mdeureox de deen reüße  LE DVC DE BEAVFORT  Vous en uons u Ce es ogtons  Q nous decouuert es conprtons  Queuons nous enfn fs ce en dometque  Neu ps trh e foy pourcue puque  LE DVC DORLEANS  N  E  L oy nodge pont vn homme né FPrnços"
+        ],
+        [
+            "2 LA BERNA R DE  hAtA& E  T  L  SCENE V  LE DOMESTQVE DV CARDNAL  LE DVC DORLE ANS  LE DVC DE BEAVFORT  LE DOMESTQVE DV CARD NAL os ordres Monegneur ont tous exeeuez V Le peupe et des pret eon vos voon  e  LE DVC DORLEANS  e mets e t proe vne entere epernce  Ades e me resre nec oute eurnce  LE DOMESTQVE DV CARDNAL  De m fdese es effets repondront  Qund de nos ennems nos rs trompheront  Fons cy e guet uprez de cette porte  VPocy ver nos gens cette perfde ecote  De cet eeuemet qus concertent entr eu  Eouons eurs dcours  SCENE"
+        ],
+        [
+            "COMEDE 3  pAtumhe  CEL T  D E N EV LE DVC DESPERNON  S QVENTN & de hommes  rmez  LE DVC DESPERNON  Ss e ps mheureux  Que de metre engge my neume dns rge  S QVENTN  Rppedez onegneur cet nge courge  Qe e frons couronme dn urer gorex  Vo uez temogneé dns me duers ex  RepeZ deune vous ces dutres vctores  Dont votre veur ee honore nos hfores  V cœurgenereux porr coentr  Ques cette cononcture soe dementrr  ous ne corez pont pus de hzrd pourve  Qu eom de Lourne ò qù Fontre  Ou quu ege fmeux de cere Sner  Qe port vôere nom dns vnhus et  LE DVC DESPE RNON  Dns des pres hrtsms e retorne  Peutre gnore q comt de Zourne  Q"
+        ],
+        [
+            "COMEBE  S QVENTN  5  Tout me prot en px efonçons eette porte  LE DVC DESPERNON  Atten encor vn pes mon mse et demy morte  Ve perdre ton LMtre ence morte efroy  ddd ddddhded  TN LE DOMESTQVE DV CARDNAL  J LES PARSENS en rmes  LE DVC DESPERNON & es  gens qu fuyent  4  LE DOMESTQVE DV CARDNAL  A Vx rmes ̀force on eneue e Roy  A42   Aomme  e  LE PE VPLE  S QVENTN & es utres  Suons nos  LE PEVPLE  Aomme omme tue  P"
+        ],
+        [
+            "6 LA BERNARDE  LE DOMESTQVE DV CARDNAL  VPoey uheur d mmeu derë  LE PEVPLE  Frppe eprgne re  LE DVC DESPE RNON dnsoue  Grce es choexs s  LE PE VPLE  Grce ̀ roy e ps grne de tous nos ennes? Fons vor es gre & es cotreZ omme  LE DVC DESPERNON à genoux  AyeZ pt CMeeurs dvn mheureux home LE PEVPLE  Ses courge vngeons os ms de Bourdeu Epuons de on ng es nfmes rueox  LE DVC DESPERNON  y d de vos coups vne épue froe  A ce eoup de tou mete cee  L ve  LE PEVPLE  9 E qu voudrot ten fre vn meehnt dns  eps merhe dgne de prdon"
+        ],
+        [
+            "e  x  7  COEDE  Acourez mes ms cée nfme mechppe  nen et ps dehorseors voetrpettrppe  et pru & mmn e ent p eschne  d quee que e voy ue ps menrex  Ce he n e queperruque en gge  Rdcue oroemen dvn vn peroge  n err pour uy de tropee ̀ Bonrdeux  Atendns ̀ e our quemn des Bourre  Surete execte vne ute vengence  Ten pour edepce u out dvne potenee  A7T  y  S TAN e  Ccones  E prn me pus dquets ders dom  mges  Que notre ereceuts  Acue que nous ux neen ps ez ges  Ets eeu nous een duts  Du qund notes peccts n comt eurs me  ures  Fe n che dux tyrns per ng es nures  Dus tyrns me que nous denshonte  dus crmes  Bnemen ndonnts  e Ms ous rrets du ceu ont touours egt  ncs  P j"
+        ],
+        [
+            "8  LA BERNARDE  Aoss quet fe ce qué y pts  Et comme ous petts per ous grnds du ct S  gue  S mn contreous grnds ous petts ouen  gue  Souffren per notre en qund ou ceu nous  ffge  Detdu mheur ou ouet  Tchen den proft quvn cdun e corrge  Aprés tnt de cops de foüet  Que deon nct courrous ou uet on  ne  Pour ne reent pus effet deutce  ou nou demnd pus deé de recompence  Per é per dut mous houtus  ou nou ouhtr pus de tr de engence  Per é́ entt tnt de mus  Aquets cops de ton en toutes es pertes  Quec trop de mheurPronce ouf  fertes  ou u me tset que mon co nepe  re  ouu tout à ft conot  Perm tous ous trnsports mon courroux ne  guze  Souht ce ques rrt"
+        ],
+        [
+            "COMEDE   Aquet n trnt u mtn deroue Seme densfgne vn pore que e gr  goue  en s J   e5  Quet ses trout heuroux de portper  ruque  Comme det tout esrt  Anut ur on menton comme deusnuque  Nt peu ne uy fus demourt  Et pet per pet nfmentge  Quet nà̀ ps de nous ux ouffert quet o  trge  Fn deBernrde"
         ]
     ]
 }

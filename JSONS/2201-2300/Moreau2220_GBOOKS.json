@@ -1,122 +1,75 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "lettre",
+        "genre": [
+            "lettre",
+            "réponse"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-02-19",
+        "creation": "1651-10-08",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-29",
+            "@when": "2022-10-04",
             "@who": "AB"
         },
-        "titre": "Lettre écrite par l'archiduc Léopold à messieurs les\n          président et gens tenant la cour de Parlement de Paris.",
+        "titre": "Lettre écrite de Poitiers, portant la réponse aux Avis\n          publiés à Paris, sous le nom de monsieur de Châteauneuf, touchant les affaires du\n          temps.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2222_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2220_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRE",
-            "ESCRITE",
-            "PAR L'ARCHIDVC",
-            "LEOPOLDE,",
-            "MESSIEVRS LES PRESIDENS",
-            "& Gens tenans la Cour de Parlement",
-            "de Paris.",
-            "Chez PIERRE VARIQVET, ruë S. Iean de Latran,",
-            "deuant le college Royal.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
+            "Lettre écrte de Poters portntréponse ux Avs pués à Prs sous e nom de monseur de Châteuneuf touchnt es ffres du temps Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté8 jun 202 Lettre écrte de Poters portntréponse ux Avs pués à Prs sous e nom de monseur de Châteuneuf touchnt es ffres du temps Prs Lous Chmhoudry 65 Lyon Bothèque muncpe de Lyon Réserve Rés 30749TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs2220 Lettre écrte de Poters portntréponse ux Avs pués à Prs sous e nom de monseur de Châteuneuf touchnt es ffres du temps Prs Lous Chmhoudry 65 5 pgesprose ettre réponse Décrton du ro contre es prnces de Condé de Conty etc 68"
         ],
         [
-            "3",
-            "MESSIEvVRS,",
-            "Ie vous enuoye le Porteur",
-            "de Cette, qui vous dira de ma part, ce que ie luy ay.",
-            "encharge; & ainſi ie vous prie de luy donner entiere foy",
-            "& credence, & ſur ce ie prie Dieu de vous auoir,",
-            "MESSIEVRS, en ſa ſaincte garde. De Bruxelle le o.",
-            "de Feb. 649.",
-            "Voſtre tres-affectionné,",
-            "LEOPOLDE GVILH.",
-            "Propoſition faite par moy ſoubſigné à Meſſieurs du Parlement,",
-            "de la part de Monſeigneur l’Archiduc Leopolde,",
-            "le a. Feburier 1ié649",
-            ", P s auoir preſenté ma Lettre de Creance, i’ay dit",
-            "S que iene pouuois douuer que ma venue ne fuſ apre",
-            "ble à la Copagnie, puis que i’apyortois les oſſres de la",
-            "Paix tant deſi ee par toute la Cheſtieé, & ſineceſ",
-            "ſaire au bon-heur & à la tranquilli e de deux Cou",
-            "ronnes; qu’il eſtoit vray, que depuis deux ans le Cardinal Maza",
-            "rini ne l’auoit point voulu conclure, quoy qu’il euſt pu le faire a",
-            "uec des conditions aduantageuſes à la France. Ms que depuis la",
-            "ſortie du Roy hors de Paris, ledit Cardinal auot recherchié́ &",
-            "propoſé vn accommodement auec des conditions qui eſtoicnt fort",
-            "aduantageuſes à l’Eſpagne, ayant teſmoigne que ſon principalmo",
-            "rif, eſtoit de chaftier, ainſi qu’il diſoit, les Rebelles du",
-            "Parlement,",
-            "& mettre Paris à la raiſon. Apres qu’il auroit ioint les forces de",
-            "France & d’Eſpagne par le moyen de cette Paix, que neantmoins",
-            "le Roy Catholique, mon Maiſtre, n’a pas eſtimé́ qu’il fuſt ny ſur ny",
-            "honneſte d’accepter ſes offres en cette ſaiſon, ayant iugé qu’il ne",
-            "lay ſeroit pas honnorable de prendre cette occaſion, de contri",
-            "buer à l’oppreſfion d’vne ſi Auguſte Compagnie, & de la Ville",
-            "Ca"
+            "LETTRE ESCRTE DE POTERS PORTANT LA RESPONSE AVX ADVS PVBLEZ A PARS SOVS LE NOM DE MONSEVR DE CHASTEAVNEVF TOVCHANT LES FFARES DV TEMPSA PARS Chez LOVS CHAMHOVDRY Au Ps presSnte Chpee à entrée depette Se u Bon Mrché M DC L"
         ],
         [
-            "pitale du Royaume; que le Roy mon Maiſtre ny auoit pas creu, n",
-            "plus qu’il y euſt ſeurete de traitter auec vn honmme condamné &",
-            "decclare Ennemy du Roy & de l’Eſtat, par Arreſt d’vn Parlement",
-            "qui doit reglſtrer & verifier les Traitrez de Paix, pour les rendre",
-            "ſes & aut hentiques. Mais comme le Roy mon Maiſtre e reut ti",
-            "rer autres aduantages des occaſiõs preſentes, que d’vne Paix equi",
-            "table & ferme, qu’il m’a enuoyé vers Meſſieurs du Pat lement,",
-            "qu’il",
-            "çait eſtre attachez aux vrais intereſts du Roy Tres-Chreftien & de",
-            "ſon Eſtat, & où reſide principalement ſon authorité legitime, pour",
-            "leur offrir d’eſtre les Arbitres de la Paix, & que volontiers de Roy",
-            "mon Maiſtre ſe ſouſmertroit à leur iugement: que s’ils n’en veu",
-            "lent eſtre les Iuges, il laiſſe à leur choix de deputer de leur",
-            "Corps",
-            "en tcl lieu qu’ils voudront eélire, meſme à Paris, fi bon leur ſen",
-            "ble, où le Roy mon Maiſtre enuoyera ſes Deputez, pour y traittet",
-            "& conclure vne bonne Paix & raiſonnable, qui donne le repos &",
-            "la tranquillité perdurable aux deux Couronnes; auquel Traitté ſe",
-            "ra auſſi compris le Duc de Lortaine, qui n’a pas voulu s’accomno",
-            "der auec ledit Cardinal, pour contribuer à l’oppreſſion dudit Par",
-            "lement, & de la Ville de Paris, mais eſt demeuré ioint au party",
-            "d’Eſpagne. Cependant ie declre qu’il y a defia dix-huit à vingr",
-            "mil hommes qui s’aſſersblent ſur la Frontiere, donnant parolle",
-            "qu’ils n’entreprendront rienſur lesTerres du Roy Tres-Chreſtien,",
-            "ny ſur les Places qui ſont ſur leſdites Frontieres; ce qu’on auroit",
-            "pû faire dans le mauuais eſtat auquel elles ſe trouuent, ne reſtant",
-            "que deux cens hommes dans Peronne, autant dans ſainct Quen",
-            "tin, & beaucoup moins dans le Caſtelet, & les autres à",
-            "proportion.",
-            "I’offre auſſi de la part du Roy mon Maiſtre toutes leſdites Troupes",
-            "au Parlement, pour ſa conſeruation, s’il en a beſoin, auquel cas le",
-            "Parlement en vſera en la maniere qu’il iugera le plus à propos, ſoit",
-            "en les faiſant conduire par des Officiers François qui ſeront de ſa",
-            "dependance, ſoit en prenant toutes les autres precautiõs qui pour",
-            "roient oſler toutes craintes, que leſdites Trouppes puſſent agir au",
-            "trement que pour le ſeruice & ſelon les bonnes intentions du",
-            "Par",
-            "lement; & au cas que ledit Parlement n’euſt pas beſoin deſdites",
-            "Trouppes pour le defendre, ie donne parole, au Nom du Roy",
-            "mon Maiſtre, qu’elles demeureront ſur les Frontieres ſans rien en",
-            "treprendre, pendant que ladite Paix ſe trairtera. I’ay prié la Com",
-            "pagnie, de deliberer ſur ma propoſition, & mes offres, & me",
-            "rendre",
-            "eſponſe pour la faire à mon Maiſtre. Signé, DOM IQSEPH",
-            "DE MESCAS, ETARNOLFINI.",
-            "FIN."
+            "3 LETTRE ESCRTE DE POTERS J Eee T portntRepone ux Adus puez ̀ Prs ous e nom de Moneur de Chteuneuf tou chnt es ffres du Temps ONSEVR vous remerce defueur quevous Bs muez fte de menuoyer es Adus pu uo ez à̀ Prs touchntreouton quon dot prendre pour es ffres de Moneur e Prnce eouhteros que Autheur fut pus verte & qu not pont ̀ Moneur de Chteuneuf e repect qu porte à̀on Roy nydcreton qu dot grder dns es ffres e voudros qu mt dnsouche dvn Mntre dEtt des proes pus repectueues à̀ on Prnce & mons dngereues pour e peupe qu urprs pr defues propotons pourrot douter deprudence de es Cones quont en eognez dvnmechnt Ouurge pus que es Adus quon uy ttruë ont contrres ux fdees entmens qupour e eruce de Ett Ne vous étonnez donc ps du nomre prodgeux"
+        ],
+        [
+            "des Propotons trop res que y rencontrées dns cet Ecrt pus que e ttre meme nen et ps verte & que Autheur emprunte e nom dvne Peronneutre fn quàfueur de ce ttre peceux on d cours éutecondmnton que mertent des mpo turespuques &connuës Vn premer Mntre dEtt ne peut etre Autheu dvn Ecrt funete à Ett es dcours deémentroent es Cones & es proes qu donnerot u pue trhroent es Adus qu fournt à̀ on Mtre Onne peut oupçonner Moneur de Chteuneuf de cete foee de fre puer es Cones qu ne douen pont vor dutre jour que ceuy du Cnet du Roy Scrmentum Regs cdere onum etLes deens du Roy ont des myteres que e Peupt ne dot pprendre que pr eurs uccés & qune douen pont uor dutres ntcerpretes que eurs euenemens Cet cette verté qu ftpremere Scence de ceur qu ont honneur dentrer dns e Cone des Roys dontporte net ouuerte qu ceux qu ont utnt de dcretn pour tre es deens du Prnce que de pn dence pour es coneer & nentmons Autheur de Adus ft tomer Monteur de Chteuneufdns vnt fute dontprudence e jutfe pus que cette grndt experence qudns e mnement des ffres nej permertrot ps de fre puer vn Ecrt u prejudt dereputton de on Prnce & de tout e Cone commenuot ps vouu uure ces Adus pretendus quemcedv A utheur nue uy uë"
+        ],
+        [
+            "et trop judceux pour prer à̀Mjeté uec  peu de repect & de ron que de uy dre Queprom pttude dot tre ne de cette fre comme vne edteue qu erot quepourne coneer que des coups de deepor en que es meeus Eprts du Royume confeent que e re trdement du voyge du Roy n ft quugmenter e deordre & fortfer e prty contrre S preence eut touffé ces reuotes dns eur nnce & es ryons de c Soe euent écrteé es nuges qu ne e ont mez que pour porter des tonnerres De orte quedgence du Royeté en ce nue ̀ Moneur e Prnce quee ne uyps donné tout e temps que demn doent es ees entrepreset vry que Autheur qu etponné pour on prty dt Que es pretentons trop hunes devn e necy que mnten dAuthorte ne douent ps etre oyes queconme des Syrenes qu ftentoree pour perdre e cœur commevn Roy pouuot uor des pretentons trop hutes de coneruer Authorté Roye dontdot etrejoux qu fut qu trtte dennems ceux qu terentGore & qu ttquentCouronne Ce mnten ne peut etre defectueux que dns eprt deceux quen pretendentrune Authorté Roye nepeut per pour vne chmere que prmy ceux qu ne veuent ps reconnotre & qu prennent pour desSyrenes & des menonges des vertez euré́es & desOrces nfes qu ont en pus certns que ces cpteues Propotons qu portent Quu et cy queton J de perdre ou de er Ett"
+        ],
+        [
+            "fut etre u gnornt du cours des ffres quennemy deverte pour uncer ce menonge Que nous ommes en dnger de perdre ou uuer Ete e ç̧y en que es Guerres Cues ont fres que e feu et dngereux qundrû̂e nos mons que es eûres du cœur ont mortees & que e deordre et en grnd qund vn pere net ps en ûrnce uec es enfns ms e çy en u que es tonnerres nefendent en ouuent que e en denuë qu es porte que es tempetes ne perdent ouuent que ceux qu es exctent pr eurs crmes & que es troues des reees ont emes ̀rge deMer que conuerte ecume Le Trô̂ne et vn Port ûreé douù e Roy re grde ces tempetes & en eogné́ den crndreperte de on Etten epere de nouueux Lurers & de éct à̀Gore L Frncedéj eté vcto reue de en pus fortes reeons e corps de cet Ettn pû etre érneé pr tnt dutres reuotes & cey qu dns e entment de Autheur des Adus menceFrnce de rune à̀ cue queeMoneur e Prnce pour Autheur nur ps de pus heureux eue nemens que es troues de es Pereseme qu veue rendre es deordres heredtres que es reuoes pent des Peres dns es Enfns qu ns onger ̀confuon qu en et retée à eurs Ancetres neent ps de truer ̀ eur propre honte & desexpoe ux memes dgrces L fdeté́ des Prounces qu eont rngées ous o ennee duRoy nepromeent ̀ ondeur epne"
+        ],
+        [
+            "que de funetes uccés Lvnon des Peupes pour e er uce de eur tre montre ez que Ett net ps en dnger pus que es prtes qu compoent ce grnd corps ont vne nturœe ncnton de e coneruer Vn Roy & vn Roy de Frnce et trop punt pour crndrerune de on Ett de queques oûeuemens qu ne pourront reter ̀force ny àjutce dees rmes Les Prnces dé́uroent uor pprs cette verté de eur Pere dont e Cone &Tete vot en e courge & e rsdees Fs & qu nentmons ne rem port de es njutes entrepres quvn ccommodement qu uy ft reentr u enforce queonté des Roys de Frnce LAutheur des A dus n donc ps de ron de rendre Moneur e Prnce redoute u Roy en uy dnt Qu et queton de perdre ou deuer Ett & cet ce qu me ft crore que Monour de Chtenneuf ne peur tomer dns ces futes & dnfdeté dns e Cone duor vouu peruder u Roy qu eftotfoe qu deuot crndre Moneur e Prnce & dmpru dence dns Ecrt de fre connotre u Peupe & meme ux Etrngers cette mpunce pretenduë du Roy qu n ms eu pus de force qu en dns ces troues & qureconnufdeteé de es Sujes dnsperfde de queques ontens qu e nt jottez dns e prty contrre pour gner eur ng tude & pour fre connotre qus ont dns esmemes entmens que Autheur de Eert qu dt Que es Poupes ttntvent ns eur reuees"
+        ],
+        [
+            "Moneur ePrnce de epernce devne Couronnefut quepon t en ueugéAutheur des Adus pus quee uy ft dre des choes u mpo es quéognées depenée de Moneur e Pnce qu ç̧t en uy meme q et putot né pour p puyer que pour porterCouronne queNnce uy donne vn cœur de Prnce pourdefendre & non ps pourderer quvne Epée uy ed meux dnsmn quvn Sceptre & qu e regrde e Tron que pour e outenrçt en queCouron uot u peu de pce dns on eprt que dnspenée des Prens qus ne ont ms tté de epernce du Couronme pus qus ne foent pont dutres vœur durntGuerre que devor urTete de eur Roy dns Prs Ce Peupe qu et u nomreux que fdee conerue toûjours ncnton qu dot ̀ on Roy & es ders mptens qupour on retour ont de preuues ûrées deon oefnce & de puntes r ons qu condmnentfueté de Autheur de Ecnt qu ccue es Peupes duor ftté Moneur e Prnce de epernce dvne Couronne & qu dt Qu ftqu tout e monde condme generement es motfs ds méconsent ment de Momeur e Prnce Les Roys ne rendent compte qù Deu de eun ctons eurs deens ne douent pont ttendre p proton des Peupes dont ueugement & nco tnce et nne du Cone des Roys e cprce dvnt popuce nconderé́e ne peut rreter executon d eurs entrepress urs Sujets ne ont ps eurs ugesn eun"
+        ],
+        [
+            "eurs Artres eurs entmens ont des Lox & cet ez qus pouruuent vn reee pour que e peupe ot ogé de econder eurs ntentons cr e Peupe ne dot sntereer que pour on Royet deoent à̀ on Prnce dé́s qu demndecue de es deens qu ont toû̂jours ujutes que es recherches en ont cr mnees Ce net ps ux Sujets dexmner e procedeé dvn Roy cet ez queMjeté & on Co couurent que es menées dvn Sujet choquent on Au horté Roye pour sy oppoer ns en conuter e Peupe qu dot repecter tous es projets deon Prnce & condmner toutes es entrepres deceux qu uy re tent Cet pourquoy e trouue que e entment de Autheur des A dus et en étrnge qu veut que e Roy ttende vne condmnton genere ur Moneur e Pnce pour e pouruure & que es crmes oent pues & eudens pour en ccuer Les conjurtons es pus ecretes ne ontedes ps es pus dngereues? es mdes es pus nueterés ne ones ps es pus mortees? & vn ge Medecn ne d ps pr vne pye utre chercher e venn qu ggne ecœur? do ttondre que potume fot ere uée pourreconnotre? &prudence ee crm nee qudee guerr e m en e preuennt? LAu dour de Ecrt ou putot e Prtn duprty con trre urot ouhté́ deneggence dns e Cone qu ne true qùconeruon de Ett & donmt ute oceupron et fdeement ttchée u mnten de Authorté Roye & ̀gueron des pyes que es"
+        ],
+        [
+            "ennems du Roy pourroent fre àFrnce Le Con e et trop ge pour ne ps preuenr es mux dont Ett et menceé & trop crvoynt pour gnorer es menées des Prnces Ees ont mntennteuden tes que Autheur de Ecrt ne peut pus es defendre eurs deens ontmnfetes que tout e Royumeen et nformeé́ & eurs crmes pour me erur des proes de Autheur ontpucs qu ne fut que pronon cer ur cette condmnton genere que font tous e Peupes dvne reuotemnfete Le Chteu de Djon neps ft ez connotre àBourgognt Le Berry neps ppre de ceuy de Mouron? C gnc neps ft vor ̀Xntonge? Le Potou & e Ps dAuns ne on ps ppre deRochee L Guyenne ne e ps ceuëde Epgno queeveu à Bordeux? Et cette verté́ nee ps ez eu dente pus quee etvement connuë dnsFrnce &vnuereement condmnée de tous e Peupes qu ont trop fdeespour e decrer pour esu rets de Moneur e Prnce n que pretend cet Autheur Cet vne mence qu eme fre u Roy & qu donne u peu de crnteà̀ Mjeté quee et ue de oence dees Prounces qu népoueront pon dutres nterets que ceux deCouronne qu eur ont en pus untgeux que es pourures des Prnces qu ue vo qùrune du Peupe qu e ouuent encor de veux prouere Guos Afn es Grnmds semren &es petts semrent es Grnds sccordent & espe prennentcorde"
+        ],
+        [
+            "Le Royencor u peu de ujet de demnder p proton des Etrngers que cee de on Peupe com me pretend ce Dcours y pus quvn Roy jutfe ez es entrepres chez es Etrngers qund conerué on Authorteé & que ns ttendre des témognges nun es dns rvne eudece pus ce que e Mdj pour con notre es procedez de queques reeesset oppoé ̀eurs premers mouuemensS e Prement eneut crûReyne dns Adus quee u donn de ntegence que es Prnces uoent uec es Epgnos nous ne vere ons ps ujourdhuy nos freres eneues dns eur pro pre ng ny es ennems dns nos Prounces quvne Armé́e de vngnq m hommes uroent gurentes de eurs ncurons Ces deordres ne decren ps ez es deens des Frnces? peu on mntennt uure eurs ntentons3 & ccuton en peue etre de muue odeur pres des conuctonséudentes? Que Autheur des Adus noppoe pont cette recente utfcton qu ne ft que ug menter e crme pus quee deuot oger à̀ recon notregrce que e Roy uot fte de rendreerté́ & nnocence Netoe ps ez detre reee? f o encoretrengrt? & que tout chrgé́ des ueurs du Roy on ouàt on deuor &fdeté́ que on dot à̀ on Mtre & que onnjutement voée pr es ntegences non pus ecretes mus ouuertes uec es en nems deCouronne qu es decremt crmnes dEts dns e entment meme de ceux qu fuorent eur prty & qu dent qus nefontgere que pr pprehen"
+        ],
+        [
+            "2 on qus onmt duretour du Crdn Mrn Ce qu et vn pretexte pus que e Roy uyoté toute epernce de retour dnsDecrton qufte presMjorté Ce fux pretexte ft en connotre e verte de en de Moeur e Prnce que e Roy ne peut trop e recpter de condmner vtement en que cette jue precptton ngŕe ps ̀ Autheur des A dus ny u prtns de ce ptty qu puent Que e Roy e rtev peu dttodre des Proumnces vne conprton genere pou foutenr on Authorté commecetor e tter qu deperer vne choejute &ronne Ne vous eétonnez ps encor de ces uppotons quevous découure dns es Adus que vous muez en uoyez pus que es uuns vous urprendront end nntge & que vous etes trop on eruteur du pour e crore qund de QuMut́ t dn eeeté de ne pour ortr de Pters ny menme dy po deneurer ns honteLeejour que e Roy ft dns cete Ve ets reux àMjeté qu uyft vord́ftre desos s de oneuPtnee deunt Cosue & dunr Rochee & e ne doute pont qu ny pue eute demeurer àconfuon du prty contrre qu ooue psmemepeue dprt du oy e po peoen feement ouueres que uy proesut de ree qu onupronne oe egnde u e Ve de deoence Le Roy peut donc demor e oure dns ee Vve dontfdudur dt eeo peut otr pour uncer on Guyennt tromp"
+        ],
+        [
+            "tromphe &en peut reuenr uec ccmton pû ques de tous es peupes qu uy eront putot redeues de eur repos qù Moneur e Prnce qu ne es ft que trouer Et qund meme ces tros mpotures de Au theur eroent des vertez que e ejour du Roy ̀ Po ters erot ns honneur que on voyge en Guyenne erot ns oence & que on retour à̀ prs erot ns conquetes Autheur n ps eu de ron de fre puer ces choesous e nom de Moneur de Chteu neuf qu et trop judceux pour ne ps connotre qu et dngereux de dé́couurr u peupe e peu de frces d Roy & e prodgeux Armement de MonmeurPrnce Cet Armement àverteé et prodgeux non ps dnson effet nds dnscue qu etmytereue queron en et nconnuë & quondepene à trouuer e fondemenr dvnehuteentrepre S Mon eur e prnce ne vouot quempecher e retour du Crdn Mzrnue fudrot pont rmerprod geuement ny e vnter de ces qunze m hommes que Auheur des Adus ppee comttns de cetts edeNoee de Frnce quft foue dns e prty contrre & de ces utres qunze m hommes mgnres que vutpreence de Moneur e prnce Ce net ps que eveüe cy dmnuer gore eçy en e nomre de es vctores & de es conquetes ms e çy en u que on rs netot vctoreux qù cue qu etot fdee que on deuor fuorot qutnt es rmes queon courge & qu net redeue de es trom hes quà oeïnce qu rendot ̀on Prnce e er D"
+        ],
+        [
+            "4 uce de on Roy e fot genereux &gneotédes troupes qu commndot uy ggnot putot destes que on heureue temerte Cet eeque Autheur d Ecrt confee qundduouë que Armée du Roy et compoée de veux odts & cet pourtnt ce qu dégue qund pr vn rtfce mceux quetu prejudce devertédt que ces veux odts edé ndent tous es jours pour e jetrrer dns Armé́e de Moneur e Prnce où es œertshommes ont u rres que es veux odts cr ce ne ont que de eune Cerfs menez pr vn Lyon que de puures pïns roez pr force & que de nouueux Offcers à que commndëment et u ncornnu que e enuce & que oefnce en conptres à̀ cee rue Noee dont Armée du Roy etgrofe & f ete queepus de Cptnes que e pety contrre n de Fn ns Quees vctoresMjeté ne peue ee ps epe rer e voync erue pr e ds c enshotnes qu urntnmes pr eur deuoryque prpreence de eus Roy feronegorede répndre eur ng u eruce & ̀veuëde eur Mtre dontpreeénce Vvut en ce de Moneur e rnce nsuy fretort Vocy es ftes extremte où̀ Authur deEcrt d queMjeteé́ e vot redute &ecßt honcoe qu oger de chercher es voyes dccomodenent u Monfeur e pncé Goreues extrente qumetteu e Roy dns vne ute & heureue mpunce de nt pouuor vncre Genereue neceté de prdonnet encor àes ennems pres eur défts d eur re cou"
+        ],
+        [
+            "5j notrecemence dns e prdon pres eur uor ft entrforce dns es comre & de eur fre vor quetoutes eurs rchees ne vennent que de es ertez & eurs forces pretendueës que de es rmes vctoreues Cet cet ccommodement que conee Autheur des Adus & cet u en ce que e e trouue ronn e prce qu porte toutes choes à̀douceur & ̀ v non Ms pour rruer ̀ vne fnnoenee deuot pont erur de moyenŝches &dngereux que de vouor rendre moneur e pPrnce redoute u Roy pr es forces mgnres qu uy donne & pr es r ons trompeues dontpretexte es hutes entrepres Vo moneur vne prte des futes que y ren contré́es dns es dus que vous muez enuoyez S vne Lettre pouuot ouffrr vn dcours pus ong e vous écrros es utres que e cours des ffres vous pprendr en meux que m pume & que e vous fery connotre pus mpement qunt à̀ mon retour de Poters ury e en de vous vor & de vous ûrer que eus MonsEVR Votre treume & tres oent Serteur t"
         ]
     ]
 }

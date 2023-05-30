@@ -1,191 +1,120 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "narration",
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
-        "illustration": false,
-        "creation": "1652-04-07",
+        "illustration": true,
+        "creation": "1648-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
-            "@who": "AB"
+            "@when": "2022-04-06",
+            "@who": "MF"
         },
-        "titre": "La bataille générale, avec les particularités de la\n          grande défaite des troupes du cardinal Mazarin, commandées par les maréchaux d'Oquincourt\n          et de Thurenne , par l’armée de Son Altesse Royale, commandée par monsieur le Prince et\n          messieurs les ducs de Beaufort et de Nemours en la plaine de Galle, entre\n          Chastillon-sur-Loin et Briare, le huitième avril 1652.",
+        "titre": "La bataille de Lens",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau578_GBOOKS.xml",
+        "fichier": "Moreau577_GALL.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L A",
-            "A  A",
-            "RA",
-            "BATAILLE",
-            "1 4",
-            "GENERALLE.",
-            "Auec les particularitez de la gran",
-            "de défaite des troupes du Card.",
-            "M. commandée par Meſsieurs",
-            "les Mareſchaux d’Oquincourt,",
-            "& de Thurenne.",
-            "a laaee de ſo A. R. Cammaamdee par Moneiea le",
-            "’unce &- Meſsiurs les Daes de Beaufart & de. Neaourr,",
-            "la plaine de Galle, Eare Cbtillan ſg Lais &s Briare,",
-            "le hailieſae Auril 65e.",
-            "e PS,",
-            "Chez IEAN BRVNET, ruë Sainte Anne.",
-            "M. DC. L11."
+            "L te de Lens Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202sc de L Peyrère Bte () de Lens Prs Sésten Crmosy Sns Dte 649oo Prs Bothèque ntone déprtement Phosophe hstore scences de homme REB340TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsEp déd àRene sgnéeLpeyrère|Moreu577 utre éd|Poher42 577 Bte () de Lens (Sn d) 3 pges Cette exceente reton est dsc de Lpeyrèreuteur des Prédmtesprose nrrton réct Avr 648 644"
         ],
         [
-            "n",
-            "e&e2",
-            "xg",
-            "ILa acaulle generale, Auec les",
-            "partlcularitez de la granded́",
-            "faite des trouppes du Card. M.",
-            "commandeé́e par eſsieurs les",
-            "Mareſchaux d’Oquincourt, &",
-            "de Thurennes.",
-            "g ES noouelles d’vne ſi celebre Vi",
-            "oaire ſone de ſi grandeimportad",
-            "e,appormnt de ioye dansleseſ",
-            "H pirs des peuples, qu’il eſt impoſ",
-            "S ſible delea etenir plus lons tenp",
-            "l C’eſt pourquoi aà meſure qu’il viet",
-            "e des Couries , ieme trouve oblige",
-            "e vous donner fidellement des Relations, de tout",
-            "ce qu’ils rapportent.",
-            "bepuis cduy qui vieat de la part de Monſirur le",
-            "Duc de Nemoas, qui vapporta à Son A. Royalle,",
-            "ls nouele de lapremiore attaque destouppes du",
-            "Criffal’zanin fait pa mondit ſieur le Duc de",
-            "Nemours, il en eft atiué vn utre de la part de",
-            "Monfieuole Comre de Maré qui a eſté́ bleſſe d’vn",
-            "eoup de aon, le Mardy eufieme d’Auril, qui",
-            "rapporte plus particulierement la defaite, des trou",
-            "es du Caidinalaœatrn, dont voicy lateneu"
+            "LA BATALLE DE LENTS A PARS DE LMPRMERE ROYALLE M DC XLX"
         ],
         [
-            "4",
-            "L’Armée des ennemis apres auoir paſſé Gien &",
-            "& s’eſtant aduancé́e pres de Chaſtllon & foirt pre",
-            "che de Briare entre deux petites Riuieres, Monſiear",
-            "le Due de emours, qui commandoit cs iour la",
-            "’aluan-garde enuoya querir va paiſant routier de8!",
-            "cgs pays pour ſçauoir de luy s’il n’y auoit pas quelque",
-            "lieu pour pſſer, & allée attaquer les quartiers du",
-            "Mareſchal d’Hoquincourt, lequel luy fit reſponee",
-            "qu’il le meneroit fidellement dans des lieur, ou il",
-            "pourroit paſſer; ce quë ledit ſieur Duc de Nemours,",
-            "ayant appriss’en ſeruit de guide, & lê fit marcher de",
-            "uant luy & l’ayant mené vers vn petit Pont, pour",
-            "paſſer, Monſieur le Duclde Nemours- ae -trouuanut",
-            "pas ce paſſage aſſez fauorable pur paſſer ſa Caual",
-            "leie & fon Infanterie, luy demanda s’il ny en auoit",
-            "quelqu’autre, & ledit guide ayant reſpondu qu’ily",
-            "auoit plus loin vn lieu de la Riuiere, ou eſtoitvne",
-            "chauſſée & vn Mouln, qu’il croyoit guayable mon",
-            "dit ſieut le’Dué de Nemours fit marcher de ce cofté",
-            "fa, & eſtant paſſé auec ſes trouppes ainſi que vous",
-            "auez appris par ma premiere Relation, commeMon",
-            "ſieur le Duc de Nemours attaqua les quartiers du",
-            "’Mareſehal d’Hoquincourt, qui eſtoient eſloignes",
-            "les vs dés autres auee rant de chaleur, qu’il donna",
-            "l’allrme à toute l’Atmée des ennemis, mainteniant",
-            "vos ſç̧au t que s’eſtant engage inſenſiblement dans",
-            "le Combr, Maſieur le Prince ſur l’aluis qu’il en!",
-            "uſt fit macher ſes trouppe, pous les joindre & le",
-            "ſerourir.",
-            "D’bord que cé ileune Heros paruit à la teſte des",
-            "oppes,"
+            "O od dns e Mo deux EtoeR 7 Dont noe oreon ut des ox Cde d qde dee oes EE CRSVE Ae doys"
         ],
         [
-            "ouppes, il intimida beucoup les ernemis eant.",
-            "monsobleza ſe deffendre, pour ſauuer leur vie, ils",
-            "nuarentlerme quelque teps. e qu opniaſtra le com",
-            "bat ea telle ſorte qu’il e n e uſt beauoup des leurs de",
-            "luez; enfi ne pouuant ſupporter l’efſort de e grne",
-            "teur ptince, qu’ilsſçauent e player amais dans de",
-            "tellesoceaſions, ils fment ontraints d abandonner",
-            "leurs quartiers, il lefit grand feu de pat & d’autre,",
-            "ſi bien qu’ea fan le Marechal o’Ho quincurt fuſt",
-            "contrainat d’abandonaer le eamp, & ſe liauuer dans les",
-            "boisde Briare luy & d’vn autre coſte l Com de",
-            "Nouailles, que l’on dit eſtre bleſlés, les Comte de",
-            "oſle, Lanſquenets & bonaets verts du C.Mazatn,",
-            "qui ly auoien ſeuy d’eſcorte furent bien eſtri.le",
-            "en cete occafion, il y en cuſt eu gqui le ſauueent,",
-            "ce fut auſſ vn exemple de la Iutce duine, que la",
-            "perte de elles Canailles qui peu auparauan & meſ",
-            "me le our de Paſques, auoient pille les Eglles deſ",
-            "obe les Sains Ciboires, & fait rachee au pay",
-            "lans les Hſtes Sacrées, qui ’y eſloent rencon",
-            "rées, Enfin tant de ces bBahaes que des aue ca Ma",
-            "arins on fait Eſtat, que la Deûfaite ſe monte e ui",
-            "n ̀y nnl homnmes lu la plaoe, tuez & bleſſe, &i",
-            "aſepr cens prilonniers leus Ca os poudres ui",
-            "ions & agages, dont nos Soldats ont fat ptofis",
-            "de plus de cent mil eſcus. ous y auons pedu toit",
-            "Jea de gea grac esà Deu: mais ent’autres le Com",
-            "e de aaré Lieutenant de Moneur le Icae Ne",
-            "ours, que l’on erot mort ayant eſté bleſſé o’v",
-            "oup de Cauon apres uou ſai tout le oeui d’",
-            "B"
+            "L AL L N L DE SVEDE ADAME Lhtore dvne cton mmortee ne ve t ms Et cee que e preente ̀ VOsTRE MAESTEdeBte de Lents n ps perdugrce denouueuté en quee ot connue de toute Europe que e rut dvne Vtoremportnte t retenty pr touteterrenet ren deconnu dns ej"
         ],
         [
-            "grand Capitaine Monſleur le Mareſchal de Tu.",
-            "Hnne s’eſtoient reriré́ ſur vne petite eminence auec",
-            "ſo Canon, autour de luy lequel eſtoit reſolu de ſe,",
-            "deffendre: mais voyant’lades route des aues il fut",
-            "onnra nc de ſe rerifter à Glen, auee les gens, edit.",
-            "que MleD Beaufort qu auoient ſon pote vnpe",
-            "eſcaté de cely de Monſieur, le Duc de Nmoun",
-            "ayant appris l’attaque vint fe joinre à . le Pince",
-            "qui aprés cette des routé f faire ltei’I’lnfanteie,",
-            "& le mettant aà la teſte de l Caualelle ft à̀ la pous",
-            "ſuite du reſte des toupes pour en acheuer la De",
-            "ſaite.",
-            "Il faut adduoü̈et que le Cardinal Mazarin; auoi",
-            "raiſon ’apichendet ce grand Prince, i ſçait iende",
-            "’que! boislſe hauff & ſe voit mantenant à la veil",
-            "’e de lombetr entre ſes mains; e croy qu’il n’aura pas",
-            "Vné petitefievre a la nouuelle de cette Deffite, qui",
-            "a ta meſme bien eſtonné toute la Cour, & pourra",
-            "fſe repentt beaucoup d’eſprſes, il y a quelque téps",
-            "quil ſe vantot de ſçauoir e n ore vne tuſe elle eſt",
-            "ben maintenant de ſaſon s’la deſſ in le s’en ſeruir",
-            "mis il n’eſt ips mal-halle s’ parie certe derniere",
-            "botte qu n’eſt pas vn botte à l’tralie nne: car h on",
-            "s’en’eſtoltſetv, l cotre luy d n’au-oit ps ſi long",
-            "’temps etercé ſes Tyrnniers dans cet eſtat: mais 1l",
-            "’conoiſt ro biên l genetoſite e os Fr an ois",
-            "q i ont en horreui ’erelaſeietéItale: mais qi",
-            "luy gardent vn chaſtiment exemplaire digné",
-            "*.",
-            "ſes demerltes.",
-            "Enfin voicy vn teſmolgnage de l prouide nee di"
+            "EPSTRE monde que es huts fts drmes dAexn dre de Cer & du grnd Gutue pere de V M quoy que on en de tous es ours on y découure tous es ours de nouueux m rces Les Btes & es tores du Prn ce de Condé font e meme effet dns tous es eprts genereux Pus on es entend pus on es dmre Ce Prnce MADAME dont y eu honneur de vous our prer uec tnt de tme d que V M nommot en ce temps ̀ LE GRAND DVC DENGVEN n chngé de nom que pour en prendre vn pus grnd pour monter dvne gore ̀ vne pus hute gore Cet e Duc dEnguen quggné es Btes de Rocroy de Froug & de Norngue Cet e Prnce de Condé quggnéBte de Lents dutnt pus memore & de pus grnd ect queeeté donnée pr deux grnds Prnces de pr ty contrre que e Demon des Bourons ypreuu ur e Demon dAutrche d& que notre premer Prnce yvncu e frere de Empereur y creu MADAME que"
         ],
         [
-            "uine qui nous fait veoir qu’elle n’a pas abandonné",
-            "et eſtat puis qu’il plaiſt à Deu de fauoriſer nos",
-            "rinces dans lcur iuſtes deſſens. Paris a eſté telle",
-            "ment touché deioye de cette heureuſc nouuelle qui",
-            "promet la Paix, à toute la Fra nce que beaucoup de ſes",
-            "Bourgéois auoient teſmoigné aà̀ ſon AlteſſeRoyalle,",
-            "l’enuie qu’ils auoient d’en faire des feux de ioye ce",
-            "que Son A lteſſe Royalle deffendit & leur fit veoir",
-            "quele grande bonté plaiguoit encor ces miſerables",
-            "aueugles dſſant qu’is eſtoint auſl bien François,",
-            "comme nous & qu’il. falloit ſeulement remer ier",
-            "Deu, & le prier à ce qu’il pleuſt bien. toſt à ſa Miſe",
-            "ricorde de nous des liurer de oet enaemy mortel de",
-            "FIN."
+            "EPSTRE eton que en y fte erot gree ̀ V M Les rpports qu ydvn Heos vctoreux uec vne eyne tromphnte mont perudé queVftore du PRNCE DE CONDE ne pouuot etre pus utement dedée qùREYNE DE SVEDE Etm emé que de ces deux grnds Nomse formerot vne dée du pus eu Trophée de vnuers Qu peut etre pus dgneArtre dvne te que Vous MADAME qu en queZ tnt donné qu en ueZ tnt g gné? Ouy MADAME Vous ueZ donné toutes es Btes qu ont vngémort de GVSTAVE LE GRAND Cet Vous qu es ueZ ggneeset vry que e meme Detn qu n ps vouu rrcher Empre deMon dAutrche n ps vou u permettre u que Vous yeZ commndé en peronne vos Armées dAemgne Mus Vous es ueZ commndées pr votre uto rté pr vos ordres d votre ntegen ceeté me de ces Corps goreux Quoy que V M MADAME nt ps doutéj"
+        ],
+        [
+            "EPSTRE Couronne pere ux tros Royes que e porte On ne e ps dexter hutementforre de votre Gene dont mpreon etépunte que ns ortr deSuede Vousenre e ue ere oeeps V M de uy donner Apres des euenements ee e e eoe tee que vous MADAME ̀ uger ou uernement du prx qu et deu ̀v ne emree ue e e eur Et pproton de V M etCoutous es Conquerns douent prer L e eeoet Bte de Lents ttend cette pproton ronné demn dvne Reyne qu dtruë es pus ees Pmes du monde S e usheureux MADAME que V M pr empre ou quee poede ur es ettres comme ur es rmes utore dvn fuor e ccuepette Nrrton que e uy of"
+        ],
+        [
+            "EPSTRE fre dvne Btegrnde d renommée e ery comé dhonneur u dè de tout ce que mon mton çurot pretendre Et mon on eur er extremee mertegrce detre duoé MADAME DE VOSTRE MAESTE Pour on treume tredee & treent eruteur LAPEYRERE"
+        ],
+        [
+            ") d to ds ucrrere udceDPRNCE ux cnpqnes deZCs Et e et ot eu de Ted efote ds Tens f"
+        ],
+        [
+            "DE LENT S ARC HDVC LEoOPoLD Ce Tner de Armée dEpgne uxfP uot reüy dns tousp ee de e oure e e e nee d v eddddede e oue peounnoe ee S goreuees ures etoent SLAA rouours emes ̀ eurs com mencemensuot forcéve &ctdee de Courtry ̀ tros heures dpre & preque ̀veuë du Prnce de Condé qu egeot cette pce Len trepre dOtende uot eté funete ̀ es entrepreneurs & douze cens Frnços mheureuement echoüez ur e ruge etoent retenus pronners dnsve me me qus uoent vouu prendre Lrrupton qu uot fcte urfrontere de Pcrde uot eu effect qu 6etot propoé Lrmée Frnçoe uot quttéFn dre pour venr u ecours dePcrde & es prtys qu uot enuoyez dns cette Prounce y uoent ft degrnds ruges qu setot perudé que e rut de on nomuot donné de effroy ̀ve de Prs"
+        ],
+        [
+            "LA BATALLE DE LENTS Ms de tous ces untges nu ne e fttotgre ement que duor redut e Prnce de Condé ce Vctoreux & ce Conquernt qu uot ggné tnt de tes & qu uot prs tnt de Ves ̀ cette du re neceté duor eté pectteur depre de Furne uec ce depr de nuor peu ecourr cette pce mportnte dontperte ttrot ppremment cee dpre que e Prnce venot de prendre & cee de Don querque qu uot prs deux ns uprunt Vn progrés de fectezconderes uot eeuéhut e courge de Archduc qu etm que cetot vne choe ndgne & dereputton & degrndeur demon dAutrche de e tenr u dè deruere de Ls en des potes retrnchez de cnux que es Fmns ppeent Vvtregnts L Ls etot on Ru Ltn propre cone reout deper pour entrer dnspne mentce & pour er en pus unt fortune repondot Vvons ̀penée On uot pué que es Prens etoent ppeẽtpoedez du meme eprt de troue & de confuon qu true nos vonsvouot tenter ss ne e roent ps dhumeur ̀ reuor es etendrts dEp gne & ̀ uy ouurr es portes deVepus e epus rche &pus upere de toutes es ves du monde LE PRNCE DECONDE Gener de Armée du Roy dns es memes P̈ voyot e uccés des f tres de Archduc & e deordre des ennes uec vne doueur ene ms ecrette L Fortune qu uot touours fuoré emot en ce temps ̀ ne e regr der que de muus œ & e reproche des futes qu netoent ps ennes tomot en quequc fçon ur uy prcrence que on uot conceuë quetnt e m tre de on Armée ren ne sy pot que pr on ordre Ce qu netot pourtnt psoument vry que toute monde e crovot"
+        ],
+        [
+            "g LA BATALLE DE LENTS Le ege dpre uot eté reou dns e Cone de Guerre tenu ̀ Prs ur vn fux rpport de ceuy qu uot m reconnupce Ete Prnce qu ne e donnc pont de repos & qu nen donne ̀ peronne dns toutes es fctons deguerre neut pporté ̀ ce e ge vne reouton vne vgnce & vne duté tou te prtcuereet certn qu urot eté pus ong & pr conequent pus douteux Qunt ̀perte de Courtry e meme Cone de Guerre uot ordonné urproe du Gouuerneur e nomre dhommes qu deuoent ortr de cette grn on pour ortfer rmée du Prnce Et e Gouuerneur nuot mené que eze cens hommes de deux me qu uot proms Ms de ce nomre encore e Prnce uot renuoyé deux cens cheuux dnspce urcrence qu eut quee erot depourueuë de defene en cs quee fut ttquée Quoy que e Gouuerneur uy pro tett que ren ny mnquot & uy repondt potue ment quec etot mune dhommes & de choes nece res u dè de ce qu en fot pour outenr vn ege & ttendre du ecours Lentrepre dOtende nuot eté ny du cone ny deconnonce du Prnce &nen eut dus que ur e pont que executon sen deuot freeut ordre deCour denuoyer douze cens hommes commndez u Mrech de Rntzu utheur & executeur de en trepre & desuncer en meme temps uec e rete de es troupes proche de Dxmude pour y ttrer es enne ms & es eogner dOtende Le Prnce uot effectué vn & utredrottement que es Epgnos crurent que es douze cens hommes enuoyez ̀ Donquerque ne toent quvne fente & quen effect on en vouot ̀ Dx mude s coururent de toutes prts u ecours de cette pceOtende meme y uot enuoyé es meeurs hom mes Et Otende etot prson eutceu prendre A j"
+        ],
+        [
+            "4 LA BATALLE DE LENTS S e Prnce fut m econdé ̀ Otendefut m oey ̀ Furne Le Mrech de Rntzu ne setot ps poté ur es cnux des uenuës où e Prnce uy uot com mndé de e tenr ors qu prtt de Fndre pour u ure Archduc en Pcrde Etordre qu uote eut ecté oeruéet contnt que es ennems nu roent ms pené u ege de Furne Ms de tout ce qu uot truerécmpgne du Prnce ren ne e touchot comme de vor perr on Ar mée qu uot eté des pus ees & des pus etes qu fuent entrées dns e pys ennemy & qu etot deue nuëpus chetue &pus derée qu e vd msuot perdu vne onne prte de es meeurs odts urpge dOtende L cmpgne uot eté rude & pene & on Armée nuot ft quvne demmon tre L puuretéfmnudtémde &deerton ffooent ̀ veuë dœ Et cette foue de cmtcz uot redute ̀ vnpett nomre quee etot dmnuée des deux ters de ce quee etot u ege dpre Vneongue ute de muues rencontres urot etonné tout utre que e Prncetemogn vne fer meté nerne u meu de tous ces deordres & neps de contenr es troupes dns vne dcpne u excte queees uoent eté ecxctement pyéesdonn tout ordre qu put ̀ ce qu dependot de uy & decondute & ouffrt ns murmure ce qu venot du dehors & defortunengnorot ps que e ort des rmes et vre & ncontntttendot vne re uouton meeure Etptence etot de ces vertus qu rrtent vne hute veur en on dedécourger LARCHDVC em toutes es forces pour e deen qu uot & pLsege en pnt e chteu dEterre qu ft peu de retnce Le Prnce quetot cmpé proche de Bethune uot tché tout fo"
+        ],
+        [
+            "LA BATALLE DE LENTS 5 e qu etot de ecourr cette pce Msne e put prce que Archduc qu uot ggné es deunts etot potéur es uenuës du ecours ées̀ grder dffees & preque mpoes ̀ forcer Les ennems en ute de cette pre vouoent perLue qu etruere de Bethune ux vges deGorgue & Etrn & refrent es ponts qu etoent rompus Ce pge qu mportot de deffendree o ge e Prnce dy enuoyer en dgence e Duc de Ch ton Leutennt gener uec queques troupes de tchées de unt grde & de e uure uec tout e gros de Armée pour e outenr Le Comte de Buquoy etot pé uec quntté de troupes Epgnoes & e rete de Armée enneme fot touours qund e Duc de Chtondrot ̀ ce Comte & e chrgev goureuement qu ne fut ps euement contrnt de reper es ponts ms de es reper en confuon uec perte de eucoup de odts & de pueurs Offcers Le Mrqus de Pern Mrech de cmp qu e port en cette occon tres vmment concoutume y fut eé dvn coup de mouquet u rs Le Prnce ynt ché es ennems u dè derue re de Bethune uot de nquetude pour e Gencr Er c qu etot rrué ̀ Arrs &crgnot ucc ron que Archduc ne es vouut empecher de e ondre pour es comttre eprement Mzeroes Genom me voontre etot ̀ Arrs deprt du Prnce pour concerter cette oncton & Vuecour Mrech de cmp ttendot ̀ Bethune e commndement de mr cher pour er receuor ce Gcner uec vne ecorte de cuere & dnfntere Lordre fut donné̀ pro pos que es troupes de Vuecour & cees dErc e rencontrecrentnut de cc meme our & ̀ meme heu re u vge de Souché eu detné pour e rendez vous de vn & de utre A j"
+        ],
+        [
+            "LA BATALLEDE LENTS Les Frnços & es Aemns onts eneme rruc rent e endemn mtn ̀ Bethune où e Prnce etnt é vor e Gener & es troupes pprt pr e Mre ch de Grmont qu etot demeuré u cmp que es ennems uoent deogée mt ur heure meme ̀tete deCuere des corps dErc & de Vuecour & decouurt Archduc dnspne qu mrchot uec toute on Armée e ong degrnde route dEterre ̀B́e On uy rendt en meme temps vne ettre du Peeere Gouuerneur deBée qu portot que es ennems oent u Pont Adon & que e rut etot prmy eux qus retournoent en Frnce Le Prnce depech u Vdme dAmens qu etot ̀ Arrs pour donnerordre ̀frontere de Cue & de Rocroy Et ne doutnt pus deroute que prenoent es Epgnosf ett que Archduc ne e pouuot dedre de te ̀ queee vouot engger Aunt que der ̀ uytrouu ̀ propos de retour ner en on cmp où etot e Mrech de Grmont & reout de reprendre Eterre tnt pour reggner en che mn fnt vn pote mportnt urLs que pour ne ps er cét untge ux ennems de pouuor dre ce mot de rodomontde Epgnoe Qus uy uoent prs vne pce urmoutche Eterre fut forcé en mons dvn our Et e Prnce reprt pr ut ce que Arch duc uot prs pr cptuton Le Couuerneur deBée mnd ur ce temps que Armée enneme pot u Pont Auntn & quee ggnotpne ̀ deen dttquer Lents Le Prnce mptent de çuor où rot Archdue commnd que on Armée e uut ̀Bée & sunc uec queque troupe de Cuere pour reconnotre en per onne es ennems qu prurent u nomre de qurnte ecdrons ur vne des huteurs de Lentsreceut vne oye qu ne e peut exprmer de es vor eneu eu"
+        ],
+        [
+            "LA BATALLE DE LENTS pour es comttre & retourn fort content ̀B ée où toutes es troupes rruerent ur e or & ft on ordre de te désmeme nut Le endemn u ponct du ourmrch ux ennems qu croot potez urmeme huteur oùes uot ez Mses trouu ̀ Lents qu setot rendu cette nut ̀ meme u rut demrche Epgnoe ns ttendre e cnon LENTS et vne pette ve deComté dArtose ur vne emnence entre Arrs &Bée ̀ qutre eüs dArrs urmn drotte & ̀ deux euës deBée Vne pette ruere coue u ped de emnence du coté dArrs & y forme vn mrs L cmpgne du coté deBée et compoée de ces grndes pnes ondées dont es cotux & es vons e huent & e ent mperceptement & ement nuor eté f tes que pour y donner des tes Cette pceeté pre & repre dueres fos pr vn & pr utre prty & queté mtre decmpgneeté mtre de Lents Ee etot gnée prmort des grnds Cp tnes qu y ont eté tuez Ee et deuenuë utre prte qu enprs e nom LArchduc uot deré de vor e Prnce ou eon humeur Epgnoe uot fent de e derer Le Prnce e preent deunt uy en te rngée urhuteurpus proche de Lents du coté deBée & uy prut etncent dns es rmes ̀tete de on Armée comme vne Comete que Empre & Epgne nont ms veü mpunément LArchduc etot cmpé de cette orte Son e drot te etot ousve de Lents remprée pr e deunt de runes & de chemns creux Son corps de te etot poté dns de petts os ntureement retrn chez Et on e guche occupot vn eu eeué u de unt duquey uot quntté de défez"
+        ],
+        [
+            "LA BATA LLE DE LENTS LArmée de Archduc etot pus forte que cee du Prnce de tros ̀ qutre me hommes &ny uot ps dpprence que e pus foe dût ttquer e pus fort dns des potesuntgeux Cetot pourtnt ce meme ̀ quoy Archduc setot ttendu & uot pené que e Prnce ferot ̀ Lents ce qu uot ft ̀ Frourg & ̀ Norngue Ms es rons etoent dfferentes & es rencontres netoent ps emestt es ennems de tous cotez & ft tout ce qu put pour oger Archduc ̀ ortr hors de on poteuy fut mpoe de ttrer u comt Ee rout ce our e p ̀ ecrmoucher entre es deux Armées & ̀ vn grnd feu de cnon de prt & dutre Le cmp du Prnce etottere &ec qu ny uot ny eu ny fourrge ux enurons que du coté des ennems & es cheuux de on Armée nuoent eu ny mngé de tout e our Ce e ft reoudre ̀ chnger de pote & ̀ retourner ur es ps ̀ vn eu nommé Neus ̀ coté deBfée oùy uot on dnce deux & de fourrges où on Armée pouuot etre ecouruë de vures & doùetot en ett do eruerdémrche des ennems pour er ̀ eux de queque coté qus euent eu enue duncer ou de recuer L reouton pre de décmperdeer s prt rot de nut ou de our Déoger de nut etot e pus eur Mrcher de our etot ncomprement pus dgne dvn grnd Prnce & e fttot de cette epe rnce que es ennems senggeroent ̀ e uure & qu es enggerot ̀tey uot eucoupde per ̀ e retrer de our deunt vne Armée dEpgne commndée pr des pus rues Cptnes de Euro pe Le ps etot gnt deretrtte ̀futte & defutte ̀deffte Ms honneur & epernce de com ttre emporterent ur e pere reout de ne mr cher"
+        ],
+        [
+            "LA BATALLE DE LENTS 9 cher que de our Et nt gr cette cheur ntereu re qu uy pregeot e comt &vctoreett hrdment e dé urconfnce qu prt de on de tn & depropre veur LE CORPS de recrue mrch dunrde dés que e our commenç de pondre Ce our fut e vng teme dAout m x cens qurntut remrqu e pourBte qurendu ceere L econ de gne uut e corps de reerue L premere gne uuteconde Et e cnon mrch ̀tete de n fntere Le tout e retr en on ordre & ns dnger queconque hormspremere gne de e drotte où ectot e Prnce Ee uot en tete es Crutes & es Lorrns de e guche de Archduc qu etotmons cmrrée de chemns coupez &pus de ggée des troupes ennemes Ce fut ee u qu orttpremere de on pote ur notre retrtte Le Prnce uot donné ordre que e corps deGen drmere commndé pr e Duc de Chton srre tt dnspne & ft front ux ennems pour ou tenrgne qu e retr pr es nterues des Gen drmes Le regment du Duc dOrens qu uotgrndgrde ce our ̀ fotretrtte de tout Artete etoent e Mrqus de Normouter Mrech de cmp & e Comte de Brncs Mtre de cmp du re gment qu outnrent courgeuement & ez ong temps e choc des Crutes Ms eur effort futm petueux que e regment p Le Comte de Brncs ft dns cette occon tout ce quvn homme de cœur peut frey demeur eé & pronner Le Mrqus de Normouter e trouu enggé prmy es Crutese ft fre our epée ̀mn & e dégge deux Les ennems uroent pé outre ns e Duc de Ch ton qu en rret e cours Lvne & utre Armée qu e vd fondre uec es Gendrmes demeure dccord"
+        ],
+        [
+            "LA BATALLE DE LENTS qu ne set ms veu de pus ee chrge ny fcte de meeure grce Les Crutes & es Lorrns qu es outenoent furent repouez uques ̀ dem huteur de emnence de quee s etoent decendus Ms s furent outenus de tros gros ecdrons frs ces tros e cdrons de touteCuere que Archduc uot dé tchée & ce torrent tom ur es Gendrmes uec tnt de force & de rpdté qus furent renuerez es vns ur es utres Le Prnce qu uot preueu e deordre uot pour ueu ̀ deux choes Lvne que es troupes qu deuoent er ̀ Neus e ment en te urprochne hu teur Lutre quegne ft ferme dnspne pour fuorerretrtte du Duc de Chton A quoyuot exhorté es hut ecdrons qu compooent cet te gne ecdron pr ecdron & croyot qus per roent tous putot que de ndonner Ms commeetot ur e ponct der ̀chrge pour outenr es troupes qu e retroent en confuon es hut ecdrons qu uy uoent temogné tnt de reouton voyntchc des Gendrmes e nomre &fure des en nems qu es pouruuoent furent s dvne epou unteoudne que e Prnce ndonné & preé ne pût prendre uy meme utre prty que ceuy deeu reté Et commene sy reout que trd ce ne fut ps ns rque detre prs ou tué dns emrrs dere trtte Ceux quepeur emport ne srreterent quu ped dehuteur oùeconde gne & e guche depremere setoent potées ucc nfntere de re & e gros de reerue Ceux qu coneruerent e ugement dnsfute frent te ̀ vn rdeu qu e ren contr dnspne ez proche de cette huteur Ce fut ̀ que e Prnce ft vn rment des mons eton nez & quynt tourné tete ux ennemses rretLA BATALLE DE LENTS tout court s noerent ps ns doute e commettre dns e deordre depourute où s etoent u h rd des troupes que e rdeu pouuot couurr ny u vonge de cees qus voyoent rngées en te urhuteur s e retrerent ur emnence que es Frnços uoent quttée vs ̀ vs de cee où s etoent potez DABORD que e Prnce eut reont e Mrech de Grmontreout uec uy & uec tous es huts Off cers de on Armée quon donnerot te ns mr chnder& que ren ne erot chngé de ordre qu uot eté ft ̀Béeny eut en effect ren dnnoué quenpremere gne de e drotte que on ft econde gne de premere queec etot tnt pourrfrchr que pour neps commettre u premer choc du com t dns epouunte où ee emot etre Cetot vne entrepre en hrde de chnger queque ordre de te que ce fut en preence des ennems Ms e mouuement de ces deux gnes e ft ns confuon Ees frent vne epece de contremrche & perent pr eurs nterues uec vn ordre merueeux ̀p ce vne de utre Les Gendrmes rez furent rems dns eurs potes Ce qu defot fut rety & rn gé en fort peu de temps Et e nomre de ceux qu fu rent tuez ou prs ̀retrtte ne e trouu ps con dere Lordre dete fut te Le Prnce prt e drotte & e pot ̀premere gne compoée de neuf ecdronsuot formé vne pette troupe de qunze à vngt de es dometques rues & chos qu ne quttoent msperonne & es pç dns nter ue des deux ecdrons du regment de Vette ̀tete duquevouut comtre commeuot com tu ̀ Rocroy ̀tete du meme regment qu etot en ce temp̀ de Gon Les huts Offcers qu er B j"
+        ],
+        [
+            "LA BATALLE DE LENTS uoent prés de uy etoent Vequer Leutennt ge ner qu commndotpremere gne té dAr nud Mrech de cmp Le Mrqus deMouye uecmeme dgnté de Mrech de cmp e tenot prés deperonne du Prnce pour receuor es ordres pus prtcuers Le Mrqus de Fur etot Mrech de te Et Bcueu commndotcuere de cet te rgde Le Mrech de Grmont uot e guche dontpremere gne etot compoée de pre nomre de cdrons quepremere gne de e drotte L Fer té Senetere Leutennt gener commndotpre mere gne té du Mrqus de S Mgrn Mrech de cmp Lenue eruot de Mrech de te Et e Comte de Leonne commndotcuere de cette rgde L premere gne dnfntere entre es deux es etot de cnq tons Et e Cnon mrchot ̀te te de nfntere commndé pr e Comte de Coé qu uot pour LeutenntsGuette & de Hyes L econde gne de e drotte etot compoée de hut ecdrons que e Mrqus de Normouter Mre ch de cmp commndot L econde gne de e guche nen uot que ept ous e Peeerc u Mrech de cmp L econde gne dnfntere etot de cnq tons Sx ecdrons de Gendrmes etoent potez entre es deux gnes dnfntere Et tout ce gros de Gen drmes & dnfntere compoot e corps de te dont e Duc de Chton Leutennt gener uotcondute ynt prés de uy Vemee & Beuregrd Mrechux de te Le corps de reerue etot compoé de cnq ecdrons & commndé pr e Gener Erc qu uot ous uy e Mrqus de Rzy Mrech de cmp"
+        ],
+        [
+            "LA BATALLE DE LENTS Le Prnce ft vne reueuë de es troupes & es hrn gu toutes S preenceproe &gyeté qu enere e e e e ne ron n ue eueunune p̂esforce ux pus foes & ceux dont es hts dechrez tomoent en meux prurent dns vne poture pus udceue & pus fere que netot or gue meme des Epgnos qus oent comtre Le Prnce eur recommnd tros choes L preme re de e regrder mrcher es vns es utres pour o eruer eurs dtnces & eurs nterues & queC uere e rencontrt touours uec nfntere ur vne meme gne drotte L econde de ner ̀chrge quu ps L troeme de er trer es ennems es premers On pperceut en meme temps queCuere des cnnems qu e tenot urhuteur oppoée ̀ cee du Prnce souurt ̀ drot & ̀ guche Cetot pour fre pce ̀te de Archduc qu etot orty hors de on pote de Lents uec tout on cnon toute on nfntere & tout ce qu uy etot reté de Cuere Le Gener Bec qu uot eté ̀che de nos trou pes de retrtte uot enuoyé octer de venr urproe non ps ̀te ms ̀défte du Prn ce qu uy donnot toute eurée Et Archduc etot orty ur cette crence qu ny uot ren pus ̀ fre s e fut n dre qù prendreVctore uecmn L tsfcton du Prnce fut nonpree de vor Ar chduc en preence Son decn uy uot reüy com meuot proetté Etemot queretrtre nuot eté quvne fente pour engger es ennems u comt Ce fut en cffet vn pneu utement tendu ux pus grnds Cptnes du prty dEpgne & Ar chduc donn dedns Luon qu e tromp futB j"
+        ],
+        [
+            "LA BATALLE DE LENTS rrecourut ̀vctore & neut ps e temps de prendre hene pourte Le Prnce etot pret Archduc ne etot ps Et es Frnços setoent h tez de e mettre en ordre pour urprendre es Ep gnos dns e deordre LESTOT enuron hut heures du mtn qund Armée du Roy commenç ̀ mrcher ux ennems Et es ennems quvrent er ̀ eux dnsreouton de comtre commencerent ̀ douter devctore Qu e repreenterferté de cette Armée Roye & e e ordre dns eque ee mrchot u rut des trompettes des tmours & des cnons e fgurer cette BEAVTETERRBLE ̀ quee e Deu destes comproteuté de on Epoue Le Prnce uy fot fre te de temps en temps pourconte nr dns es gnes & dns es dtnces Et ce qu et de condere e Cnon que commndot e Comte de Coé futen &dgemment eruy qu tr touours en mrchnt uec cet untge que trnt depne urdemnence où etoent es ennems tous es coups portoent ou dedns eurs tons ou de dns eurs ecdrons & ndoutoent ps peu de con fuon ̀ cee où s etoent pour e mettre en ordre Le Cnon des ennems qu trot de hut en s ur Armée du Roy ne fot ps e meme effet Quoy que e nomre fut tres nég que Archduc en eut trentut peces & que e Prnce nen eut que dx hut Les ennems preez de comtre foent onne mne & mrchoent reoument ̀ nous Ms s f oent deux choes emrrntes ̀fos ors que on v ̀ vn comt decf cr s mrchoent & e ren geoent en te tout en meme temps Leur Armée etot compoée de eze tons & de oxnteux ecdrons Leur ordre etot te Le Comte de Buquoy"
+        ],
+        [
+            "LA BATALLE DE LENTS & e Prnce de Lgne commndoent es deux gnes de e drotte Le Prnce de Sme & e Comte de Lgneue es deux gnes de e guche Le Gener Bcce nfntere Le Comte de Fuendgne e rete des troupes qu outenoent ceey Et Archduc Cepour uor œ ̀ tout setot poté ̀tete deCuere des Ordres u meu deBteme ere C Les deux Armées etoent ̀ trente ps vne detre ors que tros coups de fus furent trez de e dEp guche des ennems ur e drotte de Armée du Roy? Le Prnce qu crgntprecptton de es odts es rret pr vn te qu ft fre & deffendt de t rer que es ennems neuent tré ̀ out portnt Cet te ft tros effetstemper rdeur de nos troupesut ordre de eur mrche Et es confrm dnsreouton de ouffrr e feu des ennems Sur ce temps e Prnce de Sme sunc u trot uecpremere gne contre cee du Prnce qu ne mr ch que e ps pour e receuor Les deux gnes e o gnrent tete contre tete de cheu ouche contre ou che de ptoet & demeurerent en cette poture ez ong temps en ttendnt ns rner des deux cotez qu treroent es premers Les ennems pus mptents que nous commence rentdechrge Le Prnce qu commnd en meme temps de trer tr e premer & enfonç epée ̀mn ecdron qu uy etot oppoé Toutepreme re gne e uut & ̀ on cxempe chrgerudement quee renuerpremere gne des Lorrns Vneu commencement donn uet u Prnce de e dégger demeée pour er eurs & pouruor u rete eon occurrence des cs & e uccés detedunt queeconde gne des ennems qu outnt eur premere gne repounotre &m men Ce ne fut ps ns comt & ns retnce V"
+        ],
+        [
+            "LA BATALLE DE LENTS equer Leutennt gener y fut prs prés uor per cé es deux gnes des ennems & donné des mrques gnées de on courge & decondute Le Mrqus deMouye Mrech de cmp y demeur eé & pronner prés uor comtu vmment ̀te te du regment de Vette & ̀veuë du Prnce Son cheu tué ous uy e mt hors de defene &veur ced u nomre de ceux qu enueoperent Notre econde gne qu nttendot que e moment de reprer dns e comturpre deretrtte eut ordre de outenrpremere gne & e Mrqus de Normouter qucommndotmen vertement ̀chrge Le Prnce uot répremere gne & donnot pr vn endrot en meme temps que e Mr qus de Normouter donnot de utreetot té en cette occon du Mrech de cmp Arnud qu ft en pr tout ms tres en dns cette rencontre où effort des ennems fut rreté e comt ret y &en outenu de prt & dutre qu de meur ez ong temps douteux & en nce Ce tot vn fux & refux de troupes pouées dvn coté & repouées de utre tntot pr es notres & tntot pr es ennems Cecy et treondere qu ny eut pont decdron rompu ou repoué pr es Lorrns que e Prnce ne rt & ne rment ̀chrge Ce qu fot uec vne vtee & prompttude dcton qu ne e peut conceuor & e nomre des chrges qu ft en duers endrots net ps mgnep ot comme vn ecr dvn eu ̀ vn utre Et on eutdt que comme vn ecretot pr tout & en me me temps Ms es ennems ne e rechoent ps & dputoentvctore opntrement Ce qu oge e Prnce de fre uncer on gros de reerue Les Epgnos frent mrcher e eur u Et es coups furent redouez ̀ meure"
+        ],
+        [
+            "LA BATALLE DE LENTS meure que es forces furent redouées Afn e Ge ner Erc nmé prpropre vertu & prpreen ce du Prnce ̀ quvoyot fre des ctons de veur pus quhumne pou es Aemns contre es Lor rns uec tnt de cœur & de rodeur qus furent con trnts de per & de prendrefute Etdéfte des Lorrns futdéroute de e guche & du corps de reerue des ennems Dns e meme temps que e Prnce de Sme sun çot u trot contre notre Prnce qu e receut u ps e Mrech de Grmont mrchot u ps contre e Comte de Buquoy qu ttendot de ped ferme ̀ dx ps dvn rdeu qu fot monter pour er ̀ uy Le Mrech ns rompre on ordre & on ps g gn e hut du rdeu euy tout e feu des ennems es chrge & es men tnt de tee orte qu ne eur donn preque ps e temps de e reconnotrees rompt ̀tete du regment Mzrn oùcom tot ccompgné du Mrqus de S Mgrn & du Comte de Leonne qu frent des meruees dns tout e cours dete Vn ecdron des notres montnt pr vn endrot e pus ecrpé du rdeu uot eté repoué pr vn ec dron ennemy & ennemy ot prendre u retour e ton de Pern en fnc ors queFertéenetere Leutennt gener qu venot de rompre vn regment de Cuere Epgnoe chrge ceuy cy uec tnt de vgueur qu e mt en fute & ynt poué uques u gros des ecnnems ugment e deordre qu etot prmy eux Leur econde gne que commndot e Prnce de Lgne vnt outenrpremere ms ee ch e ped ̀ pproche du Mrech de Grmont que e Pes Beere uot ont ucceconde gne Et ce renfort cheu de rompre ce qu retot de e drotte Ep"
+        ],
+        [
+            "LA BATALLE DE LENTS gnoe Le Mrech ftvmment & futheu reux dns tout e comt que on e ne fut ps eu ement ernéedefft tout ce qu chrge & e trouuouuent enggé prmy es Epgnos qu ft deux ou tros fos ̀ etre prs dnsmeée Le corps de te qu uot mrché dvn meme temps ucc es deux es uot eu e meme uccés Vn meme ordre uot ft mouuor Armée du Prnce & vn meme eprt got dns toutes es prtes de ce corps Les deux tons des Grdes qu tenoent e meu depremere gne setoent emportez pr vn excés de courge u dè degne pour er tt quer vn regment dEpgnos & deux dAemns qus uoent en tete L Cuere de Archduc qu ou tenot ces regments prt es Grdes pr es deux fncs tu qutre de eurs Cptnes urpce e es utres & urot té en pece es deux tons ns e Duc de Chton qu es outnt uec es Gendr mes uy dvn coté & Brntne Leutennt des Gen drmes du Duc dEnguen de utre Les ennems fu rent chrgezruquement des deux cotez qus fu rent contrnts de e retrer dns e gros de eur t e Le Duc de Chton rmen es Grdes u comt contre nfntere que e Gener Bec commndot Et tous es tons de notre premere gne chrge rent es tons oppoez des ennems uec tnt de re outon & de cheur que e Gener Bec tout r ue qu etot ne ret ps ong temps ̀ effort du Duc de Chton LArchduc qu vd ce deordre ft tout ce qu e pût pour e reprernm es troupes ̀ vne genereue retnce pr exempe deveur & e me dns nos ecdrons oùft ̀ etre prs Ms que pou uotfre? Ses deux es etoent rompuës & on corps de te enfoncéfot ceder ou e perdre"
+        ],
+        [
+            "LA BATALLE DE LENTS 9 Etetm qu y uot defoeec dns e deeporc rerr & on ne çt pr où Le Prnce qu ne de mndot que Archduc & qu e cherch pr tout nen pût pprendre ucune nouuee Les deux es vctoreues du Prnce & du Mre ch e rencontrerent u derrere dete des ennems qu netot pus compoée que de nfnte re TouteCucre uot prsfute & ces pu ures fntns ndonnez setoent rez dns vn eu gros ron s erroent eurs rngs & eurs fes & e tenoent en poture de defene ors que e Prnce commnd ̀ de Roche Leutennt de es Grdes de es er chrger De Roche qu nuot de rete que dx hut ou vngt grdes de cnqunte qu uot u com mencement dete donn determnement de dns ce gros heré de pques & de mouquets Ms tout e ton qu ne ongeot ̀ ren mons qù comtre e voynt enuronné de toute notre Cu ere & entmé pr cette chrge ett es pques & es mouquets & demnd qurter es mns ontes & e genou en terre Cette oumon derm es vn queurs comme es vncus Le Prnce eur donn ̀ tousve & es ft pronners de guerre Ce fut ̀ que fntte & es ennems ne frent pus de r ment Les Generux Erc &Fertéenetere uec es Mrqus de Normouter & de S Mgrn Mrechux de cmp uoent poué es fuyrds uques u defé de Lents Le Prnce y etnt rrué es ft uure uques ̀ Doüy Et nuett uy meme Lents qu e rendt ̀ dcreton Vequer e trouu dedns Ceux quuoent prs e voyns perdus prperte dete e rendrent ̀ eur pronner & e prerent de fre eur cptuton uec cee de x cens odts que Ar chduc uot ez dns cette pce C j"
+        ],
+        [
+            "20 LA BATALLE DE LENTS LA CHALEVR du comt depuspremere chr ge uques ̀ entere déroute des ennems ne dur ps pus dvne heurc en tout Notre Armée choqu de tous cotez en meme temps & dvne meme rdeur Le drotte du Prnce trouu pus de retnce u uot ee ̀ comtre es Lorrns qu etoent es meeu res troupes de Armée Epgnoe L Vctore fut com pete en toutes es prtes &ne mnquot pour e tromphe quepre de Archduc Msuot pour ueu ̀eureté & e Prnce ne e pût ondre Les cnnems perdrent tout eur cnon toutes eurs muntons eurs ponts de teux tout e gge qus uoent ngt drpeux ou etendrtsy eut pus de hut cens Offcers pronners De ce nomre fu rent e Gener Bece e Prnce de Lgne Gener deCuere & e Comte de S Amour Gener de r tere Tros me morts demeurerent ur e pce On ft cnq me pronners ns es Offcers Ety eut vn nomre ncroye de eez Le Prnce de Lgne e voynt ndonné de toutegne qu commndot e mt ̀tete de nfnte re ̀ coté du Gener Bece oùcomtt & oùfut prs Le Gener Bece fut prs u eé dvn coup de mouquet qu uy rot epue drotte Le Prn ce e ft condure ̀ Arrs oùmourut e endemn es vns dent de depr es utres du coup quuot receu Le pus eur er de crore que on dep r & on coup etoent mortes & qu mourut de tous es deux L perte que ft e Prnce ne fut ps de cnq cens hommes en tout ot de tuez ot de pronners Les morts es pus conderes furent x Cptnes ux Grdes & queques utres Offcers de Cuere & dnfntere Le Mrqus de Normnue cdet du Comte deSuze eé de deux grnds coups ̀"
+        ],
+        [
+            "LA BATALLE DE LENTS te mourut deux ours prés de es eeuresnuot ps dpt ns ccomps & cetotecon de cmpgne qu eruot dAde de cmp & quer uot tregnement dns es Armées du Prnce Le nonre des pronners ne fut ps de eucoupgrnd que ceuy des morts Les pusnotes furenr Vequer Leutennt gener Le Mrqus deMou ye Mrech de cmp Le Comte de Brncs Mtre de cmp du regment de Cuere du Duc dOrenms Et Gutut Cornette des Cheuugers du Prncefut prs ̀retrtte depremere gne qu fut pou ée untte Se voynt preé des ennems ft vn tourne ur eux & es chrgereceut dns cette chrge vn coup de ptoet prés degorge & ce coup qu e mt hors de comt oge ̀ e rendre Vequer fut ms en erté ̀ Lents On demeur queques ours ns çuor u vry quetot deuenu e Mrqus deMouye Pueurs uoent veu eé dnsmeée & e vge tout en ng On reconno ot on cheu tué urpce Ms on ne e trouuot ny prmy es morts ny prmy es pronners Afn pr es ons du Prnce qu fuore ce genereux Mr qus dvne prteuere etme pourfermeté de on cœur & exceence de on eprt on eut us certn qu etot pronner ̀ Doüy ms orguec ne fut pus utement puny que ce uy des ennems Leurs Gettes uoent pué qunze ours unt eur deffte que on uot ft etter des montores pour pprendre où etot Armée de Frn ce Et Archduc uot ouffert quon uy dt en e f tnt que e Prnce de Condé noot protre deunt uy Les ms es pus fmers du Prnce roent defnfronere Epgnoe & en proent uec meprs A quoy e Prnce repondot uec modete Qu ne fot ny e moquer de on ennemy ny e meprer Que ? C j"
+        ],
+        [
+            "LA BATALLE DE LENTS es Epgnos qu e cherchoent e trouueroent Et que s pouuot engger Archduc ̀ vn comt on verrot qu urot peur de vn ou de utre Le Prnce ne reprot quvne teuot ou uent pé & repé de Lents ̀Bée & deB ée ̀ Lents Ms on ne uot ms veu ur vne ou utre des deux emnences doù es deux Armées de cendrent pour comtre qu ne ouhttt de don ner te dnsmeme pne où ggn Vne nouuee de cette mportnce rut de oye tous es ons Frnços & ne es urprt ps L Vctore etot dgne du Prnce qu uot remportée Cetotqutreme te qu uot donnée Et e nom re de es vctores deuot etre ég ̀ ceuy de estes FNr A PARS DE LMPRMERE ROYALLE PAR LES SONS DE SEBASTEN CRAMOSY mprmeur ordnre du Roy & deReyne Regente M DC XLX"
         ]
     ]
 }

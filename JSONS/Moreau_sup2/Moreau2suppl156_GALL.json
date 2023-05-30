@@ -1,96 +1,50 @@
 {
     "entête": {
-        "form": "prose",
+        "form": "vers",
         "genre": [
-            "texte officiel",
-            "arrêt"
+            "stances",
+            "burlesque"
         ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-09-16",
             "@who": "AB"
         },
-        "titre": "Arrêt de la Cour de partement portant qu'il sera fait\n          assemblée en l'hôtet de cette ville pour la sûreté d'icelle et éloignement du cardival\n          Mazarin; du mercredy vingt quatrieme juillet 1652.",
+        "titre": "Las Présents faits à Son A. Royalle et à messieurs les\n          princes de Condé de Beaufort à leur arrivée au palais, pour messieurs du\n          parlement.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2suppl15_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2suppl156_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "D DC",
-            "ARRES T",
-            "ereteier",
-            "ortant qu’il ſera fait aſſemblée",
-            "enlHoſtel de ceſte Villepour",
-            "la ſeureté d’icelle, & eloigne",
-            "nent du Cardinal Mazarin.",
-            "Mercredy vingt-quatrieſme Iujlleti65.",
-            "A PARI S,",
-            "mpruu & lbuie ordiouie duon",
-            "Auec Priuilege de ſa Majeſté."
+            "Ls Présents fts à Son A Roye et à messeurs es prnces de Condé de Beufort à eur rrvée u ps pour messeurs du prement Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Ls Présents fts à Son A Roye et à messeurs es prnces de Condé de Beufort à eur rrvée u ps pour messeurs du prement Prs Jen Brunet 652 Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y026TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs56 Ls Présents fts à Son À Roye et à messeurs es prnces de Condé et de Beufort à eur rrvée u ps frour mmsscurs du prement Prs Jeur Brunet 652 7 pges Agrès Le com de Beocumuvuuses prèces de vers vers stnces uresque"
         ],
         [
-            "3",
-            "EXTRAIT DES REGISTRE8",
-            "de Parlement.",
-            "E jour la Cour, toutes les",
-            "Chambres aſſemblées, Mon",
-            "ſieur le Due d’Orleans Oncle",
-            "du Roy, & le ſieur Prince de",
-            "Condé y eſtans; Apres auoir",
-            "oy Befchefert Subſtitut pour le Procureur Ge",
-            "neraldu Roy, & ayant deliberé ſur l’eſtat des",
-            "affaires preſentes, & exeeution de l’Arreſt de",
-            "ladite Cour du o. de ce mois & an; A OrR",
-            "nonn e’& ordonne, qu’il ſera fait inceſſam",
-            "ment vne Aſſemblée generale en l’Hoſtel de",
-            "ceſte Ville, eu la maniere accouſtomée, poun",
-            "aduiſer aux moyens les plus prompts & con",
-            "uenahles, afin d’auoir des deniers pour em",
-            "ployer aux neceſſitez preſentes, libertez des",
-            "paſſages, & du commetce, ſeureté & defen",
-            "ſe de ladite Ville de Paris, & éloignement du",
-            "Cardinal Mazarin, ſuiuant la Declaration du",
-            "A ij"
+            "LES PRESENTS FATS A SON A ROYALE ET A MESSEVRS LES PRNCES DE CONDE ET DE BEAVFORT à eurs rruée u Ps POVR MESSEVRS DV PARLEMENTA PARS Chez EAN BRVNET ruë Sncte AnneM DC L"
         ],
         [
-            "4",
-            "Roy, & Arreſt de ladite Cour; & que les",
-            "deniers prouenans des Fermes des Gabelles,",
-            "Aydes, cinq groſſes Fermes, Tailles, & autres",
-            "eſtans entre les mains des Comptables, Fer",
-            "miers & Redeuables, & qui ſeront à l’aduenir,",
-            "ſeront apportez ineeſſamment en ladite Ville",
-            "de Paris, pour eſtre employez au payement",
-            "des Rentes conſtituées ſur icelle, à la déchar",
-            "ge de ſa Majeſté, & autres neceſſitez; nonob",
-            "ſtant tous ordres & empeſchemens faits ouà",
-            "faire: Fait deffenſes auſdits Comptables, Fen",
-            "miers, Redeuables, & à toutes autres perſon",
-            "nes de diuertir leſdits deniers à peine du qua",
-            "druple, & autre punition. Enjoint aux Of",
-            "ciers du Roy des lieux, Maires, & Eſcheuins",
-            "des Villes d’y tenir la maid. Et ſeront le pre",
-            "ſent Arreſt, & celay du ao. de c mois enuoyez",
-            "aux autres Parlemens, qui ſeront conuiez de",
-            "donner pareil Arreſt: Et leſdits Areſts leus &",
-            "publiez en tous ls Baillages & Seneſchauſſées",
-            "du reſſort, & affichez par tout ou befoin ſera:",
-            "Enjoint aux Subſtituts dudit Procureur Ge",
-            "neral en certifier la Cour au mois. FA enPar",
-            "lement le 24Iuillet i6s. Signé D.TILLET.",
-            "Coſlationmoe à l’Original, par m Conſeille, Seeretaio",
-            "d Rogy, dſon Courome de Franee & de ſes Finaces?",
-            "rone",
-            "S2"
+            "LES PRESENS FATS ̀ on A Roye & ̀ Meseurs es Prnces Prnçes de Condé & de Beufort  de  ̀ eurs rruée u Ps Pour Me  eurs du Prement eu re Ss tee Rye AS T ON pouree condute on vot e Mrn vncu  A3Et toute on rmee redute  A A nos Sodts tourer eeu  LA FRANCE AV PED DV PRNCE  DECOND  STNS8  JL et donc deretour Adeu més ongues penes  JMes oupry mes ennusou mon cœur set pongé  oque qun e eos fnp e domur ouneeenue  Fuyez e vous n & uous done congé"
+        ],
+        [
+            "4  Cees oee mes yurees oqtnet de de  Reprene votee&cetredoe vos e eus e e tenset men Q DE quttes srmes  fut qute d̀ veur oeesAmou T  Que de contentemens que de ens e poede  Que dhonneuse e us en ́e ttomphe te  S upter e pt ̀ yor on Cnmeddg 5  MoyFnce e me ps ̀ receur mon Lo VS  Pourquoy grnd Rrnce ue vouus deée  e e çy vous deuez votre erue u oy  S pr votre déprt uos eté eée out mon m et guery pus que e vous reuoy  An pres vngs reuoynt on Ve L Chte Peneope ou es mheurs  S y dt ux ennutsfut que e pere  e commnde ux prs deffcer mes doueuts ne men ouuent pus & mon mous qu rge Dnsmer des prspeur qùs dne  Ce Prnce veureux qu cuos mon vefuge Pr vn econd déprt e fe reuenr  AV PRNCE DE CONDE  N  SONET  D N C E e us force pr eprt qu me gude E  TDe vous dre ces motssy pour fe mon deor  oueun oeue e enee eno  Dvn"
+        ],
+        [
+            "s  vn pre repntt erot touche Oude  QuVn Epeeur ngrt nnt pon pouuor  De Empfe Ltn ns ms semouuor  Lndonnnt ux fots de eement humde Lvn chnterot ONEux ees duenr3  Non de cẽ fûgt que Troyeveu nmr Les duers ccdéns demer orgeue Ms vn Prnce guerrer touurs Vctoreux  Lutre dvn verspus doux pourcontentet vosyeux  Ferot ortr Venus demer eoumeue  AV MESME  Au Nom de tout e Peupe  QVATRANS5  Rnd Pnce nu ne peut ez vous recherchor  Pus que tousvos yeux pont eu cet duntge  QueFrnce fgéecongneu eurs courgé  Comme ux fots rrtez on codnot e Nocher  Fdee ̀ nos Roys on vousveu mrcher  Aux pefs ux ĥ̀rds pour urhonter orge  Et eftoufer vnqueurscheur &rge  Qu tomoent ut és Lyts fn de es echer  B"
+        ],
+        [
+            "6  eeer  err  gr  eAVrME SM e er n fEr  A Pestemptedorge  fee feus fureut rge o  Lnoence oppreoue  Frnce de mheuns egée Ane or ougée  Benyot OS BcvR ô  Prnces es feruursde os vće  Suuent es fueurs nomprees  Et vos oes ctons  Luy ont teement grees3  Qu ms vos fts memores  Seront oûez des tons  Mzrn trtres & perfde  De pueurs Frnços homcde  Eperot en vous errer  Ms yous dvn géneres outge  Vous ftes vor ̀ ce Vge  Qu ne ct ren que menet  E3 e e  re  Le deepor de Mrrn Surperte de es gens ̀Bte ggnée pr Meers es Pnnces de Coué de eufott & de Nenours Ocy e deepor de s qu ftguerre  M ms e cteur ne trouue de repos"
+        ],
+        [
+            "7  L crnte qu e ut e troue ̀ tout propos  Le remords on ourreu e pont pcque & e erre reeme n Snger que e veneur enerre  Qudedns es os e fer morte encos  Qu puspoue unt pusre es os  Tnt quepe mort e Rodt urterre  ues en et de memenet pont neggent reconnotfute en perdnt on rgent dt qu ne deuot e ng Frnços repndre vventcourtrge e pourut  Son omre uy ft peurs e deepor ndut  A prendre e cordeu duquee v pendre  A MONSEVR  DE BEAVFORT  QVe de Pmes & Aurers ont cqus ̀ Beufort  L Frnce ̀ ce ourdhuy e tent on ogée  ue Mzrnréduot ̀ mort  Sns e guerer qu esdeggée  FN"
         ]
     ]
 }

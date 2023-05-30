@@ -1,232 +1,113 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "texte officiel",
-            "articles",
-            "déclaration"
-        ],
-        "handwritten_note": true,
+        "subject": "Révolution anglaise",
+        "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": "Bordeaux",
-        "creation": "1649-12-11",
+        "creation": "1649-01-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-10",
+            "@when": "2022-02-28",
             "@who": "AB"
         },
-        "titre": "Déclaration du roy.",
+        "titre": "Déclaration du parlement d’Angleterre, contenant les\n          motifs et raisons de leurs dernières procédures, et pour lesquelles ils ont établi le\n          gouvernement présent en forme de république ou d’État libre, traduite de\n          l’anglois.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau901_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau899_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "DECLARATION",
-            "DV ROY.",
-            "LOVIS pas la grace de Dieu",
-            "Roy de France et de Nauarre",
-            "A ous ceux qui ces preſentes",
-            "Lettres verront: SALVT; Apres",
-            "ſeeels auoit donnela paix & repos",
-            "à nos Officiers & Sujets par la",
-            "Declaration du Mars de l’année preſente, ve",
-            "rifiée en noſtre Cour de Parlerment de Paris, Nous",
-            "auons grande caiſon d’eſperer que lesmuemes",
-            "-qui paroiſſoient dans quelqus Prouincesde no",
-            "ftre Royaume ſeroient termine: Et que nos Su",
-            "jets apres tant de bons traitemens que nous leur",
-            "-auions faits, rechercheroient tous les moyens de",
-            "ſe renetteen noſtreobeiſſace, pouren execu",
-            "tarit nos volonte ſt auanmtageuſes pour eux, jouitr",
-            "du repos & de. la tranquiliré qui leur doit eſtre",
-            "pretieuſe; Maisacontraire, nousauons veu auec",
-            "n ſenſible daplaiſirnos ſuietscontinuer de s’ar.",
-            "mer en noſtre Prouinee deueae parquelque",
-            "malheur ſecret dont uous n CGiſſons pas en",
-            "-tierement la cauſe, les diuiſionsſe ſont fortifíes",
-            "e ſort que uoſtre otD& ootce auhorité",
-            "A",
-            "2o"
+            "Décrton du prement dAngeterre contennt es motfs et rsons de eurs dernères procédures et pour esquees s ont ét e gouvernement présent en forme de répuque ou dÉtt re trdute de ngos Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement dAngeterreDécrton du prement dAngeterre contennt es motfs et rsons de eurs dernères procédures et pour esquees s ont ét e gouvernement présent en forme de répuque ou dÉtt re trdute de ngos PrsSns Nom649 dprès e document pué e 7 mrs 649 Londres Brtsh Lrry4773FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs899 Décrton du prement dAngeterre contennt es motfs et rsons de eurs dernères procédures et pour esquees s ont ét e gouvernement présent en forme de répuque ou dÉtt re trdute de ngos Zondres (Prs) 649 26 pgesprose Révouton ngseMort de Chres er ro dAngeterre 640"
         ],
         [
-            "n’ont pas produit juſqu’iey les effects que nous",
-            "nous en pouuios promettre: Neantmoins, comme",
-            "l’amour que nous auons pour le bien de nos Su",
-            "jets ne ſe Iaſſe jamais à trauailler pour les rendre",
-            "heureux, nous auonsjugé à propos d’attenter en",
-            "core pour vne fois les voyes de la douceur pour",
-            "leur donner la paix; en leur faiſant connoiſtre que",
-            "nous ſmmes preſts de les receuoir en noſtre gra",
-            "ce, & d’oublier tout ce qui s’eſt paſſé juſqu’iecy,",
-            "pourueu qu’ils obeiſſent à nos volontez ſi juſtes,",
-            "qu’ils poſent les armes, & qu’ils ceſſent à nos vo",
-            "lontez, & qu’ils ceſſent de continuer leurs diui",
-            "ſions & partialitez qui ne peuuent en fin produire",
-            "que leur ruine, eſtantvray que tous les auantages",
-            "qu’ils ſe propoſent de remporter par leurs armes,",
-            "ſe termineront en fin à leur perce& à leur deſtru",
-            "Ction; qu’ils reſeruent leurs forces pour comba",
-            "tre nos ennemis, qui ne ſe porteront jamais à re",
-            "ceuoir la paix que nous leur preſentons, que lors",
-            "qu’ils verront toutes nos Prouinces calmes, con",
-            "ſpirer toutes enſemble auec vn eſprit vrayement",
-            "François à s’oppoſer à leurs injuſtes deſſeins: Alors",
-            "nous ſommes aſſeurez que Dieu beniſſant nos ju",
-            "ſtes intentions, nous les obligerons à conſentirà",
-            "la paix, ou bien nous continuerons les victoires",
-            "ſur eux que merite la juſtice de nos armes: A css",
-            "CaAvs Es, de l’auis de la Reyne Regente noſtre",
-            "tres honorée Dame & Mere, & de noſtre rres",
-            "cher & tres-honorOncle leDuc d ’Orleans&de"
+            "LA DECLARATON Du PARLEMENT DANGLETERRE Contennt es MOTFS & RASONS de eurs dermeres PROCEDVRES Et pour equees s ont ety Le GOVVERNEMENT preent En forme DE RESPVBLQVE ou DESTAT LBRE Trducte de Angos A LONDRES mprmée n 6̃49"
         ],
         [
-            "noſtre tres-cher & bien amé Couſin le Prince de",
-            "Condeé, & de noſtre certaine ſcience pleine puiſ",
-            "ſance & authorité Royalle: Nous auons par ces",
-            "preſentes ſignées de noſtre main, dit & declaré,",
-            "diſons & declarons, voulon& nous plaiſt.",
-            "V les habitans de noſtre ville de Bour",
-            "L deaux, & autres nos Sujets qui ont pris",
-            "part ans les mouuemens preſents, ayent aà poſer",
-            "les armes, & ce faiſant que la memoire de toutes",
-            "les actions publiques & particulieres qui ſeſont",
-            "paſſées à l’occaſion des mouuemens ſuruenus à",
-            "noſtre Prouince de Guyenne, reſſort de noſtre",
-            "Cour de Parlementde Bourdeaux, depuis le mois",
-            "de Mars dernier juſqu’au jour de la publication",
-            "des preſentes, demeurera entierement etteinte",
-            "& -aſſoupie, ſans qu’aucun de quelque qualité &",
-            "condition qu’il ſoit, nommement les ſieurs de",
-            "Sauuebeuf, Luſignan, Theobon, Aubeterre,",
-            "Lamothe d’Autefort, & autres, leurs vefves &",
-            "heritriers puiſſent eſtre recherchez ny indiquez en",
-            "laars perſonnes; ou troublez en leurs biens, di",
-            "gnitez, charges, fonctions, offices, & priuileges,",
-            "ſous pretexte de ligues, aſſociations, leuées de",
-            "trouppes ou de deniers, des deſordres de guerre",
-            "& crimes commis en l’occaſion deſdits troubles,",
-            "meſme pour raiſon des attaques de nos villes Pla",
-            "tes & Chaſteaux, & demolitions des maiſons par",
-            "i culiercs, en quelque façon & maniere qu’elles"
+            "Ce Smedy7 de Mrs 649 8e Ondom ypr es mmues mees en Prment Que cet Decrton o promtemensumpe & puHen Scoe Cere Prment"
         ],
         [
-            "4,",
-            "auroient eſtéentrepriſes, ſans que hors à̀ l’auenir",
-            "les Iurats & habitans de noſtre dite ville de Bour",
-            "deaux & autres puiſſent eſtre recherchez ciuile",
-            "ment ou criminellement à̀ cauſe deſdites trou",
-            "bles, ny meſmes oigez de reparer les ruynes, de",
-            "molitions, pertes & dommages, qui pourroient",
-            "’eſtre arriuez en noſdites villes, places, chaſteaux",
-            "& maiſons particulieres, par le moyendeſdites at",
-            "taques, ou autres choſes generlement quelcon",
-            "ques, concernans leſdits troubles; & ce nonob",
-            "ſtant toutes Lettres de cachet, Commiſſions, Ar.",
-            "reſts & Lettres patentes, qui pourroientauoir eſteé",
-            "ſur ce expediées, qui demeureront comme non",
-            "auenuës, exceptant du preſent article ceux qui",
-            "’pourroient eſtre partis de Paris depuis l’vnzieſme",
-            "de ce mois, & qui ſe trouueront chargez d’auoir eu",
-            "part en perſonne de cetre Ville la derniere cn",
-            "-piration.",
-            ".O rD onN. OnN Sque tous les priſonniers de",
-            "’guerre & auures, quiont eſteéarreſtez & empriſo",
-            "nez depuis le commencement duditmois de Mars",
-            "dernier, aà l’bccaſion deſdits eroubles & mouue",
-            "mens, en quelque priſon qu’ils puiſſent eſtre,",
-            "ſoient mis en lihberteau jour de la publiction de",
-            "ceſdites preſentes.",
-            "SERoNT les Chaſteaux & maiſons priſes pen",
-            "dant leſdits muuemens, endus & roſtcuejauec",
-            "le",
-            "a----,..,. ....",
-            ". ,, .. o.. ,iaaada"
+            "( LA DEGLARATON7* T T7 DR r H F AV EAE DAGLETERRE Contennt es Motfs & Rons deeurs Derneres P ROCE DRE S t pur equees s ot et7 Le ouvEr PreentEn formeDE RES PuE L CuE ou DESTATLBRE L E Prement dAngeterre Eeu pr ePeupe qu repreente & Comms & Authoré pr eux pour e en Pu c yns ong temps comtru con tre Tyrnne & pourotenr & pro curerproperté de ceux qu es em poyent & oter toue Oppreon tout Pouoor Acrre & toute oppoton àPx & à̀Lerté deNton Recognoen vec humté & ctons de grcesBenedcton de Deu Tou punt ur eurs foes eurs & tnce corde de ceux qu e ont montreés ffectonneés à cet œuvre pr ou ceux qu en ont Ennems tnt Pucs que Secrets ont ereoeee contuxtn & ccompement Fre A 2"
         ],
         [
-            "les meubles & choſes qui ſe trouueront en nature",
-            "non vendus ou alienez, & remis de bonne foy en",
-            "la poſſeſſion des proprietaires.",
-            "IV.",
-            "Er conſiderans les foules & charges que no",
-            "ſujets du pays de Bourdelois & Bazadois ont ſouf",
-            "fertes, par le logement des troupes qui yont eſté,",
-            "Nous pouruoirons au ſoulagement des contribua",
-            "bles aux tailles deſdits pays, ſelon l’Eſtat auquel",
-            "ils ſe trouueront apres que les troupes en ſeront",
-            "retirées, & ce ſur les informations qui en ſeront fai",
-            "res pour cette fin, ſans rejetter le ſoulagement",
-            "qu’on donnera ſur les autres lieux de la Generalité",
-            "de Bourdeaux.",
-            "V.",
-            "N ſeront logez aucuns gens de guerre dans",
-            "les maiſons des Officiers de noſtredite Cour de",
-            "Parlement de Bourdeaux, ſoit dans les Villes ou à",
-            "la campagne, ſuiuant les Priuileges qui leur ſont",
-            "accordez par nos Ordonnances.",
-            "V I.",
-            "N ſera accordé́ aucune euocation fondée ſur",
-            "les mouuemens & troubles paſſez, depuis ledit",
-            "mois de Mars dernier.",
-            "VI I.",
-            "Vo v-ons auſſi que les charges qui eſtoient",
-            "ſur le Conuoy de Bourdeaux, pour l’entretene",
-            "ment des murs de la Ville, gages des Regens du",
-            "College de Guyenne, & Archers du Guer, ſoienmt",
-            ".E"
+            "fre revvreTyrnne njutce &Guerre & nos enrs pés e Prementeté contrnct de fre es derners Chngements qus ont fét dns e Gou vernement & pour cet etement qus jugent e pus conrene & e pus necere pourgore de Deu & e eeNton qu ont unque fn & e eu devor uques tendent toutes eurs entrepres & tous eurs eurs Or fn que ce pue pprotre pus crement & pus mpement pourtsfcton de tous ceux qu y ont nteret s ont creu etre ̀ propos de Decrer & puer es Motfs & Rons de eurs Procedures s uppoent que peronne ne pourr ner Quepremere ntruton de Offce de Royen cette Nron ne e ot fcte pr e conentement du Peupe queeu une peronne à cet Offce à pourprotecton & e en de ceux pr equesetot eeu & pour es gouvener e meux qu e pourrot eon es Lox uquees svoyent donné eur conentementMs ceux qur ont verés dns nos Htores e peu vent ément reouvenr comen peuy eneu qu e oyent cquttés du devor de eur Chrge en rendntJutce & prennt e on qus devoyent vor de eursons & fdees Sujects Et comen dentre eux u con trre ont empoyeétoute eur ndutre tous eurs ons & tous eurs eurs pour tsfre à eur mton pr tcuere & à eur Pouvor exortnt pr es grndes Oppreons & Meres dont s ont tourmenteé eurs Sujects Et comme nt eté horrement prodgues du Sng des Chreftens ur es mondres ponctes & dferents du ponct dHôneur & de eursQqutés & T ures & ur es pus petts degouts & dedns urvenus Et dnsLte entcre dce o pourr fcemente"
         ],
         [
-            "eſtablis au meſme eſtat qu’elles etoient aupara",
-            "uant les retranchemens qui en ont eſté́ faits.",
-            "VIII.",
-            "N E pourront les Iurats de noſtredie Ville de",
-            "Bourdeaux eſtre troublez en la jouiſſance des cho",
-            "pes, qui ſont contre les murs de le Ville au dehors,",
-            "nonobſtant toutes lettres de don qui pourroient",
-            "auoir eſté expediées, & Arreſts ſurce interuenus;",
-            "& à cét effet nous ferons expedier tourss Lettres",
-            "& Arreſts neeceſfaires pour la reuocation deſdits",
-            "dons.",
-            "IX.",
-            "Er ayans eſgard aux inſtances & ſupplications",
-            "qui nous ont eſté faites, pour l’exſtinction des",
-            "deux eſcus pourtonneau de vin qui ſe leuoient cy",
-            "deuant: Nous en auons deéchargé & déchargeons",
-            "l’détendueë de noſtre pays Bourdeloisſeulement, &",
-            "Ordonnons que le Bureau transferé à Blaye, ſera",
-            "roſtably en noſtre dite Ville de Bourdeaux, aini",
-            "qu’il eſtoit auparauant.",
-            "Vovl os pareillement que tous ies Arreſts",
-            "qui ont eſté donnez en noſtre Cour de Parlement",
-            "de Bourdeaux; enſemble toures les procedures &",
-            "executions faites en conſequence, à l’occaſion de",
-            "mouuemens derniers, & toutes Ordonnances, de.",
-            "meurent reuoqué́es comme nuls & de nul efſect",
-            "nommément les Arreſts rendus contre la perſon",
-            "nede noſtre tres-cher & bien Amé́ Oncle le Duc"
+            "3 remrqur comenderner Royurpé es Prede ceeurs en procurnt pr tous moyensdetruton de ceux qu etot oge de preerver de orte quu eu detendreprotecton ur eux tous ̀ pene ucun deux pouvotevtervoence defureurPour en fre pus crement cognotrevertéer à propos de jetter en pntveue ur queques p ges de on Regne ou en m fnt peévnt u deà des offences de tous es Devncers qu ne e trouve pont dexempe depunton qumertée Prdfoton du Prementeconde nnée de on Regne & prestemogn qu vot depoûé́ toute ffeéton nturee empechnt quon ne ft re cherche demort voente de on Pere Et qunt à Pffre depore deRochee & de e de Reé es puvres Protetns de Frnce çvent ce qu en et & ont grnd ujet den menter encore à̀ preent es mheurs Les Prets es Empronments njutes & es utres Oppreons qu produrent cette Loy exceente de* Requete du Droct urent encore prctquées pourPeroue pus prt en meme temps que es Lox pour otondcees furent fctes qu furent vement vóes pr uy & preque en toutes eurs prtes mmedtement pres qu y eut oenneement donmé on conenteméte LEmpronnement des Memres du Prement & os Pouruttes fctes contre eux à̀ cue qus oppooyent àvoonté detregée & njute & e meme trcte ment fct à pueurs ons & honnetes Mrchnds pource qus refuoyét de pyer es mpots ur chqe rge n Tone dé Mrchndfe & du o pour vre ur es Trtes Pomdge Fornes & r es Mrchndes quon pportot dns e oyume à cue qus netoyent ps ets pr e Pr ement ms feuement exgés de uy expreement con tre A 3"
         ],
         [
-            "d’Eſpernon, & ſes Domeſtiques, & les Ordonnan",
-            "ces par luy renduës contre noſtredit Parlement,",
-            "que nous ne voulons auoir aucun lieu. SI don",
-            "nons en Mandement à nos amez & feauxConſeil",
-            "lers, les Gens tenans noſtre Cour de Parlement de",
-            "Bourdeaux, que ces preſentes ils ayent à faire lire,",
-            "publier & enregiſtrer; & le contenu en icelles, gar",
-            "der & obſeruer ſans y contreuenir: CA R tel eſt",
-            "noſtre plaiſir: En témoin dequoy nous auons faits",
-            "mettre noſtre ſeel à ceſdites Preſentes. Do",
-            "à Paris le vingt troiſiéme jour de Decembre, l’an",
-            "de Grace milſix cens quarante-neuf, & de noſtre",
-            "regne le ſeptiéme. Signé, LOVIS, & plus bas,",
-            "Par le Roy, la Reine Regente ſa Mere preſente,",
-            "PHELIPEAVX."
+            "Soney (4) tre es Lox Et es penes & puntons quf&t nd gerur un grnd nomre de ons Ptros pour ne e vouor pont oumettre ̀ ce qu uy pot eur or donner & dermnder quoy que drecteent contre es Lox cognues L grnde quntré de Projeâs & de Monopoes qu ot ets on Deen & on Or dre de fre entrer dns e Royume de dvere Ae mnde pour nouservrprcrnte &forcœ t epernce qu vot de comer toutes fes oppreffos pr on grnd projeàt de * mpot pour Arée N ve pour jecur es ens dn chcun à cte pro porton & txe qu uy prot en on prtccr de y mpoer Los octtons ectettes es ptomees de recompene & s mences fctes deprt ux Juges pour es porter à frevoonté putot que rendreJutce contre on Sermnt & es eurs Les opprefons du Cone Prvé deChure Etoée deHute Cõmon deCourt deMrechuée deCourt des Pupes des Corvées des Voctures &Portges des Provfons deCourt deFnnce mpoee ur odre de Chevere des Terros prfes ur ePepe pour ccrotre es Forets du Roy & pufeurs utrtes Concufons de certe nture ̀ nont ps eong que nous nous etendons dvntge à en frerepeot npsptt de nous es yns és mprmées ennemore Le dur Ecvge uque onredut rede prforce vec Armée Ppte quon entretetpor y contenr & es propoconsquon yftes queeert qutte & dechrgée de toutes es Reges de Gonvernement netoent quun Ptron & Modee de ce que on vodeon de fre en ce Royumy ongue ntermon de nos Prerments &reouton quée Roy vot pre de nen emer pus à̀ fn de pour uure"
+        ],
+        [
+            "53 uvre es defens ns oppoton &ute qu fe denvoyerLvre du noueu Serce en Ecoe eu donn ujet dooppoer àes ontrepres & ftperdre ux Angos omvrde enggercontre Eux ce qu vece peu depernce quonnot dvor onne us de ce deen à nous donn e dormen Proment qu du r fpou & e ft à den que e Roy en pout ervt es fns pour courr de queque pretentrupture qu vouot re depx oordee uec Bco& pour demndor dou Suhdes pour rchopter on njute& cte excton de mpot pour Arnée Nvo Ms etnt frutré de nepernce en cee rompt uy tot opntroment u grnd tonnemont t epouvtemeont d puours Los Ecoos voyns que e Roy our vor fuéfoy donńe & quy vot dmtegence & des motentomnts prmy nous ntrernt vec uno Armes dns Ange er Le Roy doon coté ynt pr duers moyens gtmes &s njuts evé ds grnds forees os nen uons e ord pous oppotr à Eu & ̀ ynt quequgrd̀ pufeuns jutes Requets qu uy etoyont fc tes de dvers ndrots & pngenereuet entrone d pueurGrds Segnuts nms prncpomont pour ee qu mmquos pgeu de voonre quryens ons jftsds deu oyums de engges àdetru o es uns des utros qu etotf à quoerot detné ugrnd nomre dervs Gens qoy qu fut ogé prChrg d s proue & preerver veyt qu n pouvot frtreonentt n fn de cquter due prte de pdor &e dpper un Prement Auque on demnd des ommes mmenes de deners qu furent evéos ur e Peupe dAngeteme pour grtfr des gens qu eur"
+        ],
+        [
+            "(63 voyent cué des grndes pertes & dommges Et esdeux Armées furent pyées pr ceux qu nvoyent donné ny occon ny eur conentement de ever ny une ny utre Ms ce qu et e pus etrnge e Roy trv tnt qu peut ̀ engger Armée An goe contre e Premen choepene dmpeté́ &denturée quun Roy dAngeterre octe es Sujects du meme Royume denfoncer eurs gves dns es entres es uns des utres quon nepeut ps excuer memes en dnt qu et né Etrnger &quee on urot en depene à crorenvot fct es protre deutte de es tons qu tcheé pr tous moyens den procurer effect L premere executon de ce deen de nous detrure et fcte ur nos puvres Freres drende deques tnt de centnes de mers ont eté ms à mort vec des cruutesetrnges qu nypont dentres qu nen oyent emeües de compon Et nentmons queques uns de ces Meurtrers qu ont comms ces n humntés nont peu empecher de confeer qus nont ren fct que pr es Commons & Commnde ments du Roy Les deys qu pport vnt de es vouor decrer Reees ce qu ne ft que e pus trd & e pus mpement qu peut Le conentement qu donn à une Ceton dArmes enterement à d vntge des Reeeés & àrune & detructon des Protetnts Et es extremtés uqueesesre duct en nterceptnt & prennt es provons & em pechnt es ecours quon eur envoyot ne ont ps des ons emognges pour e decrer nnocent de effu on de ce ng qu demndehutement vengence contre uyMs retoumons à Angetere ou nous ne trouverons uy"
+        ],
+        [
+            "(7) uy que trop de funetes ujets de dœü & mentt o voynt e Roy venr uy meme en peronne dnsMon des Communes pour e r de cnq Memres du Premét etnt uvy en cette entrepre de queques centnes dhommes ndgnes & desuchés rmés de pées & de ptoets & dutres rmes & ttendns e mot àporte deMon en reouton de fre tout ce qu prot à eur Conducteur de eur commnder Sur cet ttentt du Roy & ur queques utres ujets demeontentement ur eques e Peupe commenç dentrer en doute qu ne vouut ps remeder à eurs gres & ouffrnces s tomerent en queques Commo tons dou e Roy prt occon de e retrer de Londres & uy totprut des forces pour uy à nton De àp vers e Nord & ft tout devor dy ever des forces octnt cependnt & ttrnt à̀ oy pufeurs Memres des deux Mons pour eur fre ndonner e Prement &chrge qu eur etot comme & confé́e pr es Peupes & pour es engger à̀ e jondre vec uy pour menerdetructon ur eurs freres & ur eux memes En utte u eu de rendreJutce protege es Crmnes contre ee dreé o Etendrd contre e Prement enVe de Nottng hm emé du Pys de Ges & des Enorons une pute Armée &donnépremere ttque énBte dEdgsempr pres dOxford & e fortf pour y fre e qurter Prncp de on Armée & pueurs utres ves & pces de defene &fo menté & pouruvy unrcruoe & ngnte Guerrecon tre e corps de tous es ujects qu efot ors emé en Prement choe qu n jms eté ttentée pr u cun Roy de cette Nton & de quee tout e Monde n que trop detrtes ujets de e reouvenr vec dou eur"
+        ],
+        [
+            "(83 eur Leus ves & eurs demeures yns eté pr ce moyen à ruees &demoes eursMons de pnçe degtées & runees eurs poeons & hertges don nees à ceux qu ont eté es pus ctfs à commertre toutes ortes de mechncetés contre eux eurs Serv teurs eurs Freres & Ams & eurs propres Enfns cru eement ués Et ny perecté & detrut pr e feu & e gve s empronnenmets & es tortures &prmort & tes es Cmtés & deotos deGuerre on propre Poupe qu etot ogé pr e de oor de o Offce de Roy de defendre & de protegr contre toutes ortes dnjres Noncns toutes oes crtés & njutces à & os quon en ot es pus grnds reentmes e Preent st pufeurs fes ppcqgue u Roy nvoc toues ortes de ohffons pour etenrPx Ms uejps peu füecendecende à ucun ccodeequ mondre proe de n çonnemet ppuot reûte oes nfeux de fng & ce terrent de ees uqguesvt uy eu donné oours pr tout e Royume E orsque e grnd àeu des Armôes ut teé enere ment ffre à tnege du Premet & quepuffncs dn Royefîtot pneque toute suée de onte qu upvor s de feuné pourpenoneprmy s Fones edgn ps ferodex Angos us e nr àdçofnn de fes Compttors es Eos queurent prenneroment honnour de erecevor psde e defre de y urds ees odtons qus vuu œnt Et depus qu futosntre punor es Pr éments des deux oumes ppcqurcut ecoesuy pour freP fr des Propofnnns uy de ées ue es pecedentes quoy ue oneut peuurd tge de noneuccés Msny mouhrt ps pco"
+        ],
+        [
+            "9) conentr quuprvnt ynt un ouvreu & pue deen en n de reetter e Peupe dns des nouveux mheurs ce qu eut peu ement prevenreut euemet vouu entendre à un ccord ur ces Propof rons à Sur quoy e Prement reout & ordonn quon ne ppcquerot pus à uy LEté derner es effects de ces deens à qu vot formés quoy qud fut Pronner commencerent à protre On ft ors tourr des nouvenux rueux de ng u nom du Roy pr u deen comme queques ns des Entrepreneurs ot dét en e vntntJuy profond que Enfer neme pr ou Armé́e fut dvée en dvertes prtes et em remét commenç en pueurs endrocts du Royume tout àfos Et de peur que e nomre des Angos quy y enggeroyent ne fut top edt ou qus neu ent trop de corpfon de eurs Compttots ou trouv à propos de former un prty Enneny en Ecoe & efre per en ce Royume ce qu ne fut ps mé de e Et encore quedu oommnncenent de nos Tros es es Eeoos euent tntendu que e ens du Cove fnt & de ncë fte entre nos & eux etot de t jonre u Prement dAngeterre & de comtre con re e prty du Roy & qus euent recogs que ce etot àfn à quee s ot ors tmognô tendte pr toutes eurs ctons s ement nentmons à pre ent etre utrement rormés en eur jugement & qu eur fut tendre à cette fnen e joypnnt u prty du Roy &en comttnt contre eurs és quon joré e meme Convenntà̀ fçror e Prement dAgeterre Ms Deu ne peut ouffrr quon e moeque de uy Et quoy que cette nuée de nouvees Cmté́s quetot evée jcy & u Nord enmft door foére ur cete putre Ntn & &ott verfe fr nous feon tomte p B 2 prence"
+        ],
+        [
+            "o prene humne notre entere rune & detructon Toueosmn de Den comme eedesj f pueurs fos mnetement cy devntencore à ee renconte pru treumment & tres mrcueuemét our notre defene &conduct notre Armée Lqueedgne fre es ntrumensvec tnt d coude pmdence & de fdete qus ont rempy es cœurs de nos Ennems de fryeur & detonnement & s out dfpes Et nous ont pr on tnee Done conervé toue ce que nous vos de pus cher Pendnt Se &ygds deodres & dtrons o nousenggé pr des morens qu ont es coognus & que onpns mpement deducts dns une Decrton pud de pus peu pr un deen formé p e pry du Roy d nous ppcquerencores ̀ uy pourhuceme fos &ete fn revoque & ee es Reouons que e Pement ror prscorre & on uyeno deCommres dns e de Vvghe Cu u eu d odeeums jutes demundes neore comnportes neps de eur ueuer une pouvee Guenre des pdre duumoe du ne de on Pepe nmefnue s ene tmnpe urud eot de p ne ey ouree fe ée deur f nonCondon de nos Enem & s muny dupouror de donner de Con pfonr pour derure de pus en pu es Pepe qu onr ete comms ̀chgje & protecuon* Q out omme denereé juge menntPuememt n ps euorrd he de re fre te dnpou ous es ufues de needhnereo y de nonnes & pourun grndpomre durresCrmes s enpes qu orne Et pour ror unr de eoe mpu &ue s oyrs es ermens &e es proenon ourvorrepgndurnt de n qu cre vengemce en rende"
+        ],
+        [
+            "tende & en Angeterre Et pour vor etécue que tnt de Vefves dOrfens & de Peres & Meres ont veré des torrents de rmes Et que des mons de es ons Sujeéts ont eté runés Ms on ojeer peut etre ce que e demer Royouvent egue Que ceux qu ont en nehte dgnté́ quetotenne ne dovent rendre compte de ers A ons qù Deu eu dque s ont es onéts Doué́n uvr que tous es hommes de ce Pys nuroyent eté fcts que pour ce eu homme e Roy pour en fre ce qu uy prot comme s nvoyent ete tous creésutre fn que pour tsre à es prs& àvoonté & pour etre crfés ux mechntes & perveres nten tons un Tyrn Ce quon ne peut ement crore vor ete ny ordonné de Deu qu punt ms nuthore & nett jms njutce & oppreon Et eque commeppertfct vor qu e tenott offné de ce que e Peupe uy demndot un Roy ms n jms emogné e mosdre depfr de ce qus nen voyent pont urynt S on permettot quun te Offcerpeut exempter de rendre compte ce erot ouffrr un Montre trnge prmy es hommes Ms cette doctrne à et meux entendue du Sece preent que de ceux qu ont pés & ne requert ps quon nte eucou ̀refuter e eftnt és dee meme Qund à fçon de prer de es ppeer Onts ny ucun he Thcoogen qu veue mntenr que ce ttre e dove ppquer ux RosdAngeterre cõme à ceux de Jud& dre ou putot à un Roy qu tous es urres Mgtrts & Servteurs de Deu ouque ce proes Ne touce pns à̀ mes Od fuenst dctes des Ros ms en ux Ros qu etoyent repr & nés & uquosetot enjnt de ue re uçun ort ux Prophess"
+        ],
+        [
+            "(23 Ptophetes & Snts de Deu qu onegnfes pt es Oncts On ft une utre Ojeton que cet une choe ns exempe de fre venr un Roy en jugment & de e con dmner à mort S ce et ns exempe es Crmes du derner Roy etoyent y t certnement es Enfns dte nvoyent eune Loy ny ucun eempe pout punr es Benjmtes pour vor vnement ufé &efemme du Levte Et toures fos Deu dou con Nous nvons ps mnque dexempes de queques uns de es Predeceeuts quont oté depoés ps es Pr ements Et ont eté hoteuenent ms à mort dns o curé & en des recons Ce Prementcreu qu etot pus convene à honneur & àJutce de fre xmner & juger e Roy tout ouvertemet & o emneeent pr pus de cent Getshommes enpce ouJuftce e rend e pus puquemnt & e pus ordnrement de orte qu uy etot rey eutpu de prer epropre deen ur cetr e does rmeés quûé eudenent eguté cotre y one es Prements des deux Royumés dt con jootenet & dun commun coentement decré ey devnt coupe pr es Decrtons qus en ont pühés S Offences ont tousjours eté compghêés dne opete extrordnre dune hne pe & n r conue deprt & de corps pour pro eurerroe & deêrton de on PepeCe qvee cere verré́ fe dequee es Ros ne one ps dpesés Qu uprodv ps de pr purVomre 35e s e nere e e e eue epeeperes cue du egqy r eté repmds que prf d fug de oey qephoddvnee prft œuredeJutce conte uy"
+        ],
+        [
+            "3Le Roy etnt mortpremere ehoe quonpre en condertoneté es Enfns On ne pouvot pten dre de des Brnchesque es mees fus mers que onreus durnt outRegne du Pere qu es enggés à s dens & àqueree E es deux Anés yr psudeonne heunt en Armes & yns comms t doces dhoftte cotre e Prement on ne pouvot epererpus de en & de eueté de eur prst que de cee de eur predeceeur & on ne pouryo nonpus ndre eon toe pprence humne dns s conjonture des ffres de pouor onrps uunmoyen une Px ferme & eurée ny de preven es Troues à ver y devertte de nos Meres qun ompt e cours de crs choes dequees eesone tous eu eur os & dou ees nmoyent nf ement jetétoo er ut perms de reppdre nou vees rcnes r des deens & meneés des Ros de rs Fres & de eun mechns Ceers Ljecton qu e fs ̀ deus et que cet com nee uojtce de desderter ceux qu ont Droéàt & Tt àCourone Ms certes on ne peut ner que e Droct e pus ueen et ceuy dus Peupe eque s pmendent uor drot de gouvermer Quegque Droct ou Ttre que e s Aé t de peu erdre pr e for fâdu Pere on quque cs qce ot ur out oufg des Offcs heodtpes eques etns s & onfqués pour vor ué dechge ny ynt pont dofce qu nt ceete condron à peronne ne pout er qpe pr̀ es Enfns d cuy qu jout de O fce nen oyent y hou ecus que uy mee Ms ence ccye Fz Aé ee & ftGuene ctre e Premnt Et n ne peut ps de que es FEnfns Punés yent n ce dege &s ueun dou ̀ quoy Ms ceot"
+        ],
+        [
+            "4Ms e meme pouvor & uthorté qupremere ment ety un Roy &fct Offcer Pudc pour e en du Puc e trouvnt perverty & corrompu àrune & cmré Pucque on dot en equté remet tre u on pr de ceux dequeset mpement Of fcer de juger s e dovent ecore contnuer enChrge ou chnger e Governement en un meeur Et u eu de retrTyrnne s ne e dovent ps putot reoudre de etr en Repucque A quoy e Prementeté fort encourgeé́ en remrqunt que Deuveré es enedctons en ondnce ur des u tres Etts qu ont recouvré & rety eur Lerté deorte Les Romns preé́s qus eurent ché eurs Ros ont jouy pueurs centnes dnneés dune pro perté tres profonde & de quee s nvoyent p proche que de fort on ous e gouvernement de tous eurs Ros & Empereurs L Repucque de Vene et desj mntenue & conerveé dns certe grnde punce & Spendeur ou nousvoyons epce de treze cens ns Et tout e Monde çt és comenRepucque des Sues urpe es utres Pys qu ont govemeés utrement en rchees Lerté & Px & en toutes utres ortes de propertés comme uy que nos Vons es Etts des Provnces Unes e ont mer veeuement ccreus en ens en frnches en trffcq& punce nt pr Mer que pr Terre depus qus ont chngé de Gouvemement L Jutce dmntre deuement dns es Repucques & es Grnds ny ont ps e pouvor dy oppreer es Puvres pouru tnce & defene deques ce governement à pourvot uffmment eque etent uy enterement es e mences des Guerres & dentons Gves qu proven nent à ordnre de mton prtcuere de queques LUns"
+        ],
+        [
+            "5 Uns de eurs pretentons àCouronne & choes em es esquees ont pr pueurs eces trvé́ cet te Nton de grnds troues & confuons & donne e moyen à un chcun de joür deerté de eur Con cence de eurs Perõnes & de eurs Bens Ms f nous jettons es yeux de utre coté ur es Regnes de mos Monrques comen y verrons nous dnjutces dOp preons & decvge pendnt que e Commun Peupe eureté ujectye Nous y remrquerons que pufeurs Grnds Segneurs ont fct pus de cs de eurs chens & de eurs chevux es ont meux nourrs & eur ont dõné pus de repos quà eurs Servteurs V ux & Pyns Sur quoyydesj ong temps qu fur donné un dvertement en pen Prement pr une peronne qu etot du Cone Prvé du Roy derner Que nous nous donnons grde quen perdnt e cours de nos Prements nous ne nous trouvffons enmeme condton que e Commun Peupe et ous une Monrche ou s e contetemt detre vefts de groe eoe & de porter des ots pour chere yns ptot evec ers corps rtenés fute de nortre & de repsmme detre des Eprts & Phnsomes qee des vrs om nes qu et ett uque on nous vouot redure Et pour y prvenr on engrot es etes des Forets des eds des puvres gens pendnt que pr ces degts â on ffmot eurs femmes & enfns n Mrchnd ynt fourny à un Grnd juques àpus grnde prte de on en ou un utre uy ynt ft credt de preque tout ce qu vot vnt ors qu en penfot etre pyé & demnder tsfîon on uy donnot des mu ves proes & en ouvent des coups ou en on uy pprenot cette eçon à es depens Qe es Segeurs & tous tres Servteurs d oy ont prvegés & quon"
+        ],
+        [
+            "A Prueyce (6 e es pet rreter ny ponvre e utce Et pr e moyen à pueurs puvres Crencers ont eté́ runés fute de Jutce & ont pers prprodgté de eurs Deteurs qu ont eté proteges contre es Lox Des puvres Bteers & Pyns vec eurs tteux che vux & chrettes etoyent forcés de ervr e Roy àpye quee spouvoyent vor ne uffot ps pour eur vor du pn encore que eurs femmes & eurs enfns neuent utre choe dequoy vvre que de eur trv ondnre Et cette eue exton quon p pee* Crveé des Voctures des provfons deCourt contre quee nos Ancetres ont fct tnt de onnes & everes Lox quoy quon nen t encore peu fre o ervr ucueJ et trouv́e pr upputton queneté fcte depus peu montr pus hut pr n à̀ur chrge du Pys queContrutn pour Armeeé Ce ontqueques unes des ectons es pus gene res & es pus coumues qu tvoyent e pus o dnrement pueursmeres Snjects no euement en eurs eprts suy trerevoement en eurs cp Mson confdeeve depene deCourt pur sfre àuure & pcodgté comme dun cmté on trouver un grnd nomre de tes ordnres & m regées qu vent eté rdõnées pour ouer quntté e ventres preeux t de frdeux ntes urere des fetns dexceffus depenes des Mqurdes & Comedes penes de vnté & de gore qu etoyent eurs exereces des Dmnches ou eurs Preprtons àeurs Deuotons Jvec es utres provons pour eurs retretons & prs nons vceux ms qu cufoyent duy grnds frs pour oques enetrenr onem poyé pueurs mers drpens de terre & pueurs eües de pys & preque des Proucesentets que on àurot"
+        ],
+        [
+            "(7 urot peu cutvr pour e en Pnc Auy dutre prt on vert des dons profus & des pyements deres & penons quon fot nnueement à ceux que on remrquot etre ou que on croyot pouvor ren dre des ntruments propres pour dvncerTyrnne ou à ceux qu voyent queque dependnce du Roy ou pour etre de meme Pys que uy ou pour queque u tre conderton dePeronne Auques regrds on peut montrer des Comptes de pus decnqunte s Dux cous e ores terngs pr n qu e pyoyent de eme ue prgne à certns Fvorts deNton Ecooe tre es utres ommes qu eur etoyent donneés ou preents qu eur etoyent fcts en fecret deoure des menus prs du Roy & pr dutres moy ns ce qu et tren cognu de ceux qu ont receu ces deners à & qu peut etre une des rons pour e quees s e motrent f zeés pour mntenrRoy uté en cette Nto à de quee e Roy etot Or quconque remrquer à couen de mons revenoy ene ordnrement ces depenes exceffves pr chcun n & çur que e jute revenu deCourone ety pr es Loxoutretxe deCoutume & es Prtes Cuees ur equees on devot entretenr Armnée Nve & es Pces Fortes du Royume ne montot ps à cent me vres terngsurot en ron s Qure censnmeue deueut nuene e re ensn t pouvot ervr pour trer comme de deous terre des ources dor & drgentondntes quees peuent uffre pour fre contmmet couer ces grndes Rv eres de vnté & de mechncœtésce netot une chot és cre que ces deners proenns des Advs & Pro jets des Monopoes & Prtys devente des Offces des Preents de corrupton ds Compotos pour etre exempt C 2"
+        ],
+        [
+            "(8 exempt depunton des Lox & dutfes tees me chntes nventons pour ttrer rgent du Peupecõme s ont m cqus uy ont s deüement empoyés à ces vnt́s ̀ Pr ces moyensCourt etot prvenue à̀ une grndeurfte &mheureue quee enetot devenuepepnere de toute Luxure & ntemperncecorrupton des mœurs & des onnes ncntons depus prt des noes rnches & rejectons des Tges de nos pus utres Fmes &rune tote deRe gon & de toute peté & onté fuvnt e Provere Exes Â qu vut ee psDns une Repucque on prevent tous ces deordres & mheurs & une nfnté́ dutres emes Et on comprendr en pus ement e en qu nous peut re venr detuton & utres dvntges de ce Pys tnt pour e trffc vec ceux de dehors que pour es mnuf ctures u dedns qund on ur o es mpots & es Monopoes qu en cuoyent es otructons & memesCourt qu en etotource Et qunderté du Commerce er rete pr ordre de Ett vec toute orte dencourgement pour es mnufctures Et quon ur pourveu à entreten des Puvres ce qu e t pus ordnrement dns ceute orte de GSovemement & ̀ quoy e precedent n ps eu e e tenmps de pener Sur toutes ces condertons cy deus & ur pu eurs utres de fort grnd pods e corps Repreent f du Peupe emé à̀ preent en Prementjuge etre necere de chnger e Gouvernement de cette Nton deMonrche à queeetot prvenu pr pueurs Uurptons trerejudces ̀ Ett en ceuy dune Repucque & de ndmettre pus de oys cy prés pour exercer eur Tyrnne ur eux A cette fn & pour dutntmeux etr cette Repucque yns"
+        ],
+        [
+            "(9) yns trouvé que cétot une choe tres prejudce queMon des Segneurs qu voyent e pouvor deemer en corps entre eux & etoyent uthorés pr es Ptentes des Roys cevnt & jusques cy pour trcter & conuter ur etement des Lox & ur dutres ffres de grnde mportnce euenr pus ong temps e moyen pr eur Vox Negtve de retrder & empecher e en du Peupe qus ne repreentent u cunement & qus euent uy dvntge e pouvor de juger des peronnes & des ens des Communes de quees s ne ont ps Juges Competents Et dutnt uy que eur uthorté & grndeur dependot eue ment du pouvor ou dun Roy pour e mnten duque s ont encore depus peu temogné vor eu coup dncnton & dffecton Et etnt en effec? tres evdent que ur tout en cette extremté de temps ny e gouvermement dune Repucque nyeureté& conervton du Puc ne pouvoyent ouffrr es de ys &vox Negtve deMon dedcts Seg eurs Onpour ces rons creu etne ncere derendre de nu effect & or enterement nt nent mons à ces Segneurs qu ont eté & ont encore fdees à Ett e prvege dvor eurs vox ux Esectons & de pouvor eux memes etre eseus Memres du Pre ment qu et e droct de toute peronne ntereeé & ffectonneé u en Puc Et qu eme vor etéprtque de nos Ancetres u temps que es Segneurs & es Communes emoyent en meme eu Ms on fr ouvent une Ojecton ur ce ujet ̀ ouchntDecrton des Mons du mos dAvr õ4õ QuEes etoyent reoües de contnuer e Gou vemementr du Royume pr e Roy es Segneurs & es Communes & quEes ont proms en durres Dec râtons C"
+        ],
+        [
+            "( 20) rtons de rendre e Roy un grnd & heureux Prnce Nous repondons que cetot àors eur ntentoneurns à heure que f on pouvot eogner du Roy on muvs Conecondecendrot uy tot ux de rs du Peupe & du Prement Et que es Segneurs qu etoyent en ce temps ̀ du Prement empoye oyent & pourroyent eucoup contruer à̀ ce on œuore Ms yns recognu quprés etre ppcqué ept fos à uy pour cet effectetot nentmons reou de vvre & de mourr en mntennt otnémentTy rnne njute & qu refuot dccepter ce que e Pr ement uy vot offert Conderns uy que es Seog neurs etoyent tous enggeés & ogés à outenr cette Tyrnne à à cue de nteret qus y voyent comme Prs du Royume dou s ttruoyent un Pouvor exortnt de exempter de pyer eurs detes jute ment contrtées & de repondre en Jutce outre u thorté qus pretendoyent vor de pere en fz detre Juges du Peupe à ecvge & oppreon duque toutes ces choes à tendoyent mnfetement Les Com munes ont eté contrntes de chnger ces premeres Re outons e trouvns deorte frutré́es de eurs epe rnces & ntentons porteés pr es udctes Decr tons Et ce chngement etnt fct pour e en de Ett ucun prtcuer de ce Royume ne e peut des prouver & e Roy meme ny es Segneurs ne çu royent trer ncun dvntge des choes promes prces Decrtons à̀ pource qus ne es ont jms ccep tees Or qundne et ps fct de contrct on ne peut ps dre qu ot rompu Etne e ft pont de contrct que prtputon des deux Prtys & ors quon ccorde une choe pour utre ce qu ne eftmcs fct en cette ffre ms ynt eté refué es Comm"
+        ],
+        [
+            "2 nes netoyẽt en ucune forte ogé́es doerver ces De crtons à ny etns trenctes pr ucun Accord de utre Prty qu nenps ccepté es condtons Et yns eté teement forcées pr tnt de rons & pr ume neceftéurgente de chnger de reouton à fn de conerverLerté du Peupe & de prevenr eur de tructon On ojete uy Queon et forcé de fre ucune choe dune tee mpornce on en dot deerer & re oudre en pene emée Et non ps preés vor em peché entree deMon à pueurs Memres e vont ersprveges Et ors que ceux qu ont s en Prement ont dns s crmte & ousforce & g ent à̀ eurs pers A quoyRepond que tous es Prements doueot gr à eurs pers Et qu ny enjms eu que fort peu qu yent grement quon ne es t forcé en queque orre en un téps ou en utre & quepus prt ont g usfrcedeuoonté dn jrn & dusere & pprehenon de eur rune en uy depnt & queques uns ousforce de d veres Fctons ou dfferents pourSucceffon àCouronne Et touteos es Lox que ces Prements à ont fctes ont contnué en vgueur ont eté en re ceües & ont tourmé à dvnge des Seces uvnts toutes equees & tout ce queté ft pr ce Pre ment depus que queques uns de eurs Memres es ont qutté & depus que e drner Royeé́guerre con tre Eux & quon eurcué duers troues & des ordres & fct dvers ffronts cette Ojectoneu uront uune force ny veur Qunt ̀ ce que on dt que eurs prveges nt eté voés on nepeur ps en ccuer es Memres qu ont demeurés ny qu t efté en er pouvor de e prevenr ny dy remeder ou en qus"
+        ],
+        [
+            "(22 qus nyet ps jouy eux memes dune vryeert́ tnt u regrd de eurs peronnes que de eurs uffrges & qus ne oyent ns pont de doute en eucoup pus grnd nomre queLoy des Prements ne re quert pour re une Mon uffmment uthorée pour ordonner ducune fre que ce ot Et ce que on ppee à preent une force ur eux ce net utre choe qune grde de eurs meeurs ms ppeée à ce & ordonnée pr e Prement pour eur ereté & defene comtre eurs Emnems Leques pr ce moyen à e voyns frutreés de eurs epernces de detrure e Pr ement tchent dutnt pus de mer & cndzer eurs ctons commeees etoent fctes pr force quee net vertement comme nous vons dct que eur propre gurde trée pr eur ordre de eur pro pre ArméeEt qund fu prendre en ereue con derton quee de ces deux choes on devot preferer à utre ou es prveges du Prement ou e ut du Peupen ps eté dffce de juger quee des deux devot emporternce Et que * e Prememe doe putot cvfer tous es nterets& prveges prtcuers Les mrnesrs prumrje ce qu et ouvent ct utre fos ur des mondres ur d rons quen ntnt & oppntrnt à deus mu es empetes ce on quer ̀ en devor & ̀ frechrge & ndonmer preedeux por out ett ̀ u dnger treprent de rne & cofon eee etdemere Otjeuon que on ft & qu et degrndpods et Que nos Courts de Jutce & es onnes Lox & Coutumes ncennes dAngeterre qu ont es Mr ques de nos Frnches du enefce dequees nos n cetres ont joüy ong temps uprvntConquete & ont perdueucoup de eur ng pour en otenrcon frmton prgrnde Chrtre de nos prveges & pr dutres Lox exceentes quont touours eté cont nué́es"
+        ],
+        [
+            "23) nuées dns tous es premers chngemens quont eté fcts dns Ett & equees etns en executées ont es pusjutes res & equtes de toutes es utres Lox du Mõde eront oes & enterement perdues pour nous & pour no tre Poterteé pr ce chngement de Gouvernement Pour repondre à ce s eperent vor desj donné quequetsfcton ur ce doute pr eur refue Decrton puée dernerement & pr tous es temognges rees que e Pr ementft tous devors de rendre de ces ntentons nceres u contrre yns ordonné que es Courts de Jutce de VVetmnter fuent retes u derner Terme & que toutes es Courts Amutores fent eurs Crcuts ord nres pr tout e Pys pendnt ces vctons pourveues de Juges doctes & entendus à fn de fre vor quon contnuot es Lox ncennes du Pys & dmntrton & executen dcees s conderent utnt qu e peut exceence &jutce des Lox dAngeterre ors quees ont en execu tées & eur grnde Antquté Et quees ont eté etesmemes uprvnt que e Pys eut eteé ervy pr es Nor mnds comme uy queLerteé e droct de Propreté &Px des Sujects ont eté conervés pr eur moyen Et ce qu e rencontre heureuement prprovdence de Deu & prenedcton trertcuere ur nous quees c cordent tren vec e Gouvernement preent dune Re pucque en fnt euement queques egers chngemens en eur Forme es nt enteres en eur Sutnce e nom de Roy ny ynt ete empoyé que pr forme euement ne uy ynt eté donné pr cees ucun pouvror de es dm ntrer ou den juger en peronne non ps memes és choes demondre conequence dequees on peut tomer en df ferent s cçvent fort en que eur propre uthorté et ondée ur es Lox uquees e Peupedonné on conen tement Et outre eurs nterets prtcuers qu ont con deres"
+        ],
+        [
+            "24 deres s ont encore pus de on de nteret commun de ceux qu es empoyent & recognoent tren qu et mpoe de es preerver ns es Lox & e Gouvernement deNton & queon venor à es or on ferot uy tot ceer toute ndutre & toutes ortes de meres de cruuteés & de confuon prendroyent ncontnentpce vore des pus grndes cmtésce e pouvot fre que cees que e derner Royttrées deus nous pr o mechnt gouvemement cceroyent nfement tou es ortes de peronnes ous equees s perroyent ns res fource Ces Rons dovent etre uffntes pour peruder tout e monde de oumettre voontrement eurs ves & fortunes à ces Reges & Loxequtes & pprouvées depusog emps & dequees s ont desjonne & cre cogno nce & de ne crore ps que e Prement t ntenton de es roger Ms eurer putot qu veut contnuer & mn tenr es Lox & e Gouvernement de cetre Nton nonû tnt tous es chngemens preens & tous es ures qu ger cy prés eftre à propos de fe pour entere Refoemton dceuy & pour retrncher toures cocruptons us deys vextons voyges & depenes no eceres & toutes utres choes que on trouver en effect etrefoue & chrge du Peupe En omme e deen & entrepre du Prement en ch get e preenr Gouvernemene dune Tyrnne en un Ets Ere ce qu ne pretend ps euement decrer de proes ms fxe tou devor de e mettre reeement & prmptemess en effect et De prevenr une nouvee Guerre & empeehndvenrprouon des Fnnces & efuon d fàng Agos detr une Px ferme & feurée pnquee on mett en ouy toutes es nmotés & rncunes que ces derners troues ont cué De pourvor à reft"
+        ],
+        [
+            "25 e pur ervce de Deu eonProe à dvncement devrye Regon Protetnte & ̀ un entreten honnete &euré pour es ons & peux Mntres De procurer à̀ tous ceux qu conformeront eurs Actons ̀gore de Deu & àpxjounce dune erté jute & ronne de eurs Concences Peronnes & Bens Et de empoyer v goureuement à̀ frepunton des crues meurtrers dre nde & dy retr es ons Protetnts comme ufy dy recouvrer es drocts de cetre Repucque & donner t fcton à tous ceux qu e eront enggés à cet œuvre à̀ De re tenr ferme & oerver jutement es Trctés & An ces fctes vec es Prnces & Etts Etrngers Dencour ger e Peupe ux Mnufctures & ccroftre & fre feurr es Arts & e Commerce Et de pourvor uffmment à éntreten des Puvres pr tout e Pys Dvor on de re former & dmntrer deüement es Lox &Jutce Pu cque en orte que es mechns oyent puns & es hons re compenés De mettre te ordre u revenu de Ett que eouces es Depenes Pucques oyent defryéespye des Sodts en & deüement regée & ete que es qurtcrs frncs puent eftre enterement os es Peupes oyent ougés en ours chrges & txes & es Detes de Ett en pyées De remeder à tous es Grefs & ouffrnces & à toutes es Oppreons du Peupe Et detrPx &Jutce dns e Pys Et comme s nont pont dutres fns que cees à uy ne font s pont de doute que e Deu Tout Punt eque s en prent en toute humté ne es y fte & nepnde es enedctons ur eurs foes eurs En quoy fnt comme s ne e ont pont montré enveux & ne e ont ucunement meés & ne pretendent ps de e meer des Affres ou du Gouvernement ducun utre Royume ou Ett ny de donner ucun jute ujetdoffene à nos Vonsvec eques s derent enteremét dentretenr une D onne"
+        ],
+        [
+            "(6 onne Correpondnce & Amt́eur pt Ms de e contenr dns eurs propres Affres & e mnement d cees & dns e regement du Gouvermement de cette Re pucque & des choes qu en dependent eonchrge & uthorte qus en ont du conentement du Peupe de cet re Nton qus repreentent pr une egtme Eecton Au y s e veuent en promettre quon es trcter u dehors vecmeme equté & cndeur Et que tous ceux qu nontpont dnteret ux ffres dAngeterre ne en meeront pont non pus qu ne e meent des eurs Et en cs quon eur vouut fre ucun tort & es nterrompre en cet œuvre s ne doutent nuement que pr e courge &punce de cette Nton &enedcton de Deu qujuques cy pr une tnce mrcueue pprouvéjutce de eur Cue & eque cõ̃me s eperent eur contnuermeme fveur s ne e trouvent és puns pour e en defendre & mntenr eurs drocts Et s ttendent de tous es vrys & fdees Angos non euement qus ne enggeront ps à ucuns deens & entrepres ny pucs ny prtcuers & ecrets pour op poer à etement preent du Gouvemement & pr à mer des nouveux emremens de Guerre & de mres prmy nous oune e peut qus nyent eur prt Ms u contrre qus e jondront voontrement ̀ Eux & t veront de eur coté pour ccompement de ce grnd couvre qus ont en mn de orte que e nom de Deu n ot gorféRegon Protetnte dvncée & que e Peupe de ce Pys pue jour deenedton dePx deL erté & deJutce pour eux & pour eur Poterté prés eux FN"
         ]
     ]
 }

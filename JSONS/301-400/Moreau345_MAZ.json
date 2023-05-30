@@ -2,81 +2,40 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "texte officiel",
-            "arrêt"
+            "arrêt",
+            "faux"
         ],
-        "handwritten_note": false,
+        "handwritten_note": true,
         "table_of_content": false,
         "illustration": false,
+        "subject": "Mazarin, Jules (1602-1661)",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-01",
+            "@when": "2022-02-07",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement de Rouen, portant que le\n          cardinal Mazarin, qui séjourne dans les places de ladite province, lève les garnisons et\n          les change, ait à s'en retirer promptement, ses parents et domestiques étrangers,\n          autrement permis, aux communes et autres, de courir sus.",
+        "titre": "Arrêt de la cour de parlement de Rennes en Bretagne\n          contre le nommé Jules Mazarin et ses fauteurs et adhérents, par lequel ils sont tous\n          déclarés criminels de lèse majesté, tous leurs biens acquis et confisqués.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau346_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau345_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "ARREST",
-            "DE LA COVR",
-            "DE PARLEMENT",
-            "de Rouen.",
-            "PORTANT QVE LE CARDINAL",
-            "Mazarin, qui ſéjourne dans les Places de ladite",
-            "Prouince, leue les garniſons & les change, aye à",
-            "s’en retirer promptement, ſes Parens & Domeſti",
-            "ques Eſtrangers, Autrement permis aux Communes",
-            "& autres de courir ſus.",
-            "Du Mercredy quinzieſme Fevrier 1651.",
-            "A PARIS,",
-            "Chez ALEXANDRE LESSELIN, ruë de la",
-            "Barillerie, proche la grande porte du Palais,",
-            "au coin de la ruë de la Calandre, à la",
-            "Fontaine des Paſtoureaux.",
-            "M. DC. LI."
+            "Arrêt decour de prement de Rennes en Bretgne contre e nommé Jues Mzrn et ses futeurs et dhérents pr eque s sont tous décrés crmnes de èse mjesté tous eurs ens cqus et confsqués Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Prement de BretgneArrest decour de prement de Rennes en Bretgne contre e nommé Jues Mzrn & ses utheurs & dherns pr eque s sont tous decrez crmnes de eze mjesté tous eurs ens cqus & confsquez Prs Étenne Mucroy Veuve de Théodore Pépngué 649 dernère semne de jnver 649 Prs Bothèque MzrneM498TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Fux rrêt dté du 8 jnver 649 dprès Céestn Moreu suvnt Gre Nudé Deux étts A/Bcomposton typogrphque dfférentep3 \"es fruts\" / \"des fruts\"p 4 \"de\" / \"yde\" \"ressort de \" / \"ressort de\" \"hutesme / huctesme\" Autre émsson (BM00064) àmême dresse portnt u ttre \"futeurs\" u eu de \"utheurs\" et sgné \"Monnerye\" àfn (Armnd dArtos Huert Crrer Bothèque Mzrne Ms 468 f 67v) Égement pué dns e recue édtor \"Recue de dverses peces qu ont pru durnt es mouvemens derners de nnée 649\" (BM000059) Dprès Huert Crrer texte pru dnsdernère semne de jnver 649 345 Arrêt decour de prement de Rennes en Bretgne contre e nommé Jues Mzrn et ses futeurs et dhérents pr eque s sont tous décrés crmnes de èse mjesté tous eurs ens cqus et confsqués Prs veuve Théod Pépngué et Est Mucroy 649 4 pges Dté du 8 jnver 649 Nudé pge 6 du Mscurt dt que cet rrêt est fuxet son opnon est confrmée pr ce pssge du Journ du Prementfévrer 649« Ce jour es coporteurs ynt vendu pr Prs un rrêt du prement de Bretgne contre e crdn Mzrn et edt rrêt sétnt trouvé fuxes exe pres en furent sss et déchrés vec défense de es pus e poser »prose rrêt fuxMzrn Jues (606)"
         ],
         [
-            "3",
-            "EXTRAICT DES REGISTPES",
-            "de ParlemenT.",
-            "LA Cour, toutes les Chambres aſſem",
-            "blées, en procedant ſuiuant l’arreſté du",
-            "jour d’hier à la deliberation des Lettres",
-            "& Arreſt du Parlement de Paris du",
-            "neufieſme du preſent mois, attendu",
-            "qu’il est notoire que contre la volonte du Roy & de la",
-            "Reyne Regente ſa mere rapportée par ledit Arreſt, le Car",
-            "dinal Mazarin eſt dans cette Prouince, ſejourne dans les",
-            "Places par où il paſſe; leue les garniſons & les change,",
-            "meſme s’eſt retiré dans le Havre de Grace, le tout au pre",
-            "judice de l’authorité Royale, repos & tranquillité de la",
-            "Prouince. A ORDONNE & ordonne en execution",
-            "de la volonté du Roy & de la Reyne Regente, mentionńe",
-            "audit Arreſt, Que ledit Cardinal Mazarin, ſes Parens &",
-            "Domeſtiques Eſtrangers, sortiront de la Prouince dans",
-            "huitaine: Et à̀ faute de ce, ledit temps paſſe, ſera contre",
-            "eux procedé extraordinairement; Permis aux Communes",
-            "& à tous autres de leur coure ſus. Fait defſences à̀ tous"
+            "ARREST DE LA COVR DE PARLEMENT de Rennes en Bretgne contre e nommé ues Mzrn & es utheurs & dherns pr e que s ont tous decrez cr mnes de eze Mjeté tous eurs ens cqus & confquezA PARS ChezVeufve THEOD PEPNGVE & EST MAVCROY ruë deHrpe vs ̀ vsruë des Mthurns M DC XLX"
         ],
         [
-            "Gouuerneurs de Places, Maires et Eſcheuins des Villes &",
-            "autres Subjets du Roy de les retirer ny receuoir. Et or",
-            "donne que le preſent Arreſt ſera leu, publié à̀ ſon de",
-            "trompe & cry public, & affiché aux Carreſours de cette",
-            "Ville, & les Vidimus envoyez aux Bailliages & Sieges de",
-            "ce reſſort, pour y eſtre pareillement leu, publié, regiſtré &",
-            "affiché à la diligence des Subſtituts du Proeureur General:",
-            "Auſquels eſt enjoint de certifier la Cour de leur diligence",
-            "dans quinzaine. Fait en Parlement le quinzieſme du",
-            "preſent mois de Fevrier mil ſix cens cinquante-vn."
+            "ARREST DE LA COVR DE Prement de Rennes en Bretgne contre e nommeé ues Mzrn & es theurs & dherns pr eque s onr to ec rez crmnes de eze Mjee tous eurs ens cqus & confquezer p D A7 er EXYTRACT DES REGSTRES de Prement CE jourdhuyCour es deux Semetres em ez ur e rpport ft pr e Procureur Gener du Roy de eneutement deperonne dudt Segneur Roynuct du cnq u eme our du preent mos & n pr e nommé ues Mzrn de nton tenne & urnotoreté de ft des eué́es des Gens de Guerre & deners en cette Prounce Veu u es Arrets du Prement de Prs des hucteme & & trezeme dedts mos & n A decré & dec re edt ues Mzrn es futeurs dherns crm nes de eze Mjete u premer chef & perturteurs du repos puc Leur ft commndement drder eur n ordonné pr edt Arret du huteme nuer u pene dehrt uec confcton de tous eurs ens meues & mmeues & memes es fruts des Benefes dudt Mzrn Ft deffenes ̀ toutes peronnes de queque etr & quté qus oent de eur donner r trte à pe ne de dech nce des prueges de Noee & detre de crez ncpes de tenr ucunes dgntez & Offces Royx O DoNnE qùdgence dudt rocureurGener du Royer nformé du duertement drgent"
+        ],
+        [
+            "nepece ou ngors fts pr edt rn ho duoy ne eneme des euées des C&ens deouerre uques ueun Sus Couuerneus ne pourome donmer enrtes deou oun foeur pree pene Aperms & permet u Conm uunes de eur courr us u on du toxn Etdte oue ont ous eomeens de ce eot de emnn? e euron du preent me e ue ede o one dee puue on de ronpe enhe pnr ou ou eoner ee qnnere ecouunmée fn que peonne nen pretende ue dgnmornce F r ennesen Ptement edx hureme nuer m x cens qurnteu"
         ]
     ]
 }

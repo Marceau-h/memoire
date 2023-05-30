@@ -1,56 +1,71 @@
 {
     "entête": {
         "form": "vers",
-        "genre": [
-            "sonnet",
-            "poésie à forme fixe"
-        ],
-        "subject": null,
+        "genre": "burlesque",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-13",
+        "creation": "1649-02-19",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-13",
-            "@who": "ZC"
+            "@when": "2022-03-18",
+            "@who": "AB"
         },
-        "titre": "Vers présentés à monseigneur le duc de Beaufort, pair de\n          france.",
+        "titre": "Vers burlesques per l'honnor d'un chiamato Julio,\n          ensemble le passage de Jules Mazarin, avec le récit des pièces qui ont été trouvées dans\n          son inventaire, présent un commissaire, et en l'absence de Varin.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "langue": "fra",
-        "fichier": "Moreau4018_GALL.xml",
-        "langue_detectee": "LGERM"
+        "langue": [
+            "fra",
+            "ita"
+        ],
+        "fichier": "Moreau4017_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "4",
-            "A&A e l, d d , ,u, tV & ,",
-            "ospoooenoee s",
-            "g&eſ eos",
-            "LA-ACL.",
-            "de d e e ie ſd e ee e e os e e e",
-            "A MONSEIGNEVR LE DVC",
-            "de Beaufort, Pair de France.",
-            "SONNET.",
-            "Rand Heros couronne des mains de la victoite",
-            "I L’amour des vrays François, & leur plus cherſoucy",
-            "De plus ſçauantes mains trauaillent à ta gloire,",
-            "Mais auec moins de zele on y trauaille auſſi.",
-            "Eſt-il donc quelque place aſſez belle en l’hiſtoire",
-            "Pour conſeruer tes faits que l’on admire icy?",
-            "Des Ceſars qu’on a mis au Temple de memoire",
-            "Le nom, par tes exploits ſera preſque obſcurcy.",
-            "Pour moy, ie ſuis rauy quand par la voix publique",
-            "Paris qui te benit fait ton Panegirique,",
-            "Ses cris font ton Eloge, ô genereux vainqueur.",
-            "Ce triomphe n’eſt pas vn triomphe ordinaine",
-            "De cette grande ville ayant gagné le cœur",
-            "Il ne te reſte plus de conqueſtes à faire.",
-            "D PELLETIER Pariſien."
+            "Vers uresques per honnor dun chmto Juo enseme e pssge de Jues Mzrn vec e réct des pèces qu ont été trouvées dns son nventre présent un commssre et en sence de Vrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Vers uresque per honnor dun chmtto Juo enseme e pssge de Jues Mzrn vec e rect des peces qu ont esté trouvées dns son nventre present un commssre & en sence de Vrn Prs Ncos Gsse 649 mrs 649 Prs Bothèque MzrneM0366TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Document en ten En vers dont une prte en ten Céestn Moreupr erreur ft deseconde prte \"Pssge de Jues Mzrn\" qus propre p de ttre une mzrnde à prt entère (n° 2728) Texte pru en mrs 649 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 399 v) 407 Vers uresques per honnor dun chmto Juo enseme e pssge de Jues Mzrn vec e réct des pèces qu ont été trouvées dns son nven tre présent un commssre et en sence de Vrn Prs Ncos Gsse649 Hspgesfut jouter YAdeu deFrnce à Mzrnqu nest pont ndqué dns e ttre e tout ssez muvsvers uresqueRécepton de envoyé de rchduc Léopod u prement 64"
+        ],
+        [
+            "VERS BVRLESQVE PER LHONNOR dun chmtto uo ENSEMBLE LE PASSAGE DE VLES MAZARN AVEC LE RECT DES PECES qu ont eté trouuées dns on nuentre preent un Commre & enence de VrnA PARS Chez NCOLAS GASSE u mont nct Hre préscour dAret M DC XLXAVEC PERMSSON"
+        ],
+        [
+            "Vune  e  eee?  SrG  Agpyet dx  UERS BVRLESQPES  PER LHONNORDVN   Chmtouo  ENSEMBLE SON PSSACE  7 & es peces cureues trouuées en o  nuentre preent vn Comm  re & en ece de Vrn  ee ennune e nonenre Deroureux chmen pues deporemen e  Lon mepre t gnture  uueunue uns  Oun n done e ponne 7  Lon te oü̈e & on te fetne Lon et ercé de tes trts  Et on veut perdre tes ttrts  Tu crosuor e deus  Aynt gne outre & pr deus  uPrnes & es Pepun  Qu ont en rrtez  A"
+        ],
+        [
+            "4  Contre ton Emrence  Qu rentre en enfc  Et ton de cerueu  Ft vor tout de nouueu  Ton udce nupporte  Qu te rend ptoye  Toy qu pe pour oyon  Tu s compron  A nos Prnces genereux  Leques ne prent de feux  Que pour extermner trce  E d  eommene f Et tsfrepopuce  ue n Qune veut cuot on non  ommd Ny fre ett de on renom  S ce net pr e Mg  Ou pr ceuy de Mcrn  Dont prent es Coporteurs  Sns ouer esCrocheteurs  Lon pue pus que ms  T fortune & tes huts fts  Tes foures ont découuertes  Tu es s données trop vertes  Ms non à nos Gencrux  Qu ne t enuoront deHerux  s ç̧uent t deffte  L Px net ps prfcte  Lon veut vn ouy ou vn non  De toy ou de Lmpon  Apres tu urs peport  De Moneur de Beort  Sns eque t vne gore  Ser perduë & t memore  Lon dt que e Frud  Veut vendre à toy trgud  Queque quntté de os  A preent qu et ux os  e ds"
+        ],
+        [
+            "5  e ds de hute futs  Et utrerméye Cet dus tetutre  Vn utre en voudrot re  Encore teenpnt  Que tous tes petemps  Sen vont en éunous  Et tes dcours nous Tonhoc ne tetpusheureux  Tu deuens eureux  Et pour chnger de propos  y à te dre à propes  Sns reme & ure chnt  Que on entonne vn eu  chnt  Cet Pquette & Rone  Eneme eurs Mrene  en Perre & Angot  Qupouent en trrgot  Lechnt &chnon  Que veutçuorEchnon  Ee net ps ong dcy  Tournemnvocy  Se Prnce efot en fn  ferot u Mrn  Vncoer de cheneuere  Lrr n re  LreO Lerd  T hy perdu  to ttoruô  goconon v  enme?  Ee e dt pr mnnd  utm frts  erur S  Ms ce chnt etrop veux  Lon en dt dutres en  meux  Ft pr vn Seecretore  Qu porte onecrore  Et qu çt eneecretre  Pourneé te ps depe  Ss9  B"
+        ],
+        [
+            "e  6  et de nt nnoeet  Et nen et ps monscçnt  Tu e çurs neux pr uy  Que pr e rect dutruy  Apres tu escue  Qe on met cette cue  Hes mon fs et mechnt net dote ny ç̧un  tu on pett Frere  Por uor eé de on Pere  Outre tu donne occon  nee ene n poueun  Pour dre chere mttee  porte e pn de Gonee  Ms de te prer tne  Cet perdretout mõ temps  Tu es mort cuement  Et s ft Teftmnt  Lon ft ton nuentre  Ou on ne e peutte  De vor tnt de nppes  Qu ont à tes guenppes  Et en de ees peces  En meux & en peees  Auecqueedes choes  De es dree neoe  Qu e voudr vor ye  et temps que e nen e  Ceneft ps que emere nypont de fere  Ny ps u de cne  C ç que on chme Tot tot tot en te  Pendnt que erme  7  ues fer rpe"
+        ],
+        [
+            "Te remet e gge  ne vu psme  Enfn ve que ve  ete dry en pourtnt  Qgee ny pyé çontnt  Nyynt cheptmr mos  Poureutet nmes mux  Et e fuuenr du pé  S tunes ps encor pé  Lon dt qu fudr rendre  Ce quonmt en vente  eune us ps de ce nomre  e te fus & ton omse  e ny ren du touttoy  Ms tu s ce qu e à moy  Cet ce que e te pus dre  Et que e ne veux medre  De toy Mgn Mrqun  Mcrn  Mzrn Mzrnnt  Er Mzrné tu nous  s en m enfrné  Ftto con effr Per pcerVS  Cet ceuy qu et Sgnor  oue e ue  Pourute deffene  De ton Emnence  Et eruteur de t mon  ou pend pour enegne Oyon  An gné nche  Che e s  on oue"
+        ],
+        [
+            "Et contre fgnémee  Mon ecretre ornre  pour ence de extror  nre  Le toutfns ueun prphe3  u der de Htorogrpe J  A  du  ?  e  Prs u mos de Mrs 649 Sns Creme ns fore  Sns Voette ns frne  Et s pn ms non pn  Ss fm cecy eûfn  2  2 o    eo  n  n e9  n    u  ãe"
+        ],
+        [
+            "7  PASSAGE  DEVLES  MAARN  Auec e rect des pus  e pe e n ne  uentre  ?"
+        ],
+        [
+            "2  ge    4  2 A D L  DE VLES  e  4  A  7  MAZARN  A A  e tu net ps pé  Se ene eenuee ee  & e nnene enpe ee  n nequ ect n pte  or  e ee nun ee n ne s  e en e ee eee 9  Tu nous donne e u ̀ pene er  Les peces de Mzrn veueson n  uentre preent vn Commre  & en ence de Vrn  Jos yeux e ont ouuets & ont veu es  cutures  e none & de horphre & touteses fgures  Des Ponmpées des Cers & des grnds Ae  xndres"
+        ],
+        [
+            "Qu ont pour e preent tous eonuerts en  cendres  Nous uons veu eron dontmce nore  Ne ceer ms de ernrmemore  S che cruuréft mourrmere  Pouteuroté que on peut dre mere  Ms toy montre mn me fos pus que  Neron  ues quon peut nommer eét horre uorton  Tu fs perrFrnce qutdonnéve  Auecque es enfns uques tu porte enue  5 fm ne es dompte tu urs recours ux  feux  Des fures de Enfer qu te rendront fureux  e ouuent tu ps que de pert mrchnd  Eeprs tnt de pene ̀ te fregrnd  Que tu és ueugérortune te oe  E u ne ç̧uros vor quee te couche en oue  Pour te fre per eomme homme de nent  Er pour meux dre enfn pour vn freregnor̃t  Se dce d d & d notté  Che tu e deo notté duncttunott  Che t fr cngr dctr nott  Che pee mut mur ventur  Queto uoe tocno  Son tnto votro che nonpu0  Seruere"
+        ],
+        [
+            "3  Seruee oã v r dnchote  Toute e penne de mund6  Non onotnn perprmere  2  Tnto qunto on erutor d6  Con cenz m r torno  A c m ho vn fcend  Dmportnzo non  Butt pu  Areuedergnor uovn  Atr vot non come g pptre  Le Lucoe  ueto &o tnu Perche non vdngu  Nofnmtu crtcmoo  BnFence  2  Tu pg ognon per vnone  Etnn hmemte perpce  2  Ne per unone  Toutoqetnneouo per te dpc  ee  e A2"
+        ],
+        [
+            "4    LADEV DE LA FRANcCE  r ̀ ue Mzrn  Ves eros moy fs ge & nttends d  untge  uros nour regret de vortete en  otge  Ne reduts ce peupevouto extremté́  ne peutgnorer t grndonquté́  Tu s runé es Ves es Bourgs & es Bour  gdes  Pour te donner hon temps & fre pmpnre  pnde  Tu uros eu vouu veor es Mcrdes  g e temps Crnu ne teuts veu en prde  Ms u eu de poee de frce & Conede  Tone eprt tpprendee que tuetude  qu et chnger de coueur freCne e  pongeo  Et pour meux dne enfn tu pe por oyon  uessy u necs es Vertus Crdnss  yeregrerumons de nees uor rpe  proequ uempe peent que u eeonme p  T en uros heong onnet u ete pre"
+        ],
+        [
+            "4  Tu urs eu tecmer prtns rerrs  Les cedes durte nuront ps de rs  Pour es Ctes tnez  eeeeognoront putues e ue  Aunt t retrte ou ten de to treps  Souunt toy de moy ne me trompe ps  Rend moy mon en fs retcuton  Tu te uuers ns ucune fcton  S et en teou en duers endrots  e dfere done pus pprend moy es detros  te ds dou pour ne re vor ms  en deton rempsenuros eup  FN"
         ]
     ]
 }

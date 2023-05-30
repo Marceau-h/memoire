@@ -1,61 +1,89 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "non renseigné",
-        "subject": null,
+        "form": "prose",
+        "genre": "burlesque",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-01",
+        "subject": [
+            "Orléans, Gaston (1608-1660 ; duc d')",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "La Meilleraye, Charles de la Porte (1602-1664 ; duc de)",
+            "Gramont, Antoine de (1604-1678)",
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Anne d'Autriche (1601-1666 ; reine de France)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)",
+            "Orléans, Marguerite de Lorraine (1615-1672 ; duchesse d')",
+            "Montpensier, Anne-Marie-Louise-Henriette d'Orléans (1627-1693 ;\n            duchesse de)",
+            "Orléans, Philippe (1640-1701 ; duc d')",
+            "Roquelaure, Gaston-Jean-Baptiste de Bessuejouls (1617-1683 ; duc\n            de)",
+            "Pontoise (Val-d'Oise)",
+            "Saint-Germain-en-Laye (Yvelines)"
+        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-07-18",
-            "@who": "ZC"
+            "@when": "2022-02-11",
+            "@who": "AB"
         },
-        "titre": "Rondeau du roi contre le cardinal Mazarin.",
+        "titre": "Le roman des esprits revenus a S. Germain. Burlesque\n          & serieux.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3560_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3559_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RONDEAV",
-            "DV ROY.",
-            "contre le Cardinal Mazarin.",
-            "M. DC. XLIX."
+            "Le romn des esprts revenusS Germn Buresque & sereux Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Le romn des esprts revenusS Germn Buresque & sereux PrsSns Nom649 près e 4 mrs 649 Prs Bothèque MzrneM929TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs 4 étts du premer cher Attre \"Le romn\" dresse \"A Prs\" ttre de déprt \"Le romn\" ettre nte ornée (pettes feues) A2ttre \"Le romn\" dresse \"A Prs\" ttre de déprt \"Hstore des esprts revenus\" vec e s de \"revenus\" égèrement décé vers e hut ettre nte ornée (pettes feues) A3ttre \"Le romn\" dresse \"A Prs\" ttre de déprt \"Hstore des esprts revenus\" vec us de \"revenus\" égèrement décés vers e s ettre nte ornée (grndes feues) A4ttre \"Hstore des esprts revenus\" dresse \"A Prs\" ttre de déprt \"Le romn\" ettre nte ornée (pettes feues) Dprès Céestn Moreu une reprse de cette pècepru en 652 sous e ttre \"L conference secrette tenuePontose entre e RoyReyne e crdn Mzrn messeurs es Prnces & puseurs utres grnds segneurs deCour\" (BM045) Autre étt de dresse (A3)\"A Prs M DC XLX\" Dprès Huert Crrer texte pru peu près e 4 mrs 649 (Bothèque Mzrne Ms 468 f 232v) 642 Hstore des esprts revenus à Snermn uresque et séreux Prs 649 0 pges Réct ssez psnt dns eque uteur nous représente e duc dOréns qu treme e prnce de Condé qu est sns peur e mréch de L Meerye qu veut tout rûer e mréch de Grmmont toujours prêt à fur pru uss sous es ttres de Romn des esprts etc et de Conférence secrete tenue à Pontose etcprose uresqueOréns Gston (6060duc d) Condé Lous de Bouron (686prnce de) L Meerye Chres dePorte (6064duc de) Grmont Antone de (6078) Lous XV (635ro de Frnce) Anne dAutrche (666rene de Frnce) Cont Armnd de Bouron (6266prnce de) Longueve Henr(5963duc de) Oréns Mrguerte de Lorrne (672duchesse d) Montpenser Annrousenrette dOréns (6293duchesse de) Oréns Phppe (640duc d) Roqueure Gstoeptste de Bessuejous (683duc de) Pontose (Ose) Snermye (Yvenes)"
         ],
         [
-            "RONDEAV DV ROY,",
-            "contre le Cardinal Mazarin.",
-            "A DIEV ne plaiſe, o mon peuple fidele,",
-            "Mes chers parens, & amis pleins de zele,",
-            "Qu’vn Cardinal vous faſſe plus la loy,",
-            "I’en ſuis défait; criez, Viue le Roy,",
-            "Et n’ayez peur que ie le renouuelle:",
-            "Ie ſçay qu’vn autre auſſi plein de cautele,",
-            "Eſt a l’affuſt d’vne charge ſi belle,",
-            "Mais nul iamais; j’en ay promis la Foy",
-            "A Dieu.",
-            "Qu’il aille au Diable auecque ſa ſequelle,",
-            "Ie ne veux plus eſtre ſous la tutele;",
-            "Ie ſuis le Maiſtre, & veux qu’on parle à moy:",
-            "Charmeurs de Roys, cherchez ailleurs employ,",
-            "Vuidez la France, & prenez congé d’elle.",
-            "Adieu."
+            "LE ROMAN DES ESPRTS REVENVS A S GERMAN Bureque & ereux A PARS M DC XLX"
         ],
         [
-            "deuAAulAAebhh,u h uh,u 4,",
-            "QVATRAIN,",
-            "SVR L’ENLEVEMENT DV ROY.",
-            "Ces voleurs de Louis, ces infames harpies,",
-            "Le Grand-Maiſtre, & le Cardinal,",
-            "Apres s’eſtre ſaiſis de toutes les copies",
-            "Ont enleué l’Original."
+            "3 LE ROMAN DES ESPRTS REVENVS A S GERMAN UN de ces ours pez que e Ce etot eu & ern e pus de prome nde & e der de reuorCoutn nuteun ee oenmnt udque Snnt Germn es denus qu cdoenrres depus peu men uoent rendu entrepre fce & e temps e pus doux & e pus gree que on put ouhter uot fuorée dns on execu on e me trouuy dns Snct Germn comme ns y per pne cormeé des deces deCm Pegnes que ftgué deonguu du chemn curoté qu reuee es eprts ne meps onemps dns e contentement que e prenos u ouuenr de ce voyge ee men preent du tres Afn de me duertr meux pr e chngement e me condut dord dns ce mgnfque & upere Ps qu etot pour ors e eour du pus grnd Roy du monde L̀ prmyconfuon de gens de toutes ortes eme deennuyos gree"
+        ],
+        [
+            "ment & e me conoos des muus ours que uos pé dns Prs ong dvnechrmnte compgne Dnsfoue des Courtns e ne mnquos ps de rencontres heureues toufours ququosns de mes rms me veno enmrer & me fre des crees vn me reconnot e pus grnd my qu eut dns Prs ntre mppe ot on cher ennemy & pr me utres cutez de Cour nos renouueons ncehe conno nce Enfn e commençy à trouuer ces fueurs mpottunes pres es uor goutées vne onne prte de ourneée e qutty cetemrs de con uerton ur eor pour goutet encore queque pr nouueu dnspromende Et comme e vouos etre eu pour reuer à mon e e me re try pr des chemns deroez qu me menerent fott ̀ propos & commee e ouhttos dns v rdn fort pteux e ny fus ps putot que e chos vn endrot vn peu écrté ou e trouuy quequeseges qu erue dhed merepoer nms vout u mettre encore pus à monye uy dns vn ts ez eps qu etot der eré moy vne pette pce qu emot uor oneruéverdure mgré es rgueurs de hyue y me coucher moement ur ce rche tps5 ou e nefus ps onempsns mendormr ot que e fue ftgué du chemn que uos ft ou que e fue chrme du pr deorude Au meu dvndoux omme queque rut m portun"
+        ],
+        [
+            "portun de peronnes qu proent ez hut mé ue ré moy & rompt e chrme de mes yeux qu ne vouoent pont souurr e ne fus psputot en erté de vor que e regrdy du coté des eges où e vs per vne troupe de Grdes & de Sues qu e doentny peronneons fermer es portes Comme e connoosrutté de ces geǹ qu ne conderent per onne e ne rny ps de m pce de peur de re ceuor queque coup dont ces geǹ font on mrché & de pus e crgnos qus ne me cher chent pour me chter detre entreé́re ment dns ce rdn ns eur permon Apene etoen pez quvne troupe mgnfque de peronnes utres prut u meu de ée qu venot à̀ pets u eu où e metos repoé pre merement e ne fus ps peu urprs à éct de tnt de mete & en duntge quond ere connu e RoyRene e Crdn & es Prn ces etos en doutee vouos prendrefut te ou me tenr cché ms condernt quee courros à queque porte qu etot eurément en grdée e tomeros entre es mns de ces Stetes mptoyes & qus me tueroent u mpe oupçon que e eur doneros detre ̀ pour queque muus deen dns cette ppreheno e me tens ns fre de rut e meux couuet qu metot poe uec cette reouton quequequvn de cette ee Compgne venot à"
+        ],
+        [
+            "me découurr e demnderos à̀ prer à̀Rene & pres uy uor demndé prdon de m temer teé e uy conteros nfuement toute m fute & uy feros çuor toutes es meres de Prs pourdpoer ̀compon & pus e uy de mnderosgrce detre ms dehors uec que que eureté Sur cette confnce e euy vn peu es yeux & e es vs qus prenoent pce ur es memes e ges où uos eu honneur de meor upr unt etos ez pres deux pour ouyr eurs d cours & eue vouu en etre en on Queques vns setoent de uncez de prer des deordres d Ett ms e Roy eur mpo ence & eur dt qu nett ̀ venu que pour e recreer & non ps pour prer dffres qu vouot oü̈er à queque pett eu ou en que on rcontt queque onne htore TouteCour qutr e ereux à ntnt meme & chcun prt vnvge rnt pour uy compreRene meme ft vor que ce uy etot fort greeny uot que e Crdn qu ne pouuot fre onne mue à cue de on muus jeu Le Roy e tournnt de on coté uy dt Moneur e Crdn vous qu en çuez touours de onnes ne nous en drez vous pont quequne qu ot ee?Sre repond frodement e vous en dros en vne ms e crns quee ne donne deter reur ̀ Votre Meté tnt ede et effroye"
+        ],
+        [
+            "5 ut meux que vous commençez e premer & pus que chcun ̀ on rng en de quequvne re eretue &menne erdernere fn que nous nous en onsoupet ̀ deus uec pus d pett Mon Deu dt e Roy que y enue deçuor ms puque vous vouez que e com mence e men vy me depecher & que chcun e fe court ̀ mon exempe pour venr vtement ̀votre Ce dtrcont en peu de motsgeneroté du pett Aexndre qu peurot qund on pere egeot queque ve dmportnce & dout qu uot peuré quequesfosnuct de ce queonne mmn egeotonne V e de Prs Le Duc dAnjou dt que on pett Pp uor dtenne & qu nen çuot pont durre pour heure L Rene rcont e xe me tome de Ceoptre dont Cprenee uy uot ft preent depus peu Moneur e Duc dOr ens pourenne prt e trt du on Cgu qu ft utrefos decrer on cheu Conu de Ro me & ft er es degrez du Cptoe fn de y fre monter & de donner pce ̀ ce rue che u u pus pres deperonne On ft vne poe en cet endrot dutnt que Moneur e Prnce e prt ̀ rre de cette pntere & tout e monde ̀ on mtton exceptée Crdn qune rot que du out des dents Enfn Moneur e Prnce reprt ute & r contte de Phre deunt Rome ou m"
+        ],
+        [
+            "Cer fut vctoreux doûtnt qu neperot ps vn mondre uccez que uy MdmeDuchee dOrens ot conter touteCour Sncte msRenepr de f nr pour ne pont rompre ordreque e Roy uot ms pourrefueté Mdmoee e ouunt des genereues mours de Sttr qu ym & qu fut ymée dOroondte ennemy de on pys MdmePrnceemere rcont es ff Ctons de heureue octe qund ee vd es deux enfnts chefs de deux prts duez & re ous de fre vne guerre mortee à eur propre fng doutnt quee e trouuot uourdhuy dnsmeme pene MdmePrnceefe remt en jeu n fortunée Pche qu eut tnt de trueres dnsmour de on Cupdon Le eur deMeerye rcont e trt de Neron qu ft mettre e feu ux qutre cons de Rome & prenot pr de on Ps de vor ncende à truers dvne Eme rude Le Mrech de Grndmont mt ur e tps Htore du premer Roy des Prthes qu pprt ces peupes à̀ comttre en fuynt Moneur e Prnce uy reprtt que ceu courot àGu che dont toutecompgne ft vn éct de rre & e Mrech pour ne ps demeurer ueccour onte uy reprtt que on Cer euuot àmpon Enfn e Crdn M zrn pres que e Roy"
+        ],
+        [
+            "Roy uy eut temogné on enue touchnt H tore qu uot prome dés e commencementprtproe en cette orte Sre e ne prendry pont cy dutre htore quemenne & ne vous dry ren qu ne meot r rué depus quee us dns e mntere y eté touours tourmenté deprts s nont ps mnqué vn eu our de mpprotre ny vne eue nuct de trouer mon repos ms s ne mont ms ft tnt de pene ny trttérgoureuement que de pusnuct des Roys que e try votre Meté de Prs pour venr ̀ ncermneme de pus ce temps ̀ qus oent deuenus enrgés sne tchent qù me nure & à mnqueter & e nen treuue ps vn on qu me ftte de queque douce hrmone comme uprunt pour men dormt & me donner queque reche Encoreme que enferft ouuerture de toutes es portes & qudéchné es pus mechnts con tre moyen vent des trouppeés nnomres mttquer pr eurs mences & mepouuenter pr eurs crs funetes & queques fos mhent de toutes es coueurs mgnes comme e tos eur fou de fete y eu renforcer mes g des ce ne es empeche pont de venr & ces eureux eprts ne treuuent pont dotces qu es rretent s ont touours pres m quëue & y peur qu ny en yecy quequvn qu me coute & qu nereporter ux utres tout ce que e ds ̀ preent L Reyne nterrompt ̀ ces mots"
+        ],
+        [
+            "0 & secr toute crntue h mon Deu Moneur e Crdn que vous me ftes peur e mourros S en venot quequvn ̀ m chmre qund e us toute eue e fery coucher cette nuct toutes mes fes à̀ m chmre encor ne me cror pstropen grdée Toutes es utres femmes detrouppe secrerent à̀ on mtton & prote terent de fre e eme horms MdmePrnceemere qu eur dt Ne voyez vous ps en que Moneur e Crdn e moque & que ce net que pour vous epouuenter qu dt ce ns rre qu çt en notre foe & queure ce ereuement fn duor notre cren ce Mdme reprt e Crdnnyren de pus verte que ce que e vous ds ur ce Moneur e Prnce e voynt perudé e mt ̀ guer uy &compgne & dre que cetot de eux con tes dont on uot erceé en on enfnce & qu nuot ms veu de ces eprts qu reuennent que ce netot que de ees mgntons de que que ménchoque pour muer es femmes ms trop ottes pour entretenr es hommes & quu retene prendrot pontqueree de Moneur e Crdn contre des ennems qu etoent nu es que on épée netot pont ̀ epreuue des chrmes comme cee dAmds de Gue & que ces eprtschngeroent eot en vne dgue depo qu poyerot uqùgrde u premer coup qu vendrot à̀ frper LeRoy qu etot m ptent dentédre e rete eur qu nuot pont 3"
+        ],
+        [
+            "8 peur & pronne Mmn & es utres de ne ren crndre & de er dre Moneur e Crd n Tout e monde e mt ot en deuor de e couter &pouruut en cette orte Cet vne ve rté queEcrture ncte confrme qu yde ces e prts & put ̀ Deu qu ny en eut ps tnt e eros vn peu pus à̀ mon ye & pour conuncreCom pgne urce qu en ete men vy gger tout ce quon voudr quoy que de Moneur e Prnce que es r mes dontset eruy pour ggner es vctores & cees dontset eruy tout nouueement ̀ te de Lens qu etoentcres &untes & qu uoent eté foures & ecrces pr ces eprts dont e pre ont ̀ preent deuenues toutes nores prmce de ces memes eprts qu e ont pques de es vor trop ecttntes Tout e monde ett̀ es yeux ur Moneur e Prnce ce qu oge ̀ dre qu uot à̀ on cotémeme epée dontsetot eruy ̀te de Lens & quee Roy uy vouot donnuer permon detrer en preence onver rotverte de ce mytere Le Roy ns uy donner e or detrer uy me meprendre &mt hors du foureu & on re mrqu urme queques pettes tches nores & es Dmes dont mgnton etot preuenue y en treuuoent eucoup duntge Luy ns setonner de cette ee preuue eur dt que ces tches netoent quvn peu de roüe qu setot ̀ engendrée ̀ cue qu uot eté vn peu onemps nstrer du fourreu Toutes es femmes pour ors e treuuoent"
+        ],
+        [
+            "2 en eu cmpde prer & ees euent dt vne qun tté dhtores pr ouy dre ur ce ujet pour conun cre Moneur e Prnce ms e Roy prés uor dt qu en uot quequefos ouy queques vnes enchmre qu uoent en rejouy ns ms uor epouuntépre e Crdn de contnuer ce qu ft en ces termes Encor qu ny yt peronne de vous qu doute de extence des eprts touresfos e pene etre e meux ntut & e meux perudé decompgne u e croy qu mont oué eurs pus vns tours & qus mont prs pour ojet de toutes eurs funetes recretons s nuentent tous es ours me nou ueutés qus pportent deCour nferne pou me fre enrger e croy qus tchent à me etter dns e deepo pour me fre rendre me ns con feon Les Dmes me chntent vn Sue Regn com me on ft ̀ ceux qu ont prés dendurer e uppce utres vn Ler commeetos d mort que quens me mettent en pouere dutres e con tentent de me porter en terre en chntnt des Peu mes de Duden vent qu mhonorent pour e mocquer de moy & qu me trtent dEmnence & montrent vn precpce où e us tout pret de mettre es peds utres en forme de Choüettes & deHous me predent pus de eurs qu nen et rrué u monde depus qu ute quequens me dech rent ̀ ees dents comme des chens ffmeésy en qu e contentent de me chnter poüe & de me dre pus dnure quvn mon de hrngeres nen pour"
+        ],
+        [
+            "3 pourroent nuenter toutes eneme Dutres font des Remontrnces u Prement pour nmer en cor duntge controy Quequens me pro curent chrtementhné du peupe comee nen etos ps de ez hy ceu font vn rut de rous es Des à̀ mes orees come ss onnoent e toxn pour emouuorpopuce à e etter ur moy Queques mteurs de rgouts me mettent u court oüon & pus me ent ̀ ns me mnger pour me fre pus grnd dépt dnt que e ne vut ren ny ̀ rotr ny à̀ oüren et qu dent de moy toutes es méchncetez mgnes u Roy à̀Re ne & à M e Prnce qu ne ont ps preens & qu ne es entendent ps & toutesfos s e promettent qus mndonneront & me eront perr dns vne guerre que y umeée Et tous ontforme de Re geux de Cheuers de Phoophes ou de Theoo gens Ce ont à es pus mceux & ceux qu me tourmentent duntge e voy en que ceù vous donnent trop deffroyen vẽt de pus grds qu e preentent deunt moy & qu font cent ouf fonneres qu ne ent ps de me fcher encor que es oent pntes Ceuy ont déguez en Turupns en Pnt ons & Gogueus qu me font cent nches & cent or nettes tntot s me mettentde deux Des pus s me rognent m Soutne &dn Chpeu pour me rendre eme ̀ eux & mAppeent e Crdn ureque s me font dner vne de en cet ettme donent rouours queque nzrde ou queque orque en pnt qu ne me coute que e prendre"
+        ],
+        [
+            "Lvn mppee Nzn utre Mqurn & dutres Trn Et commesen trouue touours de pus mceux es vns que es utres qu smuent à me rogner es onges uqùchr pour mefre dre oufen ten es utres me coupent eses commeen uos & dutres uec vn ognon men font u ter eu ux yeux pour me fre peurer s me font vor mes yeus en Creurs de mort u rts en Voos en Preneurs de tupes en nquerouters en porte pouets & en mrchnds dumettesen que e ne pus ps quequesfos u meu de ces nquetudes mempecher de rte dvneee Geneoge Que s eur prend enue de fre queque muque enr gée pour me dépre & mnqueter duntge s me font comme e per ous ttchent eurs prres & e me treuue en vn ntntchrgé de meux de veux ppers qu sen fut en peu que e nen os cceé & quequens me montrnt u dogt d ent vo e Crdn en peces Pus qund s ont ous de crer s rment tous ces ppers en vn pcquet qus me mettent ur e corps & dent vo Mzrn prs u treuchet dns vnon eneffetme erot mpoe de me remueë̈r ous vn fx pe nt Tout e monde e prt ̀ rre de ces pntes mgntons & chcn uy ft queque queton ur vn uetre Loy uy demndces eprts etoent frs commods hommes &uy répondt qus prenoent toutes ortes de formes memes des pus crues nmux L Rene uy demndcetot en dormnt qu uot toutes ces ees vos ̀ quoyrepdt qu"
+        ],
+        [
+            "5 nen çuot ren & qu ne çuot pus en que ettetottot qus venoent ̀ protre M e Du dAn jou fut cureux de çuor ss ne mngeoent pont es homesft repone qus ne mgeoent que es pettsenfns qu ne vouoent ps oeyr M e Duc dOr ens demnd ce que cetot que ces eprts &uy eur que cetot es mes des hommes M e Prnce vouut çuor de quee coueur s etoent &uy dt qu ne es uot ms puû dcerner dontfut fort tsft Le Mrec de Grndmont fut ddus quon es ft fuyr uecCrox & eu ente Et e eur deMeerye dt qu ne fot que mettre e feu à̀m on qund s y eroent tous entrez fn de es fre pe rr dns cet emrement & de es remettre en enfer dou s etoent orts ns permon Ms e Crdn eur ft repone que ces eprts ne senfuyoent pontpr des conurtons & que e feu nuot pont de pu nce ur eux Toutes es Dmes commençoent de à dre eur rteée ors que me treuunt é detre cou ché ur vn rs e vouus e retrer de deous mon coté rms pr mheur vennt ̀ rencontrer queques fue es eches oue vouos e poer ce ft vn peu de rut qu eur donn tnt dépouuente quees e mrent ̀ fuyr à truers e rdn comme des Bcchntes dnt qus uoent ouy vneprtRene tenot e Roy prmn & M e Duc dAnjoutenot prroeny eut que MdmeDuchee dOrens qu eut depreence deprt ez pour fre vn grnd gne de crox en cournt comme es utres Le Mrech de Grndmont voynt qu netot queton que de fuyr t meruees de es mes en cette occon fut e"
+        ],
+        [
+            "premer àportettendre es utres & Mdemoee qu sy preentpremere uy de qu courrot à̀Guche u en que e Roy des Prthesny eut que M e Prnce qu demeur eu en pus etonné de es vor fur que du uet de eurfutecommenç à eur ner qu ne fot ps er u os qu uot peur des fuees & e eur deMeerye qu entendt dt qu es fot ruertreuu e Duc dOrens u out de ée qu pr de ne pont ervte & qu s mrcheroent eneme &uy repondt vn peu effryé qu ferot tout ce qu voudrot Ce pendnt e demeury eu en epouunteé duor donné cette rme & ttendos à tout moment des Steres pu tot que des eprts pour momer ms grce à̀ Deu tout e p en ree qund toutetrouppe e fut r emée àporte à qu M e Prnce perud en r nt que des fuces &vn peu de vent uoent cueé tout e deordre Tout e monde e retr du rdn & on fermporte utot pres e demeury ̀ en repos e rete denuct quoy que e ne fue psns crnte que on enuoyt queque determné comme e eur de Roqueure pour éprouuer uenture de eprt ms ot que ce fut etmé trops pour empoyer on courge ou que peronne neutpenée de engger à̀ fre coup à̀onne pour moy peronne nentr ds e rdn tout e rete denuct & e endemntot queporte fut ouuerte & que quequens y furent entrez pour e promener en ttendnt e euer du Roy e me retry en vte de ce eu & e men vns à Prs ns dre Adeu à peronne FN"
         ]
     ]
 }

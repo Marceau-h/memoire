@@ -1,171 +1,62 @@
 {
     "entête": {
-        "form": "prose",
+        "form": "vers",
         "genre": [
-            "lamentation",
-            "plainte"
+            "poésie",
+            "burlesque",
+            "satirique"
         ],
-        "subject": "Carême",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-02-19",
+        "creation": "00-00-0000",
         "change": {
             "@status": "corrected",
-            "@when": "2022-06-17",
+            "@when": "2021-11-08",
             "@who": "AB"
         },
-        "titre": "Plaintes d'une fruitière et d'une harengère envoyées à la\n          reine.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Plaintes burlesques du secretaire extravagant. Des\n          Nourrices, des Servantes, des Cochers, des Lacquais, & de toute la Republique\n          Idiotte.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-12",
+                "#text": "12 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-13",
+                "#text": "13 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau2786_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2785_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "PLAINTES",
-            "D'VNE",
-            "FRVICTIERE,",
-            "ET",
-            "D'VNE HARANGERE",
-            "enuoyées à la Reyne.",
-            "A PARIS,",
-            "M. DC, XLIX."
+            "Pntes uresques du secretre extrvgnt Des Nourrces des Servntes des Cochers des Lcqus & de touteRepuque dotte Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté2 févrer 202 3 vr 202 Pntes uresques du secretre extrvgnt Des Nourrces des Servntes des Cochers des Lcqus & de touteRepuque dotte Prs Veuve dAndré Musner 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y948TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En dzns dexndrnsexste deux étts pour cette édton étt A cher A feuet Ar 6 \"prphes\" étt B cher A feuet Ar 6 \"prgrphes\" Pr un secrétre de S nnocent seon Huert Crrer (Mzrne Ms 468 f 23v) Texte dté du ocus de Prs dprès Huert Crrer (Mzrne Ms 468 f 23v) En vers 2785 Pntes uresques du secrétre extrvgnt des nourrces des servntes des cochers des qus et de touterépuque dote Prs veuve André Musner 6498 pgesvers poése uresque strque Avntpx"
         ],
         [
-            "3",
-            "PLAINTES DVNE",
-            "Fruictiere, & d’vne Haran",
-            "gere, enuoyées à la",
-            "Reyne.",
-            "La Fruitiere.",
-            "MADAME,",
-            "Encore que ie ne ſçache pas eſcrire i’ay",
-            "prie le Clerc d’vn Procureur nouſtre voi",
-            "ſin de m’eſcrire ce que ie luy diray, pour eſcrirc à vo",
-            "ſtre Maieſté, puiſque la neceſſité my contrainct.",
-            "Vous auez fait aſſieger Paris, & ie ne ſçauons pas pre",
-            "quoy ſi ce n’eſt pre ſatifaire à vn homme qui a pris",
-            "tout l’argent des cofres du Roy, des voutre & de nou.",
-            "tre auſſi, cependant il faut que ie patſſions de tout",
-            "cela, & que à cauſe de ce braue homme ie mourons",
-            "quaſi de faim, pre ne pouuoir pas nous ſeruir de nou",
-            "tre meſtier, pre l’amour que vous auiez fait aſſieger",
-            "Paris, & qu’il ne venoit point de marée & de poiſſon",
-            "pourmanger le ecareſme, à cauſe que vous auez fait",
-            "boucher les paſſages, on a bailléſ la permiſſion de",
-            "manger de la chair dans Paris, & les prouiſions que",
-            "A ii"
+            "PLANTES BVRLESQVES DV SECRETARE EXTRAVAGANT Des Nourrces des Seruntes des Cochers des Lcqus & de touteRepuque dotteA PARS Chezveue A MVSNER u mont nct Hre enCourt dAret M DC XLXAUEC PERMSSON"
         ],
         [
-            "aaaao",
-            "i’auions faict d’heres & de racines demeuront tou",
-            "tes là, car on ne ſe ſoucie pas quand on peut mangé",
-            "de la chair, de manger de meſchantes racines, que",
-            "deuiendront noutes eſpinares que i’auions cueillis,",
-            "que ferons ie de noutes blettes raues, de noures",
-            "choux, de noutes nauets, de nos racines de perſin, de",
-            "noutes oignons & de noute pourriaux, encore ſi",
-            "voutre Maieſté nous enuoyoit s’il luy plaiſoit quel",
-            "que paſſeport ’irions les porter à ſainct Germain où",
-            "ie les vendrions mieux qu’icy, i’auions ageté des pou",
-            "mes & ic croyons qu’on en mangeroit aux colations,",
-            "i’auions ageté du beure ſalé & du fromage & tout",
-            "cela nous demeurera, voyés Madame que vous nous",
-            "faictes bien tort, ſi vous ne gardiez pas cé chapeau",
-            "rouge aupres du Roy, ie ſerions mieux à noutre aiſe,",
-            "& ie ferions noutre petit cas tout doucenment, en",
-            "uoyez le ſi vous voulez, car ie nec le ſouffrirons iamais",
-            "à Paris, il nous a trop faict de mal, pre vous ie vous",
-            "aimons bien, car ie ſçauons bien que s’il n’eſtoit luy",
-            "nous reuiendrez bien-toſt faire vos deuotions à nou",
-            "tre Dame, mais à cauſe de luy vous n’y venez pas, pre",
-            "l’honneur de Dieu Madame, enuoyés-le & ne çroyés",
-            "pas ce qu’il vous fait croire de noutes Meſſieurs du",
-            "Parlement, car ils ſont de braues gens, & ie creuerons",
-            "pluſtot tretoutes que de voir qu’on leur voulut faire",
-            "quelque choſe, ils ſont des gens de bien, & qui ne",
-            "voulont pas ſouffrir des meſchans, pre vous, qui eſtes"
+            "3 PLANTES BVRLESQVES Du Secretre extrugnt MOn chpeu trtemẽt uquux yeux enfocé  Mon nez dns e mnteu mngent du pn  dépce  Contrnt de renoncer comme y renoncé  Au rdcue epor dvn detn pus propce  Sns vor à mon ureu venr ucun chnd  Attendnt e otteux rpente dvn ps ent  Le meux peupé de morts de tous nos cmeteres  Et dns oueté qu me dépt ez  e py de ce our x heures preques enteres  A ne mentretenr quuec es trepezAuec en mons détude & mons dttenton  Vn ffmé de Lox t tous es prphes  Que de me duertreue ntenton  Me ft re à or en ce eu déptphte  Cy gt (dt vn) vn te qu e cou e c  Et qu ds mourut e our qu trep  Pnt nt cecy prez Deu pour on me  Cy gt (dt utre) vn te mort n qurnte neuf  Aupres de uy on fs non on de uyfemme  ous pens en eur vunt de vertu comme vn oeuf"
         ],
         [
-            ".---- -r-oo -a -aaee r-e--g.",
-            "5",
-            "ſi bonne il n’y a perſonne qui ne vous ayme bien i’ai",
-            "mons bien auſſi noutre Roy, car i’eſperons quiil ne",
-            "ſouffrira point de Maltotiers, qu’il nous donnera la",
-            "paix ſi vous ne nous la donnez, & que ie gagnerons",
-            "mieux noſtre vie ſous luy, que le n’auons fait iuſqu’à",
-            "cette heure.",
-            "Y D",
-            "LA HARANGERE.",
-            "H H",
-            "l1 l A",
-            "ADAME,",
-            "y’ay prié vn de mes comperes qui eſt Secretaire des",
-            "Charniers ſaint Innocent, de m’eſcrire cens que i’en",
-            "uoye à voſtre Maieſté. Que voulez vous que ie fa",
-            "cions de noutes harangs, de noutre mouruë, de nou",
-            "tés macquereaux ſalés & de noutre merlu, puiſque",
-            "vous ne voulez pas qu’il vienne des ſaules, du turbor,",
-            "des viues, & de l’autre poiſſon frais, à cauſe de cela ils",
-            "ont donné la permiſſionde manger de la chair la Ca",
-            "reſme, ie trouue qu’ils ont bien fait, & puis ma foy,",
-            "i’ayme touſiours mieux la chair que le poiſſon, ce",
-            "pendant ie ne vendons rien de noutfe meſtié, &",
-            "i’allons vous enuoyer tous noutes enfans; afn que",
-            "vous les nourriſſiez, car ie ne les pouuons pas nourrir",
-            "ſi iene gagnons rien, qui en eſt la cauſe,c’eſtce braue"
+            "4  Queque prt en ce eu que me gudent mes ps  Grce à Antïquté y trouue de quoy re  Et quoy quyent des mortes de trte ces treps  Lors qus me font peurer cet à force de rre  Mnque dutre meeur ce duertement  M ft couer e our vn peu pus doucement  Que neut fct e tru dont e temps me dpene  Ronds & frncs écruns onnes gens de ds  Veneres Guos pour votre recompene  S ne vousdonné Deu vous dont PrdsPous vous rendre ron de tout ce que y ft  Depus votre deprt qu me futfunete  Ce eu or grnd ue en etnt vn effect  Cetde mes empos e pus grnds qu me rete  Ms quoy qu eme uor ou qu t de chrmãt  Dcpe nompre & ucceeur dArmnd  Prmy tnt de tomeux e ne vo pont e votre  Et du grnd Mzrn Eptphe eperé  Fute pus m ft prot pus quucun utre  Et prefere à tous eur erot preferéen veux fre uourdhuy e uet de mes vers  e ne pus en trouuer vn utre qu e ve  Ms hes dns excez de tnt de mux duers  Cet en putot u men qu fut que e true  e ne veux eprgner pour ce nouueu deen  Le pus ute à preent qu méchuffe e en  Nymn de pper ny encre qu me rete  Pume de mes truux nvte ntrument  Mon eger ggne pn dns vn temps mons funete  Sors & vens truer pour notre monument Rdcue"
         ],
         [
-            "eſtranrer qu eſt aupres de vous qui nous a tant vo",
-            "lez, & ie nous eſtonnons bien fort de ce que vous le",
-            "ſouffrez tant aupres du Roy, & que vous aucz eſté",
-            "cauſe que Monſieur le Ducd’Orleans & Moanſieur le",
-            "Princc ſe ſont mis contre nous, Vous aucz touſiours",
-            "eſté ſi bonne, & ie croions que ces eſſieurs aimoient",
-            "tant Pars, mais ma foy i’en ſommes bien eſlognée,",
-            "puis qu’ils ſont contre nous, & qu’ils ont mis le ſiege",
-            "deuant P’aris.",
-            "Ne croyez pas Madame, que ie quittions iamais",
-            "noures Meſlieurs du Parlement ie ſommes pour eux",
-            "& noutes mary & nous ie mourrons tretous pour",
-            "ex, ie ſçauons bien qu’ils ne voulont que le bien du",
-            "Roy, & celuy de ſon poure peuple, ils ſont de braues",
-            "gens, allez & ne croyez pas ceux qui vous en diſent du",
-            "mal. Ma foy ſi vous m’en croyés, ie ne ſuis qu’vne",
-            "folle, & vous ne deuez pas prendre mon conſeil, mais",
-            "n’importe vous ferés bien, enuoyés celuy qui nous a",
-            "faict tant de maux, carſi ie le tenions ie luy ferions",
-            "comme au Marquis d’Ancre, i aymons tant noutre",
-            "bon Roy, amenez nous le;venez vous en, ie vous ay",
-            "mons bien auſſi, & tous nos Princes, ie prierons tous",
-            "iours Dieu pour vous, car cela nous fera mieux ga",
-            "gner noutre poure vie, que i’auons tant de peine à",
-            "gagner faictes retirer tous vos ſoldats, qui empeſ",
-            "chont de venir la marée fraiſche, ainſi on ne mangera",
-            "plus de viande, & ie vendrons mieux noutre mar"
+            "5Rdcue ftrs décrteux de mons  nute frdeu de ce veux portefeüe  A quoy me eruez vous ettres que nous fons  Sur quoy queerunte ou e Cocher en vuee ?  e pus en ttendntfn de ces dets  Otnt ce mot de te & nt hut & s  Dvn cry de rmonneux en fre u e notre  Comen es vendons nous ux chnds ppotez ?  Vn ou cees de vn & deux cees de utre  Mrché ft tout n que de petts pteze ne us de Bzc quvn mpe fgotteur  De queque éct dn que mon ngge re  Des ettres que e fset dn utheur  Et comme ns dnger ns crnte e e pe  Vous en uez menty petes de médns  De foure & dmpoture odeux rtns  Dont e fe et morte & noence extrême  Mocqueurs qu mccuez de cette cheté  Le tye de Bzc ne ps e men meme  Pus que de mon rgent e y tout cheptéMs e veux que on yt ujet de e mocquer  De ce ronnement & deconequence  Styrques eprts qu penez me choquer ps u puc donné on eoquence ?  Quee enfn de vos ox (ftes e moy çuor)  Meprue deprt que y pretends uor  Quee ne ot nute utnt que tyrnnque  en ppee ujourdhuy de vous à nos neueux  Tout n que e feu ce en e communque ?  Et ns en ren oter en prens ce que e veux B"
         ],
         [
-            "chandiſe, ma foy Madame, ie vous appellerons nou",
-            "tre mere, & ie prierons touſiours le bon Dieu pour",
-            "voutre Maieſté.",
-            "Plainte du Secretaire.",
-            "T moy Madame, qui ſuis le Secretaire de ma",
-            "Lcommere Pacquette, ie prieray voſtre Maieſté",
-            "d’agreer la petite plainte que ie luy fais, qui prouient",
-            "de ce que nous ne faiſons plus rien ſous nos Char",
-            "niers, & que les chemins eſtans bouchez perſonns",
-            "n’eſcrir plus, ainſi nos plumes demeurent à ſec, &",
-            "nous à ieun, ſi les chemins eſtoient libres, & que ce",
-            "luy qui les faict boucher n’eſtoit plus aupres du Roy,",
-            "nous trauaillerions fort & ferme, & nous prierions",
-            "Dieu plus que perſonne pour le bien, pour la proſpe",
-            "rité, & pour la ſanté longue & heureuſe de vos",
-            "MaieſtéZ"
+            "6 nen et ps n des onds & necs Louys  Sot quvn voeur dEtt es yt ms ànque  Ou qus oent cõme on dt dnsterre enfoüs  Soudn quon nousprs ce met à nous mnque nen et ps n comme on vot ément  De notre or ce cnquéme & pus rre eement  Que dot nde àFrnce u en quà Epgne  utre Mzrn ccordez nous ce pont  L Frnce en perd utnt que ce voeur en ggne  Quez connu de vous e ne vous nomme pontPus que certnes ox qucy nous écoutons  Que que ce nom à ot veuent que e e te  Reuenons comme on dt de grce à nos moutons  Et pour y reuenr fermonsprentee  Vocy dns ces ppers dequoy fre duoüer  Que e çy demn dunement oüer  Aux eprts es pus forts & es pus ncredues  Vns retes du on temps ncs dgntons  Formures dexpots dcquts & decedues  DArrets de Tetmens & dogtonsContrcts (cr ns Notre & Curé dns Prs  y rt de mrer veuues femmes & fes)  Certfcts de moeurs & de morts de mrs  Congez pour des qus congez pour des oudres  Forme de Peport qu ou et de on  Que e prefere u rete uec queque ron  Pour vn fs de putn nc dActe pttere  Enfn queque chnt qu me ot procuré  e us enfueur ns eucoup de mytere  Greffer Notre Huer Cptne & Curé"
+        ],
+        [
+            "7Auec vn eu dcours de rt de onneur  Formure ncen de ettres de Noee  Vocy dequoy erur grnd ue votre honneur  S vous etes ene ou votre t vous ee  Sns en fre venr de ce eu eu nt  Que e Ce ux Frnçosrenduft  (Pus que comme en pntfut que e e de)  Ceey des Chrners feront mons de chemn  S fut quen demy our e vous es expede  Tres utentquement en on veux prchemnutre ucceeur du Pret de Luon  A tout utre quà moychoe et dffce  e veux enter en Greffe ou meme en ecuon  Votre rnche en vn tronc e pus veux de Sce  Vous es connoez tous & pouuez à or  pour me e fre vor entre cent e chor  Où en prendry moy meme vn qu de vous ot dgne  Et vous fery Sgnor ns ouger de Prs  En perpendcure & non fourchnte gne  Decendre de etoc du Tyrn PhrsVoyez grnd Crdn pr ce premer ey  S e us en cet Art ucunement uotce  Et utement ruy de vor ce que e çy  En cette occon cceptez mon eruce  Mynt oté mon pn vous etes eon Deu  Tenu pour me nourrr de moter de ce eu  Où m profeon commune à e morfondre  Où e pe mes ours trevtement  en ttete e Ce qu pue me confondre  S e vous y menty dvn mot tnt euement"
+        ],
+        [
+            "8  Comme à on Confeeur mpportnt on pcquet  (Quoy quordnrementfemme dmue)  Ne preumnt ms me pyer de cquet  L eruntepour moy ferré cent fosmue  A erur es cochers grnds & petts qus  e ny dns e on temps ps mons trouué dcquets  Dns vn det ég de notre mrchnde  Ms grce à vous Sgnor ce on temps et pé  Vous muez eneué toute m chnde  Et pendnt e ocus mon Offce et cséMon confrere Tyrcs pour vous utfer  Dvne entrepre en vous hors de toute pprnce  Dt que notre Art trop gueux pour nous y en fer  N pont de fondement utre que gnornce  Quneprement pr tout ee vous ut  Que on eognement & e votre nous nuct  Et que Prs ns vous n pour nous dequoy frre  En effect queque prt ues que vous oyez  On drot quuourdhuy chcun y çt écrre  A nous vor tous ofs où tres m empoyez"
         ]
     ]
 }

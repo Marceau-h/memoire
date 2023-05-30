@@ -1,185 +1,78 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "récit",
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": "Charles, roi d'Angleterre, d'Écosse et d'Irlande, I, 1600-1649",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Esparbès de Lussan, Marie (16.. - 16.. ; Comtesse de Jonzac)",
-            "Jonzac (Charente-Maritime)"
-        ],
-        "creation": "1652-01-28",
+        "creation": "00-00-0000",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-17",
+            "@when": "2022-09-28",
             "@who": "AB"
         },
-        "titre": "Récit véritable de tout ce qui s'est fait et passé à\n          l'arrivée du cardinal Mazarin vers Sa Majesté, avec la réception qui lui a été\n          faite.",
+        "titre": "Recit veritable de tout ce qui s'est fait au procez du\n          roy de la Grand' Bretagne : son arrest, et la maniere de son execution. Avec la harangue\n          faite par sadite Majesté sur l'eschaffaut. Traduit d'anglois en françois, par J. Ango\n          interprette de ladite langue, sur l'imprimé à Londres, par François Coles.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3017_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3016_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RECIT",
-            "VERITABLE",
-            "DE TOVT CE QVI S'EST FAIT",
-            "& paſſé à l'arrivée du Cardinal",
-            "Mazarin, vers ſa Majeſté.",
-            "Auec la Reception qui luy a eſté faite.",
-            "A PARIS,",
-            "Chez IACOB CHEVALIIER, proche Sainct",
-            "Iean de Latran.",
-            "M. DC. L11"
+            "Rect verte de tout ce qu sest ft u procez du roy deGrnd Bretgneson rrest etmnere de son executon Avechrngue fte pr sdte Mjesté sur eschffut Trdut dngos en frnços pr J Ango nterprette de dte ngue sur mprmé à Londres pr Frnços CoesÉdton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Jen Ango Rect verte de tout ce qu sest ft u procez du roy deGrnd Bretgneson rrest etmnere de son executon Avechrngue fte pr sdte Mjesté sur eschffut Trdut dngos en frnços pr J Ango nterprette de dte ngue sur mprmé à Londres pr Frnços Coes Sns LeuSns Nom649 fn févrer 649 Venne Bothèque ntone dAutrche273 ALT MAGFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Content un vertssement du trducteur u ecteur Autre édton (BM065)Bordeux Guume de L Court 6492 p sgnée pr Armnd dArtos (Bothèque Mzrne 8° 4052/5 [Res] p 6)[Sns eu sns nom] 6492 p sgnée pr Huert Crrer dprès u proement rouennse prce que exempre repéré se trouve dns un recue fctce excusvement rouenns (Bothèque Mzrne Ms 468 f 25v) Dprès Céestn Moreu égement pué sous e ttre \"Reton genere et verte de tout ce qu cest [sc] ft u procez du roy deGrnd Bretgne\" (Moreu n° 374) Notes mrgnes Dprès Stéphne Hffemyer trducton revendquée pr un certn Jen Ango de Rouen sur mprmé pué à Londres pr e rre Frncs Coes Dprès H Crrer e texte nest ps pru vntfn févrer 649Trducton du texte édté pr Frnços Coes à Londres 306 Réct vérte de tout ce qu sest ft u procès du ro deGrndBretgne son rrêt etmnère de son exécuton vechrngue fte pr dte Mjesté sur échfud trdut dngos en frnços pr J Ango nterprète de dte ngue sur m prmé à Londres pr Frnços Coes (S649) 20 pges été pué égement sous e ttre deReton génére et vérteetcprose nrrton réct Chres ro dAngeterre dÉcosse et drnde6049Mort de Chres er ro dAngeterre"
         ],
         [
-            "pgepgypi: ’gsgtgs",
-            "Recit veritable de tout ce qui s’eſt",
-            "fait & paſſé à l’arriuée- du Cardinah",
-            "Mazarin vers leurs Majeſtez.",
-            "Auec la reception qui luy a eſté faite..",
-            "As doute que l’arriuée de Mon",
-            "ſieur le Cardinal Mazarin en Cour",
-            "& le bon accueil qu’il a receu de",
-            "leurs Majeſtez, à cauſé diuers mou",
-            "ſ uemens dans les eſprits de pluſieursu",
-            "bons François qui one touſiours eu auerſion de la",
-            "conduite de ce Minitre bſtanger: & de joye.",
-            "pour ceux qui ſont attachezà ſes intereſts. ’ay cn",
-            "que les Curieux ſeroient bien aiſes d’apprendre",
-            "quelques circonſtancesvda ſon ariué",
-            "Le sdu courant le Cardinal Mamrin ptiſtſon.",
-            "ehemin vers le Roy, pour taſcher d’arriue au o",
-            "ce qu’il fit, accompagnédo quinze cens Caualiers",
-            "armez de nmouſquts, & de deux mil Fantaſſinsl",
-            "rantfuneliers que mouſquoraires-& piquioyLe",
-            "quel etane ariueéves ſa Maieſté, luy auroineſté:",
-            "endreſes deuours, & luy teſmoigner auecſes dou",
-            "ces paroles acoouſtuḿes, qu’il ne deſioit rien",
-            "rant qu’va’paix, eant paole oyaume que par les,",
-            "atres contrairesà la FEranot & qu’l ne ſauffiroir",
-            "A ij"
+            "RECT VERTABLE DE TOVT CE QV SEST FAT AV Procez du Roy deGrndBret gneSon Arret &mnere de on Executon AVEC LA HARANGVE FATE PAR Sdte Mjeté ur Echffut TRADVT DANGLOS EN FRANÇOS prAngo nterprete de dte ngue ur mprmé à Londres pr Frnços Coes M DC XLX"
         ],
         [
-            "4",
-            "amas vne laſcheté preiudiciable tant au bien de",
-            "Maieſté que de ſon Eſtat. Lequel apres auoir receu",
-            "de ſa Maieſté auec toutes les courtoiſies d’vn Priu",
-            "de auſfi ienné que fuſt iamais aucun, des rmqr",
-            "cimens des bons deſſeins que le Cardinal Mazarin",
-            "auoit pour le bien de ſon Royaume, il ſe ſepara de",
-            "ſa Maieſté auec vn contenrement & vne ſatisfa",
-            "ction toute extraordinaire, non ſeulement à cauſe",
-            "deſon heurrmle arriuées mais à oauſe le reee",
-            "ption queſa Maleſté luy auoit faice, Ehitcl all",
-            "dans ledepartement de la Reyde, laquelle le reé",
-            "ceut non pas leulement auec toutes’ſortes de re",
-            "iouiſſances & ſatufaction, mais auec beaucoupds",
-            "bien voillance, qu’elle luy a touſiours teſmoigné",
-            "non ſeulement à cauſe de ſes merites, mais encore,",
-            "de l’auoir, malgré toutes les impetuoſitez de la",
-            "guerre, r’appellé & fait reuenir Ce qui n’empeſche,",
-            "toutefois que le Cardinal Mazarin n’aye touſiours,",
-            "dans l’eſprirt vne ctainte quil obligede prendre ſoi",
-            "gneuſement garde à ſa perſonnue, d’autant que",
-            "l’Arreſt qui a eſte donné contre luy, ne luy elt pas,",
-            "beaucoup fauorable, & voyantſa teſte à vn prix ſi",
-            "grand qu il eraintmeſme que les domeſtiques ne,",
-            "raſchent d’attentarà ſaierſonne pour taſcher d’a,",
-            "uair larœcompence que peat eſtre apres beaucou",
-            "detrauaux. & ſeruices ils a pouroient eſpere,",
-            "Matspour reuenir auſubiet qe iepretodsyqus",
-            "dire de lon arruee: Apres eſtce rciueé nſon de.",
-            "2",
-            "partement"
+            "3 LE TRADVCTEVRu Lecteur J A Reton demort dvn es grnds Prnces de Eu rope metnt tomée entre es mns y ugé ̀ propos de ous en fre prt en notre n Qgue comme vne choe noüe & vn Cttrophe des pus e trnges dont vous yez ms ouy prer Ce Prnce uot ve cu de ongues nnées heureuxjuques ̀ enue de es ujets dont noencepé pour u tce enfez uques ̀ preent de e ne cy que m heureux uc cez qu esportez uques ̀"
         ],
         [
-            "partement, eſtant fatigué́ & laſſé des trauaux de la",
-            "longueur du chemin pour taſcher d’euiter la ren",
-            "contre de tous les Meſſieurs de la Cour, leſquels",
-            "taſchoient de toutes façons d’aller rendre les hom",
-            "mages au Cardinal, leſquels ne pouuoient aà̀ cauſe",
-            "des difficultez que i’ay déia dites, les pria de l’exem",
-            "pter pour ce iour, ce qui fut auſſi- toſt executé,",
-            "mais apres que la nuict euſt retiré les tenebres de",
-            "deſſus la terre, le Soleil n’ayant pas le temps d’atti",
-            "rer le reſte de l’humidité de la nuict, que voicy arni",
-            "uer auſſi-toſt vne ſi grande abondance de perſon",
-            "nes de condition qui auec vn ſouhait tout parti",
-            "culier de parler au Cardinal Mazarin franchirent",
-            "les anti- chambres, & auſsi-roſt arriuerent où le",
-            "Cardinal Mazarin auoit repoſé cette nuict, où e",
-            "ſtants tous aſſemblez, les receut aue toutes ſortes",
-            "de ciuilitez & courtoiſies, leur teſmoignant qu’il",
-            "deſiroit ablolument leur rendre des ſeruices &",
-            "laiens-faits, pour recompence de tant de trauaux",
-            "qu’ils auoient receus à fſa conſideration, & que",
-            "pour cet effet qu’ils luy demandaſſent ce qu’ils",
-            "voudroient, pourueu qu’il fuſt en ſa puiſſance, &",
-            "qu’il taſcheroit de leur dõner ſatisfaction, dequoy",
-            "ils le rouercierent auec autant de eiuilité qu’il leu",
-            "eſtoit offert. Cependantchaeun ne eeſſa de le venis",
-            "aſſeurer de leur perſonne, & de luy teſmoigner la",
-            "teiouiſſance qu’ils auoient euë de l’action de la Ba",
-            "onne de laneae, qui eſt,",
-            "B"
+            "EEEEEE que de tremper eurs mns dns vn ng nnocent & pres n uor ps prdoné ux Autes ont effçé de deusterre Onct de Deu nonotnt es Lox qu eur ont preerptes dns es S Lettres De orte que nous pouuons vertemẽt dre que Angeterte et̀ preent vn Royume ns Roy vne ptre ns pere qus ont des Loxns Loy & quece ont des hommes qu en portent e nom ns en uorquté pus quse ont depoüez detoute humnté comme vous verrez pr fdee Trducton que en y fte ur mprmeé́ ̀ Londres"
         ],
         [
-            "Que Monſeigneur le Prince de Condé́ volan",
-            "ſe retirer dans vn poſte plus auantageux que ce",
-            "luy où il eſtoit, auroit fait defiler ſon armée vers",
-            "le Chaſteau de Iouzac, ou il auroit eſté receu par",
-            "la Baronne, auec toures ſortes de ſatisfactions,",
-            "d’autant que le fils de la Baronne s’eſtoit iette",
-            "depuis quelques temps dans les trouppes de",
-            "Monſeigneur le Prince de Condé malgré la vo",
-            "lonté de ſa mere, laquelle ayant l’ame genereu.",
-            "ſe & perſiſtant dans l’opinion qu’elle auoit ton",
-            "ſiours eue, mais voyant que le Prince de Condé",
-            "auoit mis cinq cens hommes de Caualerie",
-            "cinq cens d’lnfanterie dans ſon Chaſteau pou",
-            "s’en aſſeurer, la Barõne apres le depart de Mon",
-            "ſeigneur le Prinoe de Condé, fie faire ſi bonn?",
-            "ehere au ſoldats, qu’ils eſtoient ous enyvre",
-            "de boiſs̃, ce qui fut cauſe que les payſas, crain",
-            "te de pillage, comme ils auoienteu autrefois,",
-            "ſeſeuoiene ſaiſis de leurs perſonnes, les auroiead",
-            "touas is à maort dans le Chaſteau, pendame qup",
-            "Monſeigneur le Prince faiſoit filler tant la Ca",
-            "ualerie que l’infanterie. Mais Monſieur le Con",
-            "te d’Harcourt ayant eſtéaduerty pan perſonne",
-            "expertes auxarmes, que l’armeée de Monſe",
-            "geur le Ptince marcoit, auroit auſitſt fait",
-            "detamper la ſienne, lequel apres auoirfaitloe",
-            "ner la tompette & le tambour dans ſoncamp",
-            "auroit mis ſon armée an bacaille, &aurdit eé"
+            "2 2 êû eefedeeeseeeepep Ao2 Arret de mort donné contreMjeté Brtnque pr es Pre mentres dAngeterré &mnere dont s ontvé pour proce der contre dte Mjetés E onrdhuy L Feurergrnde Chmre de 4 utee prt derechef enee ene deVetmter pour proedes contne oRoy pour S pus mpe tfcto u Royume & du F tnt que pueurs coppes mprfres n ont te qdes mos vou donnonn vn eue euo de o etmen L Chmhreynt prs eo pres ur ft crerOyez j & commndé eence e Roy fut mndé urquoy e eur dehe Cooe Soeteur remonte àChmre quàdernere ys f eneeuoe ( u nom des Communes dAgeerre) ft rt que t euon de thon & une gmd emes & hnrses sonme e Pnonner etnt rre dequed pneurost eeué prNton Angoe Les chrges y furent pr euës &reponee demndéene uy peut ps ors dy re pegq pondre ms u eu de c frdputotpunce de cet re Chmre Souuerne Demndnt que e Pronner fut contrnt de donner vne ouë reponce ot en confent ou en nnt ce que s refue de fre que es chrges orne enn pont ceoneees & queChme peut peoeeder eonutce Le Predeot Sre vous pouuez vous ouuenr quàderere ece vous utes dery des cues pour equees"
         ],
         [
-            "pourſuiure Monſeigneur le Prince, lequel ilau",
-            "roit attrapé le lendemain à la pointe du iour, &",
-            "Monſeigneur le Prince voyant l’armée de Mon",
-            "ſieur leComte d’Harcourt ſi proche de luy, lau",
-            "roit auſſi toſt taſché de r’aſſembler ſes trouppes",
-            "pour taſcher de donner bataille, mais apres s’e",
-            "ſtre vne longue eſpace de temps deffendu cou",
-            "rageuſement de meſme comme il auoit eſté́ at",
-            "taqué, ſe retirerent enfin tous les deux paris,",
-            "auec autant de perte ſd’vn coſté que de l’autre,",
-            "dequoy Monſeigneur le ’rince auroit eu beau",
-            "coup plus d’auantage, ſinon que la moitié́ de ſes",
-            "troupes eſtoient allez d’vn autre coſteé à la petite",
-            "guetre. Voilà ce que i’ay peu apprendre par les",
-            "derniers qui m’ont eſte eſcrirtes, & ſi toſt que",
-            "i’auray d’autres nouuelles, ie vous en feray pae",
-            "ticipans."
+            "2 s uez eté menéey & vous entendtteseure donechrge contre vous qu etot de hure rrho é tres grnds crmes coms contre ce Royume dAngesrte &u eu dy rpondre vous nter ogezChtr us onthorté punee & urdcton Sre uthorté cet esCommunes dAngeterre emé́es en ce Pement qu demndent que vous yez à confeer ou er edres ehr gesLe y Qund e fus ey derne ementeft en vry que e propoy cett queton & crtuement s ny ot que de mon ntheret prtcuer uros eté sft depro retton que e fs que etos ey eontreegté de ctte Chmre & quvn Roy ne peur ps etre mné pr ucun Supereur ny urdcton ur terre ms c net ps mon eu ntheret cetfrnche &erté du peupe dAn geterre queque pretexte que vous prenez o outens pus eur êrté́ que vons Cr force ns Eoy peut fre es Lox & chnger es Lox fondmentes du Royume e neçy que ujet en Angeterre pems etre euré deveny de ce qu uy peut pprtenr eet pourquoy qund e vnscy e mttendos que vous me donoerez qeques ronsprteueres pr oeques e cogneue quee Loy & que pune vous uez de proeeder contre moy& prtt eus vn peuempeché à vous repondre ur ce fujer prcé queffrmrue etpreuue & quenegtue et ouuent dfce ms pus que e ne pus vous peruder de e fre e vous dedury mes rons e pus refuement qu me er poeLes rons pour equees eon m concence ce quee dos premerement à Deu & pus à mon peupe pourpre eruton de eurs ves ens & ertez) e ne pus conceuor ny vous fre ucune reponce uqu ee que ye co prsutce du procedé Tous proeedez qu e font contre queques peronnes que ot nner ce ot Le Predent Srefut que e yous nterrompe ce que e romp ne feros psce netot que ce que vous tes contreuentux reges de cette Chmre de utce Vous commencez rgumentet & dpurer de ce qu coocerne uthorté de eot"
+        ],
+        [
+            "r 4 te Chmre dennt quee vous vous preentez ee Pronner & etes chngé eomme vn grnd mféteurS vous eéntreprenez de dpurer uthorté de cette Chnm re nous ne e pouupnsps onffrr & nypont de Cout qu e permettevous fut umettre à ee vous deuez re pondre drectement & à ptoposvous entendez repondre ux chges unon Le o Moneur uec votre permon e ne çy ps es formes de proeedr e çy es Lox &on quoy que e ne fe ps pfofeon dAduoet ms e çy es Lox u en quueun Gen homme qu ot en Angeterre eet pourquoy permettez moy de vous dre quepde pourerté deNron Angoe pus que vous & prtnte vouos fre crore queque choe à quequvn ns en donnerron ce ne erot ps tonne msfut que e vous de que e ne pus me umttre u ronnement que on m ft Le Predentet vry que vous prez des Losx & deronet neëre qu y t vn & ure & ous deux on contre vous Sre es Decrets des Communes dAn geterrte emées en ce Prement eetron du Royu e & ee ont eux qu ont donné cette Loy eon quee vous deuez gouuerner & regner Srene vous pprtent ps de conteter notre uthortéChmre vous en d uertt dereehef On remrque en de quee fçon vous me preze Prement &sen ouuendr en u Le toy e ne pus comprendre comme quoy vn Roy peut etre reputé mfeur ms eon toues es Lox dont y ms ouy prer permettez moy de vous dre que routes peronnes ot mfcteurs ou ce que vous voudree penuent soppoer contre tout procedeé pour çuor s e eg & e dende ce & que m rron ot entenduëvous nez ce vous nezro Le Predent Sre vous uez propoé queque choe àChmre e vous fery entendre en queque fç̧on on ne tentonnet perms nyvous nyucun de dputer ur ce ujes voy coneune fut ps que vous vous oppo ez àurdcton deChmre &yous e ftesfutque e vous de qus outreperont votre opporon s"
+        ],
+        [
+            "E L 4ont eyecez pr uthorté des Comnunes dAnge terre & tous vos Predecefeurs & Vous deuoz repondre deunt eux Le Roy e e ne monftreen vexepe Le Predent Sre vous ne deuez ps uterropreChns re qund ee pre à vous ce net ps à vos à decdet ee ponct & ee ne yous e pet mettrpsvoss e propoez ps voye doppoton à ̀ urdton deChmre s one enré en eonderton ur e ueét & frment eur ur dcton Le toy eds moueur (uee votre permffon) qe esComunes dAngeerre ne furent ms vne Chmre deudcture e voudtos çuor pr que moyen s y ons pruenus Le Predene Sre on ne vous permet ps de cotnuërce dfeurs Lors e Grofer deCmsre ut ce qu ene Chres Stuord Roy dAogeterte vous etes ecué unom deNton Angoe de hute trhon & utresgrnds crmes uquesChmrereou que vous gye àrepondree Roy y epondry ufrot que e çury quee ponce vous uez de fre ce que vous ftes Le Predent S cet tout ce que vous uez à dredonevous Meeurs qu ue condut ce Prones cy remeneZe oy e demnde à eerre es rons ponrquoy e nerepond ps &e demnde queque emps pour ee fre e Predens Ce net ps ux proers à e demnder Le y Pronners moneur e ne us ps vn Pron ner du commun Le Prednt L Chmrede entré en conderton touechnturdcton & vous en ont eureé́ f vous ne vouez repondre nous corrgerons votre deffu Le y Vous nuez ms entendu m rfon Le Predont Sre vos rons ne douent ps etre ouyes contre vne Chmre Souuerne L"
+        ],
+        [
+            "Le Roy Ftes moy vor vne urdcton où on nen tende ps es Rons? Le Pred Sre nous vous montrons cy es Commu nes dAngeterre & qund on vous rmener vous ç̧u rez pus mpement e pr deCour & peutrereout on fneL o Ftes moy vor où̀Chmee des Commu nesms exercé h udcture de cette orte? Le Pred Sergent otez ce pronner Le o Ben Moneur ouuenous que on ne permet ps u Roy de dre es Rons pourerté & frnche de tous es ujets Le Pred On ne vous dot ps onuffrr tenr ce ng ge que tout e monde ugevous uez en mntenu es Lox & ertes des uects Le os Et de grce Moneur y touors entreprs à outenr es Lox ertez & frnchees uecs e ny ms prs es rmes contre e peupe ms pour mntenr es Lox Le Predfut oeyr u commndement deCourne veut ps repondre ux chrges à uy mpoez Le Roy Ben Moneur Et nf e Roy fut condut u ogs du CheueRo ert Cotton &Senee rerme u endemn Et e Mrdy deuxeme our de FevrerChmre deutce prt derechef ence ene de Vvetrmnter pour proceder contre e Roy u nomre de oxnte & treze e Roy vnt ccompgné degrde ettnt v re grd evere deus emee & sst Le eur Cooe octeur gener remontr àCou que comme e pronner etnt àBrré u eu de re pondre ux chrges à uy mpoe contetot touours uthorté deCour que eonLoyvn pronner e e contumcer pr meprs & ne donne ps vne reou ton fne pr quee voyepue etreexmné eon e deoct cet vne confes on tcte e crme et comme duoé comme onveu gr contre des peronnes qu e mertoyent meux que ce pronner & prtnt det B"
+        ],
+        [
+            "5 mnde que on uy prononce preentement on Arret Le Pred Sre vous uez oüyRemontrnce que e Conefte àChmre u nom du Royume contre vous vous vous pouue en ouuenc &Cour ne e peot ps ouer)comen vous uez dyévouspe de propoer queques quetons &Chmre vous endonné outon On vousdt pufeurs fos queCh re vous eore deurdcton que ce netot ps à vous ny à ucun utre à contefterurdton deupreme & treute uthorré dAngeterre de queenypont dppe & touchnt queene fut pout entrer en contenton & nentmons uous uez tooours perté à ne uy oeyr en ucune fcon & nuez ps re cogneu quee ent ucun pouuor ny meresChmre hute queeety cette Chmre de utceSrefut que e vous de de prt deChne que vos deys uy ont fcheux & que vous ne deuez ps vous oü̈er n dee etnt uthorez pr e Grnd Cone dAngeterre & quee pourrot en uec u ce sddntger de ces deys & proceder àprononc ton de votre Arret & nentmons cet eur on pr de vous donner dree & en eur nom e vous nterpee de repondre potuement ux chrges depoez contre vous & pour prer ouuertemẽtutce n pont egrd ux qutez des peronnes cet à vous à donnet Repone fneen on ngos) vous etes utheur des rrhons à vous mpoez ou non Le Roy pres vne pettepue dt Qund e fus cy hyer e demndy à prer pour es Lertez deNton Angoe & e fus nterrompu e demnde derechefe pus prer rement ou non? Le Pred Sre vous uez de enReouton deChmre r ce uject & on vous dt quetnt ceué de crmes de cette nture cetot à vous à recognotreurdcton deChmore & repondre à vos chrgesvous ny repondez ce queCour vous permet de fre à preent encore quee put prendre duntge de votre meprs toutesfosvous pouuez vous utfer qund"
+        ],
+        [
+            "9 vous urez repondo vous erez entend à or & def endeous e neux que vous pourrezms Srefut que e vous de deprt deChmre & de on C mndement qu ne vous et ps perms de ortr de vo tre ujec por entret dns vn utre dcours uques à ce que vous yes repondu potueent touchnt vos ccu tons Le Ro Poun es chrges en fs fort peu de cs ceLerté deNton Angoe que e ouhtte Quoy? que e recognoe vne nouuee Chmre dont e ny ms oy prer Ce devrot montrer exempe ux Angos de mntenrutjce & es Lox ncennes pour moy en verté e ny pont de voye pour ce fre Vous prfez fort enpremere fos que e vns cy quetot Smedy derner dnt que etos fortement o gé eon Deu de mntenr es Lertez de mon peopeet vry e confee que e us ogé enuers Deu & mon peupe de deffédre urnt qu met pose es neẽnes Lox du Royume & prtnt permetteoy de vous dre que e ne repondry ps prtcuerement uques à ce quoe vous myez ft vor que ee procedé net ps con trre ux Lox fondmentes du Royume S vous me vouez donner queque temps e vous fery vor es R ons pour equees e ne e pus ps fre n Et cy etnt nterrompudt & de grce vous ne deuez ps mnterrompre e ne çy comme quoy e us venu cy ms cyLoy ne vous permet ps de fre votre pron ner de votre Roy e trttos urfoy puque du oy ume cetot es deux Chmres du Prement qu repre entoyent eRoyume & qund eus qu rreté e Tr été ors e fus entrné & mené cy & prtnt cy e Predent uy dt Sre entendez e pr deChmre e oy Et de grce Moneure Pred Non Sre de grcene vos et ps perms de tomer en ce dcours vous vous preentez comme vn cter vous nues recogneu uthorté́ de"
+        ],
+        [
+            "8Chre & ee ne sen ouce ps ms encor vn coup ee vous comnde de repondre potuement Greffe ftes votre deuor Le Ry Son deuor Monfeur Lors e Greffer preent vn pper u Roy demndntdernere repone de confees ou uer es ccutons Le Ros evous ds derechef Moneur quepr ce oyen e pouuos donner tsfcton àNtron An goe decndeur de mon procedé enchrge qu m eté comme e e fetos ms de recognotre vne Chm re nouuee contre eurs Pruegeges pour reformer es Lox fondmentes du Roynme Moneur vous men excuerez L d Sre voeytroene fos que vous uez puquement deogé & ffrontéChmre vos tons tenognent ez comme quoy vous uez preer ué es Prueges du Peupe vertement Sre es n tentons des hommes e douent remrquer pr eurs ctons vous uez ecr t es votres en chrcteres de ng pr tout e Royume ms vous entendrez e pr deChmre Greffer uppeez u deffut & vous Meeurs qu uez prschrge du pronner remene Le oy e ne vous dry pus quvn mot s ny ot que de mon nteret e nen preros ps duntge & ne vous nterrompros ps Le Pued Vous uez entendu e pr deChmre & vous trouuere2(quoy que vous ne e vou ez ps enten dre)que vous etes deunt vne Chmre de uftceLors e Roy ortt uuy de es grdes u ogs du Che uer Roert Cotton ouuot couché utre nuct & ceecy & e Sence fut reme u pro hnourLe eudy 4 de FevrerChmre Souuerne ete pour e procez du Roy proced à extermner des temons pour prouuer es chrges qu etoyent contre uy es vns portnt temognge q etot preent orsqué on pç on Etendrt es utres qus uoyent veu en te & te Comt epeenuë àmn & e rete commeetex poé en es chrges &ce"
+        ],
+        [
+            "N 3 o ES CARES ET CCS TFo&G ds Roy deCrnmd BrepgneVe Chres Sturt etnt dms Roy dAnge Aerre &Couronne uy etnt confée uec vn pouuor mté uunt eque& es Lox du pyspouuot gouuerner & non utrement & pr cete con nce on erment &chrge etnt ogé́ de e erur d pouuors à uy comms pour e en d pue & poueconeru ton des dros & ertz du peupe Nentmons pour frutrer & nentr es fonde ments dceuy & otes e moyen de remeder u mus gouuernement ce qu etot reerué ( u henefce du peupe) u pouuor des frequents & uecefs Pr emenes ou emées ntones pr es conttutons Sondmentes de ce Royumne Ledt Chr e Cpout pruenr A es deen eunpees dr ers mnouues ptues tr ereuement & mceuenent eué es rmes contre ce preen prement & contre e peupe eque y et pr ecuerement repreentéA euer ey enComte de otu ̀ ortehn eors quy pnt ou Endnt de guerreEdgh à eneon Fed à Brnehfond u Pvnt de ue hm u ege de Goceftes àte d eueyomn & utres pces en Cornoeve de Lceter u Cmp d PMey & pueurs utres pces Qecue que pueurt m de cpouepeee non re ont ees toen & des duonoueuements de ce ps pr nuon des Etrns Een & pr pueur utres mechnue voes noyenuor donne des Commons u penece o s & utres reees & rouotez y nt Angos que orn ocez uec oy eques mencen e pys de pus grndes nuons àpourute & pour n heéret dudt Chres Stur ous eeques muus deens & meehmtes prt quos eont fteo& e font pour dunor & mnus"
+        ],
+        [
+            "en nteret prtcuer &punce & preten dues prerogtues de uy & defme conere nte re pue e do communerté utce& du peupe de cette nton quee uot mscon fnce en uy comme dt et pt toutes equees mneńesppert que edt Chr es Seurt et utheur dedtes nhumne cruee & ngumres guertes & prtnt emne detoute e ehEone meureres rpnes ruements dests de otons dommges & mheurs de cette nton & e eout ceé quete t & coms à cue de dte guerreSmedy xeme de FeoutetCnmre de ut oe enee enSe de Vvetmnte e Predent eeu dEertte & pres ppe oednre deChmore e Rtoy nt enmnere ecoutuḿe o hpeu tete Commepoe u meu deren rdu peupe demndnt que utce & executon fut fteey enuut veuoemn d à etre ouy e Predent uy repondt qu ft pre merement e çuor deChmre & ot e Predent ft vor es ntentons deChm re & de md uf qu fut perms u Roy de prer purueu qu ne tomt ps en mtere de det ede mnd( eu egrd qu uot queque choe à dre pourpx du oyume &erte des ujets) qu fut ouy deunt es Segneurs & es Communes enChã re dorée unt que Arret fut prononceé L deusCour e retr dnsChmre des VVrds & e Roy chez e Cheuer Roere Cotton & pres vron demy heure de detCout reunt deChme des Vrds uec cette reouton que ce que eRoy uot demndé netot que pour dyer toutesfoss vouot dre queque choe àChmre endeffence unt que de prononcer Arreterot ouy & e Roy ynt decré qu nuot pus ren à dre e Pre dent ft vne ongue nrrton touchnt e muus5 gouuernement du Roy trnt des preuues deoy que es Roys dAngeterre deuoent jendre çompteeur"
+        ],
+        [
+            "opeupe & àoy quee etot pr deus eux &pro dut pueurs pges des Roys qu uoent eté depo ez & ms e pron pr eurs ujets & prtcuere ment dns e Royume dennce qu et Ec Le Ry e ou de cont neuf Royspuprt uoent eté ompr vs onnex depooz ou eur procez fe pour uor m e gouuerné grnd Mere propre chée & on pere e couronnéà ntntSrure Apres cecyChmre commnd u reffer de eoyne re Arret contennt es chrges & crmes de ques do à uot eté ttnt & conuncu pour reprton de vocente ques crmes & trhonsChmreé ordonn queme ? edt Chtes Srurt comme ttn trtre meurtrer or& ennemy puc erot ms à mort preprton edetete duec on corpschre p Lors e Roy demnd à etre oüy ms dutnt que e Arret etot de prononcé on ne uy vouut ps Rne permettre comme e Roy repot ps dedns Ange e on entendt vn utre cry de peupe demndnt que re jutce & executon fut fcte Ze Ro e Ry ( condut pr des grdes) che e Ch? uer Ctton & deà̀ V hteh on s pe L Chmre p vne Dec ton pour reformerre ees forme des Ecrtures & utres procedures des ourd tons equees e foent uprunt u nom du Roy L Chmre condernt que ( pres executon du Roy) que quens du Royume pourroent ttenter à fre procmer e Prnce Chres ou quequvn de ce te gnée Roy dAngeterre comme onveu ouuent en cete nton presmort des Roys ee or donn à vn Commre de dreer vn Edct port nt d ftenes à outes peronnes de procmer ucun oy ns e con entement du Prement à pene de crm de hute tr on &de precher ou dre ucun chee u contr re u procedé́ & deupréme uthorte de cette ton es Communes dAngeterre ur p yne d mpron nement de eurs peronnes & utre puton s y echet Etce tte fn que edt Edct er pué pr"
+        ],
+        [
+            "oet é toyume à ce quucun nen pretende cue d gnornceVnOffcer de rmée temognà que ques Memresdu Premont que e Roy voynt que on Arret de mort etoprononcé & que on executon etot e ? prochnepeutChmre uy permettrede vos es enfns & qu peut uor e en de &ve fe communen & e preprer àmort & pour cet efe nsdemnd e eur uxon ceune Eueque de Lon mm de uee pemfon de pouuos conoerer pruement uec uy enChmre ce que Chmre uy troyr e Roy oge à VVhteh & e endemn qu etot Dmnche e eur uxon prech deun Sdte Mjeté en on ogs prué"
         ]
     ]
 }

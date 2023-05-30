@@ -1,83 +1,51 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "chanson",
-        "subject": null,
+        "genre": [
+            "chanson",
+            "triolet"
+        ],
+        "subject": "Emprisonnement des\n            Princes",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1650-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-11-23",
-            "@who": "KA"
+            "@when": "2022-10-03",
+            "@who": "AB"
         },
-        "titre": "La nouvelle courante. A la reine.",
+        "titre": "Nouveaux triolets frondeurs, ou les Triomphes de la\n          Fronde.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-04-20",
-            "#text": "20 avril 2021"
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2542_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2541_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LA NOVVELLE",
-            "J T",
-            "D",
-            "COVRANTE",
-            "A LAREINE",
-            "A",
-            "A Reine auectrop d’amour,",
-            "Souffre dans la Cour,",
-            "Ce t eſtranger,",
-            "De qui la France enfin veut ſe vanger.",
-            "Et ſi lePrince embraſſe ſa deffence.",
-            "C’eſt parenfance,",
-            "Car on ſçait bien,",
-            "Que tout le monde hait cét Italien,",
-            "8e",
-            "Ilatrop fait voir ſa rigeur,",
-            "Dans noſtre langeur,",
-            "Et ce voleur,",
-            "Nereſpiroit que le communmal-heur,",
-            "Mais ſi la Reine appuye ſa malice,",
-            "C’eſtiniuſtice,",
-            "Carl’onſçait bien,",
-            "Que le pendart ne vallutiamaisrien.",
-            "a   .. a... -..,. a, a"
+            "Nouveux troets frondeurs ou es Tromphes deFronde Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté3 jun 202 Nouveux troets frondeurs ou es Tromphes deFronde Sns LeuSns Nom650 Prs Bothèque ntone de Frnce Déprtement ttérture et rt Y697TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs254 Nouveux troets frondeurs ou es Tromphes deFronde Sns Leu 6507 pges Surprson des Prnces s sont des mons communs ms uss des pus muvsvers chnson troet Emprsonnement des PrncesArrestton des prnces 65"
         ],
         [
-            "4 2",
-            "s",
-            "En vain il cherche la faueur",
-            "De ce grand vainqueur,",
-            "Iln’aura pas,",
-            "Tant debon- heur que dans d’autres cobats,",
-            "Puiſque le Cielqui prend noſtre deffence,",
-            "Enfin s’offence,",
-            "Ct lonſçaitbien,",
-            "Qu’onne doit plus voir cét Italien.",
-            "En vain Orleans eſt pourluy.",
-            "a?.,",
-            "C’eſtvnm foible appuy,",
-            "Car qui ne ſçait,",
-            "Que ce grand Princea touſiours peu d’effet,",
-            "Quoy que l’Abbéſoit touſiours de ſa Ligue,",
-            "cnvainilbrigue,",
-            "Carl’onſçait bien,",
-            "Que s’il promet il change en moins de rion,",
-            "3",
-            "Ainſi que ce tiſon dcnfer,",
-            "Qui croit trimpher,",
-            "N’eſpére pas,",
-            "ei ceuire nereoeneiele",
-            "éCnces Guérriers qui luy preſtent le bras,.",
-            "4",
-            "Pour tout potage,",
-            "e e le daee rondspoaponr",
-            "FIN"
+            "NOVVEAVX TROLETS FRONDEVRS OV LES TROMPHES DE LA FRONDEM DC L"
+        ],
+        [
+            "NOVVEAVX TROLETS FRONDEVRS  Ou es Tromphes deFronde  tee  Es os Troets frondeurs  LLPr quFronde etextée  Cr des pus grnds Tromphteurs  Les os Trmetre frondeurs  Et des pus uperes vnqueurs  Ee ne fut ms domptée  Les os Troets frondeurs  Pr quFEronde et extée ee  A ce grnd Gent Phtn  Eeceu ttre udce  Qu fut pr vn rs enfntn  A ce grnd Gent Phtn  Ee ft rencontrerfn  Dvncoup e ettnt urpce  A ce grnd Gent Phtn  Eeceu tre udce  A j"
+        ],
+        [
+            "4  Fut du pett Pteur Dud  Qu pres fut Roy & Prophete  Du Gent vnqueure vd  Fut du pett Pteur Dud qu vn grnd oeur uut  Apres vne tee deftte  Fut du pet Pteur Dud  Qu pres fut Roy & Prophete  se fut que dns nos Troets  Notre Fronde ot en prée  Ses coups venten desouets fut que dns nos Troets  Au en que des ptoets  Eevne ee vée fut que dns nos Troets  Notre Fronde ot en préé  ot3e  Cr nos ons Frnços guerrs  Pr e eu moyen defronde  Auec ee s font grnd ders  Cr nos ons Frnços uerrs  Des morts des eez des meurtrs  Fnt rnger tous ceux qu grondent  Cr nos ons Frnç̧os guerrs  Pr e eu moyen defronde n"
+        ],
+        [
+            "s ne veuent pont pour frdnder  Des cques &des cottes de me  Ne crgnent pont e hrder  s ne veuent pont pour fronder  On e pt ̀ es regrder  Vctoreux dns ces chmes  s ne veuent pont pou ftonder  Des cques & des cottes de me   AE6  S vous entendez vn e r L Fronde y er eeuée  Cr es coups vont commevnecr  S vous entendez vne r  Et Beufort ce grnd Duc &Pr  Fort gree F trouruéé S vous entendez vne r  L Fronde y er eeuée  e  Prens vous emporterez  Sur tous es utres duntge  Et pendnt que võus frondere  Prens vous emporteez  Sns ceehonneut vous urez  Ne quttezdonc ps e frondge  Prens vous emporterez  Sur tous es utres duntge  B"
+        ],
+        [
+            "6  Notre Fronde vn tempseté́  Quee etot conmme eneuee  Son nomnetot pus ectté Notre fronde vn tempseté  Son honneur preque pusvnté  Bref ee etot conme oe  Notre Fronde vn tempseté  Quee etot comme eneuee  oses0  Souuent ce qu et tu  Goreuement e reeue  Crnotre Fronde &vertu  Souuent ce qu et tu  Pourr vncre e pus tetu fut donc que dee on e erue Souuent ce qu et tu Goreuement e reeue  ose3e  Vue e Monrque Frnços  EtMere ge & peue  Et de Beufort Prnce courtos  Vue e Monrque Frnços  Et pus quon cre ̀ hute vox  Vue utrouppe frondeue  Vue e Monrque Frnços  EtMere ge &peue"
+        ],
+        [
+            "7  Frondeurs vos oms eront gruez  Sur de or non ur decre  Cr rues gens etes trouuez  Frondeurs vosnoms eront gruez  Et vos tomeux memes eeuez  Sur pers de pe & Porphre  Frondeurs vos noms eront gruez  Sur de or non ur decre FN"
         ]
     ]
 }

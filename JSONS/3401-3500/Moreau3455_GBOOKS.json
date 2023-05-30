@@ -1,135 +1,54 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "pamphlet",
+        "form": "prose",
+        "genre": [
+            "réponse",
+            "discours adressé",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-06-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-08-22",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Les reproches de la fortune à Mazarin",
+        "titre": "Réponses faites aux députés du Parlement de Paris, les\n          quatrième et seizième juin 1652, le roi étant à Melun.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3459_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3455_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LES",
-            "REPROCHES",
-            "DE LA",
-            "FORTVNE",
-            "A",
-            "MAZARIN.",
-            "A",
-            "A PARIS,",
-            "M. DC. XLIX."
+            "Réponses ftes ux députés du Prement de Prs es qutrème et sezème jun 652 e ro étnt à Meun Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Lous XVRéponses ftes ux députés du Prement de Prs es qutrème et sezème jun 652 e ro étnt à Meun Prsmprmeurs et rres ordnres du ro652 jun 652 Lyon Bothèque muncpe de LyonRés 30989TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3455 Réponses ftes ux députés du Prement de Prs es qutrème et sezème jun 652 e ro étnt à Meun Prs pr es mprmeurs et rres ordnres du ro 652 8 pges Texte offcey enune édton de Rouen Jen Vret 652 7 pgesprose réponse dscours dressé texte offceDescente dechâsse de Sntenevève 65"
         ],
         [
-            "LES REPROCHES DE LA FORTVNE",
-            "à Mazarin.",
-            "C’Est aſſez abuſer, ingrat de mes faueurs,",
-            "Poe",
-            "Il eſt temps d’éprouuer l’excez de mes fureurs,",
-            "i di",
-            "e L’on m’acecuſe deja d’vne trop longue attente,",
-            "S",
-            "De perdre en ton endroit le titre d’inconſtante,",
-            "Et teir trop long temps vn laſche ſuborneur,",
-            "Au ſupréme degré des biens & de l’honneur,",
-            "Tout l’Vniuers attend auec impatience",
-            "Le coup de ta diſgrace & de ta decadence:",
-            "L’Arbitre ſouuerain dont ie reçoit la loy",
-            "I’arrache de mes mains pour faire auec effroy,",
-            "D’vn indigne ſujet de grandeurs & de vices,",
-            "Vn execrable objet de maux & de ſupplices.",
-            "Il eſt vray que ſuiuant mon choix capricieux",
-            "Mes mains t’ont éleué des plus infames lieux:",
-            "Que par les mouuemens d’vnc laſche pratique,",
-            "Du moindre des valets d’vn peuple frenetique,",
-            "I’ay faict vn Souuerain qui preſcriuoit des loix",
-            "Aux plus grands Conquerans de l’Empire Gauloie.",
-            "D’vn laſche patient au vice le plus ſale,",
-            "Vn Souuerain Agent dans la maiſon Royale,",
-            "Mais le cry des rar çois en ce fatal moment,",
-            "Diſſipe mon erreur & mon aueuglement.",
-            "Ie connois aux excés qui te rendent inſigne,",
-            "Que de tant de faueurs tu te fais voir indigne,",
-            "Puis que loin d’aſſeurer deſſus l’integrité",
-            "Le Throſne ambitieux où ma main ta porté,",
-            "D’effacer le renom d’vne baſſe Naiſſance,",
-            "Par les plus beaux effets de la magnificence,",
-            "De te faire vn appuy d’honneur & de vertu,",
-            "Qui par l’effort du tempsne peût eſtre abbattu.",
-            "I’entens de tous coſtez par la plainte publique,"
+            "DD H 4L ALL L A FATES AVX DEPVT EZ du Prement de Prs Le qutreme & ezeme un m xcens cnnteux e Roy etnt ̀ Meun ee? LA PARS 20 Pres mpreun & Lrres ordnresduoM DC Avec Pruege deMeté́"
         ],
         [
-            "Les funeſtes effets d’vn Conſeil Tyranique.",
-            "I’apprens de l’Vniuers l’eſtrange ſentiment,",
-            "Que tous les peuples ont de ton gouuernement,",
-            "Dont la ſuitte fait voir aux deſpens de la France,",
-            "Ce que peut la malice auecque l’ignorance:",
-            "Par mille trahiſons ton eſprit corroimpu",
-            "Accorde aux ennemis ce qu’eux meſmes n’ont pu",
-            "Tant d’argent diſſippé, tant de Villes renduës,",
-            "De deſſeins auortez & de forces perduës,",
-            "De iuſtes en exil, de Grands empriſonnez,",
-            "De coquins agrandis de peuples ruinez,",
-            "Font voirpar le ſuccez au deſſein tout contraire,",
-            "Que tu fais plus de mal que tu n’enpenſes faire:",
-            "Mais pour ces beaux exploits que l’on chante en tous lieux",
-            "Ne croy pas meriter le nom d’ambitieux,",
-            "Ce titre pour tes faits ſemble auoir trop de gloire,",
-            "Et fauoriſeroit ton infame memoire;",
-            "Le deſir de l’honneur ne t’a iamais porté,",
-            "Aux aueugles excez de ta temerité,",
-            "Mais celuy des treſors, des feſtins & des femmes,",
-            "Et d’autres voluptez auſſi viles qu’infames,",
-            "Vn nom ſeul ne peut pas exprimer tes deffauts,",
-            "Chacunt’en donne autant que tu commets de maux,",
-            "L’onte nomme vn athée, vn ſacrilege, vn traiſtre,",
-            "Vn auare, vn paillard, vn voleur de ton Maiſtre,",
-            "Vn fourbe, vn ignorant, vn cruel, vn poltron,",
-            "Vn bardache iadis, à preſent bougeron,",
-            "Ce ſont là les beaux noms que la fidelle hiſtoire,",
-            "Fera ſeruir vn iour d’Eloge à ta memoire.",
-            "De ces crimes ſi grands l’amas prodigieux,",
-            "Charge ſi peſamment ton chef audacieux,",
-            "Que ta grandeur fondée en ma ſeule perſonne,",
-            "Va fondrc tout à coup puiſque ie t’abandonne;",
-            "Mais envain tu pretends d’vn horrible attentat,",
-            "De perdre en te perdant les reſtes de l’Eſtat,",
-            "Armant pour ta deffence vn frerc contre vn frere,",
-            "Vn pere contre vn fils, vn fils contre ſa mere,",
-            "A ij"
+            "2 s u Aoôf e r s AND ETN Fte ux Deputez du Preo t JHe s ment de Prs e qutreme r P our de un 5 e Roy e etnt ̀ Meun rE Roy ynédérfes fos enrend es Re montrnces qu uy ont eté ftes de vue vcx & veu cees qu uy ont eté données pr ecrt prCour de Prementde Prs S Mjetéen vouu fre ç̧uotà dte Cour prpreents Repone quee fer tuouts eucoup de conderton us ce qu uy er repreenté pree seu nnt en que pmme dte Cour à vn notre nteret àmnutenton de uthorteé deMjeté ee n ps u dutres teneõs qudonttuer out te qu dé́pẽd dEe peen duntge de on eruee & que voyt uee vn trene deêpr que es choes sgrffent de pes er pus en orte qu et treecejre dempeche es utees des mux preens pr vn on& prompt reméde S Mjeté fnc ecoup dett des ds de te Cour de Pement à exempe des Roys es predeceers & etne ende es eeeuos ures oceurtencts pretntesj"
         ],
         [
-            "4",
-            "L’Ange qui prend le ſoin dû ſalut des François,",
-            "S çaura bien empefcher les maux que tu concois",
-            "Et parmy la fureur d’vne iuſte vengeance,",
-            "Punir le criminel & ſauuer l’innocence,",
-            "JD n",
-            "Et comme n Bouc chargé de malediction",
-            "Sacriſier ton corps à l’expiation,",
-            "Des maux & des excez que ſous ton Intendance,",
-            "cs Miniſtres cruels ont commis dans la rance",
-            "Ainſi les vains cfforts quite font rcſiſter",
-            "Augmentent ton ſupplice en penſant l’éuiter",
-            "Des peuples ſouleuez l’effroable tempeſte,",
-            "S’augmenter tous les iours pour écrazer ta teſte.",
-            "Au ſſi toſt on vera leurs courages ſoumis,",
-            "Employer leur fureur contre leurs ennemis,",
-            "Et par vne entrepriſe auſſi iuſte que belle,",
-            "R’appeller en ces lieux la Paix vniuerſelle,",
-            "Amen"
+            "y 2 A 6 dere & entend quo es Deputez de dte Cour qu ont pres dEe ou tes utres du Corps dcee quee voudr chor vennent conferer uec ceux du Cone de S M jeté quee ordonner pour cet effet & duer enem e à ce qu er à fre pour retr e cme dns e Royu me uec uthorté de S Mjeteé & grentr es Sujets des dommges qus ouffrente & deruïne à quee s ont expoez ny yãnt ren que S Mjeté t tnt à cœur que de donner Px &coneruer nuoement dns on oyume & et̃t dpoee de mrerrous es moyes poes pourcetce onne fn Vout u uec vne en tere ffecton reünr touteMon Roye uec Ee & que es choes oent temes en tetmes que S Mjeté e pue eur vtement comme edeft ceune des Cones d Monegneur e e dOrednsdeé Moeur ePrnce de Condeé& e promettntquevoyede cetre Conference ermeeure pour y pruenr FAT à Meun e qutreme our de un m x cens cnqunte deux Sgneé LOVS Et pus s D Gvneoo e 2teAt tAe ep AVTRE RESPONSE fte udts Deputez e eeme dudtmos de un T E Roy uot ujet de e promettre que on PromentLde Prs ntereé u ponct qu et àmnuteneon Peenen ene n e e e er en nn erene preent du Royume ne voudrot ps nter duntge ur vne choe que des Sujets reees tez des forces dEp gne demndent à S Mjete es rmes àmn & ce en tment etute &nture que ceux des Offcers de S Mjeté quont pus eognez des mux que edtes forces font"
+        ],
+        [
+            "2 yq  s  fnt oufrr à es fdes Sujetson on eté uouchez e Premet de retgne ynt decré à ceoy de Prs qu df fererot de deherer urce ujer uques à ce que es Toup pes etrngeres qu etoent entrées dns e Royume ns es ordres de S Mjeté en fuent ortes toutosfos S Mjeté nme vount ren omettrs de c que on crotqu pue contrner u repos de on Etten vouu per ur toutes ces utes confdertons & fre entendre à f dte Cour que SMjeté ynt exmné murement en on Coe ce qu uyeté repreent́ pr es Depurez de on Ptement de Prs & es Decrons qu uy ont ete données à vnene regret qune Compgne dont ee crot es ntentons onnes & où t ytnt de per nes ges & utes ne connoe ps quede mnde àquee on nte pout efognement de Moneur e Cx dn Mzrn net qun pretcte & quecue vert e des troues preens et nterœt & fron de ceu qu ont prs es rmes & uméGuerreCue dors que edt Seur Crdn etot ur e Rhem & ynt eté vnnmement ugeé pr tous ceux queeppeé à cette deterton que on ne gurt tnss es mudn Eftt nt que on Aesrrete quux pretcexteés puquefot ce en etnt népue on ft ément ucceder vn à utre & que vnqe moyen et den otetverte cufe 820 Ponr cét effet qund e Roy e dpoerot de permetteudt cut Crdn de e tdtret e y donont vn emnpoy eogné pres queMjeté hy ur rendu utce pourreprton de o hoveurnyperone qu nme doue demeurer dccord qu fut uprunt vor crment que s enteté pufque sy tecotter oxperente hupe ogent den prendre dutnt pus de on quechcun e peut ouuent deconfuon & des deordres qm rrue rent ef utce oentement que e Roy donn à efo gnement dudt eur Crdn u commencement de n B"
+        ],
+        [
+            "r L 6 ee dernrere quoy que on netren oué dnrprmner dns es eprts comme on ft mntennt que cet o gnement produrot e hon heur de Ett Cet pour quoyet de rudence deMjeté pour donner vn prompt & dure repos à es ujecs & pour ne ps rotomer dns es memes nconuenens du pé dy pouruor pr des moyens odes dutnt pus queMe fte et e nformé́e quu meme temps que es Prnces de crent qus poeront es rmes ot que edt Cr dn er éogń s font des offres toutes contrreseurs pour fortfer eut prty du cote des Etrngers & y rtrerdnrres desSujets de Meté qu y ont à pre enr & que decrton que Monegneur e Duc dOrensfte depus pes de ouss ux Ehcuns deVe de Prs qu nuot pont de pouuor ur es ttouppes do Lorrne quduoüeé uot ft venr ne sccorde ps ue e cee quft u Prcmnt Que e Trté que Moneur e Prnce de Condéft uee es Epgnos ne porte ps qu poer es rmes ors que e dt Crdn er éogné &ne pourrot ps en fre de menton pus qu etot en Aemgne qundeté fgné ms en quen dutres eondtons qu ont erereudc es à cét Ett & u eruce deMeté eront ccompes qu fut donc uor des euretez neees & potues eprt dedts Prnces de executon de ce qus offrent & pour cet efet çuorSs renonceront à toutes Lgues & Aoctons qus ont contrctées uec es Etrngers & à tous Trte prt eners qus ont fts ues es Sujes deMjeté contreon eruceSs ne pretendront ucune choe pres eognement dudt eur Crdn S en ce fnt s e rendront upres deMeté pour erur enuers tous & contre tous comme eur deuor es y oge A"
+        ],
+        [
+            "2   pr s207Sseotet du quuees Etrgerpqus y qnt ft venn & op e peus uret qucçes d Epgne & es Lorrnes veuent e ercer ns que on eur dne ce qus pourroent demnder u preudce du Ry & de Ett S es erouppes qu ont ous eurs nom qufntguer re à Mete en duétrs edrots d Roymerontcerées S cees des Epgnos qu ont à Steny Bourg enGuyen ne & utres eux e retreront &ees refuoent de e fre que moyen Moneur e Prnce de Condé propoer pour es y forcer S Moneur e Prnce de Conty & Mdme de Longue ue rentreront dns eur deuor &Moneur e Prnce de Condépouuor de e prometcre de eur prt S edt Prnce de Conty ne e deprtr ps de toute orte de pretentons S efdts Prnces ont pouuor des peronnes de quté qu es ont uus de donner eurnce à Meté de oey unce qus uy douent & qus recnonceront à toutes L gues & Aoctons qus pourroent uor ft contre on feruce S es Ves & Pces fortfées & grdees ous es ordres de Moneur e Prnce de Condeé ne eront ps remes er ett uquees ees etoent uprunt es preens mou emens SVe de Bourdeux ne rentrer ps dns on deuor &es etfemens qu ont eté fts contre e eruce du Roy depus es preens mouuemens ne eront ps reuo quées &routes es choes remes en ett quees deuoentetre uunt es rtces deDecrton du Roy du mos de Decemre 649 Enfnfut queMet́ ot en ecrce de toutes es choes mentonnées ceus & quEe ot nformée des reoutons ur cee & des eurnces qus peuuent donner pour en rendre executon en certne n que"
+        ],
+        [
+            "os remeédes que Metvoudr ppjot xhx done PEtt et à̀ preent trué oe vee effccPà eun eé ezepe our de un m x cens cnqte denux SnéLOVS &puss Gv2E2V9"
         ]
     ]
 }

@@ -1,265 +1,84 @@
 {
     "entête": {
-        "form": "vers",
+        "form": "prose",
         "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
+            "remontrances",
+            "rhétorique délibérative"
         ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-30",
+        "creation": "1649-08-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-16",
-            "@who": "AB"
+            "@when": "2022-04-06",
+            "@who": "ZC"
         },
-        "titre": "Caprice bachique et burlesque sur la paix.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-10",
-                "#text": "10 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-20",
-                "#text": "20 avril 2021"
-            }
-        ],
+        "titre": "Cantique de réjouissance des bons François pour l’heureux\n          retour du roi dans sa bonne ville de Paris, avec une très humble remontrance à la reine\n          régente.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau624_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau622_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "CAPRICE",
-            "BACCHIQVE",
-            "ET BVRLESQVE SVR",
-            "LA PAIX.",
-            "A PARIS,",
-            "M. DC. XLIX."
+            "Cntque de réjoussnce des ons Frnços pour heureux retour du ro dns s onne ve de Prs vec une très hume remontrnce àrene régente Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Cntque de réjoussnce des ons Frnços pour heureux retour du ro dns s onne ve de Prs vec une très hume remontrnce àrene régente Prs (veuve de Jen) Rémy 649 Lyon Bothèque muncpeSJ F 247/9 3FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsPge de ttre mnqunte 622 Cntque de réjoussnce des ons Frnços pour heureux retour du ro dns s onne ve de Prs vec une très hume remontrnce àrene régente Prs veuve Jen Remy 649 9 pgesprose remontrnces rhétorque déértve Entrée du ro dns Prs 64"
         ],
         [
-            "3"
+            "CANTQVE DE REOVS nce des ons Frnços pour heureux retour du Roy dnsonne Ve de Prs uec vne treme Remonfrn ce d̀Reyne Regente OVEZ & enez e Nom du E Segneur Peupes & Ntons de 3 terre Ms toy prtecuere sment Royume de Frnce re é joüs toy & rends me ctons de eu Deu tout pune de ce qunt et té ur e penchnt dvne rune entere prce & pr mton des ques tu s eté uré prmn ecoure & mrcueue epernces etnt tuë̈ses re euées t perté ton ondnce & t goro etnt 2nteseurdonné vn nouue éct Et e mot comme tu començos detre vn Royu"
         ],
         [
-            "CAPRICE BACHIQVE ET BVRLESQVE",
-            "ſur la Paix.",
-            "AMY (puis qu'il faut l'auoüer",
-            "A ton Ame préoccupée)",
-            "Damon, que tu viens de loüer,",
-            "Eſt vaillant comme ſon eſpée,",
-            "Bien plus, je veus que la valeur",
-            "De ce Capitan de mal-heur,",
-            "Ne trouue rien qui luy reſiſte,",
-            "Croit-il ce que ie ne croy point,",
-            "En quoy qu'en fin elle conſeille,",
-            "Me vaincre en tout comme en ce point.",
-            "Quoy le drole oyant publier,",
-            "Mes exploits qu'il a veus à boire",
-            "A ſi bien pû les publier,",
-            "Que de m'en conteſter la gloire,",
-            "Sçait-il que le verre où je boy",
-            "Long d'vn bon demy-pied de Roy,",
-            "Tient chopine bien meſurée,",
-            "Et que le celeſte flambeau",
-            "Iamais ſouz la voute azurée,",
-            "N'en a, dit-on, veu de plus beau?",
-            "Garçon, mon Verre: n'eſt-ce pas,",
-            "T'en rendre teſmoin oculaire ?",
-            "Combien de fois en vn repas",
-            "Vuideroit-il mon ordinaire ?",
-            "O le grand abateur de bois !",
-            "Ie veus le mettre à ſes trois fois,",
-            "Contre le galand vne ſeule,",
-            "Et luy feray ſans efforts,"
+            "42 me de duon de deordre & de confuont rendu pron dmre proudence r preme edeoer re trnquté & u eu des hnes & des méfn e etnt deué́e &doucepreferé pr vne omté vertement Roye & Chretenne e ut des Peupes ux venmeux onoreemens des fteurs qu ne reprent que e troue S eteé́ nousredonné notre Roy &chn génuct funete & mente de on eo gnement en vn ourheureux & pen de réjoü nce Et toy Ve de Prs ŕoü toy & chnte u Segneur vn noueu & dmre Cntque Tu etos tomé́e du pus hut come depro perté & degore dns vn me de m heurs Et ces ugutes noms de Reyne des Ves de meruee de Vnuers que t rchee t grndeur & ton deceux eour tont cqus qt fy à̀ etre chngez & perdus tu s eté ur eponct de deuenr opprore du monde & tout eneme ojet & exempe e pus mennerue ne ee eene e pennenn desg ders eterte Msdune & me cprsdeue proudence du Roy des Roys ynt pré e retour tnt ouhtté de ton eune & ncompre"
         ],
         [
-            "4",
-            "Auec du Condrieux par la gueule,",
-            "Rentrer ſa Gaſconnade au corps.",
-            "IV.",
-            "Demain ſans perdre plus de temps,",
-            "Dy luy fidelle & cher Alpheme,",
-            "Que s'il en veut le paſſe-temps",
-            "Ie l'en feray Iuge luy-meſme,",
-            "Dy-luy (deut-il s'en irriter)",
-            "Que ſi ie luy fay bien quitter",
-            "Vne vanité qui m'offence,",
-            "C'eſt le fruit du ſoin qu'on a pris",
-            "De m'enſeigner dés mon enfance",
-            "Vn art qu'il a trop appris.",
-            "V.",
-            "A peine voit-on ſeulement,",
-            "Conté quatre mois de mon âge,",
-            "Que mon nourriſſier Allemand,",
-            "Dit, il ſera grand perſonnage:",
-            "En effet, ſa femme vn matin,",
-            "Ayant de trois gouttes de vin.",
-            "Moüillé le bout de ſa mammelle,",
-            "Ie m'en vis ſi bien appaiſé,",
-            "Que depuis ie bruſle comm'elle",
-            "Pour ce jus dont i'auois taſté.",
-            "VI.",
-            "Ainſi dit-on quelque liqueur",
-            "Que d'vn pot neuf l'argile eſt beuë",
-            "Elle garde long-temps l'odeur",
-            "Dont vne fois elle eſt jmbuë,",
-            "Ainſi nos parens quelque fois,",
-            "Mais jnnocemment toutefois,",
-            "A ce meſtier nous acheminent,",
-            "Lors qu’il nous donnent à teter:",
-            "Des Nourrices qui nous en yurent",
-            "Plutoſt que de nous allaitter.",
-            "VII.",
-            "Pour te nonſtrer ſi i'ay raiſon",
-            "Sans en chercher vn autre exemple,",
-            "Cher"
+            "3 nompre Monrque te v redonfe vne nouuee pendeur eucoup pus éctntequeprecedente & comme es ours cmes &fe rens qu uccedent ux puyes & ux orge proent uec pus déct & reoüfent cu coup duntge npreec de ce e Atre e fer entr pus umneue & pus chrmnte pres vnong & f ennuyeux écpe Ouy no tre eune Roy et vn Atre enng ou putot n Soe dont pprton dot rur touses Su jets cr es ryons & es nfuences dpent es courons es pus eps & redoont à nent es pus oeures nuées de nos confuons & de nos eurs Cet nchre ferme de notee eperne qu nous deure du nufrge & e h vre & por pus euré de otre urBenez donc e Segneur vous tous qu etes rns de cette grn de Ve Srnds & petts ces retentr uques u Ce vos ccmtone de oye & queee de vos cœurs ouure vos ouches & deée vos ngues pour fre écter votre vox en exuttons & remercemens en uers e Touunt Chntez & reoü̈ez yous fes de Prscr rtúe de notre Roy et cogpev prfyn éndos f orvs s otre on eu vge o qevoe etd e & ue u rggrd et hunt & de ne guo E"
         ],
         [
-            "Cher Alpheme noſtre maiſon",
-            "Nous en fournit vn aſſez ample;",
-            "I'appren de ce que l'on m'en dit,",
-            "Qu'ainſi Dame Alix me rendit",
-            "Deuot au Demon de la treille;",
-            "Et que la putain aualloit,",
-            "Hauſſant le cul de la bouteille,",
-            "Autant de vin que moy de lait.",
-            "VIII.",
-            "Quelque doux qui fut l'aliment",
-            "Que ie tirois d'vn ſein d'albâtre,",
-            "Dont ſon vieux cocu d'Allemand",
-            "N'eſtoit pas beaucoup Idolatre,",
-            "Soudain qu'elle prenoit ce ton;",
-            "Laiſſant là le jus du teton,",
-            "Dont ie me ſoulois ſans obſtacle",
-            "D'aiſe leuant mon petlt nez,",
-            "I'attachois à ce doux ſpectacle,",
-            "Mes yeux à le voir obſtinez.",
-            "IX.",
-            "Le matou qui d'vn iour entier,",
-            "Et quelquefois bien d'auantage,",
-            "M'a joüé tour de ſon meſtier",
-            "Sur la chair ou ſur le potage,",
-            "Ou le chien qu'vn bon appetit,",
-            "Comme à ſes Roys aſſuiettit,",
-            "A tous ceux que la table aſſemble,",
-            "Tenté dés le commencement",
-            "De faire ce qu'ils font enſemble,",
-            "Les regarde moins fixement",
-            "X.",
-            "Mais i'auois beau conſiderer",
-            "La liqueur, au Diable la goutte",
-            "Que ie pouuois en eſperer",
-            "De celle qui l'aualoit toute,",
-            "I'auois beau luy monſtrer le bec,",
-            "Mettre vn petit flacon à ſec",
-            "N'eſtant pas ve grande affaire,",
-            "B"
+            "6 Nte Roy en méet̀ mous & nous è y t venu vter on grnd troupeu &pro net de e coneruer& de e ptre en px & en douceur tous es ours deve prmy es fec e de oondneous es eres upres dePeteé́ & deutce qu eues mntennent des Thrones & trent es enedctons cee tes ur es tetes couronnées & ur eurs Sujets Sonte fes de Ps & rerdeZ e Roy Lovys uecouronne donmtMerecouronne otre C e mé et decendu en n Vcrgeru prqueet des droges remnqoen fn de pre on Topeu s des Cnt es erger pry emuguee cet à dre prmy es qces deces & es douceurs qu prepreàes Suets Etvous verdsquttez vos crnrés & vos p prehenons pus que notre D vderedmne ncore vne fos à nous qu et re ou de fermerTempe de nus & deogner de on Ps e roue &dcorde & vous fÀ r oür vous & vos enfns dun reprft u mou d grto vnucree de toutes es u res tons AsSon tues nousft operer vn Sece de de r o pretnccopp estcncs de d gtefue & dtoes enme qe rnne pres foy E u eu emdt ue Aoyume dos Feurs dedLygot déçhor de"
         ],
         [
-            "6",
-            "Elle l'épuiſoit tellement,",
-            "Qu'il n'y reſtoit pas dequoy faire",
-            "Ruby ſur l'ongle ſeulement",
-            "XI.",
-            "Combien me coûtoit en Hebrieu,",
-            "(Car des enfans c'eſt le langage)",
-            "Combien me coûtoit, iuſte Dieu,",
-            "De plaintes ce cruel outrage !",
-            "Fruſtré de ma part du butin,",
-            "Il faiſoit le petit lutin",
-            "Sur le giron de la carongne,",
-            "Qui quelquefois pour m'appaiſer",
-            "Donnoit à ſon petit yvrongne.",
-            "Sa bouteille vuide à baiſer.",
-            "XII.",
-            "Bacchus propice à l'oraiſon,",
-            "Que ie luy fis mon cher Alpheme,",
-            "La punit, & me fit raiſon",
-            "De ce trait de rigueur extréme",
-            "Pour vanger ſon petit valet,",
-            "Ce Dieu changea ce vin en lait",
-            "Vn certain iour de la ſemaine,",
-            "Et par vn prodige diuin",
-            "Des deux tetons de l'inhumaine",
-            "Fit pour moy deux ſources de vin.",
-            "XIII.",
-            "Tu ris, cher Alpheme, & doutant",
-            "Des auantures d'vn yvrongne,",
-            "Tu crois n'oüyr en m'écoutant,",
-            "Que des contes de la Cigongne;",
-            "Mais i'atteſte de ce deuin,",
-            "Qui dit que i'aymerois le vin,",
-            "Le myſterieux Aſtrolabe",
-            "Que ie ne veus, ainſi qu'vn veau,",
-            "Si ie te mens d'vne ſyllabe,",
-            "Boire deſormais que de l'eau.",
-            "XIV.",
-            "Voy donc Damon s'il t'eſt preſcrit"
+            "premere pendeur nous e vsrrons en tot u des de tous es Empres du monde pr cet e vnon prfte qu ec deforms entre e Souuern & es Sujets Son rruée et e ceu & e temognge e pus euré de on ffeCton enuers on Peupe & epus creé́ en qu pne ondre es eurs ̀ on mour & es orer à vne prfte oheync Toures nos foees nos crntes & nos meé́fnces seunoütront & es fux vges de reeon & de ceux qu pour nous perdre edentcetrenos Prote cteuts rtomeront é́n vte Lemque dont oh set preé pour nous chtffer ux emotons ne couurr pusdeurde es mpuus Po ques qu ous des pretexts erompeuts ont vouu engger ou putot precpter ce Royu me dns es pus cruees guerres &pus dé pore mere quucunoonrche t ms eteé pongéeoMs ô Deu nous cnofonstree ment que votre ontévn ong tout prtcu er deFrnce & que votreproudence fuo ce gt touots pour fcoeruton cr ors que roureprudece & oute force de ceux qu qnt ohgez deoneruer & de prore gs eet etre per dués & hrués & que e rud de nut psuphh de uydo n"
         ],
         [
-            "7",
-            "De te remettre à la campagne,",
-            "Porte luy ce cartel eſcrit.",
-            "D'encre faite de vin d'Eſpagne,",
-            "La ſubſtance en eſt que demain",
-            "Ie veus voir le verre à la main",
-            "Le drôle, tant qu'vn de nous creue,",
-            "Qu'il vienne, & que c'eſt vn duël",
-            "Qui n'eut point violé la tréve",
-            "Faite entre Paris & Ruël.",
-            "XV.",
-            "La treve ? ah ! c'eſt mal appliquer,",
-            "Vn terme dont ie ſçay l'vſage,",
-            "S'il ne donne pour m'expliquer",
-            "Aux affaires qu'vn faux viſage,",
-            "C'eſt imprudemment que ie fais",
-            "D'vn doux auant propos de Paix",
-            "Vne Parentheſe de guerre,",
-            "De noſtre innocence charmé,",
-            "LOVIS a poſé le tonnerre,",
-            "Dont ſon courroux l'auoit armé.",
-            "XVI.",
-            "Tous nos maux ſont éuanouïs,",
-            "Et r'animant noſtre courage.",
-            "Nos aſtres les yeux de LOVIS",
-            "Percent & diſſipent l'orage,",
-            "Preſte deſormais à punir,",
-            "Quiconque oſera deſunir",
-            "Nos coeurs les vns d'auec les autres:",
-            "ANNE qui nous doit redonner",
-            "Ses delices qui ſont les nôtres,",
-            "Va bien toſt nous les ramener.",
-            "XVII.",
-            "Que de feux en cent lieux diuers",
-            "D'vne iuſte reconnoiſſance",
-            "Vont faire aux yeux de l'Vniuers",
-            "Briller noſtre réjouïſſance !",
-            "Que nous vuiderons en repos,",
-            "De verres, de flâcons, de pots,"
+            "8 ner ucunecours ors vous etendez e votre mrcueuemend &deurez oût à̀ coup Au Deu ecourme à̀ vous eu en douest etre donnéesgore & es remercemens & nous deuons confeer quen nous ny en ceux qu nous gouuernentnyque foee & con fuon de fce Cet vous ô grnd Deu qu uez npreé e cœur deReyne & des Prnces du Sng & qu eur uez ft connotre quecemence &douceur ont es pus grees & es pus fces moyens pour ggner mour & oeynce des Peupes Cet vous qu uez ft connotre àReyne que e Roy et pus etrotement o gé à es Sujets qu eeme encore queeuy t donné etre cr e Roy omne Fs uyeteé donné de Deu ms comme Souué rn & eomme Pteureteé detné pour o Peupe comme Roydot demeuret̀ Pts ou on Throne et eeuéuec pus d oc t & pus de pendeur queurs pour gouuernetmchne derncedot oette Ve et e grnd ncer &prnojpe to Comme Fsdoe oheynce de o enfdceàReyne Regete uques àmnorté Et etnteme & e prnp moe de Etsne peut énn Seqe que dns e eus dce uy"
         ],
         [
-            "8",
-            "Armes d'vne guerre innocente !",
-            "Enfin que ſelon mes deſirs,",
-            "Du ſein de la Paix renaiſſante,",
-            "Ie voy renaiſtre des plaiſirs !",
-            "XVIII.",
-            "Puis qu'à nos troubles inteſtins",
-            "Le Ciel appaiſé remedie;",
-            "Les jeux, la danſe, les feſtins,",
-            "Les balets & la comedie",
-            "Dans vn ſiecle d'or nous ſont Hoc,",
-            "Auſſi bien qu'à Brelic-breloc,",
-            "Ce fameus threſor de Veniſe,",
-            "Qu'au Badaut pour vn pauure fou",
-            "Si ce plaiſir il ne mépriſe,",
-            "Il fait voir par vn petit trou.",
-            "FIN."
+            "uy à mon quonuee frre eour foro ne de tomer dns des foees & des defn es exremesLes ojets preens donnent et ugmenent mour quon por eur perfectons msenee et etognement effcent en fn deme ore et defoe dée des hommes es choes qu ement y etre e pus unt engruée Et prrcueredont dns teprt des Hrncos quu ymns uec pffont eurs Prnces es veent vor uec fcdreée rouns rn de f nup porte que ces mnxmes nouees quâce de es rende nes pour es eende os mes et qures vudent nedurœcre cou umse deerners Rnys depremrre gé qu deme oen son enferz ds d moee et dns oucpedn que s éM Fes du ps uoee frp touteFutuorneNous çuous en que e dee de notre ugte Rene è eoeurs cnre tceu qo conoeuoens e veesenpepenotqueee cœur et espenées rop eeues eeop oyes put conent ̀ den de defhez Es ee oous douueà prfe vne prüue ene ce punqo ede os nd ntneoy e quo Je odue uS hoonepeue furpe C"
+        ],
+        [
+            "otre ue yse gore& Meté eetnte d unt es yeu de es Sujers qu en ont rus d e & qu pour vngrnd en fct uy don neneme enedctons & ry ouhttent vne ôngue ve pene de fecces mudns en eur cur tous ces houx & ces orftyes qu pr eurs effroyes vox ont ché de ternrutre &pureté́ deveLes pus gens de en & tous es vertes Frnços ets reous derouerer comme vne dunté ve & uy rendr toutes es oey nces quee exger de eur fdeté & de eur mor çponreu qu uy pfe de nous ymet f recpoquexene & de fre tous eseffors pour redonner àCretenté deode ne on ue & eurec P &stter pr oe toyenm Erpre ho n eement ur e t œur de es Sujes msu urodus es Peupes de Eu ope qu xppeeront à̀ ute thre d Reyne det&returtrce de CheetereéEr tendnt que e Deode Px uy fegrcede peuuot ceomptceyte grrde œure ee truer uec tes Prndes duSny & ueesSegners de fon Cono à cner es émotdns des ounces reformees usà eeprmer desuxceues tpndsdes fncers"
+        ],
+        [
+            "&e à ouger es Peupes des nupportes m poons dont on espreque ecez t pou come des e fcts que nous ttedos demn ee fer on pus ordnre eour à P rs uec notre eune Roy ee oter es méfn ces & es mtegences qu pourroent re nttntre es Mntres &e es Prérmes ee retr e comere et ondnce ee fer refeurr es Ars et es Scences dns es Ves et Agrcuture dnscmpgne Et en fn Mjefté veut ee rendr ce Royume pcfque et ornt pr deus tous ceux deterre e? eeur untge deftre Mere du pus grnd du pus econpy et du pus vctoreux Monr que q otu monde de Regenre des pus heu euox etde pus goreux Peupes deChre tenteéEtnt n rte tteerte que es Prnces qu regreneureSjes dvn e de pté ont ne fos puoz que teéx qu es trttent uec cors us goe Ces pons mpe eueues mertnt en deoede eur vge uf eu queereprr pr oouementenffm mé qp ne cohuee ds on àMjeteé des Roys euernne ens ée dnmé uff A crute dmor etœp qunet ogé e euepoûter"
+        ],
+        [
+            "2L éngence u et treeente ux Rrnces et toute eur condute en dot etre de poüéess veuent quon es yme ueu dees pprehender Cet vne fure nferne qu ne e rept que de ng et de crnge et qu ne trouue ucune rsfcon que prmy es n cendes et es creges ceux qu ment eus Chet et qu veuent etre creus es mtteursdouent fuys commepete et tcher de ren dre toufours e en pour e m et vncre eurs ennems en eur ent Le Roy Dud quoyquez ccoutumé u ng et quoy que otre Segneur ne nous eut ps encore con mndé́ de prdonner à ceux qu nous mud ent eet qu nous couren us) prdonn pourtnt à Scnch fs de Guer quoy que dns fon d uerté fuynt deut Armée de on fs A oneut mudt qu eut nnreé qu e An eeond uee fut moequé́ de hy ee qu uy eueé́ des pen Smt res er à es gens Les Htores prophnes nous furnent u duers exempes qu nou font vor quegenerocémercorde erce menceehuent e ven eécs nerueeuxvertu et gores des pus gtds Prnce Et pource q concenetre onne Reyne nos perons queeteé́ uec quee ee tcre es oeos"
+        ],
+        [
+            "3 enedctons du Ce t mour des Pepes Jeuuede cete monueude &e douceur pen de Cemence enuers tous ceux qu out eteémheureux que de uy uor deé́peu Le Roy Somon qu etor e Prnce des Sges dt quePeré rend es Roys en heureux pr de fus e re te des hommes Ms queCemence nen fs ps rmons pus quee es rend eneson queque fçon à̀ cey qu eurdonnéetre & qu eséeueés u deus de tnt de mcrs dhommes pus forts & pus rouftes queux qu poutcnt eur ont uetrs Songez donc à ce grnde Reyne & eom me otrecœur et portéquà vous rendre toute orte de fdeé & doence nous vous up pons pour mour de ce Roy des Roys qu vous pe de depoüer touteorte de hne & de vgeoe & uous regrduenr uecmese fnchequvn pete dot uor enuers es enfns vous çuez Mdme que Deu ne eut psmort du Pecheur ms f oonues o &vr pus donc que nous foses en erement conuerrs & que nous dérons de demeureretrortement vns à otre Roy & à vous doonez nousve & e repos &e nous vous enrons éterneement D"
+        ],
+        [
+            "4Et pus que vosez f ed conmehceous ynt rmen notre Ry & que ous ee prouuons def es onnes voontez de voftre me Pr vngrnd effect contnuez Mdme et oheuez vnegoreue entrepredonnez e cme enter àChneftenté er technt queque choe de vos nterets mondns un cez ceux de eus Chrt qu vous prechepx t qu decre en heureux ceux qupour cent Lguerre des Cthoques contre es Cthoques deœur contre e frere du ne ueu contre once et cndeue et notre Se gneur nous decre que s offrndes de notre cœur ny cees que nous portons à Are z uy peuuent etre greesupruntque de es preenter nous ne nous reconcons uec nos prochns ec uec nosfreres ct que nous nous depoüonsdetoue nmté et rnoue2 2 Lexecre Regcde que es Angos ontcomms depus peu contre toutes es Lox D nes et hunnesfer vn edgne uer pour œrcesveur des Frnços etdes Epgnos vous yetes nrerefeé́e Mdme prnt de pu ntesrons outre cees de Ance et du Sng et votre eté es çten que ecros etre nure de vous es rmenteuor e"
+        ],
+        [
+            "j us dry oneque s es Roy eterre douent receuor pr cotroupe dr4 hre trtteémet f àperone de Chres oy dAngoeterre comme s duot eté fr eur propre peronne Ce cree et mptoy outrge dt mttrort ndghron de tous es Souuerns et s ne douent ms ceer u ques à ce queftns vns eneme s nyent vngé cette morthonteufe ehorre qu eret égement nureue à cs Qutre u u r degore er du merte tout enemu de frguerre à de cruresHeretques et de reeuen ef meme temps ynDdemefoueéux peds t mervn cepee pore pr cetre pour e eme re enre es mns du euhé Roy Chresg en et e egcme herter e uque tous Prnces deurope ne pédént refuer ns hon re e ocots que tous es ge deheneu d mnden enon orCfue& genereu Guert qu fut er exercer votre cour ge cetoàvos hut eront égemenr go rer dns emmode& ertoreés deunt Deu em morcet dns vhe utegnerueconde ce qu fut hrderv meux que dns ceeqé nouou fonsà proent que pdrt que dx fet deng fdee & qu"
+        ],
+        [
+            "us es ousrs ffot & mne de onds es com eChretenté Vo Mdme où voft Meté dot em poyer e rete deRegence pour en rendre h ore enterement goreue & en meme temps cmer es orges deFrnce pourremettre dns vne goreue trnquté fn duor e contentement & honneur de remettre entre es mns du Roy (dots qu ur tten nneée deMorté on Ett u ornt & rrom hnt comme vous uez receu des mns du feu Roy uee cete ugmenttom de gore pour vous que vous ynr eté é enggeédus vne guerre eftrngere vous e uy renrez pcfque dedns & dehrs es uets etnsou gez & ouyns dvn repos prft u meu de ondnce H Mdme quee oye & ue e tsfton ures votreMroé́ ruy ft grce d ccundout cs thoer comee ouhtce certes ee e poutr vnecr detrepus gorures & pos heueuosde tontes es femhes & otrMoftéporpes eefte de vutns de fecd & denqumé qe Reye qu ît s prté Shemre ttn dnmorq doucun d dxmo dme qu vusrhoncrereutr hemunt ns cee"
+        ],
+        [
+            "7Et ors que noptre rue Royud pée nee & on doeence u meu de on Royu me pcfque en pprennt toutes es choes qu uy eront neceres poure rendre prfe de corps & deprt & pour goreuement & heureuement regner Ms prtcuetement qund çur quutce et ource de to ce teonté More que rencontre dns es op rtos ou dns es htudes ce quogé esePhoophes deuy donner e noh de Vertu Ver Vnueree prce que toutes es utreésup vve poent comme eur fondement & comme euree prncpecrtot queutce hndoue d veurprudence &érté ees perdene ces noms goreux & utres & ne ont pus quvne ferocté́ dngereue vne drote four ene & vne profuon ndcrette de à vent quegore qu utveru comme o omre ne e peut trouuer dns vne cton contrre àutce es pus grnds Prnces ou eurs n tres ne çuroẽ̃r uontreuenrà ce quee ordon ne ns e deshonorer Etpus hute veu desConquerns qund ee et empoyeée u ou en de oppreon & du crme ne peut p e que pounne force hrute pour e voon ce ntereé́e & pqurvn mouuementmpetueux E"
+        ],
+        [
+            "de oeose & d ege Qud djeMeté́ onn ene e on eneen e enr de en denote ques donent etre es Prnes de terre cet à çuot Roys de utce & Roys de Pux crprtees eur trone et ety & rendu fo0 rne& perdure Et que cete cence ve ement Roye oger à cher deCour es mpes es foures es teurs et generement tous ceux qu preferent es vces àVertu & qu nont deunt curs yex que eurs n teres eurs es& nfmes vouptez et eur Tyrnne Et quu contrrecreer et ee uer es vertueux & es vns & que onro e ee Ae du ute & on Scepre e outen de ceuy qu mrcher en toute droture Aors toutes es ntons e vendront dorer orstous es Prnces deterre e crndronu Et ors comme dtSpence Eterhnee vetr uftce pour urceprendr peur rmet e ugememt vert e & Snteté pour puos numcegu er s cere pur epe &s ous mues e ondr ̀ uy pour comré es mecns & es nfuees e ̀mtton de Snct Lousrorer Etendrt decrox contre es Mhometns et er e cré Conducteur des troupes fdees pourconque te deeruem terretre et pourecom"
+        ],
+        [
+            "9 ement de cete Prophere qu ft tremer de peur e Turn et e Cront qun R oy derce de Snt Louys dot defure eur Empre Cetrues et genereux Chretens qu fut er empoyer on courge etve ce e vry ct dhonneur et e Tomeu mgnfque que nous deuons ouhtter pour e couronne ment de notre ve et où notre reputton er no tre memore ne peuuent ms mourr Et pres ce nous et notre Roy deuons etre eurez qupres qu ur regné cy s en équté́ et en utce et que nous urons comtu e on comt ous es upces nous prendrons poe on deeruem Ceete où̀Couronne n corrupte de gore et vne fecté nenrre recompeneront nos truux dns Eternté FN"
         ]
     ]
 }

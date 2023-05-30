@@ -1,152 +1,71 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "nouvelles",
+        "form": "vers",
+        "genre": [
+            "dialogue",
+            "chanson"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
-            "@who": "AB"
+            "@when": "2022-10-04",
+            "@who": "KA"
         },
-        "titre": "Le COURRIER Bourdelois, apportant la nouvelle de\n          l'heureux Accouchement de Madame la Princesse, et celles de l'Estat des Affaires de la\n          Guyenne",
+        "titre": "L'APPARITION du Mazarin au paysant Gascon apres le\n          naufrage luy racontant ses adventures de l'autre monde",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
         },
-        "langue": "fra",
-        "fichier": "Labadie136_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "langue": [
+            "fra",
+            "other"
+        ],
+        "fichier": "Labadie12_BORD.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "QYRRIER",
-            "BOVRDELOIS.",
-            "onr n ovv ntun",
-            "A PRNCESSE",
-            "D e a",
-            "Du a2d. Septemb. 165a.",
-            "A PAR1S.",
-            "M. DC. LII."
+            "LAPPARTON du Mzrn u pysnt Gscon pres e nufrge uy rcontnt ses dventures de utre monde Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté4 septemre 2022 APPARTON du Mzrn u pysnt Gscon pres e nufrge uy rcontnt ses dventures de utre monde Sns LeuSns Nom65 Bordeux Bothèque muncpeH 2074 (9)FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Document en gscon2 APPARTON du Mzrn u pysnt Gscon pres e nufrge uy rcontnt ses dventures de utre monde Avec mprudence de son grnd Cmrde Bernrd EnsemeChnson dHrr Bernrd & dhrr Nnon S65 2 pges Pèce cureuse en vers frnçs et ptos ordes Afn on trouve « Cnson nouee de Bernt et de s Nnon Sur r V oor toesme » etc B de Bordx 25994Cette mzrnde urt été rémprmée en 788vers dogue chnson"
         ],
         [
-            "3",
-            "enrpd",
-            "R",
-            "&&Sdſeſeori ee",
-            "deeeE",
-            "7D 1",
-            "D",
-            ".AV I I L I",
-            "BOVDELOIS,",
-            "Apportant la Nouuelle de l’heureux",
-            "Accouchement de Madame",
-            "la Princeſſe;",
-            "Et celles de l’Eſtat des Affaires",
-            "de la Guyenne.",
-            "De Bordeaux le 6. Septemb. 1653.",
-            "A nuict du 9. au o. d",
-            "LLl’Archeueſcheé́ de certe Ville,",
-            "la Princeſſe accoucha heureuſement",
-            "d’vn enfant maſle, que les Medecins, quoy",
-            "qu’ils le iugent n’eſtre que de ſept mois,",
-            "croyent eſtre de vie. Nos Habitans ont te",
-            "moigné par les Feux de loye qu’ils ont fait",
-            "ſur les Foſez de l’Hoſtel de Ville, & dans les",
-            "Ruë̈s, celle que leur donne la naiſſance de"
+            "LAPPARTON DV  MAZARN  AV PAYSANT  GASCON  7 A  Apres e nufrge  LVY RACONTANT SES  duentures de utre monde  AVEC LMPRVDE NCE DE SON  grnd mrde Bernrd  EnemeChnon dHrr Bernrd  & dhrr Nnon  M G L"
         ],
         [
-            "4",
-            "ce Prince Bourdelois, qui doit porter le nom",
-            "du Duc d’Albret.",
-            "Les maladies continuelles ont depeuplé",
-            "quantité de pays de la Gaſcogne; où le pain",
-            "meſme eſt rare en beaucoup dendroits, tant",
-            "la diſette eſty grande; de laquelle cette Viſe",
-            "ſe reſſent auſſi, trouuant à dire ſon abondan",
-            "ce ordinaire, & acheptant tout beaucoup",
-            "plus cher qu’on n’auoit icy accduftumé. Ls",
-            "bleds que nous attendons de Bretagne, &",
-            "d’autres endroits par mer, nous font eſperer",
-            "que la cherté́ du pain y diminuëra.",
-            "Monſieur le Prince de Conty, qui eſt à pre",
-            "ur malade, le Duc de Guiſe, & le Comte",
-            "de Maure, grand Senêchal de Guienne, ont",
-            "ſouuent aſſiſteé́ aux Aſſemblées de l’Ormée,",
-            "qui ſA- dans noſtre Hoſtel de Ville, la",
-            "conſideration de ce lieu, la liberté- des ſuf",
-            "frages, & la preſence de ces deux Princes,",
-            "qui prennent auec nos Bourgeois pluſieurs",
-            "reſolutions pour le bien de cette Ville, do",
-            "uent faire changer d’opinion a tous ceux d",
-            "Royaume, qui ſe ſont laiſſez perſuader que",
-            "cette Aſſemblée n’eſtoit qu’vn tumulte, &",
-            "vne faction de populace. Elle eſt propremrene",
-            "vn"
+            "N   ?  6      4  s  ?  r? o  A é  r  J 7 28  4   r e A 5  A   2  2    9   3  J    e  32 7   24      A A 8 A A  2 9    J 5 9  r   e5 r  4   r    (  g  NN A N    LA  e  5  2 e yeH or e r  e 9   2 eeet r           ? At    e   7  H4  SA       r s   8  4 6  A ?  2  s       o   L  9    2 A  2 v     ee   e 2  2    9   5 rr r V  OD 0    N CATL LE 9  2 V  AAtee e NS RS n SVA S    0  oeus oeop   t &  AA A p y ry 7T L V P  24 o    2     6   2   2 é o  L e qeJet V5  2 A  2 A   TA A   D 7   LAMA J  eEE y7  2  S  A T    24  2 E   e u   J   s     3      9  3  2  2      S      23  2      2 4  0   L"
         ],
         [
-            "vn Conſeil de Ville comipoſé-de tous les",
-            "Corps meſmes de tous les Officicrs du l’ar",
-            "lement, auſquels l’on fait declarer qu’ils n’y",
-            "entrent que comme Bourgeois, pour les ave",
-            "tir de ne ſe donner pas-l’authorité d’entr",
-            "prendre ſur la liberté des ſuffrages Certe",
-            "Aſſemblé́e ſoû̂tenant que dans les Deſiber",
-            "ions des Affaires de la Guette, oùil’sagit",
-            "du ſalut de tous les partieuliers, les hanges",
-            "ne donnent que le rang d’opiner,--& non",
-            "pas vn pouuoir abſolu d’ordonner toutce",
-            "qui peut leur ſembler bon.",
-            "Certains creanciers de quelques Meſſieuts",
-            "de ce Parlement ne pouuant en eſtre payés,",
-            "à̀ cauſe qu’il ne ſe trouue Huiſſier ny Sergent",
-            "qui oſe ſeur porter aucun explodit, ſice n’eft",
-            "de leur conſentement, ont eurecours à ette",
-            "Aſſembleée, qui leur a enuoyé rereſenrer",
-            "que les Offices de Conſeiller en la Cour ne",
-            "les rendoient pas exempts do payer leurs",
-            "debtes.",
-            "1i22.",
-            "Nous auons aduis que les Troupes du",
-            "Roy, commandées par le Marquls Du-Pleſ",
-            "ſis Belliére, -leſquelles fait monter à trois"
+            "Atuequu ttu D D A  D 7 R7 7  LAPPARTON DV MAZARN  u Pnt Gcon pres e nufrge uy  rcontnt es duenmtures de utre monde  Auec mprudence de on grnd Cmr  de Sernrd Prnce de Loche  MCHE V prnt d̀ GVLHEN  V E peru te compy tu que oué̈s he cree Que ues ere mort pproche enguy ee  TNes pe uo euut qpe e enure s  GVLHEN  Per cp de u compy jou crey que ous reys  Njes ps pou ququet tte my etrde  Demndts ̀ not ques mon grn cmrde  S et & jou tous deux dcorde de hu  Nou y fren orty toute rme peu quu  MCHEV H mugreu ou ft te pe cou men trote  ou coune guy ous ps oun peu &cote  GVLHEN  Peru crezy queset & ques reutt  Anem ourde per eertt  Ho hey Mzrn depuy qunengude?  MAZARN  Hes mes ons mys que etrouue rude  y ft tous mes efforts pour ne reuenr pus  Entendre vos reproches en dcours uper fus  en y de toutes prts oreettuë  Quencorpres m mort ce depr me tue  MCHEV  Coumenpres t mort tu que pres nquoûé"
         ],
         [
-            "6",
-            "mil cinq cens Hommes depied, & ſept ces",
-            "Cheuaux, aprés auoir demeuré dans la ain",
-            "tonge l’Hyuer, & preſque tout l’Eſteé paſſe,",
-            "ont trauerſé le Perigord, & ſe ſont iointes",
-            "prés la Riuiere de Dordogne à̀ celles quiſont",
-            "ſoubs le Commandement du Comte de l’Iſle",
-            "bonne de-laà la Garonne. Quelques-vns",
-            "croyent icy que ce Marquis a ordre de la",
-            "Couide conduire ſes Troupes deuers la Ca",
-            "talogne.. Le Regiment de nos Bourgeois eſt",
-            "retourné dans fon poſte de la Baſtide, apres",
-            "’eſtre retiré de deuant le Chaſteau de la",
-            "Bre ui eſt à trois lieuës de cette Ville;",
-            "laquelle plae gardée comme elle eſt par ſoi",
-            "anre ommes de pied, trente Caualiers,",
-            "& pluſieurs Payſfans; il a reconnu ne pou",
-            "uoi prendse ſauonon, qu’ou’ n’a pas vou",
-            "lu faie coduite; le Baron à qui elle ap",
-            "parienp, & qui a eſté bleſſé aux, ſorties qu’il",
-            "a faite ayao poms d’eſtr neutte, Toute",
-            "cette Prouince ſoûpire pour la Paix, ueſou",
-            "haiteaatc uien tinoque de voir qu’a Ja luy",
-            "preſenrelaſſoré Tcutes ſos, Villes, & pat",
-            "ticulié: cruntu ettnialleale eſteitpti"
+            "4  Et cu per pn moury que ou tg e coûé  Ben ç̀ gros pnon cr den que te y  ou oy que me cns de ton corps engun py  H mru que t mn es cude h Gu hen  ou ruy per e toucqut cquet en  Et es pus cut quvn fer ques u huc que huguege  S e ous touqu non ges pus emege  Aquoes vn ry de & non ps Mzrn  H denguen de ruure ou de gue deu n  MAZARN  Sçche mon on my que ce peu de ruure  Et du me ̀ egrd de cee que endure  MCHEV  F des f qun meu  MACARN  Ouy treertnement  Cet du me ̀ eg de mon ute tourment  Ms outre ce grnd feu(ce qu me deepere)  e ne pus ren trouuer qu ne me ot contrre  Le Ceterre & eu & tous es nmux  Lenfer & es demons tout concourt ̀ mes mux  Ne croy ps que e os en corps cette Emnence  Qu fot cy deunt tremer touteFrnce?  e ne us que on omre errnte ns çuor  Trouuer e mondre eu qu me veûe reuor  MCHEV  Been u fons dnfer que per quet ec̈re  S tu neres t cutou te metry en ̈re  Comme derneromen  MAZARN  Mon my cet en vn  Que tu pourros uor vnute deen  Cren tu me vos e ne us ps ppe  e ne us quvn eprt rrnt & mere  Qu ne me usmontré que pour te fre vor  Lett"
         ],
         [
-            "d’oublier tous les mauuais traitemens qu’el",
-            "les peuuent auoir receu de la Cour, & de",
-            "ſe preparer par toutes ſortes de ſoumiſſions",
-            "à r’entrer dans les bonnes graces de ſa Ma",
-            "jeſteé.",
-            "FIN."
+            "LEtt où tnt de gens deroent me çuor  TT  e tr ne mon enfer & quoy que vgonde  Vne pene me ut qu n pont de econde  Quetu me pouuos ccorder du o r  Peutre e pourry contenter on der  MCHEV  Hey doncques temen & pûy y ten u de  E ne cu cependen rempymn de e  Per vn puc doucy e mu que tu ms het  Que nou pouyrey dourmy eeu d quefte net  MAZARN  Sçche donc mon my que ors que t mce  Me ft en metrngnt vnmuus offce  e ne fus ps ot dns e nomre der morts  Que e qut ty ç mon m ere corps  Emen y tout drot ̀porte ceete  Où mon ccu fut ps que ceuy depete  Là tous es ons eprts dvne commune vox  Crerent u voeur u voeur des Frnços  Snct Mche( qu e dt votre Ange Tutere)  Sdunc e premer tout rempy de coere  Et mynt ttu dvn grnd nomre de coups  Cet n me d que on tr te es oups  Qu e f gnnts res & remps d noenence  Rugent comme uy e erc deFrnce  Ce et quvn unout de mon uthorté  Attendnt e guer don que tu s mertë  & oen heureux eprt uy de pn de rmes  Accordez s vous pt queque tréue ̀ vos rmes  Lccorde que e us vn pett compgnon  Venu depus tros ours comme e chmpgnon  Et que pour pruenr ̀ ce degré upreme  Qu n ren deus uy que e eu Ddeme  y comms touses mux quon e peut fgurer  y cjoe e Roy ns pouuor endurer"
+        ],
+        [
+            "Quutre que m peronne ordt on oree  e me dos pour uy cette vnque merue e  Qu pouuos contre tous mntenr on Et  Ms pourtnt e vouos e perdre tout d̀ pt  Ace deen e fs empronner es Prnces  Et jetter e duorce en toutes es Prounces  e prns uthorté ur tous es Gouuerneur  Et tenos deous eux des eprts uorneure  Qu puent mcquerrvoonté des peupes  e feos mdorer dnsé ct de mes meue  Et ur tout dns ms des treors nfns  Et mes contredns etoent oudn puns  hosvertu fuornt e vce  Et es eus ceerts entroent en mon eruce  e ne pouuos ouffrr e nom dhomme de en  Snon dedns vn Cotre & qu nentreprnt ren  mpoos ̀ mon gre deus touteFrncde  Et d poos moy eu de toutefnnce  ogeos tout e peupe ̀ pyer es mpos  Ou pr gréoupr force & ns ucun repos  Contre es etrngers e fomentosguerre  Et pour voer ur meren que ur rerre  etendos mon pouuor deusAdnruŕ  Le der de mvnr ̀Prncpute  Me fot medter de grndes nces  Et cooquer es mens ux depens des fnnces  Et pour que tout t ̀ m deuoton  e os es rmées ̀dcreton  eouffros quon forrt quon pt es Fges  Qu onvot eout pr out quonmr out en hemes  Quon vot es fes cr mon vtte  Ne pouuot sugmenter que pr hotute  Ms eprt en heureux conderez de grce  Que e ft vn grnden qu ces crmes efee  CrDeu nyme ren tnt quepuurete"
+        ],
+        [
+            "e y me sen grnde uthorté y ft pus dhoptux quon ne vot de vges  Et es enfnts prod gues en ont deuenus ges  s ne prtcquent pus cette prefuon  Qus font en nquets en douton  Leurs reps ont re gez eur mrmte pus e  Et mettent à̀ prede eu dedns eur te  Memes es Re geux Nouces & Proffés  De cette puuretté protent es effets  s en font du depus prude pentnce  Cr s ont mons de pn & fort peu de Ptnce  Voyez donc s vous ptdedns ces dens  e nuos ps eprt de vous fre de ncts  Etdepus ce temps & pr certte prtcque  Vous nuez ps ccreutroupeetcque  Dx me ont uuez qu e eront perdus  S je neue epueource des ecus  Appres vngrnden fu que on me me  S chtnt eur corps e eur y uué me  Perfde me d ce net ps ence eu  Que on peut euder e jugement de Deu  Tes deens netont ps pour ugmentergore  es propres nterets honneur de t memore  Te font entreprendre ̀ que prx que ce fut  De regner ux depns de ton propreut  An tous es eprts qu uuent res mxmes  Ne ont jms regeus que dedns es mes  Ce dt me metntmn ure coet ppee vn Demon & vn dt Argoet  Portez moy ce gn u pus fonds de uerne  e croyos que ce fut dedns vne tuerne  Et me reouos decommon  Croynt y receuor vne coton  Ms d̀ mheur pour moy je vs en e contrre  Gr oudn ce Demon ce cre ce corre"
+        ],
+        [
+            "3 Mynt entorté dvne ehene de fer  Mentrn comme vn chen juquux portes denfer  neut putot hurte qund vo e grnd mtre  Qu prut pour çuor ce que ce pouuot etre uy fut repondu que cetot Mzrn  Quon conduot ̀ pr vn Arret Dun  Comment cet Mzrn? dt ors ce grnd De  Ce ougre quon tenor pr toutredoute  Pour es nuentons de on eprt ruz é?  Net ce pont Argoet que tu ve muzé  Non fs non fs d cetpropre Emnence  Que es rues Frondeurs ont ché deErnce  Preprez uy on ct ttndnt que Bernrd  Y venne comme uy pour on prndreprt  ttends en peu de ours cette ee dunture  Ms e veux que Nnon uy erue de monture  Crme fcherot de e portesong  Serre donc ce ton & prendn vn on ong  Quoy repond Lucfer tu veux que cette pete  Entre dns mon Ps pour y fre ̀ on rete  Ne çs tu ps mrud qu et pus mceux  Que toy ny moy ny ceux qu ont ns des ceux  Vryment en peu de ours e nuros pus dEmpre  Cr e cognos de que ce ougre con pre  Dexercer contre moynore trhon  Cet uy qu ft errer es mtres en pron  Et pr m heur cy nous nuons pont de fronde  Pour renger ce gnd comme on fct dns e monde  Condus e donc eurs crnentrer ps  eerosen mrry qu y eut fct vn ps  Qu e vter on pys dte  Pour vore prens ont orts dee  Cepndnt pour çuor qu et mon proner  e e mets us ecroûemons que dvn dener  Et pour mrquer u qu nous et trutre  Ee"
+        ],
+        [
+            "e veux qu ot mrqué́ de mon grnd crcere  Ce dtjett es grffes ur mon dos  Et me es en fonç juques dedns es os  mprmnt deus moy certne mrque uë  Qu eme proprement vne vee tourtuë  Pus ouffnt pr tros fos contre mon ethomc me rempt de feu de veroe & de tc  Et non contnt de ce pour ouurrge ft porter vn ceu pn de certn porge  Compoe de rne & de certn goudron  Qu oüot ̀ deen dns vn grnd chuderon  Pus de certn outs qu tr deforge mrrch es dents & ft ouurrgorge  Et me trtnt de ougre de voeur & roûon  e cy me do que tu veux du ouon  Prens en donc mntennt pour chufer t potrne  Ce net ps du pus fn qu ot en m cune  e ten grde en dutre & e te fry vor  Que e ne e pns ps e mtn ny e or  e te fry gouter dexcente grde  Du roty dect & decronnde  Lrgoet qu rot dvnon tr tement  Y vouut douter queque eu compment  Vryement Segneur d vo votre Emnence  Tr tee ̀grndeur meux que non ps en Frnce  L̀ vous netez trte que pr deodoyez  Ms cy notre mtre nn que vous voyez)  Vous y ft cet honneur quon peut dre upreme  De vous y creer & vous erur uy meme  Ms deogeons dcy y ffres eurs  Aezvous vouez retrouuer vos voeurs  s ont en grnd emoy de çuor oû vous etes  Les vns cr gnent e feu es utres que eurs tetes  Ne toment ̀ eurs peds deus vn echffut  Attendnt de ver e chuffer commefut"
+        ],
+        [
+            "0  Ce dtme jett dedns ce terrtore  Où e rue de ofns que e pue ore  Où tu me vos errnt t tendnt que Bernrd  Y venne comme moy pour y fondre on rd  Ce er pour Nnon vne rre pomde  Ms e voy cependnt que t mn et mde  Vpouruor ̀ ton m & fs moyfueur  De me er cy vgond& reueur  MCHEV  Que ou de te reye my tes reyres  Nou oun ett per nous que desffronteres  S tu hos tn reyrey dens Prs  Mouu Prnce tten ̀ eüe de n grs  L Court de Promen ty fr grn cree  E mey eyrs Bernt que cohomtree  MAZARN  A Prs mes ms & vous çuez ez  CommeCourft & prft mon procez ne ft pus on ̀ pour moy ny mes compces  Ce net pus ̀ preentretrte des vces  On ny e regner queeue vertu  Et cet pson effort que e us tu  DBernrd y meurt de peur & e donnepe ne  De grder nuct & ourporte deRe ne noe ndonner es omres du Ps  Et net pus vté que de es eus vets  L peur dedns on cœurprns vn te empre  Qu ne çt pus que fre & ne çt pusque dre  MCHEV  Que nou en ̀ Bourdeu dens on gouernomen  He he dntons en dquet Promen  N ps et grnon dens ou Ctet Trompete?  N ps et ou coune deu en Ecoupete?  N ps et pergrde vn certn Senquntn  E mey vn fort outu quperen Ppun"
+        ],
+        [
+            "MAZARN  Ren de ce que tu ds ne uy et fuore  Trompete & Pupun ont couchez ur e e  Ses grdes ny cone ne curot empechjer  S etot dns Bour deux quon ne e vnt hcher  pr on orguë ogé tout e monde  De prendre contre uy e ton &fronde  msne er cher de on pys  Pu quèchementestous trhys  MCHEV  H ou mechn pndrd e ou tene dre  ou y rrchery ous deus ouc̈s decre  Ettrht ous ons? & per qune reon  MAZARN  Cet qu smgnot dgrndrmon  Et mettre on pys ous on oeynce  Se preunt du temps qu coutt ousregence  Moy qu eruos dexempe & uy pretos fueur  Le rends à̀fn vn ngne voeur  Le Prement qu vt vne tee mce  Se erut gement du drot dejutce  Et reformnt ces ordres qu ne voent tous ren  A ms en erte toutes es gens de eu  MCHEV  Be quet Promen ere Fronde  Que ce ous oueurs que goupen ou monde  ou u dquete ps ee ̀ntt  E tu y ten u de dme ton desrt  By quoëe dme tu touts tous cmrdes  Mene ous en enfer mnge de croundes  Tu Guen s tu s coumen es tt  ou oudry n que mon mu fus gurt  Anem tournem noun du coutt dee  Et ou te cntry vne cnon gente  Que den de Bernt & pu deNnon  Nec e urey me oueny du on"
+        ],
+        [
+            "2  V T 7 S  V   A   A A NDN NV E L L EH4    A vte Rr d2V v  A L e c o L V vor toeme &c   QErnt es vn grnCptyne sJ Qunpx fourec rrde s  Et es ent coume quet yneAu Pr omen en he rde  Que pech s dedens ou prt JMs et fourec en etount  Hrr Bernt  Hrr Bernt  Et quecpte ou crdon  Hrr Nnon  ouen y demndere oun no  Hrr Nnon  Bernt ft vne grn fdee s Bernt que couneehée s  Quu smgnet entrepreeJ Coumencet te de hé ge De pou que nou houe r ent  De ee Bourdeu rout rzt  Hrr Bernt  Perforce de oun cnon  Hrr Nnon  Hrr Bernt ou que ou men en preon  Hrr Nnon  Et sen engut ̀ toute rde s Per e enge dquere offence  Per e y deBtde Et mndet à̀ on Emnence Ms qun fourec u Cpret  Hrr Bernt  A quu que ht de oun poutron  Hrr Nnon  Mrn prengut tout oun rmde  Per doun densrrcde  Ms ou puret fource frett  Hrr Bernt  Per Chmret & Teuon  Hrr Nnon  J Que sen engoue en rmt  Hrr Bcrnr Pe y he heceron  Hrr Nnon Qun Mzr n fourec en gre Tronec que Bourdeu ou fretc Et que ere en preprt  Hrr Bernt Ay he prendre deu oüon  Hrr Nnon  Tnt que Bernt cgue ̀ es cues Mzrn que hzouc ou t ge  A Bcn y hen de uces Nou ouut pus dquet poutge  Et pero quere degoutt  Hrr Bernt  Ly frceren vn ougnon  Hrr Nnon  Qun Bernt gout ntge  Coumenec ̀ prene courtge  Et temen es ret rt  Hrr Bernt  De pou de perdre ou gpon  Hrr Nnon Per o quet ere tropt Hrr Bernt Et nou ou troue ps oun  Hrr Nnon Mrn pegue es quenques  E per he reouy es fes Lour emmenec e desrt  Hrr Bernts Cent egues u de Lrmou Hrr Nnon FN"
         ]
     ]
 }

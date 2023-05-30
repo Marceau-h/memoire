@@ -1,9 +1,6 @@
 {
     "entête": {
-        "form": [
-            "prose",
-            "vers"
-        ],
+        "form": "prose",
         "genre": "recueil",
         "handwritten_note": false,
         "table_of_content": false,
@@ -13,152 +10,40 @@
             "@when": "2022-03-17",
             "@who": "AB"
         },
-        "titre": "Recueil de plusieurs pièces curieuses tant en prose qu'en\n          vers, imprimées depuis l'enlèvement fait de la personne du roi, le 6 janvier 1649, jusques\n          à la paix qui fut publiée le 2ᵉ jour d'avril de la même année, et autres choses\n          remarquables arrivées depuis ce temps là jusques à présent, lesquelles serviront beaucoup\n          à la connoissance de l'histoire.",
+        "titre": "Recueil de plusieurs pièces curieuses imprimées depuis\n          l'enlèvement fait de la personne du roi, le 6 janvier 1649, jusques à la paix qui fut\n          publiée le 2ᵉ jour d'avril de la même année, et autres choses remarquables arrivées depuis\n          ce temps jusques à l'heureux retour de Sa Majesté dans sa bonne ville de Paris, qui fut le\n          18ᵉ jour d'août 1649.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3042_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3041_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RECVEIL",
-            "DE",
-            "PLVSIEVRS PIECES",
-            "CVRIEVSES.",
-            "TANT ENVERS, QV’EN PROSE:",
-            "Imprimées depuis l’enleuement fait de la",
-            "perſonne du Roy, le 6. Ianuier 1649.",
-            "iuſques à la Paix, qui fut publiée le 2. iour",
-            "d'Avril de la meſme année.",
-            "ET autres cHoſes remarquables arriuées",
-            "depuis ce temps là iuſques d preſent,",
-            "leſquelles ſerurnt beaucoup à la con",
-            "noſſame de l'Hiſtoire.",
-            "Tome",
-            "M. DC. XLIX.",
-            "2"
+            "Recue de puseurs pèces cureuses mprmées depus enèvement ft depersonne du ro e 6 jnver 649 jusques àpx qu fut puée e 2ᵉ jour dvr demême nnée et utres choses remrques rrvées depus ce temps jusques à heureux retour de S Mjesté dns s onne ve de Prs qu fut e 8ᵉ jour doût 649 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Recue de puseurs peces cureuses mprmées depus enevement ft depersonne du Roy e 6 jnver 649 jusques àpx qu fut puée e 2 jour dvr demesme nnée Et utres choses remrques rrvées depus ce temp jusques à heureux retour de s Mjesté dns s onne ve de Prs qu fut e 8 jour doust 649 Sns LeuSns Nom649 Prs Bothèque MzrneM3774TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Pge de ttre et \"prefce servnt ddvertssement u ecteur\" pcées pr es mprmeurres en tête de recues édtorux où es mzrndes sont présentées chcune vec s propre pgnton s propre pge de ttre s propre composton typogrphque étnt prues dord sous cette même forme séprément à unté Autres édtons vec dfférences de ttre et de composton typogrphque 304Recue de puseurs pèces cureuses mprmées depus enèvement ft depersonne du ro e 6 jnver 649 jusques àpx qu fut puée e 2e jour dvr demême nnée et utres choses remrques rrvées depus ce temps jusques à heu reux retour de S Mjesté dns s onne ve de Prs qu fut e 8* jour doût 649 (S649)prose recue"
         ],
         [
-            "PREFACE",
-            "SERVANT",
-            "D'ADVERTISSEMENT",
-            "AV",
-            "LECTEVR",
-            "ét O N cher Lecteur, tu verras",
-            "par la lecſure des piecs qui",
-            "êe compoſenmt ce Pecueil, que la",
-            "r pPieté & la Iuſtice ſont des Ver",
-            "tus preferables ad̀ tous les treſors du mon",
-            "de, & que la bonne Renommée& la gloi",
-            "re que ceux qui dominent s’acquierent",
-            "par leurmoyen, ſont les plus douces recom",
-            "penſes qu’ils puiſſent ſoubaitter; L’éclat",
-            "de leurs richeſſes, de leur Pourpre & de",
-            "leur authorité ſe fane & ſe pert enmtiere"
+            "RECVEL DE PLVSEVRS PECES CVREVSES MPRMEES DEPVS eneuement ft deperonne du Roy e 6 nuer 649 uques ̀Px qu fut puée e 2 oour dAur dememe nnée ET utres choes remrques rrueé́es depus ce temp̀ uquesheureux re tour deMjeté dnsonne Ve de Prs qu fut e 8 our dAout 6̃49M DC XLX"
         ],
         [
-            "ent lor; qu’ils ne les mettent point en",
-            "pratique; Et enfin l’on voit que les plus",
-            "ſuperbes-baſtimens de leur grandeur qui",
-            "ne ſont point fouſtenus par ces colomnes,",
-            "& appuyées par les atres vertus Chre",
-            "ſtiennes & Morales, ſont bien-toſt rener",
-            "ſez, & leurfuneſte chente enueloppe dans",
-            "ſes ruines ceux qui ont éleué leur fortune",
-            "ſur de ſi fréles fondemens. Le Roy Salo",
-            "mon demanda à Dieu qui lay donât v",
-            "rayon de ſa ſapience pour ſe maintcnr",
-            "daus la felicité & dans la gloire de cette",
-            "vie, mépriſat tous les autres moyens que",
-            "quelques imprudens aueugles auroient",
-            "pit ſouhaitter; Il ne demanda point de",
-            "l’oryde l’argent, ny la poſſeſion de plu",
-            "ſieurs Royaumes, ny nm’établit point ſon",
-            "pnncpal contentement dans l’amour ſen",
-            "ſuel conroiſſant que tout cela eſtoit fra",
-            "gle & periſſable, & que ceux quis’y atta",
-            "choient auec vne trop aſpre cupidite,",
-            "’attroient"
+            "PREFACE SERVANT DAVERTSSEMENT AV LECTEVR MON cher Lecteur tu verrs tus preferes ̀ tous es treors du mon de & queonne Renommée & go reque ceux qu domnent scquerent pr eur moyen ont es pus douces recompenm es qus puent ouhtter Lécr de eurs ncees de eur pourpre & de eur A j"
         ],
         [
-            "5’attiroient pluſtoſt l’enuie & la bainẽdes",
-            "hommes que leurs veritable eſtime ce qui",
-            "obligea ce Sage Roy de ſouhaitter la Sa",
-            "pience, & de preferer ce treſorde l’ame à",
-            "toutes les feliciteZ de la cbair qui paſſent",
-            "en vn moment; Et pour ce que ſon cœur",
-            "e s’eſtoit point laiſſé encbanter aux ap",
-            "pas de tout ce qui ſembſoit eſtre le plus",
-            "charmant dans le monde, Dieu luy ac",
-            "corda la poſſeſſion de ſon ſoubhait, & luy",
-            "donna par deſſus toutes les cboſes qu’il",
-            "’auoit pas demandées. ais bhelas! la",
-            "plus- part des Grands de ce ſiecle n’en font",
-            "pas de meſme, ils mépriſent la Sapience,",
-            "ils nont qu’vne fauſſe image de Pieté,",
-            "ils foulentaux pieds la Iuſtice, & croyent",
-            "que les richeſſes & les benedictions du",
-            "Ciel ne leur manqueront iamais, lors",
-            "qu’ils auront amſſé celles de la terre; Eet",
-            "ſur cette trompeuſe Politique ils ſacea",
-            "gent & écorchent les Peuples, & penſans"
+            "uthorte e fne & e pert enterement ors qus ne es mettent pont en prtque Et enfn on vot que es pus uperestmens de eur grndeur qu ne ont pont oûtenus pr ces coomnes dppuyez pr es utres vertus Chretennes & Mores ont eot renuereZ & eur funefe ceute enueoppe dns es runes ceux qu ont éeué eur fortune ur defrées fon demens Le Roy Somon demnd ̀ Deu qu uy donn̂t vn ryon depence our e mntenrdnsfecte & dnsgore de cetteve meprt tous es utres moyens que queques mprudens ueuges uroent pû ouhtterne demd pont de orny de rgent nypoeon de pu eurs Royumes ny nétt pont on prncp contentement dns mour en ue connont que tout ce etot fr ge & pere & que ceux qu sy tt choent uec vne trop pre updté troen?"
         ],
         [
-            "dle les pouuoir rendre plus ſouples & plusi",
-            "obeſſans par cette diabolique maxime,",
-            "les reduiſent à vn deſeſpoir extréme,",
-            "& s’attirans leur haine & leur rage les",
-            "obligent à murmurer & à ſe ſouſleuer",
-            "contre eux; Et le plus grand mal qui",
-            "arriue à ces imprudens & inſatiables",
-            "Miniſtres, c’eſt qu’ils s’attirent le blâ",
-            "me, les iniures & les maledictions de",
-            "tout le monde, & qu’ils ſont en execra.",
-            "tion parmy tous les gens de bien: Eſtant",
-            "veritable que comme l’bonneur & la bon",
-            "ne renommee ſont les plus precieuſes re",
-            "compenſes de la Vertu, & que les cœurs",
-            "genereux les preferent à tous les treſors",
-            "dumonde; ileſt vrayauſſi que la bonte, le",
-            "blame & les imprecations ſont les plus",
-            "cruels & les plus euiſans chaſtimensquon",
-            "puiſſe donnerau vice: Et ie ne doutepoint",
-            "que ceuxs contre leſquels toutes ces pieces",
-            "inuectiuent le plus ſouuent ne ſoient enra"
+            "5ttroent puto enue & hne des hommes que eur verte etme ce qu oge ce ge Roy de ouhtterS pence & de preferer ce treor de me ̀ toutes es fectez dechr qu pent en vn moment Et pour ce que on cœur ne setot pont e enchnter ux p ps de tout ce qu emot etre e pus chrmnt dns e monde Deu uy c cordpoeon de on ouht & uy donn pr deus toutes es choes qu nuot ps demndées Ms espurt des Grnds de ce ecenen font ps de meme s méprentSpence s nont quvne fue mge de Peé s fouent ux pedsutce & croyent que es rchees & es enedctons du Ce ne eur mnqueront ms ors qus uront mé cees deterre Et ur cette trompeue Potque s cc gent & écorchent es Peupes & penns B"
         ],
         [
-            "gezde ſeuoirdans vtelopprobre & dans",
-            "vneſivniuerſellemaledictiõ, & qu’ils n’ai",
-            "maſſent mieux eſtre les plus ſimples par",
-            "tieuliers du Royaume que d’entendre que",
-            "chacun les publie & les proclame en vers",
-            "& en proſe comme les Tyrans, les Boute",
-            "feux, les Eſcorcheurs & les Bourreaux",
-            "de leurs Concitoyens; alors au lieu de ſa",
-            "uoürerl’aiſe & le repos de la vie, ils meu",
-            "rent de mildle morts & ne ſont iamais ſans",
-            "inquietude & ſans crainte. L’image eſ",
-            "froyable de leurs barbaries leur eſt eter",
-            "ellement deuant les yeux, & ils ne ceſ",
-            "ſent d’en apprehender le chaſtiment;",
-            "Aprends donc ſ mon cher Lecteur à re",
-            "gler tes paſſions & tes deſrs, & taſche",
-            "e deuenir ſage par lobjet honteux de ces",
-            "Midas qui preferans les richeſſes à la",
-            "Vertu & à la ſageſſe, ſe trouuent enfn",
-            "dans vn honteux opprobre; & leur ruine"
+            "de es pouuor rendre pus oupes & pus oens pr cette doque mxme es reduent d̀ vn deepor extréme & Sttrns eur hne & eurrge es ogent ̀ murmurer & ̀ e outeuer contre eux Et e pus grnd m qu rue ̀ ces mprudens & ntes Mntres cet qus sttrent eme es nures & es medctons de tout e monde & qus ons en execr ton prmy tous es gens de e Etns verte que comme honneur &on ne renomée ont es pus preceues re compenes deertu & que es cœurs genereux es preferent ̀ tous es treors dumondeet vry u quehonte e me & es mprectons ont es pus crues & es pus cuns chtmens quon pue donner u vce Et e ne doute pont que ceux contre eques toutes ces peces nuectuent e pus ouuent ne oent er"
         ],
         [
-            "eſt d’autant plus pleine de coufufion que",
-            "perſonne ne les plaint & que chacun ſe",
-            "rit de leur deſaſtre & de leur trébuche",
-            "ment quiarriue toſt outard, puis quetous",
-            "leurs deſſeins ne ſont appuyeZ que d’in",
-            "juſtice, d’orgueil & de barbarie."
+            "gezde e vordns vn teopprore & dds vne vnueree medctõ & qus n ment meux etre es pus mpes pr cuers du Royume que detondre e cheun es pue & es procme en vors & en proe comme es Tyrns es Boute feux es Ecorcheurs & es Bourreux de eurs Conctoyens ors u eu deuoûrer e & e repos deve s meu rent de me morts & ne ont ms ns nquetude & ns crnte Lmge ef froye de eurs rres eur et eter nedement deunt es yeux & s ne ceent den pprehendere chtment Apprens donc mon cher Lecteur ̀ reger tes p ons & tes ders & tche de deuenr ge pr ojet onmteux de ces Mds qu preferns es rchees ̀Vertu & ̀Sgee e trouuent enfn dns vn onteux opprore & eur rune et dutnt pus"
+        ],
+        [
+            "pene de confuon que peronne ne es pnt & que chcun e rt de eur de tre & de eur treuchement qu rrue tot ou trd pus que tous eurs deens ne ont ppuyez que dnjutce dorgue & de rre"
         ]
     ]
 }

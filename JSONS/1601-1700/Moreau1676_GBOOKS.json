@@ -1,115 +1,67 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
-        "subject": "Molé, Mathieu (1584-1656)",
+        "form": "prose",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-06-16",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-12",
+            "@when": "2022-04-13",
             "@who": "AB"
         },
-        "titre": "L'illustre barbe D. C., en vers burlesques.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-18",
-                "#text": "18 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-23",
-                "#text": "23 avril 2021"
-            }
-        ],
+        "titre": "L'illusion publique, ou la Révélation du secret de la\n          retraite du duc de Lorraine. Discours et raisonnement sur ce sujet, avec l'abrégé des\n          moyens de finir bientôt la guerre à l'avantage de messieurs les princes contre le\n          Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau1677_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1676_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L'ILLVSTRE",
-            "BARBE",
-            "D. C.",
-            "En vers Burleſques. <pb n=\"2\"",
-            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5851775r/f3.highres\"/>",
-            "2",
-            "L'ILLVSTRE",
-            "BARBE",
-            "D. C.",
-            "En vers Burleſques.",
-            "LOING d'icy diſcours ſerieux",
-            "Vous n'eſtes bons que pour les vieux,",
-            "Parlons en des termes Burleſques",
-            "Comme tous ces Autheurs groteſques",
-            "Qui font treve à tous les diſcours",
-            "Où l'on ne parle que d'amours.",
-            "Ie veux parler d'vn ton affable,",
-            "Non pas d'vne inutile fable,",
-            "Mais d'vne Barbe au beau menton",
-            "Qui comme le poil au mouton",
-            "Depuis ſix ſemaines eſt cruë",
-            "Eſpaiſſe, longue, belle & druë",
-            "A cét illuſtre Conquerant",
-            "Qu'on appelle le Iuif errant."
+            "Luson puque ouRévéton du secret deretrte du duc de Lorrne Dscours et rsonnement sur ce sujet vec régé des moyens de fnr entôtguerre à vntge de messeurs es prnces contre e Mzrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 uson () puque ouRévéton du secret deretrte du duc de Lorrne Dscours et rsonnement sur ce sujet vec régé des moyens de fnr entôtguerre à vntge de messeurs es prnces contre e Mzrn Sns LeuSns Nom 652 Lyon Bothèque muncpe309292TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs676 uson () puque ouRévéton du secret deretrte du duc de Lorrne Dscours et rsonnement sur ce sujet vec régé des moyens de fnr entôtguerre à vntge de messeurs es prnces contre e Mzrn Sns Leu 652 4 pges L retrte qusuvevée du sége dÉtmpes Voc es moyens de fnrguerreBeucoup drrêts du Prement surtout un rrêt qu décre nues es dgntés et récom penses conférées pr Mzrn « L guerre cve dot toujours fre du rut comme un torrent fn détouffervox des trîtres et des ntrgueurs (sc) »fudrt uss que es prnces fssent de grndes promesses u peupe jetssent de rgent dns es rues donnssentmn u premer venu en un mot fssent es doux yeux àcne Tous es pmphets de cette époque montrent à env comen e peupe séognt chque jour du prt des PrncesproseRetrte du duc de Lorrne 65"
         ],
         [
-            "3",
-            "Ce grand Guerrier que rien n'eſtonne,",
-            "Ce valeureux fils de Bellone",
-            "Pour paroiſtre homme de Conſeil",
-            "A voulu paroiſtre plus vieil.",
-            "Tous ceux qui ſçauoient ſon courage",
-            "Diſoient qu'il eſtoit trop volage,",
-            "Qu'il reſſentoit le mois de May,",
-            "Que ſon timbre eſtoit trop gay:",
-            "Sçachant qu'on parloit de la ſorte,",
-            "Morbleu dit-il le Diable emporte",
-            "Si ie ne les feray mentir,",
-            "L'on me verra laiſſer venir",
-            "Vne barbe ſi venerable",
-            "Que ie paroiſtray plus capable",
-            "Qu'vn General des Capucins",
-            "Ou bien des petits Auguſtins.",
-            "Les Soldats voudront mieux me ſuiure,",
-            "Et diront que ie ſçay bien mieux viure",
-            "Que ie n'ay pas fait cy-deuant,",
-            "Quand la teſte pleine de vent",
-            "I'ay perdu les plus braues hommes",
-            "Qui fuſſent au ſiecle où nous ſommes.",
-            "En effet il a ſi bien fait",
-            "Que ſa barbe eſt crue en effet,",
-            "Et qu'il paroiſt le plus ſage homme",
-            "Qui ſoit de Paris iuſqu'à Rome,",
-            "Et l'on le prend à S. Germain",
-            "Pour mettre de l'eau dans ſon vin",
-            "A ij"
+            "LLLVSON PVBLQVE OV LA REVELATON DV SECRET deretrtte du Duc de Lorrne Dcours & Ronnement ur ce ujet Auec Aregé́ des moyens de fnr eotguerre à untge de Meeurs es Prnces contre e Mzrn M DC L"
         ],
         [
-            "4",
-            "Et temperer ce grand courage",
-            "Qui ne craignoit aucun orage.",
-            "Dieu vueille qu'il deuienne meur",
-            "Pour noſtre bien & ſon honneur,",
-            "Car par ma foy ſi ce temps dure",
-            "Ie crains quelque triſte auanture.",
-            "Mais que mon preſage ſoit faux,",
-            "Et que pour ſoulager nos maux",
-            "Deuant la fin de la ſemaine",
-            "Nous ayons vne paix certaine.",
-            "L'autheur de ces Burleſques vers",
-            "Auoit l'eſprit tout de trauers",
-            "Ainſi que cette Barbe eſt faitte,",
-            "Ie ne dis pas à l'eſcopette,",
-            "Mais il auoit tout le menton",
-            "Comme la queue d'vn mouton.",
-            "FIN."
+            "3 LLLVSON PVBLQVE OV LA reueton du ecret deretrtte du Duc de Lorrne Dcours & ronnement ur ce ujet Auec regé des moyens de fnr eotguerre ̀ ntge de Meßeur es Prnces contre e Mzrn E metonne nfnment qu y t des eprts ezfoes prmyFrnce pour setonner deretrre du Duc de Lorrne ou pour ne uor ps preueuë rconnonce de humeur de ce Pnce & des mxmes ur equeese fode por uthoner es chngemens Ne deuoen ps connotre que es h tudes ne e depoüent ps comme vne roe & que qu  conquecommencé de pecher en vn uer e rend u pect de commettre touoursmeme tute? Q eme s dent es urconutes emsper premtur ee nm us n edes pece m Ms e metonne en dunt ge de mprudence du Crdn Mz rn de ce qu set é tromper eneence meme qu etFourere & de ce qucreu que qu tromp en e feu Crdn & e feu Roy nt ps encore deen de e romper ors qu sgt u contrre de nteret dvn eu frereeconde peronne de Frnce & e pus genereux Prnce de Europe dvne œur douée des pus emnentes qu A"
+        ],
+        [
+            "4 tez qu puent orner eprt & e corps dvne grndePcee du Prnce de Condé on my dõ̃tchert pr fte ment e cour ge eprt & es ees mœurs & ur tout du Ry dEgneon en fcteur ec equeset o gé pr vn trtc oeme dter nos rnces en cette guerre Sns mentrfot uor mons de umeres que nen ont dordnre ceuyx dentõ & queon n cru u quescy qu en uot uy meme pour setre enggé dns vn muus ps & setre meconté uquà ce pont N u ps pu çuor pus qudnc rs v ne rfnté depons que ce Duc dtycnqou x ours hutemẽtronne chere dnnt hez vne peronne de condton en cette ve que e Roy de Frnce uot trompé deux os & qu uy en deuot encore vne de rete qu t chero de uy rendrc u putotet vry queceux qu e ont entrems dns cette negotton nuoent pont dure eruceuy rendres nefoent ps fort vtes àfrtune pus qus uy ont t eucoup pus de m que de en mts voyons es pertes qu ctes en cetteoccon Premerementcede à nos Prnces untge deforce pus quet ogé de recourr à rtfce pour es comtre En econd eu on pe t crore qu set coupé es es nt à ce Duc pour oger à retourner ur es pspus grnde prte de ce qu uy retot drgent& mettnt entre es mns pr enggement es perreres memes deCouronne de Frnce comme on dt quft uec eucoup dndgnté́ en quoy certes dodeuy qu etot uprunt ux eprts de tous es Frnçoset rendu e pus execre qu fut msPour ce quet du Dnc de Lorrne vocy ce quou peut dre pourexcuere ouuent touours des trõpe res du feu Crdn de Rcheeu & ce reentment en porte touours u d de es premeres reoutons umondre"
+        ],
+        [
+            "mes dre our qu trouue desen vnger ur es uceo feurs Pount dre deource ce que S extns Pomoeus do utrefos du nure uquedeuot trtter Augute An one & Lepde que cetmon Roye &Duhécro que cet tendre à econquer on pysque deremps Le Mzrn set mné que mour de rgent etot on foe & que e ftnt pr e rnt des perre resferot fcemnent reche à ton ntegrté & e Due pour or eu de eromper ûous eete pprence set rondu de fce ccés ux Agents de ce Prerpreté o reeeurs propotons fent de es trouet pues trteé concu prs rgent & sen et é pour reuenreot freguerre u Mzsn meme uec denou uees forces f ce uorneur uà de oues ndes pour trouuer vn fonds quuy fourns detoesà uoncenx pour e renuoyer Ce uc en effetset coofrmé dns o pnon qu et touours pers de voer es voeurs &pncpené ceux qu neous o voez trefos ou eursetrtersqe nousrouuons encore s de nos depo espené deurs que copnren e quequefos dormr esox fde produce pour e n poc qu que grnd effet ouees eepgnentpouuot mf qu emps er dormr on deuor touchnt ogton du rté ft uc e Roy dEpgoe pour entrepre de cette guerre ou notre fueur & de cery meme qu confrm dernerement sec Meeurs es Prnces s furnt que s epoot durnt quequeoursreputton u me dvn reproche douteuxreggnerot fce ont en nous tnt pres uec de nouueés roupptes ous queque preete de meconten emét enuetsCour ce qu urot hzrdé pour on proft H connuru que eomme vn oeur drotppuuot fre cete tetrte pour esre rgent deou gn eneureté ns que es"
+        ],
+        [
+            "6 rouppes de Meeurs es Prnces couruent rque dess ttuës pr ecees du Mrech de Turenne uque pr vn entment de tendeee & de pté qu uot pour oe grnd Cptne qu nuot ps ren reu dnsetrepre ur Etmpes vouot doôner queqeoeshe ou du mons empecher qu ne fut ccé tout dvn coup pr tnt de forees vnes On dt encore qu ne pou uot gouter r de Prs ny oufrr pus onemps pect de es tours & de es cochers prce qu eto utrefus orty de ce ejour des epnts dont e gee uo? fr eucoupde pene u en de oree qu etot en cet e ve comme utrefos vn Roy dArmen à Rome oùàdeuot receuor e ndeu Roy demn dvn gé̃d Emereur eet à dre O ot tmnmsyen meusesdez hrds pour eguer qu crot qu nppt ent quà ces Deux qon nommot utrefos Terss Zu Sttuts de e tenr contmment en vns mese t ton & qu et prns ux honmes u en quu poons ux oyeux & us tres eme deouuot eomeeur pft conformeent à eu ntue Enn pt vne detmere rong que honueur &e en dœe ncent que pr des Voners & ue vntnt e puseur moyen pour cquerr utree porot mnquer du premer qundurot ft vne proufon fuffnte du econd uunt cete heureue mxeQuremd peon prouoms ct vrus pot susomos Ms àdre e vry e ne pus erore que voyt quotnfhheméẽt rentrer en tot ds outes es terres pte noyen des rede Meffeurs es Punces & des ennes s demeuro uee eux dn voe prfte vnon t qutté comme on dt vugrement e ern poutprendee neertn &e cho de es tenr putot en dondu Mzrn qu net ps vne fot one couton de cequ proet Cetee qu ft qus e rete puûnment"
+        ],
+        [
+            "7pudé qu vouteement epreuos de eeo &e quee Mzrnon eg &ptoe u en que Meeurs nos Prnces nous uons on cœur de pusuec es pus fortes cnrons Quoy qu en ot os uons dquoy nous cooer de cete perte en cee que eMzrn vent de fre de on rgnt uec eque eutpû euer x fos utnt dhommes pus vnts qu nçcuedes ords deSene ms uous uons dequy oous fger en ce que cet rgent qu netot po puMr & que nous pouons reggner psdeffte vene detre tout à ft eneué de Ft nce Ce qu et eœncoru moueu crme de ce Mntre n drot qu ue nos procure vnque pr vn m eucoup pus grndn que ceœt des uoyens non defn que nous pgonsen ce uetet ry que pour ce qu et defn ous nepoorer quee uous ot deungeue & poutprouuerme eme que cette ron ne oufre pont de reprte & pree égement de tous es deux ootez ou e Duc deLorrne et foe come e vugjre e crt ou geereux cmgore de on ng & e on utre o ous e ft utement pceuer que s t foeu drner pont & que fnt vnté detre nco nt e e enmne es fots ermportes à tot vet Q u perdons nos en e perdnt quv erevn uec qunze cens Lorrns cet à dre one ecs peo eurs ou que perdons nous u ne us fut untgeu e perdre de onne heure pous etre eot deurez decrntede e perdre & depeur qu ntertfde té des utres troupes venus de fndres pout nuser Et s et n e Mtn netps en duppe duoechetécher eogement de ce qu nous etotpeu coudere retnt prmy nous & qu nous for efe putot que de nous ffor enetnt éogné Msce Duc et pourueu dve pfte generoté çõ"
+        ],
+        [
+            "e untge qudetre frere dvne Prncee donf ertu e ft dmrer prmy nous en et vn temgnge ndure quee etperte que nous fons p r trte que de queque ours depreence& puquenoss coneruons es pus endres vœux ne pouos nos pes dre dns epernce de e vor eot de roour queen qu emporte rgent deFrnce & enoftre enrmons prce que cet rgent etot entre es ms duMzrn qu pouuotempdyer à des effets runeux po eve de Prsnssrendu e pus gtnd er uce qu eut peu ms nous rende en pruc e y rn de nos ertez dvn ppuy orten qe cõme certe rerrte ege pour nous e gn dvne teerot à ouhter pour nottee qht touut encore deux ouros pres tres q cheuent demporerce qu rete drgent à Mzrn pres quoy nous nous pourrons vnter de uor enot à notre dereton Cetce qu ft que e us dus quon rende grces npAutot à M e Roy dAgererre e Crdr de Rets Dme de Cheuren e du pr qus nous ont fduor eonrrué eurs ons es pus vgns à ftre queceuy que touteFtnce htfore fut epumé con mee merte &e croy qe cet de cette fçon qu pe tendent e utfer queque tour ux Prens pour eggner eur ren venee An eus ron dutrer que cette retrte et purement uore & e ne doute pont quurnt peu detemps nous nen yons dés preumes ndures qe ee Prnce n ps trouué on de nous donner dord çohnt ques conetures nous decouurent fés crenent on ntenton & qu deu er ouyr nos ennms d mons queques ours de epor de ùntge qus eroyet uor cqus pr rgent que e Ducdey tooce t s ne em ps en effet que dé oueque med cton ot"
+        ],
+        [
+            "9 ot tomée fr es Mzrns pus que eur pteed ton etcue de eur rune & que dns ueuge nent où eur crme es poe s nencent des rts que contre eux memes & e fontguerre dns urs Cnmp ors que peronne ne es comtet vry qu fux qus oent tout à ft ueuges pour crore que e Duc de Lorrne voynt qu y v prncpement de eho ueur du Duc dOrens uhe es nterets de o erere deœur de es nepueux & ous es m qudns e prty dontreure es t roupes à mton du uceeur de ceuy qudepoüé crueement de o pys pour e mettre en dnger deprouuer encor v peœ trtement pres setre pr cette nfgne trhdn pruéde toutes ortes dppus Non non ns doute œ u guet utnt que nos Prnces mems pour empe cher que eurs dueres nyent ucun duntge ur eurs trouppes & uqueeuemetpeut ver de fen te pour ccher es vrs enmensAu rete s et en vry queRene t ms entre es mns de ce Duc pour oger àretrrte es per reres ou ees deCouronne de Frnce que peut o conceuor de pus ugure de pus depore de pus funete ou de pus ndgne que cette eton ? Nee ps uoüerfoee & dns cette dure extremté qu por e dns es eprts e ne çy que prege de m hur n ee ps uet de dre comme eruem fgéeCgedt Coron cpts notr v nmos que peccuns Ms e Due de Lorrne emporte de Frnce cnqcens mes ures uec eurnce de rentrer dnsve de Nncyps ogton de ce en ux eus Prnces dont rnementforce Mrn den ver de cette ore? En quoy certes on peut dr e ue ctrepen ée Mrnft vn te de utce ors qu ne preten do qgue fjre n de trhen ms us retrnt ncuû C"
+        ],
+        [
+            "tut de ce trté qu e pufe reeonmpendér de eëtte doe pertevot que cet de uy quvn utre Prophete dt Derseront oonns ns vsdturuns s nshemerun n pnus s & que vertemcnt ett e Snqts Cependnt e peupe de Prs ft onner hueette r trte du Duc de Lorrne comne s y ot deu ne de tout e prty punt quen ceu uourne cs que en uppont fntfe des cues dece chng enture pr es grnds deux que e Mzrn et v grnd eprt qu en ct ps que tous ceux du prty contrte & qu et cpe eu den venr à out pu qu eurde fnement otéme eure pume de eur e & qu pue encor dns e hreor oy e Mrqu ts Comtez Duchez rres Btons de M rchux de Frnce Euechez Ayes Chrges de Preer Predent & utres prees dgnte pour o recompener ceux qu srt chent à es mrerets s f qudrendu e Come de rcoute grnd &che qu à penee ce qu poede & qu s prete encorefre vn Duc & Pr ou putot vn gnnd Vze de on Mrech de Turenne Et ns entus eme que Meeurs es Pcnces mnquen en ce tut ot peu de eronpecto s veuent ermpecher vn o eu de voer & uy ent e es res pour prendr eor s çuent que tous ceux qu e uusent àpse mere guetrteoneté tecompenex pr deà eur e ts troyet que ous ctte epernce ne trouer ps àecnde des ntnets de trhon Deqeoy eur ert qu e Psemens t de eus cote s e donne equee Arretpr equeot ordnnné que voues cs dgntez oonferéet hors de on & por ds cues es gtmess eront deorms de nu et spourquoy er reds foftdere dhtges ceu qu"
+        ],
+        [
+            "n nofent porvrs Mznsque he seurentde quequens pour ntmder es utres p Ms ur ce que e peupe demnde encore A quoy o fse venr es Lornn Frce pormnger &rhr pus quytnt de rues hommes zeez pour e rty de Meeurs es Prnces qu ruens dmpenee de sy ondre & ne nquent que de moyens pour cée ef é Pourquoy Meeurs es Prnces ne e renden prdouceut tout à fx Mtres deVe de Prs & que ne forcen pres es Prtns de e rcheter pr gueque grnde onme drgent du dger detre pee pr e peupe pour empoyer cét tgent à entreene memt des gens de guerte? Que nnme es peupes pr des Edts contnues promettns dechrge de tou es ortes dspots uecpuon de eurs Tyns & que ne prtquen cette mxme de Tcte Qurere qucqud rgrms Sçchnts que pes de vugt mhons de peronnes derent uec pon untge de eur pry ne cutoent s trouuer es moyens den mettre cn qunte me en vn cmp pour venr prompre ment à ous de eur deen? Qu es peut eux enmr queprec ptron ss font qu ne e pe our ns que dumnos queque Eht de eur prt echuffe s eprts du vug ep An e ggent sexeene & e enet es eprus de peupes S es guerres cunes ont cnme es o ents en compron deres guerres qut nonc d pport quuec es deordemens des reres omune es douen comme eu fre d rt por epecer quon necoute cepemdntvout des tudtres desgueurs & come eumprter uot ue ees t enporte uec tou ce qe es empore qoynt e Depute en cmpgne q ne font quor es œurs des pus eezon ne ve t po de px quà eâun derte dpugy ce"
+        ],
+        [
+            "2 ches de comts & ces tréves pour eondertorr de ps té d nt equees e forment & scheuent tnt de tr hons S nos Prnces veuengerre que nefon uec eucoup de cheur & ss derentpx que ne pre cprent sguerre fn qee es mete eot e ett dedoners Qus e repre eotent e dfferent v e de Prs dns epec uce & dnscrmte dnsoe & dnsdoueur & qus conderent que commefut peu de choe pour nmer dvne de ces ponseur et mportn de fre quvn vent fuore oufs rouours de eur coteé ur cete grnde mer & pr cou equent qu fut que es Ps dOrens & de Condé produent chque our queque efect gree ux yeux du peupe qu comme vne douce exhon ortnt dvn terror enn ot cpe de nourrt ce chrmnt ephr Enfn qus conderent que eur pry ute prnc pement pr opnon quonque e Mzrn qus pout uuent ot ennemy de touteFrnce & que commentrode e peupe pr es menesfut u contrre qus e chrment pr eurs promees & eurs erees qus sent quequefos uques à fre es doux yeus àcne prer vn exhorter utre nommer ceu ey pr on nom cét utre pregneure eur doner dequoy oe & es conuter de ore à eur nté eus etter de rgent dns ruë toucher enmn du pre necr trouué es pre en gener duor on coutgedttendre en tot de vorfn de eurs meres eus temogner quon rue pufmment à es ougers qus compârent rmemne à eur ouffrnce Et on epter pre desmnoueMs pour reuenr u Due de Lorrne e veut ero re pour on honneut quynt mntennt on compser deorms çontnt ds e prty qu trouuo on"
+        ],
+        [
+            "ej o derer qu ers doute ceuy de nos Prn s pour es condertos que e vëns de nmettre en u Apreéscoutfut erote qu yqueque effet deProudenoe en ce ujet & e ne pus uger qu ot nué pr vn utre ordre que e en que ce Prnce uque on uot ruy on en pr vne doue trhon t eugore de vur un ecours recmé pr toutes es punces du meme Empre qu ne uy uot t que eperneet vry que cet vrt pet mrce de vor que ceé Souuern quon uot che de on pys& qu come vne omre errnte utour de on corps non nhumé rné douze ou qumze nsmére fottufe de Pro nnce en Prounce dns es pye es vons où eurs dets ont touours fe ute? ee queque epeceé drmée s en fn eu untge de Ver nec s Troupes cmper ̀ nore nftnte ptere proche de Pts dontut qeque emps Arre pres uor ft derter tros nosvene en cette Ve qu e voynt ptftr ns dre eu ne put que pouer ṕés uy mprecuon de Ddon contre EncePro pprerHc t & notrs uere duen esNon rno exped tos qo ex vre eqentr Ms enfn on reenment etot ute pr ce que e e deut ouuenr des trttemens que es ens uoent ft à NneyMotte & Pont à Mouon ce qu o ge de e tre ot & de dre euement tout s Deu et Deu Ms prce que ce fut e feu Crdn qu ft ces cr es dont nons portons uourdhuypene e trouue que nous uons uet de nous pndre à Deu pr cette ex enton Prres notr pecceroné é&on unt e es s qres crns portsms"
+        ],
+        [
+            "4 Ms ons eh pn ee pure Due qu detourne à pent ur es Lorrns e me quon ot coufuns enputer ux Normns ppus e mnquenent de pro e z dons euemet que yqueqe defut dnseondtce pour e trt de egereté qu vent de commet reneceté de es fresft en pus quevo onté deurs que eprt e erot pont ceréptes troues qouffertes durnt tnt dnnées Enfn pus qu sgt dvn trtté́ ft enre on Atee de Lorrnes on Em ce zrne croyons que e prege en et fort utgeux pour notre forunes Aoe preumer que nous ne mnquerons duoren otpxh meur de ces deux grds Peronnge pn enperonne vr de utre e Crdm émogne deorms pourretrtefcté que e Due àtemognee pur ee uquescy & f e Duc u contrere e ontruf terme à̀ demeurer pr nous que e Crdnpru pr e pe A quoy certes e Crdn dot dutnt ons repugner quuee cet quté consrtée pr fnpe & p rpport ux mœun deon Acee de Lorrneurot eu de porter d or mns comme on Emnence de Rcheeu euperé tre de Crdn Duec FN"
         ]
     ]
 }

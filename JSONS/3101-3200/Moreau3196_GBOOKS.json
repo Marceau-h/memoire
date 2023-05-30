@@ -2,172 +2,56 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "narration",
-            "récit"
+            "récit",
+            "relation"
         ],
-        "subject": null,
+        "subject": [
+            "Louis XIV",
+            "Parlement"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-04-11",
+        "creation": "1652-10-13",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-27",
+            "@when": "2022-07-08",
             "@who": "AB"
         },
-        "titre": "Relation véritable de ce qui s'est fait et passé à\n          Gravelines.",
+        "titre": "Relation véritable contenant tout ce qui s'est passé en\n          Parlement, le samedi 19 octobre 1652, en présence de Son A. Royale, sur le retour de Sa\n          Majesté en sa bonne ville de Paris.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-04-20",
-            "#text": "20 avril 2021"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3198_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3196_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RELATION",
-            "VERITABLE,",
-            "DE CE QVI S'EST FAIT",
-            "& paſſé a Grauelines.",
-            "A PARIS.",
-            "M. DC. LII."
+            "Reton vérte contennt tout ce qu sest pssé en Prement e smed 9 octore 652 en présence de Son A Roye sur e retour de S Mjesté en s onne ve de Prs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Reton vérte contennt tout ce qu sest pssé en Prement e smed 9 octore 652 en présence de Son A Roye sur e retour de S Mjesté en s onne ve de Prs Prs Jen Brunet 652 dté du 9 octore 652 Lyon Bothèque muncpe3285TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs396 Reton vérte contennt tout ce qu sest pssé en Prement e smed 9 octore 652 en présence de Son A Roye sur e retour de S Mjesté en s onne ve de Prs Prs Jen Brunet 652 8 pgesprose réct reton Lous XV PrementLe prnce de Condé sort de Prs 65"
         ],
         [
-            "3",
-            "RELATION VERITALE DE",
-            "la perte de Graueline.",
-            "E Cardinal Mazarin a ſi bien dégarny tou",
-            "tes les places frontiéres pour compoſer cette",
-            "victorieuſe armée, qui l’a ramené triom",
-            "ad phant à nos portes en dépit de Meſſieurs les",
-            "Pnre des Palenmens e&e de rouis les peules u",
-            "l’Eſpagne ne fait qu’vn jeu auiourd’huy de reprendre",
-            "les plus fortes. De toutes nos conqueſtes, GRAVE",
-            "LINE eſtoit ſans doute de plus neceſſaire, & la plus",
-            "importante pour ſa ſeituation, entre Calais & Dun",
-            "erque, lequel demeure à preſent bloqué par la perte",
-            "que nous en auons faite: Quand il n’y auroit eu pour",
-            "nous la faire conſeruer, que la ſeule conſideration de",
-            "l’argent, des ſueurs & du ſang que la priſe auoit cou",
-            "ſté à la France, s’en eſtoit aſſez, car iamais ville ne",
-            "s’eſt venduë plus cherement; & neantmoins au",
-            "mencement d’vne campagne elle s’eſt trouuée deſt",
-            "tuée, non ſeulement de la preſente de ſon Gouuer",
-            "neur, qui eſtoit venu auec ſon Eminence deſchirer",
-            "es enrailes du Roaume, mais encot de bleds, de",
-            "ſoldats, de poudre, d’armes & dartillerie:",
-            "Veritablement on ne peut faire reflexion ſur ce de",
-            "4",
-            "le.",
-            "5",
-            "2. .",
-            "7"
+            "RELATON VERTABLE CONTENANT TOVT CE QU SEST PASSÉ EN PARLEMENT Le Smedy 9 Octore 652 en preence de Son A Roye Sur e retour de S Meté enonne Ve de PrsA PARS Chez EAN BRVNET ruë Snte Anne M DC LAuec permson"
         ],
         [
-            "gpe;",
-            "ſordre, ſans vn eſtonnement prodigieux de l’aueugle",
-            "ment de ceux du Conſeil du Roy, qu’on voit ſi hau",
-            "tement fauoriſer le reſtabliſſement du Mazarin, apres",
-            "des preludez ſi pernicieux à l’Eſtat.",
-            "Afin que tous les bons Francç̧ois en regrettant la",
-            "perte de Graueline, ayent àu moins la conſolation d’a",
-            "prehender que cela n’a pes eſté fait de ceux de la part",
-            "des Officiers & des Soldats qui y eſtoient, mais par la",
-            "ſeule faute du Gouuerneur de la place, & la compli",
-            "cité de ſon bas Maiſtre le C. Mazarin: Ie v eus leur",
-            "faire vne courte & naïfue relarion de l’eſtat auquel",
-            "elle eſtoit, lors qu’elle a eſté aſſiegée, ſans chercher",
-            "d’autres teſmoins de la verité de ce que ie diray, que",
-            "les Officiers qui l’ont defenduë.",
-            "L’Eſpagnol l’inueſtit l’onziéme iour d’Avril de la",
-            "preſente année, & la garniſon ne ſe trouuant compo",
-            "ſée que de cinqcens hommes au plus, au lieu qu’elle",
-            "en deuoit auoir trois fois autant. On y fit entrer ſoi",
-            "xante Boulonois d’vn coſté, & autant de Poulonnois",
-            "de l’autre.",
-            "En ſuitte le ſieur de Leſtrade Gouuerneur de",
-            "Dunlerque leur enuoya encor vn ſecours de deux",
-            "cens hommes, conduits par le ſieur de Villiers Capi",
-            "taine au Regiment des Gardes, qui entra heureuſe",
-            "ment dedans auec cent quatre-vingt hommes, apres",
-            "neuf liuës de marche à pied, parmy des vatregans &",
-            "des foſſez plains d’eau.",
-            "L’arriuée"
+            "3 Reton verte contennt tout ce qu set ft & pé en Prement e Smedy 9 Otore en preence de Son Atee Roye VRLettre que S Mjetéecrt à Q Son Atee Roye Meeurs du Prement e ont emez cejourdhuy dx L neufeme Octore où Moneur e Duc dOrens set trouueé té de Moneur e Duc de Gue & de Moneur e Duc de Beufort & ecture fte dcee Lettre & ur es ponts qu regrdent eretour du Roy à Prs eogne ment des troupes de Meeurs es Prnces urFrontere & Amnte Genere eté réo u que Moneur e Duc dOrens erot tres humement uppé denuoye? Moneurt dA gre à S Mjeté pourupper treume ment deprt denuoyer vne Amnte Gene re en fçon que tout e monde fut contnt & euré ce qu ccrotrotoyepuque à on retour tndereé de tous es Bourgeos & H"
         ],
         [
-            "Z- -S.",
-            "L’arriuée dudit ſieur de Villiers fit quiter au ſieur",
-            "de Valberet Lieutenant de la place & aux autres Of.",
-            "fieiers de la garniſon, la reſolurion qu’ils auoient pri",
-            "ſe apres vne meure deliberation qu’ils hrent le cin",
-            "quiéme iour du ſiege, d’ahandonner tous les de hors,",
-            "& de ſe retirer dans la corps de la place, veu l’impol",
-            "ſihilité en laquelle ils eſtoient de la garder, auec ſ",
-            "peu de monde, & ſans aucune munition de guerre.",
-            "Car, En premier lieu, il n’y auoit dedans que o",
-            "hommes, comme i’ay déja dit, en comptant les ſix",
-            "vingt qui s’y eſtoient iettez dans le commencement",
-            "du ſiege: Et pour toutes armes, il n’y auoit que cent",
-            "cinquante mouſquers, & cent piques à partager en",
-            "tr’eux; de ſorte, qu’ils eſtoient pour le moins deux à",
-            "chacune de ces armes.",
-            "Il n’y auoit point de bled, parce que quinze iours",
-            "deuant le fiege on en auoit oſté quarre mille raſieres,",
-            "qu’on auoit portées & venduës à ceux deS. Omer.",
-            "Il n’y auoit point de groſſe poudre pour les canons,",
-            "& pour celle à mouſquet elle eſtoit moüillée.",
-            "A la verité il y auoit ſoixante canons, mais de ce grand",
-            "nombre, il n’y en auoit que treize en eſtat de ſeruir,",
-            "tout le reſte eſtant éventé, & ſans affus.",
-            "Pour ſeruir les treze canons, il n’y auoit que cinq",
-            "canonniers, auſquels le ſieur de Villiers ioignit deux",
-            "foldats de ceux qu’il auoit amenez, qui n’eſtoient pas",
-            "tout à fait ignorans en ce meſtier.",
-            "Voyla le bel ordre que le Comte de Grançay auoit"
+            "tns & rendrot entrée de S Mjeteé dns onne ve de Prs pus goue n y e nt vn cme vnuereDe pus Meeurs du Prement ont upé́ Son Atée Roye de ne pont prr de Prs uee neut veutoutes es ffres pcfées & de contnuer pouours à eur Compgne enuence & onne voonté ce que Son Atee eurproms & euréyen de pprence que es ffres e p cferont eot & e rerour de notre Soe nous dot fre eperer qu dper prpre ence non euement es nuges deguerre &denton ms encor ceux decrnte & de pprehenon que queques muus eprts pourroent ger dsmpcté du peupe cr comme dt e Sge Rex edens n o dtpe omnme mum & tout n que ce net ps ez à vne Ame ncte de stenr du peché ms encore ee et ogée deuter e cnde eon S PuAn ce net ps ez à vn on Roy douertoutes es choes que es peupes uroent pû f re pendnt es dentons cues ms enco redot eur oter pr toute orte de moyens crnte &deffnce dvn chtment à venr &cet ce que prtquot fort en Augute Cer à endrot meme de ceux qu conproent tous es jours contre uy commef enurx Cnn & Mxme"
         ],
         [
-            "douné pour la garde d’vne place, qu’il a mis plus",
-            "d’argent daus les coffres, depuis que ſon Alteſſe Roy",
-            "alle, qui le croyoit plus entendu, l’en a fait Gouuer",
-            "neur, que n’ont faict à d’autres vn peu moins auares",
-            "des gouuernemens de Provinces toutes entieres.",
-            "On peut dire à ſa deſcharge, que s’il eſt preueu",
-            "le ſiege, il y euſt peut eſtre mieux pourueu, & que",
-            "les Elpagnols ont vſé enuers luy d’vne trahiſon inſi",
-            "gne d’auoir attaqué la place l’onzieſme Auril, qui",
-            "eſt vn mois deuant qu’on ait accouſtumé de faire des",
-            "ſeges, & pendant qu’il eſtoit aupres du Mazarin.",
-            "Les aſſiegeans toutesfois, quoy que ces defaux eſ",
-            "lentiels ſemblaſſent leur ouurir Graueline de tous co",
-            "ftez, n’ont. pas laiſsé par la vigoureuſe reſiſtance de",
-            "nos pauures aſſiegez de demeurer plus d’vn mois de",
-            "uant, & de leur accorder la compoſition la plus",
-            "norable qui ſe faſſe, deuant que d’y entrer; mais en",
-            "fin ils y ſont entrez, & nous n’auons plus de Graue",
-            "lines, que la douleur de le voir ſi mal.heureuſement",
-            "retourné ſouz la puiſſance de nos ennemis.",
-            "Comme nous auons perdu cette grande place par",
-            "la faute du Gouuerneur, i’ay bien peur que nous ne",
-            "perdions bien toſt encor Dunlerque, Ardres, Ca",
-            "lais, Boulongne ou Monſtreuil, par celle de l’incom",
-            "parable Marquis de la Vieville Sur-Intendant, par ce",
-            "que le fonds de ces garniſons ſe deuant prendre à",
-            "lulineen e ieneiiueunun deſenen eie ile",
-            "9"
+            "Mxme pus que non euementeur prdon n ttentt qus uoent ft contreperon ne ms encore eur donn que de progdg4 de grnds ens & de grndes rgees ce qu rendt ces deux grnds hommes es deux coom nes nernes de es Etrs &eurent tout de pus prt dns es cones & dn es entrepre quoy qu ny t pont de compron de nos mouuemens ̀ eurs fctons detetes Nent mons notreMonrque ne cednt en ren àvertu dAugute nous pouuons en à pus for te ron eperer toutes ortes de mrquede f onté & protecton u ur cette confncenypont de Bourgeos dns Prs qu nete de oye ̀nouuee du retour de S Mjeté & Meeurs es Coones y ont e4 en peron ne pour uy en rendre des temognges ure4 deprt de roureVe Nous ne doutons ps que S Mjeté deprt ne eue tous es ujegs de deffnce qu pourroenp ntre des mouue mens pez dns eucoup deprtsCe et ps quon pue ojecter que es Bourgeps de Prs yent ms ren comms drectement contre ntenton de S Mjeté eur de en ynt touours eté de uy per & couer uer on utorté mson venot à̀ des recher ches crupoeues on pourrot y eneuer eucoup dnnocens & des gens e hen qu B"
         ],
         [
-            "-paa v",
-            "pour ſe conſeruer par luy dans ſa place, leur man",
-            "quant, comme il fait à toutes les choſes les plus ne",
-            "ceſſaires, ces Villes demeureront en proye aux enne",
-            "mis, ſi par faute d’hommes & de munitions pour les",
-            "garder: Les ombres de nos braues Heros Franç̧ois",
-            "qui les ont acquiſes à leurs Roys, aux deſpens de leurs",
-            "vies, ne reuiennenr encor auiourd’huy pour les defen",
-            "dre.",
-            "FIN."
+            "uroent des ennems e Cour ne pourroent vure en eurhce dns e retement des f fresAn fn que e cme ot vnuere &eu reteé puque nous uppons treumement S Mjete que Amnte ot genere & ns reeruton fn que dns etenduë dece mence tout e monde ot à ry de op preonCet ce quee dere fre vor à on re tour que nous ttendons uec des mptences extrordnres pus que dceuy dot ntre no ftre prermere fecté &gore de S Mjeté qu net ps mons grnde à trompher des cœurs d e es fujets comme des pces de es en nemsSurquoy on nous eusre que S M fer reuenrqueques fcers du Prement qu etoent àPontoe fn de es reunt eneme comme s etoent uprunt & que pour rendre on r tour pus gorex ee enuoyer Armte Ge nete pout etre verfé́e u Prement de Prs Set nf comme nous eperons ugez quee eroye e tous es Prens quees cemtons puques & ques reentmens dogtons nous deuoms temotgner àom té de S Mjefté qu commhe vn on pere defrre coutt e premer u co de es en fms pour eur donnerenecton pres"
+        ],
+        [
+            "uor eogné́ ceuy qu jettot e troue dnsmon Roye Cet mntennt Meeurs es Predcteurs de Prs que vous deuez crer Prte evs Dmn Ouy pus que Deu nous commnde dhonorer nos Roys & qudt pr Ecrture D ets ns terr eet eg untnece s Nous eurs deuons preprer des voyes nous es deuons receuor uec des réjounces pu ques & toutes ortes de temognges de fde teé́ prtcuerement u ors quà̀ mtton du Roy des Roys s vennent uec ces mots de Ps usMefeurs es Coones ont eté́ regez pr S Mjeteé penddement & eurdonneé Audnce fuore s douent retourner u deunt de S Mjeteé à on entreée à Prs cet ce qu nous ft uger que S Mjeté mgré tous es enueux n ps oué ncenne ffecton que es predeceeurs Roys ont rouours eu pour P rs u Prs neut ms pus de tendree qu enpour on Roy qu porte e ttre de Deu donneé ynt tnt ft de vœux u Ce pourNnce & donnnt à on peupe tous es temognges dvn grnd Royne uy rete p us qù fre es memes vœux pour vn Cone d gne de uy cr vn grnd Roy en Frnce & vn on Cone et pour rendre tous es ujets heu reux & porter on Empre uquux extremtez"
+        ],
+        [
+            "8 de Europe Cet ce que nous pourons vor vn our pres e retement de notre repos & extncton des guetres Cues qu donnent eu à nos enems d reprer & de reprendre espys queveur de nos Ches uoent conqus ur eux durnt notre onne ntegence Cet pourquoy nous deuons prer Deu qu coner ue touours Vnon dnsmon Roye & qu veue cher es outtefeux dedcorde qu ouuent font mne de erur e Roy & neeruent qu eur propre nteret pourconer uton duque s ne e oucent ps dhrder Ett de eur Mtre & de repndre e ng de es meeurs ujets FN"
         ]
     ]
 }

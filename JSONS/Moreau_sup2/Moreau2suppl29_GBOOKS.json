@@ -1,179 +1,86 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "chanson",
-        "subject": "Mazarin",
+        "genre": [
+            "articles",
+            "texte officiel"
+        ],
+        "subject": [
+            "Parlement de Paris",
+            "Chambre Saint-Louis"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-15",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "L'Avancoureur de la fin tragique du cardinal\n          Mazarin.",
+        "titre": "Articles arrestez en la salle Saint-Louis par les députez\n          des quatre compagnies souveraines de Paris en l’année 1648.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2suppl31_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2suppl29_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L’AVANCOVREVR",
-            "DE LA FIN TRAGIQVE",
-            "DV CARDINAL",
-            "MAZARIN",
-            "M. DC. LI."
+            "Artces rrestez ense Snous pr es députez des qutre compgnes souvernes de Prs en nnée 648 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Prement de PrsArtces rrestez ense Snous pr es députez des qutre compgnes souvernes de Prs en nnée 648 PrsSns Nom648 ps vnt octore 648 Lyon Bothèque muncpe de LyonSJ F 247/79 2TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs29 Artces rrestez ense Snous pr es dép tez des qutre compgnes souvernes de Prs en nnée 648 Sn d 9 pges Pèce trèportnte @ rère Cest pr ou quee n ps fguré dnsBgrphecr jeCounosss sn ors Les rtces du reste sont tns e Jurn de Prtement © dns Fstrre d temps de Jonnes Du Portprose rtces texte offce Prement de Prs Chmre Snous"
         ],
         [
-            "3",
-            "L’AVANCOVREVR DE LA",
-            "T T",
-            "fin tragique du Cardinal Mazarin.",
-            "ONSEIGNEVR,",
-            "EI",
-            "’y rû d’abord que Voſtre Alteſſe n’approu",
-            "ueroit pas la plus grande partie des Vers que",
-            "j’oſe luy preſenter dans ce petit Volume, non pas",
-            "tant paur la rudeſſe de leur ſtile, que pour la ven",
-            "geance dont leur Autheur ſemble eſtre porté contre",
-            "n homme le plus odieux de la nature. Il eſt vray,",
-            "MONSEIGNEVR, que voſtre exemple eſt tres",
-            "puiſſant pour molerer ceſte paßion dans les eſprits",
-            "les plus animez, puis que s’il y a homme au monde",
-            "qui doiue auoir des juſtes reſſentimens de codere &",
-            "d’animoſite comtre luy: C’eſt vous, MONSE1I",
-            "GNEVR, qu’il a injuſtement detenu dans les pri",
-            "ſons de Vincennes l’eſpace de cinq ou ſix ans: & ſi",
-            "le Ciel qui vous auoit deſtiné pour eſtre l’azile &",
-            "le fidelle ſuport des Pariſiens ne vous eut inſperé les",
-            "moyens d’en ſortir par vn coup autant ineſpire que",
-            "hardy, peut-eſtre croupiriez-vous encore dans ces",
-            "en pe e ele e dene ae lnu"
+            "D T E ARTCLES PROPOSEES ET ARRESTEES EN LA CHAMBRE S Lous pr es Deputez des 4 Compgnes Souuernes de Prs en nnée 648 ENSEMBLE VN E XTRCT DES Decrtons du Roy Arrets du Cone Premenmt Chmre des Comptes & Cour des Aydes 2 A A PARSM DC XLV"
         ],
         [
-            "4",
-            "la triſteſſe & de la mor. Neantmoins par n traie",
-            "de generoſité qui n’a point d’exemple, vous auez ſçeu",
-            "tellement moderer voſtre eſprit, qu’apres vn affrone",
-            "ſi ſenſible, vous auez regardé voſtre ennemy, le",
-            "pouuant perdre vous l’auez laiße viure; & le",
-            "pouuant iuſtement detenir, vous l’auez laiſßé ſau",
-            "uer. Peut-eſtre direz vous, MONSEIGNEVR,",
-            "que ie ſuis ſemblable à ces Renardeaux qui eurent",
-            "bien la hardieſſe d’entrer dans la grotte du Lyo,",
-            "lors qu’il rendoit les abois, & la temerite de luy ar",
-            "rcher la barbe lors qu’il ne pouuoit plus ſe defſ n",
-            "dre: de meſme que ie declame outraguſe ment dans",
-            "nes vers contre le Mazarin, lorr qu’il ne paroiſt",
-            "plus, & qu’il n’eſt plus dans la puſſance de me",
-            "nuire: mais-ie ſuplie tres humiblement vſtre",
-            "lteſſe, de eroire que l’auerſion ’que i’ay touſiours",
-            "temoigné contre ſa perſonne pouir ſes mauuais de",
-            "porlemens, à’eſté ſi profondement grauee dans mon",
-            "tcœur, que ny l’eſclat de ſa pourpre;, ny l’eſperance",
-            "A.",
-            "d’vne plus haure ſortuné; n’ont iamais pù m’e",
-            "branler, ny changer ma reſoluton. Ceux qui me",
-            "D.",
-            "congnoiſſent bien, m’ont touſiours veu ux attaques,",
-            "& aue priſes contre les Partiſans de ſa fortune,",
-            "qui par des menaces capubles d’eſpouuenter tout",
-            "autre eſprit que le mien m’ont ſouuent donné le nom",
-            "& la qualite de ſeditieux Ani-Mazarin que ie",
-            "receuois -auec- gloire & applaudiſſement. Que ſi",
-            "8",
-            "res"
+            "& rretees enUhmre T S Lous 648 C PR E mMs m nr e e e e nren ene e nes e nnene urrCommons extrordnres non verfées es e Cour Souuernes eront teuoqué́es dés à s t pre entLes trtteéz des Tes Ton utnces & toutes u rres mpoton & euécs dés à preent reuoquées & ed es Tes esmpoees & eué cs enforme mce nne & tomme uprunt edts trrttezdnton d qurt u proft du peupe rendu que dte dmnuton et eu coup mondro que ce quen proftent es trttns uec re me de toutce qu vet dou juques & conprs nnée 646 pourrondequoy tous pronners detenus és pr ons eront érgs Les Treorers de Frnce Eeus & utres Offccrs des Generte Eetons Rëteueurs generux & prtcuers rets enfoncton dc eurs chrges gges & drots es denersportez enmnetre côdtumec és receptes prt cueres & dcees àgenere & de à à Eprgne es ergss ordnres preentpýes& cquttées ceux deners empoye à nétoncmenmt des Mons royes & ffres deguerr ns qus puent etre d uerts pour queque occon & ous queque petexte que e pue etre nonotnttoutes gntons erttez prets dunces & uurosemptchemes queconques à pene A j"
         ],
         [
-            "5",
-            "mes Vers ſont pleins de vengeance (& de cruauté,",
-            "cela ſe peut s’attribuer pluſtoſtaux tranſports de la",
-            "Poêſie quaux veritables ſentimens de l Autheur,",
-            "que ayant vn cœur veritablement rançois O Chre",
-            "ſtien, doit plus encliner du coſté de la compaſſion",
-            "qu aux extremitez de la rigueur; leſt neontmoins",
-            "vray que le Mazarin eſtant criminel de leze ſieſté",
-            "diuine & humaine, doit ſouffrir vn chaſtiment tres",
-            "oxemplaire pour donner de la crainte aux Italiens, &",
-            "autres de nation eſtrangere qui portent leurs mains",
-            "dangereuſes ſur le timon d vn Eſtat le plus floriſſant",
-            "du monde: noſtre ſiecle en peu de temps en a veu deux",
-            "qui ſortis de fort baſſe extraction ont ſeduit les eſprits",
-            "de nos Reynes pour s’enricbir de nos biens. Lvn a",
-            "fait ne fn tres-malheureuſe & tragique: L’autre",
-            "doit iuſtement apprehender de tomber dans la meſme",
-            "infortune & ſi les ſouhaits & les Propheties s accỗ",
-            "pliſſent il n en doit pas moins eſperer (les rouges rou",
-            "ge, les rouges aſsome or,) Il faut que j’aduoïe icy",
-            "ingennement que le plus grand deplaiſir qui me reſte;",
-            "C eſt de voir que cét ennemy de la France, &ce l’arti",
-            "ſin de l Eſpagne s eſt retiré chargé de nos dépoûil",
-            "les, de nos Louis, & de nos pierreries: & j aurois",
-            "ſouhaité auec paßion, que l’exemptant du feu, des",
-            "rouès, des potences, & des cheualets:Le Parlement",
-            "luy euſt fait rendre conte de ſes mauuais déporte",
-            "mens, & l’ayant depoïillé comme l oyſeau de la fable,",
-            "B"
+            "4 vepeton coôrë eés ordonnteurs eurs veues & herters& prtes prenntes Defenes ux trttns dedtes Tes & utres creuës defre ucunes conrntes tnt pour es nnées precédentesqe uuntes eqoes enemetottes gntons de meurerounues Qu er ety vne chmre de utce compoée dOf fcerydesCompgne ouuetnes qu eroht nomnez pr cees pour cognotre & uger des hus & mver tons commes en dmntron des nnces du Roy &exctons fts à es Sujets Quttendunotoreté du reus des encheres ur es Fer mes ds Royer de nouueprocedé àpuocton de dtes Fermes àmnere ccoutumé́eScrontc és dudctres des Gees Fermers dos Ay des & cnqgroes Fermes & d toutes utres Fermes du Roy ns excepeon contrnss ns excepton porter ou fre porter à̀ Eprgne toutes chrges preement pyées & equttéeses deners psouenus du prx de eurs fermes du qurter dAur 68 & de ceux qu echertont cres uunt eurs uxonotnt toutos preseodues dunces prets & gntons urcees ns quueune quttnce mndemen recrpron ou recepé de Eprgne ceuãe expedez ur edts doners des qurters dAvr & uus pue vder en queque orte & mnere que ce ot ns dés à prefensons decre nues & de nu effect uf à eur etre pourveu pour eur omourement & nteret egte en temps & eu en cognonce de cueEt eront preement tous prets trttes & dunces fts ur es ggesretrngez à tous es Offcers de Frnce & ur es rentes de quoque nture quees oent à com mencer dés preent decroznusVNe erone ftes ucunes mpotons & txes quen Vvere dEdcts & Decrtonsen & deuemene verfez és Cous Souuernes uqeescognofnceepprtent ereé"
         ],
         [
-            "6",
-            "Ieuſt renuoyé en exilaux Indes ou en Canada: (& là,",
-            "finir le reſtede ſes iours, & faire penitence de ſes pe",
-            "chez,) Jleſt encore aſſez de bonne heure, & les puiſ",
-            "ſans ont les mains aſſe longues pour l ’attraper quel",
-            "que part qu’il puiſſe eſtre refugié: Quoy ques’en ſoit,",
-            "peut eſtre ne troublera-il plus noſtre repos, & les Pa",
-            "ſiens viuront d’oreſnauant ſans crainte, & ſous les",
-            "aiſles de voſtre protection. Pour moy i’eſpere que",
-            "voſtre bonté me permettra qu’à la qualité d’Anti",
-            "Maarin, ie joigne auec mes tres-humbles reſpects",
-            "celle de",
-            "MONSEIGNEVR,",
-            "Voſtre tres -humble, tres-fidelle, &",
-            "tres-obeiſſant ſeruiteur, S C ſieur",
-            "D. P. & l’Anti- Mazarin."
+            "erté de uffrge & que executõ̃ dedts Edts & Decrtõ6s eur ener reeruée ns quucun des Htns des Ves & Communutez puent etre contrnts odrement pour es txes & drocts nmpoez ur edtes Ves & CommunutezDeenes à toutes peronnes de fre ny contnuer ucunes eues & mpotous en vertu dEdcts & Dectons non ver V fez à pene deve Ne er ft ucuntetrnchement du Domne du Roy rentes gges & utres drocts ccordez pr es Edcts deuëment ver fez pr edtes Compgnes Souuernes & que toutes txes en vertu dArrets du Cone ou Decrtons non verfécs eront reuoquées V Attendnt que pr e retement deox genere es ffres du Roy puent permertre que es rentes puent etre pyées des qutre qurters de nnée uunt eurs nttutons er e tonds pr chcun n dns es Etts du Roy de deux qurters & demy pour es rentes ur es Aydes 8 & o de prs & Cergé de deux qurters ur es huct mons de ures des Tes recepte genere & prounce & pette Te Rentes des Aydes ees de Lyonnos & Cnq groes Fecrmes dont e pyement er ft pr prefernce à toutes chrges memes àprte de Eprgne Et pour remeder ux us que com mettent ordnrement es pyeurs dedtes rentes u preudce des prtcuers enters que dorcnunt es deners detnez u pyement dedtes rentes eront pr chcune epmne des Bureux des Fcrmers & Comptes ur eques ecs ont cté gnées portées pr es eceueurs & pyeurs des rentes en pre ence dvn note Bourgeos qu cr nommé pour veer u recouuremen & pyement dedtes rentes uunenture dcees pr deux Conecrs de chcune des qutre Cours Souuernes de cette Ve de prs uec es preuot des Mr chnds & Echeuns de prs en Hote de Ve & ms dns es coffres dcee uec ordereu des epeces prphez des Com ms des Fermes & receptes eques coffres fermeronut à̀ deux cefs dont vne cr grdée pr e Receueur & utre pr e note Bourgeos nommeé pour etre edts deners dtrue à chcu our de Burcu pr edts pyenrs en preeuce dedts Coneers vn des Echcuns & dudt note Bourgeos ux prtcuers enters ux memes epeces qus uront eté re B"
         ],
         [
-            "7",
-            "ADVISAV LECTEVR.",
-            "TJT7 .",
-            "A MY Lecteur, Si ta curioſité te porte de",
-            "lire ces Rimes Françoiſes, tu y verras en",
-            "ſuitte la Mazarinade compoſée à quatre parties,",
-            "lors que le Mazarin aſſiegeoit la ville de Bour",
-            "deaux C’eſt vn air Bachique plus propre dans le",
-            "Cabaret que dans le Palais. Pour ta ſatis faction",
-            "i’y aurois fait imprimer ces quatre parties en Mu",
-            "ſique, ſi ce genre d’impreſſion n’eſtoit trop rare",
-            "dans Paris, & qu’il n’y a que le ſeulM. Balard à",
-            "preſent quien ait le Priuilege. On eſpere neant",
-            "moins que d’autres l’auront bien toſt. Si neant",
-            "moins tu deſires de le voir & de l’ouyr à quatre",
-            "parties, ie t’aduertis qu’outre qu’il eſt dans les",
-            "mains de pluſieurs particuliers; tu le treuueras",
-            "aiſément chez quelques Chantres deNoſtre-Da",
-            "me, de la Saincte Chapelle, de Sainct Germain",
-            "de Lauxerois, & de Sainct Innocent. Lors que",
-            "i’en eus compoſé la parole, au temps que le",
-            "Mazarin emmenoit le Roy au ſiege de Bour",
-            "deaux, il y eut trois Compoſiteurs de Muſi",
-            "que qui s’eſcriment deſſus, mais entre tous vn",
-            "fſeul a le mieux rencontré, il n’y a point de dan",
-            "ger de le nommer icy, c’eſt G. le Febure de"
+            "eeus & tér edt note Bourgeos ors que edts pyeur feront eurs feues pour empecher que edts pyeurs ne mettont urfecue du qurter cournt es veux rrerges des qurters pe & pendnt vn ourextrordnre pour pyt edts veux rrerges des qurters poz ns que es eceneurs & pyeurs dedtes rontes & Controeurs puent receuor eurdts gges & drocts non pr proporton & con curence pour ut nt de tomps que es enters & non pus Et pour edt note Bourgeos etre chngé tous es tros mos pr es Commres deputez pr edtes Cours Souuernes eques semeront pour cette effect enSe S Lousux premers ours de chcun qurter pour y truer & fre que edtes rentes oent enterement pyez udts nenters & eront tous dons de deets de quttnce decrez nus & toutes commfons pour ce expedées memes cees de Bon reuo quées pour es deners en prouenns dedts deets etre portez odts coffres & dtruez ux enters n qu er ordonné pr edts Commres V Quucun rchpt des rentes ur e Roy remourement dOf fces & drots ne er t quprespx puée Et dutnt que ceœunt pueurs remourement ont eté fts u preu dce du Roy ce qudonné eu à pueurs prets & dunces qu ont conommé es fnnces du Roy juques en nnée 63 Que tous ceux de queque quté & condton qus oent qu ont eté proprerres des rentes offces & drots ont eté rem ourez pr e Roy depus e commencement deguerre mon tnt à pus de trente mons de ures eront contrnts de re mettre ux coffres du Roy es deners pr eux receus pour edts rchpts & remoureméës & eur etre pé pr es Preuot des Mrchnds & Echeuns de cette Ve de Prs nouueu con rrcts & conttutons de rentes à ron du dener 4 & ur es memes fonds quees etoent conttuées pour etre es deners prouenns dedtes conttutons empoyez u pyement des Gens de guerre Et dutnt que pr muue foy ucun e ont fts remourer à ron du dener duét u eu du dener qutorze qu etot eur premere fnnce eront tenus àre teuron du qudrupe de ce qus ont trop touché & receu&c ux nterets du mpe uunt ordonnnceQue touts rentes conttnées pr es Pruot des Mrchnds"
         ],
         [
-            "Many, quia eſté eſleué Page dans la Muſique du",
-            "feu Roy, & du depuis a ſeruy de domeſtique",
-            "aà la maiſon de Vendoſme. Tu ne dois point",
-            "craindre de le concerter dans l’abſcence de Ma",
-            "zarin, puis que eſtant meſme dans Paris, on",
-            "la chanté auec des lnſtrumens dans pluſieurs",
-            "bonnes compagnes. Adieu & boy à mlanpé́"
+            "& Echeuns ns Edts verfex eront decrées nues De eones udts Preuot des Mrchnds & Echeuus den ordon ner e pyement & ux Receueurs & pyeurs des rentes de es pyer à pne de rdton en eurs propres & pruez noms uf eur recoursur es presprenntes X Que Edt du mos de Septemre 645 & Decrton du vnzecme My 6̃46 pour onnement du Domne du Roy enenm es Arrets du Cone du Roy concernnt e toe des mons eront reuoqúes & en conequence muée de toutes es ftes uec defenes de fre ucuues pouruttes pour ron dcees XEncore que e Donmne deCouronne ne pue etre ené que pour pnge des Enfns de Frnce pour e dot & doüre des Reynes & pour es vrgentes ffres deguerre Nent mons pr vn us nupporte ondepus queques nnées empoyé toutcs ortes de moyens pour en re perdre u Roypoeon à perpetuté ot pr des echnges ufs & r dueux pr vente nouuee de certne terre & Segneure &e pr dons excefs ot pr ugmenttons desncennes fnn ces ou domnes désj enggez ous prerexte des encheres tercement & douement Ce qu et rrué à te excéz querecepre fte dns es comptes depus nnée 6 ge pour ventô revente de Domne ou fonds de terre monte ̀ pus de ez mons de ures donte peut vecrfer quexéme prte net pont entrée ctueement ux eoffres du Roy e drpus ynt eté pyé en muue & fnue dete en rrerges de penons en dons grtfctons recompenes & urres choes tentes & uppoécs conte es ordonnces Et dutnt qupreuue de cet us ne peut etre tré que du neuu des Com ptnsReyne et treumement uppée de es fre repre enter prdcunt te Commres qu uy pr chofr &dte verfcton fte ordonner que es Bnggtes pyorone en deners comptns à Eprgne edtes ommes qusytrouus ront empoyées ous eurs noms ou pour eux & quepourftude comme edts Domnos eronreuns àCouronnò Ce qu ers preemeneoruô pourdes Donnos vendu ns Edéts verfez & pout esos vques et droc de ters & dnger grûre grtejoues prs&pots"
+        ],
+        [
+            "XLvgedes Comptns ynt efté pr certfcrons reconnu pr es Ettts generux du oyume pr toutes es Aemécs et s deourgcotpou n noyeneusé pour courc tous es us qu e peuuent cormettredsos fndncesL Royne et treumement uppée decondercr que es Comptns du cgne de Henry e Grnd enpus hute nnee meme en 6o9 qu entrétcns( comme chcnçt) de grndes & e crettes ntegenccs horsdu oyte„noe monté quà doux mmns deux cens m urcs Que durutmnorté du feu Roy snons monté qù dxneuf cens m ures & depus ju ques en 625 qù x ou ept mons de ures Quen nnée 64e monce qurntuct mons en nnée 644 Cnqunteufmons ept censrnt de m ures eques ont encores(eon opnon commune) ugmentées de eu conp és nnées uuntes dontn encores eté compté Et dutnt qu dns es omnes exceuese peut fcement tormettrc des deordres nfns & que dmntrton des f nnces er tousjours upecte u puc juques à ce quon ye remedé à exces dedts Comptnspr àMjeté ou supprnmer dutoutou du mons en ver pour es eues de penes qu mporte mccerement de tenr trecrertes qu et e uhjet pour eque s ont eté ntroduts reettns dedts Comptns tous dons voyges grtfctons recompenes remouremens empoys du qutréme qurter des gges & pponromens extrordnres chpts voyges uppemens dmdes depencs de tmens ponts & chuees que pr vn extrême us os ete compts edts Comptns conere outes es ordonnnces & regemens de Fnnces Toutes e quees depenes memestem & nterets des prets & d unces eront dorennnt empoyez en gne de compte u nnt ordre certn & er de chcun menu dedts Comprns ft qutre Etts orgnux contenns es noms & urnoms d ceuxuques chcuneprte ur eté pyée vn pour Mon eur e Chnceer & es tros àutres pour es utondnt Controeur gener des Fnnces & Treorer de Eprgne eques eront tenus de es grdor pour es repreenter u Roy & àneyne egente toutofos & quntes qu eurs r com nndé & ocdonné à pene den repondre e eurs propres & pruez noms eurs vefues & herters"
+        ],
+        [
+            "X Seront es Offcers des Bureux des Fnnces Secretres du Roy Predux Cormmres Controeurs des guerres Treorers & Pyeurs des Gndrmeres Treorers Proun cux Offcers & Trttes Fornes dAnjou Eetons Greners à Se & ucres Offcers tnt de udctures que de F nncesrets enfoncton de euxs chrges & enjou nce de eurs gges & drocts nonotnt tous prets & dun ces & fgnronmsequees deneuroront ues dés à peentX Qu ne pourr etre ft ucune creton dOffces s Cours Souuernes que pr Edct verfez edtes Cours uec erte entere des uffrges pour queque cue occon & oux pretexte que ce pue etre Letemene ncen des Com pgnes Souuernes ne pourr etre chngeé ny teré ot p ugmentton de Chmres etement de Semetres ou pr démemrement de reort dedres Compgnes pour eu creéer & etr de ouuees Que e meme er grde pour es Predux & uges futernes Defences à̀ toutes peon ues de fre & doncer tedes propotons perneeues ten dntes àruynes dedtes Compgnes à nenotement deutce & uueron des Lozx du Royune à pene detre uns exemprsment comme perturteur du repos pue Et erReyne remenent upée de reuoquer es Edcts de creton de douze Ofces de Mftres des Requetes des Semetres du Prement dA & Cour des Aydes de Nn tes & Bureu des Fnnces crêes és es deRochee An gers & Chrtres& es Offcers qus compoent edrs Bureux Eneme Edct des Grffrs AterntfsTrennux & Qu trenuux des uts ordntes eéneme que tous utres Of ces cŕes deopus 64e uques n eté pourueu demeureront XV upprmez Et f quetce ot dmnftréeuec honneur & nte grté reque Quà duenr ne pourr etre receu dns es Cours Souueos ueuns Tehttns Prtns euts cu tons ocez & ntereez ec eux ny eurs enfns & gen dtes encores quds euens eté receus uprunt en utresCours Souuẽrnẽs ns quucun en pue etrẽ dpẽncé XV Que es Offcers des qutre Cours Souuernes de Prs Greffers Pyeurs & utres Offcers du corps dcees eront pyez pr chcun n des gges à eux ttruez & ugment ton dceux Et que dorenunt e fonds nen er pus em poyé dns es ets du Roy ns receus dns es greners qu eur ont eté ou eront gnez des mns du peupe pr es Comms qu eront pr eux prepoez à chque ouuerture de greners uunt es Edéts & Decrtons des nnées 594 597 599 &637 XV Afn que Mjeté & es crencers des Comptes & Fer uers Trttns Prtns eurs cutons ocez & ntere ez ne puent etre frutrez commeet duenu tous ens de queques nture que ce ot meme es Offces qu e trouue ront eur pprtenr ms ous noms empruntez enemes ceux donnez à eurs enns en mrge ou utrement depus qus eront entreés dns es ffres deMjeté demeureront f fectez & hypotecquez à dte Mjeté & à eurs crencers & toutes eprtons de ens dentreux & eurs femmes t de pus edt temps memes es cqutons qu eront ftes ouz e nom de eurs femmes ou dutres demeureront ffectez àdte Mjeté & à eurs crencers derogentcét effect à tou tes Coutumes à ce contrreâv Que toutes cretons dOffces drocts txes & ugment ons qu e euent tnturgrnde que pette Chnceereque pour e Controe gener de rouces expedtons de Fnn ces qu ne ont verfez és Cours Souuernes eront dés à pre ent reuoquez defences ux grnds Audncers Contro eurs & à tous Offcers du ceu den fre ucunes euée à pene de concuon & den repondre en our propre & pruez XV uoms Seront es rtces de9 9p7 98 & 99 de Ordonnn ce de Bos executez & ce fnt que toutes mteres qu g ent en jurdcton contenteue eront renuoyees u Premnt Grnd Cone & Cour des Aydes & utres ugẽs or dnres uquesconuonce en pprtent pr es Ordon nnces ns que pr common prtcuere ee eur pue etre otée toutes commons extrordnres dés à preent reuoquée & es procez pendnts u Cone du Roy decognonce dedtes Cours dés à preent renuoyés en cees uec defences ux prtes de sy pouruor à pene de nuté dmnnde rtrre depens dommges & nterets & eront es prtes gnees dechrgées des gntons qu eur e ront données Que es Arrets donnez és Cours Souuernes ne pourront etre cez reuoquez & urcs non pr es voyes de droct perme pr es Ordonnnces Que es Mtres des Requetes ne pourront uger en derner reort à pene de nuté que que ttruton qu eur ot fte pr ettres XX Quucun des ujects du Roy de queques quté & condton qu ot ne pourr etre detenu pronner pe vngt qutre heures ns etre nterrogé uunt es Ordonnnces & rendu à on uge nture à pene den repondre pr es Geoers Cptnes & tous utres en eurs propres & pruez noms& que ceux qu ont dés à preent détenus ns forme ny fgurede procez eront dé́s à preent ms en erté & enexerccede eur chrges gges & drocts XX Que e Sutendnt gener des Potes & Res de Frn ce Megers & Mtres de Coches pporteront u Greffe deCour es Regemens concernns es Ports des ettres & p quets & ce pendnt defences ux Fermers Comms & dtr uteurs de ryer ny ugmentertxe dedts ports à pene de oooo ures dmnde & de punton corporee & en cs de contruenton perms den nformer XX Pour retr & fctererté du Comrmerce tous dons & conceons ccordez à toutes peronnes de queque quté & condton qus oent à ttre onereux ou utrement pour cheter ou vendre eus à excuon des utres ujets du Roy"
+        ],
+        [
+            "queque orte demrchnde queé ce pue etre eront nus defences à toutes peronnes de trouer ceux qu sen voudront entrettre XX Et dutnt queDrpere de Lne & de Soye de toutes ortes de frques ne ce çonnent pus en ce Royume com me ee ouoent à ce de cees que es Mrchnds Hon dos & Angos y pportent Ce quredut vn nomre nfny de menu peupe qu etot empoyé és mnufctures dedtes Drpere à mndcté ou ogez de trnporter eur domce eds ps etrngers outre e trnport des ommes mmenes L Reyne et tres humement upée dordonner que defen ces eront ftes à tous negons dpporter ou fre pporter en ce Roynme dedtes Drperes de ne & de oye mnuf cturées dedts ps dAngeterre & dHonde à pene de confcton & dmnde rcrre Comne u defences tertfues eront ftes à tous nego ns dpporter en Frnce des pements de Fndre & ponts dEpgne de Genne Rome & Vene & à tous es ujets du Roy denchepter & porter à pene preement de confc ton & de 5oo ures dmnde contre es contreuennts XX Pour remeder ux us qu e commettent àvente & d truton duos vn chron & utres denurées & mrchn des qu e detent ur euë & ur es echoppes deVe dePrs memes reger es nouueux drocts qu e prennent ur edtes denŕes & mrchndes es vns pr Edcts non ver fez oupprtent es utres ns Edtse rendrtros ou qutre ours ores chcune promoton de Preuot des Mr chnds vne emée de Poce genere en ChmreS Louys en quee teront des Offcers des Cours Souue rnes e Preuot des Mrchnds & Echeuns e Leuren nt & utres des prncpux Bourgeos Mrchnds deVe de Prs pour cognotre dedts us & reger e prx dedtes denrées & rcunds n qu etot ccoutume &set prtqueé fnon depus sy ns Serone"
+        ],
+        [
+            "XXVSeront es Ofces & txes ftes ur es mons & nettoye mons deVe de Prs uprmez & reuoquezPoce du nepyement de de ye reme entre es mns des Pour ges & pour ćet efect ncen drot ety defences de e urnr à duenr & à cét effet pout e deprtement des qtrtess mées de dte Ve er fte XXy Attenduvexton nottore quont cué & cuent our neement es Edcts des peuts eux notfctons Comm res ux Ses reees Controeurs des depens & que es c quereurs dedts drocts ont puque x fos remourez L Reyne er tres humement upee de teuoquer edts Edts & de es uprmer & de fre fre regement pour es receptes des Congntons & remettre edts drocts dedtes receptes en ett qus etoent en 6 o Et que pour over ux us & muernons qu e commenent és decrets & ordres ordon nerque doreuoe es rdres des ens des deteurs et e ront fts unt es djudctons dceux ens pr decrets Qu e Roy er treumement upe fre oerer es Ordonnnces contre es gens de Guetre qu quttene eur rou e fnt rendee es Chee Cptnes & Oeers repon ecuement des dormmges & nterets des prtes & en jondre ux Preuots des Mrechux de uure edrs gens de Guerre & dnformer des degts & muertons qu urpnt eté pr eux comme à pene den repondre en eur propre & pruez ooms 2 D"
+        ],
+        [
+            "EXTRACT DES DECLARATONS Dv Roy verpees ss Co vrRs S ovv rnes de Prs eneme pueurs Arrets don nez tnt u Cone quedts Cours en nnée m r cens qurntuct Preserenmot pour e dot ue T ADecrton du Roy du 3 Mrs s48 euë & pueés engrnde Chncoere de Frnce de Ordon nnce de Monegneur Seguer Cheuer Comte de Gyen & Chnceer de Frnce pr quee dte Mjeté urot o donné que tous es Offcers de Fnnce de on Royume Of cers du Cone & utte deCour Treorers de Frnce Ocers des Etons Greners à Se Euës & Forets Pre dux utces Royes & de Poce Offcers des Potes & M tres des Couters & utres Offeers de udcture & de Fnn ce ouyront durnt neuf nnées dedpence des qurnte ours de eurs Offces en pynt pr eux e pret & droct n nue n que pus u ong et contenuen ces Decrton Pr Arret du Cone du deuxéme Av 648 edts Of fcers des Predux ont eté dechrgeés du qurt dudt pretPr utre Arret dudt Cone dedts our & n pueurs Treorers Generux des Guerres utres Treorers & Ofcers mentonnés en ceuy ont eté dechrgez du pret Pr Decrton du Roy du 2 Avr s48 et dt que es Offcers des Cours Souuernes de ce Royume ouyront cy preés durnt neuf nnees à commencer u premer our depreente nnee & fnnt u derner Decemre 66 dedpene dergueur des qurnte ours que chcun Offcer dot uruure pres e controe dequttnce de regnon de on Offce ux condtons portées pr dte Decrton Pr utre Decrton du s My 648 regtrée en dte Chnceere e r8 dudt mos & n Le Roy pour ucunes"
+        ],
+        [
+            "confdertons nẽntonnées en ceé urot rẽuoqué e droct nnue qu uot eté ccordé pr dte Mjeté ux Offcers des Cours Souuernes &cét effect oedonné queucuns deux uoent enutes de d Decrton duvngeuf Avr pyé ux prtes Cuees e droct nnue depreente nnee que es deners eur eroent rendus & rettueés pr e Treorer dedtes prtes Cuees eu rendnt pr eux es quttnces qu en ont eté expedées que dte Mjetédecré nu & de nu effet Pr utre Decrton du o uet 6 8 regtree en d te grndChnceere e derner dudt mos & n dte M jete en conderton des eruces qu uy ont touours eté rendus pr on Rrement Chmre des Comptes Grnd Cone & Cour des Aydes de Prs Et dernt es oger à es contnuer nec pus d ffecton dte Mjeté eur urot cee Decrton portnt que tous es Ofcers dedtes qu tre Cõmpgnes Souuernes ouyront cres durnt neuf nnees commnçns u premer our depreente nnee 648 & fmns u derner Decemre 66 dedpence dergueur des qurnte ours que chcun Offcer dot ur uure pres e controe dequttrnce de regnton de on Offce en pynt e drot nnue euement n queté pyé en conequence deDecrton du mos dOctre 6 y8 & ceuy pyement fre pourpreente nnee pendnt e mos dAout prochn Pus tros Arrets du Cone dEtt du cnquéme Aout 648 portnt proongton ux Offcers des Cours Souucr nes & mettres eneme ux Offcers des Eues & Forets u queso Septcmre dememe nnee qus eront receus à ouyr degrceeux ccordee pr dte Decrton du 30 uet derner Pr Decrton du Roy du qunzéme Aout 648 pués en dte Chnceere e 7 dedts mos & n dte Mjetémoderé es codtons du pet & dunce contenues enDecrton duMrs derner ̀ tous es Offcers de ce Roy ume uques dte Mjetéccordecontnuton du droct nnue pr dte Decrton du 3 Mrs"
+        ],
+        [
+            "6 Pt Arret du Cone du premer Septemre s8 ët ondonné que tous es Offcers de ce Royuoe qu ont eté de chrgés du pret &e dunce qu ne ont ps cntreés u droctn nue dns e temps ccorde pr es Decrtons & Arrets don nez en conequence eroneceus ̀ pyet edtnnue uques u o Octnre en perfonne ou p Procureurd fondez de pro curton peces pour cés efe&t dns es ureux ehu dns chcunes des Genertez de ce Roynme Pr utre Decrton du vnzeme Octore 648 donné à nét Germn en Lye & pués u grhd Sceu e dou zéme dedts mos & n es Offcers des Predux & utces Royes de ce Royume ont dechrgez du pret & dunce & qus eront receus à pyer e droct nnug dns es Bureux qu ont ete etepour cét effect tnt à Prs que utres V es ou es Recepces genres ont uques u s5 Nouermre prochn ncuuementAVTRES DECLARATONS ET Arrets donnez en fueur des ujets du Roy A Arret du Cone dEtt du vnéme uet 648 et ft defences à rous Receueurs Treorers ou Comms à exercces dedtes chrges & à tous es ntereez ux Fer mes Tes Prets ou recouuremens de deners deMjeté de fre ucun pyement de ce qus douent fournr à Epr gne à pene de pyer deux fos Pr Decrton du Roy du 3 uet 68 verfée enCour de Prement Chmre des Comptes & Cour des ydes e 8 dedts mos & n & u Bureu des Treorers de Frnce à Prs dre Mjeté reuoqué toutes es Comnops x trordnres qu pouuoent uor eté expedees pour quequz cue & occon que ce ot memes es Comrmons dn tendns deutcedns es Genertez de ceRoyume Ec cepté cees des Prounces de Lnguedoc Bourgonge Pro uence Lyonnos Pcçrde & Chnpgn & que es ntendns"
+        ],
+        [
+            "dns qu erone eds Pronnces n pournont e méer deeuéedes denes de s Mjefté ny fre ucune fonéton dejudcton eooœnteue ms e tens prés es Gouuernueurs pout es ffte en eecotcon de eur pouuor Pr dts Decn e Roy vount donner queque ou gesene à es ujets esdechrgez de tout ce quseuuene deuor des ces ton & utnce des nnées preceden tes uques & compre nnée 646 & pour nnée 648 & 649 d Mjeté donne vn demy qurter ded mpotons Pr utre Deerton dudt onr qunéme uet dememe nnée uff verfée u Prenent Chmre des Comp tes & Cour des Aydes Eft fs deences de fre ueune mpo t on ur es ujets de dte Mjeté quen vsrtu dEdcts deuë ment verfez Pr Arret du Coe duuet 648 et or donné que tous es deners receus pr es Coecteurs des tes ton & futnce des nnées é644 6 45 & 6 eront pyez pr eu u Rteceueurs des es Pr utre Arret d Cone du qunzéme uet 48 et ordonné que ce qu rete deu des tes ton & utnco de onee y er onterement pye à ce fre es Coe cteurs & ht des Proes contrnts pr es voyes ordnres &t ccoutumées & uun es Regemens des tes verfez sPecrton du Roy du ezéme uet s4 8 en reg ftee u Prement Chmre des Crmptes & Cour des Aydes e r8 dedrs mos & n dte Mjeté ynt reconu pr es pentes qu uy ont eté ftes de dueres Prounces que es vemtons & voences quonexercées eneuee de es de ners ot eté u dutes à edts ujets que es mpotons fdse Mjeté pr de Decrron ordonne qu er nce umnent ety vne Chmre de utce copoée de nom e dOeers des Cours Souuernes pour proceder àreo eherche dedtes extons vonces & etorons us & muertons commesen es Fnnces Pr Arret du Cone du duct uet udt n tous es prets & ourrtez fts en conequence dceux prets ont reuoquez uf àMjeté à pouruor ux prtcuers ntere s e coux pour eur remourement"
+        ],
+        [
+            "Pr Arret deCour des Aydes du vngn uét 648eté ordonné qù duenr es contrntes décernees pr es Receueurs des tes eront executees pr es Sergens & O fcers de utce enforme precrte pr es Ordonnnces uec defeuces udts Receueurs de fre executer edtes con trntespr utres que pr edts Offcers ny dempoyer u recouurenent dedtes tes es fuzers ou utres gens de guerre à pcne de punton exempre Pr Decrton du Roy verfee en Prement e Roy yent en on ct de utce & àChmte des Comptes en preence de Moneur e Duc dOrens & àCour des Aydes en pre ence de Moneur e Prnce de Conty Sdte Mjeté prdte Decrton ft vn Regement ur dmntrton deutce & ouge es ujets en eur rnt ur es euees quon ft tt enonne Ve de Prs que dns es Pro unces de ce RoyumePr Arret du Prement du qutréme Aout 648 etft commendement à tous Huers & Sergens dee retrer & fre eur demeure ux eux où s douet reder pour e ft de eurs chrges à pene de fux & de m ures dmendes &à tous commnfonnres de e erur de eurs commons ny fre ucuns expocts ny ctes de utce ur prees pene Pr utres Arrets du Prement dés premer & qutre Sep temre 64 et ft e Regement gener pour e pyement des rentes conttuees ur Hote de VePr Arret dudt Prement du eptéme Septemre 648 et ft defences à tous Bfs Senechux eurs Leutenns & utres uges du reort de dte Cour dppquer ucunes mendes ux reprtons de eurs Ps euuettes & utres necetez & ordonné qus prononërõt eurs mendes cnpuers e Roy uuãt es Ordonnnces & defences ux condemnez de pyer en verru des entéces ded uges à̀ pene de pyer 2 fosAutre Arret du Prement ds yngros Seprenreé68 portnt quetres humeeremontrnces pr ecrt eront ftes u Roy & àReyne Regente & quedéerton commen cés e our uprunt erot contnuée e endemn & enjont ux Preuot des Mrchnds & Echeuns de Pts de donner ordrc àeureté deVe & dofences à̀ tous ouuerneurs"
+        ],
+        [
+            "9 Cptnes Mrẽs & Echeuns des Ves Ponts Ports & pges & à tous utres dempecher e pge des vures & denrées qu eront detnées pour porter en cee Ve de Prs à pene den repondre en eurs noms Pr Ordonnnce du Roy donnee à Rue e vngt qutre Sepcemre 648 enuoyee à Meeurs es Preuot des Mr chnds & Echeuns deonne Vc de PrsMjeté veut & entend que e commerce odnre des eds & utres vures & mrchndes y ot entretenu n qu et ccoutumé & ft defences trexprees à toutes peronnes dy contreuenr Pr Arret deCour de Prement du qutorze Otore 64S dte Cour dechrge cnquntuct os x deners ur chcun mud de vn & utres reuuges à équpoent qu entrent dnsVe & Fux ourgs de Prs Pr utre Arret de dte Cour dudt our qutorze Octo re 648 et ft defences ux Vendeurs Controeurs de Vns dec receuor & prendre pus grnds drocts que esters de ce dont s jouyent à preent ce fnt qus ne prendro ntpus de 3o os pourchcun mud de vn de queque prx qu ot Le vngt tros Octore 64eté ft e Regemen gene r urPoce du Bos & du Chron pr Meeurs es Preuot des Mrchnds & Echeuns deVe de Prs Pr Decrton du oy donnée à nct Germn en Lye e 22 Octore 648 & verfée en Prement e z4 dedts mos & n contennt qunze rtces Pr e premer dequcs et ccordé ux ujets deMjeté vn cnqueéme dete pourpreente nné́e 648 u eu du demy qurt à eux c cordé prDecrton du mos de uet Le econd uprme pueurs drocts que euent comme e pett trf àreerue de ncen Brrge Les vngr os pour mud de vn ppeés Muouge qurnte os pour œu cnqos pour chcun veu & mouton vngt os pour vche & douze os pout porc tros ures ur chcun mnot de e u grener de Prs & utres mentonnés udt rtce de dte Decrton Pr e troé́me et ft vn Regement concernnt es fermesdeMjeté defçon quees eront ées dorenunt Pr e qutréme qu ne erà uenr ft ucune t xe"
+        ],
+        [
+            "rrnchénmët de gges & quon vertu dEdéts & Decr tons verfées que es Treorers de Frce ouyront des trosqurtorsde eurs gges nnée 49 es Secretres du Roy de deux qurters es Offcers des Eetons des deu qur ers des gges & drocts & es Ofcers Surerues du Pr ement d deux qurters de eur g ges & d do& nnue ns ucun pret & es Ofeers des Cours Souuernes de tros qurtes de er gges pendntguerre eueent & cee fne de qutre p e nqueme et ft e Regement des renes ur es Aydes Se Cergé & umres Pr e xéme et uf ft Regement ur e rehpt de ren tes deués prMjeté Pr e eptéme e Regement ur e Domne deMjeté Pr e huctmé utre Regement ur es Comptns Pr e euféme qu n er fte ucune creton dOf fcers quen vertu dEdéts deuẽment verfée &c Pr é dxeme Regemont pour pourueor à̀eureté des reuenus deMjeté r e vḿme que es Edes Leres Ptentes Contrs ddjudcton de drocts prouenns dedts Edcts & es qut tnces de Fnnces concernns e nettoement de Prs des petts Sceux Nottffctons Commres ux es reees & Controeurs de depens eroent ms dns deux mos ées mns de Moneur e Procureur Gener du Prement pout ̀ dgence etre donné dus ̀Mjete pr dte Cour pour pouruor u ougement de es ujets Pr e douneme eemenx ur es Mrchndes &deen ces à tous negotns dpporter ou fre pporter en ce Royu ne es Drperes de Lne & Soye nnufctureés tnt en An geterre que Honde & des Pemens de Fndres & Poncs Epgne de Gennes Rome & Vene & ux ujets deMjeté de sen erur à eur vge à pene de confcto & de qunze cens ures dmnde contre es contreuenns Pr e treze Regement ur e pge des gens de guerre Pr es qutore & qunze Regemen ur e ft deuftce FN"
         ]
     ]
 }

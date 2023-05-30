@@ -1,116 +1,90 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "non renseigné",
-        "subject": null,
+        "genre": "burlesque",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": [
+            "Charles IV (1604-1675 ; duc de Lorraine)",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Orléans, Gaston (1608-1660 ; duc d')",
+            "Orléans, Marie de Bourbon (1605-1627 ; duchesse d')",
+            "Étampes (Essonne) -- 1652 (Siège)"
+        ],
+        "creation": "1652-06-16",
         "change": {
             "@status": "corrected",
-            "@when": "2022-05-23",
-            "@who": "ZC"
+            "@when": "2022-02-17",
+            "@who": "AB"
         },
-        "titre": "Le tout en tout du temps.",
+        "titre": "Le tour burlesque du duc Charles.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3789_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3788_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE TOVT",
-            "EN TOVT",
-            "DV TEMPS"
+            "Le tour uresque du duc Chres Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Le tour uresque du duc Chres Sns LeuSns Nom652 Prs Bothèque MzrneM976FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes Dprès Céestn Moreu stnces surretrte du duc de Lorrne prèsevée du sège dÉtmpes 2 étts (A/B) p 97 \"eesorms\" / \"desorms\" 3788 Tour (e) uresque du duc Chres (S652) 9 pges Rre Ce sont des stnces vves et souvent sprtuees surretrte du duc de Lorrne prèsevée du sège dEtmpes Le refrn est« Ms tu ne tsters jms De Steny Cermont n Jmets »vers uresqueChres V (6075duc de Lorrne) Condé Lous de Bouron (686prnce de) Oréns Gston (6060duc d) Oréns Mre de Bouron (6027duchesse d) Étmpes (Essonne)652 (Sège) Retrte du duc de Lorrne 65"
         ],
         [
-            "LE TOVT",
-            "EN TOVT",
-            "du Temps.",
-            "JE Roy enfant iegnore tou.",
-            "l-LaReiue egente donme tout,",
-            "IperitDe dAnjou ſcttout,",
-            "LadReine dAleterre pleure tout,,",
-            "Le Duc d’Orleans ioüe tout,",
-            "iueeieiſaioie aiei",
-            "Mdamoſe eſt tiſte dua tout,",
-            "Le Prince de Conde prend tout,",
-            "Madame la Princeſſe ſouffre tout,",
-            "Le Prince de Conty apprend tout,",
-            "Le Duc de Vendoſme eſpere tout,",
-            "Le Duc de Mercœur voit tout,",
-            "Le Duc de Beaufort ſe deffie de tout,",
-            "Le Duc de Longueuille preuoit tout,",
-            "Meſfieurs de Guiſe attendent tout,",
-            "Le Duc d’Elbœufpaye tout,",
-            "Le Comte d’Harcourt ſuit tout,",
-            "Le Duc d’Angouleſme rit detout,",
-            "Le Duc de Montbazon va par tout.",
-            "Pendant que ſa femme fait tout,",
-            "Le Cardinal enleue tout,",
-            "Le ſur- Intendant gaſte tout,",
-            "liuanaas",
-            "E",
-            "J atbbuote!"
+            "LE TOVR BVRLESQVE DV DVC CHARLES M DC L"
         ],
         [
-            "LeChancellier ſcelle tout,.",
-            "De Guenegaud ſigne tout,",
-            "De Tubœuf controlle tout.",
-            "Le Cheualier dela Valette iuſtifietont,",
-            "Le Commandeur de larre loie tous,",
-            "Les Curtiſans adairenttot,:",
-            "Les Ianſeniſtes blaſment tout,",
-            "Leurs Conteſtansapprouuenat tout,",
-            "Les Predicateurs d̂guiſeneu,",
-            "L’Eſpagnol ſepreuaut detot,",
-            "Les Huguenots ricnt de toat.,",
-            "Les Partiſans demadentont,",
-            "Apres auoir pilleletou4i",
-            "Et ne rendrontpasfitoftout.",
-            "Le Parlement verifie tous,",
-            "Le Premler Preſident reuelle tout,",
-            "Et l’on l’aceuſe de tout,",
-            "Quoy qu’il nefaſſe pastout,",
-            "De DBrouxelles a brouille tout,",
-            "Et le Peuple a crié de tout.",
-            "Le Courier fait mention de tout,",
-            "Les Eſtrangers ecriuent tout,",
-            "On n’a pas pû aller par tout,",
-            "Les Fanfarrons terraſſent tout,",
-            "La Riuiere a emmeneé tout,",
-            "Le Preuoſt des Marchans pille tout,",
-            "Les Eſcheuins retranchent tout,",
-            "D’Aubray preſte la main à tout,",
-            "Et le Criminel corrompttout,",
-            "Les Commiſſaires depolſiſſent tout,",
-            "Les Marchans conſeruent tout",
-            "Les Chicaneurs ne font riedutout,",
-            "Et les Armuriers vendent tout,",
-            "Les Mones prient Dieu pour tout,"
+            "3 LE TOVR BVRLESQVE DV DVC CHARLES  HE en Meeurs es Mns  e ne vous voy puschgrns  Nytrtes de tnt de pertes  Que vous uez on temps ouffertes  DeuntEtmpes & prttou  Quoy vous croyez donc etrs u out  De votre muue fortune?  Quoy cette mpe demne  Où mgré tous vos grnds efforts  Vous vtes tnt de vos gens mores  Ne vous donne pus de trtee  Et vous etes dns egrefe  Depus que ce Duc etrnger  Ce Duc nconftnt & eger  A ft de r muue grce  Vn nouueu tour de pe  A s7"
         ],
         [
-            "4",
-            "Les gens de guerre volent tout,",
-            "Les putains font cul bas par tout,",
-            "Poux & punaiſes mangent tout,",
-            "Les morpions s’artachent partout,",
-            "Les Poëtes parlent de tout,.",
-            "Quoy qu’ils ne ſoient pas pleins de tout,",
-            "Les artiſans ont quitte tout,",
-            "Enfin tout n’eſt fait que partoue,",
-            "Et le tout a conſommé tout,1.",
-            "Tout va partout, tout eſt paropt.:",
-            "Et tout le monde agit partout",
-            "Les pauures Francois ſouffrent tout",
-            "Mais à la finil perdront rout",
-            "Si Dieu ne met lamai à tout",
-            "L grand diable emporteratout.",
-            "FIN."
+            "Et fue on derner erment  Fur ege senentjgr e e s  Toeu Meeus ez roe ue net ps encor temps de rre  u Sepun es nus ee  Sus oent &s ptux pez Vous en urez en duntge  Mgr4 tdvtre pdpotge3  5  E eS&roet4  e pusu enf poré  pe retr  A vous fre vn peu onne mne  Pr vn coupdenene fçon  Vous prenr rom àdeç    Et pour meux pecher en u troue v oü̈er à qutte ou douo eps deefnomenmr Arrpé quequd dmneL o2  Auec pus de cent mourtsue  Dont on urot endu desvdos  Pour nourrr vos puosds eo Qu e pus ouuent ne penpnr of o  Que ues uy fe gre u o euc S veur de toute chof en Et des gros rus de o dos2  Qu ont e pur ngdes Frômyüdcnu  Queque grnd preenoquffe A e prendr de ounegceu  Pus"
+        ],
+        [
+            "3  Prons cr pour nods fre ehtdndré  Quee foy pounez vous rtenodred e  Dvn Prnce qu ç̧t en vose  Tourner cque u mons dx fos?  Net ce ps on grnd ftrrgeme? ps ouuent ft de mefmé  ( Sns crndre ny de ry Dü y  Au rdn de Rcheeu  Dont eprt extrordnre  Fot tout ce qu e peut fre?  E e Crdn Mzrn  Penerotetre pus fn  S    sen fut pus de qunze & que  On dt en que Nncy côurt rqure  Petre rems à on onDuc  Ms ce net ps eo Lue  Ny eon utre Eunge fte  Des Predeons de ce emps ems Dont Queter rend es oûsctens  Mzrn peut en uy profettre  Pr erment de e uy rererftd  Ms promettre & tenr n deu?  Cr cet vn coup trop hzrdex  Et deurs on çt qu soppoe  A cete ofre qu uy prpoé e22 2  n  ce ne ps meme dns mre  2   r Pus vous r ns dre hed  Et ues per pour ot  p"
+        ],
+        [
+            "s  On ct en que e Gouuerneur  Homme de merte & dhonneur  Net ps fort dhumeur de e rendre  Que e Duc cee dy pretendre ncontnt ne ur ms  Ny Steny Cermon ny mets  Fotque ce mere  Pr vne fute rrepre  Romptchementfoy  e ne çy comment ny pourquoy  Pour vne promee peu fne  Ms promee àMzrne  dont e trompeur en trpé  Se verr uy meme trompeé́  Pr vn trompeur ncompre  Qu tromperot meme e de  Et qu ne onge ̀ tout moment  Qù tromper pus drotement  Sot vn pourpont ot vne upe  An ce Duc erdupe  Et ne recouurer ms  Steny ny Cermont ny mets  Pus qu set deuny des Prnces  Adeu es Ves & Prounces peut deorms en cournt  Fre e Cheuer errnt  peut en forcer des mures peut en donner des Btes"
+        ],
+        [
+            "7  Fre tous es oure des Comts  Etvor es ennems à s  Sns eperer que pr des guerres rentre ms dns es terres  Ms cét ncontnt eureux  Serunt des Prnces genereux  Pendnt ces dcordes cues  Recouuror tros fort onnes ves  Qu ne recouurer ms  Cet Steny Cermont & mets  Ms nurotps euns pene  Prpx touteLorrne?  O Deux qum ft pour uy  O Deux quv ouffrt dennuy  De tourment & de fchere  Pour vne otre trompere  An ce veux cocqdéjuché  Ce eureux Duc ns Duche  Ne er dton en pre)  S ce net touours e Duc Chre  Ms pour Due de Lorne pon  utement redut à ce pont  Dduoûer deorms uy meme  Auec vne trtee extréme  Ahe ne ttery ms  De teny Cermontny mets  puure Prnce enconeence  y pé de ton mprudence  r"
+        ],
+        [
+            "r  8  Au en que de ton eur  Dos tu ps mourr de doueur  Dups de Cere que t fet fre  TFceruee vn peutropegete?  Foenr de on?  Fo prendre tnt de om  De mener cy ton rmée  Pour nuor quvn peu de fuhée  Quvne promeefte en r  Dont uesceu tueuger  Ms tu ne tterps  2 2 n  A  De Steny Cermt ny me  Orv eu Duc fn ns fnee  5  e  Vten uec cette promee  ne e ee n eernre nee  Demnder ce quon tproms  9D  e nuoue eeene s ense e  oueudenrne nere ene e  enuenepen pue ee re ee e ee euer ue ooen e e ee e e  enue oon pe onee e e n unsn eonede n un ne eunereus t eneee  e peounrnue qoe nne nrenn n  uee fe e e u o repeous s nr d e en e eunneue e n uns nn  ene e een o enenhn un on Et  2   esA  L qu detenddnso eoe  Detre ecue deproe?  A  A6"
+        ],
+        [
+            "3  Et deurs tu nurs ms  ss  Steny ny Cermontnymets  Te vo donc en en pture  Pour cherchert onne uenture  Et vure touours chez utruy  Pen de on depene & denour  Vten ns demeure certne  Courre pr tourpretntne  Tntot deçà tntot de  Fre crer e qu v Et donner uec tes Gendrmes  Me terreurs & me rmes  V ten contnuer tes vos  Tes emrzemens tes vo  Tes cruutez & tes pges  Prmy es ourgs & es vges  Ms tu ne tters ms  2   De Steny Cermont ny mes  V ten dre u Roy dAngeterre  A Chres comrme toy nsterr  Qu te fe rendre ton en et en en pne du en  Comment de veux tu qu fe  Pour tter dns t dgrcs  Cependnt tu cros ce qu de  Comme s uot grnd crd  2  Et tu fs tource qu tornne  Sunt e con qu tdone  C  s"
+        ],
+        [
+            "3  Suy e donc tnt qu te pr  Pour vor ce qu ten duendr  Ms e çy pour choe eur ée Pus quonhutement ureé́e  Que tu ne tters ms  e oeus Cermnt nr nmes  Quoy tu tés mocquédenôs Prnees  Qu çuoent en ns que tuvnes  Se venger de eurs ennems  Et ne eur uos tu proms  Vne ncefruoe  Que pour eur mnquer de proe?  s nuoent ps eon de toy  De ton ecours ny detfoy  Pourquoy s tu doncvoéeé  Pour prendre dor voée Et per dvn utre coté  Pr vne ngne theté?  Ms u remorus qut te true  Voy que tu ns ren ft qu ve  Et que tu nentrers ms  Dns Steny Cermont ny nmees  Deuos tu donc Due ns cuee  Pr cette foee nouuedesu   Te eprerotemene  Dn Due dOrenschrmrntur e o  Et dvneonne Pfceevou e  Comme et Mdmucheeeo"
+        ],
+        [
+            "u  Quoy dvn erere & dne œu?  S pens dmour & de douceur  Quoy dvne œur & dvn erere  Qu pouuoent fnr t mere  Et rendre ton ft euré  Puure Prnce dénruré  Tu cherches ton m heur upreme  En teognnt de ton ng meme  Et tu ne tters ms  De Steny Cermont ny mets Non ms e e ds encore  Et tu ns gy quen pecore  Duor n m econdé  Les deens du vnt Condé  Cet uy qu tent enpunce  Ces fortes pces dmporrnce  Qu te rendot ns fneer  Et tu s vouu deer  Pour vn epor mgnre  Dont ues ̀ on odnre  Rept tous ceux qu veut tromper  Tu tes é donc trper  Pr cet Atrpeur deorte?  A toy permsne mmporte  Ms tu ne tters ms  e Steny Cermontny mets  Ms enfn e perds prence  De ouffrr to mpeunence  2  2"
+        ],
+        [
+            "3  y  2  Et de te vor fre e fn  V ten erur ton Mzrn  S8ouffte que cé egneur rte rue  Sos on vet os on eecue  Son fodupe on fteur  Son onffon on dorteut  Betu veux on derere  Pourueu que e en os en rrere  Que e nen ente ps e vent  Tout ce met ndfferent  Ms prens que toute t pene  Enuers uy er couours vne  Et que tu nentrers ms  D ns Sreny Cermont ny mets  Sostu veux ̀ on cruce  Pr mour & ns rtfce  uques à̀fn de tes ours  Conerue e pr ton ecours  Ne qutte msperfonne  Fyen qu ne te oupçonne  ms duoune cheté  De foure ou dnfdeé  Expoe tous es ours t ve  Pour tsfre à on onue  Tente pour uy tous es hrd  Qund tu peros es Cers  Qund tu eros vn Aexndre  Que  23  Chres tu dos du mo prdep"
+        ],
+        [
+            "3    Que tu ne tters ms  De Steny Cermont ny mets  En veux tu çuor duntge  Tu nurs ms duntge  Auprés dvn ngrt comme uy  Qu ne peut uor on dutruy  Pus qu entrop de uy meme?  Et t foeet en extreme  De te etter entre es rs  Ms er tnt que tu voudrs  Nous ne crgnons ps ton rmée  Etnotre en nmée  Se ent ez de force ux rens  Pour deéfre tous tes Lorrns  Quoy que tu fes des mrces  On çt du mons pr es orces  Que tu ne tters ms  De Steny Cermont ny mets  Ms quoy entens Condéqu grode  Et Beufort ft cquerfronde  s ont ux rmes e es voy  Puure Duc Chres uue toy  V vte ggnerfrontcre  Et pour grder t tete entere  Le cy ton gge ente net pont pour toy doquetes  S tu tmues u pge n  Comme dns e preeryeygor e D  22E"
+        ],
+        [
+            "4  u dfferes trop ton rerour  Ne trrete pusCdur  Et tre promptement tes chnes  Sns crore ̀ des promees fes  Cr tu ne tters ms De Steny Cermort nymets  Quoy tu emesrner u mnce  O Deux que ton me et eu frnehe Voudros tu en trompere Roy?  V Gton ne veut pont de toy ne veut pont dv nfdee  Qu v comme ft hrondee  A tout vent & de tot eote  Auec trop de egereté e 2  Vn ncontnt & mercee  Ne fut ms propre àen fre  Et e teure cependnt s  Que nous ggnonsente perdne  V donc orspremptement de Frnce  Et vos ms uurnee  Que tu ne rentrers ms 2  Dns Steny Cermont nynés  S  Ouy cet envn quetespénées  Au trdues qunenéesh2  Te e font encor eperep n  En vn tu penes eoped ono Pr queque fente repentnce  Ce que tu perds ps ehes e te"
+        ],
+        [
+            "5  Nous nevouons pus urnos rs  T peronne ny tes odts  Condé uy eu envut dx me  Pour en defendre notre Ve  Et pour enuoyer Mzrn  Pr de Coogne ou Thurn  Ms cependntte protete  De te hr commepete  Et de ne te rendre ms  Steny ny Cermont nymets  Ms quoy ru ne prs ps encore  Attens tu quon te deshonore  Pr des rocrds pus offenns?  S tu ns perdu tout e ens  egne promptementcmpgne  Pe Bre &Chmfpgne  Et gr doy des pyns  Cr s ont ez uffns  Pour te mettre en cpotdé  r queque grde outde  Ms pour éuter eur effrt  prens de m mn ce pe pore  Qu te uuer uquen Fndres  De tous mux & de tous eendres  Pe port du Due Chre  Tu ne recouurers ms  Steny ny Cermont ny mets    27"
+        ],
+        [
+            "6  Enfnpquemzete sen v e Duc Groüette  Sns uor ft guerre ny Px  Ms en ft pour ms  Vn Tour qu ne deuot ps fre  Courge enfns cet trop vous rse  Courez prés ce oguenrd  Et crez tretous u Renrd  Ms crez en fort e vous pre  Du pus eu ton de rere  Ah e vn qu e dedt  ché dedns e t  che dns notre me  Ah e Normnd commedé́te   Tu ne recouurets ms  Steny ny Cermont y mets  Ce vut meux quvn grnd outrge  Pour e fre creuer de rge  Et epere quunt vn mos  On uy verr mnge es dogts  Pour uor ft (ce more)  Vne futedépore  Ms eu e es mnger  Cet n qu nus futyngst  Et cet pr cette pentençe  Qu fut punr on nconfnce  Non msne es ur Qu gronde tnt quuy ps  En"
+        ],
+        [
+            "7  Enfns pour cheuer de pendre  Crez encor tous ms ns fendre  u ne recouurers ms  Steny ny Cermont ny mets  Qu sen e pres cette ude  Qu fe mnte gconnde2  Qu ure comme vn veux chrter  Qu ne donne pont de crter  Qu mence tnt deguerre  Qu pete contre Ce & Terre  Qu fe du ps qu pourr  Qu tempete tnt qu voudr  Qu vome dx me nures  2  Qu mude tous es ptures  2  Qu deuenne fou de chgrn  Qu donne u de Mrrne  Qu decme contre es Prnces  Qu pe toutres nos Prounces  Msne tter ms u  De Steny Cermons y mef   He en Meeur qu couns ?  Qu uuez e Mrnge  D  Netes vous ps en qusfun Des comptes que evous yjse  Rez en Re2z ns vérgogne?L  Conde vous te de qgne  Qu vous fen qntot pefre Ete vous pus en eure  ee pren p oe se  2"
+        ],
+        [
+            "8  Que toute votre conrere  TouteMzrnere  Se dns peu de temp en  Et que e Mzrn vncu  Ne peut éuterrue  Sne ggne totcohe ferot meux de Séogner  Sns tnt comtre & rgnet  Et ns ttendre quon rete Scps quon ̀ msrete  A cent cnqunte me fns  Et que es petts & es grnd  Le hent pus que e de  Comme un cyrn omne  Mere ues mon my  Tu fs vn peu trop endotmy Romps e en qu te retrde  eun eun e e e neue  Sns t muer à tes fteurs  Qu ont tous de fux eruteurs  Suy e Due Cres ton conpere  Qu ne t ps eté contrre 2  2 prendr voonterse fon  Et de te condure à̀ Coogé  Outu veux uquen Poogne  Que s te fut vn compment  r2  Pour e ggner pus ement 5  eq  De te erur dns ce eon ?  e"
+        ],
+        [
+            "9  Puure ot tu ns qù uy dre  Ces hut vers pour e fre rre  u ne es touchers ms  Les pces quon te vouot rendre  Steny ny Cermont y mets  Tu ne es touchers ms  Condé es ur eeorms  Puure Duc Chre v te pendre  Tu ne es touchers ms  Les pces quon te vouotrendre FN"
         ]
     ]
 }

@@ -5,115 +5,46 @@
             "avis",
             "discours adressé"
         ],
-        "handwritten_note": true,
+        "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Placard",
-            "Du Bosc de Montandré",
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Orléans, Gaston (1608-1660 ; duc d')"
-        ],
-        "creation": "1652-04-07",
+        "creation": "1652-07-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-09",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Avis aux Parisiens",
+        "titre": "Avis aux malheureux",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau489_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau488_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "AVIS",
-            "AVX PARISIENS.",
-            "affiché le 2e iour d'avril 1652 dans tous les carrefours de paris",
-            "et ſur le pont neuf.",
-            "MESSIEVRS,",
-            "La preuue que vous receuez auiourduy de ’affction que Monſieur le Irinceà pour",
-            "noſtne epo eſt ſigrande, qul aura raiſon de vous croire aui inſenſibles a vos propres",
-            "mau, que meſconnoiſſants des fatigues & des peins qu’il prend depuis ſix mois pour",
-            "le",
-            "publie, ſi vous ne luy teſmoignez dans cecte rencontre les bons deſeins que vous ane",
-            "de le ſeconder.",
-            "grand Prince ayant apris que le Cardinal Manarin faiſoit venir des Trouppes de",
-            "outes parrs pour groſſir de ſorte ſon Armee qu’il peut promptement blocquer Paris,",
-            "parce",
-            "n ou nue ly vouluit pon e geonois onnue vous voree qulilr nrehoit a gands ps,",
-            "eſtimé quil ne pouuoit vous donner des teſmoignages plus grands de",
-            "l’armirí qu’il pour",
-            "le Publicq, qu’enabandonnant toutes ſes plus importentes affaire de Guyenne, pour ve",
-            "nir ſeconder les bonmes jntentions de ſon Alteſſe Royalle;",
-            "principipalement quandila con",
-            "iderei que Monſieur le Due dtorleans ne pouuoit abandonner pars",
-            "ſans dane a",
-            "ord pary, courant nuit & iour pour ſe venir mertre à la teſte de l’Armee que",
-            "Monſeur",
-            "le Duc de Nemours à conduit affin de s’oppoſer à̀ ce pernicieux deſſein du Cardinal",
-            "Maa-.",
-            "Il n’eſt point neceſſaire d’exagerer icy toures les raiſons qui vous doiuent faire",
-            "cenri",
-            "buer aues vseur àla perte de cet Eſtanger voſtre propre intereſt,",
-            "&la iuſte haine que",
-            "tous les gens de bien doiuent auoir pour luy, vous attachent aſſez fort aſuiure ſes",
-            "bonne,",
-            "ntenions que lonſieur le Princeà de vous deliurer de ce Tyran Ceſt le ſeul motifqui",
-            "porte ſe hazarder ſeul pendant vnſi l’ong chemin en abandonnant le reſte de ſa famille",
-            "la Prouince de Cuyenne , à qui ila tant d’obligation, pour vous venir ſecourir ſoubs",
-            "dr de ou lueſe Rorale si laquele i vent cn propre pe ſonne",
-            "ſoimeererouresles v",
-            "lontez ſçaſchant bien que tous ſes ſentiments ſon-iuſtes.",
-            "S’il eſt hors de propos, il ne ſera point inutil d’auertir ceux qui taſchent de",
-            "deſcrier dans",
-            "le publie les intentions de Monſieurle Prince qu’il n’a nulle part à tants de libeles",
-            "Papoires rendanta ſedition qui ſe ſont fait ou a ſon auanuge ou aſon nom, paree que les",
-            "deſeins neſtans aurres que de vous proeurer la Pai il roitesen eſtre aſeuedelairey pat",
-            "le",
-            "l eetes qu’ila eſerit à Monſieurt le Due d’odeans & au Parlement, qui ſont les",
-            "ſeulles pieces",
-            "que ſes amis ont fait Imprimer.",
-            "o n non particuliert commme bon Cyroyen, & pſſionne pour le bien publie ie",
-            "vous ſupplie devous rrouuer ce iourà deux heures preciſes de releúe ſur le Pont euf",
-            "ſans",
-            "ure deſeins que pour aler teſmoignerà ſon Alreſe Royale &a onſieur le prnce, que",
-            "tous les gens de bienſont preſts de ſuiure leurs ordres, pour acheuer d’executer ce",
-            "qunis one",
-            "commencé auec rant de zelle contre noſtre Tyran il n’eſt plus temps de balancer, ’eſt",
-            "le",
-            "denier coup, & le plus fauorable que la France puiſe iamais eſperer pour obotenir",
-            "ſa ran",
-            "quiliréſichaeun y veut Contribuerſe lonſon pouuoit, voyant que ſon Sleſe Reoyale ny",
-            "cpargne ny ſes amis, nyſon bien, ny ſon ſang, puis qu’ila expoſe a demoiſclle qui a",
-            "enm.",
-            "peſché auec tant de courage que le Cardinal Maarin ne ſoit eutre dans Orleans, donſeut",
-            "le Prince expoſe la meſme choſe, & tous deux enſemble, peuuent vous donner touece",
-            "aue vous pouuez ſoubhaitter, pourueu que vous les aſſeuriez de la bonne volonté que",
-            "vous",
-            "aue- de vous ioindre auee eux contre foſtre Ennemy mortel le Cardinal daarin.",
-            "Enfin Meſſieurs, ilne faut point ſe flatter, le mal eſt al’eutremité, iſſe renmdra",
-            "incurable ſi",
-            "l’on n’y appore vn ſouuerainremede, &nyena point demeileur que de faire comme fon",
-            "vous ceux qui veulent bien reücir, c’eſt à dire dechaſſer tous les ſulſpecs ans",
-            "leſquels nous",
-            "n’aurions pus de guerre &x nottammemtiftamt ſe onner de garde de noſtre",
-            "C&ouuerneur,",
-            "aaa l’a ps pluſtoſt ouy parler de l’arriuée de Monſieur le Prince a noſtre ſecours,",
-            "qu’il ̀ vou",
-            "imtaireaſemble quelques bourseois quilaaigné par les reſuins qui",
-            "leura fair, pour, o",
-            "poer au bonheur qui vous artiué par vnreſlart de l’Hoſtel de Vile conclu par a de ſe,",
-            "Fationnairess cet horrible deſſein euſt cauſénoſtre perte entiere s’il l’euſt peu",
-            "faire re",
-            "cr, il eſt homme a ententer bien d’autres pour faire abandonner Paris à la diſcretion",
-            "du",
-            "Cardinal Mabarin ſon Maiſtre ſi l’on le ſouſnie dans la charge qu’il poſſede."
+            "Avs ux mheureux Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Avs ux mheureux Sns LeuSns Nom652 Lyon Bothèque muncpe de LyonRés 38078TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs488 Avs ux mheureux (S| n d) 7 pges De 652 près e comt deporte Snntone L Réponse dun mheureux u crdn de Retz etc true cette pèce u codjuteuret ce nest peutre ps sns rson Au mons Aves es écrt vec une grnde heté et une grnde vgueur On y à répondu sous e nom de Scrron pr e Cœur des prnces entre es mns de Deu etcprose vs dscours dresséncende de Hôte de Ve 654"
+        ],
+        [
+            "ADVS AVX MALHEVREVX"
+        ],
+        [
+            "3rmp àôés A c v Adus ux eureux nrV rOn mheur & e men tre cét Adus de moneprt L & moge à te fre prt de m penée Ms reços e uec e meme eprt que e te e donne Ne tmgne pont que ceot pour fter ucun des Prts & pour e mou uor ton ffecton ou t hne e te protete que ce net que pour déchrger m concence &tenne & pour te fre ouurr es yeux & fre pperceuor e en & e m de Ett où on te veut mettreDeux choes te feront vor e te trompe ou e us trompé L premere cetcompron des procedez des deux Armées S queque choe t etté dns e reentment & t ms es rmes àmn ce n û etre que oudureré du mn tere & deondffcuté doer & de vure excez des mpots & es utres urchrges du commerce Tout e urpus à ton égrd net quvn pretexte Les hereux comme es Offcers es Courtns es Gens dffre & e gros Bourgeos péuuent en en uor dutres comme éognement ou e retour du C Mzrn eon qus etoent es eruteurs ou es ennems e chn gement du Cone eon qus etoent uportez ou mépr ezertcé oupron de Meeurs es Prnces eon qus en uoent à eperer ou à crndreMs toy puure mheureux Peupe à qu e pre tu nuos ren à crndre de ces mux qu ne ont dngereux quu cnet & à ceux qu en pprochent Tu nuos à p prehender querret́ du tru ou du vure pproche es ré́es nterrupton du Commerce & ces ruges r epres qu ont deoeécmpgne uremrqué que e rut que nous uons ft t guery"
+        ],
+        [
+            "4 ces mux? Que depus quonperdu e repect pour e Prs ce on t meu ggnéve? Rpee dns tmemorece temps qu vt ntre es premeres pntes dnsouch de tes Mgtrts & pus ette es y eux ur Ett preent ou tu te trouue Les nutces du Cone ones eté f ftes que es Lox des Reformteurs Au veu e ed à ce prx? Au veu mourr de fm e monde dns es ruës? Au veu e pn mnquer oument à̀ Prs? A veu vne te àtes portes Au veu per en tromphe es Epgnos dns t ve? Au veu e eu & e ng ruger éete de tes Ctoyens Au veu mcrer tes ourgeos & es pus ectonneztoneruce uge mntennty ron de te dre qund e tentens oû̂prer Hes puure Peupe ne vou ps en quetu tttres de pus grnds mux que ceux donttu te pns que on ue de t onte & de ton gnornce pour fuorer ̀ ton préudce es nterets des prtcuers Quon ne e ouce pont du ng que tu vcre ny defm que tu endu re pourueu que mton des prtes ot ts fte & pr tnt qu vur neux pour toy de vure dns oence que mourr dnsreeon On te dt que cett rmée qu et ds tes fuurgs et pour te detendre Nee ps e mocquer de toy Contre qu te veue deendre? Qu ee qu tttque? Au queque ennemy en cmpgne? Et ce Armé́e de Lorne ne ton ps ft crore quee venot u pour te defendre? Ee Armée de ton Roy? Que effortft contre toyps éogmé es troupes e pus qupû de tes mures pour coneruer tes dehors Qund oc con de es ennemsogé den pprochervsé de on pouuor & deforce & repondu à noence & àtemerté de ces reees qu ont tr é urperonne pû prendre es fuurgs pu prendre es pus note potes deVe Les pus honnetes Bourgeos & es C toyens es meux ntentonnez uy ont offert des portes des pces des crefours & des homes rmezuot pour oy"
+        ],
+        [
+            "2 z meeureprt de Prs & uot dãs on rmée dequoy punr & chterpre Ce Prnce nentmons n pont vouu e erur de ces untges &meux mé mãquer à occon quàproe ft comme vn on Mtre ces nterets communs uec es ujetsperd qundchte & quoy queutce prenne on de détrure e coupe ou nutene e ps de es perdre uec doueurL erté de m fre npprté̃t quà ceux qu nont ny Deu ny Foy ny prt ux deordres qu uruenent QundFrnce perr s uteront en Epgne des memes deners qus re ç̧ouent tous es ours Leur r mée eur donner vne retrteeur muue condute ou es Lox eur en otent & eur en refuene eur m porte que tout pere Que tes fuurgs oent de ertez Que de dx ns e prx du ed nmende quvne rroéme rmé́e venne cheuer e rete des deux utres s ne ont ny es Mtres ny es Segneurs s nont ny pté ny utce Où et ton ugement puure Peue ne ps vry que tu eros meuxtu nuos pont drmée utour de tes mures pourquoy donc en entretenu vne ton Roy tenvouu déurer & ns ton ueuge otnton ffre etot ftereeon ot etre dpéePx e commerce & e cme rety Ce Roy vn queur & Mtre ot repouer es ennems & oceuper es troupes urfrontere Luy çependnt venot rece uor des ppudemens & des repects dnsonne Ve de Prs L Cour ot enrchr Artn e Con e ot truer àPx genere Tes mons tetoent coneruées e ed ot etre commun &Terre & e Ce etoent dpoez à frepus rche re cote qu e ot ms veué Fonc vne ge & ronne refexon Que ton Roy te trte en meux que es Prnces qu ve dvne onré de Mtre u eu qus ont prs eor des Ty B"
+        ],
+        [
+            "6 rns Quvouu éprgneronne Ve que es utres ont expoée à noence du odt Et quu pendu vn ute reentment prce qu ne pouuot é ter que funetement Mses choes pées te touchent oemẽt refeehs vn peu ur es futures que penu fre veuu entretenr cette rmée uqudetructõ̃ de eur chef ou uque à on cecommodement S e t detrut que deuendru & s sccommode qu ggnersetu und tu ers rmé eru à couuert des chenge mens deprt dffres des temps eru hors des eons de pn drgent de eureté S tros m hommes ont mnge à t veüe tout vn qurter de cmpgne Ss ont ms êpouunte dns tes Fuourgs ss togent à eur donner retrte dns tes mons que fers tu qund rmée de ton egtme Mtre protr uec2 oun hommes uec tourte éte denoee de Frncé &ute deConr On te rept à̀ deus dvne mgnton u rdcue que chmerque on euer des eroupes dns Prs on fer vn corps de em hommes vore de 2 s et necere Puure peupe condere rt &fnee de cer hme çon Ee à vn remede tute pns des troupes & on en ugmente e nomre ru veux quon te ouge ne vos tu ps quon te urchrge Au depens de qu e eue ront es troupes On rr e tmour deunt t porte On r epée àmn executer ton meue pouro de de rmée On te txer u gré de ton ennemy ou e on vne fue pprence de en que tu s entretenu e gement & u de de tes forces Tu ers punytu ne fs e ét effort de te runer pourte coneruer Certes ces remedes me font peur ms qund ees erõt eué́es ou uterones chez es vons es Prounces egueront contre toy pour sen erer Dns es mures es tépueront & enfn pres ces effets de prt & du"
+        ],
+        [
+            "5 trequ turont ft ouffrr toutes esextremtésfu drreconnotre ton Mtre Les chefs uront dhonnê tes recompenes & e peupe eu er dns oppreon Les enfts tomeront ur es prncpux & es pus coupes Les chtmens tomernt ur es meres & es pus nnocens Sus je Mzrn de te dre ces choes d je vry defux metsmn ur t concence e ten fs e uge & e men rpporte ̀ toy Reços donc mon dus ognons nos vœux & nos ons pour fre vne onne Ps Aons en foued mnder u Roy Le prer qu t es de onté pour ouer es choes pé́es Prdõner à es ennems oüms reuenr enone Ve & tenrproe Roye quon uy entend dre tous es oursQ nen ve pons ̀ Prs ny x ourgeos ny pepe & que tot ou rd on connotr fecton queMjetepourprncpe de on Royume Que ce ot àeue Vnon dont on pre quon ne depende pus de opnon de certns ntereés qu vendentgore de eur chrge &crfent à̀ des epernces r dcues & honteues Quon oue Meeurs es Prnces denuoyer àCour pournegoter eur nteret pouruncerPx & e cme des ffres & erer Prs de opreô de eurs rmees & devenü̈e decee du Roy & des ncommodtés de toutes es deux Pour preuenrfmne &pete & trter eurs ffres à me & non ps u depends du ps & du puure peupe Quon ne pre pus drmes ny de guerre quon ne srme que pous opprmerreeon & pour fretrompher e Roy &Px FN"
         ]
     ]
 }

@@ -1,96 +1,95 @@
 {
     "entête": {
         "form": "prose",
-        "handwritten_note": false,
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": [
+            "Fiscalité",
+            "Rentes de l'Hôtel de Ville"
+        ],
+        "handwritten_note": true,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-01",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Arrêt du conseil d’État du roi, portant réglement du\n          paiement des rentes, assignées sur les gabelles, qui seront payées, en l'hôtel de cette\n          ville de Paris.",
+        "titre": "Arrêts du conseil d’État du roi portant réglement général\n          pour le paiement des rentes constituées sur l ’hôtel de ville de Paris, registrés, en\n          parlement le vingt-sixième juillet mil six cens quarante-neuf.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau365_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau360_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "ARREST",
-            "DV CONSEIL",
-            "D'ESTAT DV ROY.",
-            "Portant Reglement du payement",
-            "des Rentes aſsignées ſur les Gabel",
-            "les, qui ſeront payées en l’Hoſtel",
-            "de cette Vile de Paris.",
-            "Du 13. Nouembre 1649.",
-            "A PARIS.",
-            "Chez P. ROCOLET Imprimeur & Libraire ordinaire du",
-            "Roy, au Palais, aux Armes du Roy, & de la Ville.",
-            "M. DC. XLI X.",
-            "Auec Priuilege de ſa Maieſté."
+            "Arrêts du conse dÉtt du ro portnt régement génér pour e pement des rentes consttuées surhôte de ve de Prs regstrés en prement e vngxème juet m sx cens qurnteuf Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Conse dÉttArrêts du conse dÉtt du ro portnt régement génér pour e pement des rentes consttuées surhôte de ve de Prs regstrés en prement e vngxème juet m sx cens (sc) qurnteuf Prs Perre Rocoet 649 juet 649 Lyon Bothèque muncpe de LyonRés 383TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs360 Arrêts du conse dÉtt du ro portnt régement c g ‘ > génér pour e pement des rentes consttuées sur t ü} Ÿ îä«\" hôte de ve de Prsregstrés en prement e « h d Vug—smeme juet m sx cens (sc) qurnteuf Ÿ “ Prs Perre Rocoet 649 22 pges n Sx rrêts des 0 5 et 24 juet Note mnuscrte en dernère vueprose texte offce rrêt Fscté Rentes de Hôte de Ve"
         ],
         [
-            "3",
-            "Extraict des Regiſſres du Conſeil d’Eſtat.",
-            "LE ROY ayant fait publier la Ferme",
-            "eSel",
-            "ledſeld e unel dere iu seu ennr puns",
-            "eſtre adiugée en ſon Conſeil en preſence",
-            "le oue eue rene oe e eoene",
-            "d gnres Souueraines au plus offrant & der",
-            "ier encheriſſeur, pour en iouyr par les",
-            "Adjudicanires, à commancer du premier Ianuier pro",
-            "chain: Et voulant ſa Maieſté pendant le reſte de la pre",
-            "ſente année pourueoir au payement entier de la ſomme de",
-            "Quatre-vingts huict mil huict cens douze liures douze",
-            "l ſols par ſepmaine, pour eſtre employée au payement des",
-            "Rentes tant anciennes que nouuelles, aſſignées ſur leſdites",
-            "Gabelles, apres s’eſtre fair repreſenter l’Arreſft donné au",
-            "Parlement le premier Octobre dernier, & les ſubmiſſions",
-            "faites en conſequence parles Intereſſez en la Eerme gene",
-            "ralle des Gabelles de payer la ſomme de Soixante-quatre",
-            "mil quatre cens cinquures ſeize ſols par ſemaine és mains",
-            "des l!’ayeurs deſdites Rentes: Au moyen de quoy il ſe",
-            "trouue manque de fonds de la ſomme de Vingt-quatre",
-            "mil quatre cens cinqliures dix ſols par ſepmaine, laquelle",
-            "ſa Majeſté ant reſolu de remplacer des deniers de ſon",
-            "Eſpgne, affin de teſmoigner d’autant plus ſon affe ction",
-            "à ſes Subjets de la honne Ville de Paris, en atrendant que",
-            "par le nouueau Pail qui ſe fera deſdites Gabelles il aye eſté",
-            "enre lne e e ienei e ne ue e eone ene",
-            "MAIESTEESTANT EN SON CONSEIL,."
+            "ARRESTS DV CONSEL DEEA DPV o mer pour e pnenen des ene r rpote deve de p ue r eeen nt e vng xeme uer m x cens qurenteuf r et nnnture u one e e e o edu n e e e e eunenAuec Pruege deMjeté"
         ],
         [
-            "La Reyne Regente ſa Mere preſente, A oRDoE’Er",
-            "ORDONNE au Treſoricr de l’Eſpargne en exercice, de",
-            "payer comptant du fonds qui luy ſera ordonné à cét ffeet",
-            "cs mains de celuy qui ſera Comis par les Freuoſt des Mar",
-            "chands & Eſcheuins de ladite Ville, la ſomme de Vingt",
-            "quatre mil quatre cens cinq liures dix ſols de ſepmainc en",
-            "ſepmane durant le reſte de la preſente année, pour auec",
-            "les Soixante quatre mil quatre cens cinq liures ſeize ſols",
-            "qui ſeront payez par les Adjudicataires des Gabelles ſuiuãt",
-            "leurs ſubmiſſions, parfaire Quatre-vingts huict mil huict",
-            "cens vnze liures douze ſols par ſepmaine, & ladite ſomme",
-            "eſtre miſe és mains des Payeurs des Rentes, tant anciennes",
-            "que nouuelles, aſſignées ſur leſdites Gabelles, & pareux",
-            "employée au payement deſd. Rentes, ſuuant les Ordon",
-            "nances deſdits Preuoſt des Marchans & Eſcheuins, & pour",
-            "le remplacement du fonds qui manquera pour ſatisfaire au",
-            "payement des Rentes, ſuiuant les Arreſts du Conſeil des",
-            "o & 24 Iuillet dernier, à cauſe de la reduction par ſemaine",
-            "à commencer du 19. Septembre dernier à Soixante quatre,",
-            "mil quatre cens cinq liures ſeize ſols ſeulement, il y ſera",
-            "eou eileole ie iede eoneſdile de ne euene",
-            "rnone ſ e n e nue er io le e e neeron",
-            "Collationnmé à l’Original par moy Conſeiller",
-            "Secretaire du Roy, & de ſes Finances."
+            "3 EXTRAACT DES REGSTRE du one déftt QV ce queté repreenté u Royetnt en on Cone pr es Preuot des Mrchnds &Echeuns deVe de Pns Quee fonds des Hu&t mons deures s des Rentes conttuées ur es Tes Pettes Rentes & Receptes Generes etnt gnées ur es Generte dOrens & Mouns es Receueurs & Pyeurs dcees ont fr uques à pre ent toutes es dgences neceres pour e recou urement des demes tnt contre es Rceueurs Gene rux & Prtcuers dedtes Genertez que contre ceux qu en ont eté chrgez Nentmons quoy que prDecrton duOtore dermer edtes Rntes douent etre pyées de deux qurters e dts recouuremens ontpeu duncez qu ne e trouu ps fonds pour fre ouurr e qurter de n uer p& ce qu prouent dereme & dechge fre du Cnqémeur es mpotons dedtes Ge uertez pour dte nnée 8 & des deordres cu ez pr es mouuemens detners qu ont empeché excuton des Trrtez qu uoent eté fspoureAj"
+        ],
+        [
+            "2 dt recouurement & prteuerement ceuy de dte Generte de Mouns uque e nommeé Ben eté urogé RRQvEROEr ttendu que es Propret res dedtes Rentes font des pourutes & ntnces extrordnres pour e pyement tnt dudt qur ter de nuet 8 que des retes des precedens me mes de ceuy de nuer de preente nnée en con equence de dte Decrton dont s demndent erecuton qu peut àMeté y pouruot e unrdoue en oue eee ee uremens eront conrnsu pyement desommes neceres pour edtes Rentes VEv dte Decr ton & Arret de urogton dudt Ben SA MAESTE ESTANTEN SON CONSELRene RegenteMere preenteordonné &or donne que edt Ben er contrnt comme pour es deners & fre de dte M̈eté ̀ fournr & mertœ entre es mns des Receueurs & Pyeurs dedtes Rentes e fonds du qurter de nuer dé dte nnée 68s pour etre edt qurter ouueft u qunéme du preent mos & ceuy pye& conte nú dudrfonds pr eds Pyeurs & pour cet efe eront es quttnces ncemment ptes en orte que edt qurter pue etre entereent ceué u demer Avr prochn & u peter dud mos dAvr prochn ouuerture dés pyeens ér té nueree enepn reoe e uer er pu eque eneme du deuxéme uute dte De crton e fonds er ft de ner dns es Etts qu sexped"
+        ],
+        [
+            "sexpedront pour dte preente nnée ur es de ners tnt des Receptes Generes des Fnnces que du Ton dedres Genertez ns qus puent etre duerts ny empoyez à ucun utre efet & u s qus ne e trouuent uffns pour efds deux qurters dte Mté poutuor dvn ure fonds pour ce qu sen defudr Et er tenu edt Ben fre es umons à Hote de Ve pour execu ton de ce que deus enfrme ordnre & ccou turmée Fr u Cone dEtt du Roy tenu à Compegne e dxéme our de uet m x cens qurnte neuf Sgné PheL PBAVX Fr ps s et eerr Regtré pour etre eecuré eonforme & teneur uunt Aret deCour de ce our A Prs en Prement e 6 uets49 Sgne DV TLLET Sôeesete88ée Extrct des Regftres du ConedEtt VRRequete preeme u Roy en on Cone pr Etenne eue Bourgeos de Prs Conte nnt quencores que pr e Trtté qufr uec es eurs Preuot des Mrchnds & Echeuns pour éeecouurement des deners mpoez nnée 6 enenerté de Mouns detnez pour e pyement des Rentes des Huct mons ur es Tes deut etre empoyé dns Ett deMetéepedeé pourdtruton des Fnnces de dte Generté dedte nnéeomme deDouze cens n ures pour"
+        ],
+        [
+            "6 e pyement dedtes Rentes ur quee edt Rerert etot tenu pyeromme de Huct cens dx mures Nentmonse trouue nen uor eteé empoyé dns edt Ett queomme de Vnze cens qurn e n ures pour eque mnque de fonds & pour utres empechemns mentonnez endte Requete Requoroent qu peut àMeté e dechrgerdudt Trtté ou en tout cs ceuy moderer àom me de Sept cens cn qunte m hures ttendu e mnsque de fonds deommme de Soxnte m ures ns srreter ̀ Aret dudt Cone dudu preent mos portnt urogton dudt Trtté u proft de Mtre Antone Ben dontde meurer dechr gé Veu dte Requete communquée udt Ben Lccord& oonuentons fts entre edts Reuert ô ee Ben curs cttons & ocez contennt entru tres choespromee fte pr Ben de fre pr uy m hures qu eront dmnuez dudr Trtré ur e fonds qu uy er ft prMeté eneme ce qu conuendr pour emter pyement dvn qur ter dedtes Rentes Le Trtté f pr edt Reuet uec edrs Preuot des Mrchnds & Echeuns eFéurer 6 LEtt deMjeté expté en dre nnée pour dte Generté́ LArret du Cone dudt ouruet oüy ur ce edts Preuot des Mrchnds & Echeums edts Reuert & Ben e rpport du Commre à ce eputté S A MAE STE EN SON CONSE Ldechrgé & de chrge et Ben deuhurogton ̀ uy ccordé́e"
+        ],
+        [
+            "pr edt Arret A ordonneé & ordonne que edt Reuert uunt es ordres des Preuot des Mrchnds & Echeuns pyeromme de Sept cens cn qun te m ures à quee dte Meteémoderé e for ft de on Trtté u eu de cee de Huct cens dx m ures à quoyetot ogé pr ceuy & pour cet effet es cutons pr uy fournes feront eurs umons u Greffe de Hote de Ve de pyer dte fomme de Sept cens cnqunte m ures pour etre empoyé́e u pyement du qurter de nuer de dte nnée 68 des Rentes des Huct mons ur es Tes Petres Rentes cees de Pyen & Receptes Generes en orte qu otcquté dns e premer our de My de nnée prochne Et prce que dte omme de Sept cens cnqunte m ures net uffnte pour pyer edt qurter edt Ben & es cutons eront tenusfre eurs umons t Greffe de dte Ve de pyer e urpus dudt qur ter ur e fonds à uy fourmy prMeté FT u Cone d Ett du Roy tenu à̀ Prs e s uet 649 Sgné BOVER Er pus s et encore eet Regtré pour etre executé eonforme & teneur uunt Arret deCour de ce our A Prs en Prement e6 uetoe Sgné DV TLLET"
+        ],
+        [
+            "eeeueuusetteuseueseuuses Extrct des Regt res du C onedEtr VR ce quete repreenté u Roy etnt en on ConeRene RegenteMere preente pr es Preuot des Mrchnds & Echeuns deV e de Pns Quencore que prDecrton deMjeté du 2 Octodre derner es Rentes de dte Ve gnées ur es Aydes de Frnce douent eftre pyées de deux qurters & demy pendntguerre Nentmons outre e recuement de pueurs nnées dcees e fonds dedts deux qurters & demy n ps eté ft etterement dns ett de dte Ferme de nnée 68 & prtcuerement pour es ncen nes qu ne sy trouuent empoyées que pour deux qurters euement duque fonds es Receueurs & Pyeurs dedtes Rentes nonc pû trer ucune choe des Fermers dedtes Aydes depus emos de nuer derner ous pretexte des mouuemens derers en conequence deques s pretendent nuor oüy dedte Ferme & n es qurters de nuer63o des ncennes dedtes Rentes & e qurter dctore 644 des nouuees qunuoent etéouuertsne peu uent etre cheuez de pyer ny es qurters uuns commencez u preudce des Renters eques en font ourneement de grndes ntnces udts Pre uot des Mrchnds & Echeuns dns Hote de dte Ve Requeroent qu peut àMeté or donner udts Fermers de pyer ncemment entre es mns dedts Pyeurs es ommes neceres pour e pye"
+        ],
+        [
+            "S e pyement tnt du rete dedts qurters ouuerts que ceux ̀ ouurr nonotnt eurs pretentonsou en cout cs de côtnuer àpyer pr chcune emne n qus ontftuquesudt mos de unuer derners & à ce fre contrnts coômme poures deners deM jeté Veé dte Decrton & pres uor mndé udt Cone utre Adrn Montgne Fermet dedtes Aydes & es cutons pour etre oüys ur e dt retrdement eques ont remontré que depus e premer nuer 642 uques u 8 nuer 69 qus ontdmntré dte Ferrme s ortponctue ement pyeé edtes entes de emne en emne qus n douent udt our huctéme nuer queomme de Qutre vngteux m x cens qurre vngnne ure fept os Ms que durnt nnée 68 &premere derhe nnée 649et rrué denotes ccdens & chngemensen dte Ferme qu eur efté́ mpoe de contnuer edts pye mens dutnt que es Peupes ynt eu epernce detre dechrgez des drocts comprs en euràprere des Compgnes Souuernes s nen ont vouu pyer ucne choe QueMete yne prDecrton du 2e Octore derner upprmé es vngr os ppeez de uouge es drocts de Con trooe du pper & des eres &Suuencon d ped fouxché de Prs qu tenoent eu de Douze cons m urespr n dt B es Sous Ferrmors e one pourneus enCor des Aydes & ont ouenu d nores urcences tnt à̀ cue de dreuppreon nces pt eux pretenduës Quu ques non oüryt C"
+        ],
+        [
+            "moyen des troues & mouuemens uuenus depust0 enuer6 edt Montgne & es Souermers nont pû̂ receuot e qurter dOctore 6à qu netor pye quen Feur er 69 ny fre ucun exer ced ny perquton des drocts de dte Ferme durns es mos de nuer Féurer Mrs Avr & My der ners qu ont enterement perdus & qu encores à preent es Tuerners & utres redeues de Prs & des utres eux à eur exempe ont refuns de pyer ener ee eeren des Mrchnds & Echeuns eques setns pour ueus ̀ Cour des Aydes pour otenr mn euée de dtes urcences pr ee donné́es udts Souer mers & fre de que edts Tuerners & utres re deues de cette Ve eroent contrnts u pye eue de de qudouenrs e qu uneu opeus uques à preent Que pendnt es troues & mou uemens es Generux & Chefs des trouppes ont prs enuron Tros cens m ures des deners de dte Fer me tnt en Normnde Tourne que Poctou & que es Peupes font dffuteé de pyer es drocts de de Ferme en tous es eux où edtes Aydes ont cours mehe en cette Ve de Prs De orre qu e trouue uy etre deu pr es Souermers pus d Tros mons de hures tnt de nneée 648 que depreente dontne peut receuor ucune choe s ny et pourueu p Mjeté & qu pr on thor té es redeues de Prs oet contrnts u pye ment de ce qus douent Cormme uf que e seg ement des Neufceeps m uresccondz ux SousEc"
+        ],
+        [
+            "nmers pr dte Mjeté pour eurs pretenduës pertes &non oüynes ne ot ft Dutnt qu ne peut uor ren de qude cõtre edts Souermers qu pres edt regement & uques à ce qu uy et d tout mpofe douurr e pyement dedres Rentes Et pourfre vor qu ne mnque ps de voonté pour tsfre udts pyemens offrot ( à exempe de ce qu fut ft en nneée 633 uec eucoup mons de ron de er preentement udts eurs Preuot des Mrchnds & Echeuns des gntons ur e dts Souermers & utresredeues uqùcon currece des ommes pr eux demndées Tout con deréSA MAESTEESTANTENSON CONSEHLRene RegenteMere preente & enrtendnt e retement de dte Ferme & que e fonds dedres Rentes y pue etre prs conforme ment à dte Decrton A ordonneé & ordonne que edts Fermers pyeront entre es mns dedts Re ceueuts & Pyeus des Rentesomme de Vnge m urespr chcune emne à commncer u premer Aout prochn pour etre pr eux empoyée u pye ment du rete deu dedts qurters dOctore 44 desnouuees Rentes & de nuer 6o desnccnnes ns ucun duertement & que e fnds du qurtor d Avr 645 dedtes nouuees & du qurter de u et s3o des ncennes gges txttons desOfcers epces & fçons de comptes er encore pyé́ & fdur ny pr edts Fetmers entre es mns dedes ece ueuns & Pyeurs pr chcuneemne n queté ft uques udt our premer de nuer derer à"
+        ],
+        [
+            "2p cheune rfon de Trentros m dcees à commencerpour edtes Renres nouuees u5 Octore & pour es ncennes u premer Nouemre procn pour etre empoyez u pye mens dedts qurters pourt eques eront es qut tnces pres çuor pour es nouuees u3 Septem re & pour es ncennes u premerOctore & er ft fonds à duenr de deux qurters & demy pou es ncennes Rentes n que pour es nouuees pr Eeoe roe ee tes & dAvr o des ncennes pour equeesne e trouue àpreent fods ut dte Ferme u moyen des non oüynces dcee Ordnne dte Mjeté qu mpcement en er f u es de ners dte Ferme des nnées prochnes 6o & 65 p moté & que chcune des emnes ener dutntugmentée à̀ commenceru premerour de uet de dte nnmôe s5o & contnuër uquesuderner un 6y pour etre e pyement dedts qusters ft uec ceux qu ont ouuerts ude temps ns nterreupton dceu& eront tenus edts Fetmes fre pour exocuton de ce que deusonrs um ons à Hote de Ve enrnere ccoutumée FAt u Cone dEtr du Royjefté y etntRene RegenteMere preente tonu à̀ Compe gne eo our de utu64e Sgné Puvx Eet phs s eft eers Regtré pour etre exeeuté eonforme & teneur uunt Atret dce our APrs en Prement eete43 Sgné D Tuer Extrct"
+        ],
+        [
+            "Aeséeesegeeeeeue Eeent des Regtres du ConedEts VR ce queté repreenté u Roy en on Con eeynme egenteMere preente pr es Preuot des Mrchnds & Echeuns deve de P rs Que es rentes de dte ve tnt ncennes que nouuees gnées ur es Gees setnt trouué́ recuées de pueurs nneéesMjeté en urot prdecrton du vngeuxome Octore derner ordonné deux qurters & demy pendntguerreeuement pr preferene àprte de Eprgne & quoy que es djudctres dedtes Gees ynteté ogez en execuron de dte decrton de fournr ux eceueurs & Pyeurs dedtes rentes e fonds necere pour edts deux qurters & demy en eognez dy trsfre & dugmenter e pye ment de qutrngts huct m huct cens vnzeures douze os qus foent pr chcune emne uprunt de decrton s ont dcontnué depus e mos de nuer derner ous pretexte des derners mouemens e ont commencé que depus enuton vnrmos ou x emnes àpyer qurnte m ures pr emne euement ce qu net ̀ eucoup prés uffnt pour pyer ce qu et deu de rete du qurter deLnuer m x cons qurntn dedtes ncennes renrés & du qurter dOé ore m x cens qurutte des nouuees & des prcedentes en orte que es qurtrs uuns qu deuroent etre pyez ue e peuuent orcontrententon ded D"
+        ],
+        [
+            "3 ce deerton cequ oge esenters ̀ fre de grn des pouruttes Hote de Vepour demmdõr edt pyenent Re queroent qu peut à f Mjeteéy pouruor & ordonner que edts Adjudctres des Cees conforméuent à dre Decrton pye ton preentement ce que et deu de rete des rrer ges dedtesrentes des qurters de nuer 64 pour es neennes & dOctore 644 pour es nouuees eu ue des pcedens Comme u e fonds nece ne pouoouurr pyer es qurtens uunsecheus uques ̀ pre eur& à̀ ce fre qu feront contrns comme pour es deners deMjeté Veu dre De trton & pres uor conderé ett uque Fer me dedres Oees et preenement & e peu de recepte qu e ft des drocts dcees pr eds Adju nenunene un neu nee e ee etoent dns es Greners & du fux unge & quepuprt des prtcuers ont teement founs de e e repun eue e eeoen Se qus nen prennent pus dnsdedts Greners pueurs deds Geners SA MAESTE ESTANT EN SON CONSELReue R egenteMere preente en trendnt que dte Ferme des Gees ot rete & quee t reprmé es deordres qu ont en cee A ordonné & ordon ne quà commencer u prermer our dOctore pro chn edrs Adjudctres des Gees pyeront entre es mns dedts Receueurs & Pyeurs des re tes pr chcune emneomme de Qutre uvngs huct m hnct cens vnze ures doueos n qus"
+        ],
+        [
+            "Sr ft uqu nos de nuer derner ur e ped de deux qurters & demy des rentes & gges en douze mos pour etre dte dce omme empoyee u pyement du qurrer de uet 64 des ncennes rentes gnees ur edtes Gees & du quruer dAvr 64j des nouuees gges rxtons dOffcers epces & fçon de compte Deques qurters eront pour cet effet es quttnces pre u premer Seprem re prochn & cependnt contnuëront edts Ad udctres e pyement dedts Qurnte m ures qus font preentement pr chcune emne n qu eureté́ ordonné pour erur à pyer & cqut ter pr edts Pyeurs es retes deus du qurter de nuer6 dedtes ncennes rentes & du qur ter dOctore 644 des nouuees & pout e regrd du qurter dAur de dte nnnéededtes n cennes rentes & du qurter de nuer 65 ded tesnouuees ny ynt fonds uffnt pourceux n née preente ur dte Ferme des Gees Veutd re Mjeté qu ot rempcé é́s nnées uuntes6jo &5 pr moteé & que edt fonds ot ugmenté pr edts Adjudctres ur chcune des emnes qu commenceront u premer huet dedte nnée 6̃o & contnuërontuques u derner Decemre 65j e gement pour etre edt fonds dtrué udts ten ters uec ceuy des utres qurtets qu eronf ouuerts udt tempsns ucune nterrupnon y dmnuton dceux Frr u Coe dEtt du RoyMjeté y etntRene Regente Mere preente enuà Compegne e dxéue our de uet m fxcens qu 2"
+        ],
+        [
+            "6 rene ede uerueuee ne deee forme & teneur uunt Arret de ce our A Pre en prrement e vngeme uet m x cens qurnteuf Sgné Dv TLEeT eegeeeeeefesseseegse ees Extrct des Regtres du Cone dEts CVee quetéepreeń ur emteu o Qeer enon e e poenr un eoenee gener du Cergé ot ogé de fournr enere es mns des ryeurs des rentes de dte Ve gné́s ur edt Cergeomme de Qutorze m deux ees qurntpt ures pour chcune emne pour epyement des rrerges dedtes rentes & que prDecrton de f Mjeté du OCtore derner es ptoprerres dedtes rentes douent etre pyez de deux qurters & demy Nentmons edt Receueur gener queque dgence que edts Receueurs & Pyeurs fent contre uy s ne peuuent en trerpyé ment etnt demeuré en rete detreze emnes qu tre ours ce quft que edts preuot des Mrchnds & Echeuns reçouent de grndes pntes des rro pretres dedtes rentes à cue de ce rerrdementqu et contre ntenton de dte Decrton Re quen oeut q put eeomruo &o donnerque edt Receueurgenerer ncermment eonrns n pyemenr de ddte omme à quee montent"
+        ],
+        [
+            "7 montent edtes treze emnes qutre ours enem e ̀ ce qudot fourmr pour ecournt Oûy e rp port du Commre à ce deputé Et tout condereé SA MAESTE ESTANT EN SON CONSELRene RegenteMete preenteordoné&ôr donne que edt Receuer gener du Cerge cont nuër e pyement du fonds dedtes rentes gnées ueCergé entre es mns des Receueus & pyeurs dcees ur e ped de Qutore m deux cens qu rpe urespr chquneemne n qus coutumé Lequees emnes eront ugmenté́es chcune de Qutre m ures à commencer udu preent mos de uert pour rempcer edtes tree emnes qutre ours dontet en rete &côntnuë edte ugmentton uques à ce quees oent en erement pyé́es à quoy fre e Receueur gener er contrnt comme pour es deners& ffres deMjeté pour etre es deners dedtes treze emnes qutre ous dtruezudts Renters ur es qun ters qu nont eteé cqutrez & ns preudce n nces ntentées contre edt Receueur gener du Cerge pour e fonds ddtes rentes des nnées pre cedentes Fr u Cone dEtt du Roy tenuà Compegne e dxeme uet m ens qurnte euf Sgné PHELPEAX Et p s et eert Regtré pour etre uxecuté feonfor me & eeneur uunt Arret de ce our APrs en remen yngeme ues m x cens qu ernteuf Sgné́ DV TLLET E"
+        ],
+        [
+            "8 3 eeege3e3eeetẽeesees Eetrct des Regftres ds Cone dEftt VR ce queté repreenté u Roy eu on Con eRene RegéteMere peete Pr e Pre ot des Mrchnds & Echeuns deVe de Prs Quynt ordonné pr on Arret duuet 649 q erot pye pour nnée os vn qurer des ntés gnées er es Tes Et pour dte nnée 649 deux qurters nentmons pr edt Arretnyuot utre fonds degné que ceuy qu prouent es Cenerreez dOrenms & de Mouns qu net uf fnt pourcquteer edts deux qurters etnt e n de pus grnd fonds Requeroent dés à preent etre pourueu dutres Genertez pour e pyemen de deux qurers deue E que pr Arret dud Con e du e our d uetMjofté urot drdonné qu eroît foutny pr es Adudctres des Aydesome de Trentros m ures euement u en de Trentptm cent tree ures noceres pour e pyement de deux qurters & demy tnt des n eenne que des nouuees rentes gges drots t tons & epces & que es Vngt m ures potées pr edt Arret netns fectez qu pyement des quttdrs deHuer 6y& Odtore se etot ne eoeune ne ee ene ene de de onene cquttées pr edts Adudcttes Et que pr utre Arret du o du meme mos urot eteé́ ordonné que"
+        ],
+        [
+            "9 es Fermens& Addctres des Gees pyeroent Quttngtshut nm huct cens vnze ures douze os pr emme à̀ conmencer u premer Octore euement & quees qurters de nuer 645 & u et ̃u eroent pyez & duct mos à̀ commen cer u premer uet 65e netns edts Adudc cres ogez pr edt Arret de fre es umfons Requerns quu eu du premeér ODétore que ou uertue ot fte u deuf Septemre prochn fn denepont nterrompre ouuerturedes qurters & que edts qurters de nuer 6̃45j & uet H64r oent pyez en douze mos & nf que edts Adu dctres fent de nouuees umons u Greffe e dte Ve pour executon de Arret donné e dt our dxéme uet derner S A MAESTE ESTANT EN SON CONSELRene RegenteMere preenteordonné & ordonne Qù egrd des rentes des Teser gné u fonds dns e rmos de Mrs prochn pour e pye ment des deux qurters des rentes gges drots & rmctons & du tot de epces pour etre edts deux qurters pyez pr epmne à̀ commencer du premer our dAur 6jo & fnr u demer Mrs 65 conformement udt Arret ot ur es deux Gener tez drens & Mouns ou utresees ne onc uffntes Et qunt ux rentes des Aydes er four ny pr edts Adudctres dcesomme àquee e trouueront monter deux qurters & demy des ncennes & nouuees rentes e tot des ep ces es gges drots & txtons des Receueurs &20 Pyeurs uunt es Decrtons derneres à commen cer u cnquéme Octore & premer Nouemre pr chn eront empoyez pour e pyement du qurter dOctore 44 nuer 63o & ce qu e trouuer deu de rete pour e pyemét des qurters precedens Et pour ce qu et des rentes gnécs ur es oe es fournront edts Adudctresomme àquee e trouueront monter deux qurters & demy des ncennes & nouuees rentes e tot des epces & es gges drots xtons des Receueurs Pyeurs eee neeoee e uunt es De crtons des mos de uet & Octore our de Septemre prochn & à fute dy rsfre e dt temps echeu eront contrns en vertu des u eeoe eue eee ene ee pee dedtes rentes etont executez Ft u Cone dEtt du RoyMjeté y etntRene RegenteMere preente tenu à̀ Compegne e 24ou de uet 649 Sgneé de GveRecv Etencore eécns Regtré pour etre executé eonforme & teneun uunt Arret de ce our A Prs en Prement e 26 uet 649 Sgné nv TLerOVS prgree de Deu Roy de Fnce & LLde Nurre u premer des Huers de notre Cone ou utre Huer ou Sergent ur ce requssNous te mndons & commndonsque Arret dons Extrct et ctché ous e contre de no tre Chnceere ce ourdhuy donné en notreCone"
+        ],
+        [
+            "2 Cone dEtt Nous y etnsRene Regente no tre treonorée Dme & Mere preente Sur ce qu nouseté repreenté pr e Preuot des Mrchnds & Echeuns de notre onne Ve de Prs Tugnfe à̀ tous qu ppttendr ̀ ce qus nen pre tendent cuedgnornce Et fts pur executon dceuy tous commndemens ommtons con trntes conformément udt Arret defenes & u tres ctes & Expots neceres ns utre perfn on C r e et ntre pr Douà Compe gnee vngutreéme our de uet n de grce m x cens qurenteuf & de notre Regne e Se pteme Sgné LOVS Pr e RoyRene RegenteMere preente De GvvsvS3tgeeééegeeeseejeuspeeé3 Setrct des Regtres du Prement E ourCour duerte Que es Preuot des L Mrchnds & Echeuns de cette Ve etoent u Prquet des Huers demndoent à prer àdte Cour ont et́ ft entrer & dt edt Preuot des Mrchnds portntproe qus pportoent es Arrets du Cone donnez pour e pyement des ren tes gneé́es ur Hote de dte Ve eux retrez Ouy e rect ft pr Moneur e Premer Predent Que edts Arrets etoent ux termes de ce quuot eté concerté uec es Deputez deCour Et veu edts rrets donnez à Compegne u nomre de x dont qutre ont dttez du dx de ce mos vn"
+        ],
+        [
+            "22 dunze & re du vngutremme de cedt mos & n L mtere me en deerton LADr TE CovRrreté & ordonń Que edts Arrets eront regtrezu Greffe dcee pouretre executez eon eur forme & teneur Enot udts Preuot des Mrchnds & Echeuns tenrmtn à execu to & encs de contruenton en duertCour Et eont edts Arrets & e preent àdgence du de Preuot des Mrchnds mprmes àce quucun nene prerede cue dgnornc FPr en Pre mene evng éme uet o x cens qune neuf Sgneé DV TLLETCGnone ux Orpre pr o Grefer deMon de Ve de Prs ognmé"
         ]
     ]
 }

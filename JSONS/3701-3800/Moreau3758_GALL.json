@@ -1,184 +1,53 @@
 {
     "entête": {
         "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-30",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-08",
-            "@who": "AB"
+            "@when": "2022-05-30",
+            "@who": "ZC"
         },
-        "titre": "Le terme de Pâques sans trébuchet, en vers burlesque,\n          suivant l'arrêt du 14 avril 1649.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-17",
-                "#text": "17 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-27",
-                "#text": "27 avril 2021"
-            }
-        ],
+        "titre": "Le tempérament amphibologique des testicules de Mazarin,\n          avec sa médecine par maître Jan Chapoli, son médecin ordinaire. Tales fuimus ex quibus\n          nutrimus.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau3761_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3758_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE TERME",
-            "DE PASQVES",
-            "SANS TREBVCHET,",
-            "EN VERS BVRLESQVE.",
-            "SVIVANT L'ARREST DV 14 D'AVRIL",
-            "mil ſix quarante-neuf.",
-            "A PARIS,",
-            "DE L'Imprimerie de NICOLAS IACQVARD, ruë",
-            "Chartiére prés le Puits-Certain, au Treillis-vert.",
-            "M. DC. XLIX. <pb n=\"2\"",
-            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5722057n/f5.item.r=bpt6k5722057n\"/>"
+            "Le tempérment mphoogque des testcues de Mzrn vec s médecne pr mître Jn Chpo son médecn ordnre Tes fumus ex quus nutrmus Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Jen Chpo Tempérment (e) mphoogque des testcues de Mzrn vec s médecne pr mître Jn (sc) Chpo son médecn ordnre Tes fumus ex quus nutrmus CoogneSns Nom65 Prs Bothèque ntone de FrnceTrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3758 Tempérment (e) mphoogque des testcues de Mzrnvec s médecne pr mître Jn (sc) Chposon médecn ordnre Tes fumus ex quus nutrmur Coogne 65 8 pges Une des hut pèces es pus recherchées Cest ssez du ttre pourjugervers non rensegné"
         ],
         [
-            "3",
-            "LE",
-            "TERME DE PASQVES",
-            "SANS TREBVCHET,",
-            "EN VERS BVRLESQVE.",
-            "Suivant l'Arreſt du 14 iour d'Avril, 1649.",
-            "RICHES Creſus, ames dorées",
-            "Qui faites d'or les empirées,",
-            "Et mettez le Souverain bien",
-            "A prendre tout ne donnant rien:",
-            "Qui diſiez pendant que la guerre",
-            "Tenoit ſon Trône en noſtre terre,",
-            "Que vous aviez mal au cerveau,",
-            "Ou que l'on vous ordonnoit L'eau,",
-            "Que vous aviez les dents rompuës,",
-            "Et les gencives corrompuës,",
-            "Que vous ne pouviez plus manger,",
-            "Qu'il ſe falloit vn peu ranger,",
-            "Que la gagne eſtoit trop petite",
-            "Pour auoir la farine cuitte,",
-            "Qui craignant qu'on fit coffres nets,",
-            "Baptiſiez le vin des Valets,",
-            "A ij"
+            "LE TEMPERAMENT AMPHBOLOGQVE  DES  TESTCVLES  DE  MAZARN  AVEC SA MEDECNE  Pr Mtre AN CHAPOL on Medecn  Ordnre  Tes umus ex quus nutrmur  QV crorot cette verté  Que mon Mtre Mere ues  Aye cqus on Authorté  Pr effet de es Tetcues?  On e dot en certnement  Pus quonveu votre Emnence  Monter u Trône deFrnce  Pour y commnder penement préme  Certes vous vo en (cher Mtre) dns vn degré u  S en vount tout perdre neuez perdu vous meme"
         ],
         [
-            "4",
-            "Et les renvoyez chez leur pere,",
-            "Ne gardant qu'vne chambriere,",
-            "Qui ne gouſtoit point de boiſſon",
-            "Que celle qui ſert à l'Oyſon,",
-            "Qui ne faiſiez point de largeſſes,",
-            "Et qui déguiſiez vos richeſſes,",
-            "Diſant qu'on ne meurt pas de faim",
-            "Quand on a de l'eau & du pain:",
-            "Vous qui craigniez que la Fortune,",
-            "Ne vous fiſt dénicher la Lune,",
-            "Qui dans vn ordre ſans pareil",
-            "Vous couchiez avec le Soleil,",
-            "Le lard dans vne telle affaire,",
-            "Vous eſtoit bien plus ordinaire,",
-            "Que la Caille & que la perdrix,",
-            "Qui valoit vn aſſez bon prix,",
-            "N'en eſtant pas en abondance",
-            "Vn peu devant la Conférence.",
-            "Mais, taiſez vous c'eſt trop pleuré,",
-            "A preſent on eſt aſſeuré",
-            "Qu'à la vailée de miſere",
-            "L'on treuve à faire bonne chere;",
-            "Ne vous mettez plus en ſoucy,",
-            "La paix eſt faite Dieu mercy:",
-            "Allez recevoir voſtre Ferme;",
-            "Mais, que dis-je, on donne le terme,",
-            "Et on dit que de voſtre bien",
-            "Vous n'en recevrez encor rien.",
-            "Grand Dieu, c'eſt bien fâcher vn homme,",
-            "Que de défournir vne ſomme,",
-            "Que depuis plus d'vn an & jour.",
-            "Eſt privée de voir le jour:",
-            "N'y ſongez plus, c'eſt choſe faite,",
-            "Fermez (puis que la paix eſt faite)",
-            "La"
+            "vouë que ce grnd oeur  Vous venot dvne onne ource  Puque pour vuder votre humeur  Vous rempez treeuxource  Lon crot pour rtce de foy  Que prvertu de ce ûme  Vous poedez dns e Royume  Tnt duthorté que e Roy  Cet vn prodge ns pre que cete hue mrcueue  Vous ye ft regr ce Corps pr vne prtehonteue  Votre Orvetn pr on renom  Sétendnt pr touteFrnce  Vous ft cquerr e urnom  De Grntre decheunce  En quoy vous reutesen  Tnt poure quhute gne  Que de vous envorngne  J fux ttres  Lon vouscrû Mgcen  Ms on cet trompé ourdement de vous tcher de ces  Quon vouu vous mpoer pour voetre eru de ftres  Lonveu que pr vos prfums  Ptes eux & conftures  Auez ft ortr es deffuns  Du profond de eurs eputures  Cr ns nger en hute mer  Pr rt de pecheur tregne  Vous crochez ̀ votre gne  Les peres quon noe nommer  H que rt que ecret que meter et e votre  Quon vous juge putot fux Prophete quApotre   e99"
         ],
         [
-            "5",
-            "La porte au Temple de Ianus,",
-            "Ou vous mettiez vos revenus,",
-            "Et ouvrez aux captifs la porte,",
-            "Afin que cette troupe ſorte,",
-            "C'eſt vn oeuvre de charité,",
-            "Que de laiſſer voir la clarté,",
-            "A ceux qui ſont en ſi grand nombre,",
-            "Dans vne priſon auſſi ſombre,",
-            "Que la priſon d'vn cabinet,",
-            "Quoy que l'on le tienne aſſez net:",
-            "N'avez vous point d'autre allegreſſe,",
-            "Que de voir repoſer ſans ceſſe",
-            "Ces petits ronds, d'argent, ou d'or,",
-            "Qui compoſent voſtre treſor,",
-            "Rendez grace à la deſtinée,",
-            "Faut les dérouïller cette année,",
-            "Et les prendre apres tant de ſoin,",
-            "Afin d'en vſer au beſoin,",
-            "Faut qu'ils revoyent la lumiére,",
-            "Puis qu'apres trois mois ſans rien faire,",
-            "On met ce qu'on pouvoit avoir,",
-            "Dans les fins de non recevoir.",
-            "Mais, ſi le Fermier eſt bon homme,",
-            "Vous ne perdrez pas voſtre ſomme,",
-            "Il vous la payera ſans frais,",
-            "L'année mil ſix cens jamais;",
-            "Priez Dieu, prenez patience,",
-            "Faites derouïller la balance,",
-            "Et gardez la pour cét effet,",
-            "Et les poids & le trébuchet:",
-            "S'il demeure vn peu ſans rien faire,",
-            "Quand il vous ſera neceſſaire,",
-            "Il marchera plus juſtement,",
-            "Que non pas au commancement:",
-            "B"
+            "3  Chcun veut çuorce Secret  Chcun men demndecue  Ms comme Medecn dcret  Sns votre uthorté e noe  Ms puque cet e en de Tous  Et qurdmment on e dere  e trouue ̀ propos de e dre Chmques  Pour meux fre prer de vous  Lon vot en ns dffcuté que tous vos hues ont  Puque toutvotre or vent du feu de vos veux per  Pour tout decrer hutement  mtques et eon que e commnce  Pr utre temperment  Que vous uez eu de nnce  Et ns ongue dgreon  Vous uez tré de Nture  Vne chude temperture  Et treoe compexon  J ues  Ce fut vn grnd préjugé de votre vertu (Mon cher  Quevous nen uez u Chef vous en uez ux Tet  Pendnt cette tendre eunee  Lon vous mt chez vn Crdn  Quvous voynt pen de moee  Vous chot pour on vrn  Or vous y ceutesen etre  Que dns peu de temps on vous vt  Dvne mpe Gouge de t  Jeues  Pus exceent quevotre Mtre  Jexerece Lon ne çurot ez oüer votre humeur en tout  Pus quon vous voyot ̀ tous coups ccommoder ̀ tout eruce  7"
         ],
         [
-            "6",
-            "Toutes choſes repos déſient,",
-            "Le repos fait qu'elles reſpirent,",
-            "Et auiourd'huy l'homme de bien,",
-            "Repoſe s'il ne paye rien,",
-            "Il reſpire, il reprend haleine,",
-            "Et encor auec peu de peine,",
-            "S'imaginant en Paradis,",
-            "Entendant crier ces Edits.",
-            "N'en faite point tant mine griſe,",
-            "Car pour vn, cent on favoriſe,",
-            "Et il vaut mieux pour tous reſors,",
-            "Prendre le party des plus forts.",
-            "Conſolez-vous ie vous en prie,",
-            "Fermez l'oreille quand on crie,",
-            "L'Edit qui dans ſa probité,",
-            "N'aura iamais d'égalité:",
-            "Ne penſez plus à voſtre Ferme,",
-            "Et encor bien moins à ce terme,",
-            "Que vous nommerez en ſecret,",
-            "Le ſeul Terme ſans Trébuchet.",
-            "Voſtre Serviteur,",
-            "NICOLAS LE DRV.",
-            "SCAZON."
+            "4  Aprés entrnt en Puerté  Le ttement du Prpe  Vous ft ouurrchrté  Pour fermer votre fue trpe  De fçon quon ne vd jms  Dns touteve de Rome  Vn pus he ̀Sodôme  Que vous y fûtes deorms  de guerre  Votre rtere nous ft vor que vous erez Chmpon  Puque vousdreez putot u cu dvn grçon que  Pendnt votre trenteme nnée J dvn verre  Lon çt que vous etez tout feu  Et que votre humeur Hymenée  Sugmentot toujours peupeu  Vous pr̂tes en e vent en poupe  Puque tnt Grces que Grçons  Vous cherchez de toutes fçons  Afn de de nuger en croupe fut voüer que vous fûtes trexpert ̀mrne  Puque ns Arre ny Trnquet vous mrchez en de  Ms en votre Vrté  Vous uez tnt ft de meruees  Que pendnt vne erernté  Lon nen ferot ps de prees  Cr etnt Mntre dEtt  Pr votre grnd concupcence  Vous uez NugéFrnce  Borne  Quee et dns vn pteux ett  gutes  Vous uez certesen ft pr ces qunences u  Que tous es méchns ontregné pour meux en écrter  J es utes"
         ],
         [
-            "SCAZON.",
-            "Si christiana, denegat fides, legis,",
-            "Inferre amicis damna, non vetat dictum",
-            "Sit prima noſtri cura, jura ſic poſcunt."
+            "5  Pour vous mntenr emonpont  De cetre humeur tene  Vous nuez mnqué de tout pont  De vure ̀ Epcurene  Puque prmy votre oon  Vous meez force Cmeddes  Duem Epces Cntrdes   dnres  Pour uor de perme ̀ foon  Ms ̀ que propos tous ces frds es ûces fort extror  Snon pour fournr de empos ̀ vos Bourgeoes &  Lngeres  (Cher Mtre Berc & Beroc  Dtteur en Qunt eence  Aez enegnervotre Hoc  En eux fort on de notre Frnce  Cr pr vos jeux & vos reors  Vos Ptes & vos eux pes  Vous nous uez tnt ft de r̂fes  Que tous nos Loüs en ont dehors  chûre  Croyeoy ny reuenez pus & crgnez dy fre re  Cr vous rendrez tot u tmour ce quuez ggné  Votre ource pus quhydropque prfûte  Pr excés des es coctons  A rendu notre Frnce etyque  Pour ouur es pons  A preent chcun ft des vœus  Que votre humeur Srdnpe  Pegne Equnoxe  Et quee ny retourne pus  Autrement vous y venez (chere Emnence Mzrney  Aûrez vous dy receuor es honneurs quon ft ̀ Con  BJ chne"
+        ],
+        [
+            "Ce temperment de Moneu  Etfort mé dnsFrnce  Quon en voudrot uor peu  Pour en grnr vne potnce  Et e rete de votre côrs  Serot en pompes honores  Encéveytous es des  Comme vous uez nos Treors ̀ pndre  Ce mgnfque Enterrement pus ̀ ouhter qu net  Réjoürot tous es Frnços dvn retour qus pour roent en crndre 7  7 MEDECNE POVR MESSRE VLE  MAAARN Ordonnée pr Mtre AN CHAPoL  on Medecn ordnre ce 4 My 65  ON TRESCHERMASTRE  T Aynt eu honneur duoreté depus M x cens  Dx votre Medecn ordnrene met ps ̀ preent  dffce (prongue experéce que y de votre Te  permen de connotrecue de votre mde que  y jugéne pouuor proceder dutre prt que de ex  ceue nfmmton de vos protrtes & prtrtes  pour nuor ps eu eur re & ere ejcuton de  pus votre orte de Frnce comme ees uoent ccou  tumé pendnt votre demeure ̀ Prs Cette on  une de ereenee eneunr"
+        ],
+        [
+            "te ntem pere pr on trop ong ejour vous pourroent  ̀ venr engendrer queque quté deeque qu  prvrunte mgnté vous phceerot çette ve  nere prte u grnd regret de Segpor Fourqu  n & de me utres qu en mourroent de fchere ce funete ccdent rruot quoy queprncpe per  te futvotre cr etnt muté de orte vous erez  ̀jms frutré de votre grnde eper̃ce çuor quon  vous reconotrot ndgne de pouuor occuperCh  re de Snct Perre fute duor es témons requs pour  uor ence en cette dgnté depusfourere que  on dt dePpeeenne L doueur de vn & de  utre vous pourrotpummét demoter es roues  de votre eprt crnte de es nconuenens quetnt  prué de égue & de es deux cotrepods votre mon  tre e trouuerot nute tnt u Soe qùLune ce  qu erot enter cheuement de votre dgrce Pré  voynt ̀ tout ce y trouué ̀ propos de vous fre preente Ordonnnce pr quee comme pr de  de Deu e pretens vous preeruer de tous ces mux &  de peurs utres fo ttm rr mndrgorœ n pug v Rd  rfn uetrs cucumers gret nv unt  n uffcent qunttte que n euus decocto doue  cthoc renct vne v dphenc cum conto co  pot drg eeor recents op & reg crup v  ft poto crfcetur & romtzetur trum generum  toxcorum recentum"
+        ],
+        [
+            "8  S ntempere ne cede prpoton úcrte on pourr  ppquer e Ctpme uunt  E Puuers ccs vue urpggtercors  fes pugpuuers umt vtro n onc v cn  trdrum trum drg x gumm pn v em fer  mentcd crup v mentur t omn nuffeen  t qunttte que ecundæ ft ctpm ppcetur  FN  A COLOGNE  M DC L"
         ]
     ]
 }

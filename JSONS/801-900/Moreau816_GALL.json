@@ -1,205 +1,71 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "nouvelles",
-        "subject": "Nouvelles, occasionnels et canards",
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-01-01",
+        "creation": "1649-03-30",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-18",
+            "@when": "2021-11-08",
             "@who": "AB"
         },
-        "titre": "Le courrier de l’armée de monsieur le Prince, envoyé à\n          Son Altesse Royale, apportant les particularités de tout ce qui s'est passé entre les deux\n          armées.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Le courrier burlesque de la paix de Paris.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-24",
+                "#text": "24 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-21",
+                "#text": "21 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau819_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau816_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE",
-            "COVRIER",
-            "DE MONSIER",
-            "LE PRINCE",
-            "ENVOYE’",
-            "A Son Alteſse Royale.",
-            "APPORTANT LES PARTICVLARITEZ",
-            "de tout ce qui ſ’eſt paſt entre les deusx",
-            "Armées.",
-            "A PARIS,",
-            "M. DC. LII."
+            "Le courrer uresque depx de Prs Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté24 févrer 202 2 vr 202 Courrer (e) uresque depx de Prs PrsSns Nom649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y48TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs86 Courrer (e) uresque depx de Prs Prs 649 2 pges Pèce médocre ourtnt on y trouve queques déts mtére sntsvers poése uresque strque Px de Snermn 640"
         ],
         [
-            "LE",
-            "COVRIER",
-            "DE MONSIER",
-            "LE PRINCE",
-            "ENVTOE’",
-            "A Son Alteſse Royale.",
-            "APPORTANT LES PARTICVLARITEZ",
-            "de tout ce qui ſ’eſt paſt entre les deusx",
-            "Armées.",
-            "Monseigneur,",
-            "LE Caraſtete que ie porte vous eſt aſſeze",
-            "gneu Ee vous e diſpenſerez, s’il vous plaiſt,"
+            "LE COVRER BVRLESQVE DE LA PAX DE PARSA PARS M DC XLX"
         ],
         [
-            "0 2",
-            "d’adjoûter mes ſoins aux proteſtations que ie",
-            "vous vay faire, puis que vous deſirez qué ie vous",
-            "Apprenne des Nouuelles:.",
-            "Les deux Armées ſont dans leurs Quartiers",
-            "d’Hyuer; Elles n’entreprennent rien de conſi",
-            "derable l’vne ſur l autre; Il eſt vray qu’il ſe fait",
-            "quantitéde Prſonniers de part & d’aurre, des",
-            "Coureurs des deux coſtez ſe rencontrans ſou",
-            "uent à cauſe de leur voiſinage. Le Comte de",
-            "Harcourt s’eſtans pbſte dains les lſles, ſç̧auoir,",
-            "à Soubize, Moëſe; Sainct lean d’Angely, &",
-            "autres Places voiſines. Et Monſieur le Prin",
-            "ce, és enuirons de Xaintes & de Sainct lean;",
-            "On attendoit quelque combat ces dcrniers",
-            "jours, qui ont eſté bien froids & fort ſecs,",
-            "mais la pluye eſt reuenuë; & par conſequent,",
-            "impoſſible de ſe batrre en vn pays tres-incom",
-            "mode. En ce temps-laà le Comte de Harcour",
-            "s’avançoit vers Marennes, qui eſt vn des beaux",
-            "Bourgs de France, ſur l’eſperance de s’en ſaiſi,",
-            "& de boucler par ce moyen Broü̈iage, quin’en",
-            "eſt eſloigné que d’vne demy-lieueë; Mais le",
-            "Comte du Daugnon ayant préueu, cela, auoit",
-            "deſarmé les Habitans, & apres uoir retifé las",
-            "Broü̈age quarante des plus apparans pout luy",
-            "ſeruir d’Oſtages. Ill a enuoyé́ dans ce Bourg lài",
-            "huit cens Hlommes en gamiſon pour aoppo i",
-            "ſer aux deſſeins du Comte de Harcour, quihe",
-            "a poiit"
+            "3 LE COVRER BVRLESQVE DE LA PAX DE PARS COurge Meeurs es Bourgeos  C ç crons à hute vox  Ms crons à perte dhene  Vue e Roy vueReyne  Vue Monegneur dOrens  Vue Mdme & eurs enfns  Vue à ms Mdemoee  Ah quee et onne h quee et ee  Cr (ns prer deeuté)  Eeft vor tnt de onté  Pendnt ce egefunete  e vous dry tntot e rete  Qund ury fny mon empoy fut crer vue e Roy  Ms vue Monegneur e Prnce  Sft fouerProunce  ft u dgnement  Stsfre e Prement  Qu pr es ons & pr es vees  A de memes ft des meruees  Cet pourquoy crons hutement  Vue Vue e Prement A"
         ],
         [
-            "5",
-            "a point aproché depuis cette nouuelle; Il y a des",
-            "malades dans l’Armée de Monſieur le Prince,",
-            "qui eſt toû̂jours compoſée de huict à neuf mille",
-            "hommes effectifs",
-            "L’arriuée de Monſieur le Prince de Conty aà",
-            "Agen a remis le calme dans la Ville, & l’aſfeu",
-            "rance dans l’eſprit de ſes Habitans qui eſtoient",
-            "tous diuiſez, ſur les nouuelles qu’ils auoient que",
-            "Monſieur de Sainct Luc deſcendoit ſur eux; ce",
-            "quiles intimidoit ſi fort, que la plus grande par",
-            "tie ſe vouloir rendre ſans reſitance:; mais Mon",
-            "ſieur le Prince de Conty a remis le courage dans",
-            "le cœur de ces Gens-la, & à fait avancer quel",
-            "n Peuimens, qui eſtoient en garniſon dans",
-            "iaces eſloignées, afin de les ſecourir plus",
-            "J1 npe nent, n’ayant point voulu receuoir de",
-            "tropes lans leurs murailles. Tout y eſt tran",
-            "qulle, & l’on attend icy ce l’rince là; le ne ſçay",
-            "uapres ſon depart le delordre ne recommence",
-            "ra point de nouueau; tout le haut pays eſtant",
-            "malſatisfait de la conduite des lnrendans qu’on",
-            "leur a donne, qu’il eſt incroyable des plaintes",
-            "qu’on fait contr’eux, pour leur auarice & leurs",
-            "malverſations; y ayant tel petit Conſeiller dans",
-            "l’exercice de cette Charge, qui par des exactions",
-            "eſtranges a pour luy plus de cinquante mille eſ",
-            "us; On en murmure fort, & quoy qu’on parle",
-            "yde leur faire rendre compte de leur admini",
-            "B"
+            "4  Ms e vous voy tous en en pene  Crez encore VueReyne  Pus e yous mets hors de oucy  L Px et fte Deu mercy  Cet tout ce que e vous pus dre  Ms ce net ps choe pour rre  e ds vry comme nous vocy  L Px et fte Deu mercy  Cet vne nouuee certne  Vue e Roy VueReyne  Qu nous ont ft ce eu preent  Pendnt vn tempsdépnt  Où deme fmne  Nous fot fre gre mne  Ms enfn nous uonsPx  Qu nous fer rre à ms  Prens prenez on courge  Goutez ns crndre ucun outrge  Tous vos prs grnds & menus  Les Deputez ont reuenus  Tous tromphns & pns de gore  Portns en gne de Vctore  Comme prés vn expoct guerrer  De grndes rnches de Lurer  A fute de rnches dOue  Cr cy e grnd frod nous prue  De ces eux rres toûjours vers  Quon ppee des Ouers  Et on nen çurot vor en Frnce  Quen Lnguedoc ou quen Prouence  Msnmporte à nos ouhts  Pourueu que nous yonsPx  Qus portent dvn rre ou dvn utre  Pour mon proft & pour e votre  Ce met tout vn à ce prés  Quon ne pre pus de Cyprés Et"
         ],
         [
-            "6.",
-            "ſtration, ie ne ſcay ſi on y pourra reüſſir, veu le !",
-            "rang qu’ils tiennent dans l’eſprit de ſon Alteſſe, :",
-            "qui n a donné ces Commiſſions, par malheur, :",
-            "qu’aà des jeunes Gens affamez, & d’vne fortune!",
-            "bien eſtroite.",
-            "L’Armee Eſpagnole eſt montée aà̀ Bourg pour",
-            "fy eſtablir; Le Commandant Vateville ayant",
-            "remonſtré́ à ſon Alteſſe que ſes Vaiſſeaux ne",
-            "pouuoient ſubſiſter à Talmont,où̀ les vents ſont",
-            "fort impetueux, & où la Rade eſt fort incomm",
-            "de; ll a remonſtré auſſi qu’il y auoit perdu pen",
-            "dant ces derniers orages, quantiré d’Ancres",
-            "de Cables, & que ces Vaiſſeaux auoient beſoin:",
-            "d’eſtre radoubez, & ces Gens rafraiſchis;ce qui :",
-            "a obligé́ ſon Alteſſe d’eſcrire au Parlement de",
-            "l’Ormee, pour le prier de trouuer bon que ces",
-            "Meſſieurs la ſe logeaſſent dans ce poſte. Afin",
-            "que vous ſçachiez qui eſt ce Parlement de l’0r.",
-            "mé́e, ce ſont deux à trois cens Bourgeois de tou",
-            "tes conditions qui ſ’aſſemblent ſur vn Baſtion",
-            "de la Ville, où il y a quelques allés d’Ormeaux;",
-            "& là ils decident les affaires, y font des propoſ",
-            "tions, & y donnent des avis, & tout cela, parvne",
-            "aueugle & furieuſe paſſion aux intereſts de Mr..,",
-            "le Prince, qui ſe ſert d’eux dans tous ces !deſſeins.",
-            "Ie vous avouë que depuis que les Eſpagnols",
-            "occupent vne Ville ſi voiſine que celle-cy, qui",
-            "n’en eſt qu’a trois lieuë̈s, cela jette quelque con 1"
+            "5  Et quentour de nos mures  Tout ot exempt de funeres  Cr tous ces puures Vgeos  Sont demorts à cette fos  s chngeoent de de retrtes  Ms nmportePx et fte  Ne prons pus ducun tourment  Prons de rre euement  Quon ne onge pus ux rmes  Quon qutte deorms es rmes  Ces corceets ces pots de fer  Dont rt et venu de enfer vut en meux des pots de terre  Ou detn ou putot de verre  Auec de on vn u dedns  Pour decrer vn peu nos dens  De ce gros pn de on & dorge  Qu fot per prgorge  Au eu de pn de on froment  Dont on mngeot f rrement  Quon ne pre pus de pge  De c de meurtre de crnge  De comts de ng répndu  De gens voez de en perdu  De rs rompus cues eées  Nez frez tetes cées  De vos ny de voemens  De Poonos ny dAemns  Duts de morts de tuëre  De Meudon de Meun de Bre  De Snct Dens de Chrenton  De Cneu ny de Chton  De Sgny ny de Tncrede  Ce ont des mux tous ns remede  Ne prons pus de ptoets  De cnons poudres ny ouets B"
         ],
         [
-            "fuſion & quelque ſecrette douleur dans l’ame",
-            "de pluſieurs, qui ne ſe peuuent conſoler de voir",
-            "vn Ennemy naturel eſtre Maiſtre d’vne Place",
-            "qui ſe peut tres-bien fortifier, & d’où l’on peu",
-            "afamer cette Ville, en empeſchant qu’aucune",
-            "prouiſion ne vienne du coſté de la Mer, & en re",
-            "ranchant le commerce. Ie voy quantiteé de per.",
-            "ſonnes qui en gemiſſent, ſoit que l’intereſt les y",
-            "oblige, parce que pluſieurs HBabitans de cette",
-            "Ville y poſſedent de grands biens, ou ſoit que",
-            "l’inclination Françoiſe ne ſe puiſſe jamais fier à",
-            "eux: Tant y a l’Eſpagnol eſt à Bourg: & quoy",
-            "qu’ils oſent ſe venir promener e cette Ville, on",
-            "eſt ſi accouſtumé à les hair, qu’on ne les peut",
-            "voir ſans leur faire quelque niche; juſques là",
-            "qu’vne de nos Dames bailla vn ſoufflet à vn de",
-            "leurs Chefs, pour auoir voulu luy toucher le",
-            "bras, dans vne boutique de Marrhand.",
-            "Vn Milord Anglois, ſuiuy de quarante per",
-            "ſonnes, tous Gens de commandement, aeſté",
-            "lalüier ſon Alteſſe; on dit qu’il eſt venu faire des",
-            "ptopoſitions à M. le Prince de la part de ſa Re",
-            "publique; d’autres aſſeurent qu’il n’eſt venu que",
-            "pour le ſeruir comme vn franc-Champion, ou",
-            "comme vn Avanturier; mais il y a grande appa",
-            "nce que ſi Monſieur le Prince eſt trop pouſſe,",
-            "qu’il ſe prendra par tout.",
-            "ll n’ya que la Chambre de l’Edit qui ſe ſouſ"
+            "6  Mouquet pque ny herde  De entnee ny de grde  De qudrrete Ne prons pus de tout ce  Ne prons que de onne chere  Sns pus onger àmere futon ut mes ouhts  Que es trompettes deorms  Au eu drme ou de retrtte  Sonnent tout hut LA PAX EST FATE  Que preement es tmours  Puent fre entendre ux pus ours  Pour tout urrete  L PxPxPx et fte  Et pour tout pon  Vue e Roye & on  Cet vne gree hrmone  Pour réjoürcompgne  Ms ur tout Meeurs es Bdu  De en s de tnt de mux  Et de vor trotter pr eur ve  Cette Sodteque nute  Qu es rongot uques ux os  Les vo tous dns e repos  On nentendr pus es vcrmes  Des qus deuenus genrmes  Qu foent es egneurs nouueux  Auec des pumes ux chpeux  Ou qu coëffnt eur eunes tetes  De onnets fts de peux de etes  Foent en vor qus mertoent  Le urnom de ce qus portoent  Etnts dns eurs rdeurs extrêmes  Pus cheuux que eurs cheuux mêmes  Encore quen prnt des hzrs  s trnchoent touours des Cezrs"
         ],
         [
-            "8",
-            "met à l’Interdiction du Roy, le Parlement entre",
-            "toûjours, fondé ſur ce que Monſieur le Procu",
-            "rer Ge neral portant au Palais la Declararion",
-            "du Roy, auee l’lnterdiction, il fut rencontreé",
-            "par quantité́ de Gens armez, qui luy firent ren",
-            "dre ls Paquets du Roy, ſi bien qu’il ne les ap",
-            "porta point au Palais comme il deſiroit faire’; Et",
-            "le Parlement ignore, ou fait ſemblant d’ignorer",
-            "qu’il y ait eu Interdiction ou Declaration aucu",
-            "ne. Cetre Ville eſt auſſi tran quille qu’en plaine",
-            "Paix; l’on ne s’y diuertit pas moins, & l’on n’y",
-            "fait pas moindre chere;, Les prouiſions nous y",
-            "viennent de tous coſtez en abondance, & ſi l’on",
-            "vous perſuade que l’on ſoit diuiſé icy, & que",
-            "tout ſe ruine; n’en croyez rien; Et perſuadez",
-            "vous que le party de ſon Alteſſe y eſt toûjours",
-            "le plus fort; & que ceux qui voudroient y appor",
-            "ter quelque changement, n’oſeroient encore",
-            "auoir remué́; Ie ne ſç̧ay ce qui en ſera pour l’ad",
-            "venir; Croyez-moy, & tout ce que vous appren",
-            "drez de moy, n’eſtant aucunement paſſionné.",
-            "E",
-            "FIN."
+            "7  Et e roent des mouquetdes  Auec me Rodomontdes  Deors quon prot de ortr  Et qu etot temps de prtr  s prenoent eur mne eftroye  Comme pour ttquer e de  Pus reuenoent tous etonnez  Chcun uec vn ped de nez  Sns uor ft dutre conquete  Que dvn peu de fon pour eur ete  A vous en prer frnchement  Ce netot quvn muement  Ne foentGuerre quux oures  Et e çy en que es Bourgeos  Se ont mordus ouuent es dots  De eur ee Gendrmere  Qu netot ren que mngere  Et de vor eurs puures Lous  Lure en cnquns ur es hts  Metmorphoe en oe  Msfut fre vne foe  Putot que duor ugement  Bourgeos teous euement  Cen et ftGuerre et pée en fut perdrepenée  Et ne onger pus deorms  Quà gouter en fruts dePx  Artns ouurez vos outques  Recouurez vos vees prtques  Et ftesCour àCour  Pour vous occuper nuct & our  Mrchnds prés queque dépene  Vous ez vor en recompene  Tnt de rches & ons Chns  Tnt de ondns tnt de gns"
+        ],
+        [
+            "8  Tnt de tetes enfrnées  Qu peront es mtnées  Pour uor chez vous ce qu fut  Chcun pour ccher on defut  Et pour pre meux à ces Dmes  Qu rûent tout uques ux mes  Bees rmeous de vos trts  Ftes pour uor pus dttrts  De grnds yeux de pettes ouches  Reprenez ns & mouches  Le frd e ptre es onguens  Le nc e rouge es eux gns  Et toutes vos utres eognes  Afn demer vos chrognes  Et fre donner de nouueu  Vos etourds dns e pnneu et temps dttrper ces duppes  Qu e frotteront à vos uppes  Coquettes réjoüeous  Vous ez vor vos eunes foux  Qu vous dront me feurettes  Pour exprmer eurs mourettes  Et qu mourront pour vous dmour  Cnq ou x cents fos en vn our  Sns quvn eu dvne nnée entere  En ot ms dns e Cmetere  Ms s uront u mons pour vous  Pus de preens pus de jous  Pus de douceurs pus de crees  Pus de eux mots pus de oupees  Pus de Sonnets pus de Chnons  Pus de Vers de toutes fçons  Quenfn enfn tnt de grmces  Emporteront vos onnes grces  Et mgré vous votre oe vnqueur  Leur verr vncre votre coeur Ms"
+        ],
+        [
+            "9  Ms ce net ps à mon ffre  e ne onge quu necere  Quà contenter mon etomc  Qu m ftonemps crc crc  entens crer Dme Fmne  Qu fut onger àCune  Et rétr pr ons reps  Aprés Creme Mrdy grs  Bourgeos qu netes ps trop yures et temps uec de ons vures  De purfer es méchns  Quon pportot cy des Chns  Ou quon trouuot dednsVe  O Deuquon etot m he  De e er mettre àfm  Pour ne mnger que de gros pn  Des pox des féves du fromge  Depus tros mos ou duntge  Encore nen uon ps  Pour fre en tros ours vn reps  Vertuchou nous netons ps ges  De er oucher nos pges etot en é de vor  Quon nous mettrot u deepor  On eut en meux ft de e rendre  Aux premers ours ns e defendre  Sns ouffrr ny ege ny ren  Ms prés vn m ut vn en  Renouueonsonne chere  Londnce eft dnsmere  entens quon peut trouuer de tout  Depus vn uquà utre out  Dns cette fmeue vée  Quondvn fux nom ppeée  Cr on y porte ondmment  Pour e commun contentement C"
+        ],
+        [
+            "02  De toute orte de vndes  Des pus gres & pus frndes  Lévres pns petts cochons  Dndons perdrx poues chpons  Seruonous de cette ondnce  Pour remprgueue &pnce  Et recommençons nos cdeux  Auecque tous ces ons morceux  Reprenonsgrde que  Mntennt quon ne court pus rque  De pâtr ny detre ffmé  Comme depus quon eut rmé erot tntot temps de rre  Et duot vn peu dequoy frre  Aprés uorm euné  Aprés uorm dné  Depus dx ou douze epmnes  Quon ft pr tout tendre es chnes  DepusFete des ons Roys  Qu futfunete ux Bourgeos  Cmrdes fons rpe  L Px net ps vn feu de pe  Ee v durer à ms  Beuuons à cette me Px ne fut pus fre es chches  Nous ons tous deuenr rches  Horms es puures mprmeurs  Les Ecruns & es Rmeurs  Qu nuront gueres de prtque  s peuuent fermer eur outque  S pour ttrer es Chns  s nont que des ppers vons  Des Lettres toutes pednteques  De ces Vers fchus & Burefques  Et de ce ftrs dmprmez  Quontnt eus & tnt mez"
+        ],
+        [
+            "fut des morceux pus odes  Pour ouer des ventres udes  Et pour pper des oyux  Qu e pgnent de certns mux  Dont e eu mnger es ouge  Boungers pendeous de rge  Le pn ne er puscher  Nous urons tous dequoy mâcher  Sns vous er frepree  On porte du pn de Gonnee  Sns peur & ns empêchement  Benonn Deu euement  Et dons es genoux en terre  VuePAX deGuerre  FN"
         ]
     ]
 }

@@ -1,102 +1,57 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "avis",
+            "discours adressé"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-07-06",
+        "subject": [
+            "Orléans, Gaston (1608-1660 ; duc d')",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)",
+            "Militaires"
+        ],
+        "creation": "1652-07-20",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-06",
+            "@when": "2022-03-10",
             "@who": "AB"
         },
-        "titre": "Avis aux gens de bien",
+        "titre": "Avis aux bourgeois de Paris, sur une levée de gens de\n          guerre, ou raisons pour lesquelles il est plus expédient de faire présentement des\n          recrues, tant cavalerie qu’infanterie, des troupes de l’armée de monseigneur le duc\n          d'Orléans et de M. le Prince que de nouvelles troupes, avec la réponse aux objections\n          contraires.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau486_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau483_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "ADVIS",
-            "AVX GENS DE",
-            "BIEN"
+            "Avs ux ourgeos de Prs sur une evée de gens de guerre ou rsons pour esqueesest pus expédent de fre présentement des recrues tnt cvere qunfntere des troupes de rmée de monsegneur e duc dOréns et de M e Prnce que de nouvees troupes vecréponse ux ojectons contrres Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Advs ux ourgeos de Prs sur une evée de gens de guerre Où Rsons pour esqueesest pus expedent de fre presentement des recreuës tnt cvere qunfntere des trouppes de rmée de monsegneur e duc dOrens & de monseur e Prnce que de nouvees trouppes Avecresponse ux ojectons contrres Prs André Chouqueux 652 Prs Bothèque MzrneM253TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs483 Avs ux ourgeos de Prs sur une evée de gens de guerre ou sons pour esqueesest pus exp dent de fre présentement des recrues tnt cvere qunfntere des troupes de rmée de monsegneur e duc dOréns et de M e Prnce que de nouvees troupes vecréponse ux ojectons contrres PrsAndré Chouqueux 652 4 pges dou Tnprose vs dscours dresséOréns Gston (6060duc d) Condé Lous de Bouron (686prnce de) Cont Armnd de Bouron (6266prnce de) Longueve Henr(5963duc de) Mtres Leutennce génére du duc dOréns 650"
         ],
         [
-            "3",
-            "ADVIS",
-            "AVX GENS DE",
-            "BIEN",
-            "MESSIEVRS,",
-            "Ne croyez pas ce que les",
-            "Mazarins vous veulent",
-            "A ij"
+            "AVS AVX BOVRGEOS DE PARS SVR VNE LEVEE DE GENS DE GVERRE Où Rons pour equeeset pus expedent de fre preentement des recreues tnt Cuere qunfntere des Trouppes de Armée de Monegneur e Duc dOrens & de Moneur e Prnce que de nouuees Trouppes AuecRespone ux Ojectons contrresA PARS Chez ANDRE CHOVQVEVX ruë S André M DC LAuec Permßon de Son Atee Roye"
         ],
         [
-            "ce prexte; C’et vné ruſe dont ils ſe ſeruet",
-            "pour reiettee-ſur. Monſieur le Prince-la laine",
-            "publique, qu’ils ont meriteée, en empeſchbant,",
-            "omme ils ont fai, la Reünio de la ai l",
-            "on Royale, & la Paix generale; võyart qu’a",
-            "pres auoir manquéleur deaable erepriſe l!",
-            "confẽonſeur l Pſince ’ils e peuee plus",
-            "éui ’eſttâ chaſſel par Areft-du arſement",
-            "auſſi bien que leurMe Sçaehez, yins,",
-            "quMſieule lincd nueu e deſen l",
-            "e retirant à Saint Maur, -que ſe garanr",
-            "des meſmes ehepis g4 audientQl’anmée paſ",
-            "ſee, l’inſolere& lepouüoir de l’empriſon!",
-            "ner, le ſejour qu’il ſait dans vne, Maiſoo de",
-            "plaiſance qui eſt à vos pogis& l’vnion:",
-            "& deſpenape;, ntisrs: ’ eufsoe queec",
-            "Monſeignéu’leDûe d’Orley, quel vous",
-            "aues eſprouué la bonté & la fudde das tous",
-            "les deſordres que le Maarin! alblt’ cauſés, & la",
-            "Declaration qu’il a faire par la beuche de Mo.",
-            "ſieur le fPjpedooa, pe aee auoPar",
-            "leet de ſuys quib eude xraltore oeo",
-            "ence, ſemplbple-e ellelqilodesbferte,",
-            "& qu’ n’ar iamuis qaa s patemthms te,",
-            "pure, pquleqiediopb l pep erA?",
-            "A"
+            "3 ADVS AVX BOVRGEOS de Prs ur vne euee de gens de guerre Ou Rons pour equeeseft pus expedent de fre preentement des recreues tnt Cuere unfnter des trouppes de Arné de Mone gneure Duc dOrens & de Monfeure Prnce qce de nounmdes troupps AuecRefpone uxe Ojecfouns con rsrs 3 A premere ron et queon fr des LLouuees eueé́es on nen peut donnercommndement qù duers Prtcuers oy dns Offcers qu proent ur e pué de Prs & dontpus grnde prte Sy et rendü depus nos troues Or de Sesgen vne prte et ncommodeée & neceteue ns ucun équpge fns che u & Vet & dot ̀ on hote toutedépene de ouche memesempr"
         ],
         [
-            "3",
-            "êax, & ’ibn’ai:aaenepnreeniap pour luyy",
-            "pau ſes. amis, vous doi bien aſſeuer que vpous",
-            "n’aluez rien àrandre de la pat, & qu’ac",
-            "traire vous deuez eſperer que Meſſieuiis da Blli",
-            "lement appuyant la demande que ſon A. R. &",
-            "Monſieur le Prince font pour l’eſloignement des",
-            "rois Mazarins, qui entretiennent vn continuel.",
-            "commerce auec ce Mlniſßre eſtranger, qui gou",
-            "uernent l’Eſtat par ſes ordres, & trauaillent à ſon.",
-            "retour au meſpris des Arreſts du Parlement, &",
-            "du vœu commun de tous les bons François,",
-            "vous aurez la fatisfaction de voir le ealme dans",
-            "le Royaume, & vn bon ordre dans les affaires;",
-            "C’eſt la ſeule ſeureté que recherche M. le Prince.",
-            "pour reuenir à la Cour, cõme ſa ſeule pretention",
-            "aſt d’eſtre en eſtat de pouuoir ſeconder M. le",
-            "Duec d’Orleans, pour procurer la Paix, & le",
-            "ſouſagement du Peuple; Vous auez grand",
-            "ſujet de louüer Dieu, de ce qu’il a garanty les.",
-            "Princes du Sang des mauuais defſeins de leurs",
-            "Ennemis qui ſont les voſtres, & vous deuez.",
-            "joindre vos vœux à la demande de Monſieur le",
-            "Prince, qui eſt l’vnique moyen d’oſter au Ma",
-            "arin le credit qu’il conſerue à Ia Cour, &."
+            "té e mere ht quee porte & net Vnuè Prs que dns eperce dvn em poy &on donne à ces peronnes des de nerspotfnre deseuées premere cho oques feront ceer dcquter eursde tes de seruec ect & e mettre en équpge De orte quetous es deners e dpnont ̀ eurprefft ns qus femt ucuneucs &seont uune ottre que enre des odts er nodcque er compoé́ demuusodts Vne u tHprtede cpretenus Offcers nous dot etre upecte prce que nosuôns ujet de nous peuder qus nous peuuent eftre cnùoyez pr é Crdn Mztnend nemyuré de Frmce& prncpohent deVue dt Ps odommcnous nruonspreuue & xempe ppon Bocus r rué en nnée j & pre qu set peté oodA voen Ppuence& cee? de Bondeun en qpee e omm6 Th? t entoyé pr ce mus ntre pour rhrVevrhorrecogu utjqpr dsenetpc& tré pt es̀ rues"
         ],
         [
-            "ſ’efpe quilnodjy muouir eorne l.",
-            "ageapes quil! a: nmieditbs tontre toas los",
-            "gans do laien,. &. patti",
-            "icdulietomenu- eoar l",
-            "Ville de Paris."
+            "9Enfn utre prte de ees pretendus Of ers et compoéepuprt de peronnes ns oerte & uffnce comme nyns eu ucun empos dnsguerre u mons nyns donné u cune preuue de eur courge & cpcté́ Ce qu ft vor qus ont ncpes de pouuo rendre ucun feruce & preentementet df fee de erouuer dns Prs ueun on Offcer ptce que tous es ons Offcers de guerre one empoy dns Armé́e de Meteurs es Prnces ou dns cee duMzrn Leconde ronet que on ft de nou uees troupposfut fr ett de pus de deux mons de ure pour metrre neuf me hom mes efechfs ur ped tnt Cuere qunfn ere non euement ̀ cue depuureté & ndgonce des Ofcers qu fe preontent ms prncpement ̀ cue dedépene des Off oers & u contrreon e conrente de fre pceentoment es recreues deArmee defeurs es prnces on eprgner pus dvn mqutre cens m ures prce que cetre Ar mée etnt compoée de pus de tros cens Com pgnes dnfntere & de pus de deux cens Cornertes de Cuere pour freteereu? dedtes Compgnesne fut que cnq ̀ e cens m ures ce qu ft vot comen epr ge er gnde"
+        ],
+        [
+            "3 L troémé ron et quoutre eprgm poureuée ne fnt que des recreuësy ur vne grnde eprgne pour enoreten do trouppes Cr pt exempeon ft vneeueés de neufdx m hommes uec de nouueux Offcerscouter pr mos tnt pour e ereten deCuere Jnfntere quOffders Mjors & équpge dArrere pré́s dvn mon pr mos quee dépenefudr contnueér uques à ce que e Crdn Mzrn ot cheé hors du Royume ns epernce de rotour ce qu và vne tteote depee qu pourrot fre murmurer e Bourgeos de Prsveufue & orphen dnsongueur du temps ce que on dot uor en gtnde con fderton &u contrre on ne ft ques recreuësdépene er eucoup mondr prce qu nen peut couter que cnqunte m ecus ou deux cens m ures u pus pt mos ce qu r ̀ vn ougement tres uoth pour es Bourgeosde Prs L qutréme ron et quon ne dot ps epromettre vn pre effet de nouuees euées que de recreuës jontes ̀ de veux Corps prc que de nouueux odts etns meez uec es veux & commndez pr de ons Offcersg ent tour utrement qus ne font ps ors qus comttent eus & ne ont commndez que"
+        ],
+        [
+            "5 pr des nouueux Offcers comme nous en uons experence Or Armée de Meeurs es Prnces et compoée des meeurs Corps de Frnce & qud ee er fortfée de recreües ee fer qutorze à̀ qunze m hommes qu eronc pus que uffns pour reter & com ttre rmé́e Mzrn L cnqron et que fnt vne nouuee rmé́e quoy que pyée e puure peupe deCmpgne nen er ps pus ougé prce que es nouueux odts receunt eus fdes ne eront ps de per & voet ̀ euempe des odts de Arḿe de Meeurs Prndes qu ne eront pont pyéz On pourr dre contre toutes es rons ceus queVe de Prs veut uor vne Armée dnsdépendnce pour coneruer es nerets A quoy on repond que ce deen et preque mpoe prce que cetre Armée etnt jonte uec cee de Meeurs es Prnces on ne peut empecher qus nen oent tou ours es mtres Deurs deux rmées jon tes eneme dont vne et en pyée & u tre m ont ncomptes & ne peuuent 0 ccommoder Pour ce qu et des nteret deVe de Prs on dot seurer que Me eurs es Prnces ne es ndonnerontms FN"
         ]
     ]
 }

@@ -2,81 +2,46 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "texte officiel",
-            "arrêt"
+            "arrêt",
+            "texte officiel"
         ],
-        "subject": "Paris",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": [
+            "Militaires",
+            "Pillage"
+        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-02-07",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, concernant le nettoyement\n          des boues de la ville et fauxbourgs de Paris, avec injonctions, aux entrepreneurs et\n          receveurs , de continuer l’exercice de leurs charges",
+        "titre": "Arrêt de la cour de parlement, du 17 décembre 1648,\n          portant défenses, sur peine de la vie, à tous gens de guerre, capitaines, soldats et\n          autres , de commettre aucunes exactions et violences à l’endroit des sujets de Sa Majesté,\n          et à eux enjoint de vivre et se contenir suivant les ordonnances.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau215_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau214_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "o1oss",
-            "A rrſ I",
-            "AIII e I LO",
-            "DE PARLEMENT,",
-            "CDNCERNANT LE NETTOYEMENT",
-            "des Boü̈es de la Ville & Faux-bourgs de Paris,",
-            "Auec injonction aux Entrepreneurs & Receueurs",
-            "de continuer l’exercice de leurs Charges.",
-            "D deuxieéme iour du mois de Ianuier mil ſie",
-            "cens quarente-neuf",
-            "9",
-            "&s",
-            "e",
-            "PARIS,;",
-            "Par Ies Imprimeurs & Libraires ordinaires",
-            "du Roy.",
-            "oaaaaa",
-            "M. DC. XLIX.",
-            "Auee Priuilege de ſ aſeſté."
+            "Arrêt decour de prement du 7 décemre 648 portnt défenses sur pene deve à tous gens de guerre cptnes sodts et utresde commettre ucunes exctons et voences à endrot des sujets de S Mjesté et à eux enjont de vvre et se contenr suvnt es ordonnnces Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Prement de PrsArrest decour de Prement du 7 decemre 648 Portnt defenses sur pene deve à tous gens de guerre cptnes sodts & utres de commettre ucunes exctons & voences à endrot des sujets de s Mjestéet à eux enjont vvre & se contenr suvnt es ordonnnces Prsmprmeurs et rres ordnres du ro648 22 décemre 648 Prs Bothèque MzrneM443TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Menton de ecture et pucton e 9 décemre 648 sgnée \"Josser\" 2 étts p 5sgnture \"Besce\" àgrffe (étt A) / snssgnture (étt B) Sgné \"Du Tet\" Dprès Huert Crrer texte pru e 22 décemre 648 (Bothèque Mzrne Ms 468 f 2v) 24 Arrêt decour de prement du 7 décemre 648 portnt défenses sur pene deve à tous gens de guerre cptnes sodts et utresde commettre ucunes exctons et voences à endrot des sujets de S Mjesté et à eux enjont de vvre et se contenr suvnt es ordonnncesPrs 648 4 pgesprose rrêt texte offceMtres Pge"
         ],
         [
-            "Contracts faits auec eux; Ordonne qu’ils ſeron?",
-            "payez conformément auſdits Contracts, par leſdits",
-            "Receueurs, leſquels feront diligence de recouurer",
-            "les deniers des particullers ſuiuant les Rolles des",
-            "Taxes, pour ſix mois, par aduance: au payement",
-            "deſquelles Taxes ſeront leſdits particuliers con",
-            "trains, nonobſtant oppoſitions & appellations fai",
-            "tes & à faire, & ſans prejudice d’icelles, iuſques à ce",
-            "qu’autrement par ladite Cour en ayt eſté ordonné.",
-            "Enjoint au Preuoſt de Paris ou ſon Lieutenant Ci",
-            "uil, Subſtitut dudit Procureur General, & Officiers",
-            "du Chaſtelet, tenir la main à l’execution du preſent",
-            "Arreſt, lequel ſera leu, publié & affiché à la reque",
-            "ſte dudit Procureur General, en tous les carrefours",
-            "& autres lieux de cette Ville & Faux-bourgs, à ce",
-            "qu’aucun n’en pretende cauſe d’ignorance. FA1cT",
-            "en Parlement le deuxiéme Ianuier mil ſix cens qua",
-            "rente neuf. Signeé, DV TILLET.",
-            "Collauionneé à l’orgial parmooy Conſeiller ecretae",
-            "da Roy & de ſes inances.",
-            "A",
-            "T E vingt-haictiéme iour de Ilanier mil ſix cens quarente-nea;",
-            "lLL l’Arreſt o-deſſus de NMoſſeigneurs de la Cour de Parlement, a eſteé",
-            "leus & publie ̀ ſon de Trompe & cry public, par tos les Carrefors ords",
-            "naires & extrordinaires de cetçe Ville & Fux-bougs de",
-            "Paris, pa so5",
-            "ean Ioßier, lIuré Crieur ordinaire du Roy en la Ville, Preuoſteé & Vicommné",
-            "de Paris, & afficheé o beſoin a eſté, ASiſté de Didier Ordin, Iean du",
-            "Aos, & acques le Fhain, larez rompetres da Ry eſdts lieue.",
-            "Signeé, oSSIER."
+            "ARREST DE LA COVR DE PARLEMENT Du 7 Decemre 648 Portnt defenes ur pene deve ̀ tous Gens de Guerre Cptnes Sodts & utres de commettre ucunes exctons & voences à endrot des Su jets deMjeté Et ̀ eux enjont vure & e contenr uunt es OrdonnncesA PARS Pr es mprmeurs & Lrres ordnres du Roy M DC XLVAuec Pruege deMjeeté"
+        ],
+        [
+            "3 mon er deurée u Procureur Gener du Roy pour nformer des fcts contenus enpn te pour es nformtons rpportées & à uy com munquées etre procedé contre & n que de ron AFAT & ft nhtons & défenes à tous Gentommes Cptnes & utres à pene deve de commettre ucunes exctons voyes de fct & voences à endrot des Sujets du Roy Leur enjont vure & e contenr uunt es Ordonnnces & ncontnent e rendre ux eux des Grnons à eux ordonnées Et en ynt ft defenes de éjourner pus dvne nuct en meme eu ns demeurer u pt Pys utre ment & ̀ fute de ce fre en cs de contruen ton enjont ux Bfs & Senechux de tenrmn à executon de Arret Aux Preuots des Mrechux Vfs Venechux Leute nns & Archetrs e mettre en Cmpgne e r des Coû̂pes eur fre & prfre eurs procés & excecuter eurs jugemens nonotnt oppo tons & ppetons queconques uunt es Or donnnces ET pour es enurons de cette Ve En onrT u Leutennt de Roe courte & Preuot de e ncontnent monter à Cheu uec eurs Compgnes eprément ou conjon tement comme s dueront Aer ux chmps & fre ceer es voeres & voences u ou gement"
+        ],
+        [
+            "gement des Sujects du Roy & à ce quucun nen pretende cue dgnornce Ordonne que Arret er pué́ ̀ on de trompe ffché ux eux pu hcs & enuoyé ux Bges & Senehuees pour y etre eu pué & executé à̀dgence des Sutruds du Procureur gener qu certfferont uor ce fct u mos FACT en Prement e dxepteme Decemre m x cens qurnte huct Sgné DV TLLET Cotoné à Orgn pr moy Confeer Secretre du Roy & de es Fnnces A e é eDzE E Smedy deneufeme our de Decomj re mx cens qurnte huct Aryre cy deuseté eu & pué ̀ on de Trompe & cry puc pr es Crrefours ordnres ? eetrordnres de cette Ve & Fuxourgs"
+        ],
+        [
+            "6 dePrs pr moy en oßeruré́ Creur ord nre du Roy enVe Preuoté Vcomté dePrs & ffché pr tout ou eoneté̀ ce fre uos tros Trompettes en du Bos Juré Trompettes & deux utres Trompettes Sgné OSSER"
         ]
     ]
 }

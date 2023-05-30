@@ -1,155 +1,55 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "pamphlet",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-18",
+        "creation": "1649-04-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-09-22",
             "@who": "AB"
         },
-        "titre": "La tarentèle écrasée, ou l'Imprécation de l'impie\n          Mazarin.",
+        "titre": "Tableau raccourci des courtisans, en vers\n          burlesques.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-02-11",
+            "#text": "11 février 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3750_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3749_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "TARENTELE",
-            "LIMPRECATION",
-            "DE L’IMPIE MAZARIN."
+            "Teu rccourc des courtsns en vers uresques Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté févrer 202 Teu rccourc des courtsns en vers uresques PrsSns Nom649 permsson dmprmer du 3 m 649 Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y547TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsLe perms dmprmer est ccordé à Jen du Crocq 3749 Teu rccourc des courtsns en vers u esques Prs Jen du Crocq649 8 pges L permsson dmprmer est du 3 m Cette pèce est suve de Surconférence de Rue en mrs Vers uresques du seur S (Moreu3734) non retrnscrte dns e fcher XMLvers poése uresque strque Voyge de Fndre 640"
         ],
         [
-            "S",
-            "éêêeêêêeê",
-            "LA",
-            "J",
-            "TARENTELE",
-            "r",
-            "0v",
-            "L’IMPRECATION",
-            "de l’impie Mazarin.",
-            "VNchacundes Franmcois eſchaufeſon",
-            "JJ caurage.",
-            "- Qilaporte ſlanmbeaux, quil lruſle",
-            "qu’ils’accage,",
-            "Que le Ciel &larerre, & tous les elemens,",
-            "D cahos empetéaaurenmt les fondemens.",
-            "Poar y plonger viuant le plus abonminable,",
-            "Qui fuat iaais aaaamde v Miniftre execra",
-            "ble,",
-            "a vaitne, vu renegat, vnſauuage efronté,",
-            "Va vile MRZarin va ſerpent infecteé,",
-            "’omaraut capfart, vne ae carnaciere,",
-            "A ij"
+            "TABLEAV RACOVRC DES COVRTSANS EN VERS BVRLESQVES A PARS M DC XLX"
         ],
         [
-            "Quiſe repaiſt deſang; qui frappe parderriere.",
-            "SAuueur’du geén e humain pourquoy n’abiſme-tu",
-            "Cét ennemy iureé debien & de vertu.",
-            "Le Ciel ne peut iamais mieux employer ſon fou",
-            "dre",
-            "Qua bruſler cét impie, & lereduire en poudre:",
-            "Soleilne luy fais plus ta lumiere ſentir,",
-            "Terre creue tes ſlancrafin de l’engloutir,",
-            "Pleupe l’airdeſſus luy, leséclairs leſoulfre,!",
-            "Tomlbele feu du Ciel, ouure lenfer ſer gouffires,",
-            "Que la oiet ſe déborde, afinde labiſoer,",
-            "Que l’enfer, le Soleil, l’air, ſeu, Ciel, terre, nuë,",
-            "Boierelle, offuſque, tuë, embraze, engouffre, abyſ",
-            ".8",
-            "2 4",
-            "me,.",
-            "Ce demonenragé dont l’effroyable crime,5",
-            "Fait dreſſer les cheueux à ceux qui vrayeFran",
-            "cois,",
-            "Portent au cœur graué le ſaint nonms de nos Rois.",
-            "Cicile tus porté e tigre dans ton ventre?",
-            "Non ce monſtre eſt ſorty du Plutoniquecentre",
-            "C’eſt l’Antechrltcsuceu au ſein de Luoifer,",
-            "Du ſalle accouplement d’vne rage d’cnfer,",
-            "Le vonin d’Alron beu me de Ccrlere,",
-            "Et le poiZonformé́ au ventre de Megere,.",
-            "Oatineerneéce Diable, comimev aumon,",
-            "L’on"
+            "TABLEAV RACOVRCY des Courtns  FLLEs du Souuern des DeuxBees Prncees toutes nuësQu fouez ce mont goreux & Dontcme trouche es nuës Cheres Germnes du Soe Deunt queutdu omm Vodtoutes es fureurs cptuesDecendez de ce doue Mont Et ne vous montrez ont rétues  Qund e merte vous femond  DPereche pour mour de moy Snctes fes dememore S vous uez congé du Roy Dnterrompre vn peu onHtore Suuez ce pett trct de feu Dont votre frere perce vn peu Loeurté de m demeure Déeesvous fut hter Le soe n que deme heure  Tous es ours à me vfter A"
         ],
         [
-            "L’ont ietté́ſur le borddus vaffte pblegeton,",
-            "Le blaſme le menace,enfin l’excommunie,.",
-            "ét le nomme ſuppoſt de toute tyrannie,",
-            "Iuſques àqoand faut-il que nous edurions",
-            "Les regards venimeux de ce rouge eſpions",
-            "Braſlons, briſos, boiillons, armons oftre ven",
-            "geance,",
-            "Coatre ce vil matin quiſappe dans la France,",
-            "Bamiſſons de no yeux ceét infame eſtranger,",
-            "Chaſſons bas ſes ſuppots, ſauuons nous du dan",
-            "er,",
-            "Que la pefteritéſache que ce Royamme,",
-            "Lars q’ileneſtbeſoin e manque iamais d’hom",
-            "mes,.",
-            "Que Franceeſttouſibnrs France, & que malgreé́",
-            "l’Enfer,",
-            "Et l Eſpame, on vea les François triomphber,",
-            "largrétous ces efforts des puoiſſances corrai",
-            "res,",
-            "Nous verroas vn ſuccez heureus en as afas",
-            "res,.",
-            "Scache nmalgreé tarage que ta vie infanme,",
-            "N’ura point d’aïtre fin que la cendre &la’",
-            "ame.",
-            "Engeance de Sata, tiſonfeditieu,",
-            "B"
+            "Ms que ect dns ce mnor Che oeurté de omre? Doù vent? quen ce cchotnor On ne trouue pus ren de omre nues Duntez Qu pr mes mportuntez Etespromprement venuës Deux que e me dré content De vous uor entretenuës Mgré ceux qu me veenttnt Dtes moy? cr cet e ujet Pourquoy m pon vous pree Que dot etre uourdhuy oerz De votre mmortee cree Ftes quevos duns regrds Le cerchent en toutes es prts Ou mes mtez ont ées Hpret vement Mues vous etes ppeées Pour mon cher Dors euementtes"
         ],
         [
-            "6",
-            "Qui crache ton venin meſmecontré les Cieux,",
-            "Quoy’celuy que iattaque eſt indigme d’appren",
-            "L",
-            "re,",
-            "Les raiſon que ie veux aux Francois faire en",
-            "tendre,",
-            "Les tortures, la gehenne, les plus grandstour",
-            "mens,",
-            "Sont les ſeules raiſons qu’on rend àtelles gens,",
-            "Ct partant, fureurs Deeſſe de vengeance,",
-            "Luttes, rages, demons, perniçieuſeengeance,",
-            "Du prince des nfers, Iiſiphone, Alecton,",
-            "egere, Proſerpine & tout ce que Puton",
-            "Poſſede en ſon cahbosde plus eſpouuantablde,",
-            "Sortez de vos priſons preneZ ce miſerable,",
-            "Que le Tontale ſoit ſon pluscruel tourment,",
-            "Que vous fereZ ſou ffiir à ce vieilgarniement,",
-            "A ce traiſtreeſtrangenennemy delas rance,.",
-            "Qui fouleſaus ſes piedsſon nom ſa puiſſace;.",
-            "Mais cecy eſt trop doux inuentons de nouueau,",
-            "Quelque ſanglant ſpplice a cetaiſtrebourreu,",
-            "u’iſſoit eſcorché́vif & traiſneſur laclef,",
-            "Qu’on luy brle les os, q’on luybreele chef;.",
-            "Sus doncappreſteza vous, ſus boureltes furies,",
-            "Redoublez vos tourmens, vos forceneries,",
-            "Ouurez voſtrecolere chaſſe zloide vous,"
+            "teous e eu des vuns Qu nuez pont perdu courge? Pourfureur de tnt de vents u conprent ̀ mon nufrge Vous eu cpe de pté? Quvne ongue nmté Contre moyfore otnée N ms encore tu Et qu uuezm detnée uquux os de mvertu Et tnt de ches Courtns Dont yen ftté ve  Contre moy ont es Prtns  Et es Ecues de Enue  Auourdhuy ces eprts ets Poyent ̀ tous es fux oets Que eur offrecomne Et noent dvn mot euement Soppoer ̀Tyrnne  Qume creue e monument B"
         ],
         [
-            "Ce qui peut appaiſer vos feux & vos courroux,",
-            "EmpoigneZ ce meſehant de vos rouges tenailles,",
-            "eſcraſez luy les yex, deſchirezſs ntrailles,",
-            "Que ſon corps ſoit reduit encent morceaue eſ",
-            "pars, faites lauy ruiſſeler dleſang de toutes parts,",
-            "Qu’engouffrez dans le ſopuhre, enſouſfés dans",
-            "le gouffre,",
-            "Seulde tous les damnez les tortures il ſouffre,",
-            "Afin queſtant puny comme il l’a merité,",
-            "Ilſerue vniour d’exemplé à la poſterite,",
-            "FIN."
+            "Ce ne ontque Mgnrds de ct Ce ont des courges de terre uemondre vgue mot Et qu nont quvn éct de verre Ce net que moee & que frd Leur ens eur vox & eur regrd Ont touours dueres vées Et pour e m & pour e en s ont vne me duée  Qu ne peut seurer de ren Ces cœurs ou ennemy de Deu A ogé tnt de perfde  quon ny çuror trouuer de euPour vneffecton hrde s nont ms dmscher  Quemort es pue empecher De queque vte ordnre Ou depus e mtn u or Ren ouuent s nontren ̀ fre ue e regrder & seor"
+        ],
+        [
+            "Ms que peuncontre e ort Lons ̀ ces vnes mes Leur cheté n pont de tort  s ncqurent pouretre nfmes L fortune ux yeux ueugez Aux mouuemens tout deregez  Lesconceusdunture  Et ous vn tre trnporté  Qu chemnot contrenture Qundeur vercrté Vous etes né tout u reours De eurs nfuences mgnes LAtre dont vous uuez e cours  Sut es roures es pus engneset vry que vous mertez Au dè des propertez Dontvousévge S e detn donnot vnrng Seon eprt & e courge Dors erot Prnce du Sng"
+        ],
+        [
+            "O Deux que me fu chor Pour oüer mon Deu Tutere que fer je en rdent der que mon eprtde vous pre e dry pr tout mon oeure pendréenvotre honneur queMer qu vod es deux poes Dont e méure Vners Grder ur es Ondes moes Les crcteres de mesvers FN PERMSSON JL et perms ̀ A pvoco mprmeur & Lrte ̀Prs A d mprmer ou fre mprmer endre & deter vn Lure nt tué Ten rcurey des Courtns Et deffenes ont ftes à tous utres de mprmer peme emende Ft ce troreme My 643DAVBRAY"
         ]
     ]
 }

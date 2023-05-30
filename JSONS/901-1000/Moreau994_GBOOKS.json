@@ -1,245 +1,92 @@
 {
     "entête": {
-        "form": "vers",
+        "form": [
+            "prose",
+            "vers"
+        ],
         "genre": [
             "poésie",
-            "burlesque",
-            "satirique"
+            "pamphlet"
         ],
-        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-30",
+        "creation": "1649-04-16",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-20",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Délogement de la discorde, sans trompettes. Vers\n          burlesques.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-24",
-                "#text": "24 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-30",
-                "#text": "30 avril 2021"
-            }
-        ],
+        "titre": "Les délices de la paix, représentés par les États et les\n          villes de ce royaume, par le sieur Bertaut.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
         "langue": "fra",
-        "fichier": "Moreau995_GALL.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau994_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE",
-            "DESLOGEMENT",
-            "DE",
-            "LA DISCORDE",
-            "SANS TROMPETTE.",
-            "Vers Burleſques.",
-            "M. DC. XLIX. <pb n=\"2\"",
-            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k56951440/f3.item.r=bpt6k56951440\"/>"
+            "Les déces depx représentés pr es Étts et es ves de ce royume pr e seur Bertut Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022Bertn Bertut Déces (es) depx représentés (sc) pr es Étts et es ves de ce royume pr e seur Bertut Prs Ncos Jcqurd 649 Lyon Bothèque muncpe de LyonRés 32578TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs994 Déces (es) depx représentés (sc) pr es Étts et es ves de ce royume pr e seur Bertut Prs Ncos Jcqurd 649 20 pges L permsson dmprmer est du 24 vr Bertutdédé son pmphet u premer présdent Moé qu décre dns son épître dédctore uteur prncp depxvt) pué précédemment pendnt es conférences de Rue et de Snermn es Sentments du or ctyer etc et es Av tges depx et de unon etcprose vers poése pmphetArrvée du prnce de Condé à Prs 64"
         ],
         [
-            "3",
-            "LE DESLOGEMENT",
-            "DE LA DISCORDE",
-            "SANS TROMPETTE.",
-            "Vers Burleſques.",
-            "VIen t'en Diuine exhalaiſon",
-            "Habiter dedans ma maiſon,",
-            "Vien ma belle Muſe falotte",
-            "Que iamais plus tu ne grelotte:",
-            "Or cà dy moy la verité",
-            "Auec grande fidelité,",
-            "Car ſi tu faits l'acariaſtre",
-            "Ie te battray comme du plaſtre,",
-            "Ie rompray baſton ſur ton dos,",
-            "Ie te fracaſſeray les os,",
-            "Ie te caſſeray la maſchoire,",
-            "Ie t'empeſcheray de plus boire,",
-            "Dy ce qui s'eſt fait franchement,",
-            "Et auoüe tout ingenuëment:",
-            "Mais vous mes rimes ridicules,",
-            "Cachez icy bien vos macules;",
-            "Mais ayez des macules ou non",
-            "Ie vay commencer tout de bon,",
-            "Et pour icy garder vn ordre",
-            "Finiſſons viſte cet exorde.",
-            "Or cà Muſe ſeconde moy,",
-            "Et ne faits point du quants à toy,",
-            "A ij"
+            "LES DELCESLA PAX REPRESEN TEZ PARLES ESTATS Et es Ves de ce Royume e ues Cnre ee re eeren"
         ],
         [
-            "4",
-            "Vu Mardy donc bon iour bonne oeuure,",
-            "La diſcorde fit ſon chef-d'oeuure",
-            "Auec ſes habits mal baſtis.",
-            "Nous deſiroit aneantis,",
-            "Qu'elle enfile donc la colline",
-            "Encor qu'elle face la fine,",
-            "Elle ne fera iamais rien,",
-            "Car nous la connoiſſons trop bien,",
-            "Et ne veut que boſſe à la teſte,",
-            "Elle trouble ſouuent la feſte,",
-            "Ie le dis ſans eſtre deuint,",
-            "La Veille des Roys elle y vint,",
-            "Elle penſoit nous faire outrage,",
-            "Et nous apporter grand dommage",
-            "Nous croyant tous en deſaroy,",
-            "Diſant; Ils crient le Roy-boy:",
-            "Vrayment nous luy auons fait nicque;",
-            "Nous luy auons donné du picque,",
-            "Et peu (ma foy) s'en eſt fallu",
-            "Que nous ne l'ayons bien battu,",
-            "Cette Dame à la haute teſte,",
-            "Cette exiſtenſe de tempeſte;",
-            "Ses mains ne ſont en ſon pouuoir",
-            "Mais elle ſçait bien les mouuoir,",
-            "Elle a le nez ſal' comme boüe,",
-            "Des larmes tombent ſur ſa ioüe",
-            "De deux yeux tous rouges ſortans,",
-            "Qui ſon paſle tein arrouſans",
-            "Faiſoient voir deux noires fontaines",
-            "Qui deſcouloient ſur ſes veines.",
-            "Elle auoit les pieds tout tortus,",
-            "Et les iambes & le col crochus;",
-            "Et les levres noires & ternies,",
-            "Et les entrailles mal fournies,",
-            "Elle auoit dans ſon ſein caché",
-            "Vn"
+            "te A s Ee s E VT A MONSEGNEVRMONSEGNEVR r E MOLE J CONSELLER DV ROY en es Cones dEtt Prvé & Premer Predent en Cour de Prement ONsEGNEVR J Cetre heureue Pr dont e uvgedepenee fne Ee e ere vent vec ctons de grce ynt eté trcée A j"
         ],
         [
-            "5",
-            "Vn grand couſteau bien amanché.",
-            "Cette femme qui touſiours braye",
-            "Auoit en guiſe de grand daye;",
-            "Non de velours brodé, ny d'or,",
-            "Non, non, cela n'eſt pas encor,",
-            "Mais c'eſt vn tenebreux nuage",
-            "Qui enuironnoit ſon viſage,",
-            "Vn voile qui paroiſſoit noir,",
-            "Car la pluſpart le pouuoit voir",
-            "Tout ainſi quand le ſieur tonnerre.",
-            "Veut foudroyer Dame la terre,",
-            "Ou quand l'air paroit pluuieux,",
-            "Quand Iupin, ce Dieu glorieux,",
-            "Leue aux pluyes & au vent la bonde,",
-            "Qui tout par tout ou il va gronde,",
-            "Et qu'ils font tous deux les mutins",
-            "Comme ſeroient des lutins.",
-            "Muſe, courant la bretantaine",
-            "Ie te frotteray la bedaine,",
-            "Eſt-ce ainſi qu'on ſe rit de moy ?",
-            "Ah ! ſi ie te prens par ma foy,",
-            "Ie te feray faire ton affaire,",
-            "Et que diable vas-tu faire",
-            "Dans cette haute voûte des Cieux ?",
-            "Quoy, n'as-tu point peur des Dieux ?",
-            "Mais reuenons à ſa diſcorde,",
-            "Digne de potence & de corde,",
-            "Croyant nous faire deſplaiſir",
-            "Ayant deſſein de nous ranir",
-            "Madame ſa belle eminence",
-            "Se perſuadant que ſon abſence",
-            "Et eſtant eſloignés de luy",
-            "Nous apporteroit grand ennuy,",
-            "Nous cauſeroit grande triſteſſe,",
-            "Nous accableroit de detreſſe,",
-            "B"
+            "condute & ceompe pr votre ncompr e prudence & onteé Cet MONSEGNEVR preenter ̀ vos yeux es fruts que J vous vez produts en vous offrnt es deces depx A pene deux mos eron é́eou ez que touteFrnce ne fce entendre des crs dégrefes & dé Benedctons pour votre ene de rqoene eren e ee ne Peronne do uy vor ftvnche preent ours eté dhumeur à ne ps condeérer org ne des choes ms à srreter ux effets quees produent Cey qu et toute vôtre e fer vor utnt prodgue en enfts ̀ endrot de tout es Hommes que ce Montre de Guer re Cve pus que demy formeé eur préprot dmertumes & de doueurs en que e pr tcpe vec e gener ̀ tnt de grces qu procé́dent de vous e vous uppe treume ment MONSEGNEVR de mhonorer de cette prtcuere permettre que e me de vec e repect que e vous dos MONSEGNEVRoftre treme tresent& vyfde ronrEE TvT"
         ],
         [
-            "6",
-            "Mais elle a menti par ſa dent:",
-            "Car l'aymons mieux loin que preſent,",
-            "Ce ſoleil trop ardant nous brûle,",
-            "Cet eſprit nous rend ridicule,",
-            "Luy qui par ſes ſubtilitez",
-            "Rend les plus habils hebetez,",
-            "Cet aualeur de limonade,",
-            "Ce faiſeur de rodomontades:",
-            "Ah l peſte qu'il eſt degouſté,",
-            "Ce qu'il en ſait c'eſt pour taſté:",
-            "Enfin cette maudite Deeſſe",
-            "Qui veut faire de la Maiſtreſſe,",
-            "Et cette gaubeuſe de corps,",
-            "Non pas de viuans, mais de morts,",
-            "Elle quitta Dame frontiere,",
-            "Affin de mieux remplir nos bieres",
-            "Des carcaſſes de nos badots.",
-            "Vrayment ils ne ſont pas ſi ſots,",
-            "Ils luy ont fait des ſalüades,",
-            "Non de bonnet, mais de gourmades,",
-            "Non pas en oſtant le chapeau,",
-            "Ny en faiſant le pied de veau,",
-            "Mais de baſtons quelque volée,",
-            "Eſtant pris elle eſt detalée.",
-            "Et fit bien de tirer de lon",
-            "On luy promettoit rien de bon,",
-            "Nous ne luy gardions poires molles",
-            "A toutes ſes actions ſi folles,",
-            "Maudite peſte de nos iours,",
-            "Perturbattice des amours,",
-            "Fracaſſeuſe de nos marmitte,",
-            "Cette rompeuſe de lichefrites,",
-            "Cette contagion de nos ans,",
-            "Gaubeuſe de petits enfans,",
-            "La femme à la longue mammelle,"
+            "A é fet See pé eeetpeeee LES DELCES DE LA PAX REPRESENTEE PARLES ESTATS & es Ves DE CE ROYAVME eerur des mxns er ue e m eenee d eoe ee eee d unnr oe d de dene reuereee So ueen enenuer Fdnt ee opue ens eneren epre nd e oeu e ne ddeu ee"
         ],
         [
-            "7",
-            "La tefte touſiours ſans ceruelle,",
-            "Mais vn doute dans mon cerueau",
-            "Me rend quaſi plus ſot qu'vn veau.",
-            "Ie ne ſçay quelle religion",
-            "Profeſſe cette contagion,",
-            "Cette Nymphe de boucherie,",
-            "Et cette infernale Furie,",
-            "Ceux qui entendent ſes pechez",
-            "Sont que ie croy bien empeſchez.",
-            "Dy moy viſte, eſt-tu Catholique,",
-            "Ou n'eſt tu point Apoſtolique ?",
-            "Quoy, auec ton graue maintien",
-            "Tu ne me reſpondras donc rien ?",
-            "Or çà ne fais point de la vaine,",
-            "Dis ſans mentir, eſt-tu Romaine ?",
-            "Tu te tais. Comme l'on peut voir",
-            "Ayant le viſage vn peu noir",
-            "Tu es donc quelque Egyptienne,",
-            "Ou bien tu fus Italienne,",
-            "Quelle mangeuſe de poix gris,",
-            "Comme tu faits de petits ſouſris,",
-            "Tu ne gagne pas trop pour rire,",
-            "Ie vois bien ce que tu veux dire,",
-            "L'Italie fut ta nation,",
-            "Et tu n'as point de Religion.",
-            "Fay gille donc en Italie",
-            "Tu auras bonne compagnie,",
-            "Va, tu ne payras point d'eſcot,",
-            "Ton compagnon n'eſt pas trop ſot",
-            "Il n'a pas la bedaine creuſe,",
-            "Ny auſſi la maſchoire oyſeuſe,",
-            "Ny la bourſe pleine de vent,",
-            "La mal boſſe, il a de l'argent,",
-            "Mais laiſſons l'argent & le boire,",
-            "Ie te veux faire admonitoire,"
+            "6 Guerrer croche ton epeeoporte & rgnée Font eur ejour en t uon L̀ guerre net pus de on Muze doucs vn peu t ve ne Soufe moy de t douce hene pour chnter e ots dvne px Qu ot dure pour jmsprânûndndd pece 2 L T N rE VLL Oer e chr deutce A Ces mots grvez u frontpceDeu ene votre retour Deee de px & dmour En mn vn épée rnehnte2 Cherchntefte devornte Du monstrce du pé pr tnt de ng queeveré e usunmee éctnte re usmn toute punt r e voy e frpe en tous es eu y e meme pouvor des Deus e us effroy des prcdes Du vo du feu des edo"
         ],
         [
-            "8",
-            "Aga tu t'enfuis comme vn loup,",
-            "Vien, vien, boire encore vn coup:",
-            "Ha ! ne t'en va donc pas ſi viſte,",
-            "Tu ſeras aſſez toſt au giſte.",
-            "Ce qui me fait donc grand deſpit,",
-            "Et que me chifonne l'eſprit,",
-            "Qui grandement auſſi me touche,",
-            "C'eſt que bien ſouuent tu te couche",
-            "Sans auoir fait ton examen,",
-            "Tu fuis, ne reuiens plus, Amen."
+            "Pour euxnypont de eux Qu ne oent preens à mes yeux S pendnt e cours deguerre Lonprs ton pre & t terre e us pour ten fre ron Et te conerver t mon eugou LE ETH ENLPVLLL T E voy honnete GenmmeConuter uec e o homme A Comment remettre on fruter Son jrdn & on eu vver e e voy mrcher de vtee pousé du der qu e pree De reuorvgne ou e preé Ou on perre dpreé De mes feurs queNture Enrcht uecpenture e e voy dnse court pour vor chque choeon tour Ou à ofrcondere Ce qu uy pt ou peut dépreregrde e coomer S du couvreur ou du pomer8"
+        ],
+        [
+            "8 Le meter erot necere S on Fcrmer pre dffretemogne du dépr Qu nyt tout veu à on orentre dedns ecurevteergere Rvy dentendre es gneux Fre muque uec es veuxvot grnge et en pene De fromnt met & dvoyne A orsdemnde u fermer Ce qudedns on grener Sentretennt juques à heure Du ouper à ors ns demeureschemne àmon Au rut decne & oyosue ns ceremone En e rnt de rmone Dvn prémedté copmenttot on uy ert euement Du veu & du mouton eneme pus pour e econd on eme Vne pre de pgeonneux Auec utnt de Hétudeux pour e deert de toute orte De frut que on jrdn rpporte Vne heure presv coucher Au content quvn notnner Qu set uueé detempete S e endemnet feteft dre devotement L Mee en houû d"
+        ],
+        [
+            "Pus ot vn coup dnsfrnche Avecmere mte tge Apresv e promenn Tout euet ou sentet nnt Dns e os de hute futye Dns e ts & dns Lunye Oùentend nomre doyeux Ft ever queques perdreux Ou queque Ĺvre de on gte Qu ut doucement àpte pour trper e endemn Retournnt & fnt chemnentre dnsmonnette Du erger qu prendnmette pour entonner vne chnon De perrette ou en don Rvy de revor on on Mtre Auquepromet fre ptre Son troupeu uectout e on De ce qu uy fer eon Aymnt meux cete eode Quvne muque en choe S prend qu ot Vendredydemeure vn peu etourdy pus tout à ntntcommnde Que dns e ogs on demnde Ou onerré echquer pour e etter dns e vver Que on peche queque choe Vne onne ue on compoe Recommndnt u cuner De fre vor e meter4"
+        ],
+        [
+            "e O Deusxdffernte ve De ce qu net uve Que de qu vue ou qu v Lenfer nvente tout ce Rvy ns ouger depce Les yeux u Ceuy rend grce De revor encormon Mgréguerre & on poyom éepettee eedeeo LELr MARCHANDO vot e Mrchnd qu séveeS joue devenr vermeeEpernt que dns peu de jours Le trfcq reprendr on coursne peut demeurer en pce A mdycourt àpce pour çvor ce que vut tgent A Lyon & comen pour centvot du monde enourquene veut pus revorpque Aymnt meux vn comen ce Que e mot de demeure àLrgent qu chez oy e remes peu à peu reureveuë"
+        ],
+        [
+            "S vte on Mgzn prend e pett dot de vn S vent vne ettre dechngeccepte & pye e chnge An ns reme & protez rege vn muvs procez Son eruteur reprendforce L vee erunte sefforce De fre queque on rgout pour fre reuenr on goutet tout chnge de vgecue vec e Voyfnge De guerrene sen pre pus Aymnt meux queque on reus De pcrde ou de chmpgne Su veut es ̀cmpene pour y vor on pett ogsnet pus commeours Qu ne ort jms nscrnte DPvor queque muve enue S femme & uy sentretennt ODeuxque oudn tcngement Lon dot en enrjponte Quepxeté gné 3n"
+        ],
+        [
+            "2esjeeé3e ee e tee ee e LE LABOVREVRM ON vot e puvre oureuroutré dvne ute doueur Les yeux creux e vge eme penf rever en oeme Auquepourot dree ponr yder à e redreer Ms quoyn pu que écoree S vox n ps ez de force pour fre entendredoueur Qu uy erre & pree e cœur L px queque peu e conoe Ses eds qu ont en onne oe Et de fç̧on detre meeurs Quux térres qu oure eun recours à on on Mtre Chez equenozot prtre pour vne dete du pé Dontvot fort mené Qu uy donne onne epernce Luy remontreconequence De ne ps qutter on Trv S ferme & tout on ttr pour ors"
+        ],
+        [
+            "3 Pour ors redut à peede choe Lors vn pett verme roe Sentremee veccoueurTout reemnt àueur Durore qu commence à pondrechot de deux mux e ondre Et ns ttendre u endemnreprendchruë en mnu prend courgesévertuë S femme à̀ trver e tuë Et vec eux tous eurs onfnspendnt es eprts & eur ens Doucement reprennentpce Qus uoent unt eurs dgrcesEt voyntee on Repeupent vn peumon De pgeons & dutres voes s cheptent queques uomes pour refre vn nouuemroupeuu Dutres Vches & vn Tdrréu Crforme etot dénuée An quon vor vne nuée Quvere toute on eu n peu de gre urpu u Luy prot pus qu ordnre Cet ors qu comméce àe pre Au trv comme uprvnt Que e mtn en e entdree à Deuprere S t pus demereBennt on pett eur Le devrnt defyeur D3 L"
+        ],
+        [
+            "4 Qu ne peut qutterpenoe Lhorreur deguerre peeuppeproudence S grcepcreuernce De reter à tnt de mux Tnt de penes tnt de trvux Dontcreture et uve En ttendnt vne utre ve puse eve ruquement pour protre pus promptement A tous es gens &preence Les exorte àdgence Le chrter pene es cheuux Les utres voyent eurs troupex An chcun pour uy compre Sentremet à ce qu dot fre uques u temps du des jeûner De ce que Deu er veut donner pour ce peronne ne grogne Cet e pus doux deeogne Vn peu pres ez oudnprendguette àmn Fnt vne forme de ronde pour vor trver tout on mondevot es eds tout à entour Qu trouue eu de our en our Lze uy fre dre en o menme Voyonsuoyne et de memepe n tout e mtn uques à heure du fetn Compo dvn fort grnd potge Dvn peu de rt & dvn fromge"
+        ],
+        [
+            "5 Et qund ce et en oeu Fut dre grce & pus deu En mengnt peronne ne re Cr ceux qu demndere Sout à̀porte en tednt Avec eux vn rouge Sergent Qu en entrnt prendvee Qu gurre deous on ee L nppe et pre pr es utres Qu en demndent encor dutres Ou quon prendr e mtre u corps Cependnt vn mtre Recors Voynt vn mnteu presporte Le met ur on dos & ecmportey& Ae e F ooe t eteu&peee peT 7 D MESSEVRS DE D T E D R 5 r R EL LAS vocy vn utre SergentDe pr Mefeurs de PrementQu ft commndement de rendre Tout ce que on vent de prendre En vertu dvn fort on Arret Qu defend vge du pret"
+        ],
+        [
+            "6 Le qurt de dmnuton Porte pr Decrton Ce qu fut ft à heure meme Le prtzn en deunt eme Ou on comms que e ne mente Sur eque on ftdecente De qunze ou vngt coups de tons Qu uy font touner es tons A ors e oomme rerourne prnt e Sergent qu séjoune Qu uy veut fre vn on reps Et e contenter de es ps Luy doucement e remere Qu fut que Arretpue promptement & en dters eux pour fre rendre grce ux Deux Qu eurent touteFrnce Que deormsvoence Des nouueutez & es uspr eux ne e ouffcront pus Quoy queCour en fce ntnce Ben rmé́e de pereuernce Contre Prnce ou Grnd quo Le Fermer dt n otLe Deee"
+        ],
+        [
+            "7 ete Ae e e ee es s e s réger e es eeee T LD E LE r T L DES VLLES T oey e dece des ves Veoe eeeee en er enrenre ee e e rene ene pdeurs dnntmutode pen e eu enunee T us rpnronent eu e oneen eu eer ere nueue e eee eee ee en des nene n dne e reue e ene e Et es nes u rre"
+        ],
+        [
+            "Cheun reuot ces promendes L comméde es udes Ont eur cours comme uprvt  Les Roys & cremrennt L terre couuerte de onde Cet hyuer etonnot e monde Vne fte qu fce eu Prs déorde comme eu L tetre e troue cpuuerte De gens s ur here verte Et d utres qu rouent e os pour orepette fos Lon vot es peres de fmes Auec ers femnmes & eurs fes prendre e duertemnt Doucement en e pounmennt Ceux quont des msõs prochnes Y courent à perte dhnes Tnt s ont dereumx devor S eurs gens ont ft e devor Arrvez qus ont vn devore Queque rre qu outonneencore Lutre sencourt drot u fruter Au perre ou u potger peronne en ce eu net mde Le vet cueeSde L erunte pporte e vn Le pté e frt & e pn pour ors vn chcun e reme Lon demnde que vous eneme Le jrdner net ps ogneux Vne utre fosfer meux"
+        ],
+        [
+            "9 Le eruteur &mtree Ss ont vne ége tendrefe 3 7 nSouhteroyent quvneuour eq nre eu neonr er e e Ms vocynut qu sproche Quvec regret on e rproche chez dvorpeu de temps A gouter e on r des chmps O dnee ournée Du mtn & dpres dnée O cmpgne dheureux ejour pourquoytot fnr e jour Pee e e nedds e r en Hé en ouperons ous eneme ognons tout ce que nous vons Et ce or nous réjouyons Chcun ynt veucuyfne y vn Ggot de onne mne Et moy vne onge de veu Et quequutre on oyu Ceuy qu n que du potge Aporter frut & fromge Des ornges & pour e vn Chcun porte e pot à frn Là on ot & mnge àgue L grme nyfente Les querees & es excez En ces eux perdent eurs procez Surfnpx e preente comme vne Déee contente Dvor chsé tnt de eurs pour ntrodure es douceurs"
+        ],
+        [
+            "O px que és gree que on frue et deete Deu ene pour vjs Lutheur dvueone puzs fune pruer us Vere otee es Deces depss e Fut ee nu CSgné dAV RAY vo"
         ]
     ]
 }

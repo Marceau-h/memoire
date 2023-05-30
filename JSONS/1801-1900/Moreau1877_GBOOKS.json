@@ -1,141 +1,42 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "lettre",
-            "traduction"
-        ],
+        "genre": "lettre",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-08",
+        "creation": "1652-01-01",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-14",
+            "@when": "2022-10-06",
             "@who": "AB"
         },
-        "titre": "Lettre d'un gentilhomme italien à un François son ami,\n          sur l'enlèvement du roi très chrétien, traduite par P. D. P., sieur de Carigny.",
+        "titre": "Lettre d'un gentilhomme frondeur à un sien ami, à Paris,\n          sur le retour du cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1878_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1877_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRE",
-            "D’VN GENTIL-HOM.",
-            "me Italien à vn François, ſon",
-            "amy, ſur l’enleuement du",
-            "Roy tres-Chreſtien.",
-            "TRADIVTE PAR. P. D. P.",
-            "Sieur de Carigny.",
-            "A PARIS,",
-            "Chez NICOLAS DE LA VIGNE",
-            "pres Sainct Hilaire.",
-            "M. DC. XLIX."
+            "Lettre dun genthomme frondeur à un sen m à Prs sur e retour du crdn Mzrn Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté8 jun 202 Des LurersLettre dun genthomme frondeur à un sen m à Prs sur e retour du crdn Mzrn Sns LeuSns Nom652 dtée de jnver 652 Munch Bothèque de Ett de Bvère BSB / Außenmgzn 4 Gg 23/49FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs877 Lettre dun genthomme frondeur à un sen m à Prs sur e retour du crdn Mzrn(Sn d) 3 pges Dtée de Châons e 6 jnver 652 et sgnée Desurers Je soupçonne fort ce genthomme frondeur dêtre un mzr nste dégusé et ppremment cétt uss e sentment de ceu quécrtRéponse àLettre du frondeur mzrn sur e retour du crdnprose ettre Sute de rrêt du 29 décemre 65 65"
         ],
         [
-            "ſuis Italien. Toutefois ceux qui prendront la pei",
-            "ne de lire ce qu’elle contient. qui ſeront ſans dou",
-            "te les honneſtes gens de voſtre Royaume, con",
-            "noiſtront aiſement que ie ſuis de l’humeur de ce",
-            "Philoſophe qui ſe diſoit habitant de tout le mon",
-            "de. Ie condamne le vice aueuglement, & ſi Ma.",
-            "arin eſt l’autheur des maux que ſoufſie la Fran",
-            "ce, eroye que ie eray le premier à prononcer",
-            "l’Arreſt de ſa condemnation, & que ie pourſui",
-            "urois vn criminel de cette ſorte iuſques deſous la",
-            "pourpre Pour vous dire ce que i’en penſe, cher",
-            "Acanthẽ, ie ne voy rien de ſi aymable entre les",
-            "anciens que les Heros qui ſe ſont expoſez aà̀ la",
-            "mort pour le ſalut de leur patrie, & il n’y a point",
-            "d’endroit’ou ie m’arreſte ſi long-tems, dans Va.",
-            "lere Maxime qu’en celuy où il traire de ces ver",
-            "tueux de l’antiquité. Au reſte iay appris auec",
-            "grande conſolation qu’il ſe trouue chez vous des",
-            "Heros de cette ſorte, & que vos Panlemens ſont",
-            "remplis de ces ames genereuſes, qui ſont des rem",
-            "parts, & des Citadelles imprenables, & d’ou il",
-            "ſort des foudres contre les traiſtres, & contre les",
-            "perturbateurs de l’Eſtat. Il y a plaiſir d’eſtre con",
-            "ſerué par des teſtes ou la ſageſſe prefide, &ce ſont",
-            "autant de Minerues quiconſeruent la Reyne des",
-            "villes. Ce m’eſt vn ſenfible regret que la France",
-            "ayt aà ſe plaindre encore vne fois de l’ltalie: Il",
-            "ſemble"
+            "gg Qpv Q&&r e D E L L LE Dvn Genomme Fron deur ̀ vn en Amy ̀ P rs Sur e Retour duCrd n Mzrn ̀Cour Moeev e ru cee qu epe de ee ee u deumtme de e mos & voun renree de on pouuees Cees de ces CQuruers one e es drrns y ot pe uee ept o nut me hommes & qucre pece de u ons dnt OQus Vnt porter eur meme us Te es pour ggnet es cu qumne rm ue de re enrge des ene dedons que ure A Ccmpgne eur donne Les epuredes ves vont u deunt du cronu ee de vnt eurende eour edn u pour e e uspe o eur oe u eun"
         ],
         [
-            "ſemble qu’ily ayt en cela quelque fatalité, & que",
-            "ce grand Royaume ne puiſſe eſtre troublé́ que",
-            "pa des eſtrangers, quoy qu’il ſoit meſme le refu.",
-            "ge, & le gloreux Aile des eſtrangers perſecu",
-            "rtez. Ilfaut auoü̈er qu’ils ſont d’autant plus cou.",
-            "pables qu’ils imitent ces hoſtes qui pour la re.",
-            "compenſe de l’hoſpitalité́ mettent le feu aux",
-            "lieux qui leur ont ſeruy de retraitre. Mais apres",
-            "i’admire cette grande vnion de toutes les Prouin.",
-            "ces qui compoſent ce grand Corps, & plus que",
-            "tout le reſte encore, cetre tranquilité du peuple",
-            "de Paris dans cette mauuaiſe conioncture. L’a.",
-            "euglement de vos Miniſtres eſt eſtrange; la",
-            "Prouidence de Dieu miraculeuſe, & ie croy qu’en",
-            "ce point les choſes ont eſté tout au contraire de",
-            "leur penſée. C’eſt vne marque infſaillible que",
-            "Dieu prenl vn ſoin particulier du throſne dvn",
-            "Prince pupille, dont on dit que les vertus naiſ",
-            "ſantes font attendre de grande choſes de luy",
-            "pour le bien du peuple, & pour la grandeur de a",
-            "Couronne. La vertu eſt le plus beau fleuron de cé́t",
-            "ornement de la teſte des Roys, & les peupleso",
-            "heiſſent auec plaiſir à la vertu couronnée. C’e",
-            "ce que la renommée raconte icy de ce grand Mo",
-            "arque que le Mazarin a enleué hors de Paris",
-            "ſous de faux pretextes, & qui n’ont aueune ap",
-            "parance de verité. Ie penſe qu’il n’eſt pas encore"
+            "à cue de cette ee ffre depre & deBte de Rethe & vous drez à entendre ce qus nous rpportent de es dcours que cet vn Prophete enuoyé de Deu Qu ne vents que pour ecourr e Roy uee es Troups qu uy mene Que cet fn quuee ce renfort S Mjete pue pus eurément pefer es troues de Guyenne unt queon per nee ur Epguo denreten rnee ueJ dedepend e ut deEtt Qu nypont de meeur moyen pour uor eotPx genere & hter e retour du Roy ̀ Prs pour yfre vnejour qune er pus nterrompu P e frequents voyges uquesMeté et ogede durntgerre e us u deepor de vor de pus Que tous ces Gens ̀ oent per ude quft ore depeeeuton quouffre & qu veut confondre es Ennems en eur fnt du oen rous en gener &e enp teuer qund occon sen preenter En fn s e font prer commeBe Vouspou uez erore que e ne mnque ps de Fronder deus commefutr Ms e vous duouëà3 mon grnd regret que e ny ggne ren & de r qu yu u defe de Pus ne empe chent pr force de per e prévoy qurr r tromphnt ̀Cout Cr pour ret de cent cnqunte m ures e Crdn enp L EE"
         ],
         [
-            "31",
-            "aà ſe repentir de cette fate, & pour moy ie me",
-            "figure que cõme il eſt accouſt mé à prédre, qu’il a",
-            "voulu ous derober ce precieux treſor. Ilne pou",
-            "uoit faire vn plus lluſtre larcn:mais celas’appelle",
-            "forcer la vertu, lors que l’on ne la pratique pas.",
-            "Sans doute, c’eſt vne rude ſecouſſe pour vn",
-            "Eſtat, de ſe voir enleuer ſon Maiſtre par vn",
-            "Etranger, & ie trouue que l’on a raiſon de com",
-            "pare la Pohtique à la Science des Nautonniers.",
-            "& les Royaumes à des Mers, puis que les Eſtats.",
-            "ont leurs tempeſtes & leurs écueils auſſi bien que",
-            "l’Ocean. Ie ne doute pas que le Mazarin n’y faſ",
-            "ſe naufrage, los que tant de vents ſoufflent de",
-            "routes parts pour l’y enſeuelir. Oüy, cher",
-            "Achante, à moins que d’auoir vn Ange bien puiſ",
-            "ſant, on ne ſe garentit pas facilement de ces ren",
-            "contres. Ce Miniſtre eſt en eerorion à tour ce",
-            "qu’il y a d’ames viuantes. & quelque ſoin que",
-            "i’aye apporré icy pour découurir des partieulari",
-            "rez de ſa naiſſance, ie n’ay ſeu trouuer qui ayt pû",
-            "m’en inſtruire auec certitude. Si ie puis en ap",
-            "prendre quelque chole, ie ne manqueray pas de",
-            "vous le fare ſç̧auoir par la premiere commodté.",
-            "Vous ne deuez point craindre d’auoir intelligen",
-            "ce auec moy, ie penſe que noſtre amitié, & mon",
-            "humeur vous ont oſté cette crainte, & ie ne dois",
-            "iamais eſtre ſuſpect à ceux qui me connoiſſent."
+            "en ccompgné pout ren eprer de ce cotéCe qu me met de pus en puspuce à o re et Que pprehende quà Prs on ne enne e meme ngge que ceux qu en ont venus cy depus peu Nous erons en fous den de donner de rgent pour fre vne Amée & pyer des Generux qu ne onge roent quà e rendre Mtres deVe pournous tyrnner pr pres comme Moneur du Myne ftdu temps deLgue Que nous mport t que e Crdn ot àCourou non pourveu que e Roy revenne à Prs? Nous çuons en que e Crdn ne demnde ps meux que duor es ones grces des Pr ens & queon e ot frenous rmene rot e Roy dns vn mos pour y reder dord nrenous ferot uor e é́ à on mrché& nous ne voudrons ps jurer qu ne nous donntPx genere A ce s djoutent cent choes qu ont utnt de coups de po gnrd pour moy Qus ne çuroent etse ps qus ont & qus ont ete depus on dept Que es Artns meurent de fm es Mr chnds ne vendent pus ren es Chnres g nes ont vdes es Mons ont deerces e Pn ̀ vn prx excef Pus de Commerce pus de Poce pus dOrdre pus de utce ps vno que defçon quonsy prend on r coû"
         ],
         [
-            "7",
-            "e hay les Tyrans, & croyez que ie ſeray touſ,",
-            "iours de voſtre party, comme eſtant",
-            "Cher ACANTHE,",
-            "De Liuorne.",
-            "Voſtre tres-humble, & tres",
-            "affectionné ſeruiteur",
-            "ALESSANDRO"
+            "4 jours de ps en ps & que pour come de m re on voudrot encore eu couperou & es engger à fre des evées de Gens de gu re pour freguerre u Roy Qupés ou Le Crdn et e meeur Homme du m Qujms veré de ng ny pû e teoud à fre du m à peronne non ps meme à pus mortes Ennems Et que tons es Le quonpuez contre uy nont eftéqued rtfces pour duper e Peupe dns es fos tcueres que quequesvns etoét propoe Entre nous s ont queque ron &nous uons ez vous & moy come es choes epêésMsne fut ps pourtãr que e de rr nous en demeure Ftes gr de votreco tous es reors deFronde e ny ouen ren du men Eu rout cs s fut oum que e Crdn demeure fuuons es ppré4 Ces & pour notre honneur ons u mou orre Quon uprme e Mzrn e s 9MONSEVRDe Chous e 6 nuer 5 ?e Vofre treme & mee Seruter Des L v43 eû"
         ]
     ]
 }

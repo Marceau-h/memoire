@@ -1,7 +1,10 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "non renseigné",
+        "genre": [
+            "chanson",
+            "anagramme"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -9,129 +12,43 @@
         "creation": "1649-01-26",
         "change": {
             "@status": "corrected",
-            "@when": "2022-07-18",
-            "@who": "ZC"
+            "@when": "2022-09-22",
+            "@who": "AB"
         },
-        "titre": "Le salve regina de Mazarin et des partisans.",
+        "titre": "Le salut des partisans. Et autres pieces du\n          temps.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3578_GALL.xml",
+        "fichier": "Moreau3577_GALL.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE SALVE REGINA",
-            "DE MAZARIN",
-            "ET DES PARTISANS.",
-            "LA frayeur qui nous eſpouuante,",
-            "Pouſſée àvn iuſte courroux,",
-            "Nous fait venir la voix tremblante",
-            "Vous dire humblement à genoux,",
-            "Salue, Regina.",
-            "Nous prevoyons vne mauiſere,",
-            "Qui nous menace pour toujourse,",
-            "Si vous, ò̂ Reine debonnaire,",
-            "Ne venez à notre ſecours,",
-            "Mater niſericordie",
-            "C’eſt à vous que nas veae s’adlreſat,",
-            "Poar olbeeaxaore paaton",
-            "Deja les pourfutesr out preſeu,",
-            "Ne nous laiſſez d ſbiaa",
-            "Vita, dulcedo, &ſpesnoſtta, ſaloe",
-            "ue ele neen elenue",
-            "La peine n’eſt pas merie",
-            "Puiſque voius nous lPbezi peri",
-            "A",
-            "t",
-            "ad Te clamanau?",
-            "aee"
+            "Le sut des prtsns Et utres peces du temps Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté3 jun 202 Le sut des prtsns Et utres peces du temps Sns LeuSns Nom649 Prs Bothèque ntone de Frnce Déprtement ttérture et rt Y337TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Comprend 3 textes en verschnson \"Souhts des ons Frncos\" (verson vecstrophe sur Mzrn)chnson \"Ar du temps Sur e chnt Lssez pstres vos estes\" (verson vec \" rune tout e peupe / Cét hypocrte & endé \") et \"Angrmme\" Deux utres édtons (BM00094 et BM00096)vecstrophe sur Bonneu snsstrophe sur Mzrn (p 4) et p 5 gnes strophe \" monte sur un sne / comme un egt de sveter\"ou vec p 4 vecstrophe sur Bonneu snsstrophe sur Mzrn et p 5 gnes\" rune tout e peupe / Cét hypocrte & endé\"3577 Sut (e) des prtsns et utres pèces du temps (S649) 8 pgesvers chnson ngrmme Arrestton de L Rère 646"
         ],
         [
-            "2",
-            "Oûy, nous crions à haute voix,",
-            "Que nous n’y retournerons plus:",
-            "Faites-nous pardon cette fois,",
-            "Ou’bien nous ſommes tous perdus,",
-            "Exules filij Ev.",
-            "Ceux qui ſont mis en garde ſeure,",
-            "Ou qui ſont tenus priſonniers,",
-            "Reine, vous diſent à cette heure,",
-            "Quand il faut rendre les deniers,",
-            "Ad Te ſuſpiramus gementes & flentes,",
-            "Quand nous voyons vn Camarade,",
-            "Qu’on envoye dans les priſons,",
-            "Nous aimons-mieux battre l’eſtrade,",
-            "Qu’eſtre comme nos compagnons,",
-            "in hac lacrymarum valle.",
-            "Apres avoir preveu l’orage,",
-            "Nous nous ſommes mis à reſuer,",
-            "Craignant, qu’etant mis dans la cage,",
-            "On nous contraindra de crier,",
-            "Eia.",
-            "Et voyant que perſonne n’oſe",
-            "Venir deferer des premiers,",
-            "Qu’eſt-e qu’on demande autre choſe,",
-            "Qu’ vn rembourſement de deniers?",
-            "Ergo"
+            "LE SALVT DES PARTSANS ET AVTRES PECES DV TEMPS M DC XLX"
         ],
         [
-            "On vous réndra cette Finance,",
-            "Faiſant fonds de ce qu’avons pris,",
-            "Et nous laiſſant en patience,",
-            "SoyeZ vers le Roy votre Fils,",
-            "Advocata noſtra.",
-            "Vous le pouvez, ôgrande Reine,",
-            "Tout notre Troupeau le predit;",
-            "ChangeZ en douceur votre haine, Q",
-            "Chacun l’eſpere, quand il dit,",
-            "illos tuos miſericordes oculos",
-            "Le bruit de nos mal-heurs embharque",
-            "’Et au’Ponant & au Levant:",
-            "L’amitié de notre Monarque,",
-            "Comme ellé eſtoit auparavat,",
-            "ad nos converte.",
-            "Rendez la liberté perduë,",
-            "DPour tous les accidens divers",
-            "Votre clemence eſt reconnuë,",
-            "L’on chantera par l’vnivers,",
-            "& LVDOVICVM benedictum.",
-            "Au lieu d’vn ſuperbe carroſſe,",
-            "D’vne charrette, ou d’vn gibet,",
-            "On nous menaſſe d’vne foſſe:",
-            "Intercedez donc, s’il vous plait,",
-            "Fructum ventris tui."
+            "3  SOVHATS DES BONS FRANCOS  2  Hntons tout hut Gudemus  Le Premente deus  Et nous remet en os etts Aeuy &c  Nous oüyons pronté  De cette ncenne erté  Pus dmpot on ne ouffrr Aeuy Tous es Mtoters ont cmus   Ces mheureux nen peuuent pus  Retournent en eurs premers etts Aeuy  Chres Pcrd tout e premer  Reprend ett de Cordonner  Que ds on pere exerç Aeuy  Touret veut u rentrer  Dedns honnore meter  De frpper unésym AMeur  Douet mgré tous es uppots  Reprend uourdhuy es ots  Que dns Prspport Aeuy"
         ],
         [
-            "4",
-            "Otez- nous la peur des ſupplices,",
-            "Nous ne ſommes que trop punis,",
-            "Puiſque nos Charges & Offices",
-            "Sont déja declarez vnis,",
-            "nobis poſt hoc exiliumoſtende",
-            "Nous avons merité la corde,",
-            "Ou vn ſemblable traitement:",
-            "Faite faire miſericorde,",
-            "Au lieu d’vniuſte chaſtiment,",
-            "ô clemens,",
-            "Notre confeßion de bouche,",
-            "La ſatisfaction d’vn pecheur,",
-            "Et la componction nous touche",
-            "Iuſqu’au centre de notre cœur,",
-            "̂ pia,",
-            "Ces bons Peres, qui ſont ſi ſages,",
-            "Nous ont promis dans nins heſis,",
-            "La plus grand part de leurs ſuffrages:",
-            "Et nous la part de nos larcins,",
-            "o mater Anna.",
-            "Quand vous direz au Roy, Mada",
-            "PardonneZ à vos Financiers,",
-            "Vous verreZ que de cœur d’ame",
-            "Nous chanterons tous les premiers,",
-            "Amen,"
+            "Pour e Févre chcun oute  Que pus qu et venu de ren  P rr ces ounehnr den  Meme on vod quë Guenegud  Qu vuot ds ̀ gugd  A grmd penesen fuuer Aeuy  Quoy quon t veu moneur Lrchr  Auec grnd trn touours mrcher  Au vge on e trouuer Aeuy0  Sns rechercher extrton  323  De Cten cny f mon Eord on erort cmon e pendr̀ Aeuy  Et pour e regrd dEmery  Chcun outent dedns Prs  Que e De emporter Aeuy Or usnous fut reouyr  Etne pus ms e erur  De cesDesnrnez ̀ Aeuy  Et ce orcer de Mzrn  Quoutenu tout ce trn  Cetot pour trouer cout Ett  e 4 o s   AR"
+        ],
+        [
+            "35 dddeépdtoe ?  Ahht&  AR DV TE MPS  Sur e chnt de ptes vus tes  Quoy que ne oyez etes  Puurés Loureurs & Mrchnds  Lon veut vôus fre ptre  Lhere prmy es chmps  T E Crdn cét nm  E  Qu et cue de notce m  EE on u &cheurune tout e peupe  Cét hypocrte & endé  Cependnt cét nfe  Ft encherr nos eds  Quoy que ne oyez etes &c  4 ruy tous nos Louys  Pour enuoyer en on pys  Cr es ues en ont nms  Ms s ne es rpporte e verr eot puny  Le grnd de emporte  S ne es v querr Quoy que ne oyeetes Se  3  B"
+        ],
+        [
+            "6  3  Et ce pouceu de Chneer equor Qu de nos ouës ̀ tnt mngé  Quen pu etre creué  Dedns Hote de Luynes  S ne sy fut t uué  Lon eut ms dnsSene  Pour ppnrendre ̀ nger  Quoy que ne oyez etes &e  L Meerye sen et meé  Queté en etré  Et prés Mrners gûé  Les grnds dröcs de d Grés  Lont ft promptement retrer  Et eut des coups de perte  Pr deus e mrché  Quoy que ne oyez &c    6  Prtcee cegros drgn eut eté pendu dns Lyon  Ce qu uy ft chnger on nom  Senfuynt deve  Pour e uuer en Augnons Les ufs etrerent  Comme eur compgnon  Quoy que neoyez etes &e  6"
+        ],
+        [
+            "7 Où etoent ces Monopoeurs  Tous ces Prtzns & voeurs  Et deFrnce es Mneurs  Aors des rrcdes  S on es eut peu ttrpper  Notre rue rgde  Les eut ft écorcher  Quoy que ne oyez &c  Ms Noegneurs de Prement  Donneront eot ugement  Pour mettre ̀potence  Et pus de ̀ ̀ Monueon  Cette mudte engence  Hes quen don  Quoy que ne oye &c  L A  rnd Prement ̀ cette fos  A ces voeurs fts es 8  Que e on temps fez reuor  Prmy touteFrnce  Comme utrefos eté  Pt votre preuoyjpce  Et grnde chrté  Quoy que nous oyons &c"
+        ],
+        [
+            "8  Et vous Bourgeos prudents Sodts  Qu vous dpoez ux comts  Pour vn ujetute hes  Quvn Prs dnsFrnce  Ne repre que pour on Roy  Pour etre en eurnce  Et vure ousLoy  Quy que ne oyez etes  Puures Loureurs & Mrchnds  Lon veut vous fre ptre  Lhere prmy es chmps AVTRES PECES ANAGRAMME  Voyez de Mzrnpmte Angrmme  ySrn mettnts pourt m  Voyez vn peu quee mne  Luy vent de r e cerueu  Nee ps e trter de grnd ceremone  Qud v Pnce du ng uy ote onpen"
         ]
     ]
 }

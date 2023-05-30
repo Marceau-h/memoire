@@ -2,145 +2,47 @@
     "entête": {
         "form": "prose",
         "genre": [
+            "narration",
             "récit",
-            "relation"
+            "liste"
         ],
+        "subject": "Venise",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Miradoux (Gers) – 1652 (Siège)"
-        ],
-        "creation": "1652-02-27",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-18",
+            "@when": "2022-09-27",
             "@who": "AB"
         },
-        "titre": "Relation de tout ce qui s'est fait et passé dans la levée\n          du siège de Miradoux par monsieur le Prince.",
+        "titre": "Relation de la victoire obtenue par les armées de la\n          sérénissime république de Venise sous le commandement de l'illustrissime et\n          excellentissime seigneur Jacques de Riva, capitaine des vaisseaux, contre l'armée\n          turquesque en Asie au port de Foquie, traduit d'italien en françois par N. D. F., et par\n          lui donnée à l'illurissime et excellentissime seigneur Michel Morosini, ambassadeur\n          ordinaire de ladite sérénissime république de Venise auprès du roi très-chrétien.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3141_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3139_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RELATION",
-            "DE",
-            "TOVT CE QUI",
-            "S'EST FAIT ET PASSÉ",
-            "dans la Leuée du Siege",
-            "DE MIRAVDOVX.",
-            "Par Monſieur le Prince.",
-            "Iouxte la coppie imprimée à Bourdeaux.",
-            "A PARIS,",
-            "Chez la Vefue MARETTE, en la grande Salle",
-            "du Pallais.",
-            "M. DC. LII."
+            "Reton devctore otenue pr es rmées desérénssme répuque de Vense sous e commndement de ustrssme et exceentssme segneur Jcques de Rv cptne des vsseux contre rmée turquesque en Ase u port de Foque trdut dten en frnços pr N D F et pr u donnée à urssme et exceentssme segneur Mche Morosn mssdeur ordnre de dte sérénssme répuque de Vense uprès du ro trèhréten Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Reton devctore otenue pr es rmées desérénssme répuque de Vense sous e commndement de ustrssme et exceentssme segneur Jcques de Rv cptne des vsseux contre rmée turquesque en Ase u port de Foque trdut dten en frnços pr N D F et pr u donnée à urssme et exceentssme segneur Mche Morosn mssdeur ordnre de dte sérénssme répuque de Vense uprès du ro trèhréten Prs Antone Estenne 649 Lyon Bothèque muncpe de Lyon So ncen SJ F 247/88 66FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsTtre resttué dprès exempre deBothèque deSoronne Moreu Mzrndes 339 Recue fctce 339 Reton devctore otenue pr es rmées desérénssme répuque de Vense sous e com mndement de ustrssme et exceentssme se gneur Jcques de Rv cptne des vsseux contre rmée turquesque en Ase u port de Foque trdut dten en frnços pr N D F et pr u donnée à ustrssme et exceentssme segneur Mche Morosn mssdeur ordnre de dte sérénssme répuque de Vense uprès du ro trèhréten Prs Antone Estenne 649 8 pgesprose nrrton réct ste Vense"
         ],
         [
-            "mée à remporter vne autre Victoire plus auantâ",
-            "geuſe au bien public, & à la gloire deſes Armes.",
-            "Apres la Deffaite du Marquis de Saint Lue, par",
-            "a generoſité de Son Alteſſe, & de Monſieur le",
-            "Prince de Conty, les reſtes de cette Armée ſe re.",
-            "irerent dans Miradoux, auec les Principaux Of",
-            "ficiers des Regimens de Champagne & de Lor",
-            "rancp o poeur ne pariſtre pas entierement vaiu",
-            "cils eſoluree dejopiiaſtrer la deſfene",
-            "Ce qui obligea Son Aleſe de les adler aſieger,",
-            "afin dacheuer de les vainere pluſtoſt par la dou",
-            "ceur quepar les armes;, & en leut oſtant le moyen",
-            "de nuire à ſoni patty; les empeſcher de ſe perdre",
-            "eux-meſme",
-            "Ce n’eſt pas que la forcede cette place, qui n’e",
-            "ſtait conſiderble que par le courage, ou par le de",
-            "ſoſpoirdes aſſiegez, euſt peu lang-temps arreſtes",
-            "la y aillanee & le bon-heur de ce Prince. Mais ſa",
-            "honté́ voalant d’vn coſté meſnager ſon Armée, &",
-            "d’ailleurs encor eſpagner la vie de ſes ennemis, le",
-            "fioitgis plus lentemeat qu’il n’euſt fait dans vnea",
-            "tce occaſion, ieſtimant que ce retardement ſeroit",
-            "bien recompenſeé par vne Victoire d’autant plus",
-            "glorieuſe & plus agreable, qu’elle auroit couſteé",
-            "moinsde ſag.",
-            "Cdelay a donneé́ loiſir au Comte d’Harcourt",
-            "de s’approchaer de la Garonae apres s’eſtre amuſé́.",
-            "aſſez long-temps ſur le bord de la Riuiere de l’Iſle."
+            "RELATON DE LA VCTORE otenuë̈ pr es rmes deSerenme Repuque de Vene ous e commnmdement de utrme & Exceentme Segneur cques de Rue Cptne en on Armée nue contre rmée Turqueque en Ae prés du Port Foque e 2 My 649 E n v sSrc des rmes Ottomnes contre Repuque de Vene nynt eu pour fn prncpe quetrompere &frude P et reté́e dns tout e cours deguerre preente contnueement en ett dy vorpropre confuon &en ft vor queutce dune et touours ccompgnée de onté e contentnt de mencer on peupe en uy enuoynt queque htment de es futes ns ndonner pourtntpro te cton 3 S Hrm Empereur des Lurcs dernerement decedé eut en conderé que es entrepres mtres douent uorutce pour fondementnurot ps veudeffte &ru ne de es rmées dns e Royume de Cnde dontcroyot vurptoncenurot ps veufn dvn grnd nom re de es Bs & de es Cptnes nydeoton de es ujets dns es terres de Dmte &Bone & enfnnurot ps ttré ur on propre chef ndgnrondu Ce u ndonnve àfureus de es propres odts M que sgement de Deu fut ms pus ve & qund ee que tnce dune en fueur deChretentéPu pus vgoureue quen cete rentontre ouspupré́ A j"
         ],
         [
-            "Il auoit pris la marche de ce coſlé́ auec les meil",
-            "leures Troupes de ſon Armeée, pour joindre cel",
-            "les du Marquis de Saint Lucs mais eſtant arriué",
-            "vn peu trop tard, & apres la dé́route de cette",
-            "Armée, il ſe reſolut de faire quelque effort,",
-            "afin d’eſſayer d’en ſauuer les reſtes, & pour ne",
-            "ſembler pas auo entrepris inutilementvn ſilong",
-            "& penble voyage.",
-            "En effet, le Mardy cinquiéme du mois de Mars,",
-            "il commença à faire paſſer la Riuiere à̀ ſes Trou",
-            "pes du coſté d’Auuilar, & deſlors Monſieur le",
-            "Prince ſe fut oppoſe à ſa marche, s’il euſt eu toutes",
-            "ſes forces enſemble. Mais comme il n’eſtoit pas",
-            "en eſtat de pouuoir diuiſer ſon Armée, pour en",
-            "laiſſer vne partie dans les tranchées de Miradoux,",
-            "& mener l’autre au deuant du Comte; Et voyant",
-            "d’ailleurs qu’il eſtoit incomparablement plus im",
-            "portant de combattre ce General, que de prer",
-            "dre cette petite Vlle, ſa prudence a fait dans",
-            "etté conjoncture ce que font tous les ſages Capi",
-            "taines. Ne pouuant executer à̀ meſne temps ees",
-            "deux deſſeins, il a creu deuoir abandonner le",
-            "moins important, pour aller chercher auec plus",
-            "d’aſſeuranee vne plus gloricuſe occaſion; & qu’l",
-            "falloit laiſſer le reſte de ces deux Regimens à demy",
-            "vaincus, pour eſſayer de vaincre vne Armee toute",
-            "entiere."
+            "de eur eune Roy? L Regence de es grnds Bscreu pr des nouucux ppres de guerre & pr vne punte rmée chemner àdetruton de ce Royume y pr eurs rmes & en ute oumertre à on EmpreRepuque meme & vo tout dvn coup es prncpes forces dpées & es meeures troupes deftes Le Segneur cques de Rue Cptne prncp en on r mée nue pende ee & dmour enuersPtre e ren contre e 2 de ce mos u detrot des Chteux de Drd nee qu etot ncennement Heepont pour duettr & comrtre rmée Turqueque Berto Curno econd Cptne enmeme rmée e vnt ondre uec ept Nu res dépechez prvgnce du Segneur Lous Moceng0 Procurteur & Cptne gener en Cnde Le xeme de My rḿe Turqueque commndée pr vr nouueu B qu setot perudé de fre meux que es utres ynt prs occon du cme & deonce prtt du cote deGrece ou ot de Ache non en nten ton de comttre es notres quoy qu ny eut en tout que dx neuf Nures ms euement pour chercher es unt ges dns es nouueux deens qu pouuot uorfut découuert pr Herome Bt Gouuerneur dvn Nure Venten qu en ynt encore cnqde ce cot ous es ordres reout uec vn courge extrordnre de tenter e per nonotntonce en core que de x Nures qu commndee es qutre nynt pont de Gouuerneur e outenuoent ee memes Toute notre rmée eu nchre àute & e Cprne Rue ns conuter duãtge e reout u comt & de vn cre ou mourr pour nteret dechere Ptre on courge e ount econdé dns e mene deen pr tous es utres Offcers de rmée Lrdeur ége qus uoent de suncer cu meme queque empechement enteux e Cptne Curno fut e pcmer qu uut Ennemy à̀ penes voes & qu endom mge tres fott ue on cnon ms etnt ndonné́ du vent es Turcs séogncrent & e grentrent de cette pte mere ttque ncntmons uce perte & dommge nore comme"
         ],
         [
-            "6",
-            "C’eſt pourquoy le ſoir du meſme iour, & auant",
-            "que les ennemis euſient acheué de paſſer la Ri",
-            "iicre, Son Alteſſe fit marcher ſon Armée en",
-            "fort bon ordre du coſté de Staffort, pour y aller",
-            "attendre quelques autres Troupes qui luy vien",
-            "nent de duers endroits, ne pouuant les aſſem",
-            "bler deuant Miradoux, aà cauſe de la neceſſité du",
-            "fourage.",
-            "Deia le Sieur de Marchin eſtoir arriueé́ au",
-            "Camp auec des forces conſiderables, le Re",
-            "giment de Luſignan s’y eſtt auſſi rendu deſ",
-            "puis qelques iours: Et quand les Regimens de",
-            "Conry, de Bourdeaux, & de Montpouillan, qu’on",
-            "attendoit d heure en heure, ſe leront ioints au reſte",
-            "de l’Armée, il y aura preés de trois mille Cheuaux &",
-            "quatre mille Fantaſſins.",
-            "Celle du Comte d’Harcourt eſt compoſeée de",
-            "deux mlle Chevaux pour le plus, & toute ſon",
-            "Infanterie, iointe enſemble, ne ſçauroit faire",
-            "douze cens hommes, auec ceux de Miradoux,",
-            "que la faim a mis en eſtat de ne pouuoir preſque",
-            "plus ſe deffendre, bien loing de nous venir at",
-            "taquer.",
-            "Il y a bien de l’apparence que ces deux Ar",
-            "mées eſtant i proches ne ſe retireront pas ſans",
-            "Combat, & que l’euenement reü̈ſſira à la gloire",
-            "de Monſieur le Prince, & au bien des Peuples"
+            "5 cone on pprt deps pr eur propres quon ft Ee s pendntut pproeht e pedte pou que que tempstrce de eur fte On ft toures es dgences poes pour e mettre ur eue oe ms de queque coté quon unçt s nen peurent ren decouurr L Proudence condunt n toutes ehoe pepun grndunug deSenenumeepuque en n es notres connut eur pouruce e mtndu douńme oourne rte cnme quoe poneu Pot de que e ees de ney ehut ven de e nou uuu e dou dru dt ones one yeux ́ Sepe Re dont ver ot econpgnée dvne pe prudee em e Coneu de goerte uprop e quetos onee en vne re de cee mpor DEes Le Cure fus e premet d opner sofr gye nt u comt fnt per on ds de ece coeeen qus eceeeeuy dCpnune Rue qu nt utuous e uresoeers A vne pree refoutot erou unnun enueu dn pnre dere deen e pepnrs ure o ftpere eeoutumee e eme perus mgu nefet eods pou eseourperu oe epe u de nue s Cnreende duun pt f rt podeneoun e esoeen dns e prope veuõ tememe e ponerent ds nereeproques ueeSonénoe & vnoegeee qu eoot preger eur fu tevcoreEpne Rse prt oue rme fur on te & quoy ede nee dns emonfoe concennce 3 hemee denoge vn r our ru ooutretououutoutepete octe &e en compgne du Curno u e & ps vgoureux mot cnrroen fre u pomervoreeene pourueu qvouuen uee on erenpe &reuton Aes teft donmer e fgn pour der tquet En eydms on pote òe oy oe en eureté ̀ eue que e du Pnoon e e o ere e ven t e dedns euron os mes t de ong que de e B"
         ],
         [
-            "qu’il deffend. Ce que nous pouuons raiſonna",
-            "blement eſperer de la valeur de ce grand Prin",
-            "ce, du courage & de la fideliré de ſes Troupes;",
-            "mais ſur tout de la Iuſtice de ſa cauſe, & des",
-            "vœux que font inceſſamment tous les Peu",
-            "ples de cette Prouince pour la proſperité de ſes",
-            "Armes.",
-            "FIN."
+            "6 es Turcs ne pouunt srgner qees nores ogotàes venr ttquer ptrent eur démrche pour vnefute&mrent à crer des nures ux notres uee tnt de ópr que de confnce ns setnt eué vn vene d Ponetf uore qu emot etre oudt pr queque oge du Cees Turecs voynt es Ptoes de nos vàeux toutnésves entreée du Pore comnenyren de ps dngereuque de meprer on Ennemty frent uncr ouss Mhoefe ordre versonche du Pot tds que sttesetnte portez dns e Port meme à pene voe o Cptse u ft per proe der donner fonds fouses Proües des v eux ennems ce qu fut puntueement oxecuté L re fut precptée &treude pr ondcedet coups de cnons & mouquetdes qu peuuoen de os prts uec des crs& deurensents efroyoes de prs des Tutcs qu rempoent tout de terreur & dunt ps quouttre e nomre de eurs odts or dnres y utns conterChorme dx m e hommes t Leutnsquenres tou gens dehte nouueement uez à Cntd nope Le comt dur deux henres nornotte o pneherovctore e Cptne Rue rmé de totes peces u meu de on veu encourge es fes vne Gde des Ennems orde e veu Ecofos de pueurs Leutus so? toent ettez dedns qunde Cptne Rrueccouet ô reuement à or fecouts & enfn pres vn comt opnts met à fonds cette Gee à coupe cnons Le Cprne B vnt tcque vesureomn e v eu de Re msen futm treté qu y perd e des ens & neut ps pus de on heur en tyvouhn ggé e ord du Curno oùperdt encore euconp de odets eon que es Ecues os ds depusfuc ué hyen cette ttqus Les deu eux Mrcnsdonme vn ppoos EBeue utre upter orderent v grnd vfeTtrepé vne heure de comt sen rendrent es tres Enfn esGeres & Gefes enenes etneén utte d os cotez àveur des uotres q dechrgeoene unou"
+        ],
+        [
+            "perr chge dechnes de coud de cs de esues morceux e ervoyntnmorement endom ge perdent corg & eomnençnt d recher tournent eun e dosAggeneut uuuotdeetnefore oeure e Cpuue comnnd de mere e euneuvneu deuesos Gees & deuxGeresdee ee ouereounue enenernnue oruerefe du Port ncommod du commencement no ququo y e u pres de vngt res de mnrue t oeus do uques A epe heures de nre uunt ee e ee ee de ne e mn e en de eur Vdentn e pe ones pnus preus onnousot dn P endet &erepndt eus fmnesneeeeunepon nune r p nure rt ue uen v note pere dnger contrgr es notres A orer du Pore quoy Sute eeopdsrre e pourn en e ennur ueenr Dpnunes n V euu e ucpe qu ooenree e o Ee pee rhoos oro rf nnruuepn e oeene de one peur eonne ue nre ee pn qu e oter d ue frnne y eur eneote pne eon ee e on er ue de erd d e eeuer en ot de deueodreee eon nuune onSds eue e pmee defre euunen fop e oneepe vones derde p Dpun uudone e deeorr de eur one noee yse Pue promt p de route Gute rme quvnt pogń & tuu eonoen epunrpupunu e en e ne eon ers Vreroueue demoe deeun eonpgnon Ve denruon de eur o ou mos Ocen y onr portez uee vne rdeur & vn pe dgne dve uge mnone ehun enuy ygn degore &dcFhonneurue eques de Rue Cprne pencp & Bertuc Cu n eoondu oommndemeeout eoeote e Onees Sue dun unnruneueenenus e"
         ]
     ]
 }

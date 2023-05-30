@@ -1,166 +1,87 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "lettre",
-            "faux"
-        ],
+        "genre": "lettre",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-18",
+        "creation": "1651-04-05",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-28",
+            "@when": "2022-10-06",
             "@who": "AB"
         },
-        "titre": "Lettre d'un milord d'Angleterre, écrite à la reine\n          régente, à Saint-Germain-en-Laye, sur les affaires de France et d'Angleterre, traduite par\n          le sieur Du Pelletier.",
+        "titre": "Lettre d'un marguillier de Paris à son curé sur la\n          conduite de monseigneur le coadjuteur.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1886_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1885_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRE DVN",
-            "MILLORS",
-            "DANGLETERRE",
-            "E Y N nec erE",
-            "lee enann lre",
-            "airode rune & d’anelame",
-            "eiaa",
-            "r",
-            "Pa ranmqaes aaua ule pon cCui"
+            "Lettre dun mrguer de Prs à son curé surcondute de monsegneur e codjuteur Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté8 jun 202Jernços Srsn Lettre dun mrguer de Prs à son curé surcondute de monsegneur e codjuteur PrsSns Nom65 Venne Bothèque ntone dAutrche2739 ALT MAGTrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs885 Lettre dun mrguer de Prs à son curé surcondute de monsegneur e codjuteur Prs 65 9 pges Le crdn de Retz qu nous pprend quee est de Srrzn secrétre du prnce de Conty dt que cest une fort ee pèce ( p 258 de ses Mémores co Mchud) Myjuge u con trre trèévèrement dnsnote dep 392 de son Ve vo ume On se rnger ssurément sns héster de vs du crdn Personne ngnore que PtrupuéRéponse du curé etcprose ettre Retrte du Codjuteur 65"
         ],
         [
-            "Lettre d’vn Millors Anglois eſcrite",
-            "a la Reyne Regente à ſainct",
-            "Germain en Laye.",
-            "MADAME,",
-            "voſtre Majeſte ſouſfairas1",
-            "luy plaiſt que ie luy diſe auec tou",
-            "’ ſorte de reſpect & defranchiſe,",
-            "eeque iepenſe des troubles de ſon oyaume.",
-            "L’excreſe paſion que i’ay touſiours eue pour",
-            "atae,faitque i’enparlerois, la langue",
-            "aaee!’ aſez de neteté pour exprimer les ſenti",
-            "aans demon cœut: mais ie penſe qu’il ſe treu",
-            "a quelgue fidelle Erançois qui prendra le",
-            "i ide la naduire. C’eſt ce meſme cepr qui",
-            "roas pale, MA DAME, & qui vo droit",
-            "auoi yne occaſion aoins lugubre pour vous",
-            "itteanir; & des naenes de ioye au lieu de",
-            "eellesdelaraes. l’ay d’autant plus de compaſ"
+            "LETTREDVN MARGVLLER DE PAR S CVRE Surcondute de Monegneur LE COADVTEVRAPARS M DC L2S"
         ],
         [
-            "4",
-            "ſion des maux que ſouffre voſtre Eſtat que ſ’a",
-            "icy deuant mes yeux vn Royaume tourt e as",
-            "mes, quoy que chez vous la cauſe ſoit biedif",
-            "erente de celle qui porte le flambeaui de la",
-            "guerre dedans cette Iſle La France n’enreus",
-            "qu’à quelques partituliers, quirabuſant de lau",
-            "rhorirte du Roy ont pillé fes treſon, &l’Anle",
-            "rerre s’eſt reuoltée contre ſof riee legiiéi",
-            "le ne pretends pas de vous deployeſ ity lese",
-            "eres qui one colore leut armemnt, ituſnt",
-            "que ie m’eplique ſor les ehioſeqpl yQusro",
-            "Chene Cependaintil fautauoue MAlDME",
-            "que quoy que ces mouuemens n’ayent auru",
-            "rappote enſemble, quds peuuenefanrebpe",
-            "cou de tort à̀ voſtre Regenee & àlapaif",
-            "d’n oy Pupile, commeilsouoas ie",
-            "coup a vngrandiMonarque - doaarloorpſ",
-            "queemnerſe le phoſne, & deehleeoadſ",
-            "oae ’T’out ce que ieditayeu ce liemà ûoi",
-            "conre par larenommee; mais ce n’eſtpqomans",
-            "renomme quineſe plaiſt qua debiea nr",
-            "ſonres eſludes cC’eitecele, MA",
-            "e it oque des verite importames,& quhnt",
-            "iruite par des Politiques des-intereſſez. S",
-            "cette"
+            "A e"
         ],
         [
-            "5",
-            "cette derniere auoit la liberté́ d’entrer dans le",
-            "cabinet de voſtre Majeſté, elle vous diroit que.",
-            "rtoute la France ayme le Roy voſtre Fils, &",
-            "que Paris peut ſubſiſter long-temps ſans in",
-            "commodité́, quoy que l’on vous ayt fait en",
-            "tendre le contraire. Certes ce n’eſt pas vn mi",
-            "racle peu conſiderable qu’vne ville ſipeuplee ſe",
-            "ſoit maintenuë ſi longtemps ſans ſeditions, &",
-            "ie penſe que cette vnion des Citoyens auec les",
-            "Auguſtes Senateurs qui y rendent la Iuſtice, &",
-            "dont la probité & la prudence ſont inimita",
-            "bles, a merueilleuſement ſurpris, ceux quis’en",
-            "promettoient tout le contraire Elle vous diroit",
-            "que voſtre pieté́ eſt intereſſee, lors que les pau",
-            "uares & les innocens ny trouuent pas toutes",
-            "choſes auec la faciliteé́ ordinaire, & que l’a",
-            "mour qu’ils auoient pour voſtre Majeſté́, ſe",
-            "peut conuertir en haine formee. Elle vous di",
-            "roit que des Prelats qui ſont moins illuſtres par",
-            "lanaiſsance, que par la vertu; que des l’iinces",
-            "dont la fidelité vers l’Eſtat, eſt aſsez connuë, &",
-            "dont les exploits ſont les modelles pour les He.",
-            "ros naiſsans, ſe ſont oppoſez genereuſement à",
-            "la tyrannie eſtrangere. Elle vous diroit que les",
-            "B"
+            "sA 8 A Erre TSSSS Lettre dvs Mrger de Prs d̀ on Curé rcondute de Monegmeur e Codjuter AONS EVRy eu Adus dtereé urcon rte de Moneur e Codjuteur & uunt es or dres & e votrejen y ft prt ux pus notes Bourgeos de mon qurter Cet vne choe enfcheue de vor ce Pret redut à compoer des Apooges dns vn temps oùne deurot pus uor durre penée que de contnuer es ntr gues fn dentrer dns e Mntere S es mouue mens qu nous gttent depus qutre ns ne do uent ceer que ors qu y ur prtPeut à Deu pour on repos & pour e notre qu y feut de en ety Sns mentrfut duouër que cet vn homme dmreet çuntet ferme & on vot dns toutes es ctons e crctere dvn eprt poué dvne ee mtonet eo quent &ne ft ms meux que de mettre uy mememn ̀pume pour fre on Pnegy rque etnt notre Archeuequenyguere dpprence qu vouur nous dre des choes qu ne ont ps & pus qu pue que uqucyn pont eu dutre ojet quepropre gore &"
         ],
         [
-            "ordres, que les communautez les plus religieu",
-            "ſes n’aperceuront iamais le procedeé de ceux",
-            "qui vous ont circonuenuë Elle vous diroit que",
-            "c’eſt expoſer la France en proye à l’auidité de",
-            "les ennemis, à qui l’on doit mennger les vies",
-            "des Chefs d’armées, & des ſoldats que l’on ne",
-            "peut mourir auec gloire quand on meurt en",
-            "combattant contre ſa l’arrie. Quel regret vous",
-            "ſeroit ce de voir porter le dueil par des l’rinceſ",
-            "ſes, qui dans cette conioncture auroient perdu",
-            "leurs maris, puis que les plus aguerris, & eeux",
-            "que l’on nomme les Conquerans, peuuent",
-            "mourir par la main d’vn Citoyen qui ne ſeraia",
-            "mais ſorti hors les murs de ſa ville?Il n’y a point",
-            "de plus belle Couronne, MADAME, ſut",
-            "la teſte des Princes, que celles qui leur ſont",
-            "données pourauoir conſerué leurs ſu jets, dont",
-            "ils ſont les Peres. Ceux qui conſeillent voſtre",
-            "Majeſté n’ont pas bien eſtudié vn docte hito",
-            "rien, qui veut que les Princes ayent ſoin que",
-            "les choſes qui ſont neceſlaires à la vie de leurs",
-            "peuples, leur ſoientvenduës à vil prix. Quantà",
-            "moy ie m’imagine & qu’ils ſont ignorans &",
-            "mal cieux. Mon ſentiment eſt confirmé en cet:"
+            "4reputton( penée dgne dvn grnd Pret) etme qu et ̀ propos de e crore Cependnt comme es entmens des hommes ne ont ps rouours emes ors que y ftectute de on ecrtset trouué des peron nes fort en ntrutes des choes de ce monde qu ne ont ps demeurées dccond de tout ce qu mer en unt & prce qu et mpor tnt que vous çchez ce qu fut dt dns no tre conuerton y crû que vous erez en ye que e vous en fe prt & que pus quvne pette ncommrodré́ moge de grdetchm re & mempeche de pouuor vous er ren vte e vous fe çuor pr ecrt toutes es o erutons que on ft ur ce mnfete de Mon feur e Coduteur Toutecompgne dt qu etot vry que e our de empronnement de Moneur de Broue(qu fut ce me eme e our que on chntot e Te Deum pourqutréme te que Moneur e Prnce uot ggnée) Moneur e Coduteur ft protre tout e zee quvn Pre t dot uor pourconeruton dvn on C royen qu dt es entmens ̀Reyne uecge eroté & quynt eté trcteé de trun du peu pefe cognotre qu uot du credt dns P se me ouuens fort en encore de ce que e Mercredy u or ou me vnt dre deprt & à̀ ou"
         ],
         [
-            "te rencontre, & ie veux croire que voſtre Ma",
-            "jeſteé pretera moins deſormais l’oreille à̀ des",
-            "conſeils qui luy ſont pernicieux, & qu’elle fera",
-            "reflexion ur cette belle maxime, que la bien",
-            "ueillance des ſujets enuers leur Prince eſt com",
-            "me vn puiſſant corps de garde qui le protege",
-            "plus aſseurement, que les eſcadrons de ſoldats",
-            "qui le pourroient enuironner. Ie ſçay que vous",
-            "eſtes ſi bonne, MADAME, que vous ne",
-            "manquerez pas de conſulter cette meſmeſbon",
-            "té ſur les choſes que mon zele m’a obligé de",
-            "vous écrire auec peu d’ornement ll en eſt en",
-            "cela comme de la beaute naturelle des femmes",
-            "honneſtes & modeſtes, qui eſt plus eſtimable",
-            "que la beauté fardée des Courtiſanes débau",
-            "chées. Mais ie le dis auec toute l’affection & le",
-            "reſpect qui ſont deus à voſtre Majeſteé, de qui",
-            "ie ſuis,",
-            "MADAME,",
-            "De Londre ce......",
-            "Le tresLhamble & tres-obeiſſan;",
-            "ſeruiteurs.. .es"
+            "5 &s Qurtoers u & des rdéesqus e rdon etormort e rMtn quuom donné n nmups onet f djetOn t q eétotvrày que e Roy sent re dré à nct emn Moneur e Oduteur vft demmer̂Pssj ee en quens & oy rmGehnhoN Reyhepd ore du cotrtree ftdreftex houde pu de otrto & ed ne egnntpntdpo ̀erone por emo nos runomue nos rroupes ortoent pouroràequguhto? prees htngut rhme àpostedeVe & euodutgotupfe encdct O demeur dcoonupe entreté ceonmoés Mo n ednod à Ce mpgn dhef ene etsorndre ute u Crdrd MnMesondup se tot vyse ondt on dudtrn ûuounurSor uee eft ondeoqupond grdépe pus ngeémps sdeh uped dfo d Moneure Codut eur ertotde M nque dns e Ps Roy Es en edeousutns vousqu evrpeur sphs ndsen fmes cmdésL Oodt qetot vrqverfne ynt? roppoeue ûrh zrneCnuréur uy ft offres de eruce &desdhqo dêcehyp x etenour onefhon q ur Le edSonLms"
+        ],
+        [
+            "re s nns de on Atee Royde ue de mettre es rmes entre es ns du peupo h geãt en que ce erot de trop grãde cõeque ce pour e eruce du Roy & pour e epos pue Ons demeur dceort que es Prnces ye eté espronnez Moneur e Codoeu me ngeen eprt de MoeurDuc dOr ens qu e ft decrer hemee eonre e Crdn Mzrn & pour erté́ de onfer e Prnee s pres uor onemps gé ̂ Monx é Coduteur prt cette ccdute pour rende euce u Prnce ou pour es ncerets pr tcuers toutecompgne eoncut ques eue pû cer e Crdndu mntere u fre or t Mefeurs es Prce de proeut p onqueé de e fre qoe efotfe cout on po e pour e rendre mûtre de eursperonnes qus ors que e Mreeh de Turenne ppro chot de Prs oouot quon es met dnsBte & que ors qu vr quon es eondu otuhvre deeperns de or rer on de en & ppehendt e retour du Crdnpres te de Rhetee ogntt u prty ds e eurs es Prnces pour trouuereureté & que oe fuc ecore à des condtonsrudes qu voun? ptote fre ecognote e Tyrn que e er eude Moneur ePrnce nm demeue ps deeoe queute de ous es eens de Moneur e Codnteusr peus"
+        ],
+        [
+            "eremrqe dvne vertu nérne qu toutes es ctons pees de oneur e Ptnce euent eté condmnés pr toureFrnce Au contrre on dc quenuot veu ouuent on eur e Coduteur occupé ̀ chnter des Te Des pour es ees & gorcues cons que nuoneur e Prnce uot ftes ms que o eur e Coduteur nuot pont encores uques cy otenu de on Chptre vn eu Te Dçs pous cout ce qu uot frOn dt qu etot vry que ots que moneu epPtnce uot demndé éognement de ceuxqu etoent dns es nterets du Crdn oneur e Coduteut en uot eté dus & que pour e fre encener pr e peupeuot fs nprmer on ppnon ms quequvn dot qu uot en cette occon mnqué à ce qu ot proms ̀ M de Lyõne dns es ecrettes con ences qu uot eus uecque uy & que dnsdeerton qu e ft ur e mrge de on eur de ereœuruot uuy feremeneçoncuons de eeurs esgensdu RoyDns endrot o et dt que h e Codu eur eonentos u resout duCd Mou pren queqe ecret enggement uee uy cmmeuot de ft utrefos os qu uougé ne cer poures nterets) penot co qu ut cqus dhoneut &s de edéondt quemhe"
+        ],
+        [
+            "Fee &t pour uy ee netot de que trop vry?Sueeqe on dt que pour décrer u e Cod? hteuronset dué depus peu de puer qu otu Ps Roy quon prot de efreM ntre & de e rettre dns es cones du Roy on demetf dccrt quechoe eftot vrye quE dne e Chereueuot negocé on ccosà modeent quuot eté ntrodut cheRes neecrtterment pr Courtos qu uotrepondur àefté de me Duc dOrens du Prement & dupeupe&quëtot f̀ce de ger q y uot ong témps qu prot untere que ques protettons gu ft du contrre quete tte qu uot fte de Luxemourg nuorpe té ongue & quee pcqunt duor pur es grndefrs vn meme eprt que Docetn d Chdt euntsetot come e premer en rot ennuyé deve contemptue & côme ue te tepéty duor quttéd Cour pur eCofteoë demeur ps detodoqq dut de doo cs de Prseut refué́ puets fos echpeuà de Crd & pteferé́eütdtpeupe à cette eme entsdgtems u cohruordequ ndes prfncprôns q e détchu des neerett de A Pehte de Coneyfuttque ce Prnte con entt pot̂conmodement des ffes que on donntA deRuere o Cpem qetptenoggemnttoprty OQ"
+        ],
+        [
+            "3On ne defneur ps u dccord qu eut rous jours mepré de e fre connotre pr ect defortune & que ors qu negocot pour erté de Meers es Prnceseut refuépeu de Crdn u contrre on dt que de rnt dvn coteé de ccher on mton & de utre dy tsfretr vn ecrt prtcuer de M Arnue pr eque edt S Arnutsogeot de fre en orte quee Prnce econderotno mnton qu eperot quee puc dOrens deuor fre deperonne pour e CrntPour Aye dOrcn on dt qu etot vry qu uot refué́e ms on expqu certe ffre en nous eurnt que dns ccommodement qu uot ft uecCour on uy uot pro ms e premer Benefce condere qu vcque rot & quynt vcqué vne Aye de eu coup pus grnd conderton que cee dOrcn e Crdn quvouot retenr pour oy quoy qu fut onggé́de dnnerpremere vcqunte uds eur Coduteur ecrut à Meeurs e Te der & Seruent pour fre en orte que monfeur de Codnteur e contentâ̂t de cee dOrcn que M e Teer nevouut pont e chrger de ette ne gctor que Seruent cccpt & que Me CoduteurcefurAhye dOren ms non ps utre qu etondvu pus grnd reuenu deerot urqeM rCoduur e v Svvuueo"
+        ],
+        [
+            "dns es nterets du Mzrn qund enen trerot preentement dns e Mntere &tout e monde neut ps eté en e qu y eut eté et pres expuon du Crdn toureCompgne concud qu etot mpoe dns ett reent ds ffres qu y entrt ns uor trré uec e Crdn queReyue conerunttouours eucoup dffecton pour ce Mntre tous ceux qu pretendoent receuor queque gr ce deMeté commençoent etement de eur fortune en uy promertnt de contruer eurs ons pour on retour & queReyne presortue du Mzrn neut ms conent que M e Codjuteur eut entré dns e Cone du Roy puqueMjeteé eut pprouueé́ pr ce con entementcondutte de ce pret quee ouuent ceue dngrttude & de fcton Qunt ̀ rce oùet dt que M e Cod jureur et trop prudent pour enxfr dns e Mn tere prvoye du Mœrn & quencone qu e veüe ttrer pr des protettos contrrescçt en qu nyps trop de confnceà̀Cour & que es ches pees peunen eree fondement dvne te& vertoe erne c uh dt que monfeur e Codute nuopg ujes de e pmdré dedour pus qoutre dgnté ucqueet pretend ete à couede doe ee de enme e yt oeu"
+        ],
+        [
+            "n rnt dutres grces pour ceux defcton touours mnqué à ce qu uot proms à̀Rey ne & à esmntres qu etot en pus heureux queM e Prnce qu uot touours fdeersent eruy eurs Mjetez & qu cependnt uot eté recompené de tnt de eruces pr vne pron de treze mos reconneuë nute pr vne Decrtonm du Roy verfée dns e Prement & que cetot à M e Prnce à dre que es choes peées peu uent etre e fendement dvne ute & verte crnte O exmn fortement rtce oùet ds qu ne fut pont rsop éeuer des hommes dont nous ne pourrons ps etre es mtres & ouù̀et psé de ces nouuees ccutons enuoyé́es u Prement contre M e prnce & des mxmes de cette potque qu eurs que e credt et pus dngereux dnsperonne des Prnees que des prteuers on uge que tout ce ronnement prtot dvn eprt fort mhteux & dont es pro jers eftoent epouuentes pus qu uor re grer de ne pouuor e rendre metere dungRoy h M e Curérque veut dre ce one dese ments quvn rret doue nnur qms epr des Peupes Cé́t eurt Angos quonft ruer depus peu prmn du Bourreuqueque hoe de pus pernceux? ennt uxecutonms thun dtt queDe"
+        ],
+        [
+            "ctton de S AR es uot detruttes ̀con fufon de ceux qu es ont comneuement n uenté́es que tous es Mntres es duöoent & que ces omnes montres de e dton qu uoent donnéce pernceux cone à̀Reyne nuoent grde de e nommer de peur detre dé chrez pr es fdees eruteurs demon Roye que Me prnce demndot utce tous es ours que oouot verptence pr des des que on vouot ggnetjorté du Roy pr des contmuees reres & que ceux qu donnent de tes cones ont vne Potque que tous es ujets du Roy douent pprehender qu ny not guere dprence qus euent de en de eur fre utce qund s uroent u thorté en mn dns vne Mjorré pus qus 2 refuoent u premer prnce du Sng nute ment comné dns es deners ours deRe genee qus vouent pr cette codutte o ger M e PErnce à e retrer de peur qu nefut e cemon de eurs fctons & otce de toute euts ntrgues Que es remontrnces du p e ment urce ujet uoent eteé tres vgureues quee premer redent uot dt quon ne pouuot doucer defderé́ dee prnce pus qu uotouuent ceée uec on ng Roy & quee pper qu eté́ enuoyeé u Pr emens neut porté e uo ddRoy on eus rtteé conmme"
+        ],
+        [
+            "3 vn ecrt qu netot pont reueftu de toutes es formes neceres Vous entendez en que ce veut dre ffé & ceré Sur rtce ouet dt que es prnces qu nous promettent uourdhuy de ees choes es ont utrefos promes & ne es ont ps tenüs & quuprunt e ocus s uoent donné proe qus eroent nos protecteurs & cependnt quon es vt ncontnnc pres àtete des trou pes ennemes On eur qu etot fux que M e rrncee fut ms enggé uec M eCod juteur & qupres e retour du Roy en M e prnce demnd à m e Codjuteur en ence dee Prnce de Conty dede Chm ptreux & de trente utres peronnes de qu teé́ s etot vry qu uy eut ms donn cune proe denggement & que M e Codju eur demeur dccord qu nen uot ms re ceu dee Prnce ce fut euré pr cnq ou x qu ftoent àeure de ecrt Au reproche que on ft à̀e prnce duor vouu fre perr MCoduteur pr des voyes contrres à nos mœurs quequvn dt que ce eureux procez uot cué en du deor dre ms qu etot en m é de dé́nmeer toutes ces ntrgues qu etot certn que e Crdn sen etot eru pour perdre M e Prnce ms que c uot eté de concert uec M e Cod"
+        ],
+        [
+            "4 juteur qu pus de qunze ours upruntotfcron ot tous es ors u ps Roy dégué uec des hts de coueur & des pu mes que cetot uy qu uot prs on de pr rn Decoutures qu uot recommndé u Curé de S en de Greve qu e tnt cché́ dns e co her de on Ege durnt tout e procez que cetot M e Codjuteur qu uot octé́ mnte de Decoutures de Demrtnux Cn to & Socndo Enfn que depus ce temp̀ on uot veu M e Coduteur en prfte nte gence uec es ennems de M e prnceDns endrot oùet ds que m e prncereuee es cones que m e Coduteur uy uot donnez uec ncerté de cœur & que prre ponene ne ps oument de nuor ren ceu du chngement de cone qu fut ft à P ques derner Chcun e éer quee Prnee uot ren dt que tout e monde ne ceut de ms quee Coduteur uot fort déguévetté dns e Prement pus qu nuot ps de que urpropoton qu uqe ftee rnceuotrepondu qu nentn dot pontgerte des tues & des pots quon ette pr es fnetres ce qu eut ft uger quee prnceot vncé qu np fut vry & qunt u hgement de Oonejon ne treuu quetrop de éutfcton dnsrepone de m e Pnce"
+        ],
+        [
+            "6 Sut rtce oùet dt quon ne peut uor du tout de confnce àe prnce que cet tr ur vn e mouunt & ur des epernces ncer tnes Tourecompgne urgequee oduteur ft cette pnte pour queques nte rets prtcuers pour eques on ne creur ps qu fut ̀ propos dpprouuer toutes s n trgues qu ft uec Mdme de Chevreu e pour e venger on dout que noos ne deuons uor que e en puc deun es yeux & on demnd en utteon deuot e fer à vn homme qu fts t rusche de verte à es ces qu proteteme fos e ourqurenoncé ux ffres qu ne e mee que de fer des noues & qu cependnt court e our &nuct pourcer & veuuec temerté dputer drs prse pué u premet Prneedng à̀ qudot outeotede repect & ft me ntrgues pour duermo Roye dontreünon e e eu moyen pour donnerpx à EfttOn demeur dctd que rnce deuot prendre confnce àprod Roye poucen que es ennems neuent pont ez de cndt dns e Cone por freprendre des reouton contrres ux onnes & uftes ntetons d Mjeté́ 3Ondt qu etot vry que M e prne ne d"
+        ],
+        [
+            "ndot pont de pce forte pour otge qu ne fot ps comme M e Coduteur qu vou ut uor e mont Oympe pour on my & peureureté de ceux dece ors qu e recon c ms qund on eut queon mnquot de proe à M e prncedeuot ttendre du Pre ment & du peupe e meme ecours qu ende receu on secr quer ere etotforte pu quee Coduteur en uot repondu depus peu àCourSur e reproche que on ft à̀ M e prnce de ce qu ne v pont u rs Roy que es ox fon dmentes y ogent & que e prementordonneé cheun dr qu etot te que M e Prnce rendt es repects u Roy que on Atee ne derot ten uec tnc de cheur quetoutes es ox fondmentes de Ett etoent en o erues es prnces du Sng oroent utrtment conderéz dns e Cone du Roy pps qus ont es egtmes dmntrteurs de Ett du rnt es mnorrez de nos Roys que e Crdn Mzrn comhe ntrhger nuros ms eté dms dnsntere que Meeurs de Gondy comme erãngrs nuroent ms eu dentré́e dns e Cone de nos Roys qus nuroentms efté poutueus des premers enefces d Royume que M e Coduteur ne erut pont jour huy e eft de vouor temerterent er"
+        ],
+        [
+            "37 er duprs ue os Pnees e frottrop heu epunde e puoreonue dnSnque de eoone qunure ons que e eu en d dfrede e pnte qud ucors tnuon futu deu deConpgne &e que enuue enoes ny eot pont eourme ue ens eouonsguor rnon quee enued er nee nrenenr o de e ere er voueho fort u ecœus des ennems de e Pnce qu ne oureoent ps nt erodunn pe de on Aee qeuy dnmen ceonen uor nne qeque deenonre f peen e u que pus douteuoens eueoup dn penee de e vot orurn de rendre conou pepoe que onvooot pen que en ueee e oouerneeptenrt que eun nde nt ens pus qu u pupnent q eutneun r e enre e qeeonder u e ernen re Se deno ens de de n pemenre de e ee des qomne qu on uy np e r nnn edne e un ue e mneou ooune nr enr ep eunr eenees pne e pre rneone dee ne s et nccere e eneur dcrod qfot que ne Puee eonusre pnn eor puon e e puhoue &s pn oune ne doun que eue er e ntenton Sur rtce oùet dt que M e nce prosee E"
+        ],
+        [
+            "de ne pont er ̀Cour tnt que on metr dns e Cone des gens contre on con nte ment en on dppeer cette Decrton vne rrçeqneton urée ueecCour on demeurs decord que Me Prnceuteujet de crndre que uthorté du gouuernement ne t enur es ons de es ennems reconces & chè enn dt que cetot vne choe depore de ouf fr que nteret de eux ou ros prteuer mette Ett en confuon & que es Peupes toent en nnocens de compreeur pe on & e vous demnde en eete Cureur peenee et pus necere ̀ Prs que eee de nosPrncesQuostucrees de Dme Anne & dereehe ouE e pmonde de que eetoent des enfuu de eœnr duez pre Codjuteur quy eros ns que n &e ure chntot es Lecons du Sreoure queuruot enegné & qu ne de uot eeuder de eur docrne peronne quet uy meme ms en meme temps toutCompgn qu e uot hdore dundy e moequ du hu rd qu on pretend quee Codjuteur y cou ut ooque cene fut quune tereur pnque que depun meme dft ure des coopne e ms de d e Prnee qu ont ncpues de fes ctonsce qu fut de ̀ pus prés o que e fos"
+        ],
+        [
+            "9ecture de Aus Denterefé vous ugerez prque nos Bourgeos ont ex en ntruts & qus ont en s de toutes es ntrgues que ces eprts roü̈ons qu nont ft utre choe que de cer toute eur ve contnuent de fre pour trouert Ett &fme Roye TouteCompgne e eunt dt qu etot fce deu ger queconfuon dns quee nous nous voyons n pont dutre cue que e meconten temér de Mdme de Chevreue & dee Cod juteur & quon ot à uger à ce qu yde gens dhonneur & de ons Frnços dns e Royume s etot ute de petecuter vne rn che de Mon Roye dezpoerfortune de tous os prtcuers ux deordres dvne guerre cue Afn dumer e feu pà rout e Royu me prce que M e Prnce de Conty n pont e poueé Muemoee de Chevreue & queM e Codjuteur n pont eu e chpeu de Crdn quoy que Me Coduteur oteue cue qu pr des empreemens trop ntereezempe ché que e mrge nt eté executeé & que M e Prnce nt ms formé́ dotces àpr ton ou M e Coduteur pre depus e com mencement de toutes es fctons qu fomente dns e Royume N"
         ]
     ]
 }

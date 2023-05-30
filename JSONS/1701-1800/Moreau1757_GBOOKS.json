@@ -1,181 +1,78 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subject": "Parlement de Paris",
+        "genre": [
+            "narration",
+            "relation"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-09-26",
+        "creation": "1652-02-27",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-09-13",
             "@who": "AB"
         },
-        "titre": "Journal de tout ce qui s'est passé par tout le royaume de\n          France, ensemble ce qui s'est passé dans le conseil du roi et de messieurs les princes et\n          du Parlement ( 23- 27 septembre).",
+        "titre": "Journal de tout ce qui s'est passé entre l'armée du roi,\n          commandée par M. le comte d'Harcourt, et celle de monsieur le Prince, depuis le 22 février\n          jusqu'à présent, avec les particularités et la marche de leurs armées ès pays de Guyenne,\n          Périgord, Xaintonge et autres lieux.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2026-04-26",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1758_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1757_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "IOVRNAL",
-            "DE TOVT CE",
-            "o l e s e e e e",
-            "s leee",
-            "es",
-            "t",
-            "eieer"
+            "Journ de tout ce qu sest pssé entre rmée du ro commndée pr M e comte dHrcourt et cee de monseur e Prnce depus e 22 févrer jusquà présent vec es prtcurtés etmrche de eurs rmées ès pys de Guyenne Pérgord Xntonge et utres eux Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Journ de tout ce qu sest pssé entre rmée du ro commndée pr M e comte dHrcourt et cee de monseur e Prnce depus e 22 févrer jusquà présent vec es prtcurtés etmrche de eurs rmées ès pys de Guyenne Pérgord Xntonge et utres eux Prs Jcques Cément 652 Lyon Bothèque muncpeRés 3095TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs757 Journ de tout ce qu sest pssé entre rmée du ro commndée pr M e comte dHrcourt et cee de monseur e Prnce depus e 22 févrer jusquà présent vec es prtcurtés etmrche de eurs pys de Guyenne Pérgord Xntonge et utres eux Prs Jcques Cément 652 6 pges TrèreReton royste des comts qu ont étésute du sége de Mrdouxprose nrrton reton Sège de Mrdoux 657"
         ],
         [
-            "3",
-            "AsâûiûârAaAAaûtâ",
-            "dg gntg",
-            "INT D",
-            "N AI",
-            "IV IV A L",
-            "1 r",
-            "DE TOVT CE",
-            "Qui ’eſt paſſé par tout le Royau",
-            "me de France.",
-            "EsoE cE I EST PASsE",
-            "dans le Conſeil du Roy & de Meſſieurs",
-            "les Princes & du Parlement.",
-            "D Paris ls ;. Septebre re.",
-            "E Comte Dieux ſortit le z;. de la Baſtilles",
-            "l apres y auoir demeuré prés de a. mois pour",
-            "LAle different qu’il auoit eu auec Monſieur",
-            "le Prince ſur la preſeance qu’il diſpuroit au",
-            "Prince de Tarent, Son Alteſſe Royalle les a re",
-            "conſilier les ayans fair embraſſer l’vn l’autre.",
-            "Le 4. le Comte de la Serre qui auoit accõpagné",
-            "le ſieur de Ioyeuſe de S. Lambert pour aler en",
-            "Cour retourna icy auec des propoſitions plauſbſes",
-            "pot la pais patiuſiere: Scauoir vne Armuiſtie en",
-            "A ï"
+            "OVRNAL DE TOVT CE QV SEST pé entre Armée du Roy com mndée pr Moneur e Comte de Hrcourt & cee de Mr e Prnce depus e 22 Févrer uqù preent Auec es prtcurtez &mrche de eurs Armées es pys de Guyenne Pergord Xnctonge & utres euxA PARS Chez ACQVES CLEMENT à̀montgne ncte Geneueve u Roy Dud M DC LAuec Permson"
         ],
         [
-            "4",
-            "la forme demandée, la reü̈nion des deux Parle",
-            "mens à Paris & quelque ſatisfaction’ pour Mon",
-            "ſeur le Prince ſans qu’il y ſoit parlé du Cardinal",
-            "Mazarin. Monſieur le le Due d’Orſeans fit iey",
-            "venir du Camp Monſieur le Prince pour exminert",
-            "es propoſitions, quant à la paix geerale le ſieur de",
-            "Ioyeuſe eut ordre de ſuiure la Cour qui ſe rédit le a.",
-            "à Mante d’où le grand Canfeil eſtoit party le iour",
-            "precedent pour Vernon, afin de faite loger plus",
-            "commodement la Cour qui deuoit hier ſe rendre",
-            "à Ponthoiſe & de là ̀ Saindt Denys.",
-            "Le meſine ionr Monſieur le Prince fit conduire à",
-            "ſon Camp grand nobre de Grenades & de Bom",
-            "bes auec 4oo. Rondaches pour tomme bn ́roit en",
-            "venir a vne attaque des lignes.",
-            "Le 25 Son Alcſſe Royaſle donra des paſſeports",
-            "aux Elcheuins & au Proeureur du Roy de la Vil le",
-            "qui partirent le lendemain auec les Deputez des ſix",
-            "Cps des Marchands pour aller trouuet le Roy,",
-            "-& ſupplier Sa Majeſté de donner la paix & reuenir à",
-            "Paris, & pour informer Sa Maieſté que les nbouveaux",
-            "Preuoſt dés Marchands & Eſcheuins s’eſtoient de",
-            "mis de leurs charges.",
-            "Le 26. le Parlemiene s’aſſembla & reſolu que",
-            "Monſieur Talon Aduoeat General, ſetranſporte",
-            "roit vers le Roy pour luy faire la meſme ſupplica",
-            "tion & aſfeuret Sa Majeſteé de l’obeyſſance’du ’arle",
-            "ment, on y parla des informations faites par le",
-            "ae-",
-            "Lietenaat"
+            "3 ét oe e é é RELATON DECE QV SESTṕen Armée du Roy commndeée pr Mon feur e Come dHrcourt depus on deprt de Pergord eneuée du ege deMrdoux & ̀déroute de Armée de Moneur e Pnne OVS es duntges que Moneur e Comtede Hdrcoureremporez uques à prefent urMoneur e Prnce depus qu commnde Armée du Roy nons ps medocrement ugmen égore qu set cque pr tnt dutres ctons gnées qu ont renduvte & cher à Ett & tees que vous ez pprendre ne vous confrme ot ps mons cette venté quees vous perude ront qu ne e peut ren doû̂ter à on zeeàfde té́ & àgenereue conduteMoneur e Comce ynt eu dus u Qurset de ourdee en Pergord que es Troupos du prty uoent deen de e r de Srt pr e rmoy en de eus mtegences & que pourfre reür eurduntge s seteent duncésu Pont de Te on urVeers pour sev rendr es Mtres pr tt de Bourdee e u Févrer pour coneruer cette ce donprte u urot ofté es moyens de A j"
         ],
         [
-            "Lientenant dela Coaneſtabe ſur le duel du Due",
-            "de Beaufort, leſquelles lePalement ne trouuant pas",
-            "dans les fornaes quoy qu’il euſt teeu ſes lertres de",
-            "nemiſion le Lundy preceden, ordonna qu’elleſe",
-            "aent faires par des Conſeillejs de la Cour pour",
-            "edte faairt dsoit: Il uguſie Atreſt portant qu’il ſe,",
-            "tois infotaé cot seu qui s’aſſemblerene au Palais",
-            "oyal ſur vne lattre de Cachet les 4. & 25. &",
-            "defence de centinuer ces ſortes d’aſſemblées ſus",
-            "peyne de laie, &s deporter palle ou papieau chaap",
-            "paauponrolat outpretete de ſedition,deper",
-            "quon agit, enttaodinaremens contre ceux qui",
-            "’eſt oient trouuee à cette aſſemblée. e Parlemen.",
-            "de Ponthoſe a verifié vna Declaratjonarlaqulle",
-            "le Rogy les penden ſſauu-gar...",
-            "har l Praee ſenoua le du Cump ls",
-            "foat incomaodé, preſent au lict d’vn deuoys",
-            "ment & rmal d’eſtonach la Duc de Lraine pas",
-            "it d’iey lemeſe iou p aller onmndes lA,",
-            "mbe en ſa plac..",
-            "Neanemoina lediuſlenr Pnee fuit jeatéle 9.",
-            "du courant dans BrConpahere5po, horpp",
-            "d la Roy ifailjepen, dans Lgn oo",
-            ". Lot: ltes: dordeaug! du ; rriué́es iey la",
-            "p.. aodlt qe:lDmé, a aieé ſplendidemene",
-            "le Prloe de;ooty & les Ducs d’Angayen & d",
-            "Guyſr & qdluqûet, quarpte , ptſon os jda e",
-            "dorui quelos leraide us Ateſſes paa"
+            "perDordogne ̀ Domme oùuot enuoyé queques ours uprunt e eur de Sntre pour pouruo àeureté de ce pote & y fre emer des teux & vnt coucher à Couures urruere de e ̀ deux euë̈s de Pergueux e endemn à Terron & ee rendt ̀ Srt & es troupes e our uunt ur e ord de dte ruere ynt feé ̀ eur tete M e Comte de nne Leutennt ge ner qu etot venu ondre depus deux ours Ce pendt comeuot ugé vn our uãt on deprt dud Bordee quen deé́tcht vn corps de5oo cheuux o?condute de M de Suueœuf Leutennt generseurot dutnt pus des pges neceres à̀ mrche de Armé́e du Roye ft prtrheureue ment que queques heures unt on rrué́e à Ter ron es ennems uoent enuoyé́reconnotre e ques yns eu dus demrchede ce corps do Cu ere setocnt retrez en dgence udè deDor 2 dogneL preence de M é Comte à̀ St contu fort u rfferremene des ffres du Roy que que ques ours uprunt uoent eté fort érnez dns ncerteude du ecours qu eperot de Amée deMeté qupŕs on pgeue fut ps necefre dy er ucunes troupes ny en eurer Cepeu dnt comme toutes chos e dpooent à perDordogne M e Comte pprt confuément eéchee que es troupes qu etoent dnshute Gnyenne ous"
         ],
         [
-            "6",
-            "doent deux Courones, l’vned’Drmeeux & l’au",
-            "re, de ozes, que les Violons & foutes ſotes le.",
-            "réjouyſſance ny furent pas eſpargez, qule les",
-            "touppes qui auoiené eſté enupyez en Brouage",
-            "Oleroh pour-le ſetuice d Cert du Doguoa",
-            "fnê réHtolrnez &e ’oht joiAt le ſiout de drfu3",
-            "qmi ptoinet auecſes trouppes -qu’baſuied dieti.",
-            "peſeher que -de Cimte de- Liſbonne epaſe les",
-            "iuieres pou -aller! taire les degaſt desVignes",
-            "aué-eûirons de Bordeaux ; que leBato de",
-            "Vteuilſe. nis en gatniſotdas Liounreoo",
-            "lrlanois & ſe: ou rjoo. qul y eltoiene ar",
-            "riuez il y a rois mois d’Eſpagn.",
-            "Celles de Tointes du vingt-ſeptieſa diftoe",
-            "que le Comte dut Dognon auois obligeé cette Vill",
-            "de Cõignac- & quelques autres qui ſona ſé la",
-            "Gharente de contribuier vne groſſe ſoume pour",
-            "auor’perrmiſſion-de faire deſcendie deursvias juſ",
-            "qles à la met & les pouuoir, debiter, quel Com",
-            "te continuë a fatiguer les ochelois & les blabi",
-            "tans de l’Iſle de ets :̀En ſoe qu’il ne y fait",
-            "aucun trfit ſut merfansai periſſioali2",
-            "Par do derniéres lttres deProuece’i nbou",
-            "pprénons que la lle de boalooslîano beu",
-            "iiueſtie patl douze Vaiſſeauxjue lg Chealier d",
-            "Ferriete auoie t’amené de deuatartoloe",
-            "& parles ttouppes du De deperopeuà qil",
-            "uoiehe -̀uſſihbloquée- par ſdtrd a aſteéfiobu"
+            "5 ous es ordres de Moneur de S Luc Leutennt ge ner deProunce uoent reçeu & ugent en qune pourrot pporter ez de dgenceà sdun cer versGronne pout rmer e dérs dedtes roupes & ecourr es Regments de Chmpgne & de Lorrne qu pprenot setre ertez dns vne pe tte ve en Armgnc nommeée Mrdoux que M e Prnce egeot ft per toute Armée en deux ours dns vn fort medocre nomre de teux es enne ms setns enterement ttchez à es enfermer tous uong de cette ruere pour nous en rendre e pge mpoe Ms tous eutrs ons & eurs precutons futentnutes ny ynt ren de dffce à vn Gener comme e notre quert e Roy uec tnt de zee & de fdeté Les Ennems ne pouunt soppoer drectement à notre pge pr es ons que M e Comte uot p portez pour sen eurer yns mndé́ queques ours prunt à Mrs es Mrqus de Bron & de Vhc desyetter uec eurs Regments youurent u mons fre protre qus ny conentoent pont & setns duncez e pus prés qus peuré̃t deruere àf utur dvn rueu qu es couurot s ecmoucherent queques heures uecunrde de rmé́e comn dée pr Moneur de Suueœuf Leutennt gencr &e eur de Beefonds Mreéch de Cmp en our qu fut eeé dns ecrmouche prés y uot ft tout ce qsen pouuot ttédte Le eur Cheuer dAueter"
         ],
         [
-            "gée de ſe rendre à l’obeïiſſance da Roy ſans’au",
-            "une reſiſtance, ce qui a fait juger que cette",
-            "prompte reddition eſtoit dés il y a long-temps",
-            "concertée, & que la mine que les Habitans de cette",
-            "place faiſoient de tenir bon pour Mrs. les Princes",
-            "n’eſtoit qu’vne grimace pour donner couleur à",
-            "leur deſſein, par les meſmes lettres on aſſeure que",
-            "le bruict qui a conru de la priſe de Barcelone",
-            "eſt faux, & que le Cheualier de la Ferriere re",
-            "tourne auec ſes Vaiſſeaux & quelques Galeres",
-            "pour ſecourir cette place, qui l’auroit déja eſte à",
-            "ce que le Mareſchal de la Mothe mande icy ſi",
-            "ce Cheualier euſt attendu encor deux iours ſans",
-            "partir auec ſes Vaiſſeaux.",
-            "Le Duc de Candal eſt party de la Cour pouraller",
-            "commander l’Armé́e de Guyenne, ce qui animera",
-            "( à ce qu’on croit) encor d’auantage les Borde",
-            "lois.",
-            "On auoit commandé de demolir quelques ſor",
-            "tifications de Mouron, mais on aſſeure qu’il y a",
-            "ſſeance pour cét effet.",
-            "FIN."
+            "re u Mrêch de Cmp qu sy rencontr & u que edt eur de Beefonds uot remscondute préseure cheu ouurge u vgoureuermét qu uot eteé commencé M e Comte etnt rruc à Dommerencontr heureuement es Deputez qu venoent eurer defdetédvne pette ve nommée Auur du Comté dArmgnc tuée ur e ord deGronne à deux eues de Mrdoux & ugent qu etot deder nere mportnce durer ce pote pour e pge de Armeé́eenuoy e eur de Vecourt Mreéch de Bté Leutennt Coone de on Régment dn fntere uec des ettres à Mrs de Montun pour es oger à uy donner des hommes & des teux pour es pporter udt Auur en dgence ce qusfrent uec eucoup de témognges de zee & de fdeteé & edt eur de Vcourt rrtuà propos quu mo ment qu ft dérquer es gens vn pry cohdere des troupes de M e Prnce commndées pr Mrn fot ommer cette Ve mssen etot dué trop trd pour receuor effet qu setot proms & pour spperceuor defute que M e Pnce uot fte de nuor ps pporte pus de dgence à occuper ce port coeeue reource qu retot à Me Comte pour ecourr Mrdoux & uuer es Regments de Chmpgne & de Lorrne dontperte uror eteé tres préudce ux ffres du Roy Cependnt commeetot duerty que nos egez etoent dns"
+        ],
+        [
+            "es demeres extremtez & qus ne pouuoent pren dre on pus vte que ceuy de fre preprer nomre de teux necefres à dgenter es pges de mee urGronneenuoy ̀ on déprt de Dom me e eur de Snte Coome Mrn Mreéch de Cmp ̀ Moyc uec tous es ordres neceres pour fre emer & decendre des teux ̀ pont nomeé eour de on rruée & prtt e2 pour suncer à moté chemn de Chors où̀p e endemn e Loth & vnt àBtde qu et ̀ vne euë̈ e à̀ Mon ue & e 4à Vence vs à vs Duuc u deçà̀ deronne qu commenç de fre per e endemn des ponte du our& e temps y fut en empoyé́ queen qu e trouut fort contrre toute rmeée turpe en deux ours pendnt eques M e Comte ttch prtcuerement à donner de es nouuees uxegez ms on rruee eur fut put ot connuë preueée du ege que pr es ettres M e Prnce ynt à pene tendu quemoué de Armé́e fut p ee pour e retrer ̀ Srfort urtuere de Leytoure & es troupes à couuert de cette ruerenet ps ute que es prt urtez de ce ege vous oentnconnuës & que e déroe à derues gensore qus y ont cque pr eurs ctons & pr es tremtez qus y onrt ouffertes Vous çurez done que es Regments de Chm pgne de Lorne & e eur de Mrn reéch de mp e etterent pres e comt dede S Luc dns"
+        ],
+        [
+            "vne pe dont es mures etoent ouuertes en pu eurs endrots depourueuë de toutes ortes de vures & de muntons En orte que oneur e Prnce neperot ps mons que deredure dns tros ou qutre ours cõmey uot pprence de S Luc neut ft des efforts extrordnres pour y etter depoudre &heureuement qu eur donn moyen dttendre e ecours & de fre pendnt e ege qudureé 4 ours enters des ctons dgnes dereput ton que ces rues Regments e ont cques depuson temps & prtcuerement ceuy de Chm gne Le eur de Mrn rreéch de Cmp qu es coô mndoteucoup de prt à eur gore Etn pont dOfcers & de Sodts qu ne e oentez dns pueurs ortes pr queque cton de v gueur & entrutres vn Sergent ynt eté commn dé pour ortr ur es mneurs qu veoeut detre t tchez entu qutre & e e cnquéme à̀veue dee Prnce & ous e feu de touremouque tere Cét heureux uccez ne ponuot ruer pus à propos pour rétr es ffres du Roy queperte du dener ccmt uot fort érnez & r mée de M e Comte ne pouuot ps produre vn mondre effet ny vne ute mons duntgeue que cee que vous ez pprendre Mr e Comteà on déprt Duuc qu fut e 7 de ce"
+        ],
+        [
+            "9 cemos ett enuàve de Lomge podry fe? teroncton des Regments de Chmpgne& de Lorney teceut es teémognjges deoye queuret nt de eues Offets de e vor ecourusà propos & yedurn deuxoupnpur deer v eu es trou es des frgoos extrordres quoes uent ou fert dns vneongud &ontnuoé rrche&dns es nuts quees uoent cmpeées u pges des r ueres de Dordogue & de Groõne & témogn usor deen degervde pétceve nohée Beumnone qrpprtent M e Prnce pour uy oter peone de ceuy qu uot de eurprendre dn es QurteHs & ynt ous ce pretexte doné ordre u rete des trou pes de M de S Lue quetoendvecs Auch de ves du cotéde Beunont em toute AroéeéàS Leo uud prés de Leytoure & mrch à Forence oucprt e endemu àpontedu our Ee cumet eéuformé qu y uot pufus défez dnsmrde qu uroét peu e ettdet de quequs heù esny prenot fes prectõspr M e Mqus de Fmrçon genthomme de grnde condtdn & de gnd oet en csQurters Et e eur de Goux Mtech de Cp ufor ccredtéde fre rermpr es foez qu puécoucr e chemn &defre re des ponts ur es rueux dequoy s scqutteé̃t uec eucup de pdnctuté Et Mr e Cõte netrou uncun te udeen qu not de urpcendre esEnemds eà Qurcrs queongueu du? c"
+        ],
+        [
+            "0 chem qu p uyque dxheusrede or pour e fre reüfr etot é ̀ juger prgyeté qu e remrquot dns nos Troupes du ucceés de notre deen & eur oy conrtu ort à dgon tet notre mrche qu un es qutre heures du or toute rmé́e eut fnq gtdndes euës du ps & e trouuentre deuxdes Qurters de rmé́e de M e Prnce ns qu en eur C cndus 2 Lrmee mrchenceét ordre rgdedeeêrye ûot nrde e tout commndé pr M de Suneeuf Letennt Gener e ceur de S AreMrech de Comp en our eur de Bougycommédn uere &oheeu Cheuet deCrquy MrechdCmp qurdotentrur ennu &e e eur de rnerech de cmp quvouutsy rnconrervotteet esGentdhommesvontrs cnpnden frt n dron dontr nndurt réojeu dreoqueS Chmt nefth de Cp é es Grdé de nor ncre oommn pr ousds Pngnt e jogunt àrunr de Mhe Cmte uec t e Oomte deeonneLuet orve sMrdpsàrfruedu ue dMrqu de uqufmtommndécomme ortnt doour poufre ure nrotcegt een dgence rchottete dehrgds deVeese qu uue dee dMnerydee de Mo reure en ute & ps cee Dnjo nrhoces 2"
+        ],
+        [
+            "opes de M e Mrqs de Luc M e Comte eut dus dnsMrchepr vn prty qu uot eteé commndeé que e qurter de M ePrné eetotrà Atfort ceuy de es Grdes & de ceux de ous es Offcers Generux à Pergun & coy deGendrnere àPume à vne grnde uë es vns de utres & es urres Troupes dns des qurers heuv ceouppus prés de ruere de Gronne & pr cone quent pus eognez de notre Mrche Ce quoge M e Comtede Hrcourt does fre conde pr des Genthommes du ps qu uy eruoent de gudes s meudees tros Qurers où etnt rrneé tõmn d à M de Suucœuf de suncer e pus preés qu pourrot dEfort pour chrget es T ropes quor ront du Qute de M e Pnce & à M eCome de Leonne eur Ceuer Duetené M techde Cmp de mrcher uecrgde de V ette cpmmndé́e pr e eus deette Mâtre de Cmp du coté de Pum pounentrerendeurGtndrmee de M e Pce & à̀ M de Sn Lc dnsetr ucc deux cens ouquets qu oent teé détché́s de nfntcre & deux edns depgd4s de Mççur & dsV ete e Qur uer de Pengun pendnt qu demureoot nn e ee eh gde de Moceer & cee dAnjou u eu qe uourcuor ct qu en uroecne eq tous ç ores ys eté us uerou e ponué qu etocà dcrM e Comte et 3 2"
+        ],
+        [
+            "2 dus queque temps pres de M e Comte de Le onne que es Ennems qu et ent u Qutrer dePume e retroent u nomre de x Ecdrons àfueur de eut Qurtet pus duncé du eoté deGronne & qu ttendot ordre de ce qu urot à fre Et M de Suueœuf enuoy duertr en nre me trps que M e Prnce e rerot à couuert deRuere qu pot en on Qurter& qu etot pr conequent npoe de e couper Moeur e Com te voyntprchernuct & ne jugentps à propos de feprer es Troupes en tnt dendrots tous es utres Qurters yns eu e temps de e jondre à Gendrmere qu urot pr conequent ft vn corps ez condere pour défte cee qu sy oppoerot unt qu eut peu eoourr enuoy ordre à M e Leonne & à M de Suueœufde reuenr ur eus p remettnt u endemn à prendre queque d untge qu repondt à ceuy que nous nous etons uré n egent tous es Grdes des Generux dns e Qurter de Pergun u nomre de 4oo Mtres ene e eo r n dee epoeu de npes nen ortt ren Et àponte du our Comte mrch uec es Brgdes dAnjouVette & Mercœur &cee deMeerye uec es Trou dede S Luc & toute nfntere deunt Pergunne proot psà rdeur de nes Troupes quees uenton temps ftgue & escheuux qu uoé̃t e our"
+        ],
+        [
+            "3 eour uprunt ft pus de ept euës & penut ns reptre neurent ms tnt de vgueurVous crorezns doute fcement quee Prn ce ne perdt ps eucoup de temps à mettre es Trou pes à couuert deruere de Gronne & en effectport uec ron tnt de dgenceà es fre pet setntrencontré heureuement pour uy preés dAgen qu uy fournt u grnd nomre de tteux qu y etot necere quee Comte ne trouu que deux ou tros Ecdrons en deç qu e retrerent dns e Furourg dAgen àfueur de queque nfnte ee Comte de Leonne Leutennt Gener &uoeur e Cheuer de Crequy Mrech de Cmpour sets rencontrés àtete deNoee voontre deCompgne des Grdes de moneur e Comte des Regments Decnuers & de Coudry ontpener àtette duque e etre de Cmp uoy que rech de Cmp vouurttouuer pout uorprt àgore yns tous ms pedà terre fu rnt uus de ce qu y uot dOffcers & deCue e qu tquerent e Fuxourgvgoureuement qpres vne retnce fort opntre s forcerét tros grdes y frent quntté de pronner & pou ent e rete àruere dns quee vn grnd nom e qu ne trouu pont de Btteux fut noyé On n çuot ez dmrer ndonement dee Com ede Leonue non pus quevgueuruc que e es eurs Cheuer de Crequy & du Coudry D"
+        ],
+        [
+            "4 Montpener ttquerent ce Fuxourg qu frent ns mentr à enuy vn de utre des ctons toute à ft dgnes de eur veur & quntté de Gentom mes du Querey voontres dont es noms eroent trop ong à dédurc Et e eur Dumy commndnt orsCompgne des Grdes de M e Comre en f rent protre vne trenée queques Offcers du Regment Deenuers & de ceuy du Cheu ec5 de Crequy y ont eté eés ceux du Regment du Coudry setnt rencontreé́s pus heureux Apres cette executon qu e p àveuë dAgen & qu pr conequent ny donn ps vne medocre e pouunte Moneur e Comte p e rete de jour neée à Ethc àveuë de cette ve & y reçeut ds pronners quon uy emmenot de toutes ptts pr my eques e ont trouueés e eur Cheuer de Ro queuremrech de Cmp dns rmée de oneur e Prnce quequens de es dometques qu uoét eté prs e our uprunt queques Offcers du Re gment de Bourdeux & dutres deGrnon de Brouge qu etoent venus queques ours uprunt rouuer moneur e Prnce & pueurs utres dont e dénomrement erot trop ong Le endemne Comte ynt eu dus que es egés sopntroent à e defendre prtt Deftfc pour y er donner es ordres mstrouu quàperuon dede S Luc & des extremtez qus ouoent oufferxs ny ynt pont deu dns e euN"
+        ],
+        [
+            "253 s commen çoent à prer comme en effet s fe ren drent e meme our & fortrent e endemn tous pnonnos de guerreà eerue de tros ou qutre des Offces dont M e Comte ccor derté àpere des Offcers Gendrux qu uoent condut e egeà̀ vneheuree f és cheuux u nomre de pus decnq cens & e urn furent truez à tonre rmée &es pronners enuoyés à̀ Letoute & à Fo ene M de Suueœu Leutendnt ener qu etot deneusé uesBrgde deMeHerye &e deut Pergun ynt vouu reconnotreprp fondeur du foeé fut eé dvne monquetde u rs guche qu net Deu herey ps dngereue e feut du Fy Mjor u Regment dnfntere dHrcourt fut eé du meme coup ms egerementCepondnt M e Comte ynt prs que e cnon de M e Prnce etot refté dns e qurter dAtefort uee deux ou tros cens Mouqetres eonhndà M du Coudry ontpene Mrech dé Cmp en our de prendre ceux du Regment de Chmpgne & dAuuerghe qu uoeéht eté commhdez pour uureCuere & deux cens cheuux & pr M de m con qu et Segneur de ce eu dy er pour oger es Htnsdonner queque nrque de eur ee & de eur fdeté́ Ce qusfrent uec eucòp pus de fermeté que on nurot deu vry emement perer dvne Bourgeoe EtGrnon setnt ren"
+        ],
+        [
+            "2 6 dueë ns sopmtrer àune fort ongue ret Offcers demnderent à e jetrer chez eux e mee de ne puserur contre e Roy & es o rent prrty dns es Troupes edts eurs de F & du Coudrysrtcherent prtcueremét à dure e cnon & es muntons de guerre qu retés udt Stfort u Crter de M e Comte donn que es cheuux de rtere de M qu uoent eté prs uec vn grnd nomre fuent remez pour etrettchés Nous nuons ps eté́ fort onemps à n perceuor de ons effets quont produt ces du n y ynt pont eu de ves dns e hut ps de cees dAret qu pprténent à moneur c qu nyent pporteé es cefs à e Comte ce me eme ez nute que e fe prtcue vorcondute &vgnce de notre G pus quee vous prot ez dns cette Rer quereputton vous et connuë e vous fer ement conderer qu n ps medocrement ué́à urmonter es otces qu uoent pû contrer u pgede tnt de nueres en yr é x dnsmrche dontmondre et c Le Moneur e Cheuer de Crequeté cho M e Comte pour porter cette dernere nou eurs mjetés FN"
         ]
     ]
 }

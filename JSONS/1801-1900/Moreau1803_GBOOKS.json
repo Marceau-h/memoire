@@ -1,232 +1,84 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "lamentation",
+        "form": "prose",
+        "genre": [
+            "pamphlet",
+            "lamentation"
+        ],
+        "subject": "Mazarin",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-30",
+        "creation": "1652-05-31",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-25",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Les larmes et complaintes de la reine d'Angleterre sur la\n          mort de son époux, à l'imitation des quatrains du sieur de Pibrac, par David\n          Ferrand.",
+        "titre": "Les larmes de la reine et du cardinal Landriguet.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1805_GBOOKS.xml",
+        "fichier": "Moreau1803_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LES",
-            "L'ARMES",
-            "ET",
-            "COMPLAINTES",
-            "DE L AREYNE D'AN",
-            "gletere Sur la mort de ſon Eſpoux.",
-            "A l’Imitation des Quatrains du Sieur de Pibrac.",
-            "Par DAVID FERRAND.",
-            "A PARIS,",
-            "Chez MICHEL METTAYER, Imprimeur ordinaire du",
-            "Roy, demeurant en l'Iſle Noſtre Dame ſur le",
-            "Pont-Marie, au Cigne,",
-            "M. DC. XLIX."
+            "Les rmes derene et du crdn Lndrguet Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Lrmes (es) derene et du crdn Lndrguet Sns LeuSns Nom652 Lyon Bothèque muncpe de LyonRés 309829TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs803 Lrmes (es) derene et du crdn Lndr guet Sns Leu 652 8 pges Le surnom de Lndrguet donné à Mzrn ft ssez con nître que rôe uteur u préte uprès dereneUn des pmphets es pus nsoents contre Anne dAutrche es pus sprtues et peutre es pus rresAprès e sége dÉtmpes Luteur pprtent étrotement u prt de M e Prnceprose pmphet mentton MzrnLe duc de Lorrne vent à Prs 65"
         ],
         [
-            "3",
-            "LES L'ARMES ET COM",
-            "plainte de la Reyne d’Angleterre",
-            "Sur la mort de ſon Eſpoux.",
-            "A l’Imitation des vers du Sieur de Pibrac.",
-            "PLEINE d’ennuys & de rudes atteintes,",
-            "JlO tou t’puiſſant eſcoute mes cdlameurs!",
-            "e Le grand excez de mes diuers malheurs",
-            "Me font vers toy adreſſer ces complaintes,",
-            "Dans le contour de la machine ronde,",
-            "Parmy le Schyhe, & peuples plus perue,",
-            "Bien qu’il y ayt eu maints malheurs diuers,",
-            "Ie ne tcrois point en auoir de ſeconde.",
-            "Mon accident attaint iuſqu’a l’extreſme,",
-            "Et ne ſe peut trouuer pareil courroux:",
-            "Ayant perdu mon tres fidelle eſpoux,",
-            "Lequel i’aymois plus encore que moy meſme.",
-            "Comme deux luths de meſme conſonance",
-            "Eſtans touchez rendent meſmes accords,",
-            "Ainſi viuoit ſans auoir nuls diſcor ds",
-            "Son cœur Anglois auec celuy de Frane.",
-            "Les fruits conceuz de noſtre mariage,",
-            "Monſtrent aſez quels eſloyent nos deſſeins,",
-            "A ij"
+            "LES LARMES D E L A ROYNE DV CARDNAL LANDRGVET M DC L"
         ],
         [
-            "Nous les penſions voir vn iour Souuerains,",
-            "Mais comme nous ils ſentent ceét orage.",
-            "Et vous auez rompu cette armonie,",
-            "Maudits ſujets ſans croyance & ſans foy:",
-            "Quand vous auez fait mourir voſtre Roy.",
-            "M’auez vous pas enſemble oſté la vie?",
-            "Vous m’euſſiez fait ſans doute le ſemblable,",
-            "Quand ie quittay voſtre riuage Anglois,",
-            "Pour m’enfuir en celuy des François,",
-            "Bien qu’en nul point ie ne fuſſe coupable.",
-            "Auparauant que ſortir d’Angleterre,",
-            "L’on a chaſſé mes Preſtres & amis,",
-            "L’on a brizeé iuſqu’a mon Crucifix,",
-            "Et mes Autels l’on a ietté par terre.",
-            "Vn faut ſemblant de Foy d’hypocriſie",
-            "Vous aà̀ cauſe cette rebellion:",
-            "Chacun eſp it fait ſa Religion,",
-            "Vous voguez tous au flots de l’hereſie.",
-            "Le Ciel pour vous appreſte ſes tempeſtes,",
-            "Vous ne voyez vos malheurs à preſent,",
-            "Aſſeurez vous que ce ſang mnocent",
-            "Retombera quelque idour ſur vos teſtes.",
-            "Traiſtre Eſcoſſois, mais pluſtoſt double traiſtre,",
-            "Le Roy s’eſtoit ietté́ entre vos bras,",
-            "Pour de l’argent ainſi comme Iudas,",
-            "Vous auez pris & vendu voſtre Maſtre,"
+            "QAeSe opéé y sétsé eLESL ARMES DE LA ROYNE T V C ARD NAL LANDRVET E odt Romn net ps poeron qu rependt à Neron enqus de y puoyy voo mh d yos qde os rdop̂ qe s dpss Pm ed trfe for dor e te hy oom uosmenmeset pontde on Frnços qu ne ds urnsdeoyre ous uns en d etme & d reherton pour veru eh ceà nous nous fommes cqutez de note de urs mtennt quee et utre quee ne tor ou du sons quee nohsprofot etreyvngs ous deuons à nohre drxé où putot à notre Ptre expreon de nos reentnens O veu e commencemenc & eprogrez de egene eér dvn re"
         ],
         [
-            "Il ’eſt petis à la puiſſace hueminc,",
-            "Pour cas qu’il ſoit d’atrenrera lon Roy",
-            "Auſſ n’ſt-ileſe:it ennlle Loy,",
-            "Dieu ſel le peut de ſa main louueraine.",
-            "Peux-tu hoquer de Dieu l préſcience,",
-            "Peux tu meſ hant eſtte encor plus que Dieu:",
-            "Si ſa luſte operet n quelque lieu,",
-            "Ce n’eſt le Roy, mais pluſtoſt ton offenſe.",
-            "Sur tous les Roys Deu eſt ſouuerain Maiſtre",
-            "Et ſ quelqu’vn eſt iniuſte ou Tyrant:",
-            "Ne peut-il pas de ſon bras tout puiſſant,",
-            "En vn clin d’œil luy arracher ſon Scepte?",
-            "Ne peut-il pas l’eſcraſer d’vn tonnerre,",
-            "Sans le laiſſer deſſusvr lict mourir:",
-            "Ne peut-il pas encore de punir",
-            "De les fleaux Peſte, Famine & Guerre:",
-            "quand tu n’auroisqu’au cœur la ſouuenance,",
-            "Tout tel qu’il ſoit, qu’l eſt oingt du Scignenur,",
-            "Tu ne deuois faire telle rigueur,",
-            "Puis que l’effet ſurpaſſoit ta puiſſance.",
-            "Ceux qui ont leu leur ſouuienne de l’Arche,",
-            "D’vn qui voulut y oppoſer ſa maſn,",
-            "Cen’eſtoit pas auec mauuais deſſein,",
-            "Il fut puny bien quil fut Patriarche.",
-            "Nul ne doit eſtre au monde ſanguinaire,",
-            "L’on voit luer le ſangdes maſſacrez:",
-            "Songez qui touche à̀ des vaiſſeaux ſacrez",
-            "Se voit puny de la meſme maniere.",
-            "Vous n’auezmis ſeulement en déroute,",
-            "Ce Vaiſſeau ſaint beny du tout Puſſant;",
-            "B",
-            "A"
+            "4 tr queper unt ë treps ds feu Roy ne proettoe Louys X o epours dot ouuent vous neeonnoez ps Pr à donnot à entendre que nusnecon notrons que trop ux depens de on herres ce que pus pneyonsou huypn cherement pdt e utefot des Notes S ous conderos es deqrdros que esBrumrejuts es Fredegondes & es eux ont cué dns ce Royume noos femtrons d hrreu Ls dufteres es rgtédés es epoonfemens ncendes & creges ont rendumemore de ces tros Royes exetres à ths esr ços 2Toute fos nous pouuns dre quecs ne ps n dur et& condto qoee etoroes L edn dr et ps mons trtre que Lndry & pus qu fe hpcquer e Roy contre es Prnces de o Sng vou pdetrre tout dum eoupMon RoyeQnd Noefe u M gtrt & u Peupee trouuer que tus es muxque ces tnos onnes Dmes ont ft en rhc npprpchent ps de c on ceux qee fouffreâ yre nt r esoym deede gode(de none vee Horsj oy C perte yt & ege degrdes tes & extons ettesnencoscn ostes res"
         ],
         [
-            "’le e e eneons d un dpne& oalsars,",
-            "Lauez lue e enſemble goutte à goutte",
-            "„ Qund il paſſa panmy la populace,",
-            "Pour conteſter qu’on l’aecuſoit atott,",
-            "Elle crioit qu’on le mit à lamort,",
-            ",, Maudits luiets naiz de maudite race.",
-            "Rougiſſez donc de cét Arreſt iniuſte,",
-            "Ie veux qu’l ſoit deriué du commun,",
-            "C’eſtoient Corbeaux dont le cyimportun,",
-            "Tendoit apres le Sang d’Abei le lſte",
-            "VosPredeans quen ce venie ne darte;",
-            "Pours’erempter de ce meurtre inhumainm,",
-            "Par leurs eſetis, lls s’enlauene la main?",
-            "Mais ils le font ainſi que fie Pilate.",
-            "Si ie voulois traçer vn paralelle,",
-            "A cét Aigneauqui mourut innocent,",
-            "Verroir on pas meſmefauxiugement.",
-            "Mais ſur ce pontie veux caIler ma vouile.",
-            "d on eeout l ie e deſrobe,",
-            "ines qu ai pus deoenton ny,",
-            "Dauid le fit à Saul ſou ennemy,",
-            "Se contentant de luy couper ſa robbe.",
-            "Vous auez leu, race miſerable,",
-            "La ſaincte Loy du grand Dieu Souuerain,",
-            "ulne ſe doit ſouiler du ſang humain,",
-            "Car il deffendd’oceire ſon ſcmblable",
-            "’e eirns quil dis que lhonmmepou ſon ve.",
-            "Y perſiſtant, eſt digue du eereueil,",
-            "adntpour dents ainſique l’oilpoueu.",
-            ",, Ce ſont Decrets de ſa ſainte uſ;"
+            "5 e gens qu tenoent hertges eftoent contrrspyerpeur rpent de vgne chcun n vn eprer de vnet dredouzeme prte dvn mus &equpont des rres terres & ens Nous croyrons etre u Sece doron nous tr tot deorte es Epnges deRoyne & Gnds du Crdn vont dvn utre r mon tes pus hut Ce Lndrguet de Sce et pus que Mre de Pstrnche du Souuern on mton uy fct eperertrpe Thre Ms ce net ps tout enrt qu rt e derner L Crtrophe de Brunechut & de Frede gonde etonnent notre Royne queque reo uton quee fce protre ur on VgeBrunehut dt Htore vouot etre Gou uernnte du Royume & pour mntenr on uthorteé mettotduon pr tout Ee ft mourr dx Roys en Frnce ns es utresDues Comtes Brrons & Grnds Segneurs Ms Cotre rret toutes sfu reurs ynt ft ttcher àqueuë dvn jeu ne cheu ndompté qu uy nç es pées de derrere contretete ft voercerueetrn prmonts & vées tnt quee fut tou te derompuë & ce qu en demeure Roy e ft ruer & jetter es cendres u vent Dcte uttnms mont & on tremere duosB E"
         ],
         [
-            "ilias pé ain",
-            "3",
-            "A t’iliamais va eſet,",
-            "Po rdeſ ore rſe ef",
-            "tres ge?",
-            "42.",
-            "V0s l’ace ſéz ſelonH",
-            "c ne ent de Loy c’eſtoit à tort:",
-            "l ot, e e ſouffrir la",
-            "u’’l n’ ut ama point enf n ſe.",
-            "l prote, core au nta,",
-            "Q aeſt t ours voſtre ou n:",
-            "is co meo dit qu’veut n yer nchien,",
-            "lefeite t atde quelq e age.",
-            "e! len eſcha ez v s encore,",
-            ", uaſo R Sang:",
-            "Ces ejettons conce s dedans mon flane?",
-            "Sont le ſ iets q ’à̀ reſ ntie l re.",
-            "S s tni m amorphoſe:",
-            "epenſ s ais voit m miſon,",
-            "mbera l oſt trahi n,",
-            "elo po ſe leſeul ieu diſpoſe.",
-            "Dſpoſ do ôd n clem ce:",
-            "D ces ſuiet co me de nes do rs,",
-            "e ſene, nsdehaſe al heun,",
-            "Et deſſus ut donn oy Patiene?",
-            "dieu randeurs, adie toutes richeſſes,",
-            "Et les fa eurs dec valterrlen:",
-            "ay ieue tle Sou in en,",
-            "le poſedanton n oi t de tiſteſes.",
-            ",’ iſe, luydenfaie avngeaae,",
-            "Le Droit Royal depend du Soueran:",
-            "2"
+            "6 Cette Reyne Brunehut etot Epgnoe Fe du Roy Achtde ou Athngde Roy dEpgne e veux en que eét exempe ne fce ucune mpreon ur eprt de notre Reyne etnt eurée en cs qu fut trer pys duor pueurs eux de retrtte msperte de on uthorté & eognement du Cr dn Lndrguetrendent nconoe en que v & utre ne touchent encores que pr eur dée Ee tche de duertr on mgnton de ces trtes ojets & tout utnt de fos qu uy vent en peneée s vut meux perdre e Crdn ou urhorté quee poede dns e Cone ee e repond ny vn ny utreuques cy epernce uot ftté tous es deens cette toure de mzrns qu venoent en foue feurot que pourueus quee t eRoy de on cotévtore erot du en Ee e perudotpus qus ne uy en doent & goutot de es douceurs du Tromphe L rune premedtée du Prnce de Condé ne uy dormot ps vn mondre contentement Le pr devenge nce urpe tous es u trese ent eucoup pus que ceuy devoupté à̀ ron qu yqueque choe d groux ç̧uor e reouuenr de njure Le"
         ],
         [
-            "8",
-            "lee e eſeler ep ſiepe deus uanains r",
-            "le eoros eir ile i ſſqip e en",
-            "de eon ure en fnieſieine iere i",
-            "Ce m’eſt vn ver qui roge mepeſpir,.",
-            "n nuie anie le ſuiermeoiueir l",
-            "La npne aix aa jjed l guere",
-            "le nenr ini e les ſepſ qiea ieiſie e",
-            "Se trouuera punie en ce baslieu:",
-            "leun u lene inire en poi.",
-            "Soit toſt ou tard il enfera luſtce,",
-            "Le ſang oyald’ouli ay priaimia naifauaee,",
-            "Tera, peat eres idi que le Tenpoui,",
-            "Se reſentant des uſes de ſdngloins,",
-            "le",
-            "Pe ſon forfad eni peodi la ienganee",
-            "4T ooleoun diisti ne eoneſrempeſl",
-            "Touſious lame n’aſes fosirie r",
-            "Touſiours ne ’ouure Cpisderous coſte,",
-            "Vn vain penſet n eſt touiſioun qans lauee",
-            "Souuent le foible endure l’iniuſtice,",
-            "Pluſieurs reſſortsen donnant les moyens",
-            "leioen rannoiuns ouileasprineu cireduen,",
-            "Sont qbigez de punir tai malice.",
-            "Dieu, dont l’effet eſt touſiours admirable:",
-            "pe eeſeileſt ſenuureur denoneuus ,",
-            "leueſiſeres ds dluooieleoan e?",
-            "Ennmoment, ve Paix àgreable",
-            "au",
-            "C’eſt vn eſpoir, comme toute la Franee",
-            "H’aſpire auſſi, pour ſoulager ſonfair",
-            "OSouueraindonne nous done la Paix:",
-            "Nous eſperons vne meſneallegeance.",
-            "FIN."
+            "7 Pree de Condé à eruy dotce àfor tune de Lndnguet Et comme dent es Ph oophes onnmé gens gend reprtur on eur e Prnce ynt vouu choquerReyne enpronne de Lndrguet receut vn contre coup quentt queque temps pres dnsVn cennes dns Mrcou & dns e Hure de Grce Et depusorte renuoyeé eteuf & mntennt on ttent vn pus grnd choc eque nous tent tous en ceruee e ne doute pont quenos gens e ve noent ux mons dns vn rze cmpgne & que on dputotfortune rne com me dns Actum on dput Empre de Vn uers que e mzrn ne ft comme Anthonus e us encoere contre cettuy duor qut tévctore qu urot ft jor pus ongue ment Mse Mzrn sen fut e excue ry uy tennt compgné à̀fute prce que e us euré quon ur ft tous es ef forts pour e retenr Ee ve des mprectons contre uy à con ttœur Et moyvudros que uy & tous ces eres perent &e Mzrn uot ongé de sener unt quon t poueé e uros pus en exerrton que s uot eté pendu en ch& enos"
+        ],
+        [
+            "8 L Reyne nuot ft que rre des Arrets du Prement & des mprectons des Peu pes A toutes es fos quon uy preentot queque Gzete qu contenot queque fue deffte de es Trouppes ees e rejoüot e dtot tout utnt de fos quee ppe ot es Prens du Nom de Bduts Ee ne prot du Prnce quuec meprs & dot que es Prens unceroent eucoup eurs ffres ss uuoent ce Prnce L moder ton meme du Duc dOrens pot en on eprt pour frodeur en tee orte quee te mognot ne pont crndre ny vn ny uttre ms rruée du Duc Lorrne uyft chn ger de ngge Ee enmeme peuré de dept Ces rmes ont tres conderes Ee pprehende Quoy? L deoton de Ett ?non Lrruce des etrngers en Frn ce ? non Les meurtres voemens ncendes Screges deques ee er repone de unt Deu ? nonnet ps encore tempseue prehenon demort peut cuer cette epece de rmes L Thcooge deCour eureconcence de ce coteypus dpprnce queedu regret regret duor é́meuguerre pour on mheur ynt ms en dnger tout e Royume Le"
+        ],
+        [
+            "93 Le Mzrn ne v n ne vent quuee e Royne ndonne non pus que omre ft e corps Vn trompette uot ft commender deprt du Roy ux Aegez qu deffendent Etmpes de ne ponttrer vers e qurter du Roy Les Aegez repondrent que e Roy erot e tren venu dnsVe & n uterentvenr vor on rmée en Bre Ces rmes ont non euement exeues ms en toute fcô oües verté́ Reyne uot du regret de e vor entourée de touts cotez de Armée des Prnces qu tentMrche du coté de Meun ouCour ft mntennt on ejour e ccueros de peu de geeroté S contnce et trop hute pour peurer pres uor temogné tnt de reou ondeffendre e Crdn à que prx que ce ot e ps dt hrdment quee nendonnerot ms qund ee deurot er mnder on pn uec uy?On uyrefué es portesen pueurs Ves Pourueu quee ot ucc e Roy & encompgné́ ee setme heureue Ne pouunt forcer ceux qu uy retent Ee e reout à per outrte vnt du remede de cét Empereur contremuu e fortune eque etnt ché dvn eu eeruot ens en nt furporte rerunm rreoupe c"
+        ],
+        [
+            "6run onm umm fects e regretteeondton de ceux qu on cue de notre Guerse chcun crntetre epé & controté s e ont uques à euns contennces & à eurs pené́es tout e Peupe eteuor dot & nteret den uge omme vn et fen & vne veruë proent pus u front & on pus à remrquer que ne fctheurs vne fre ou octrce uf es deffuts & es tches e decouur ent de en on etm fue des émnencesNotreScen set ouuent mordu es dogrs &peuré meme de rge duor donné on rgent u Prnce de Condeé́ pour e epdns on mnteren reepgeéàDuchee de Cheureue pour oger à ggner e Duc de Lorrne ms quy que on oupçonne ce Prnee duor touché de rgent des deux cotez nentmons ce An drguee commence à onger àretrtte de pus que e Duc de Lorrne à donné es trou pes à on Atee Roye & que e Prnce de Condé́ es commndenet ren de dffe e que de ne e conrere enes proes & pus ecoros en ces ctons Lors que es Crdn Lndrguet reoeue es nouuees que e Prement uot ms ete u prs de cnqunte"
+        ],
+        [
+            "me ecus receut cettenpuuee nssetn ner & reprtt que tete tenot fort qu en tomerot puftot cnqunte e queenne Qdeques vns ot etnmé courgeux ou euré pr oette reponce entmons se trompent npoutronputdre vmopro hrde & frene cthode uemorteoe veur Nrocutd́mdge de cuuté tefpgt dt vn ourt quonuy preeutot à geren tence dvn ceune dnémrphutà Dëu que o tee nsppod ̀eerjer me Fe deuchéee prec ptudet dn fe netrepouuttr fontodjnodtjdet ut donner du coofted ds de fefssreté preée que de Peqete ueoop4sprne pour u dre Lere o et cu que ceftot vne fecomdeé ThüsLnron peut pprendre ux hommesnec Le Crdnd pprfodePeuus ynt s u uent peé n cheme ehtre des hommesjAr mé Le Pes fons des ons hes receunt eurs mgnonsugro deeurs Pees& e eurd eres fuv ps gndofge à une Fe pqut onfeueprnny des Yeneres denue trouefnt fsgtdes qunenfut poure peemder u"
+        ],
+        [
+            "Hc duce cuftodes furts trngre cenmtesduuenens teners oe pue vemtTouours y du courge ( dreous dns ce Crdn detre venu en Frnce ç chnt qu ytnt dennems & ntennt y uter gré eous es Frnços vouor h zrdet tout pr vneBte ce net pscon dute dvn potron A ce e reponds que e Cr dn et venu prce queReyneft venr Et mntennty deeure putot pr orce que de on greé & ceux qu uy font guerte eroent tres mrtrs queut fn ou echppé́ Ceuy queCour pretend mettre àpce du Mzrn e e vete ennemy du Ptnce de Condéet tteertn que on Atefe ne voudroet ny n ny utre ms en es de neceté du chox ee ymer meux er e Mzrn enpoeon que de ouffrr que utre ot nté dns e Mntere LePrnceeté́ en d ccord fort onempsuec e Mzrn ms uee e Codjteurms Lhumeur u de cettuy pourror etre pus eognée des entmens de Moneure Prne memementen ce que e Codjuteut e ert des prnepes de nentes qu portent qu fut ne ereerer de on en que ce qu fu"
+        ],
+        [
+            "3 fur pourdepence & donner erete e ge cetdre u Preu qudo Gouue uermer prce moyen e Codjteurfe ven du mouduou oe qu uyo qus e Chpeu ouge Ms un pu n eunnene conres u eude ure donnern Fes donme erenen e noee e counreonn du rouenu dun un un re conpont y done pus dppremnee quePrnces & ceux qu nont ueune enuure eune enneun nue que e cdurnuut demeure que e Coduteur uycedecour ee n empeehe punque e Cd nund ouetne ot eneupee d d pe onune unt oee ureenu de re re coutre e entment meme de ce reuore e reprendre e Sege dEnpen r n euer pres y uuor eerece pre de de Supes qunont ps eu meme de epuure Ercomme vnnheur rdue unms e ns pnuns des enurds nu uone ne e nes venes vourment cques & n de urs Coone dednehny qu tour e e ens uunn de pveneonpu eone e yeneunme eoruns reeus pe rr Tnnnon AMnnn qu e"
+        ],
+        [
+            "4 pu prepoftere eus ppdn nerfre Ce qu ynt eté rpporté́on Emnnce uy er ut de remede à vn grnd m de tete qu com menç̧ot à e r pr vne prehenon qu uot euë de romer entre es mns des Prn ces & detre treté ou comme Conchny Cochno Mrqus dAnere ou en comme vn Guther dAnmoy duque pprs dns Hytore de Phppe e Be qu fut ecorcheé tout vf on memre coupeé pus gnomneu ment penduPontoe comme uf futHuer deChmre des Brus dudt Ph ppe pour montrer dt Hyten Frnços de Beoret qu fut queon dvn Roy ot non euement ns vene ms encore ns e oupcç̧on dcee Ce Lndrguet ynt eu dns cét Hytore on ugement s rret tout court Otupur teternt que comne & vx fcs ht Cet vne etrnge pon quepeur ee ote ouuent e ugement u queque fos ee en donne Tntot ee donne des esux tons comme ̀ ceux qu prndrent epou uente àBte de Monthery qu e fuyot vn utre pr deux routes oppotes & ch ecun cryot que ceuy qu etot de utre coté"
+        ],
+        [
+            "e tnt u eu & ux chues Tntot ee cou es peds & es entrue comme on t de Em pereur Theophe quynt perdu vne Bt edeunt f trn qu ne pouuot e remuer pour fur L peur qu t e Mzrn net pont de cees quon ppee tmr cdenscontsems vrum S non quon ppee con tnce vne eurnce dns e vce cuée de Orguë̈ & de npunté ms vn preugeé dedefte & de on upce y ouuent oure uec vnon Autheur quecorde etere decruuté́ & ex perence nous enegne que ceux qu ne fon pont profeon des rmes comme es fem mes & es Tonurez ont pus uects àcoe re & meme àvengence L pumnté pour e fre de fete & trer queque dunt ge de veur emogne e pre u ng & u crnge Notre Reyne & e Crdn Ln dguet ont tout de feu s veuent redure Prs en cendre pres uor ft per pr e f de epé́e tout ce qu e trouuer dns encen ce de es mures Ld pus prt du cone de guorre ur e Sege dEtmpes etoent dus de ne e pont entreprendre & enochde Turenne neme queque echuffé qu ot u prtymrn uefnr ppoéqus pour"
+        ],
+        [
+            "oeyr ux commndements expres deReyne & du Crdn qu penent qu nyren dechud que eur feu ms ceuy duson dEtmpesete ugé pr es odts pus ve hementLes rmes temognent en ouuentgrndeur du courge Gs peure Ened5 pres uor fct tous es efforts pour vncreynt vouu ã̃chepter uec on ngVctore dtmque vount proude pco ee chrms cruere geneLe erfetnt ux oysette des rmespeur e peut uor rendu courgeux u en que ces Romns qu pour fte pge à eur cheté petcerent dn merueeux effort touteArmce dAnn Les Femmes ne ont mscourgeues que Depteées Nrumque frens qd femn yofrOr notre Royne à me uets pour vn de e depter Les Vctores du Prnce de Condé nfexté́ du Duc dOrens Arruée du Duc de Lorrne e muus uccez du Sege dEtmpes e pge de cete groe Armée qu peut enueoper C our uy peuuent uor donné vne chude rme ms en voey dvn utre toôneuReyne peurgroes rmes n focneu & uonotnt des nfdetez du Mzrn"
+        ],
+        [
+            "7 Mzrn ee ne peut e reoudre à eogne ment de ce Trtre Mes mmot mnes chyms vontur neset vry que e Royproteté́ dns vne ettre quemjeéert ̀ on Atee Roye qu nnnerot ms on Prrn Le voy dons encores rretefut que ce Tyrn de meure Ms remrquons cy ncomodté degrndeur Les Poëtes ont fent uec u tnt de prudence que dndute que esmours de upter etoent condutes ous u tre vge que e en cee qu e vouut vor engrndeur &Mjeté́sen repentt Pton defnt en on Gorgs e Trn ceuy qucence en vne Cteé́ ou Ett dy fre tot ce qu uy pte zrmn veut non euement pecher u upum ns de pusveut f re montre & prde de on vce Son Ru u Mnter qu tendr en tot e hut du p ué & quuy ucceder à ce queon tent en cs de mort ou de nnement o nus non ds fctter e truett dns toutes es ntr gues Son derner recours et de fre venr à grn de hte e CdetPere & e erur en tten dnt deruze ccoutumée des coferences E 3"
+        ],
+        [
+            "8 uec es Deputez & mene dvne treue de d ours pour donner temps à ceux de on prty de uypporter du ecours Ms pres routfut e reoudre de prtrnypus re n dns e gouet e odt ne vt ps de vent &nyren n dns eprgne n ohez e pyn Qu e contente duor ey regné dx ns qufce pce à queque utre QueesMzrnes ne veue ps ndõner & quee e vee uure àoeur yons pte de eurs rmes & u eu de medctonsdonnons eur en prtnt vn mon de ene dctons ur eux & ur es eurs no FN"
         ]
     ]
 }

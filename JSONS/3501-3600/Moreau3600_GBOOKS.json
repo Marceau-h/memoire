@@ -1,148 +1,51 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "affiche",
-            "lettre",
-            "discours adressé"
-        ],
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-08-26",
+        "creation": "1648-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-06-14",
+            "@when": "2022-06-15",
             "@who": "ZC"
         },
-        "titre": "Second affiche affiché dans la ville de Compiègne pour\n          courir sur le perturbateur du repos public, le cardinal Mazarin étant à présent au château\n          de Bouillon, affiché le 3ᵉ jour de septembre 1652, avec la lettre de Son Eminence écrite à\n          Sa Majesté, de Bouillon le 2ᵉ jour de septembre 1652.",
+        "titre": "Séance du roi Louis XIV en son lit de justice en\n          Parlement, ou les Vraies harangues de messieurs le chancelier, premier président, et\n          Talon, avocat général.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3601_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3600_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "SECOND",
-            "AFFICHE",
-            "Affiché dans la Ville de Com",
-            "piegne, pour courrir ſur le per",
-            "turbateur du repos public, le",
-            "Cardinal Mazarin, eſtant à",
-            "preſent au Chaſteau de",
-            "Boüillon.",
-            "Affiché le troiſiéme iour de Septembre, 1652.",
-            "AVEC LA LETTRE DE SON EMNENCE",
-            "eſcritte à Sa Maieſté.",
-            "De Boüillon ce 2. iour de Septembre, 1652.",
-            "A PARIS,",
-            "M. DC. LII."
+            "Sénce du ro Lous XV en son t de justce en Prement ou es Vres hrngues de messeurs e chnceer premer présdent et Ton voct génér Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de PrsSénce du ro Lous XV en son t de justce en Prement ou es Vres hrngues de messeurs e chnceer premer présdent et Ton voct génér Prs Gervs Couser 649 Lyon Bothèque muncpeRés 37979 à 3980TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3600 Sénce du ro Lous XV en son t de justce en v Prement ou es Vres hrngues de messeurs e t (9/ chnceer premer présdent et Ton voct gé nér Prs Gervs Couser 649 8 pges Peu commun Sénce du mercred 29 juet 648prose non rensegné Avr 648 644"
         ],
         [
-            "Second Affiche, Affiché",
-            "dans la Ville de Compie",
-            "gnepour courrirſur le per",
-            "turbateur du repos public,",
-            "leCardinal Mazarin, eſtant",
-            "à̀ preſent au Chaſteau de",
-            "Boillon.",
-            "fihé ;. Sptembre, 65e.",
-            "Auec la Lettre de ſon Eminence eſcritte à",
-            "Sa Maieſte..",
-            "Mssv",
-            "C’eſt pourt la ſeconde fois que nous faiſons",
-            "aicher, pour dire à nous meſmes que e",
-            "iuoau eguenes de coœur, que d’auoit laiſſé"
+            "SEANCE DV ROY LOVYS XV EN SON LCT DE VSTCE EN PARLEMENT ou es vryes Hrngues de Meßeurs e Chnceer premer Predent & Ton Aduoct GenerA PARS Chez GERVAS CLOVSER u Ps ur es degrez dencte Chpee M DC XLXAuec Permßon"
         ],
         [
-            "4!",
-            "ſortir celuy qui eſt la cauſe de tant de deſaſtres,",
-            "& qui par ſes trahiſons a mis pluſieurs Villes",
-            "au deſeſpoir, preſque à ſe reuolter-conere Sa",
-            "Maieſté. Nous ne ſerjons pas bops François,",
-            "ſi nous ne prenions que noſtre intefeſtpad.",
-            "culier. A la verité il fautque aousdiſons, ces",
-            "paroles. Ie penſe que nous erons irſenſbles",
-            "a aos miſeres; juſques àee, qu’ilne ſaplus",
-            "temps d’en auoir du reſſentimént: Et qae",
-            "vous ’appliquerez les remelés à vos mla",
-            "dies, que lors qu’elles ſeront deſeſpereées par",
-            "par la derniere-de toutes les calamitez.",
-            "On vous auroit il ya longetemps dj, qjil",
-            "4 2",
-            "falloit prendre les armes, & aller de viue force",
-            "exterminer celuy que Paris deuoit auoir mis à",
-            "mort il y a long temps, & c’eſt aà ce coup qu’il",
-            "faut aller ſur le Mazarin, & y mettre main baſſe",
-            "en de pit de ceux qui en voudrontempeſcher.",
-            "Quoy auons nous pris les arnes ſur le dos",
-            "pour les remettre, eſt-ce qu’il ne faut pas aller",
-            "plus auant dans les affaires: Il y faut aller auec",
-            "courage, & il faut que nous allons querir no",
-            "ſtre pain au fil de l’épé́e, conrre vn miſerable",
-            "Sicilien: vomie par Lucifer peſte des enfen,",
-            "Allons braues compatriottes, ſuiuons l’endor",
-            "my réueillé de Paris, qui dit,. qu’il n’eſt plu.",
-            "tant"
+            "SEANCE DV ROY LOVS XV EN PARLEMENT g E Mercredy 9 uet e Roy et entré en Prementté deRene Regente & ecompgné de Mon & feur e Due doede onfgeur e Prmee de gonty de Moneur e Crdn de Meeurs es Dues &eesue dreeneee e Moneur e grnd Chmen du Mrech de Veroy on Gouuerneur du Mrqus de Gevre Cptne des Grdes pres deper onne deMeté tout decouuert & des Dmes deutte deRene Tout e monde etnt pcé e Roydt que on Chnceer ferot entendrevoonté comp goentnt Moneur e Chnce er et é prendre ordre deMeté & etnt retourné pce dt en memes termes ESSEVRS LV Le Roy m commndeé de vous eurer qu net pont ve u en on prement pour y fre des ctes dvne utce eue re en dernt de vous des verfctons fch eues ms pour y don ner à es Offcers & à es uets des remognges deonté & de on mour Ce eune Prnce ynt trouué Ett rempy de guerres & dffre dns vn ge qu ouge den remettre e Gouuernement àRegen ce deReyneMereCette ge egentetouours té comt euë de deux ders en dfferens dns es moyens de executon de ouger e peupe & coneruer E Aprésmort du Roy dheu reue & goreue memore ee n ré eu de pus cher que dermpoye tous es onsmoyenner àFrnce vepx eure & honnore Et comme ce en ttendu depus vnong remps et e uet de tous es Vœux et u de es pus dentes preres"
         ],
         [
-            "5j",
-            "tant de ſecourir des Alliez, & qu’il faut tuër",
-            "cetre peſte d’italie, allons à grands pas mar",
-            "chons viſte, nous l’ataraperons ſur le chemin",
-            "de Boüillon, & nous luy ferons reſſetir l’effet",
-            "de noſtre rage. Allons, nous auonsi auertis Sa",
-            "Maieſté nous luy auons dit, que Sa Maieſteé,",
-            "nous fauoriſaſt tant que de luy donner vn lieu",
-            "de retraitte, ou bien qu’il nous permit de met",
-            "re main baſſe ſur luy.",
-            "Le Maarin ſeroitſoreypluſtoſt de l’Eſtat,",
-            "ſivnautre qui eſt tantoſt Frondeur,; & tantoſt",
-            "Mazarin ne l’euſt retenu, pour faire plus heu",
-            "teuſement iouër ſes nrrigues Ignorez vous",
-            "donc ce qu’il braſſe iour & nauict, pour faire",
-            "uaiſtre de nouueaux obſtacles à toutes ſortes",
-            "d’accommodement? Ne ſçauez vous pas que",
-            "bon Frondeur, & fidelle Mazarin a emprunté",
-            "trois millions pour luy enuoyer, afin de renfor",
-            "cer les Trouppes, pour ſe tenir en ſeurete au",
-            "Chaſteau deBoü̈illon; it fait eſperer à ceux qui",
-            "ley ont preſté́ ceé́t argent qui’il les renbourſera.",
-            "Neſç̧auez vous pas que ſous la meſme eſpe",
-            "rance, il a gaigné quantité de perſonnes, &",
-            "meſmes que lques Conſeillers du Parlement",
-            "dont ie laiſſe les noms à ſa Cabale; afin d’en",
-            "faire les premiers Arcs-bourans de ſon Ty",
-            "ranuique deſſein."
+            "Ce qutouché pus enementet que pout outentdepen e de cnqrméesee e vot redute àfcheue neceté de ne pou uor enterement drmnuer es chrges de Ett ny remettre es peu pes dns e premer oeur quperdu pr vne ongue guerre Nentmons vous voyez Meeurs quutnt que e eon des ff res e peut permettre eurs Metez ont ft & font eur pouuor à on ougement & qus ont donné des mrques de eut onté & de eur utce en ccordnt pr vos dusreuocton des ntendns e re tement des Offcers dns eurs Chrges &remme des rrer ges des tes de tout e pé uques à nńe 646 & e demy qurt decournte e vous enre encore que prDecrton quees pportent cy ees font vor des nouueu emogges de eusmour u peupe & à vous deetme quees ont ftes de vos remon trncespsreme quees font encore du qutt de649 & des u untespr vne prte des gges quees ccordent ux Offcers & prconfrmnton deChmre de utce dont ees ont menes nommé es uges Au de votre prt Meeursvous drez pr vne connonce rec proque à tnt de ets temogner à eurs Metez vos umõ̃s vos dferences& ny ynt pus ren à fre à egrd des pntes du peupe qu pprennent à vos ons de fnr vos eméesLeurs Metez nont pont de doute de votre fdeté ees ont eurées qu tout ce qu ft à cette heure gtton de vos eprts n ren de con trre à eur erucems ees ugent necere drreter vos dee rons pour ce quees ont m nterpretées pr es ennems de E tt & quees ffoentrepurton de nos rmées S vous uez ms rendu ucun eruce àCouronne en des oceons mportn res cey urpe es utres & vous neutes ms de eu propre à merter du R oy etme de votce oencu urpus eurs Me tez mont donné chrge de vous eurer de honneur de eur en uence & ffe ton & de vous dre que vous ne pouuez fre choe qu eur ot pus gree que dempoyer à duenr e remps de vos emées à rendeux uects du Roy votre utce ccoutumée Monmeur e Chmceer yot fy AMoeure preméer Prede prsproe & dt en memes tenes"
         ],
         [
-            "6",
-            "Il dit qu’il publira que toutes les graces&",
-            "les faueurs qu’il reç̧oit de Voſtre Maieſte, ne",
-            "font qu’vne partie de la recompence qui luy .1",
-            "appartient, quoy qu’il ne vous ſerue de choſe",
-            "quelconque, ſinon d’vn abiſme, ou ſe perdent",
-            "les liebralitez infinis que Voſtre Maieſté y ie",
-            "te inceſſament. Sire voyla que nous auons re!",
-            "çus des Lettres, des memoires que le voleurde",
-            "voſtre authorite enuoye par tout, voylà con",
-            "me il fait pour vous tromper, & en vous traitl",
-            "tant de la ſorte que peut on dire de voſte",
-            "perſonne..",
-            "Allons braues Comprtriottes, allons a",
-            "ſaillir l’Autheur, de nos ruynes, allons dechirer",
-            "à morceaux celuy qui eſt la perte de nos fam",
-            "milles, alſons voir le vomiſſement de Lucifer,",
-            "celuy quia mis toute la France en trouble, afin",
-            "d’en faire vne proye pour les Corbeaux.",
-            "Vos tres fidelles Suiets Vos bons",
-            "Pourgeois de Voſtre bonne ville",
-            "de Compiegne."
+            "dep nepo es peguut es h or onde eu s ere tr yqut eesmo 53u s & nts ec õ̃s e 08o y FAT AV ROY SEANTr EN SON LCT DE VSTCE PAReMoneur e premer Predent e 29 uet 48 RE D 4Le upere ppre qu mrchevore utte & cet te pompe uecquee votre Meté́ vent ey nmprmẽt ps meux e repect de votre punce Roye ucœur de vos uects que es ox & es regements qu eur eruent de fun & es empechent de trouer e repos deMonrce es ox qu ont es fondements du on heur des Etts ne ont pont es ouurges des hommes cct Deu qu en et Autheur & es Roys ont comme des rches cnux pr e ques eesont verées entre es mns des uges pour en fred trutoneurs uets cet pr eurs oeruons que es Royu mes ont mntenus dãs vne poce regé́e & que ordre qu ft eurs rnements u en que eureureré et gdé & entretenuëtrue tout u contrre que es uets eur perdnt e repect & ne vount pus recognotre eur uthortée fct vn derege ment vnuee qu e trouue dns es fnnces dns Ege & dnsutce ex pe renceft vor depus queque temps vne prte des mux qu p porte e meprs des ox & des ordonnnces dnsmuue dn ntr ton de ceux qu ont eu e gouuernement des fnnces dont s ont ft vnmuus menge votre Meté n ps dequoy fre utermon cet ce qudonneé cu ux emées de ce Sent qucreu etre de on deuor dempoyer on uchortéreeuer es ox cúes & cognont es mux qu e ont gez dns routes es pttes du Royume d pporrer es remedesvotre Meté Sre ne peut trouuer munsque on Prement qutouours eté e prntp cone des Roys uy fce vor es mux que ouffrent es uets dernere oppreon ou one es Offcers &dpron de es fnnces ny qus tendentmn pour reeuer Et t decheute prochnepuque meme es pgers donnent en dus u Ptron qund s voyent que e veu coutrt rque du nu fr ge votre Meté queque our nous ferot vn ute reprochenous yn comms pour empoyer routes nos vees u ut de vos peupes( ce que ft es Souuer nes ox nous uy dmuons es de B"
+        ],
+        [
+            "eporsou es ont ms esmpots quon eue ur eux dequesne re uent à votre Meté quemondre prte quee honte eroe àyotre Prement de oufrr pus ong remps cette omne pet que de prets ur prets que urce des Fnncers depus peu fe ntre pourrune de votre Ett & qu vennts u monde demé me fçon que des vperes dngereux ont mngé́ e cœur demere qu eurdonrnnce & é eur pere en repos àhonte de notre ece ces ntetets egtmes qu douent trpent & qudru pent on ce ps des gngrenes ttché́es u corps de Ett qu g gne nt nenement toutes es prtes noes & qu en tet rrue ront ̀detructon des uects pouuons nous vor Sredepence exceue qu ft vctre Meté pr es moyens de cette vure exor tnte & que votre mon Roye ot ur e penetrnt dechu te ns uy montrer e precpce quee cheté erot ce dendurer pus ong tempsvoe nce des prtns qu forment des deens ur e en de rout e monde qu mettent en prte es gges de tous es Offcers & dontfortune ute deurot reemercertnes feurs qu nent & meurent en vn our pr des nfuences contrres et dnsconfcton de eur en que votre M té peut trouuer es moyens dentretenr ces rmées & remeder à toutes es necetez de on Ett ns ren prendre ur es Offcers ny ur es uects onses premers ruts que votre Meté dot ttendre deChrmre de utce dont etement etntute comme es Offeers en ont vtes & nece resnous eperons dedune onté quee vous fergrce douurr es yeux ut es deordres deFrãcedecoutetvox de vos uets & dgreercontnuton de nos enées dns equees votre Meté trouuer e moyen de redreer es ps qu e ont fts dns e on ordre de Ett pr noeruton des ordonnnces de rctr dns voftreeprgne vn fonds pour es r mées & oeur prmy es peupesce ont es vœux & es ouhts de cette compgne de qu tous es deens conprent u en du Royume & qu font conteter eur prnep deuor &fdeé etdcnner en routes choesvoûtre Meté des preues de ou oe nce Moneur e premer Predent ynt fm e Seur d Te Gre ferdeCour es vne decrton qu e vot preée dequeeeure ens eftt fce Moneur Ton duoctGener dt en cesfenesr"
+        ],
+        [
+            "ne e eà pr t́ uete ee u y HARANGVE L T DE MONSEVR TALON ADVOCAT GENERAL g 4 RE L ence de votre Meté en ce Prement qu preuent nos ons & nos deertons & qu eme pr ce moyen rendre nos Exereccesupetfus & nos fonctons nutes dot uor pour fon dement cette pené́e des Attonomes que es tres ou conte tons qund ees ont eues operent ens pus pumment que qund es ont uec durres dontcononcton dmnue es for ces de eurs nfuences Ans s dent que pnete de upter pouuot domner tout eue urterre es hoõ̃mes eroẽt mmortes A que votre Meté er pus punteee gt toute eue Msnen et ps du gouuernement deterre comme de ceuy du Ce Deu eu et ceuy qu ouure & qu ferme eonproe de Ecrture Cet uy eu qu dpoe ptproudence u gou uernement de tout e monde ns que pour ceyt eon ny dydes ny de coneMspour es Roys encore qu oent derce des Deux s ont netmons égux ux E nfns des hommes En ce quet des prncpes denrur s ont compoez de meme mtere & ont vne ron qu ngt que pr es memnes reors & & vne uthorté qu à eon & dyde & de cone u net ce ps uthorté toute eue qu ft es monr quescetue cton des peupes Ce ne ont ps es grnds qu font es Royumes pus qus nen font guere quvne pette prte msmuttude des htns &fut pour fre uter vne Couronne eucoup de ecours etrngers ee depend devgnce des Offeers deptence des odts deumon des peupes &ee en etor dettué́emonrche ne erot pus quvne dé́e An Sre ce qu ft votre monrche & quft uter cet que voftre nnce nous engge ous votre oence que nous om mes nés frnços & que De nous à ms dnsconcenc es ? prncpes de notre deor & du repe ct qu nous ommes ogez d vous rendre & quu nous perudes que es Roy etnt é́crez dv ne umere upereure & dune qu eur et communqué́e de hutfut oer à eurs ordres uec oumon & venerton Cet ce qu ft Sre que nous vous uppons de conderer que dnsnture toutes choes ne uftent que pr vne epece de con trdcton & de contrreté́ que es Eemens fe coneruent en gfnt vn contre ure que es qutez contrres qu compo ent es tres e font vne guerre contnuee & ne utent que pr ee& quequequvne deuenot rop punte oe detru"
+        ],
+        [
+            "rot on uet prtrop grn de ctuté́ A nvons uez ve que que orte de retnce c eté putot pour fermr votre uthor eé que non ps ponr ern er Les tres ttrent en ouuen des vpeurs deterre done forme des nées & meme des meteores qu es ment comme e Prheon & ne e pgnent pont que ces vpeurs ocrcent eur umere ps quees ne oppoent que pour empecher que eurdeur ne ruererre & e reoudent en ure en puyes & en roées qu fertent es cmpgnes Cet que cette compgne set comme nter poeée entre votre Meté & es pcupes ee et comme u neu & n ddreé́vox à votre Mete qupres uort ete océe pr es crs de pueurs prounces qu peent ousmere & dont es pntes ne peuuent pruenr uquu cnet de votre Meté Nous fons utement comue ces o eux quon ppee eeuc des qu ne e font vor ux htns du mont cuce qupres qus ont dns des vé́es preque mgées des uterees Ftess vous pt Sre ref xon ur cecy & conderez que commeet dt dns e prophete que Deu ecoutvox des ceux & que es ceux netoent que es nterpretes des vex deterre de me me que e Prement ne vous repreente quevox des peupes op prmez & croyez mdme que es Roys ne oroent port en tute e pour ecouter es pntes du peupe & es uppctons de cette compgne & uure es ox etes dns ett & pprouuer pr votre uthorté́ e procedé de cette compgne qu et conforme à ntenton de ceux qu ont ety es Pre mens uthore pr e coõ entemét de vos pre deceeurs &poeon des eces precedens et vry que votre Metéde rendu de grnds temogn ges deonté enuers es peupes Cet pourquoy nous vous de uons des ccemt6s des tromphes & meme des dedcces com me onerge utrefos à̀ Rome vn tempe en honneur de Em pereut Adrn prce qu uot rems u peupe romn es veux rrerges des truts C ne ne er pus à preent des puures peu pes que on trer de quoy fournr ux depenes deuerre Fut fre degorger ces ng ues du peupe ces gens qu nous ont ft ouffrr e ncommodtez depx prmy es mux deguerre qu ontntrodutdetre dns Ett & e uxe dns es fmes pr tcueres qu e cchent toutesfos & noent montrer qus y ent queque choe prce que eur grnde fortune cetconu ctõ de eurscrmes Cet de ces threors cchez de ces fortunes dot qu et pre prmy nous qu et perms ux Prnces de senrchr & ce net pus des entres deterre qu fut trer des rchees et du prx des terres nouueement cques Pour nous nous mr chons ur Ecptque prcournt tourtes es ones & netnt pont tché à ucune phere nous nuons dns notre mouuement ny oqutè ny trepdton ny errour FN"
         ]
     ]
 }

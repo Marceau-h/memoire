@@ -1,113 +1,38 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "arrêt",
-            "texte officiel"
-        ],
+        "genre": "texte officiel",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-07",
-            "@who": "AB"
+            "@when": "2022-08-22",
+            "@who": "KA"
         },
-        "titre": "Arrest de la cour de Parlement toutes les cham bres\n          assemblées , en faveur des manans et habitans des villes , bourgs et villages , pour\n          l'éloignement des gens de guerre. Du quatorzième mars 1652.",
+        "titre": "Arrest de la cour de Parlement portant qu'il sera procédé\n          à la vente des meubles et autres biens appartenans au cardinal Mazarin",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1suppl25_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1suppl23_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "ARREST",
-            "DE LA COVR",
-            "DE PARLEMENT",
-            "TOVTES LES CHAMBRES ASSEMBLÉES.",
-            "En faueur des Manans & Habitans",
-            "des Villes, Bourgs & Villages, pour",
-            "l’éloignement des Gens de guerre.",
-            "Du quatorieme mars 1652.",
-            "A PARIS,",
-            "Par les Imprimeurs & Libraires ordinaires duRoy.",
-            "M. DC. LII.",
-            "Auec Priuilege de ſa Maieſté."
+            "Arrest decour de Prement portnt qu ser procédé àvente des meues et utres ens pprtenns u crdn Mzrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Arrest decour de Prement portnt qu ser procédé àvente des meues et utres ens pprtenns u crdn Mzrn Prsmprmeurs et rres ordnres du ro652 24 juet 652 Lyon Bothèque muncpe de LyonRés 309943TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs23 Arrest decour de Prement portnt qu ser procédé àvente des meues et utres ens pp tenns u crdn Mzrn Du mercredy vng tresme juet 652 Prs pr es mprmeurs etrres ordnres du roy 652 4 pgesprose texte offce"
         ],
         [
-            "4",
-            "deſordres commis par les gens de guerre",
-            "en diuers lieux & endroits, meſmes dans",
-            "les dix lieüs des enuirons de Paris, ou plu",
-            "ſieurs deſdits gens de guerre eſtoient logez",
-            "contre ce qui auoit eſté accordé par le Roy",
-            "par parolles portées par ledit Seigneur",
-            "Due d’Orleans lors de la conference de",
-            "Saint Germain de l’année ſix cens qua",
-            "rante-huict;Que le iour d’hyer le ſieur Ma",
-            "reſchal de l’Hoſpital Gouuerneur de cette",
-            "Ville en auoit parlé en la Cour; Dit qu’il",
-            "feroit tout ſon pouuoir pour le délogement",
-            "deſdits gens de guerre, & empeſcher qu’il",
-            "ne vienne nouuelles Trouppes dans les dix",
-            "lieuës à̀ la ronde; ce qui auroit donné ſu",
-            "jet d’inuiter par ſes Deputez ledit Seigneur",
-            "Duc de venir en Parlement pour eſtre ſur ce",
-            "deliberé; Et apres que ledit Seigneur Duca",
-            "dit, qu’il auoit donné la parole de la part de",
-            "ſa Majeſt́, qu’il ne logeroit point de Gens",
-            "de guerre’ à dix lieuës à la ronde de Paris,",
-            "employera volontiers ſon pouuoir à ce",
-            "qu’elle ſoit exeutée, & de faire déloger",
-            "leſdites trouppes, promettoit qu’il n’y sn",
-            "viendroit"
+            "ARREST DE LA COVR DE PARLEMENT Portnt qu er procedé ̀ vente des meues & utresens pprtenns u Crdn MzrnMercred vngutreme uet 652 A PARS mprmeurs & Lr ordnres du RoyM DC LAuec Pruege deMeté"
         ],
         [
-            "viendroit à l’aduenir, & que ledit ſieur Ma",
-            "reſchal de L’hoſpital à promis d’executer la",
-            "parolle qu’il auoit donńe le iour d’hyer,",
-            "& dont il auoit eſcrit au Roy; Oy ſur ce les",
-            "CGens du Roy en leurs Concluſions, eux",
-            "rez, La matiere miſe en deliberation;",
-            "LADITE CoVR a arreſté & ordonné,",
-            "Que ledit Seigneur Duc d’Orleans ſera",
-            "remercié de ſes ſoings pour le bien &",
-            "ſeruice du Roy, & fait Regiſtre de ſa De",
-            "claration & de celle dudit Mareſchal de",
-            "L’hoſpital, & conformement à la volon",
-            "té du Roy, & aux Declarations dudit",
-            "Seigneur Duc d’Orleans, & Mareſchal",
-            "de L’hoſpital, Ordonne que tous les Gens",
-            "de guerre eſtans dans l’eſtenduë des dix",
-            "lieues à la ronde de Paris & enuirons, dé",
-            "logeront inceſſamment; A quoy faire",
-            "ledit Sieur Mareſchal Gouuerneur de Paris",
-            "tiendra la main. Ordonne en outre que",
-            "le Procureur general du Roy aura Com",
-            "miſſion addreſſante à tous Iuges Royaux",
-            "pour informer deſdits deſordres & violen",
-            "ces commiſes par leſdits Gens de guerre,",
-            "B",
-            "7l"
+            "EXTRACT DES REGSTRES de PrementEourCourtoutes es Chmes E emdes Moneur e Du dOrens t Once du Roy & e feur Prnce de Condé y etns ecture fte de Arret du vgeufé́me Decemre drner donné contre e Crdn Mzrn Et oy ur ce Be chefert Suttut pour e Procureur Gener du Roy uy rotrémtere me en dee ton ADTE COVR executãt edt Ar ret & utres dohnez en conequenceor donné & ordonne Qu er nsemment pocedévente de ce qurete des meues Cutres choes pprtnnt udt Crdn &̀reddton descomptes des EFermers & Receueurs des reuenus de es Benefces en preence detresCement e Meuer c qs Renrd Pu Port Ches Brrt Aexndre Petu& Perre Pthou Coneersdte Conr ou de deux dntreux en ence oumde desutres& ce qu etpr ex ft & ordõné executé nonotnt oppo uus& ppetons ftes & à̀ fre & ns eudce dceesOrdonne en outre qu er A"
         ],
         [
-            "6",
-            "pour le tout fait & rapporté communiqué",
-            "audit Procureur general eſtre ordonné ce",
-            "qu’il appartiendra. Fait en Parlement le",
-            "quatorziéme Mars mil ſix cens cinquan",
-            "te-deux.",
-            "L. aaa--oaa",
-            "Signé, GVYET.",
-            "7 r e",
-            "Collationné à l’Original par moy",
-            "Conſeiller, Secreſaire du Roy,",
-            "aiſon, Couronne de France",
-            "& de ſes Finances."
+            "pr deut Bourgeos de chc qugter 4 ferontnommez e Aemée de Hotede Ve ft ncemment vne eué́e de deners ur e ped dvne nneé́e de ce qu e pye poutxe des Bouës ur chcu des otes& htns es Mons de dette Vr & F ourgs de Prs u pyemenu de quee c cun prtcuer quccoudtumé de pget dte tx des Bouës er contrnt u pren refus nonotnt oppoons & ppetons ftes & ̀ fre eques deners & cee qu prouendpont devente des meues & teu nus des Boneces dude Crd enom ceux etns entre es mnsde f Mrtnet proceds devente deBrs theque dceuy Ctdm uquàomtn de cent cnqunteme ures eron msett es mns dé Bnquerspour es f̈éfn en tous eux à ceuy ou ceux qu ctrodedt Arreé du vmgufohé Docond dermer y Et er̀ epreert Asft ej puhé ffcé entos es Cmfous d ter Yo& Fux outgs F&A Ten Pdenm e odg qutréme et sqe SgnéTALECqromé ̀orgn rmo Cner serrAo7 n Curone deFnmce & de foet"
         ]
     ]
 }

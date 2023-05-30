@@ -1,230 +1,98 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
         "genre": [
-            "remontrances",
-            "discours adressé",
             "rhétorique délibérative",
-            "burlesque"
+            "remontrances",
+            "discours adressé"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": "Saint-Germain-en-Laye (Yvelines)",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-17",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Remontrance faite à Mazarin à Saint-Germain par un\n          bouffon sur son obstination à demeurer en France, en prose et en vers burlesques.",
+        "titre": "Remontrance faite à la reine par monsieur l'évêque d'Alez\n          sur la misère du pauvre peuple.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3326_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3325_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "REMONSTRANCE",
-            "FAICTE A MAZAR1IN",
-            "A S. GERMAIN",
-            "PAR VN BOVFFON",
-            "SVR SON OBSTINATION",
-            "à demeurer en France. En Proſe & Vers",
-            "BVRLESQVES.",
-            "A PARIS,",
-            "Chez IACQVES GVILLERY, ruë des Sept-",
-            "Voyes, deuant le College de Portet,",
-            "proche Mont-Aigu.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
+            "Remontrnce fte àrene pr monseur évêque dAez surmsère du puvre peupe Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Remontrnce fte àrene pr monseur évêque dAez (sc) surmsère du puvre peupe Prs André Chouqueux 652 Lyon Bothèque muncpe de LyonRés 30942TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3325 Remontrnce fte àrene pr monseur évêque dAez (sc) surmsère du puvre peupe PrsAndré Chouqueux 652 23 pges Rre Vgoureuse remontrnce qu ne porte ps surpotqueunquement sur es desordres des gens de guerreprose rhétorque déértve remontrnces dscours dressé"
         ],
         [
-            "3",
-            "REMONSTRANCE FAITE",
-            "7",
-            "a MAZARIN, àS. Germain en Laye,",
-            "par vn Boufon, ſur ſon obſtination à demeu",
-            "rer en France.",
-            "En PROSE VERS Burleſques.",
-            "VOVS m’excuſerez bien, Meſſer Iulles, ſi ie vous",
-            "parle icy franchement & auec tant de liberté, ie ne",
-            "vous traitte ny de Monſeigneur ny d’Eminence,",
-            "ces hautes qualitez ne ſont plus de ſaiſon chez les bons",
-            "François; i’en ſuis vn & de plus, voſtre ſeruiteur: mais tre",
-            "ue de compliments, &, de ces diſcours inutiles.; venons au",
-            "neceſſaire. Or ça, Meſſer Iulles, dire-moy, n’eſte-vous pas",
-            "vn grand foû d’eſtre ſorty de Paris où vous viuiez paiſible.",
-            "ment auec le Roy & la Reyne, où vn chacun vous faiſoit",
-            "la Cour? attendanr quelquefois des mois entiers pour re",
-            "eeuoir vne œillad de vous, & quand vous les auiez regar",
-            "dez du coin de l’œil, ils s’eſtimoient les plns heureux du",
-            "monde, penſanr que leur fortune eſtoir faicte: Car vos",
-            "poſſediez toutes les Finances diſpoſiez à voſtre volonté́",
-            "des benefices & grandes chages & qui plus eſt du Royau",
-            ", s’il faut ainſi parler, en qualité de premier Miniſtre",
-            "d’Eſtar, e que vous n’auez iamais merié, non pas meſme",
-            "d’eſtable ou d’eſcurie pour dire plus noblemeét, car cõment",
-            "pourriez vous gouuerner vn Empire, veu que vous ne l’a",
-            "uez pas de vous meſme. Vous n’auez pûi vous maintenir",
-            "dans les biens dans les hooneurs, dans les dignirez ou vous",
-            "eſtiez ey deuant. On dit hien vray, quand vn gueux a fait",
-            "fortun difficilement la peut-il conſeruer, il veut rouſiours",
-            "monce & quand il à arreint le faiſte des grandeurs il vient",
-            "n reuers qui le ierreaà bas & le ruine entierement. Coa"
+            "REMONSTRANCEFA E A LA RENE PARM LEVESQVE DA LESVR LA MSERE DV PAVVRE PEVPLE e s cde no Cuo ot r ne sn Auec Permßon de on Atee Roye"
         ],
         [
-            "feſſez-moy la verité, vous ne penſiez pas que voſtre ſortie",
-            "de Paris, en fuſt voſtre banniſſement auſſi bien que de la",
-            "France O le grand iugement & digne de voſtre perſonne.",
-            "Il eſt vray que ſi vous en auez, on en doute: car on n’en à̀",
-            "veu encorc aucuns effets. Voſtre Miniſtere demande tou",
-            "tes les qualitez qui rendent vn homme parfair, tontes",
-            "vos perfe ctions ne ſont que dans la fourberie, & à piper au",
-            "ieu & l’Eminent perſonnage, vous me direz peut-eſtre que",
-            "c’eſt vn fou qui vous parle, i’aduoue que ie le contrefais",
-            "quelquefois: mais pour bien s’en acquiter, il faut eſtre",
-            "bien ſage, ie vous doõ̃ne aduis que vous n’ayez pas à p éſer le",
-            "contraire, que pour eſtre ſage, il faille eſtreé bien foi Si vous",
-            "m’eſtimez tel, en cette qualiré́ vous me deuez croire car",
-            "les fous propheriſent quelquefois & diſent vray la pluſpart",
-            "du temps. Il ſemble que vous dormicz, reueillez voſtre at",
-            "rention & prenez garde à̀ ce que ie vous vay dire. N’eſpe",
-            "rez iamais de rerourner à Paris, ſi ce n’eſt pour paſſer par",
-            "la greéue en allant à Montfaucon, quià bien beſoin d’vnrel",
-            "habitant que vous pour le faire rebaſtir: car ie vous puis",
-            "aſſeurer que tous les Peuples ſont autant de Iuges Crimi",
-            "nels qui vous condamnent à la morr: chacun prononce ſon",
-            "Arreſt ſelon ſon opinion & ſa paſſion, les vns vous deſti",
-            "nent à vn gibet, puis à̀ la voirie, les autres à vn pareil ſup.",
-            "plice que Rauaillac, vous ſç̧auez entre vous & moy, que",
-            "vous le meritez. Il y en a qui vous veullent ſeruir de bour",
-            "reaux eux-meſmes & vous deſchirer à belles dents pour ſe",
-            "vanger des maux que vous leur auez fait ſouffrir, quelques",
-            "vns vous veulent bruller à petit feu: ne tremblez vous pas",
-            "aà ce recit, quoy que vous faſſiez vous ne pouuez eui",
-            "rer quelques vns de ces ſupplices, on eſt bien venu à bout",
-            "d’vne infinité d’aurres Tyrans que vous, entr’autres de",
-            "freſche memoire du Marquis d’Ancre voſtre deuancier, on",
-            "vous attrapera touſiours, pour bien gardé que vous ſoyez.",
-            "Dieu ne laiſſe rien impuny, vous eſpérez peut-eſtre que les",
-            "François eſtans bons, ils vous pardonneront, vaine eſpe",
-            "rance: car cette bonté meſme fera que vous n’eſchaperez",
-            "iamais de lears mains? N’eſt-il pas iuſte qu’vn meſchant",
-            "comme"
+            "eepttefetsgp Ejsseq88 RE MoST RAcE fcte ̀ Reyne Mere du Ry pr Moneur Eueque dAez urmere dos puure poupe eA pCommeRegon Chretenne mprmé ux eprts des Roys & des Prnces Chretens n queur vn onge de dmnt qu y vn Deu verte en es roes dque de pendent tous es Etres qu vn pouuou ur es Anges ur es hommes & ur es Dëmons qu et uge Souuern & tout punt qu çe en recompener es ons qu yment & e cr gnene & chter es mechnts qu offenent utrement dérogero àutcefue crore qu nypunce mgrndeéururTerre te quee ot qu nduoé dependre oumens de uy & n qu venut etre crnt & oey u quety certe oy ux Mon ques ux Srnds du monde detre ujetts ̀ es voon e ns smgner que ny orgue deMjeté"
         ],
         [
-            "oee",
-            "comme vous periſe? Ils ne ſont pas lans vengeance noi",
-            "plus que ceux de voſtre nation? Eſcourez le conſeil d’vn",
-            "fidelle Amy, qui vous parle ſans fard & qui ne vous diſſimu",
-            "le rien, faite giſle pour iamais de la France, ̀ ces mots vous",
-            "deuenez bleſme, cela vous fait peine ie le voy bien: mais",
-            "quoy il faut vous reſoudre à partir ſans autre attrirail ny ba",
-            "gge, que le regret d’abandonner, ce que vous cheriſſez le",
-            "plus. Fuyez au pluſtoſt de peur de quelque ſurpriſe, taſ",
-            "chez d’emporter vos orilles ſaufues, ſi vous pouuez, n’at",
-            "tendez point la Courope dela main de vos ennemis com",
-            "me on vous la fait eſperer, ſi ce n’eſt cette Couronne farale",
-            "dont en enuironnoit la reſte des victimes que l’on alloit",
-            "immoller, ſi vous auez quelque peu de vertu faites-en pa",
-            "roiſtre quelque eſchantillon en cette conioncture. Forcez",
-            "cette inclination qui vous porte, & vous obſtine ſi fort à",
-            "ne point quittrer ce climat, ne me dite point qu’on ne",
-            "peut euiter ſon malheur apprenez que ſapiens dominabi",
-            "tur AAſtris, ie vous aduertis en paſſant que c’eſt du la",
-            "rin dont ie vous donnerois l’explication ſi vous auiez",
-            "la teſte bien tymbrée. Faicte banqueroute au vice auſſi",
-            "bien qu’à la Franee, don vone aue emprntreé toutes",
-            "les Finances; pour ne pas dire volleé. L’Amour que vous",
-            "auez pour le Roy, vous a obligé d’en prendre tant de Por.",
-            "traits. Retirez-vous dans vn deſert, quittez le Monde.",
-            "Veillez, jeunez, priez & macerez voſtre corps que vous",
-            "auez tant delicaté en cette vie, ſi vous voulez aller bien",
-            "heureux en l’autre où vous fuſſiez pour voſtre bien & pour",
-            "le noſtre, il y a dix ans. Mais ie vous amuſe, chaque mo",
-            "ment vous vaut vne heure, pour vous enfuir. Hé quoy!",
-            "vous ne partez pas; Qui vous rerient? C’eſt infaillible",
-            "ment que l’éloquence de ma Proſe n’a pas d’éguillons aſ",
-            "ſez forts pour vous chaſſer. Voyons ſi mes Vers n’auront",
-            "point quelque pointe qui vous ſerue d’éperon pour vous",
-            "faire déloger.",
-            "Seul Objet de noſtre ſouffrance,",
-            "Comme Paris, quitte la France,",
-            "Quitte la Cour & S. Germain"
+            "4 nyupere grndeur des tetes Couronné́es otexempte & dpenée de esOrdonnnces dunes Doù vent que tous ceux qu pr vne vne & oe preompton e croyent etre à̀ ry de es ugemens & que come es Lurers ne douent redouter es foudres decoere e ont emnc pez uquesque de vouor séger à Deu eur Creteur & mrcher du pr uec uyeont veuz couuerts de confuon & enueoppez en des pe nes eternees tes quont eteé es premers An ges reees qu pretendoent e vor eeuez u Trone meme deMjeté de Deu Seme futtupdté dAdm que Deu uot ety Chef & Roy de tou e monde & de cous es n mux ms prfue & fceue perun du Serpent nfern sount de mence que Deu uy uot fcte de toucher à rre deffen du ̀ pene deve neps dpre cette égté Dune de çuor tout & detre uç unrt que Deu Vnté́ preomptueue & dmn e qu e ft ot decheor de heutoux ett d nnocence condmné àmort ux penes u tru & ux ueurs contruees de on corpsqu fut contrnct depouer tout e ong deve pour uor du pn & n e verfe ce que dt e Sge u chptre 6 deSgee Potenes poten er torment ptentur Nor enns urrhet peronns Cuque Des qu etonus Domutor nec vereturmgn"
         ],
         [
-            "6",
-            "Aujourd’huy pluſtoft que demain,",
-            "Quite cett agreale Terre",
-            "Qe ru deſole nar la Guerre,",
-            "Par les feux & les aſſaſſins;",
-            "Apres que par mille larcins,",
-            "Et milleinfames Monopoles,",
-            "Non ſarisfais de ſes piſtoles,",
-            "Non ſatisfait de ſes deniers",
-            "Que t retiens jaſqu’aux derniers.",
-            "T las, ô fere appriuoiſée;",
-            "De ſang, & d’humeur épuiſee,",
-            "Laſche; mais cruel Ennemy;",
-            "Monſtre que Gibel a vomy",
-            "Rerourne en ton Iſle maudite.",
-            "Haſte-roy de prendre la fuite",
-            "Craignant que noſtre aueuglement",
-            "Faiſant place au reſſentiment,",
-            "Nous nous vangiõs de nos miſeres,",
-            "Et des cruaurtez de tes peres,",
-            "Sur ton abominable chef.",
-            "Ie t’en conjura drehe",
-            "Par la meillſeure- de tes pieces,",
-            "Par tes deux nabotes de Niepces,",
-            "Par tes faits les plus innouys,",
-            "Par nos Ecus & nos Louys,",
-            "Par ton fauory Particelle,",
-            "Et par cette haine immortelle",
-            "Que ru garde pour de Brouſſel,",
-            "Par le charbon, le bois, le ſel,",
-            "Par le vin que ton avaric",
-            "Euſt fait vendre comme l’́pice",
-            "Si tes deſſeins du tout maudits",
-            "N’euſſent point eſté contredits.",
-            "Ie t’invite & conjure encore",
-            "Par la Cabale qui t’adore",
-            "Il’entends Meſſieurs les Partiſans",
-            "Dont les aduis ſont ſuffiſans",
-            "A",
-            "raM"
+            "5 m̀gnt udnenmt cuuqum quonms pnum mgnu pe fect & equser etcrc de omnus forto rus utem fortor ntr crucus Les pus puns ouffrront pumment es tourmens qus ont mertez Deun uecun egrd ny nexcepte per onne uy qu et e Domnteude tousnecrnt& ne e ouce degrndeur de qu que ce ot cet uy quft es grnds & es petts on égement de tous ms enuers uy e pus s fort chtment et reerué́ ux pus forts & pus puns qu uront offeneé Sur quoy MA2 D AMEpr ̀ votre Meté de ne trouuermuusen cétte quté de Pret en quee moy ndgne Deu m ppeé pour outenr & deffendrecue rement hrdmen & ns ernte enuers qu que ce ot e uy fce cogno tre es vertez Chretennes & vous uppe d uor cete ntructon pour gree qu etms portnte que es Roysdeuroent uor non eu ement expoée deunt eux ms gruee & m prmée u profond de eur cœur &crore que euretre & tout ce qus ont s ont receu de Deu que es Couronnes & es Sceptres ont endpo ton qu es donne & es ote qunduy pt & ̀ qu on uy eme ns rendre ron ̀ per onne de ce qu ft qu ne e fut pont ftter & fre crore que es punces que Deuet es ures peupes oent ptres dutre mte B"
         ],
         [
-            "De t’enuoyer aà la Floride",
-            "Pourueu que ton eſprit avide",
-            "Eſpere d’y faire moiſſons",
-            "Metrant impoſts ſur les glacons.",
-            "Ce ſeul mot d’Impots te réveille,",
-            "Dieux: il opereroit merveille",
-            "S’il te faiſoit partir d’icy,",
-            "Apres vn ample grand-merey;",
-            "Ie celebrerois leur louüange,",
-            "Diſant comme de terre eſtrange",
-            "Mazarin ſuiuant leurs appas,",
-            "Vers la France addreſſa ſes pas",
-            "Et que l’ayant du tout perduë",
-            "Cette cauſe de ſa venuë,",
-            "Pour noſtre bien, vn peu trop tard,",
-            "Fut le ſuiet de ſon depart.",
-            "Mais ie m’amuſe & te retarde,",
-            "Tire pais ou bien prens garde",
-            "A ne pas reſſentir l’effet",
-            "De ce qu’vn boufon te pr omet",
-            "Ie veux dire chanter l’An tienne",
-            "De la veſpre Sicillienne.",
-            "FIN."
+            "re que cee du pus puure de opt & que 6 comme s nent de terre & de meme fçon s ü̈étve uec es rmes u on uetsàoeneeounene e e pe unerpu ez Verté́ qe outent o u chp4 de on ure quddt Eece qu eruunt e nmon uns tes& n Anges us repert pruten Qunre mgsqu htnt domos utes quterrenu het funmd mentu conumenur vet ̀tne de mne vque d ve perm ucedentur Croyez comme es memes cretures & es pus ex ceentes qu eruentDeuux peds de on Trone ne ont ponteurez &ux Anges es Gentshommes dhonneury trouue du m comen pus Deu en trouue ux Roys deterre & ux grnds du monde qu demeurent en des mons de ouë qu none quvn fondement de terreé e verron conommés comme e drp rongé pr e ver & ns y pe er voyent e f de eur ve couppeé & retrnché du mtn u or ns etre utrement dpenez que e pus mereEt nentmons eucoup de Roys & de Mo nrques font tere de eurs peupes & ontouffs dorgue qus nen font non pus det que defente & deouë & mntennt pr vn grnd mheur & u meprs deDeu e pu ure peupe et prement trcté́ que es etes hr"
+        ],
+        [
+            "3 res & eme que e regne du Tyrn Be oe uourd huy renouueé eque fot pus dett de es chens que des hommes es uetsnefut pont er chercher de cecy des exempes pus on quen Frnce votre Meté MA D A ME nen et pont gnorente ee e ç̧t eeen tendu pr eemontrnces de pueurs Pre tspr cees de quntté de ons Regeux & depuptt des Premens du Royume que es otts etrngers & Ernços que vous entretenezu eruce du Roy votre fs commettent des cru urez grndes que es ntons es pus rres qu ont & quont eteé́ uroent horreur de es vor & den entendre prer Les voemens des femmes & des fes vor des Regeues crées à Deu e ont comms uques ux Autes des E ges & des Chpees tnt de mers de puures peronnes deCmpgne ouffrr des mrtyres & des tourmens hotres des merecs deoeéesvoyns eurs propres enfns nhumnement r rcheés de eurs mmmtees & dentre eurs rs & enttre eures à̀ mons quon ne don nt à ces ourreux es choes qus demn doent Ce neont pont choes nuntées votrs Meteé enez de fos eté duerte toutnonde en et cndé es etrngers nos von en ont etonnez e Ce &terre er ont hprreur & tous eneme crent vengece à̀ Dpu contô"
+        ],
+        [
+            "3 votte Mjetéqr e çt qu e ouffre & ny met ucun remede Les feux ont deuoré non feuement tout ce qu set trouué ̀ cmpgne es mons des pu ures pyns redutes en cendres ont eté con trnts de es ndonner pour uuer eur ve & cee de eurs femnes & eurs p uures enfns for cés der ux ves demnder dupn pouur utnce Ms e ndheur pus grnd& qu et e comede rmpeté de ces ceerts et quoutre qus ont ccoutnmés ̀ tees ctons doques on eur permet fre tout e m qus veu ent & qus peuuent fre uques ̀ qus e o ps ̀ Deu meme en runnt & runt n on euement es Tempes & es eux qu uy ont crez ms ce qu et de pus crmne & d gne dvne vengence Dune et qus ont prns es cré́es Coupes & Cores etté pr terre e nct & dore Corps de Jeus Chrt on Fs & n pr des creges nouys entre es Chre tens profné es crés Veux non euement ms encore ce qu et de pus cré & dun dns e Chrtnme & ce en vn Royume eque pr emnence pr exceence & pr deus tous u tres porte e ttre de TrehretenMADAME e ne peus ez repreenter à votre Meté ceshorres creges ns entr mon cœur preé & ouré e me regrets & ns er couende   r me"
+        ],
+        [
+            "9 mes yeux es rmes pour e reentment que yde tees ctons mpes & rres comms pr esmns de ceux q veuent per & etre tenus pour Chretens & ce qu t pus oufferts pr vne Prncee orte du ng vryement Ctho que & qu uques à̀ preenteté tenuë pour treegeue vertueue & ngne en peté́ e pre Deu MADAME qu ne retre ponc de vous ny deperfonne du Roy votre fs es enedctons & quu eune fce tomer ur vos tetes es medctons comme ute vngeur de tees mpetez Votre Meté e ouuendr s uy pt devengence que Deu ft dA ch Roy de Smre dont htore et couchée u eroéme ure des Roys ch 3 & àReyne Jeefemne pour uor ft mourr Noth qu refuot à̀ uy vendreeue vgne qu uyre retot pour tout hertge de es peres & quvouot grder ce reftus rrt teement Ach que de rgee ete ur on ct tournetete contremure ns vouorore ny mnger ee e voynt enceét ett & çchnt e uet defchere eur quurot cette vgne de Noth Vocy e eureux rtfcedont ee e erur ee écrt des ettres u nom du Roy qee ft eeer de on Anneu & es enuoy uxncens & ux pus grnds deve o etot N hoth pr equees eur etot mndé de puez 4 C 7"
+        ],
+        [
+            "vn eue & de fre eor Noth entre es pre mers du peupe où etnt qus euent ̀ fre venr deux hommes fs de He pourrendre vn fux cemognge contre Noth & en utte e condure horsve où s e pderent Voy Ach & Jee contens sontvgne de N oth ux depens deve Ms Deu ne e pont ce mechnt mpuny çr u totcom mnd à Hee Tesre der en Smre trouuer Ach & uy dre deprt quu meme eu u que es chens uoent eché e ng de Noh presmort e en y erot preement echeé́ des chens ors qu erot mort pus sdrent àReyne eefemmeuy dt que es chens deuoreroent on corps u chmp de ez zhe ce qu rupourmert dvn eu n nocent qufut pdé pour uor refué vgne à Ach Deu en ft yvne tee vengence que futeperer utre choe de tnt de puures peon nes nnocentes crueement mrtyrés pr r re de vos odts fn duor & rur eurs ens e pre Deu MADA ME que votre Meté ne reente pont es effets de on dun courroux utement rrté contre vous quny donnez ucun remede Ms de pus ne vous ez pont peruder que tnt dmpetez & creges demeurent schtment non pus que eux que commnt"
+        ],
+        [
+            "ds Nuchodonoor Heodore Bthzr Androncus Lyzmchus & AntochusNuchodonoor futoutrecudé qu e vouut fre dorer comme Deu & commnd à tous es uets de e proterner & dorerttuë Dne en on ure chp oerue quetros eunes enfns ufs nommé́s Mc Sdrc & Adengo ynt refué de e proterner deunt cette ttuë commnd qus fuent ettez en vne forne rdnte pour y etre rnuez & con ommez Outre ce u c deve de Heru emuot ft prendrrte des veuxcrez du Tempe & enuoyé enterre de Sennr & du depus s furent ms enmon du Tre or de on Deu en vegence dequoy Dne e Prophete qu uot ft venr ponr nterpreter e onge qu uot eu ce qu ft & uy dt Ej cent teomnus & cum ets ferque ert h uto u& fœnmum vt os comedes Tu ers depoe dé de ton Royume & en utte tu ers ept ns demeurnt uce es etes & te nourrrsde fon comme e œufLe meme Prophete Dne u chp 8 de on ure remrque de Bthzr Roy de Byone quvn our ynt ft preprer vn fetn mgn fque à̀ me des prncpux de on Royumey ft erur es crez veux dor & drgent qu oent eté prns u Tempe de Heruem o"
+        ],
+        [
+            "2 fe vor non euement ces grnds duRoyumems encores es femmes & es concunes p vne profnton extrordnre & donte v utement puny cr unt que e euer de tee vd contremure deSe de ce fet dogt comme ceuy dvn homme qu ecrnot ce rros mots Mns There Phres que Dne nterpret e premer mot et q vouot dre Deu nomrer ton Royume ce qu ft e deuxé́me Thee tu s eté mrs dnsnce & s eté trouué́ ynt mons troéme Phrer ton Royume et dué́ & donné ux Medes & ux Peresnuct fuunte Bthr fut tué & Drus ̀gé de oxnteux nsuy uccedAu premer ure des Mchées chp 2 Hes odore nrendnt des ffres de Demetftus Roy dEgypte fut pr uy empoye ̀ vne entreprn qu fut e ujet de on eur cet quevt de Heruem oünt dvne pne px es o yetnt tres en oeruées &peteé entretenu pr es ons du grnd Pretre Ons es Roys & es Prnces uoent ms toutepus chere de eurs penées à utrer & enrchr e Tempe du Se gneur comme entrutres Seeucus Roy dAe qu y enuoy vne onne prte de es reuenus pour uppeer àdepene qu sy fot u M ntere des Scrfces urquoy Symon deTr de Benjmn Gouuerneur du Tempe uot def ?  en"
+        ],
+        [
+            "3 en de fre vne cton mpé en ue quoy que e grnd Pretre sy oppot Msvoynt queon pouuor ne uffot pourxe utersdre ̀ Apoonus fs de Threr eque en ce remps ̀ etot Ducde Ceoyre & de Phen ce & uy ft entendre qu y uot en H eruem vn treot pen dvne fomme nfne dor & dr gent & qu y uot mpyen de fre tomer ce treor es mns du Roy uy ynt entendu cét d us ft venr Heodore qu enuoy en Heru en oùfut tren receudu grnd Petre e que y ft vor rgent detné pournourrtu re des veufues & des pupes en nomre de qus rnte tens dor qu uoent eté donpez pr pu eurs peronnes du monde fn de rendre e Té pe pus hnnore & enere Heodoe etnt vn our entré́ u Tompe pour otdonner de ce treoreon e commndement exprez qu en uot du Roy ce cu v grnd troueene es Pretres tous conternez e etterent de unt Aute prnt Deu qu etot protecteur des choes qu soffroent u Temge es grnds Pre tres prooent uec vnvge crte & ttu tout chngé & gné de rmes qu fot co gnotredoueur qu eur preot e cœur Ms Heodore qu uot des hommes chos pour exeecuter ce quuopretté e tenot prochedQu treor ncepr de Defe vorpun"
+        ],
+        [
+            "4 ce er touscéux qu deuoene ere empoyez àgrde de ce treor e trouuerent frppez dn te etonnement quu eu duncer s eret roent treshuchns & eur pprut vn Cues effroye tren conneû eque pr vn grn effort rompt es deux mes dHeodore &pout es deux eunes hoõmes s furent veuz forteux de vge qu enronnerent cet mpe & e foüetterent de tee ortequ fon corps etot tout dechré couuert de ng & depyes& etnt tomé pr terro s e prrent & e eterene dns vne chre porttue en quoy Deu t vorpunce en e venget de ceux qu etoenm outrecodez de vouor enuhr e treor de o TempeAu econd ure des Mchée chp 4 e? grnd Pretre Ons no pouount ouffrsr que sveux du Tempe queMeneus frere de S mon qu en etot Prefect ou Gouuerneur uoe prns & déroé fuent donnés à̀ Adtnee reprt grement pus e retr envn eufor & euré dAntche ez Rphnez ce que çch ntMeneü̈s vtrouuer Andronc & e pre dene pont qutter Ons qu ne eut tuesccote du grnd Pretre & uy ure toute fdeté euy preentntmn drocte & quoy qu y fu upectnede seureruoferment & uy perud de ote de cdet dye &u efts e A"
+        ],
+        [
+            "5 quft ms etrtre Androe e oymttenà puce etu Cette fmort dhs cv grnd reentment de doueur non ouement ux ufs ms encores à eucoup dutre tons grndémen ttrté́s de ort nute dvgrnd homme Le Roy Antochus etne retourné de Cce es ufs & es Grecs e trn porterent ̀ Antoche & e pgnerent ̀ uy du prrcde comms pr Andronc enperonneOns Le Roy Antochus temogn vn grndregret demort de ce grnd Pretre pr on dnce des rmes qu en ett e reouuenne degrnde oreté & modete & n es cou rges de tous e touunt umez àvengence de cette mor e Roy commnd quAndronc fut depoüéerohe de pourpre qufut pourmené gnomneuement pr touteve & que one ft mourr u meme eu uqueuot comms cette ngne mpeté enuers O ns Deu permerttnt qu fut chté de ptee peneSeme chtment receut Lymchus cr ynt f pueurs creges u Tempe pr e cone de Meneus e rut en cournt pr tout e peupe emé e gfnd nomre con te ceét mpe qu emportot vne grnde quntté dor tous sefeueront pout uy courr us ce Ly mchus uot eué pres de tros me odts echn& deretmnez conduts pr v Chf 2"
+        ],
+        [
+            "4s6 Tyrn de prêge que uy Ms es omonres yoynt effort qu vouot fre pour e uues3 es vns e fournrent de perres e utres detons utres de cendres uec quoy s eererene ur uy pueurs des ens furet uez utres e ez tres e uuerent à̀htte & ce memerege fut pr eux ms en pecos prés e eu duteor Fnement de peur dennuer vote Meté & ne pont uer deptence e nercohtery pus quepunton de Deu urAntochus ee remrquer u deuxeéme eu desoMchéesu chp 5 Cet Antochus etnt nouueement He tourné de Pere entr env eppeée erpo s ̀ deen dy per e Tempe & dopprnesCré ms voynt es htnscort x rmesfus contrnt de prendre fte peu de tempspesrerourn & etnt prueu rez Egthnpprt es choes qu setoqet fs tes contre Ncnor & Tmothée cée qu e mten tee coere qu e reout de e prendre ux ufs & e vngercue de nure de eeux qu sen etoent fus pour ce uetfe tenr onchnot pret & chemn ns srretee e Ce e permettnt n pour uncer on uge ment & on chtments vntot orgue euement de vouor venr en Heruem & d7 fre vne montgne pur epuchre des COpsmor"
+        ],
+        [
+            "y mors desufs s eDeu dr qu vod & découure toutes choes e frpp dvne pye n cuce & nue cr neuttotcheuéon dcours upere quvne forte & cruêe doueur deventre e urprr uue de tourmens trere ns & cuns dnteftns d qu uy fut uteé entenuoyé pour purson de tnt dentres de quntteé de peronnes qu uot dechrés pr pueus & nounueux genres de eruuté e pourtnt ne uy ft pnt quttermce u cõ̃ rre f pon upehe & fureue no reprot que eu & fmmes conrrees ufs commndnt queon mouus deen fut promprement exeé cuésrnque fon chro courntuec rop grnde mpetuotétoǹ p rtetre ru denent quehes menresde fon corps urent tous froes&e n ce upee qu smgnot pou uor conmmnder ux fos de mer & ppretet LAn vne nce es hurenr des montgnes e od humé &proteré prerre &conttnt de e fre porter dns vne chre cocetnt n en oemevertu mnfete de Deu en te eorte que es vers fortoent à̀ ts du corps de cét mpe qu pr àn rndo vhe punter n upportee en orte queceuy que pe upr nt e prometot de seeuer uques ux Atres u Ce d que petone ne e ouot poreet ur odeuruct de oh mee corpse ceE"
+        ],
+        [
+            "83 fut cue qu commenç à qutter on eéxeef upere & de vent à̀cognomce de oy meme duerty pr cotte pyedune & pr es momens de es exceues doueuts qu ugmen roent en orte que ueme ne poudunt ouf frr nfecton que fon corps rendot confe & dt utumet uddunoee De &ortens non p v Deo entreet ute detre ujet à Deu & que e morte ne prerene de mrchet du px uec Deû e ceert prot e Segneur duquene pouuot eperet de mertorde cr es do eurs redouns p vhute ugeomentde Den tom en vn te deeporque e trnnt ec pene pr es ontgnesy oodfn m heureue deve Cemechnt homme co menç de rentrer en oeme & dedreer à Deu duquenuoe peu otenr mencordodernt queCté ̀quee retournen d gence pourredure en cendres fte vnCher funefte & vn epuchnre descorps morts de es htns uy ouurt es portes qu uy fut re dy retournerque es ufs quetmot etre ndgnes de epuure ms pftot detre oxpo ez ̀proyedos oyeux & des etes frpuches fuent pr uy renduógx en gore & en ho neur uz Athenens que e nct Tempe de Dou quuor péenot pr uy tné de dons rches & precouxjqu gmoeote no"
+        ],
+        [
+            "y des covfeux qu contrtorot de es re uenus pour uppeer à depene des Scrfcese De pus qu eferot uf & quen tous es eux deterre oùe tronuerotprecherot & pu erotpunce de Deu Toutes ces ee protettons ne uy erurent de ren crfot qu mourut de meme orte qu uot vecuVous uez entendu MADAME pr es exempes que y rcontez à votre Meté comenet dngereux de e prendre à Deu & ux choes qu uy ont dedées & es utes untons qufctes de ceux qu ont voé́ profné & peé es Tempes prns & emporte es crez veux denez à on eruce ué outr geé & rtté ceux qu e eruoent en ces jncts ex ns grces ns prdon & ns me rcorde cmmeute vengeur de tes crmes pr donc à votre Meté de condererett muus uque ee e troune à préentre dute de sette nrendue oject de nmté de Deu pouruor ouffert tnt dmpetez &creges comms pr es gens de guerre dont ee e ert & sydos eedctons ̀ eperer dv Dou utemenr rrté prestnt & dehores offenes Quee e ouuenne s uy pt degeperoftse du grnd Pret S Amroe qu prr à endros deEnmpereur Theodoe e Grndqrot ouote Met exrcts"
+        ],
+        [
+            "dEfpgne) eque uy ret contmment os qu e preent vn our de Noë̈ àporte de o Ege pour y entrer quee uy ferm à cue du mcre de ept me htns d Theone qu uot commndé pour vngermort dvn en Leutennt qu y uot eté tué ce grnd Snéà pru n ce grnd Prnce d entrée de on Ege epce dvn n enter &uy nter dt uques à̀ ce qu eut ft vne pentence con dgne de tnt de ng nnocent epnché oe pun euenue n on r no nn pnce ur votre Mjeté quee fce ceer tnt de mux quepuure Frnce ouffre pr e mhest de cete mute guerre quee ne prenne pont por execue es muus cones queepns & uus pus qu nypont de cone contre Deu & qu nur pour ous ceux qu eront cue derune de tnt de peupes e dereros etreoonters MADA ME que Deu ue u get dgne & duor pour greepentens ce qu uy prot mnprer pour votre M eté e me reoudros de on cœur àporter queque rude & rgoureue ques fut d une ontévouot receuot & me donnerforce de ccompr e metmeros heureux de mourr enpene pour vndgne ujet & quee fut enuers Deu vne epece s tsf on & expton dvngrnd nomre de m"
+        ],
+        [
+            "M x que votre puure peupeoufferts & ouffre encores uy donner vne onne px ren trer ux onnes grces & en mté́ de Deu & rendre vos Mjetez dgnes de es ened Ctons pres v gre repentr de tnt doffen es e e dere & en uppedune Mjeté pr es meres du ng preteux de on cher Fs euhrt uec vn cœuroutré de douer & es rmes ux yeux & pret à ur toutes es vengences q uy pr prendre ur moy pour tsfcton de tout ce qu set peé pourueu qu t ggree reprendre vos Metez engrce & pper on re qu et ce que ou htte de toutes mes forces & du pus profond de mes entres votre treume uject & feruteurqu es pre dexcuer e zee quem porté en cete fenne Remontrnce & cete grndeur hrde ereé qupre de prer àn & de fre entendre es utes cues de n dgnton de Deu ur vos Mjetez qu et e de uor dvn Pret te que e fus eque en ce & en toutes utres chofes qu regrderont hon meur de Deu & e en du peupe ne dot trhs on mntere Et comeenchrge que nous uons en E ge de Den & que nous ormmes uceeeurs Qes Apottes soues oge de prer *E8"
+        ],
+        [
+            "rement ux Roys & ux Prnces commes ont ft ns crnte des tourmens my des mences Cet pourquoy votre Mjeté MADA ME ne trouuecrr muusjve de cette erté &dre uec Apotre u chptre de on Eptre ux Romns Non erueco Engeum vrtus enm et De et n utem omn credemt e ne roug ry ms & ne crndry ucune choe pour n noncerproe & es vertez de Deu pus que es ont penes devertu de Deu pour e ut de tous je ne trhry pont mon mntere & e meme Apotre uchptre de on Eptre à ceux de Theone eur dt hrdment Pro umus ̀ Deo vs eredereturnos Eungeunm t oqu mur non qu homs pcentes ed Deo qu prot cord uotr Nous ommes pprouuex & ordo nez de peu pour prer n veu queproe & on Eunge nousefté comme pour n noncer non ps pour pre & ggréer ux hom mes ms ̀ peu qu çt & cognot noscœurs n MADAMEe usheureux de reür en cette menne erté de prer & qu pe à votre Mjeté duor egrd ux choes que e uyy repreentées en toute humté quegore en ot à̀ oeu & non à̀ moy qu en ceny ft que ce que Eprt de Deun pré́ & nen ttend utre recompene que"
+        ],
+        [
+            "23 grce qu m fte doer ̀ es dune v6 ontez uqueesnous fut oûmettre pus qu y v de duncement ou deperte duut de uncementnous uy oeons & depertenous fons e contrre ce que e pre dune Bonté nous grder2 8 FN"
         ]
     ]
 }

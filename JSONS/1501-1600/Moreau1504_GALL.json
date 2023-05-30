@@ -1,224 +1,90 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
-        "subject": [
-            "Parlement de Paris",
-            "Mazarin"
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "non renseigné",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-01",
+        "creation": "1651-04-05",
         "change": {
             "@status": "corrected",
             "@when": "2022-04-06",
             "@who": "MF"
         },
-        "titre": "Le grand bréviaire de Mazarin réformé à l'usage et\n          utilité de la France, par nos seigneurs du Parlement.",
+        "titre": "Le grand ballet ou le Branle de sortie dansé sur le\n          théâtre de la France par le cardinal Mazarin et par toute la suite des cardinalistes et\n          mazarinistes. De l'impression de Bâle, en la boutique de maître Personne, à la rue\n          Partout, à l'enseigne de la Vérité toute nue en hyver.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1505_GBOOKS.xml",
+        "fichier": "Moreau1504_GALL.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LE GRAND",
-            "BREVIAIRE",
-            "DE",
-            "MAZARIN.",
-            "REFORME' A L’VSAGE",
-            "ET VTILITE' DE LA FRANCE,",
-            "PAR NOSSEIGNEVRS DE PARLEMENT",
-            "A PARIS,",
-            "Chez CLAVDE MORLOT, ruë de la Bucherie, aux",
-            "vieilles Eſtuues.",
-            "M. DC. XLIX."
+            "Le grnd et ou e Brne de sorte dnsé sur e théâtre deFrnce pr e crdn Mzrn et pr toutesute des crdnstes et mzrnstes De mpresson de Bâe enoutque de mître Personne àrue Prtout à ensegne deVérté toute nue en hyver Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Grnd (e) et ou e Brne de sorte dnsé sur e théâtre deFrnce pr e crdn Mzrn et pr toutesute des crdnstes et mzrnstes De mpresson de Bâe enoutque de mître Personne àrue Prtout à ensegne deVérté toute nue en hyver Bâe Prs Mtre Personne 65 Prs Bothèque ntone déprtement Lttérture et rt Y78TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs504 Grnd (e) et ou e Brne de sorte dnsésur e théâtre deFrnce pr e crdn Mzrn et pr toutesute des crdnstes et mzrnstes De mpresson de Bâe enoutque de mître Personne àrue Prtout à ensegne deVérté toute nue en hyver (65) 20 pges Pèce psntems dont es rs sont détestes Ee nest ps commune Mzrn étt déjà rrvé à Sednvers prose non rensegné Retrte du Codjuteur 65"
         ],
         [
-            "3",
-            "LE GRAND",
-            "BREVIAIRE",
-            "DE MAZARIiN.",
-            "REFORME’A L’VSAGE ET",
-            "VTILITEDE LA FAncE,",
-            "par Noſſeigueurs de Parlement.",
-            "û Ac e quë le ſieur Maarin eſt n",
-            "ſ fort deuot perſonnage, ſa deuo",
-            "tion eſt cauſe qu’il a inuenté en",
-            "France vn nouueau Breuiaire, que",
-            "e luy-meſme a induſtrieuſemen re",
-            "lié, mais aux deſpens de ceét Empi",
-            "ote deſire vous en fire ne piltieuieredee",
-            "pimolea fieuilees de ce elare ſon du plus",
-            "fndordaaraes o ſon ieeeteſetdu ſlng",
-            "upurepeplecanpoisſonone eſiteonpo",
-            "Sſne queeluy des uren Vvdunmes, de lul",
-            "endelaudedePne, de ire, defuoie,",
-            "lſpn dt e Corplies ni eroe ps que",
-            "mosuanduen ireneee oieuanſ quie li iu",
-            "es Preſtres des biens qu’ila receu, ilrecite e.",
-            "A ij"
+            "LE GRAND BALET OV LE BRANSLE DE SORTE Dncé ur e Thetre deFrnce pr e Crdn Mzrn & pr touteutte des Crdntes & Mzrntes De mpreon de Be enBoutque de Mtre Peronne à̀ruë prtout ̀ enegne deVerté toute nuë en Huer"
         ],
         [
-            "heures d’vne autre plus belle façon, leſquelles",
-            "accommode aux heures de la iournée.",
-            "A MATINES.",
-            "Vr les huict heures du grand matin il come",
-            "mence à dire ſes Matines en cette ſorte. Lors",
-            "qu’il veut ſe leuer du lict il appelle vn de ſes hom",
-            "mes de Chambre;qui s’aduance doucement auec",
-            "vne humilite, ſans ’pareéille, & incontinent les",
-            "Pages & les Lacquets qui ſont aupres du feu com",
-            "me des Statuës muettes, s’empreſſent à qui mieux",
-            "mieux faire ſon deuoir, & a meſure que noſtre",
-            "Miniſtre void ſoa vallet il luy tend la man;en",
-            "apres il leue vne cuiſſe du lict & apres l’autre, ſi",
-            "grauement, que vous diriez qu’il veut faire l’en",
-            "tée d’vnballet à l’ltalienne, ou qu’il a deſſein de,",
-            "repteſenter le perſonnage de Mmus, comme",
-            "il a ſaii autrefois par neceſſiteé, les Lacquets luy",
-            "donnentſes panroufles,les Pages ſarobbe fourée,!",
-            "chamarree auec preſqupe autant d’aulnes de paſſe",
-            "ment d’r qu’il fai enſa iepneſſe des madquerel",
-            "lages à Rome,auecce bel appareil ilsen va doit?",
-            "a la cheminée: de ſa chambre auſſi bellement!?",
-            "que s’il aupit, peur, de caſſer des ufodeſfousſes",
-            "talpns, ſon Chirurgjen eſtlto preôs, qui peh?",
-            "ant de leine, pour loy acconmioder: l eſt &l",
-            "peindre le viſage, que vous le prendtien pour va",
-            "autre"
+            "3  DESCRPTON DE LA SALLE E   du Thetre Our rendre ce rne de orte pus gree & ps  A& pnt onrenouueé cy ncenne mode des Co  L medes où on ntroduot vn certn peronnge r  dcue qu rot ur toutes ortes de rencontres & dot  quequesfos de onnes choes & qu etot expedent que  tout e monde ceut & peronne nesen pouuot fchér ns per pout vn eprt mft & meme pour en oter oc  cõ̃ s uot fent que ce tor vne dunté qus ppeoent  e Deu Momus Duertement qus ont douté cy ̀ tou  tepece fn de noffencer peronne & quequequvn n  ps enue de rre dns cette ŕe puque qu sen prenne  ̀ Momus qu dt toutes es vertez qu ct & qu ne çt ps  cet done Momus qu pre tnds qué es utres dncent  Le eu où ce rne de orte e dnce et ute & crré u  rge qu et ong & ufong qu et rgeongueur et  depus Prs oû e rne commence uquu Hvre &r  geur ufqu Sedn où fnt enortn du Royume  Le Thétre et tout nud ms é pus eu pyge du mon de qusetend pr vne prte dej e de Frnce de Normnde & dePcrde &ur utnt de fces  denonen poe nueee eoneu ene en  nt & cheue ce grnd Bet ou en ceBr̃e de orte  Pour es hts des Acteurs ny prenez ps grde depres  pueurs nont ps eu or de euer des etoffes dutres de es  fre ter & dutres de es coudre tousont eté ccommo  dez pr deux Teurs ogez ̀ commodté & ̀ occon  s ont pourrnt chrgez de quntté don& drgent & dvn  A j"
         ],
         [
-            "5",
-            "aueeAdonis, ’iln’auiolt lenez ſi puant, lors que.",
-            "ſn minence eſt bien parée, voicy qu’vn de ſes",
-            "Gntilshommes luy porte vn boüillon, dont le",
-            "piteree de la raleuat de ſo patrimoine, & pour",
-            "fiair ſes Matines ’il fai commenioration de ſes",
-            "Vierges, qui ſont ſes deux Niepces qu’il voudroit",
-            "canonaiſeren France, bien qu’elles foient deſia ca",
-            "nondesen ltalie A LAVDES.",
-            "’E Spremieres heures ainſi finies, voicy vne",
-            "rouppe des auoris & des Partiſans qui vien",
-            "nent entendre ſes Laudes, où il employe toutes",
-            "les figures de ſa Retorique, pour faire eſclatter à",
-            "meuœille la Erulenee de lar Reine, le Courage",
-            "deMonſieur le Duc d’Orleans, & la fidelité́ de",
-            "Monſiéur le Prince de Condé, tous ſes ſup",
-            "pots, ſonir autant d’Eſthos qui repetent ce qu’il",
-            "idnt le direA! PRIME.",
-            "oR dire cet Office Noſtre Miniſtre ſort",
-            "J de ſa Chambre, d’ou il va ſalüer le Roy, auec",
-            "vnavifoge de Seneque, & le ſouz-ris de Iudas, il",
-            "aitenmeſme temps participoer de ſes bonnes gra",
-            "cos à Monſieur le Duc d’Anjou, & en ſuitte il diſ",
-            "eourt des affaires deconſe quehee auec la Reine:",
-            "A TIECE.",
-            "ROSTRE Iule ne ſçauroit bien dire cet",
-            "Office, Si Monſieur le Chancelier ne luy",
-            "ſert de Clerc, ſi bien qu’il s’en va le ſalü̈er dans",
-            "ſœCabinet. Oeſte viſite luy ſert de De prfundis,",
-            "B"
+            "rn nomre de perreres & tousontmspume u vent uee des cordons ̀ mode &es Mrchnds qu eut ont fourneur or y ont en ggné cr s ont prs des Louys ̀ dx  ures qunze os & ̀ vne frnes &puprt e ont four  ns ̀ruë ßethy chez vn on gros homme qu ny per  dr ren  Pour es perrercs on dt que ce ont des pus e es & des  pus rches du cnet & qu y enpour vne omme m  mene y peur quevtee de eur cdence & de eurs ps  nempeche que vous nen puez decouurr tout ect d  mrer e utre & prerrchee  Sçchez pourtnten vn mot qu ny ms eu en Frnce  de mgnfcence de Croue de Comede de Mchnes de  Thetres uperes de ets omptueux de s demées  de mcrdes de coures de gues & de dnces qu yent  ms cnt couté & qu t tnt conomme mngé & empor  té dor & drgent qu ft ce rne de orte ns conter es  voons ny es feux de oye & es fetns qu e ont fts en u  te & ns comprendre e gn des vets defete ugez cette orte ne dot ps etre en ceere en rche & en  omptueue  Pour es pees des Spectteurs ees ont resne fut  pont drgent pour es retenr ny de qus pour es grder  & y enpour tous eeux qu uront decurote ns  crnte de sy ennuyer ̀ cue degrnde duerté des fces  du Thette des entrees & desperon nges & os entrées eé  tnt touours duerfées & meées de ereues & de pn  ege n re e on de edonde e enpoureu es oerues  ecrs en groes ettres fn que peronnenen pretende cue  dg norne & nesen forme m ̀ propos  Ŝ tus ne vont ̀cdesce  Cet qun vn peu troppreez  Et que puretrerep htez  s veuentfre dgence  Ms que peronne ne soffenuce   n 2"
         ],
         [
-            "6",
-            "tellement elle luy entre dans le eœur, neant",
-            "moins il ne laiſſe pas de faire ſon perſonnage, &",
-            "pour teſmoigner ſa grande deuorion, il commen",
-            "ce & acheue cet Office, en diſant, Poter Nofter,",
-            "& Monſieur le Chancelier luy reſpond, Etme nos",
-            "inducas in tentationen. A SEXTE,",
-            "JNE grande trouppe des Flateurs qui eſt",
-            "eſcort́e par des Mantaurs, Concuſſion",
-            "naires, Traiſtres, loüeurs & Partiſans aſſiſten",
-            "auec paſſion à c’eſt exercice de ſa Pieteé, le Car",
-            "dinal Mazarin cormmence c’eſt Office par vne Le",
-            "çon d’Horace, O Pur Pueri evirtus poſt nanmindos.",
-            "Et pourſuiuant ſa ptiere ils’adreſſe à Dieuen etre.",
-            "ſorte; Si poſſible eſt, Trnſoat ̀ me calix iſte Eni",
-            "ſuitte tous ſes complices diſent, Et dimitre obie",
-            "debita noſtra, En fa ſeconde Legon. il exhorte ſe",
-            "Fauoris à la patience, à l’imitation de Iob, quoll",
-            "comparaiſon d’vn homme de bien tel que ob",
-            "eſtoit, auec des Voleurs, d’vn homme d’honneur",
-            "auec des gens ſans adueu, & d’vn Roy auee dos",
-            "Bardaches, il finit ces Heures par ce Pnouerb",
-            "Male parta, male dilabantur.A NONE",
-            "OSTRE bon Prelat eſtonné de voir ſes",
-            "Fourbes & ſas ’Ruſes ſont deſcouuertes,",
-            "our Feſiouüyr fſon cœut, & s’exitr T’appefit, falt",
-            "ouurir ſa table de plusde mets queſo Pere n’en",
-            "a mangé durant ſa vie. La Muſique & les Concers",
-            "des Luts ſont le premietr ſeruice de ſonrbpar, ſû"
+            "S o t vry oun nent  Tout et de Cre me pen nt  Sur ce Thete deFrnce  on v comencer entends de es voons & toute compgne ttendyonemps ns mentr e com  mencement de ce rne de orte  s e ts  Ae e& u&te e eo& e de p eL premer& c  E Thetre qu proot tout nud ns ucun ppre  & pr cetre nudté fot crore ux pcctteurs qu ny  urot ps grndes decortons ny e meemens pour duer  trveue crompecompegne & sentrouurnts de toutes  prts on vt pnrotre es Chmps Eées uec toutes es  eutez dvn rdn de pnce & tees que nous depe  gnent ceux qu ont ecrr es rres meruees de ces eux où  ont ogées es nes des morts quont qutté e ejour du mon  de & de ette veet vry que comne e rut courot que  cede uor commencer pr es omres des morts qu en d  uoe nt frepremere entrée on croyor vor ouurrter  re & protre des Enfers uectoutes eurs horreurs & eurs  formes hdeues ms dns ce etnvpont de coup  es tous ont gens de en Deu me prdonnee ments  n ces omres que vous ez vor ne ont ps crmne es &  pt cone quent ne proe nt pont prmy es uppces des  Enfers ms prmy es deces des Chmps Eé́es Et u  eude pectres de fgures hdeues & de montres on ne  vot que des rres chrgcz de toutes ortes de fructs neon  nus u gout des vuns &t u eu de fumées nores epes  nfectes puntes & mportunes commeen exe des En  fers on vs ortrvne fumé douce & gree de tontes or  res dodeurs & dvne confecton romtque mengée de  tous es prfums quon nous pporte dte & de dè es  monts & es mers Cette prenere fuḿe odorfernte re"
         ],
         [
-            "gourmandiſe eſt bien ſi grande qu’elle luy a fait",
-            "inuenter vne facon nouuelle de Plats & d’Aſſiet.",
-            "tes à la Mazarine, ayant ordinairement à ſes coſtez",
-            "ſes deux Niepces, à qui il commence ces heures",
-            "par c’eſt Antienne, omm eſt mos hbie eſſe facinmaas.",
-            "bs tria Tabermaenl, apres il dit ceſte Leç̧on, i",
-            "bamus & Edamsas poſt motes nalle volupras, &",
-            "pour finir None auec ſon repas, tournant ſa face",
-            "vers ces Domeſtiques, chante ce Verſet, Tot plas",
-            "fut pote, plus ſitiuntraque. A VESPRES.",
-            "ES Veſpres à la Mazarine ſont bien differen",
-            "-ces des Siciliennes, qu’il commence par ces",
-            "eaux mots, pres la pence, vient la danmee. Si bien",
-            "que noſtre braue Cardinal commence le Branſle",
-            "de ioü̈er, afin d’auoir auſſi bien l’argent des Prin",
-            "ces A& des Orands de la Cour par tricherie, com",
-            "qeilrauy celuy du paure Peuple, par ſes finel",
-            "ſes, les Cartes & les Dez ſont ſes plus beaux liures,",
-            "qui luy font abhorrer autant les gens de lettres,",
-            "qu’ilaye les Louyss quand la nuict le preſſe de fi",
-            "ipiſoschures puu5- dire, omplies, il eſttouche",
-            "’e Syndefe qui le porte à dire à̀ ſes Partiſans,",
-            "Tûimuinltum’ lapu graiore ruam.",
-            "up QPlES,.",
-            "r",
-            "Jl oſtiten de plufaebe,e notje aarip",
-            "Iue edire Coulies, ne ſerioit iamais ra",
-            "comply des delicés ny des telors de la-Erance, il.",
-            "les commence d’vnevpi jiſte & plaintiue, & ad"
+            "ouyt toute eméefu que e vous duoué que  ee etot compoee de peronnes qu ont de trens nez y en uot quntté de gros & grns vns qu feuroent de  en ong & de petts chens de nez qu ugent en de dfference des vents chcun en etot tsft &ny eut ps  meme uquu nez cmus du Gzeter qu met on nez pr  tout qu ne setendt & neeut es nrnes pour feurer ces  prfums de utre monde cpes demumer r e pus  nfecté & de contenter es nez es pus dffces en enteurs  &A tuSe tA&At L premere Entree Ette fumee etnt dpee & humee udemẽt & gre ément pr tous es nez de emee on vt pretre  des rres qu formoent vn grnd rond & vne pce vude u  meu preque comme ce e de Echo du rdn des Thu  eres & ors on vt r tout dvn coup deux om  res ns uor veu doù ees venoent ms ns doute ees  ortoent de deous e Thetre ̀ mproute comme ees y  rentrerent de meme pres uor ccompy eur peronnge L premere etor omre du Suoyrt ueuge fmeux  chntre du Poneuf eque etnt mortyqueque mos  uot porté des nouuees ̀ utre monde & chnté de es  eux rs deCour & de on Empre ous e cheu de Br̃  ze & ur tout des nouueux fts en honneur & ounge  de Mzrn rnt defç̧on que de ce e des pus hes Mu  cens du temps  Et comme ces rs &ee vox uot fort duerty ces om  res des chmps Eees cee dvn utre Veeux de Po  ctou pett neueu de Togro & qu en portot e nom es  eene enr un eu eoeenoe eeueneen  Donc es deux omres du Suoyrt & de Togro Ve  eux font e rect vn chnte & utre ccorde on gree  & meodeux ntrument & ut e ujet du Temps fort ̀ pro"
         ],
         [
-            "----oa--ram - -a,,",
-            "S",
-            "dreſſe ee verſet à noſtre Auſte Parlement; Conn:",
-            "uterte nos Deus ſaluraris noſter, & auerte irm",
-            "tuam a nobis, & en ſuite ilchante ce moter au Roy.",
-            "Eſto mihi i Deum proretore & in demum re",
-            "fugy, vr ſaludu me facias, apres ſe tournairt du",
-            "coſté de la Reyne, il luy dit aucc mille ſanglots.",
-            "Quoniam fortirudo maea & refugium meum es tu;",
-            "& proprer nomen rum adeduces me, & enurries",
-            "me, apres il harague Monſieur le Due d’Orleans",
-            "en cette ſorte. Educëe me de laqueo hoc quem b",
-            "ſconderunt mihi, quoniam tu es proietbr meus, &",
-            "en apres il dit à Monſieur le Prince. In e Domine",
-            "ſperaui non confundar in arernim,- enfin dit",
-            "à Monſieur le Chancelier d’vne voix plairiti",
-            "üe ce verſet. lnelina ad me aurem-ram accelera",
-            "evt eas me, noſtre Minſfre-ne vou dir ’iamâ9",
-            "mettte fin à ſes Heures, mais il eſt temps qu’ilſe",
-            "retire, & qu’il diſe ſon Breuiaire à la Romaie le",
-            "ſien ne vaut plus rien, depuis que Noſſeigneurs de",
-            "Parlement en ’ont leu la couuereare ,qui ’eſtolt",
-            "’aurhiorité Royale, adie donc Mazartin jpiſqu",
-            "tu as acheué ton offfce,va reuoir l’Itali, ar la",
-            "commemoration de tes Confeſſeurs lessPartilans",
-            "eſt inuile, & eellé des Martyrs François qui de",
-            "mandéht’venigearee lDieud, e dolt faireoaouir",
-            "de regret, ſi u n’ayne nleuxperdte la tie ſurn",
-            "e",
-            "eſchaſſaut. Vade voini ale.",
-            "av ."
+            "pos e Suoyrt entonn cét r quepuprt des honnetes  gens nont ps encore oué  Ne penezx ps Meeurs que e vous de  En que etrFronderedut  S retrtte ferpeu de rut  Que vous curezcheure untmde  Nous qu ommes remps deprt de Prophete  Pouuons en eurer ̀ ce grnd Crdn  Que prmy es Frncos on cs vfort Qu uy fudr dncer vn rne de orte  nds que eur chnt & eur hrmone ruot es orees  de udnce vous ne croyre comenonne compgne  etot ts fte dentendre & de vor encore vne fos e puure  Suoyrt tnt Momus en dot de oünges & cõmeuot  touours meux ymé dre vne chnon quvne ntenne & vn  on verre ̀ pene de e cer que e pett n de cuure des  qunngts & de hnter es freresdeuton que de  mort chez de Roüenyvngt ns es utres srretoẽ̃t  à contemper eurs grnds crepes ncs tous premez vn  de notes d muques utre de duers ntrumens & de tuyux  dorgues  An tous deux seunoürent comme s uoentpru ors  quon y penot e mons & ors quon ttendot queque utre  r ou chnon duertnte ur e uet defete  A thA& AeAA8 L econde Fce &econde Entree  Ans ortr des chps Eees ce rng drres où pru  rent es Mucens Seuunoüt & on vt vne grnde &  ongue prre ordee des deux cotez de fort grnds rres  & quoy que e fut à perte de veuë on decouurot dns e  rond vne emee desomres de morts comme ss euent  tenu cone de fty uot touours eu pnte contre M"
+        ],
+        [
+            "8  zrn depus rruee des deux Gentommes qu furent pendus ne vous dépe vn ̀ Bourg utre ̀ Bordeux ̀ eur  grnd regret & grnd dépr de eurs fmes vn & utre  de mn dnt touours utce & ffre uot cenu emee  en nce & rreouë juqù rruee du Comte dAuux  qu rpport tnt de prtcurtez ur cette ffre & dt tnt  de choes pour & contre ynt touours uy meme chnceé  ur ce ponct que on fut dus denuoyer querr vn grnd  Predent qu etot on frere & qu prrent comme on uge  & fort ntegent pour demeer ces dffcutez Le Couret  fut depeché ux frs despendus & des prtes qu demn  doent utcene fut quvn Creme ̀ er & ̀ venr &   men omre du Predent de Meme dns qurente ours ̀  emee qu etot compoeedes omres du Crdn de Rcheeu du Crdn deVette & de Sourds Arche  ueque de Bourdeux pout e Cerge du on ve Duc dE  pernon du Mrech Defft du Comte de Tournon pour Noee & pour e ters Ett du Su ntendnt Buon  du Predent e y & de Thou tous onnes tetes comme  vous ç̧uez & en ffectonnez u en du puc en yn  prs tnt qus ont peu tous e reouyrent de rrueé́e de ce  temongrreproche mscomme cetce emée ne de  uotps uger e dfferend dffntuement & qu en fot  rpporter es dus & es reoutons u Cone den hut &  ux Heros demeux que vous verrezcres on dt eu  ement ux pendus que on eur ferot utce & quon   tsfetot toute emée Sur cetre premere epernce de  re ouyncé on vte eprer detroupe & pprocher de  pus pres ur e ort du Thétre es omres  de Rchon & Cnoe  de Chton  Cneu deVette & utres rondeurs  Ayns tous epée ̀mn & e oucer en utre où eurs  rmes etoent depentes ce ques fot recognotre eur  dnce etot vn perpetue comt e portns des coups ̀ e  cdence uqù ce que ez de outenr deux prts dffe rens entendnt vne vox s etterent eurs rmes prterre &  semrerent"
+        ],
+        [
+            "e4 9  semrerent en dngut & dncoent eneme en retrtte  prese rect de cette vox qu chntot  Enfn cet trop comttn Ce phntome et tu fut mettre s es rmes  Au ped de nos ees Dmes  Nos omres netnt que fumées  Toures exemptes du treps Ne cherchent pus detre etmées  Pourctre des coms  Notre gere et def emée  S en qu ee ne mourr ps  Et nos ne frons pus de cs  Des ouches derenommée  Cet trop nous muer ̀ tnt de roueves  Mzrn v dncer e rne de orte  AAA &  s A es de ddo de Sdeoe s e &e &L troeme Fce &troeme Entrée  Vr e meu de cette prre prot vne ee rouë qu tourne touours & on vot deus vne Deee qu tent vn goe & vn etendrt qu votge ̀ toure orte de vent  cet ns douteDeee fortune  Au tot on vt protre qutre onres qu dnçoent & tchoent drreter cette rouë̈ qu tournnt touours es  emportot tntot eus & tntot rous eneme L premere etot cee du pere de Mzrneconde de  on frere Crdn dAxtrofeme de Mgõtt yqu  treme de Aé Mondn  C"
+        ],
+        [
+            "ûîâ  e  POVR LE PREMER  y etos vu ourgeos Rtomss  Fort empeché de m peronue  Tout prest ̀ teudremn  A ceuy qu pus me donne  sforce des Loys  M tré demere  Et ft enfn que e vs  Et que mon fs ot mnpere  POVR LE SECOND  S eu ns ren ft pour moy  Trop ncontnte fortune  Pour uy donc rrete toy  Ton mouuement mmportune  Toy qu s montéhus  Ne uy os ps enneme  Fus qu ne dncetost  Ce grnd rne de orte  POVR LE TROSESME  Quy pour estre een  Fut quvne rouge corte  Sur vn Chef Sces  Me fe ßegerMoee  os etre Mrech  Ms cet toy qu nous otte Qu m ft chor de cheu  Me oüns comme vne pote  POVR LE QVATRESME  Et moy puure Pnto  me fs vetr de on"
+        ],
+        [
+            "dm„  ou etrer uee es Dmes  E ggnreurs ees mes  Lo mouuot meme ̀ mnut  Fut e eoffre de ne  DeRene de Pouogne  Ou du trn pour Ctognes  e deuns mrchndmesé  Ms ynt en enfé ton fet e vnt ̀ fendre  Et mon corps ̀ e rependre  Mtennt o Mzr  Croyez en Aé ondn  Et ns pus quon vous e de  Dnez e rne de orte AA A S & 3 3  AA d A& A dsd dAd ht  L qutreme Fce &qutreme Entŕe N grnd nuge vnt couurr toute cette prre & on vt dns vn eu pen de crtez runtes emée  des deeux prmy eques on recognut ̀ on Sceptre & Couronne omre de Louys e ute dheureue memore  ms on y remrqu prt cuerement es omres de feu e  Prnce de Condé & de MdmePrncee rruée depus  peu & quee uot pré rement decondutte deM  2rn quee uot ft reoudre es demeux ̀ conentr à̀ erté des Prnces & ̀orte de Mzrn & en gne de  reouynce on vt dncer x petts Cupdons tous nuds  deux rompns des fers deux portns des cefs & deux tenns  des foüets de poton ns doute pour hter es ortes  L Frncerompu es fers  De Br ouure es Enfers ous ons reuor nos Prnces S egyer dus nos Prounces"
+        ],
+        [
+            "2  Peupes vocy es cefs de vnotre erré dcorde sen v en totetre nne  Et e Ce contre vous netnt pus rrré  Mzrn v dncer e rne deortre 3 2 dd A& d e e d e ee d ed ́ee eds dee e A ẽ   L cnqueme Fce cnqueme Entrée  4 J Es Chmps Eées etnt dprus on vt e Ps & es grndes Ecures du Mzrn dou ortrent des cheuux conduts pr des Pefreners qu es ynt tt  chez es penfoent frottoent & etroent ̀cdence &  chntoent vne chnon ̀ eur mode qu fnot touours p  ce refrn  Adeu Prs deu hee & ongue Ecure  fut enfn dn cer e rno de forte  97  L xeme Fce &xene Enree  4   A xeme fce etotveué du Pont neuf & du Che  Lu de ronze & Entrée etot dvcuyer de Mz  T & deux petts Poonos qu menoent e Dromdre de  Mzrn vn Gcon qu cheptot & pres e metrot u  oou duPont neufpour e fre vor en expontfgure pour  ttrer rgent deeureux uec vn gros ecrteufot r  gent de tout eon e commndement de on pere Fto de nr  e tout ̀cdence & en chntnt  Adeu puure etrnges deurogere  fut enfn dner e rdtuede orte   L epteme Fceepteme Entrée  2  82  A eteme Fce etotruë S Honoré oùpepe  ctue fot vor es qunze vngts &ouchere En  reeetot de x oueux uec eurs pees & ets qu net  toyoent es rues & otoent es ouës pour preprer e chemn  Durnt  deorte"
+        ],
+        [
+            "3  Dur̈nt ee duertement Monus dt de onnes choes ur  es oués que es Bourgeos de Prs donnoent de e &  on rgent pour oter es oues & nuoe nt ps eprt de  e fre erur & qus etoentches que de vor engr  er des coquns de eurs deners u eu que dns ch que qur  ter chncun deuroten uôr e on que ce prty etoton  quvn des Chefs de ut ceuot prs & y uot tnt g gné  qu en uot remportéhne du peupe u en que cee  des honnetes gens tout ce fut dt ur ce qu fut rppoté  qu uot utrefos ft er es tués de Prs u retour du  Crdn de Rcheeu qundeut ft decpter S Mrs &  de Thou & qu reunt dns mchne potttue & qu e  tot enpus ronne de es er pour fre ottr e Cr  dn Mzrn on dgno ucceeurchnon ny mnquoe  ps qu fnot touours n  Fons notre pué pus euque mdequetcre  zrn v dncer e rne de orte  e L hecte me fce &huctcme Entrée  2  Atot vn Ps deunt Perdn des Tueres où on voyot vne Deee qutendot es rs ̀des Roys & des  Empéreuts & qu etot uuré dvne fore ee Cõur toure  en reouyfnceueevne nde de pe tts voons de nouue  e mpreron ms pourtnt qu ouoent ̀ meruee es rs  du temps & troes fts en honueur du Mzrn  LEntrée fut de doue Segneurs prmy eques etot e  egneur ue qu tous prooent & d nçoent fort empe  chez de eur contence & de eur peronne comme ss eu  ent eté ur rs ou tout etour ds de quequé ̀ccdent oûen  enfn pour meux exprmer eur poture comme des gens qu  ont enue dè etrde proe ne put pont & qu ten  nent eur hut de chue ne çchons oü e mettre ponr e  dechegerncounns ç̧̀& ̀ comme gens qu uoent m  reenredene e edeeene n e ue euenr e  D"
+        ],
+        [
+            "4  uons pré fort ndgnes de ce procedé de tee fçon que  es utres ne trouuns pusdetrdes ny de eux communs  pucs ou prtcuers fort urez ortrent hors deve  de Prs nds que es grdes de ce Ps chntoent  Peupes ne penoz pus ̀mutnere  zrndncé e rne de orte  L neufueme fce &neufueme entrée  6 A fce de Hote de VedePrs &pce deGreue oü  es Bourgeos temognoent eur oye urnouuee de  Jree du Mzrn hors de Prs Douze des pus etes & des  neenre de nene e e e uee o oun de pote ou  Peupes euuons du vn euuons uques ̀ s e  Mrndncé e rne de orte  L dxeme fce &dxeme entŕe  A fce dvne cuneen déroute & de mrmtes renuerées  et des mrmtons vetus u nchement & gre  ment que de coutume ̀mode des voontres uunt es  cunes deCour portns tous vn ntrument de eur offee  roches poes chudrons & tees vtnces fuyns pu  eoeene s oder ooent & poenteune de d  Nos ours grs vont fur unt que commence  Adreu potge grs grons ondnere Ade ons requts Mzrn dncer A uotre grnd mheur e rne de orte  43 L vnzeme fce &vnzeme Entŕe 4 A fce etot e veux Ps deS Germ en Lye ues  toutes es rcdes & emeemens  L dnce etot de Segneurs qu demndoont dentrer"
+        ],
+        [
+            "ms vn Cptne & des odts en ortent & en dn çnt es choenten quen retrtte s entrerent dnse on dor cy ne ert de ren toute enchntere  Mzrn fut dner e rne de orte  L douzeme fce &duzeme Entŕe A fce etotpce de S Germn où et e on dor ce  on ne fut pont ns onne qu prue uec es pntons  que on cogneut ̀ eurs ecrtores & pumes à̀ oree etre  Seeretres dõt on dot que queques vns uoent eté de  S nnocenr s nen ont ps pus hes pour ceeur dnce  fut en forme de ettres ecruns Mzrn mnfndes et  tres & e mom e treuuerenr eunouyes  Mettezpnme ux peds & non pus en nos mns  Mzrn trut notre rt net que dnere Vous ez deuenr e öet dos humns  Qund vous urez dné́ e rne de orte  L trezeme fce & s trezeme Entrée A trezeme fce etot eChteu neuf de S Germn en  Lye oû tn ds que Mzrn & es Mzrntes e repo  ent vennent des Teers ou Mrchnds de toc à̀ vendre  quee s depoyent en dnçnt ms vn en uot de trop  fne & net pus dvge en ce temps qu ft frod es utres  netoent ps ez fortes pour tendre dns es forets & pour  ttrper es etes quon recherche n es Teers vont vens  dre eur mrchnde eurs  Teers vous tendez tre  Detoe u Crdn  Au eu de tpere  Snon que vous çuez en  Qu v dncer dns de mn e grnd rne e orte"
+        ],
+        [
+            "e  6  L qutorZeme fce &qutorzeme Entrée  A fce etforet deS Germndnce eft des eh  T  eurs uee eurs crquos & eurs fe ches Pueurs etes  prooenp meme queques renrds ms on e rt de eurs  rues & on ne es ut ps cr vn cerf vent qu donn du p  n& de eeten ux cheurs & ̀eompgne & es pus  hes cheurs drent quuot couru es forets dAem  gne uee oupee &pé dns es prres dHonde uec  ddree &e quy queu pendu vnœ àteetoe eneore puscr voyt quc ceu qu en ont deux n ynt  donné vh detor u Mzrndff es cheurs ttre ux chmps tnds qu etot en eurnee ms ces cheurs  uec eurs rcs & feches furent chez pr dutres cheurs  uec des fron désquesfnent ortr deforet de SGermnn Lr fut treuueeu qu etchnté dns toutes es on  mes compgnes de Prspr es pus honnetes gens nen dé  pe ̀ Meeurs dont e enuerery es noms de peur qus  ne renuerentceruee dvn mprmeur qu ne tche qù d  uertr esneneoquesns fre m ̀peronne cr vrye  e onuts en venrere ms ch ut vous entee  O qu y fe onche er et Senusenu senùong cou  Chou chous chou chou chumont oes Lvvnn ong ty  Vuores céEot cee ru et ur es fns fut queete reuee  Tyut tyutmonuert  T vy v rond neu  Seßeuntvvs non py  Qureuy urusry contron  rytry try eue os    e ere L"
+        ],
+        [
+            "J7 qunzeme fcequnzeme Entrée  L enene e enee eere ne eeee  prs ce qus eperoent erentforet de S Germn pour  courrNormnde  Ces teers smuoent ̀ dncer ur e ord de eu tn ds que es Mzrntes tempetoent ur utre ord crnt  pour uorrque & pour per promptement crgnns  queche qon eur uot donnée ne fut ps encore fne  & quon es pouruut en queü  Donc ces teers eur dnce etnt fne furent per ces  Meeurs qu ne connooent pont ms s tremoent fort de peur qus foent vne contnuee dnce dns e   teu dns eque tous nyns pu entrer es utres e etterent  en eu pour uure tnt s ruoent dmcon pr e frod  e pus erré de nnée ce qu donn vn gree duerte  ment ̀ toutecompgne de vor ces prtns defortune  Mzrnque ̀ vu eu voguer pour humer e vent & ortr  de ̀ moüez comme des rets courns pres des cnes  qu e pongent dns eu vont pretre dns vn utre coté  & e moquent de ces puures etes toutesfos ̀ ̀ ̀ tout  nont ps humé du vent euemeney enen qu ont ft  eur chse & qu ont ttrppé de ons opns deete qu  courot es chmps quequens en courns ns e er  tomer ont eutete fenduë dutres ns deen de croer  en hyuet ont prs des croes dutres des tons dutres de  or & de rgent n tous nont ps perdu eurs penes Ar des teers Veux Crouutonner nferu  Donne pge ̀ ce Crdn 2 Et ne crns pontuperchere  H dnce e rne de orte"
+        ],
+        [
+            "voo SV  S8  3y L ezeme fce &ezeme Entrée Ands qus ont ur eu voe venr e eune cre uec vn pett ten compgnon defortune  cre uot es es rompüs pour uor vouu voertrop  hut & utre es deens renuerezFce duThetre etot  eomme vne vte mer mge du chngement & ncontnce  des choes du monde &dnce etot de es deux petts   dns y vouudre dns vertes fgures des temerres udceux & de ceux qu ne e connoent ps eux memes Leurs ps etoent fort grees chcun prennt pr̀ vor  treucher mteux cre Suuez uuez pett dn Votre on prent Mrh Suunt cre &foe Dneez e rne de orte  L dxepteme ce & dxepteme Entree  22 4  Adxepteme fce etotćtdee du Hvre eè  T  meruee &en repreentée que cheun penotvor L ddnté étot compoée du Mzrn & dvn Cprme  qu tennt des cefs ̀mn ouur otctdee dou on vt  ortr tros genes ce uy deguerre ceuy depx & ceuy deRegon qu ynt dné tous tros de oye on vt M  euneen npee ee oe e e ent nedeu Deorms onge meux ̀ fre t prte  T foure et decnouuerrte & ton ndque et eué  Sus donc notre cone & peur detre ttrpé Acheue de dner ton rne de forte"
+        ],
+        [
+            "r  93 L dxhuteme fce dxhucteme Entée Adxhucteme fce etotve de Peronne en Pcr  Lde uec toutes es fortfctonsdne etot de tros  Nymphes qu fuyoent es cheueux eprs & toutes penes de peurs & de trtefes r pottot y e cœur tout mer cœur teut rempy dmour  Ms hes ns epor en ortnt deCour Des prs & douceurs decoere  Pus qu nous fut dner e rne de orte  L dxneufeme fce & dxneufeme Entŕe  J A fce repreentotve de Prs dnceetot dvne  douzne dtens entre es utnesqupoenugge  & rompoent es ettres de Nturté que Mztn euruot  t ceer pour es rendre cpes doccuper des enefces  & tenr des ens en Frnce donnnt n ux etrngers e  pn des enfns demo pernnes dgnes defoy yt  duré quen vneu our e Mtre des oeux quofttrere  en usortexpe dé & oe é pus de nunequoy ut refué des nnées enters de ceertees qu ttoeneré̃  tement des Eueques nnocens éurrnsn Hdes mgré es Sceux &Chnceere  Lon nousft dncer e nnse de ore eo  eee r  L vngteme fce &Shngt ede Ente  J A20 Fce etotPerpectue du Ps Roy entrée  etor de deux Segneurs deCout qu dnç̧nt e tre uue  rent ttquez dArtns uec es ntrumens de eurs me  ters ors quvne trouppe denfns eus es vnt eprer tout  en rnt & en dnç̧nt"
+        ],
+        [
+            "ee20  Me8eurs rerrez vous  Ecrtez vous dcy ne penez ps quon re  Meßeurs retrez vous  Mzrndncé e rnse de orte  Lvngneme fce & vngtvneme entve  AFce etot e Ce dù on voyot tomer tros Etoes qu font vne prtc des rmes de Mzrn &  e e ene nueeunu ee eoeneene e eo u Comme onvot tomer es Etoes des Ceux  An on te ver Mzrn en touseux Errnt & vgond erur de rere Qnt tu urs dncé ton rnse de orte L dern ere fce & dernere entrée  J A Fce etot emée des Deux dns vne grnde Se dorée meruee Lenrée etot de Mercure dtrunt es Arrets des Deux à cs Potonspus vtes que es vents pour es er porter  pr touẗemonde Aex pr rnuers porten ret des DeuxQue e Cet ché Mzrmde ees eux Ne pouunt vor excez defrpponnere  L contrt ddncer e rnse de orte  Sen et ft"
         ]
     ]
 }

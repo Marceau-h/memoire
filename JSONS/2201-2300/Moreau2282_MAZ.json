@@ -1,180 +1,60 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "lettre",
-            "texte officiel"
-        ],
+        "genre": "lettre",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-10-13",
+        "subject": "Tarente, Henri-Charles de La Trémoille (1620-1672 ; prince de)",
+        "creation": "1652-02-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-29",
+            "@when": "2022-03-14",
             "@who": "AB"
         },
-        "titre": "Lettres du roi envoyées à messieurs les gouverneur,\n          prévôt des marchands et échevins de sa bonne ville de Paris, sur le sujet de son arrivée\n          en ladite ville et pour la levée de la garde des portes, de Saint Germain en Laye, le 19\n          octobre 1652.",
+        "titre": "Lettres du roi envoyées à messieurs les gouverneur,\n          prévôt des marchands et échevins de sa bonne ville de Paris, de Saumur le 22 février 1652,\n          avec la relation véritable de ce qui s'est passé dans la défaite de la cavalerie de M. le\n          prince de Tarente dans la plaine de Perdillac, près Xaintes.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2283_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2282_MAZ.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRES",
-            "DV ROY",
-            "ENVOYEES A MESSIEVRS",
-            "les Gouuerneur, Preuoſt des",
-            "Marchands, & Eſecleuins de",
-            "ſa bonne Ville de Paris.",
-            "Sur le ſujet de ſon arriuée en ſa bonne Ville de Paris.",
-            "Et pour la leuée de la Garde des Portes.",
-            "De Saint Germain en Laye, le 19. Octobre 1652.",
-            "A PARIS,",
-            "Chez P. ROCOLET, Imprimeur & Libraire ordinaire",
-            "du Roy, & de la Maiſon de Ville",
-            "M. DC. LII.",
-            "Auec Priuilege de ſa Maieſté."
+            "Lettres du ro envoyées à messeurs es gouverneur prévôt des mrchnds et échevns de s onne ve de Prs de Sumur e 22 févrer 652 vecreton vérte de ce qu sest pssé dnsdéfte decvere de M e prnce de Trente dnspne de Perdc près Xntes Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Lous XVLettres du Roy Envoyeesmesseurs es gouverneur prevost des mrchnds & eschevns de s onne ve de Prs De Sumur e 22 fevrer 652 Avecreton verte de ce qu sest pssé dnsdeffte decvere de monseur e prnce de Trnte enpene de Perdc pres Xntes Prs Perre Rocoet 652 27 févrer 652 Prs Bothèque MzrneM529TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès Huert Crrer texte pru e 27 févrer 652 suvnt Deussoueny (Bothèque Mzrne Ms 468 f 307v)2282 Lettres du ro envoyées à messeurs es gouver neur prévôt des mrchnds et échevns de s onne ve de Prs de Sumur e 22 févrer 652 vecreton vérte de ce qu sest pssé dnsdéfte decvere de M e prnce de Trente dnspne de Perdc près Xntes Prs P Rocoet 652pges Cest de cette ffre de Perdc qu est dt dns es Mémores du prnce de Trente pge 93« Je fus vert que es ennems mrchoent pour fre e sége de SntesJe vouus eur couper e chemnety eut un comt dns eque jessuy puseurs coups de crne pr une troupe qu mvot enveoppé L vgueur de mon chev me suv Puseurs de mes régments voent âché pedet je fus ogé de me retrer vec queque perte qu ne fut ps à eucoup près uss grnde quecour ffect de e pu er Je fs e endemnrevue de mes troupeset je ne metrouv ffo que de cnqunte chevux Cependnt on ft psser cette cton à Poters comme une défte généreet peu sen fut quon ny fît chnter e Te Deum àvue de dut csques de mes grdes qu y furent portées »prose ettreTrente Henhres de L Trémoe (6272prnce de) Comt de Monrsn 65"
         ],
         [
-            "3",
-            "LETTRES",
-            "ENVOYEES AMESSIEVRS",
-            "les Gouuerneur, Preuoſt des",
-            "Marchands, & Eſcheuins de",
-            "ſa bonne Ville de Paris.",
-            "Parer oue eoeouiie le eſe",
-            "uoir au Corps de ma bonne",
-            "S! Vile de Paris, que pour oſier",
-            "lN",
-            "routes les marques des deſor",
-            "dres qui l’ont affgée, & pour",
-            "laiſſer deſormais chacun dans",
-            "la liberte de vaquer à ſon",
-            "commerce ſans aucune interruption; le veux",
-            "qu’on leue la Garde des l’ortes, qu’ert poſe les",
-            "armes, & que nul ne les ’prenne à ’aduenlr, ſans",
-            "ma Permiſſion. le luy dorne aduis mſme, que",
-            "i’arriueray L undy prochiain en ma bonne Ville;",
-            "Que ie fais eſtat d’aller loger en mn haſteau",
-            "A ij"
+            "LETTRES DV ROY ENVOTEES A MESSEVRS LES Gouuerneur Preuot des rchnds & eche uns deonne e de Prs De Sumur e 22 Fevrer 62 AVEC LA RELATON VERTABLE de ce qu set pé dnsdeffte deCuere de Moneur e Prncede Trnte enpene de Perdc pres XntesA PARS Chez P ROCOLET mprmeur & Lrre ordnre du Roy & deMon de Ve u Ps ux Armes du Roy & deVe M DC LAuec Pruege deMeté"
         ],
         [
-            "42",
-            "du Louure; & que comme pour eét effet, i’en",
-            "treray par l Porte de la Conferance, & ſans ce",
-            "remonie. le diſpenſe auſſi les Habitans de la",
-            "Vilte, de me faire aucune entreé́e, & que ie me",
-            ". contenteray qu’ilsviennent ſeulement au deuant",
-            "e moy iuſques à la Porte dé l’entrée du Cours:",
-            "C’eſt ce que ie deſire que vous leur faſſiez encore",
-            "plus pariculierement entendre de ma part, afin",
-            "qu’ils ne manquent pas de ſe conformer aà mon",
-            "intention: Cependant, ie prie Dieu qu’il vous",
-            "ait, mon Couſin, en ſa ſainte garde. EscrR 1T à",
-            "Sainct Germain en Laye, le dix-neufiéme iour",
-            "d’octobre o: Signé, LOVIS. Et plus bas,",
-            "DE GVEnNEG A VD.",
-            "Et ſur la ſuſcription eſt eſerit:",
-            "A mon Couſin le Sieur de l’Hoſpital, Mareſchal de",
-            "France, Gouuerneur, & mon Lieutenant general",
-            "en ma bonne Ville, Preuoſté, & Vicomté de Paris.",
-            "tt;s o:",
-            "r",
-            "DE PARLEROY",
-            "I D A I",
-            "1 HM",
-            "RES-CHERS ET BIEN AMEZ",
-            "J Nous auons reſolu de nous rendre",
-            ", Lundy prochain en noſtre bonne Vil",
-            "Q le de l’aris, & d’aller loger dans noſtre",
-            "s",
-            "Chaſteau du Louure. Comme nous",
-            "faiſons eſtat d’y arriuer par la Porte de la Confe",
-            "rence"
+            "3 MON COVSN L Reton que e vous enuoye dedeffte deCuere du Prnce de Trnte rruée enpne de Perdc uprés de Xntes Vous pprendr que mgré es otces que mes ennems oppoentmes deens Deu contnue de fuorer mes Armes & de enr me nrentons Comme e ne doute pont que mes ons Serouteousne prenment p denrendre es duenge quees remporeent ur cees des reees e dereue pour es nformer des prteurtez de ce ucce onenfe mprmeRerons Ads quunt que erendre pque vouse ommunuque u Preuot des Mrehnds & Echeuns de m onne Ve de Pus & quen eut rendntLerre que e eur cdrpt ur ce jee vous es eune tous oun deoomne vodone qu y pour eu &e dn der que y de e reoor cet ce que e remensvore pt denes & ̀ vous ons eroudnme Cepenmdnr e pe Don quvous t Mon C ovr enonte grde Eerpe ̀ Sumur e vnge deuxeme our de Eeure neus enqune deu Sgue LoVspunDE GVENE G A VD E urucrpton A mon Con e Seur de Lhopt Mrech de Frnee ouuetmeur & mon utennt gener en m onne Ve Preuoté & Vcomté de Prs A j"
         ],
         [
-            "5",
-            "ance Ians ceremonie: Nos vous diſpenſons",
-            "luſſide la peine & du ſoin que vos pourriez vous",
-            "donner pour nous faire vne entreée, & nous nous",
-            "coatenterons que vous veniez ſeulement au de.",
-            "uant de nous inſques à la Pore de l’enrreé́e du",
-            "Ceurs. Certe Lettre n’eſt que pour vous en donner",
-            "aduis, afi que vous e manquiez de vous con",
-            "former à ce que nous vous preſciiuons ſur ce ſujet.",
-            "C rEI. EST osTR PLAR. Donné́ à Saint",
-            "Germaint en Laye le dix neufiéme iour d’Octobre",
-            "mil ſix cens cinquante-deux.",
-            "L1S:",
-            "Signe.",
-            "Ei plus bas,",
-            "D GvEnNE GAV .",
-            "Er far ls ſaſcripinieft eſnite",
-            "A nos Tres.-chers & bien amez les Preuoſt",
-            "des bMarehands & Eſcheuins de noſtre",
-            "bonne Ville de Paris.",
-            "B"
+            "4 DE PARLE ROY TREHERS ET BENAMEZ S nous ugeons deoye que nos o uccez vous donnent pr mour que Nous vous portons Nous ommes eurez que duntge quont eu no Armes urCuere du Prnce de Trnte vous ertres gree Nous en enuoyonsReton à notre Coun e Mre h de Lhopt pour vouscommunquer & Nous entendons qupres que vous urez veuë fe mprmer pourrendre pucque fn que tous nos ons Sujets qusntereent dns nos propertez oent nformez des prtcurtez de ceeCette Lettre netnt pour utre fn Nous ne vousferons pus ongue Donneé à Sumur e 2z Feurer 65 Sgné LOVS Et pus s DE GV Et urucrpon NEGAND A nos tres chers & en mez es Preuot des Mrchnds & Echeuns de notre onne Ve de Prs RELAATON VE RTABLE DECE QV set pßé dnsdeffte deCuere de Moneur e Prnce de Trnte enpne de Perdc prés ntes pRdes ue e e e ee en de eeoet chee de nct Smon que Moneur e & prnee de Trnte tenotPons touteCuereenuoy Moneur e Comte de Benc uec"
         ],
         [
-            ".7.",
-            "e’Ss er t yeey",
-            "5 c",
-            "eſ,- see8e",
-            "E3",
-            "T ’o1 V",
-            "41",
-            ".. 4",
-            "IA À IL .",
-            "eESCHERSET BIEN AME.",
-            "ei A preſent que noſtre bonae Vlle de Pa",
-            "e is nous a faie couoiſtre pat la ſmiſſin",
-            "de tous les Corps qui la compoſent, qu’elle n’auoit",
-            "rien plus a cœur que de nous donner-des- mai",
-            "ques de ſa fidelité: Qe pour uy témoigner que",
-            "nous en ſommes ſatisfaits & que nous prefe",
-            "rons ſon repos aà toute autrc corſideration; Nous",
-            "auons reſolu de l’honorer de noſtre preſence, &",
-            "en incinant aux diuerſes prieres qu’elle nous ena",
-            "faites, de luy donnerauee noſtre retour’abon",
-            "daace de toutes les choſes, doht les troubles &",
-            "noſtre abſence l’ont peu priuer; Nous auons creu",
-            "„auſli que pant layoſter toutes les marques des de",
-            "lordres quill’ont afſligee, & pour temettre chacun",
-            "dans la hbertré de vacquer deſormais à ſon exer",
-            "cice ordinaire ſans aucune interruption, il eſtoit",
-            "neceſſaire de faire ceſſer les Gardes qu’on fait à",
-            "ſes portes, & de reſtablir par ce moyen la liber",
-            "té de ſon commerce: Nous voulons & vous man",
-            "dons qu’incontinent cette Lettre receuë vous ayez",
-            "à faire leuer les Gardes des Portes de noſtre bou",
-            "ne Vilie, aà̀ tenir la main que chacun poſe les ar"
+            "uec e eurde Monve Leutennt du Bron de Neue & qurnte Mtres pour pres uor ft entrer Mdme de nct Smon ̀ Montndre sen er ̀guerre vers Pons & uy rpporter nouuee des Ennems Ce ourprt on qurter à̀ Mernc e endemn qutorzeme à̀ At Boccge oùpprt pr e retour du Comte de Benc que e Comte de Lorge Mrech de Cmp & Metre de Cmp deCuere egere du Prnce de Trnte etot venu u pge dzc pour onder es Guez & qu setot retré ̀ Pons ̀ toute rde ne ynt pû̂ jondre Que Moneur e Prnce de Trnte y fot porter quntté de fourge & qu emot ou vouor con eruer ce pote ou nuor ucunes nouuees demrche des troupes du Roy duers dus euroentmeme choe & ngts Mtres des Ennems yns péSeugne & setns preentez deunt Archc foent meme crore qus uoent deen ur cette Pce Le Seur deCheny Mrech de re qu y commnde en ynt duerry Mon eur de Foev e & proms de uy donner temps detre ecourureout de mrcher drot ̀ Pons uec es Regmens de Cuere de eonne Armgnc Foeve & Vevert es Compgnes de genr mes & Cheuux Legers deReyne gens drmes de Mercure de Roü̈nnys & des Roches es Comp gnes frnches de Benc Nué & Fontenes ynt donné́ ordre ̀ on nfntere de e rendre ̀ nct Smon de Cermont e eudy qunzeme pour presjoncton de es troupes etre en ett dentreprenE"
         ],
         [
-            "7",
-            "es, & qu nul ne les puiſſe prendre deſormais",
-            "ſans vn exprés commandement de noſtre part:",
-            "Et nous promettant de voſtre obeſſnce, & de",
-            "l’affection que vous deuez onr le bien du publie,",
-            "que vous executerez ponctuellement ce ue cet",
-            "te Lettre vous preſcrit, Nous ne vous la ferons",
-            "plus expreſſe: DonE’ à Saint Cerm.n en Laye",
-            "le dix-huictiéne iours d’Octobre mil ſix cens cin",
-            "quante deux.",
-            "Signé,",
-            "Etplus has,",
-            "e",
-            "LOVIS.",
-            "D Gve ai v d.",
-            "Et ſur la ſuſripeianet eſrit:",
-            "A nos Tres. elers & bie amez les Preuo",
-            "des Marchadsr & Eſcbeulns e noſtre",
-            "bonne Ville de Paris."
+            "dte ur Pons Moneut e Du de nt Smon y ynt proms eucore cent Fuzers Le Mercredy qu totemepct on qurter ̀ As Boccge doû̀ft pnre ur deBetonnere Cptne u Reg ment de eonne uocoxnte Mtres pourer prendre ngue des Ennems cependntmrch drot à̀ nct Smon de Cermont où etot on ren deous genery pprt pr e retour du eur deBretonnere qu uy men e Leutennt du eur de Mgezy vn Mrech des Logs & x Cuers qu uot prs que Moneur e Prnce de Trnte deuot rruer à Pons qu en uot ft rur on nfntere & es gges ms qu y demeurerot uec touteCuere Tous es dus que Moneur de Foeve receut etoent conformese reout de mrcher uec on nfntere qu etot e Regment de Nor mouter commndé pr e eur de Boguume cnqunte hommes detchez dHrcourt & oxnre des Sues cnqunte de Moneur e Mrqus dArs vngt de Moneur de onzc trente de Moneur de Chtehenet & oxnte Bourgeos deVe de Congnc commndez pr Moneur e Cheuer de Bgnoe Mrech de te qu uot pr tcuerement chrgez decondute de es troupes & du eur de Chtehenet dont e cœur & nte gence ont eruy tretement &Cuere rr unt deunt Ponsceut pr e eur de Bourcqurt Leutennt detché́ de on Regment uec es cou reurs que Moneur e Prnce de Trnte etot en te urhuteur de ons vers nres Ce qu o"
+        ],
+        [
+            "ge de per en dgence jugent en qu ne pourrot e retrer ns comttre es troupes yns vn grnd deffe furent queque temps̀ e mettre en temoté p dnsVe que Moneur de Trnte ndonnot & setnt trouuée pr cee ron à̀drote Les Regmens de eonne & de Foeve yns prshuteur qu etot ̀guche on uge ne deuor ps chnger cét ordre de peur de perdre du temps Moneur de Foeve ft en meme temps détcher des coureurs uec ordre dengger es ennems & retrder eur mrche e temps qus uoent à seogner ft que quoy que nos troupes ent u grnd trot deux euës durnt s ne es eu ent ms puû jondreMoneur de Foeve neut ft detcher cent Mtres de touteCuere egere qu donnnt ̀Crutte es ogerent à̀ tourner tete Toutes es troupes frent encore vne euë̈ ̀ rou te rde & es ennems e voyns prets de per vn deffe proche Xntes reourent enfn de comttre à heure toutes nos troupes ne peurent prendre h ene es ennems fns ferme urhuteur de Per dc ees mrcherent u pett ps Moneur de Fo eve ynt reconnu que effort romerot urdrote où tros gros ecdrons etoent sy enynt é́ Moneur de Vevert Metre de Cmp commndntCuere egere ̀guche uec e eur deChpeotte commndnt e Regment de eonne & ms Moneur de Souche prés com mndnt es gens drmes de Roünnys u meu degne uec Moneur e Comte de Benc &Com E"
+        ],
+        [
+            "sS pgne du Bron de Nú e Regment dArm gnc commndé pr e eur de Fmnve Ecoüe renotdrote ceuy de Vevert fnt deux ec drons etoent àguche Foeve commndé pr e eur du Bocq Rocqué ̀drote de eonne es Corps de reerue etoent deux ecdrons vn com poé des genrmes & Cheuux egers de Reyne commndeé pr M e Mrqus dEthots & genr mes de Mercure pr Mr de Couroon utre des gens drmes des Roches Brtud es Regmens dAnguen de Guyenne & de Lorge fnt tros ecdrõs soppo oent ̀ ceux dArmgnc & de Veuert M e Prnce de Trnte ynt creu y trouuer e Regment de e onne qu cuot etre e eu veux Regment de nos Troupes uot fortfé cetre e Le Regment deCh teeuf & de Chugnc foent tete à e onne es deux Trentes & es Grdes à̀ ceuy de Fo eue & ux Compgnes Frnches Nemours An guen & de Berry setnt jonts erent vne dtn ce ez grnde pour per vn des ecdrons de Ve uert Lorge setnt jettée encor urguche Mon eur de Foeue ne vouut ps perdre ce tempsme n ̀chrge e econd des ecdrons Veuert com mndé pr e eur du Tre prt en fnc ceuy de Lorge dns e temps qus choquoent Armgnc Anguen & de Guenne & utre ecdron de Veuert venot ̀chrge pr tete es perce & rompt e guche de nne tt Chteeuf & Chugnc n à̀ meme tempsderoutte fut genere es Gendr mes de Rounuys & es Compgnes Frnches ynt rompu"
+        ],
+        [
+            "rompu es utres ecdrons qu euretot oppoeo pouf epée dns e rems des ennems uquu défe prés Xntes ns qus e oent rez dx hommes enene & de cnq̀ x cens cheuux quuot Mon eur e Prnce de Trntene sen et ps uué o nte ̀ Xntes e reteetétué ou prs Les ecdrons de reerue cõmndé pr Moneur e Mrqus dEtos vount donner Moneur de Foeue eur commn d de mrcher errez voynt que toutes es troupes etoent meées & dns vne dérouttegenere vou ut uor de quoy ermpecher e rment en effetny en eut pont du tout Pour çuor ceux qu e ontgnez en cette occonne fut que demnder e nom des Offcers de toutes es troupes es ennems peuuent trer degore dy uor comttu mn ̀ mnsn pont pru qu y eut dns ce rencontre de nouueux Regmens exempe de ceuy de n ne fut commndé pr e eur deChpeote eurft fre ce que es pus ncennes troupes uroent pene ̀ entreprendre e pus grnd feueté ur Ar mgnc u on eu e pus doffcers eez Moneur de Mgremont voontre donnot uec eux e eur de Snort comttt upres de Mon eur de Foeue e eur deCour portnt es ordreset́ eé de coups depées meé prmy es ennems Tous es utres voontres nont ps mons de prt ̀gore de cette cton pus que tous e ont meez & y ont ft ce quon peut eperer de gens dhonneur e Bron de Veuert frere du Metre de Cmp yeté fort eé e eur de Beuregrd Cptne & Mjor E"
+        ],
+        [
+            "r0 d Armgnc e eur de Htreumont u Cptne dns e meme Regment ont eté eez ynt ft c que on peut ttendre degeneroté de deux OE cers e eur Douctot Leutennt du Mrqus deCroy u meme Regment y fut tué e eur deCour vo ontre y eté u eé portnt es ordres de Mon eur de Foeue On peut dre que es eurs de Beu FTegrd & de Fmnue qu commndot e Regment dArmgnc eut on cheu tué ous uy nont ps peu contruer u en que Moneur de Frene C ptne & de Terceve Leutennt deMetre de Cmp ̀ fre comttre Armgnc ̀mode dHr cour & dns e Regment de Foeve & de Vevert que es veux Offcers commndnts de nouueux Corps es ç̧uent en fre comttre Meeurs de Vevert Compre de Beme & deChpeotte pou erent nec tnt de vgueur quon ne peut ez repre enter comen eur generoté ̀ en reü Le derner pnt e Cprne des Grdes de Moneur e Prnce de Trente pour uy Pour nomer tous ceux qu ont prt ̀ cette ctonne fut que ç̧uorte des Offcers qu y ont eruy ceux qu ny ont ps nommez nont ps mons prt ̀ honneur de cette cton Le eur dOrgnc pres etre reuenu deguerre uec e Seur deBretonnere retourn àchrge & y cqut eucoup dhonneur u en que e Bron dAges qu y fut é Moneur de nct Fort comtt u pres de Moneur de Foeve Le Cheuer deFer rere & e Seur de e Mre e trouuerent à cette oc con Nous ne pouuons encore ç̧uor e nom ny e"
+        ],
+        [
+            "nomre des Offcers des Ennems pronners Oneuement mené Moneur de Mgezy Cptne commndnt e veux Trnte Le Cheuer de Ch teeuf Cptne dns Nemours Moneur dAn ché Cptne des Grdes du Prnce de Trente Mon eur du Vernets Leutennt de MgezLe Seur du V uer Cornette de MryLe Seur de Lne Leutennt u Regment de Lorge e Seur du Pes Cornette Muré & des Mons Mrechux des Logs Le Seur de Lngde Mrech des Logs de Corv du Reg ment de Nemours tros Cornertes de Trente deux C ptnes du Regment de Lorge fort eez On en t tend es memores de chque Corpspeut y uor eté tué cent cnquntommes deux cens cnqunte pr onners e rete set uué ou prneggence ou prtrop grnde douceur des Cuers msy et de meuré pus de qutre cens cheuux cet ce qupreent e vous pus mnder"
         ]
     ]
 }

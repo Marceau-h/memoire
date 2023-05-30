@@ -1,113 +1,51 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "arrêt",
-            "texte officiel"
-        ],
+        "genre": "lettre",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1649-02-19",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-10",
+            "@when": "2022-10-10",
             "@who": "AB"
         },
-        "titre": "Arréêt de la cour de parlement, du 8 janvier 1592, pour\n          la diminution des baux et loyers des maisons en la ville et faubourgs de Paris.",
+        "titre": "Lettre du comte de Grancey à monseigneur le prince de\n          Condé.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau203_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2100_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "ARREST",
-            "DE LA COVR",
-            "DE PARLEMENT.",
-            "Du 8. Ianuier 1649. Pour la diminution des Baux",
-            "& loyers des Maiſons en la Villee & Fau",
-            "bourgs de Paris.",
-            "A PARIS,",
-            "Par les Imprimeurs & Librairés ordinaires",
-            "du Roy.",
-            "M. DC. XLIX.",
-            "Auec Priuilege de ſa Majefté."
+            "Lettre du comte de Grncey à monsegneur e prnce de Condé Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté8 jun 202Jcques de Rouxe GrnceyLous Bouroondé deLettre du comte de Grncey à monsegneur e prnce de Condé Sns LeuSns Nom649 Lyon Bothèque muncpe de LyonRés 3284TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs200 Lettre du comte de Grncey à monsegneur e prnce de Condé Sns Leu 6498 pges Fusse et supposée (Mscurt p 5)prose ettre Récepton de envoyé de rchduc Léopod u prement 64"
         ],
         [
-            "3",
-            "EXTRAICT DES REGISTRES",
-            "de Parlement.",
-            "EV PAR LA COVR , la Requeſte preſen",
-            "cee par les Marchands & Bourgeois de Pa",
-            "ris, ignez en ladite Requeſte; par laquelle,",
-            "’A aeendu que cy deuan ladite Cour pou",
-            "Z la calamte du temps, leur auoit fait dimi",
-            "Ee",
-            "nution d’vn tiers, apres d’vn quart des",
-            "loyers des Maiſons par eux tenuës à loùa",
-            "ge Mais que continuant de mal en pis, & pou cmpeſche",
-            ", coneraintos & executions rigoureuſes de ſi peu de meu",
-            "bles qui ler reſte, pres auot conſumé ce qu’ils auoient",
-            "plus preeieux en frais de Iuſtice, les Proprietairos non",
-            "paye es Loeataires non aequitte, ains reduius iuſques à le",
-            "palle, leur fmle pout i’auoit moen ds eeuoit leur",
-            "ee eauſ des lurleanees que l’on impetre, & moins de",
-            "aire aucun trafic, ſoit en cette Ville ou aux champs, ne pou",
-            "ans payet ſans eſtre payez: ioint la cheré de tous viures qu’ls",
-            "ſont contraints de ſouffrir; & outre, d’aller n ennoyer aux",
-            "Pores, ſeninelle, &e forifieaiones ls ſont ordinrement",
-            "ampiaea n daure eue noyen ds vaquer aſiſer u",
-            "Selieui, conſeruauon de leur Religion, & defenſes de",
-            "viie, Ils requeroient, pout les eauſes & conſiderations ſuſ",
-            "ites, diminution leur eſtre faite des loyers des Maiſons par eux",
-            "oceupées,à quoy ſe monte leurs Baux, n’en payer qu’vne ſixiemo",
-            "parti, qui ſera de ſix vn, ſi mieux les Proprieaires des Maſons",
-            "’aiment tous les Baux faits aux Supplians, eſtre caſſez & reſo",
-            "lus, ſans que pour se leſdis Supplians ſoient tenus leur payer",
-            "aucuns deſpens, dommages & intereſts, & que pendant ladite",
-            "calamité & miſerte du temps, tant leſdits Proprietaires que Lo",
-            "cataires, ſe pſſent accommaoder de gré à gré, & ſe maintenit",
-            "les vns aues les autres. V a V auſſi l’Arreſt de ladite Cour du",
-            "a2o. Decembre deruier paſſé, donné ſur ladite Requeſte, con"
+            "m  ETTRE DV COMTE nE ot LE PRNCE DE CONDE"
         ],
         [
-            "4",
-            "enant ſutſeanee ioſques au quinaiéme iour de ce mois, depno",
-            "ceder au tranport & vente des biens meubles pri pat elu",
-            "oe ur les Sp plians pour ous les lores pus eut deuo, un",
-            "defenſes roai Huiſneis & Segens, de proee der auit uiſpor.",
-            "& enee es Coneluſion du lP’tooureur Ceneral du Roy, u",
-            "ne e le diues e queſteauoit eſts conmonique PDeu eque",
-            "pe ſonrées ̀ ladiue Cour, l’vns pat las Doen e curounes",
-            "Chapiure & Comunaute de ’Eguiſe de S’ Gemuin de r",
-            "crrou, Chantre, Chanoines &e Chapierede ’Eglſe S. Hono",
-            "ré, Cheueeier, Chanoines, Chapiere & Communauuss",
-            "deie, le Peuoſt, Chanoines &e Chapire S Ncolas du on la deuieme par les",
-            "Marguiſlera de l’œuure &e raouigu.",
-            "de S. lacques de la Boucheris, ndane anin d’eſtrereeo l",
-            "peiuenmnont oppoſans, & ouis ſur la reſolution des Bauoguiſe",
-            "par ler Supplians &e ſur le touti La matiere miſe en deliberutdionr",
-            "LA Co V ayant egard a ladite Requeſte, neeeſure, miſers",
-            "lamirdu tempis O n on ’ &e oradonne, dQu d",
-            "Pau fuuant iudieaiaires qu’autres ̀ noufan & au deſfos, ae",
-            "preee dens les quinuieme At as, ls E oaunaiue n pay",
-            "one plus qus le quat du ſoyer conrenu eſdius os, pontie",
-            "oardde ceux faie depui ledie quinaiema Aueil iſques au",
-            "dermier Aouſt yoo. ne payeront que la moitie deſuie au.",
-            "& quant à nen fais depuis le ſiege leue, les Loeaais",
-            "payeront que les deux iaet du conenu eſaius au u",
-            "e duninuions l̀ oommeneer au ee eſeheoa la oan",
-            "my dermier: ſi mieux n’aimene les Proprietair, duiſon",
-            "conſentir la reſolution deſdits Baux; ce qu’ils ſeront ,",
-            "d’opter dans huictaine apres la ſignification du preſent Arre4",
-            "à eux faite. Fa 1er en Parlement le huictieme Ianuier il",
-            "cinq cens quatre vingts douze. Signé, Le Maço.",
-            "collaionń’à l’rignal pa moy Conſeiler eceeaire",
-            "du Roy & de ſes Finances."
+            "ue8 ee s vmsAr LEr j  e23 2 ET 94y SSA mo ooor  X onon Goo"
+        ],
+        [
+            "3 sser  D4 L L LLr r y T r V LUM E7r DE GRANCEY A Monegneur e Prnce de Cond́OsEGnNEvs et vry que es grndes pertes onnen &e que es grnds ronsgente dos etre etonneé u derner pont & ff ge sout enemepusquey perdu merté uec touteenomḿe qu e pouuos uor cque u prunt & que y receu ffront e pus ene e ms guerrer t pû receuor ms ce qu me couoe ds mon ffcton & dns m perte eet de or dcs fct quà otre eue conderton & ue mhoeur met rrué dns votre eruce Apro or cecuté ponctueement es ordres & A"
+        ],
+        [
+            "4 3 3 es ommndemns de votre Aeoes pr uo4 egé́ & prs Bre prcquu meme tempsfortu eteement ndonń u eon que com ne vous uez pû çuor e us tomé entré es mns dqe mes ennems & des votres Ms oerye voure fonegneutufr pen dns ett où̀e us ny us queé de preuoce ee ont ponos ennes quon vous hoore dns Prs tntqudn s fct & e vos à preent qus nont tous quvn ene depr de vous vorouhrtter eurperte puque certnement vous y perdréos penes & que vous pourrez ternrgore detnt de ees ctons que vous uez fctesvous pereuerez duntge e vous ecrs cecyrnd à e mon ps tnt du de pr que y de m pron ms pourprt que e prends dns vos nterets recohdot mntennt quoy que trop tr&d ffeétò e courge de Me feurs de Prs qu nont utre nteton que ce de vor retourner e Ry dns eur ve &s dsfeduffe dre de oppreon de Mofepr e Curdn qovous proregeésVor certnement Monegnutes jutes et nensdes Préns cependne vous pret esre eontreux & vou exercés pus dhoté conteux quevous ne erez contreé vos popres ennenHuos ouuee cette peneée qud e oyos qts vous"
+        ],
+        [
+            "vous gtés qo fert deus prners quevous he dez ps enet de u orte pufque cefot vos cotptrots Pdt rtrtot & u eftoent crhneßeque &e trp fetor & trop de ee u ruce du Ro y ouuent eté pret̀ vous e dre mscrne que uos dé̈pf e pour tmde upres de votré refe me fermotouche & me fot vor à regret e uppce dé nmocence Cetpremere choe quon m me deune es yeux pres r pre duor mnqué́ de oy à Bre & duor eufert qon mttout nud& quoh ftftceüx àqu uãsdonné m proe téerefpone que y peu r cesreproches etoétfe choefnonque etgnos que votre teene erouuerot ponNos de queque doueur&e f e grdos Hpe dés gens que ous fdte per pour rcees & pour deoe nse?2 reconnopnton deféesepn e vos en qev ute feftdeé Du pur my & vYértféfhẽtt por vVouousy prehe z grédeonous ̀ dte Vous eSd deur ã terhfe? dete û tr uBos deVneenre & e Voéeeàe ge &heur vstrfuée êeyu e rosofs ehAurs etérry eros efté6 &ee que vte pe urotenmfétrces es qSéees dont vusrefes puêfedrné Qe Voees ãeddoteefos etêe"
+        ],
+        [
+            "ms tont Prs & eme tote fFrce puquecepon teret que vuschoquez& que vous em che dçour de p &s de renpr dnspe ee ondnce en uroq eté u creche pque surotetépus grnde reche à votre honneur & e pus eneffron que vous urjezteceuo de comr entre es mnde quyous vouez freguerre Ms Monegneu vous uez çu en encore dutres duertemens ecy cmmenoqt d Duc de Chtn vous eté́ tres ene rruer utnuyeuque queqpe mroq u r ps e en de vous conotre ou queque m content pourrot vous donner dnstee & e ̀ toutetere yn yres ene depy de votre pérte que vous urje pe éutervos ez uu votre courge expoe pr erop & ouffezqu9 vous de que vus uez ft ez protre & quo ne dte pus deyvtre generoté quehneur em prJe vous ds e tompe vpus qu4 nepntns vpe noée on dro pueme cetqtygpnd & gonereux Prnce ms effcé ppue gou qy uos cque pr vn deen dnç grru& qqt de uperprre Voy dos ju tes enjens de tsu e mond don vous poque jter fçement e ntre pregeV gene méçomue vous dotetre pus prudent qugû eu & puquge voupee4 ce derner ttreup Agçmep goçdées gose pue"
+        ],
+        [
+            "5 ous es deux ontneceres à vn grnd Cptn Copendnt Monegneur me vocy pronner & ns efpernce de ortr eot de m pronvo tre Atee ny met ordre Ee e peut ement ms e noeros uy en dre es moyens puque set cho quer es entrepres Nmporte pres uor mnqué de foy e neçuros etre pus crmne &e eus ncore ce er de trop de zee Ouy Monegneurvous pouuez ouurr mà pnon &uec honneur ms ce neer ps prforc ny prvoence vous e pouuez prdouceur &vous mettez es rnes s & que vous rmenez eR oy dns Prs on y re ceur & vous u à rs ouuers & moy ortnt de m pron pr votre fueur e receutyrecompen e de mes eruces e ç̧s en que e choque vos mouuemens ms condereze vous pre que qund en vous vnquerez es Prens que ce ne vous erot ps vnhonneur de es vncre puque vous ne vnquerez ps es ennems vnquez vous putot vous meme Monegneurne uuez ps mpetuo té de vos pffons ny ne oyez ps e mntre des p fons desutres protegez ceux que mertent com me es Prens & ceuy qu veut vure & mourx Mongneus tre treume & treeynt erutevur GRANCEY"
         ]
     ]
 }

@@ -2,175 +2,53 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "récit",
-            "relation"
+            "lettre",
+            "discours adressé"
         ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Du Bosc de Montandré",
-            "Rohan, Hercule de (1567-1654)",
-            "Angers (Maine-et-Loire)"
-        ],
-        "creation": "1652-02-03",
+        "creation": "1651-07-06",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-18",
-            "@who": "AB"
+            "@when": "2022-06-13",
+            "@who": "ZC"
         },
-        "titre": "Seconde relation de ce qui s'est fait et passé devant la\n          ville d'Angers par monsieur le duc de Rohan et les habitants contre les troupes du\n          cardinal Mazarin; d'Angers les 21 et 22 février 1652.",
+        "titre": "Seconde lettre écrite à messieurs du Parlement par M. le\n          prince de Condé , servant de réponse à l'écrit envoyé par la reine régente à messieurs du\n          Parlement par messeiurs les gens du roi.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3620_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3617_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "SECONDE",
-            "RELATION",
-            "DE CE QVI SEST FAIT",
-            "ET PASSE’ DEVANT LA VILLE",
-            "d’Angers, par Monſieue le Duc de Rohan &",
-            "les Habitans, contre les Troupes du Cardinal",
-            "Mazarin.",
-            "D'Angers les 21. & 23. Feurier 1652.",
-            "A PARIS.",
-            "DE L'IMPRIMERIE de la Veufue I. GVILLEMOT",
-            "ruë des Marmouzets, proche l’Egliſe",
-            "de la Magdelaine.",
-            "M. DC. LII.",
-            "Auec permißion de ſon Alteſſe Royale."
+            "Seconde ettre écrte à messeurs du Prement pr M e prnce de Condéservnt de réponse à écrt envoyé prrene régente à messeurs du Prement pr messeurs es gens du ro Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Lousde Bouron prnce de Condé Seconde ettre écrte à messeurs du Prement pr M e prnce de Condéservnt de réponse à écrt envoyé prrene régente à messeurs du Prement pr messeurs es gens du ro Prs (veuve de Jen) Guemot 65 Sgné du 9 juet 65 Gnd Unversté de GndTrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs367 Seconde ettre écrte à messeurs du Prement pr M e prnce de Condé servnt de réponse à écrt envoyé prrene régente à messeurs du Prement pr messeurs es gens du ro Prs veuve J Guemot 658 pges VorLettre de Monseur e prnce à Messeurs du Prement L Seconde ettre est tns es Mémores de mdme de Mott vepge 4 Co Mchud Cestpèce cotée sous e nu méo 23 386 dnsBothèque du P Leonget dtée du ju et pr erreur L dte vérte est de Snur e 9 juetprose ettre dscours dressé Le prnce de Condé se retre à Snur 66"
         ],
         [
-            "2.",
-            "SECONDE",
-            "RELATION",
-            "DE CE QVI S’EST",
-            "fait & paſſé deuant la ville",
-            "d’Angers, par Monſieur le",
-            "Duc de Rohan & les Ha",
-            "bitans, contre les Troupes",
-            "du Cardinal Mazarin.",
-            "Es Samedy & Dimanche dix",
-            "ſept & dix -huictieſme du cou",
-            "rant, il furt fait quelques ſor",
-            "ties où furent tuü̈ez & pris pri",
-            "ſonniers pluſieurs des ennemis",
-            "SV au nomb re de quinae ou ſeie.",
-            "Le meſme iour de Dimanche, on eut auis",
-            "A ii"
+            "SECONDE LETTRE ESCRTE A MESSEVRS DV PARLEMENT PAR MONSEGNEVR LE PRNCE DE CONDE SERVANT DE RESPONSE à Ecrt enuoyé prRene Regente à Meseurs du Pre ment pr Meseurs es Gens du RoyA PARS DE LMPRMERE deVeufueGVLLEMOT ruë des Mrmouzets proche Ege deMgdeene M DC L"
         ],
         [
-            "4",
-            "que le Mareſchal de la Meilleraye enuoyoit",
-            "par la Riuiee de Loire du Canon, des ar",
-            "mes & munitions de guerre pour nous bat",
-            "tre. Noſlre Gouuerneur fiſt ſortir mil oudouze",
-            "cens hommes d’Infanterie & Caualerie tant",
-            "par eau que par terre, leſquels firent ren.",
-            "contre d’vne Barqe chargée de deux Mor",
-            "tiers, de pluſieurs Bombes & Grenades, Pou",
-            "dras, Méche& Plôfnb, dont ils ſe ſaifirent &",
-            "prirent tous ceux qui eſtoient à la conduite",
-            "priſonniers, leſquels aſſeurerent qu’il y auoit",
-            "apres eux pluſieurs Batteaux chargez de Ca",
-            "non & munitions, ce qui obligea noſtre Gou",
-            "uerneur qui eſtoit ſorti auec ſes Troupes, d’e",
-            "laiſſer vne partie ſous le commandement du",
-            "Comte de Rieux au village de la Pointe, lequel",
-            "en meſme temps ſe ſaiſit des Iſles qui ſont pro",
-            "ches de ce lieu, où il eurt aduis que le Canon,",
-            "Batteaux & Munitions eſtoient arreſtez en l’Iſle",
-            "Deſerte, proche noſtre- Dame de B́huard.",
-            "La nuict & la conteſtation qui fut entre nos",
-            "volontaires, & la milice de noſtre Gouuétneur",
-            "à qui feroit la premiere artaque, nos volon",
-            "talres ne l’ayant voulu ceder aux autres,! firent",
-            "iſfferer le combat iuſques aunatin.",
-            "Le Lundy dix- neufieſme nous auons eéſté aſ",
-            "ſeurez que le Canon a eſtéarreſté par les noſtres,",
-            "& rendu inutile.",
-            "Le"
+            "SECONDE LETTRE ecrte ̀ Meers d Prement pr Monegneur e Prnce de Conde Ser unt de Repone d écrt enuoye prReyne Regente ̀ eßeurs du Pre nent prMeeurs es Gens duRoy CerLDOL VeAynt pprs pr Moneur e Prnce de Co y mon frereteneur deé Ecrt qu vouseté porré pr Meeurs es Gens du Roy de prt de eurs Mjetez y creu deuor onner à̀ votre Compgne ecrcement enter de ce qu me régrde ur ce ujet e ny ms douté dentcerté des proes deReyne & y touours eu trop de confnce dnsnnocence de m con"
         ],
         [
-            "Le Mardy vingtieſme arriua en certe Ville",
-            "Ie Marquis de Treuigni, qui a amené deu",
-            "&ns Caualiers bien fairs, & apporté force a",
-            "Seu, on eonnnue rauaulei aun prſiea",
-            "ons de la vile, & les portes de fainct Nico",
-            "la, & Liannoiſe ne nous ſont point encore",
-            "empeſchées.",
-            "aeſre iour le regiment de Nanaies, ’e",
-            "mnt voulu ſiaiſir dv de nos corps de garde",
-            "aune a la porte ſaine ldiehel, en a eſt́e",
-            "pouſe vgoureuſement parles ouresauatePe",
-            "e de beaueoup des ſoldues, Eet furent ſeulemen",
-            "ileſſet pnis prſonnier denoſtre coſtel’nle",
-            "ne des gardede noſtre ouuemeur, &u loche",
-            "alier des Places.",
-            "oepua que les Mainn ſonedeuaml vle",
-            "ln’a efte ne que trois de nos habirams, & cin",
-            "ſiz ſol.. . leamaile-e de nnſtr Cnsneur,",
-            "ae des Mauzains il en a eſt́ ue plus de céntin",
-            "uante, & plus do cenepis priſoier qui fon",
-            "dans le Château.",
-            "habitaus de ootte ville qui eſtoientallez",
-            "amonuer le Candinal ſuarin ſoae peuonus de",
-            "aorladleauuelee aegeam doontonien",
-            "his oaus les doſondrdsautou qicdello os",
-            "lomtaires à vne ſortie en ont pris deux plſon",
-            "ais, entre leſquels oitle fieu EueillardPre",
-            "B"
+            "L 4 dute pout ecrore que Mjeté vouut ren en trepfendre contre m peronne Ms experence de ce qu set pé pr es rtfces du Crdn Mzrn & es dhernscontnuton de eur procedé depus m erté emeà ceuy que uos receu uprunt m pron eur credtu prés deMjeté es dus certns que en y eu qus ne perderoent ueune occon de rendte m condute upocte ̀Cour & dedecrer dns e puc men donnent deutes & egt mes défnces que peronne ne dot tonuer etrnge quede emes proes ppuyé́es dvne Decrton uthentque & decon fnce que uos des eruces que y rendus ̀ Ett & dont Moneur e Premer Pre dent qu en etot dé́potre peut cert ferCompgne ne mont pû̂ grntr dvne pron de treze mos e recherche ̀ preent du tre precutons pr eognement des memes peronnes qu not merté es duntges qus poedent ̀ preent que pr ce qus ont eté & cornuent encores detre mes ennems & prnc pement dns ce temps que touteFrnce çt que ces Mntres nont pont dutre peneé́e que cees du retour du Crdn Mzrn qus ç̧ uent enm ne pouuor ms meux euter quen seurnt de m peroune Et pour pe queCompgne fe refexon ur s duersvoyges"
         ],
         [
-            "ſident au iee de la pPreuoté, noſtre oouer",
-            "ueur les a fait mettre dans le haſteau..",
-            "Nous auons nouuelle que le Cardinal dMau",
-            "arin a eſté mal ſatisfait des mauuais auis que",
-            "luy a donnez le ſieur Laſnier Portugal, au ſujet",
-            "des affaires de cette Ville, luy ayant fait croin",
-            "qu’auſſi-toſt qu’il auroit paru &. exhorté́ les",
-            "Habirans, ils mettroient les armes bas & ſe nen",
-            "droient à diſeretion: Ledit Laſnier a eſté oblig",
-            "de ſe etirer & il y afort long-temps qu’ilne pa.",
-            "roiſt plus à Saumur.",
-            "Le Cardinal Mazarin a yant ſceu qe le cahon",
-            "qu’enuoyoit le Mareſchal de la Meilferaye auoit",
-            "eſté arreſté par les Noſtres & rendu inutile,",
-            "on fait deſcendre trois pieces de Saumur pour",
-            "nou batre, oua fetons hofte poſfible pour",
-            "nous on ſaiſr.",
-            "Nſtr os raaar os-an-oz leho les uii",
-            "à cheual., & viſite cous les quartiers de la Vilbe,",
-            "de comme ſa conduire eft admirable ſes ſoi",
-            "pour noſtre conſeruation ſont infinisl",
-            "Vde hes canoneſtanc oreueé, a légerement",
-            "bleſſé vn de nos Canonicrs à vne euiſſe; mais",
-            "aoſtre Gouenmeur a fait incominent refbnde",
-            "la pies, laquolle, fera bienatoſt eni eſtat de nbus",
-            "ſeruir.",
-            "Nouas auans icy toutes ehoſes en abonda."
+            "es 5 voyges ft ̀ Coogne pr pueuts perfonnes de toute orte decondton & nommement ur e derner de Moneur de Mercœur uec vn p ort meme des ennens ur es propo tons qu ont eté́ ftes pour on retours ee uge r fcement que commeytout ̀ eperet des proes Royes de eurs Mjetezy ̀ tout ̀ crndre des Prrs du CrdnM̂xrn que on çt truer pr toutes ortes de moyens pour es rendre vns & ns effect & pour ffermr pr on retour eur etement & eur grndeur à̀dmnu ton de uthoté de on Aree Roye u preudce des duntges que mon frere & moy deuons uor dns e Condu Roy & ux depens deforune pu que e veux en erore que e voyge de Mon eur de Mercœurnegotton de Sedn & f fhre de rc e font pez nsprtcpron deReyne ms nynt eteé ft ucunes pn tes u Prment deotte dvn Duc & Pr ors du Royume & e rete sett pé ns queCour en ye temognémondre émoton n ne peut mputer certe muue condute que r odres ecrets du Crdn Mzrn & ux cones de es cretures evous decre Meeurs que e ne pretends pont mpoer ucune nece té ̀Reyne pour e chox de es ometque ç̧y trop e repect que e dos à̀ eurs Mjetez &"
         ],
         [
-            "ces; le bled, le vin, l’huille & le poiſon y ſont à",
-            "grand marché, les herbages, le bevre & le laict",
-            "y ſont vn peu rares, parce que les Mazarins ont",
-            "ruineé tous les iardins, & tué toutes les vaches",
-            "d’icy au tour, qui eſt tout ce qui leur reſte pour la",
-            "ſubſiſtance de leurs troupes, ayant eſté ſix iours",
-            "ſans asoir de pain de munition.",
-            "Ils continuent à faire toutes ſortes de vio",
-            "lences & actes d’hoſtiliteé, ſans eſpargner les per",
-            "ſonnes & choſes ſacrées, ny faire diſtinction de",
-            "ceux de leur party, ayant pillé la maiſon de plai",
-            "ſance de noſtre Eueſque, appellée Enantard, &",
-            "l’Abbaye des Religieuſes du Perray.",
-            "FIN."
+            "6 e us trop ttché ux deuors de m nnce pour entreprendremondre choe ur eur u thorté ms outre quepromoton du eur e Teer ̀chrge de Sectetre dEtt fut pu tot vn effect defueur du Crdn Mzrn & des hrudes qu uot touours euës uec uy en Pedmont que de eecton du feu Roy qu etot de mde ̀ extremté & qu neut utre connonce deuffnce & de on merte que pr ce Mntre nrereé ̀ met tre vn homme àdeuoron dns vne pceconeere outre que e Seur de Lonne net pruenu ̀ honneur qudetre Secre tre des commndemens deReyne que pr ce qu uot exercé vne eme chrge ous e Crdn Mzrn & que e Seur Ser uent n ren djouté àcondurte qu e ft u ger pr e feu Roy ndgne depce dont uot honoré que ompechement quppor té́ à̀concuon dePs et vne protturon honrteue u meme Crdn qu uy uot procu ré ceé́t empoyet deurs certn quetnt tu pronnes deuoüéesce Mntre enne my decré de m mon e Prement uge re pus prendre ucune confnce rnds qu uront hõneur doceuperpce qus ont dns e Cone du Roy & uprés deReyne &on A R & moy nuons ps preépropoton"
+        ],
+        [
+            "2qu uot eté fteyqueque temps de es eogner yeu de fre per pour engge ment & pour neceté ce qu n eteé que pr re pect & dns epernce que S A R & moy uons quechpgent eur condutte s prefereroent e en du Royume & e repos du Peupe ux nterets de eur Mtre procrt deFrn ce pr es Arrets de tous es Premens uus des vœux de tout e monde Queces conde rrons ne ont ps ez fortes pour ogerReyneeogner deCour ces trojs per onnes & dper n es utes oupçons que e dos uor tnds que e pouuo er de poé dns des mns qu me ontupectes &oppoées à̀ nteret puc e me pro mets de d utce du Roy & deprotecton de votre Compgne dont y de receu des temogngesduntgeux quem ce de mes ennems ne pt euudr pont pour fe mpurer à deoeynce vne retrte à quee e ne me us reou que prpure ne ceté́ de me coneruer fn de pouuorren dre u Roy & àEtt e eruce que e uy dos A quoy e ndoutery ren nonpro tetton que e vous y de fte que e ny ucunes pretentons ny pour moy ny pour mes ms & que e repos puc et nt euré́ pr eognement de ces tros cre tu"
+        ],
+        [
+            "229res du Crdn Mzrn e ne mnquery ps de me rendre upres du Roy & de frs connotre pr mes depqrtemens que e ne dere ren tnt quereü̈non deMon Royenecere pour e en du Royu me & que e ouhtte etre utnt dns e cœur que dnsouche de ceux qu font emns de outenr Authorté́ Roye uec tnt de cheur t u téps à fre con notre cet nteret prteuer ou du pu c qu es nme dns cette condutte e us MESSEVRS Votre rume & ffectônne Se ruteur LOVSDE BOVRBONA Snct Mur e9 uee 65"
         ]
     ]
 }

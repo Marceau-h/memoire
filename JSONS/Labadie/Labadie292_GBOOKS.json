@@ -1,164 +1,67 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
         "genre": [
-            "placard",
-            "affiche",
-            "récit",
-            "chanson"
+            "périodique",
+            "nouvelles"
         ],
-        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
-        "illustration": "gravure sur\n            bois",
+        "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-04",
-            "@who": "KA"
+            "@when": "2022-10-25",
+            "@who": "AB"
         },
-        "titre": "RECIT Veritable du Duel arrivé entre deux soeurs, proche\n          de Bordeaux, l'une pour avoir pris le party & deffendu la Fronde & l'autre\n          l'Espée, dont l'avantage a esté emporté par la belle Frondeuse",
+        "titre": "La PRISE du Chasteau de Vayres sur le chemin du Roy vers\n          Bordeaux par le Mareschal de la Meilleraye, ensuite de laquelle prise le Gouverneur a esté\n          pendu pour avoir tenu contre l'armée Royale",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-09-14",
-            "#text": "14 septembre 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Labadie299_MAZ.xml",
+        "fichier": "Labadie292_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "RRI TE ene o",
-            "RECIT VERITABLE DV DVEL ARRIVE ENTRE DEVX SOEVRS PROCHE DE BORDEAUX",
-            "B E e JAY J Y7",
-            "TN T",
-            "l’vne pour auoir pris le party & deffendu la Fronde &",
-            "l’autre l’Eſpée, dont l’auantage a eſté remnorté par la belle Frondeuſe.",
-            "e Cnanou ſur la ictoire de la bele3 Iſerable condition des mortels, ſiecle vrayement de",
-            "fer & de brone, mœurs tout afait corrompuës & gaſtées, eſprits amboitieux par le d",
-            "t",
-            "rondeuſe, rcporée lur ia ſœur: lAreglemens de vos paſſions, mortels, ouurez les yeux",
-            "& les oreilles pour voir & conſiderer cette hiſtoire tragique; n’eſt-ce pas aſſez",
-            "queleS se",
-            "Sur le chant, de i’mour coquet.5 hommes ſe coupes la gorge pour cét honneur, qui",
-            "n’eſt qu’vne chimere & qui ne conſiſte que dans l’imagination, ſans que les femmes en",
-            "vien",
-            "AErnde de ne eun la toire nent aux m uins, ch oſe innouye tant aux",
-            "ſiecles paſé qu’a celuy où nous ſommes que des ſemmes, e des parentes, que dis -je, des",
-            "patentes, que",
-            "Ele a remtort le deſſus, des ſœurs, ſe tuent pour vn honneur imaginaire: Ie tremble",
-            "lors que ie veux raconter vne ſi funeſte hiſtoire.",
-            "S",
-            "rre Dane r l gloire, & Cele mon eſtonnement, reprend ta",
-            "parolle ma bouche, delie toy ma langue, quitte ta timidité mon eſprirt, afin que ie puiſſe",
-            "eſcrire en peu de mos",
-            "Qe tout ſon coleer ſce le ſujet de cette Hiſteire. Ie diray donc",
-            "qu’en vne des plus illuſtre famille de Gaſcogne, le nom de laquelle ie paſetay ſou- ſilence",
-            "pou nel o nt",
-            "Er qu’ee a ti nec t Fonle renouueller vne douleur qui n’eſt preſoque pas encor",
-            "eſteinte, ie me contenteray ſeulement de dire qu’elle a produit des perlonnes qui ont pl’ e",
-            "& e e e e ee eie i ene en nre euni n e leireie pe rene lenenene e ee oele e nene",
-            "ene e e i e e e ine e eoei e eoene t ineee",
-            "Qe.",
-            "e o nre l’a ſceu ilrlſer e au le",
-            "3 que nous nomme rons Fortuna: Il eſt a remarquer qu’il auoit aunefois porte les armes,",
-            "& auoit eſté eſtimé la meilleure eſpée de ſon temps, maS",
-            "eS",
-            "4",
-            "il fut contraint de ſes parens, à la fleur de ſon àge, de quitter l’eſpée pour",
-            "prendre la rbe, d’autant qu’il eſtoit l’aiſne de la mailen, & que les pa",
-            "elle & genereuſe Frondeue",
-            "s",
-            "e aenmrons ce grnnd econilat, rens auoiene touſi outs eſte de plune; Vous conſidererez",
-            "de plus quo ſa femme s’eſtit exet ée dur ant ſes eunes ans, à ruet d’vne ftonde, lors",
-            "Q.",
-            "ous ne fuſte jams peureu ſe, qu’elle eſtoit aux champs, aà̀ ’imitation de ſon ieune",
-            "frere qui eſtoit preque de ſon age, qui fut en luite Capucin, nommé le Pere Clement clle",
-            "Ra",
-            "ee Lors que ous priſtn tel oar, ſi eſtoit rendae ſi à droite qu’elle frappoit vn",
-            "oizeau pour petit qu’l fut. Sans nous amur a particularſer, voyons comme la querelle art iua",
-            "I’entend qu’eercanr oſire Fronde, & entre cs deux l o rs, la cadete eſtant mariée",
-            "depuis pen d’annees auoit deſin receu pluſieus viſites de ſon ainée, la cadete ne voulant",
-            "pas paroi ?e",
-            "ous apprenez à tout le monde, 8 ſtre inſiuile, fut auſſi à ſon tour viſiter ſon",
-            "aiſnée en vn Chaſteau proche de Bourdeaux, apres y auoir paſſe quelques iours a pluſieurs",
-            "honneſt es e",
-            "diuertiſſemens, elles s’entrerintent ſur les affaires du temps;",
-            "par vne tele occaion, la cadete ayant monſlré à ſon aiſnee vne fronde de ſoye fort",
-            "Que qui la Fronde cherira",
-            "mgnonnement fite, laiſnée prit de li oeeaſion de raile la robbe & la plume &",
-            "lue l’e ſpée ce qu e le faiſoit auee plus de chaleus que de aiſo, e",
-            "Sur tour la ifoie il aura.",
-            "a C’eſt pourquoy la Frode eſt en regne la cadere qui eſtoit d’vn elprit vif, pour",
-            "maintenit ſon party, donnoit de bonnes raiſons, dians ent’autres choſes, que lers qu’on",
-            "deſpeignois la ga",
-            "7",
-            "S Et qu’on là porte à jon chapeau,, Iuſuice, on ly donnoit vne balance en la main",
-            "droite, & vne eſpée a la gauche, pour nous donner à connoiſtre que l’eſ pée eſt",
-            "inferieure à la robbe e",
-            "dautant qu’elle n’eſt que le ſecond inſtrument dans vn Eſtat, que Ciceron le plus",
-            "grand de ous les Orateurs auot bien connu cette verité, lors qu’il",
-            "a4 Le Conſeiller ne la deſdeigne,",
-            "Z6",
-            "e Aux autres le trouuant fore beau auoit dt que l’eſpée deuot ceder à la robbe:",
-            "L’aiſnée ſe voyant vaincué par le aſonnement de ſa cadete, qu’elle ut tellemen ſurpriſe",
-            "& tranſ 3",
-            "u tlaeun ſeane ne i reuale s poe de oile e qu ele le erei lu ne ſloe qu ſe reneonlu i",
-            "de lu aurl ont en ſeee ls dit, nou e ons ſ en eereus reſdrmſdennsurpu a",
-            "Dſius la rere d d ſu eaul, i oiles &e ayan i e ſa eadee hoes du lopis dans ne",
-            "eamrugne ſort proe he du eſdeau m leſpe i la ain e la ra for ul, de aonuelie?.",
-            "oir eſ le pl l e anenent e ret ne b re u pns nie ele ne le poua pas lons , ’at l",
-            "cadeue av nt apoe en edant ou tois es flles u enoien nſni deuit a ele",
-            "e qe piſe peoer s euadl ei & inas nan que s eetir les Damoilelie de ſa loeours",
-            "connme il y auo qielque pourene ſe vopat desableſe de an anens ſit eonneloe?",
-            "-b,anroas l’honneur de ceite femne dit communement de neceſſité vertu, tirant donc la",
-            "fronde deſa poche y mettant vn caillou en dôna à la teſte de ſa ſœur: les damoiſelles qui",
-            "eſtoient e",
-            "eS.",
-            "’ Iuſques au deux bouts de l’niuers, venues pour les ſeparer, farent bien eſtonnées de",
-            "voir la Comteſſe en vn ſi mauuais eſtat: Mais ſi cela leur donna de l’eſtonnement, il ne",
-            "faut pas ae",
-            "Montront qu’elle fuſt cet Dame douter ſi le Comte en fut faſché lors qu’il apprit la",
-            "bleſſeure de ſa femme, & s’e ſtant bien enquis du ſujet de leur dfferend il ne mã qua",
-            "pas peu apres Ze",
-            "& Renuerſant ſ ſœur à l’enucrs, d’enuoyer vn homme e xpres au Conſeiller auec vn",
-            "mot de lettre, dont voicy la teneure. Puis que voſtre femme a bien eu l’effronterie & la",
-            "temerie e",
-            "té de s’attaquer ̀ moy en tuant ma femme, car nous la tenons pour morte, l’ayant",
-            "des-ja fait treſpaner, ie romps auec vous,ne vous tenans plus pour paren",
-            "a Faiſons proiſtre ſon courage",
-            "S Diſant qu’ele à eſle bien lase,3 mair bien pour ennen & ax blen que vous ſrachie",
-            "gque ſi le vous cuſſe ten vous &o oſtre femme, le vous aurois ſacrifés i ma colere, ce",
-            "que ie onus d 3",
-            "E e’ue le ſei e prn dennes l ſ one oſs ſreuret ue en e pounr l pſu peun de uſlue pu",
-            "dleus oni s ſile il unuie ean eonue ai ou ne lueunrtlnalee nou prlrequ",
-            "o",
-            "De ſe deſfendre aillament.",
-            "e vous rendrez ̀ ce porteur, c’eſt ce que jattend auec impatience, de mon chaſteau le",
-            "3jo Iuin I650. le Comte Polidor. Reſponce. C’eſt eſtre mal informé de",
-            "n ſa qun eſlime la Eronde & l’afaire que ’arrbuer le conmneneenment de cere",
-            "querele à ma fenme, elle n’ a fair’ en cela que e que les per ſonnes le plus ſen ſees",
-            "ſeroient en ne relle occa",
-            "2",
-            "é oqu claenn l’ ait en gr and lonnenr, & ſon e eſ adire e de fendre quand on ſt",
-            "arraqui, e que ie ou en dis eſi pour ous faire olr o ſe im,ſure, de laque le ’eſfpere ous",
-            "panir & d’auoir ſr",
-            "us qu n mal eailait en grde ’uur ſe mt ſne adunanrare que ma ſenmme a en ſar la oſlte,",
-            "faire dane des à ce ſoair lae moiie du clernin dur ſhee ſeon d, on coueher i de ulge poelh",
-            "E Enrarednt de nſtre bon leur, & de oſtre elhaſean g ie m , reneontreray auee le",
-            "nmien, le Con ſeailer rorunat, Le deſire de ſe voit l’eſpoee a la main les nit reneontrer",
-            "des le ſoir meſme, e",
-            "E Ne laijons paus malgre l’enuie & ſe furent bttre dans vne pleine derriere les",
-            "Capucins: ils furent long-temps à ſe battre ſans auantage de coſté ny d’autre, enfin le",
-            "Conſeillet eut",
-            "vn peit coup à la teſte, le Comte fut bleſſé à la cuiſſe qui reſpond à la veine",
-            "caue, il fut porté aux CApucins, ou il mourut de ſa bleſſure entre les e",
-            "’é En joac de paſſer noſtre ie,",
-            "Qu’ard à nmoy ie ſuu ſeruireur mains de ſon beau-frere le PereGlement. Sa femme d’ar;",
-            "cpſté ne lafit pas lpue apres. Conſiderez cette hiſtoire & reglez vos paſſions."
+            "L PRSE du Chsteu de Vyres sur e chemn du Roy vers Bordeux pr e Mresch deMeerye ensute de quee prse e Gouverneuresté pendu pour vor tenu contre rmée Roye Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 PRSE () du Chsteu de Vyres sur e chemn du Roy vers Bordeux pr e Mresch deMeerye ensute de quee prse e Gouverneuresté pendu pour vor tenu contre rmée Roye Sns LeuBureu ddresse650 2 oût 650 Lyon Bothèque muncpe de LyonRés 3243TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs292 PRSE () du Chsteu de Vyres sur e chemn du Roy vers Bordeux pr e Mresch deMeerye ensute de quee prse e Gouverneuresté pendu pour vor tenu contre rmée Roye S f de ttre (àfn ) A Prs du Bureu dAdresse e 2 Aoust 650 6 pges chf de 07 à 028 Extrt deGzette n» 5prose pérodque nouvees"
+        ],
+        [
+            "N 5 L DV CHASTEAV DE VARES4 ur e chemn du Roy vers Pordeux pr e Mrech deMeerye enute dequee pre e Gouverneureté pendu pour vor tenu contre rmée RoyeLrrvee ̀ Lourne en Guyene des Déptez de Bordeux eur compent u oy (re poe qu eurete fte Avec es utres coes pus mo es qu e one pßces enmrche de Leurs tjcez de pus Coutrs juques en de e de Ltournepne du Che de re rcenn d R vers Borue pr e Mreche Mrr ye ce de quee pre e Gouverner efe penn por vorte conere rmce o ecAmsne fut pus nécere ep e e de rectfer es ruts ncer S fet nue unre enere e un Ve8 potures queerté decrre 8 5ft depus peu dnnées mon ter juques u pont où ees e voyent vec ndgnnon de tout e monde AnB 2 8"
+        ],
+        [
+            "or? ns en ex cepter es pus ponnez qu nous ferot ugurermeme décdence de cet E tt quutresfos e vndeGréce prognotquruneOrent de notre jeune Monrque econdé́ pr es onnes n tentons de on Prement not mettre des ornes à cette témé́rté́ ntoere comme à routes es utres entrepres contre on utho rteé́ Vocy donc ( ns vous muer à tnt de ruts dont ncontncecontrdcton & e peu de dureé́e nous mrquent ezvnté & e menonge) ̀ quoyvous fut rreter pour etre nformez u vry de ce qu set p eé́ en ce voyge Leurs Mjetez etns prtes de Coutrs e trenteéme du peé pour Lourne ees y rr vérent e premer de ce mos vec degrnds ppudemens & crs de joyede tous es peu pes que nonotnt mour que tous ces f dees ujets portent à ce jeune Monrque vous erez putot s den oü̈rrépeé́ttonfréquente que ces puvres peupes ne eoyent de es contnü̈er Les urts & Corps de cetre ve de Lour ne comme tous es utres htns des ves pr ouù̀ e Roypé fns voence à r dent dér qus voyent der en on u devnt de S Mjetéüé́rent ̀porte de"
+        ],
+        [
+            "or eur ve oéns à es ordres ̀ quee es condut e Mtre des cérémonesproe ynt eteé́ portée pr e eur de Cgne pre mer urt qu eur préent es cefs deve ms Leurs Mjetez es refuérent pour mr que deconfnce quEes voyent en eux & en tous es htns du eu pres tnt de contnce qus voyent montré́e u ervce du Roy durnt es mouvemens de Bordeux Ees donnérent u udnce u Préd dememe ve qu eur fut préenté pr e eur deVrére Secretre dEtt & e Mrqus de S Luc Leutennt génér pour e Ry dnsProvnce de Guyenne & y vot eté condut pr es eurs de Sntot M re & Ayde des cérémones Le Préd es urts & Conus de Bzs ceux de Snte Foy deBergert Ctouron Bourg Bye S Emen & utres ves vones eurent p reement udnce de Leurs Mjetez & en ute de Moneur Freére vnque du Roy M demoee & Son Emnenceà quee s fu rent préentez pr Aé de Püu on M tre de Chmre & edt eur de Sntot com me u es Députez deCour des Ay des de cette Provnc pres vos compmenté Leurs Mjetez prouche du eur de Pon tc premer Preédent de cette Cour eque pr"
+        ],
+        [
+            "o0 éoquence de on judceux dcours ft ez connotre qu etot dgne du chox que S Mjeté vot ft deperonne pour rempr cette chrgeCependnt Leurs Mjetez dontonté & cémence setendent ur tous eurs ujets qu veuent rentrer en eur devor ̀ exempe dvn on pére de fme envers es enfns yns c cordé peport à ceux du Prement de Bor deux qu voyent deré pour e eur Pchon Predent u morter es eurs Soudrut Ge nete de Pomers & Grmr Prédens ux Enquetes & pour e eur de Pontc Procu reur génér qus députoyent vers Leurs Mjetez s furent rencontrez àdecente de eur teu pr edts eurs de Sntot qu es yns menez chez e eur deVrére ecre re dEtt on eur donn jour pour e préen ter devnt Leurs Mjetez qu fut e ende mn Auque jour edts eur deVré́re & Mrqus de Snt Luc es préentérent à̀ cer te udnce de Leurs Mjetez qu e trouv r pene de Segneurs & utres peronnes de condton quvne des poutres du pncher ou e p cettce cton en rompot & eut vry emement cué vne pree ou pus grnde"
+        ],
+        [
+            "grnde rüne & preécpce ̀ nos Courtns ns e prompt ecours que es Archtectes y pportérent que cee de Tours en nos pre mers mouvemens ousRégence dedé́ functe Reyne Meére en quee pueurs fu rent eezTout setnt reuré e Prédent Pchon ft vne tres derte Hrnguefn de que e ne tendot qù temognerjoye que rece voyent e Prement &ve de Bordeux devenuë de Leurs Mjetez enseefdété qus voyent & conervoyent nvoe pour Ees & ̀ excter eur cémence pour fre entr àGuyenne prtcuérement ̀ve de Bordeux es memes grces que es Provn ces de Normnde & de Bourgogne venoyentdexpé́rmenter hcun remrqunt ̀ pproche des Roys e contrre de ce que dent ceux qu croyent dffeement ux mrces ̀ ç̧vor qus fuyent ceux qu es cherchent & séognent de ceu qu sen pprochent Deu es réfunt à ceux qu e es demndent que pour conten ter eur vne curotéen et c tout u eon trre es eux uques éognement de eur Souvern door pus de erté de prer de crre ou meme dexécuter eucoup de choes mons repectüeues ne entent ps putotC 2"
+        ],
+        [
+            "022 venuë des ryons de ce Soe que es gues es pumes & es ctons e tournent toutes du coté de eur devor & sy rngent voontre ment ns ttendreforce des rmes ms portées preue réveé́rence que cet ugute & mjetü̈eux crcteére deRoyuté mpr me dns nos cœurs & es ft recourr àme me excue quegu ce préomptü̈eux M themtcen qu vot proms de rünerm chne de Demeétrus Poorcétes nommée Eepos e ne penos ps d quee fut grnde Toute tnce ynt ppudy ̀ cette h rngue & vn grnd ence ynt uccédé à cette pproton vnvereeReyne re pondt deouche à ces Députez quEe vot joye de es vor vec ces entmés &quE e eur ferot çvorvoonteé Pus es ynt ft entrer u eu où Ee fot tenr on Cone eur dt vor ft mettre pr ecrt pour on mportnce & fn quscondé́ rent pus ttentvementrepone quEe eur vouot fre que e eur deVreé́re vot chrge de eur dévrer pres eur e vor ft ecture Cette Lettre contenot deux chefs prnc ux que vous entendrez meux prec ture"
+        ],
+        [
+            "o2 ReponedeReyne Regente ux DéputeZ du Pr ement de Bordeux T E Roy pr vs deReyne RégenteMeére m commndeé de vous fre c vor que S Mjeteéeté tre dentendre es prorettons de fdété & doénce que u vez ftes deprt de votre Compgne & que nynt eu utre deen dns vnong & pene voyge que detr odement e cme dns cette Provnce & prtcuére ment dnsve de Bordeux ount & prdonnnt tout ce qu peut vor eteé ft ou entreprs juques à préent contre on ervce pr es htns de dte ve de queque con dtron & quté qus oyent S Mjeté er en e dvor ujet de e confrmer en cette réouton pr es eurnces que vous venez de u donner pourveu quees oyent des à préent uves des effets Ms pour vor eu de vous fre reentr ceux deonteé S M jeteé nformée de ett uque et préente ment dte ve & de ce qu sy pe memes depus on pproche qu et en contrre u repect & à oé̂nce qu u ont deus ne voynt ps comment e peut ccorder ce que vous dtes & ce qu e ft à Bordeux dére den etre écrce pr vous & pour cet effet demde premé́rementvous entendez de"
+        ],
+        [
+            "4 contnü̈er à ter & protéger Monfeur de Boon pour e fre demeurer dnsve vec es troupes qu ypréentement u queteé́ décré crmne de éze Mjeteé́ en tous es Premens de Frnce qu depusgné vn trté́ vec es Epgnos & quencor u jourdhu deprt es Mrqus de Sery & de Suveeufà Mdrd octnt en exécuton dudt trté́ des tnces dhommes de v eux & drgent pour e rendre mtre ou deBordeux ou en rédre mtres es Epgnos Dequoy S M eu mons de preuves coneü̈n tes qu éve ncemment des gens de guerre qu prend des chteux & des potes ux en vrons dudt Bordeux qu es fortfe & es grde qu ft gr on frére & e pree pour entrer en Frnce vec es troupes ennemes & mettre tout ̀ feu & à ng dontnet empe ché que prfoee de ceux qu tent & pr oppotõ des rmes du Roy Qu set desj vnté prm es confdens que Bordeux u rendr en Sedn qu excte puque ment e peupe de dte ve àrévote & àdeoénce & qu empoye toute orte de dgence & drtfce pour corromprefdé té des ons ujets du Roy en dvers endrots du Royume E econd eu S Mjeteé dére çvorvous nentendez ps quee entre dnsve de Bor"
+        ],
+        [
+            "o25 de Bordeux enmeme forme quEec coutumé dentrer dns toutes es utres ves de on Royume cet ̀ dre ccompgnée des troupes néceres poureurté deperonne & pour e outen dedgnté Roye A quo ces Deéputez repondrent qus voyent ordre de eur Compgne de temo gner u Roy vne oénce & fdété prf te à̀ on ervce qus ne prétendoyent nu ement ouffrr e Duc de Boüon n dhérer à on prt & quu cs qus fent utrement s peroyent pour crmnes de ézjeteé nyns dutre dér que de vvre & mourr pour e ervce de Sdte Mjeté́ & e mnten de on uthorté du repect de quee s ne e deprtroyent jmss décré́rent u urdemnde quo eur vot fte ss recevroyent e Roy dns Bordeux vec touteute & grdes né́ce res qus e feroyent vec vne joye extréme & queucun deux e trouvot vor queque utre peneéeerot e pus coupe des hom mes & en horreur prm eux & qus feroyent putot tre eurs murses portes ne toyent ps ez grndes pour cette récepton ms qus rpporteroyent e tout à eur Com pgne ns quee s ne pouvoyent o ument gr nyns ce dren utre com D 2"
+        ],
+        [
+            "0eé6 mohn que de venr préenter eursce unt es repects & oumons à Leurs Mje tezEnute dequoyReyne eur dt que vou nt envoyer es Mrechux des ogs à Bor deux pour y mrquer es ogemens s euent à y retournet & revenr pporter repone dns deux jours e eurPontc urt & e Bnc Pro ureur yndc yns ut rendu ̀ Leurs M jetez des preuves de eurs repects & oum ons e eur deVré́re eur ftmeme ecture quux Députez dudt Prement ur quoy s frent u des prorettons de fdé́ té & doénce Le meme jour e eur deVrére & e Mtre des cé́rémones érent trouver ces Députez pour eur fre entendre vnt eur deprt queques utres ntentons du Roy pus s prtrent e endemn troeme Aout vec utnt de tsfcton deCour qus en voyent donnée & qus etoyent rvs des ontez de Leurs Mjetez pour euxLtque & pre d chtes de Vres en Gyenepr rmse Roye ous s conndenmeut de MrechdeMeerye E Mrech qu n pus es goutes Aqundfut prendre des pces ur vs"
+        ],
+        [
+            "o7 qu vot receu que tros cent hom mes ous e commndement du eur Rchon grdoy ent ce chteu pour e Duc de Boüon fn de rendre e chemn de Bordeux re réo ut denever cette pce en quee fut pourveuë de onnes fortfctonsA cettn ynt nvete e premer du cournt veec rmée du Roygrnon emeuë pr e puntrepect deRoyuté u eu deforte reétnce quee eut fte en vne utre occon fnt des crs contnües de Vve e Roy e jett e endemn Mercredy ux peds de ce Mrech u demndntve uve à quoconenct ms à condton qus u devrent eur Gouverneur contre vs duque s setoyent rendus ce quee f ns ucun deye qutréme du meme mos dx gotes de Bordeux prurent ux envrons depce à deen deecourr ms yns veué entre es mns dudt Mrech s sen retourné rent ureurs psCe jour ̀ Leurs Mjetez commndeérent u Mtre des cérémones der tronver ce Mrech pour prendre es ordres pour e r ement depce rnds qu pouruvrot e rete des ntentons de S Mjeté On empoy out uf tot à ce rzement cent mouque res ve queques htns & oureurs"
+        ],
+        [
+            "o8 uques es urts de Lourne & de S Em en joutérent cnqà̀ x cens ouvrers Cependntonté de S Mjeteé ne vou nt ps permettre quon toucht u chteu pprtennt u Prédent de Gourgues en voy ordre expres udr Mtre des cérémo nes de ne fre dé́mor que es fortfctons commeft des ce joù uque fut uf pendu & etrnge e Gouverneur de ce ch reu prncpement pour vor ttendu e cnon dvne rmeée Roye L rvere de Gronne et ouchée du coté́ de Bye pr es veux du Roy & quntté de pnes & ptches y ont rrvées depus es qutre & cnquéme du cournteurs Mjetez font ett de prtr de L ourne e xéme du meme mos vec r mée en te pour Lermont sü̈é́ urG ronne à vne eü̈e de Bordeux doù on t tendot e jour précédent e retour des Dépu tez du Prement vecrepone ux demn des de Leurs Mjetez ms onceu de pus que netns rrvez dns Bordeux que e cnqueme de ce mos s ne pourront revenr que e xéme vnt eque jour et prt e Courer quporté ces nouvees A Prs d Bre dAdreeGeres dLorvre devsrë S TThons e r2 Aot rj Avec Pr"
         ]
     ]
 }

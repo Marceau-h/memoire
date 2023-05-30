@@ -1,108 +1,51 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "affiche",
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-07-06",
+        "creation": "1651-02-28",
         "change": {
             "@status": "corrected",
             "@when": "2022-05-16",
             "@who": "ZC"
         },
-        "titre": "Troisième affiche apposée à Paris, le 19 juillet\n          1651.",
+        "titre": "Les trois masques de boue, ou la Savonnette.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3889_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau3887_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "TROISIEME",
-            "AFFICHE",
-            "POSEE A PARIS",
-            "le 19. Iuillet 1651."
+            "Les tros msques de oue ouSvonnette Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Tros (es) msques de oue ouSvonnette Sns LeuSns Nom65 Lyon Bothèque muncpe3067TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3887 Tros (es) msques de oue ouSvonnette (S ) 658 pges L popuce vt rsé es crrosses du duc dÉpernon et du comte dHrcourt dns es premers jours de mrs e duc dOr éns vt mtrté e duc dEeufprose non rensegné Serment dunon de ssemée denoesse 68"
         ],
         [
-            "Troiſieſmé Affiche,",
-            "Poſée à Paris, le 19. Iuillet",
-            "1 651.",
-            "TE par les vrais & bons",
-            "lLV François, Fdeles &",
-            "obeiſſans ſeruiteurs & ſubjets de",
-            "la ſacrée Perſonne duROY, Pere",
-            "des Peuples, ſidelles ſeruiteurs auf",
-            "ſi des Princes du ſang ſes Enfans,",
-            "& conſeruateurs de ſa Couronne,",
-            "& autres bons & fidelles ffî",
-            "ciers & Iuſticiers, Aydes & con",
-            "fort’icelle, Rnnemis mortels de",
-            "Ifpie, Celerat, Traitre, Voleur,"
+            "LES TROS MASQVES DE BOVË OV LA SAVONETTFE M DC L"
         ],
         [
-            "Tyran, Sacrilege, Perturbateur,",
-            "du Publie, Sorcier, Magleien, Pi",
-            "peur, Monopoleur, Bardache, &",
-            "Monſtre eſpouuantable & abo;",
-            "minablelde Iullio Mazarini, Ita",
-            "lien, Renegat, Porte-enſeigne de",
-            "l’Anti- Chriſt, & des y-apres nom",
-            "mez, Complices, Adherans & Fau",
-            "teurs d’iceluy.",
-            "JL eſt enjoint à Servient, Lyoh",
-            "r",
-            "leene e lnie euonene",
-            "vuider la ville de Paris dans vingt",
-            "quatre hieurs e ia- ioaira n",
-            "pres du Royaume; Afin que do",
-            "eſoauants ieu ſoit ſeruy, adore",
-            "& honoré, en y reſtabliſſant par",
-            "tout la Religion Chreſtienne: L’v",
-            "nion eternelle de leurs Maieſtez",
-            "auee leſdits Princes du ſafſ,",
-            "Paix"
+            "Les tros Mques dereoc c d2oue OuSuonettefte2 Ncore que peronne ne doute du cprce deF fortune & que de remps en temps ee fce vor on ueugement dnsdpenton de es f ueurs ou dus es dgrces nentmons y vouu pour contenter queques cureux fre vorgerere ur es pus utres Mzrns du Royume equos com me netnt pont Phoophes ont temogné tnt de reentment dns eur mheur qus en ont pené mourr dpprehenon ou de depret en vry que ceux qu es ouyrentrctez r pporterent quecrnte erut eucoup à ces grnds courges Et que eur prudence prut dns eur condute ynt echppé vngrnd dnger endurnt ns dre mot desouges qus neuent ucunement ouffert ss e fuent trouué́ es pus forts On ne dot pont trouuer etrnge que es Atees oent oumes que es grnds courges oent tus & que ceux qu men cent vent pres de preres enuers es mencés quvdet queton de e uuer Ce quet de pus etonnnt et que ns hyperoe on t veu dnsouë ceux qu etoent ous e ds & fort pres du trone Et qu prvn demy tour de rouë es pus hnt huppez oent precptez dnsfnge demeurnt expoez à"
         ],
         [
-            "Paix generale, tant deſirée des Prin",
-            "ces &du povre Peuple, (empeſchée",
-            "par leſdits Servient, le Tellier &",
-            "de Lyonne) leut ſoulagement &",
-            "Fé̂pose & finalemeat que leſo",
-            "leil de la Iuſtice puiſſe reluire, que",
-            "depuis ſi long-temps a efté preſs",
-            "que tout. à̀ fait. éclypſe; Le tonut",
-            "par la-tyrannie & vollerie deſdirts",
-            "Mazarin, Servient, de Lyome",
-            "e elier, qui ae deſiréne qe",
-            "le Trouble, la perte des Princes,",
-            "& du Royaume; Et à faute de ce",
-            "faire, Leur eſt declaré par leſdits",
-            "bons & fidelles François, qu’ils y",
-            "employeront le peu de bien qu’il",
-            "Ieur reſte, joinct à leurs forces",
-            "naturelles, eſperant & s’aſſeurant",
-            "de la Bonté Diuine, des forces",
-            "ſurnaturelles pour vanger ſa que",
-            "relle; auec l’ayde, confort & bon"
+            "rce d menu peupe Ce net pont ve fxon de Poëte ou queque mphfcton dOrreur ms vne verté dhtore ̀euor que dnspus ee Vedu monde proche du Ps ou e trouue mntennt e pus grnd de tous es Roys grdeé pr pus de troscens me hommes Vn grnd Duc Cpr Segneur &c e trouum trtte pr queques Bourgeos qu eut depene à sechpper Et fut reement etonne de trouuer es Prens pus prompts & pus huts àmn que es Gcons qu en perdt e ugement fnon qu en eut ez pour e condure douce ment e meux qu peut dns e Ps Roy où u ques ̀ preentet grdé ne e trouunt ps encore routft deuré depeur Ce nom de Mzrr etfunete qu porte eur à ceuxmeme qu uy ont es pus deuots Aumotr Duc Mzrn entndnt crer u Mzrn deunt u pe quvn trepé & croynt detreon heure dernere voynt deunt es yeux e des de on Crroe & eneuement de rout on ttr ne doutot pus qu ne fut ou ou er e Mrtyre ou fre vne negton otemne e de toutes es proretrons qu uot de vure & de mourr Mzrnuot eu proteter qu uot prs pr es Bor deos qu ne ft ps on e ouer à des peupes rrtez de ongue mn contre es deportemens dvn Gou rerneur rogue & qu procure eur rune que depus quon uot excus de fon gouuernementnuot pus ongé́ de e venger que pr des veetez & qu ynt trouuéderoute dnsGuyenneneut eu grde de vouor e decrer contre es Prens on uy ccordot toutes ces vertez ms commede meurot ns repque ors quon ppeot Mzrn on prt on ence pour vn dueu & deors on sot etter urfrppere s neut enfévonee Apres qu fut reuenuuy e voynt entre es grdes du Ps"
         ],
         [
-            "conſeil deſdits Princes du ſang.",
-            "pour purger l’Eſtat, & couper la",
-            "racine à tous ces Monſtres infer",
-            "naux ey-deſſus, & autres Faction",
-            "naires dudit impie, celerat, traî̂",
-            "tre, voleur, tyran, ſacrilege, per",
-            "turbateur, ennemy du Roy & de",
-            "’Eſtat, Magicien, ſorcier, pipeur,",
-            "monopoleur, ſeducteur, barda",
-            "che, bougeron, renegat & men",
-            "ſtre inferhal Mazarin."
+            "Ps & q e fut reeonnudt en uy me me qu deuot vre ee ehndoe à Deu ms poue temo gner quécoere ottrnporter es premeres p roes qu profer furent de dre où ont ces ooqus? quequvn uy vount reprtr qu deuor etre con rent duor euteé eur fureurrepondt qu ferot en e quon ne ptpus outre & cõmhd quon ft venr promptement vn Chrurgen & quon e ché ge dhts & de nge croynt pr vne upertton Geonne qu eut e m heur ur es hrdesne tot qu trop vryetous es vetemens furent gtez & pree queoê de Prs sche nonm euement e n ge & etoffe rs encore tent uquu cur non ep emést e nge de ceDe fut y on cordon e on S Ep t & tout on ttr ms eemcete fut eement couuerte de ouë quee ft pté à̀ pueurs qu creurent quon uy eut rrché́ es cheue Vousme drez qu yde forr onnesSuoees dns Prsquoutre cees de Ge e Ns de Brgntn de Ro che de du Ps deFeur & pueurs usres en Em nence zrne enonne proutõ de muqueées mstout ce net ponr cpe doter nfme qu de meurer ererneement urpeu uys qu çt que honneut ne e ue quednse ng enrgeé de ne e pouuor nger Ms quoy qundercrt u dre qu et veroe & qu e promr un n ngnt oeãtmons m quà fre vne ort onne exue& e erur desruoettes àmode pour nchr fes hrdes msqu ne preteodeps doter ms es tches que e 2 Mzrn ft à on honneurn quà̀ e tenr enur es gdes commeft en ttendnechne efournr de Suonettes dé toure orte & s fut freGe ne demeurer des derners de peur quonnue enuoye des pcenees enScéou es Poëtes nt fen t eftte entree des Enferset vry u qu demeurer ncooe ufquà ce qu eut pprs quvn utreMzurn pus utre ns cõpron que uy qunet B"
+        ],
+        [
+            "que e reerrton dvn rspe Notre u eu que eett cy et detge de Chremgne fut encore pus m trrté que S AteeGconne Crçeut de on eu & de onne prt comme ce Comte Lorrn vount er de mences enuers queques ourgeos & setns u ceé de dre qu eneuerot e Roy mgré eurs den s à̀re des Prens ceuy pour remogner ffecton qus ont à̀ coneruerMeté dns eur onne Ve ou de crnre que cet eneucment ne ett on pus grnd troue dns eur Cteé ns dre pre n gre commencerentchrge& e trouume ors ns rmes vouurent prendre des gres du pué pour uy etter àrtete s u eu detre perré comme vn prrcde ou cme v durerefut teenét rou ée e vge de ouë quon eut prs por vn oüeur ou gdoürt Ce preux deune me fos pus nc que on rt g ermons on ne pouuot onne ment rec nnotse efhes decrnte ett oéé prmeme cue qu uot prout à̀ çuorouë qu ft vn mfque ur on vge & e rendt me connoe àd ueme Tout genereux qu ete truu dns cetre occon de fryeur que ns donner ueu gne de retncequo po te & sen cmper deunt queques Pges & de unt queques Dmrs de Cour qu ne peurenr e renr de rre e voynt protreen coffé &mone que que mrmton ecr u Rend chét en Cepend qde esvnsroet ome eee fr ce es utres treoet de peur ppreûemdnt que e jeu nouet à̀ queque ngnte Trgeds rme e m ps tour e qurter & connne on ut pprse defen de cez utre rmheureux & rn qu Voue e euer feoy on vouot fer dme uruy msfe retrs & dés ors e Ps Rog fu gr dé pr es odts ordnres S pr es Bourgeos qu fonr vne grde trexcte à toutes es portes deV enon poc qus cgnent d dehorsms du dedãés"
+        ],
+        [
+            "7 Tooresfos depus que es Prnees detennus depus vn n onc eté receus on ne e ouce pus tnt dempecher que es rns nent & vennent & certes on pent dre que tout et foutu pour eux puque dns e fetn des Prces e erteur & es deurez ont eu d nt ànté du Roy & foutre du Mzrn uquefs nous nurons tous es ons Frnços de fre ron Cet vn grnd erme dot v ncen duorfortn ne pour enneme grnde mortm ces rs ce Les Mzrns ont ouy ongues nnées des fueurs de eerte chere ueugee & mntennt quee set ée de eur en fre ee prot utnt ngeneueà̀ eur fre du n quee set montrée ns uge menr à eur fre du en outre exempe de ees deux dgrcezfutque en doute vn utre eque pr vn trrtement contrrereenty e meme reuers Les deux pre mers ont eté rttez pr des Bourgeos & cetey cy peut conter pour untge ce qu uy cuot pus de honte dns mpunce de temogner on re enrment Cr etnt é porter queque mndement deprt de Regente à ceuy qu egmement peutprendre es enes de Emprefut trtté quoy queDue comme n fqunecout es ore es é́e5 des reproches & pus des mencesuy fut dt qu etot vn Coqun ynt redu u Mzrn vn gouuerne ment qu uy uot eté doné́ pour yder dnsne ceteé & que s ne e retrote verrot chrgé dp ponctement & qupres toutuy ferot perdree pr vn Ofcer dehure utce e vous fe à pen r etonnemenr de ce Mzrn pres ce eoup de ton nerrefut r grnd qu en perdt tout à coupproe& e retr pus vte que e ps e detre qutte pour dehonte Vo mes tros utres Mzrns tres mn meuez e vns ont eteé couuerts de ouë es utres ont eté trez & tous tros en dnger de er que ques gges de eur fdeté́ pour e Mzrn Ms quoyfortune set decrée u en queutce con"
+        ],
+        [
+            "tre e zrn pourquoy voudrez ousque ceux qu or des Mzrns ou de ng ou pr mté ou pr n teret ou vrs ou fux oent eprgnez? e vous dry que ceu qu e ont ou qu ont eté uques cy peu uentuor eu ron puquefertune otoe doncotéMs mntennt quee uytouné e cu rous ceux de on prty e douent necerement qurter pouruure Au ns srmer àmoutrde puprt de ceux qu uoent ccompgné non pstnt pouruy fre ecorte que pour uor on rete e e à vn & es neuue es porteot quefutte erend de moment en moment pus ce que de tnqcenscheuux qu e uuoent dnsdcroutenenps mntennt douze de ons & que dns peu de ous qundvendr à fre vn excte ccu de ce qu uy retene e trouuer quvn cheu Apres tout Mr chnd qu perd ne peut psrre es vns peurent pourvn uet duque es utres ne font que e ger cette oudne fute etonn dord quequcs vns es utresen temognerent deoye ms ee erc dns e deeporpeonne qu ttendot e monos eetce ence cuerot euçonp de tmes ms ees ontrerenués ou pr vne ferme eurnce duretour ou prvne genereue & tres punre reouton qu e redexmes dvne vertu heroque ouenvous vouez detoute pnte neceté"
         ]
     ]
 }

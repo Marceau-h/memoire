@@ -1,189 +1,75 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "lettre",
-        "subject": null,
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "subject": "Gouvernement",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-05-04",
+        "creation": "1651-02-28",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-06",
+            "@when": "2022-09-14",
             "@who": "AB"
         },
-        "titre": "Lettre circulaire de messieurs du Parlement de Provence,\n          envoyée à toutes les villes de France sur le sujet de l'arrivée de M . de Mercœur en\n          Provence.",
+        "titre": "Lettre circulaire de l'assemblée de la noblesse.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-06-08",
-            "#text": "8 juin 2021"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1820_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1819_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "soo11",
-            "1 E TD",
-            "LI I I L",
-            "CIRCVLAIRE DE MESSIEVRS",
-            "DV PARLEMENT",
-            "DE povrer",
-            "villes de France,",
-            "Enuoyée",
-            "leeie e ſeeu e lilanie",
-            "de Mercœur en Prouence",
-            "9",
-            "A l",
-            "lilu e dleſe",
-            "ou le el e es leiln",
-            "P ee ee"
+            "Lettre crcure de ssemée denoesse Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Assemée denoesse Gston dOrénsLettre crcure de ssemée deNoesse Sns LeuSns Nom65 28 févrer 65 Lyon Bothèque muncpeRés 3249TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs prose ettre texte offce GouvernementSerment dunon de ssemée denoesse 68"
         ],
         [
-            "un",
-            "E",
-            "n",
-            "3"
+            "LETTRE CRCVLAR DE Aemée deNoee MESSEVRS Vous urez ns doute pprs pr e grnd nomhre de Procurtons qu ont eté́ enuoyé́es dns es Prounces e deen que pueurs Gentommes ont prs de upper treumement oss Metez de vouor remedes ux deordtes & voenecesexer cé́es contreux u preudce des frnches honneurs drocts & mmuntez de notre Corps & quen duers endrots de ce Royume ees ont eté fuorement receuës &gnées pour former vn emeée genereAuprunt que duor eu repone de votre prt Mes sE vrs ur vn uermportnt L cononéture du remps & des ffres preentesft ntre deux oecons en tet te Ve de Prs qu ont ogepuprt des Gents hommes Prnoes Ducs & Prs & u tres du Corps deNoee qu nous y ommes trouuez de demnder prote cton à on Atee Roye Monegneur e Duc dOens Once du Roy & Leutennt Gener de Ett pour nous emer & ondre nos uffrges à̀ ceux de Meeurs du Cergé & de Meeurs du Prement & truer tous vn nmement à otenr pr uthorté de o enteme effes de nos utes demndesL pus prente de ces occons &pus ponnte pr tonteNoeeeté ntnce à frs pourerté A O"
         ],
         [
-            "oûooû: éûooûoûoo",
-            "D",
-            "v1",
-            "LETTRE CIRCVLAIRE",
-            "enuoyée de Prouence à toutes",
-            "les villes de France, ſur le ſujet",
-            "de l’arriuée de Monſieur le",
-            "ue de lMeeut n ladte",
-            "(ESSIEVRS.",
-            "Nous ne doutons pas que l’arriueé́e de",
-            "donſieur de Mercœur en ce pais auec pou",
-            "uoir dy gouuerner, n’ait ſurpris & affligé",
-            "glement tous les gens de bien, quoy qu’on",
-            "leut depuis long-temps les pretentions du",
-            "Cardinal Maxarin ſur cette Prouince, &",
-            "que pour s’y eſtablir aux deſpens de Mon",
-            "ſeur le Duc d’Angouleſme, il ait ſuſciteé",
-            "tous les deſordres que nous foupirons en",
-            "ute, afn d’auoir vn pretexte dële deſpoüil",
-            "ler de ſon Gouuernement. ne pouuoit",
-            "antmoins croire qu’en l’eſtat mmiſorable"
+            "deNoegneurs es Prnces du Sng & comme s ont hemm roue en e enpumn opfuee ex pr depucton de Aesé s oe e oté &enourdreé que nos vœux y uoent ps pou eoore & quenos peometcoent eurs erces & eur tnce offesmemede gnes uee nous pour fcer & moyennertsfo quenusponons egpmemerep re Ctot de pourreoreds Crdn rnde oudes Pys & Pses de oeyncu oyp pt ponronnce & muue dmntrto qu r àruyne pu que que pour esmpreons nmre quvouu don mer u Roy contre nous en preence deReyne & de on A 2 tee Royeeous remrquez que cet ree ne f oe pt compns en notre vnon vous ç̧urez quynsrees vq e u Roy & deeyne & es rrets de Meeuxd temee eoeuez en eé pont drs que nous ouou gpe ms uos ps etné ecere den prer dnrtge ms connne nous pprenons que est Crdm rzr u eet pone nms en déuor doeyr quoy que e remps porté́ pt edes Armets ot expré o oos ug ̀ popo e ous en fornes ne dournt pont que vos ty prenez e ene neeret qusnousfons es ee nnsgpededereher es noren s edrer dns es duntges & prerogtues de notre un e heé́e en ooteses prtesour espeooreruee esreteé on ree Roye nous don nere ûgné de mn pr equ ee coet & p proue que nous nouemhorr pourdreferes Cners de nospntes coforméene ux Ordonnénces & nrœtez des Ets geerux & os prometprotreton comre vous eeez pus u ong dns ooppee jonre Tte goreour e peruor eodmmnpe &e deeré tous eemes oous nus omnes vns em ere qe vos e trouuerez en ce pquet & grud nomre de Prnces Dues &e Pru & ues de noreCops ont gnev o en dtre duqurenede ce os E ueméeeeregde & er oeers thos"
         ],
         [
-            "4",
-            "ou ſont reduites les affaires, il vouluſt ha",
-            "arder d’y enuoyer ſon Neveu, & y allu",
-            "mer vne ſeconde guerre, qu’il n’a pas le",
-            "moyen de ſouſtenir. C’eſt vn coup, Meſ",
-            "ſieurs, de ſon deſeſpoir; car ne ſçachant plus",
-            "en quelendroit du Royaume ſe cantonner",
-            "pour reculer ſa perte, il veut ſe preparer vne",
-            "retraite en ce pais voiſin de l’Italie. On",
-            "colore, Meſſieurs, ce funeſte deſſein du pre",
-            "texte de la paix, & du deſir de reftablir le",
-            "calme dans la Prouince: Mais pour peu",
-            "qu’on ſoit é́clairé́ des lumieres du ſens com",
-            "mun, & de l’experience des affaires, on voit",
-            "bien que c’eſt vne leurre pour le peuple, &",
-            "vn artifice por charger de la haine publi",
-            "que ceux qmi auront le cœut de s’y oppo",
-            "ſer. L’intereſt general de l’Eſtat, Meſſieurs,",
-            "nous y oblige autant que celuy de Mon",
-            "leur d’Angouleſme, & l’honheur du party;",
-            "puis qu il s agit de fermer vne porte qu’on",
-            "veut ouurir à l’ennemy commun, lequel",
-            "artireroit ſur nos hias toutes les armes de la",
-            "France, & feroit de noſtre patrie vn cime",
-            "tiere, & le ’thieatre ou ſe joueroit le dernier,",
-            "mais le plus ſanglant acte de la tragedie.",
-            "Voua pouuez bien çoire, Meſſieurs, que",
-            "tous"
+            "dnspemere deeton nreou de vus donner dus de etrdes choes ne pouurs doutee quefse e oeppus oqes voupyemes epqens hon nedt Nosdous fonhetrpeérfde Meeurue vos feres es hes usee& vue qu epht de vous poundrtdnnotcjen ureque de notre prt nous nous enggeons vers vous de ne nous ms dpener deqes osny dyprjrt des emes deuops ps yosg5é epqr djcj ps pepohsJeoggqu nes fßot conter qotr eneed vo h4e ntmmeur comme oous fon e vousyodre De eque s p uee p pgeg dops5 modee ousees cuppenR etesde ues pepue oqenuueAee u omosoqe & potponp tfeees eeneges rdoue ueez tous es quue our Syquys fnee me epqye ée meme pouuorà que qu vns de vsé etr &enqu võus prene4epppcp qu ot de de Aemeée eeo re met à votrechox & vous uppe que ce ot uecerps de dgence qu vous er poe ynt ur toudgud pro t & feude ou que vous nuommerez eques ous chrgerez s vous pt des ohers de toures vos pntes & HoHte eteent tesrttsqe vous en uezPrceyes es roéutt&qu pourroent vous uor eteé enuoyées nëẽrot pus d̃re ent neceres Nous ttendrous vos repones uee mptence que nos vous upons nddreer dns à vn de nos Secretres fn de es preenter à Aemée u nom & pr ordre de queevous et ecrt & euré́ quee n pont de pfon pus forte ny pus verte que de e pouuor rendre vte u éruce du Roy & de procurer & d uncergore &eureté de notre Corps Commedu de vous temogner que tous ceux quforment ont MESSE VRS Vos treumes &e trefetonnez eureurs Sgnée de ordre exprez de Aemée pr nous es Secretres à rs ce derner Fevrer 6s"
         ],
         [
-            "J",
-            "tous les Princes du Sang qui ont entrepris",
-            "auec les Parlemens du Royaume d’en chaſ",
-            "ſercét Eſtranger, comme l’authcur de tous",
-            "aosmau, ne le laiſſeroient pas paiſible dans",
-            "ne Prouince ſi importante & ſi jalouze,",
-            "qu’ils ne donneront pas le loiſis à Mon",
-            "fenr de Mereœar de lay preparer de logis.",
-            "llſout obligez d’ailleurs pour le ſernice du",
-            "Roy & le bien de l’Eſtat, d’empeſcher, qu’v",
-            "ne Maiſon, comme celle de Vandoſme, ne",
-            "ſe rende pasſi independante qu’elleſeroit ſi",
-            "ouadjouſtoit à̀ l’Admirauté& au Goauer.",
-            "ment de Thoullon celuy de là Prouince;",
-            "œluy de la Tue de Bouc. qu’elle preten",
-            "(comme vnmembte de ſon domaine)celuy",
-            "de Berré, de Saint Topez, leMartigues, &",
-            "auttes places, qumi la rendroient fi abſoluë,",
-            "que tous les Prouençaux ſeroient ſes eſcla",
-            "ues, & le Roy n’en ſeroit le Maiſtre que de",
-            "nen. De ſorte, Maſſieues,. que s’agiſſans",
-            "aujosd’huy nonſeulement de l’intereſt de",
-            "l’Etat, & de celay de Monſieur d’Angou",
-            "leſne, mais eacore de noſtrediberté, du ſa",
-            "lut de la Prouince, de la gloine de ous des",
-            "bons François, & de l’auaatage de noſtre",
-            "pty, qui ’eſt heurouſemeat & pudee",
-            "B",
-            "E"
+            "4 CONSENTEMENT ET APPROBATON de on Atee Roye Monegneur Le Duc dOréns Once du Roy Leutennt gener de Estt NOVS conentons & pprouuons queNoee eme pour dreer es Chers de eurs pn tes à condton quee nous esmettr entre es mns & quee ur on de ny ren comprendre qu ne ot conforme ux Ordonnnces & Arretez des Etts generux & qupres uor receu tsfcton de eurs pn tes ee e eprer qund nous uy ordonnerons en ce cs nous uy promettons notre Protecton Ft à Prs en ce deuxeme Feurer m x cens cnqunte & vn Sgné GASTON Et pus s DE FROMONT Cotonné ur Orgn de ordre expres de Aemée pr nous es Secrétres ounez à Prs ce derner Feurer 65"
         ],
         [
-            "maent fortifié depuis quelques mois, de ce.",
-            "qu’il y auoit de plus pur. & de plus genereux",
-            "dans le Parlement, & du reſte de la Nobleſ",
-            "ſe, à la reſerue de trois ou quatre intereſſez,",
-            "qui cherchent d’éleuer la fortune de leurs",
-            "maiſons ſur les ruines publiques. Nous ne",
-            "doutons pas que vous ne loüyez & contri",
-            "buiez auec joye à l’execution de la reſolu",
-            "aun nrenonus auonas piſe de anunoſe",
-            "vigoureuſement à vn eſtabliſſement qui",
-            "nous ſeroit ſi funeſte. Nous ne l’entrepre",
-            "nons pas, Meſſieurs, auec moins de preçaus,",
-            "tions que de juſtice; & vous pouuez eſtrs",
-            "aſſeurez, que nous ne. manquierona i de",
-            "forces, ni de Chef: car Monſieur d’Angou",
-            "leſme eſt en chemin pour venir ſe mettre a",
-            "noſtre teſte, auec l’appuy de Son Alteſſe",
-            "Royale, de Meſſieurs les Princes, & du Par:",
-            "lement de Paris, nous vous exhiortons en",
-            "l’attendant, de ne relacher point de cette",
-            "merueilleuſe fermeté que vous auez teſ",
-            "moigné juſqu’à cette heure, & de ne vous",
-            "laiſſer pas ſurprendre aux fauſſes couleurs",
-            "de la paix, dont les Mazarins parent leurs",
-            "mauuais deſſeins: Lors qu’il ſera à propos",
-            "de lIa faire, e’eſt à dire lors qu’il ſe pourna",
-            "-,,,"
+            "5 MODELLE DE PROCVRATON efouor dennor qpoefgezn eo os ueuone fe &coneué poure or eeu oeene AL po uque nos ons donné hrge & poe pour ous & en nos noms déoger ̀ toutes es coes & ndos des Vn fje gd qutrefme Feusre de nnée pde ennr e Srepeoes Pfce sProes es Copps de Nooee Qqreonetovooà ty putre gneé derous etré es nms de MeersSeçs ços de emeées qus ou foremée &e mds ypucjq cpequence deee Vdoo er4 ro pouétprc férepoeéfon de tos ehoeuj5 dép feé &rtfhrez de A Noee cpmo u depcjerc eeey prendre endes y penter &p prr e chets denres ont os us csrgé pour e tefs u s o eté f́s en otre prtcee de e qdred pous ceux qu pueenteont de ujes e pd ordfe de queje Pronee qu es dot &oe ej njs déprtr de ntnce necere pour ohmr utjcé u pqur 4 Seer que pour e prtCuer de eous ceus deore rps ds e Royude yepde &yor ps deepué cfde dt et e oodoos y upr ece es ffces uet eére ete donnr es ffr e uger prodpos pu teempyé́ à ceuOffces deé JAenee & geerementsfre drege ree tou ce e deos & qe &endtousqsrmu efoos u pto e uoss y otope e s peropneß ppoetds nodtt geh egpe & te jejout cé quet̀ ft pr edt ene notre Etp cej eejjs efoy ponsfg es pœntes de os u heeeepe fees te eedrne& éte ? refetePrortohfgée 4ns n dedno ny érgnee éfpgs& nomn que per e trroet à rede"
         ],
         [
-            ",,,.. 2, ,......",
-            "7",
-            "aue ſeureté, & ſans la ruine du public, il ne",
-            "faut pas craindre que nous y apportions de",
-            "l’obſtacle, puis que nous auons plus aà per",
-            "dedurant les deſordres, & plus d’intereſt à",
-            "defirer le repos que ceux qui ſous cette",
-            "ſpecieuſe apparence veulent ſacrifier la Pro",
-            "uinceà la fortune chancelante du Cardinal",
-            "lnarin, & à la grandeur de la maiſon de",
-            "Vandoſme: En ce temps-là, Meſſieurs, nous",
-            "la traitterons à des conditions bien plus",
-            "auantageuſes pour le general, & pour les",
-            "particuliers, ſi nous demeurons toujours",
-            "nis, & ſi nous teſmoignons iuſques au bous",
-            "nôtre zele pour le veritable ſeruice du Roy,",
-            "pout la liberté & l’vnion vniuerſelle de nô",
-            "e païs, & pour les intereſts de Monſieur",
-            "d’Angouleſme, qui vient veritablement",
-            "aeevn eſprit de paix, & auec vn tiltre le",
-            "gime.",
-            "dAit leio.",
-            "ay65.",
-            "5."
+            "rve 2 4 VNON DE LA NOBLESSE O Vsous gneecoders que honneurNous ohgenepont oufrrt u ordredeNoee reç̧oue ̀ucun mondrement e u utre dns equeset mntenu uques àue enre denu e pe ee nenrn euoe cé qqu efté pr es euces gez qurendusà nos Roys detre conderé pt eux conmé e prncfp p puy de eu Couronne & dere hooré de pueurs prerogt ues drocts & mmuntez qureeuen es Gent honnes &e œnggent p eus e cojpun à sjhtereer u nn u Qoe yoé ̀ 3 grqdyur e Ett Nosne por Gos fns ont er yjoe ns drots & nos mnutez Nous uons juge neceure de ous ener ous é os pfr d Roy enconequenee de depetmo qpeû ̀ Mjeté d&e Nous ceorder en Aos Et ypt fcenten eHonognour e Dye d Oeens heed oy x eu ent geô de tt e dee n grdorede Geshommes & es choes ur equées Nous uôns n tenen dé cnnuer notr dte Aeme de 6̃ç Soneee Royenosyut ft houpeu de nous remo he peop oche &p cf quee pprouue nofthe deeuqee qus utorpoy utre Aemee &protegoe es toots deNoeeNous nous vonpr er ous uôoté du Roy & deRoyne Regentéer Sôouse qproeco de ou S R pou or e qu5y ordré de oohee roqu eé én feut oén fes detsmnuno qpos deernos pntés & es porte ̀ eurs Mjetez Et dutnt ques ous e pooûousor dcert pus condére que ceyde h cneru edon des Brnejde Mo oyé qué nous uos rsjout rpoedegregAdupge deen vemee&epoteo dr Noejges es Prneés dSgNosdous trouuos oécz detret dnse d́ tfnét qé Monegner e DeOens mopré ̀ éursMjetez & upu pe uec tdt de gpsneroré ponrdedrée qe Noegneurt esPrness u Sng de jonte os Suppctons& os Rmenre à̀ cees deA née duCege &du Pement & de ne ren onettre pour fre cognore à"
+        ],
+        [
+            "routeFrnce e repect que nous portons à eurs peron nes & e zee que nous uons pour eur erteé qu eté u gée necere u repos de Ett pr on A R & pr e Pre ment Et u cs que queques peronnes n ntenrronoées vouuenut rendre notre Aemée upete à̀ eurs Me tez & que pr eurs muus cones quequvn deu fut ttqué enperonse ou en es ens Nous erons tens de prendre on nteret comne commnun à tous ed gener & à chcun de nous en prteuer Et pour cet effet Nous pro metrtons & rons ur notre Foy & ur notre Honneut de nou5emer & der en Corpsu eu où nous fçurons quun ou pueurs de Nous eront en dnger de queque yo ence ur e uet de notre Aemeée &dexpoer nos per onnes pour eur defene & dempoyernos Suppcronsen uers eue Metez & toures es voyes utes & ronoes que heon eros pour fre ceer es voences & reprer es dommges qu eut uroẽnt ft&́ f ns que nous puons nous eprer ny ceer nos pouruttes oqnes ̀ ce qus oent rems en erté & que es torts & domm ges qus uront ouffeérts oent reprez Decrns quu cun de nous ne pourr mnquer à senpoyer àdefenfe com mune du gener & du prteuer des notre Aemeée ns etre tenu pour homme ns foy & fnshonneur ndgne detre ceputé́ Genomme Comme u nous nous ng geons uotre Foy & Honeur de demeurey vns dns es nterets de Noere & dns es entmens decrez pr cet éert & de contnuer Ase née uques à ce quepr ucto rtré de ehtreme de on Atee Roye nous yons receutefcton e nos utes potes & de ces qu nous eront ort́esou enpdyé́es pr es Gen tshouomes des Prounces qu svuns à nous uront recouns àoné d Roy & pro tecton de dteR pour en otenr jutce Le tout cnfor mement à éert qu uy à peu de nous en donner gner den e ed preence des ounez & uec preote tton de ne nou deprcr s du repe ét de eync & def fde ue quoet eus u Roy &dot nous vouons douner exmpe à tous es uets comne nous uons ft uquéspreent & nos n çetres depus ene de eces FtPrs ce qutreme Fe vrerA ux tense qunc e & v & gné ns dctncton y dfferenee desttgsj & Mos fn que peronne ny pu e trouuerà redre"
+        ],
+        [
+            "7 mus Deuour Mrys de oonu e dohn Pnnce de Gumeoé Louys de Rchort ote Adde re nços de eu Mrqu deGudydné de Moeçr Mrqujs de Montetr ede de ondee Mtroor Frnço de MotsorencyMqos deFoue Chre deeue Mrqu &deVeuue Perve de Ceont feyr de Cgnc Chres Frnços de Gofferrqus de Creu ç rçp5 de Cotoor ér e TPeChrde Mnero Cpee de Fote Loysee hsees rqus de Porer e de ddn e de MtterrePhppes de Foeue eur de ucour Vcos e Vege gmon rqode Vegugnn cerous de choe per deLngos Eonooedscrs d rfeé́ rqus fe Fnus de fropt rqse Vy ypore de hethuhe C6te de e ehe Chres oeph ds Guuer Conte de Vedeu frnçor déchofeu Mrpsr de pn Ges de Cormeur du Pve ndr du eeß chtos eur d Peß̈s Louys de Mdn drqus de Montorre Cprd de Sux de Tres or de unesde Bue Cohre deJen Cude de pPreuxenr de Predx Lonys de BouhersSegneur de ueut Frnços omr eur Trc Cer dectee Comte de Chte rnçs de Vnde De deBfort ode ßere eur dudt e cque e V eur dqus de Cogeée Fre Loys dLAree Vco e de Mes Leonor de ochechourr eur de MonppenChres Dngene rqus de Pogy Phppes de enoncor Mpqus de Cenocor Andes de Gury feure pry Tocnm de e eun dAdrez Mco de Dmpont e dou ouys de ̀ Pere eur der rncos de Eee feur dArgentue Zouys de S Smon Conemndeur de te Perre de nn eur de Brne epes e eureur de Hu rre de ooe e dn eu ené deochedn erde s enry d fpgmeedr de Veméuee Reoé de Ggoé our de Loyré G Pert eur deoußere Hrdy Cheu eur de Cers Los Tet D ncour né Ge Fo enr de cogr Jornmy en dé Cogny rpuos de Cogu oys de Choçu Mnj de Frnceres Fredee de S t eur ddt e ose eer Mrqus de Chnot Chres dA"
+        ],
+        [
+            "3 ç dre de Creq Comte de erneue secus né dop eur de Pepre deg de u pr de Vuqy Aphpe de MAorue ote de d re Fenps de Roffng Comte de Bgor de LorrsnmeCruer de e ene de ese Mr qes de pPnze Aph de Vgmncor Ar s dud e oer de Rnppue de o Pger de q fer s Foyrnd de ee rrger pro de ugt Frenu de Croune jer e Cn enry eVeue Cheneu Atorye de Cerpnnoeo Cmed Cermot érre deRoeneuj de L dederr eude oq Che prnto eApgénonn t de Ceyret pdn e gree de Medvd eur e Mn ups e n cur pun de Cnço Fyqsd Gneue e d ep Chre e nq Cocr de e enry Gouor eur de Gfde qo e o h eur de equps so deprd Mr r do Vennmes Code u eur de Meue rsspugoeo h deuooop efo q de M Aod er dud e Pppee eyhuede Se es de pn ereeje Che e Soon y gpeseou dernjgreRuefô Mrqs dAye q Putrnx e depho os e SLSnq e Sde n de &fps eue des Rcsr Ro Pede egegfroy qde Bm4 eur de Vo cqes deere eur dde e jepsspoe de Ge g S Au doç dBrdeur e nA Sous deeu d Soder éde Supuedtergãgns r duPe mds GoZs hendee uppro Feque"
+        ],
+        [
+            "po Gedeode Chuery eur de e Ppes d Mdn3 eu de sddn Chpne derypde Sevy ye de Mdrn e s re edy de D̀ nd Eeu de Tur er ns de GrongtMuqu s de e err de Vers eur de verr Aexndre de Moreà fer e Cooenm Leo ders eur dEtrges Chntes Perre de Perrer Mrps de ns dre e dy eu de r ncos ohne erde shede n de Mrques de Budpho Lopet de Drou enr de ouue eques e er de S OGeorpes Adm rdrdr fue de o Tos derqude hs du Deseu? ur d Co deorpenr CQAés Ené de Sey Det de Nmours Focos dehefor ue deRoch oc TodPeg9y 4s de Trencny Neos etnnuffnome e ofjfte ee de Bofuofer du v Lous Topn Coudechee erteé AAeedre e e doFr te degnt rshdne de Guofer eur hr Lode de Cuen euo fer des eques epey ysoe e esené orm fou de O ver Frns peor eur de Dmperr veoges eur de cr oers vs e pdeee Mr enry de S v furdeoe oé de Cdude de odrr d ev?dGdreeoe de  u e coso e e Fevreedr deéEséu Mqu deoes p edo gpve nsG m onA Com o 4 fer AMrs d Ce ocede de CheuereFrqeec re GP o ur de te ne e S r"
+        ],
+        [
+            "s de S ouuu de ceur ur Ce e v ee ererr un put ne e pr d d eroos pre e n S pu e t e e de on Seurtngeoenuner de Cnu eus Curun dutnrsene enrns d cduns eue d e e e uee dnee donus ndter d ounderuur rene s de es oene dne eee epnrr de unu n d ees ue ere os de ne rgnr dus cuune du oee ue ps dt o ue d drsereere de o nnr een rr ces ue p enu hds pu er dr ondu c ee eeees eemrdd dn uun p e e eoe d e nnme e d er tsune d eed de de enp eeee eer e ee r d reen ru neune ene d d ue un ene ne dt e e n ee Se r e eepurnet pee e e tene d nne u r ene ort goert de onmn e T de Teuses dE ee u deedeenfeer defe e e penee ee e eue e e edn e d eepeuer ee S d u r otu epnuuhueoen dunuerft eep eermrede du en u e ereee e re re e re en erenrprnur edene ee oetde e doeuqetee ends oeeepenreoee gyego dd eufeeereodeeeqderu n ped ureet neoee d eroeoe e ronrnerenr nnt e td ese de er oer erees toe upde eyrgdr ?"
+        ],
+        [
+            "2 Brguee Mrqs deLzerne Pppes e don egneur de e Heury ons dAogny Cme dé ochefr egus de Se Comte de T nes Rond de ons Mrqus deCZe Sepr de Gnm es Che or de e Jn dAcn e gner de Vuet Perre de Crnt Comee de Ber ns ee de ns ron de Egnc ee o s de de Cme de ronen Frncos d Pu Segueur de Penue Lon d Lorrne Dcde oyeue Lus de s rmoe Mrqs de orooer jume de Ccomenge Segner deg Vute en de onceroe prondeFere ponts ere CMde ddmee fgnjr de jejngpr r et de f rore Cme dCoyh eréde Cro ne Mrds de Cneyrmcos de Hreen rquc eto Cunde dé rgoour egneur D Jeues dAeus egr de eontuet Fpm oodendneegne Seh Srjhdmr r gédr de Chnron rqoës Ch de Sn hé fgneur dePetore Anthon de nnen egnerde Chnesns deygetde po ue Rn dJVTper de et p Chres Doenros egçgeur e eout Pyrë der Ens egner d Ggny Todchn uy gur Ves Fnqus Pue Beḿ egneurdernu Geoege de u B fgneus de 8e ucuom douerge egeur dGguy HFfen p Hee fege dp ene de Pou gne egrd rtue Phppe de SrneeuReumgu Ces esge hnmtddé Fg e gueurpgeon?Cdede Comer e rqes d Rue Jgneu d eppete Sey thde Fnngueut egeur e"
+        ],
+        [
+            "de mjp ergpr de Fngnqre Pede eg Mqynede epete gedeLeey en de Qé qus e Chemoze Frnços Gprr de Monr nor Mrqus de nt Herenm Edord de om mg fegnqur de Bpon Cde de Chunegneur d ot Loude Cnms gmeur de n Murceu Henmry Mre egmeur de Vremme Frnços Grourd egneur e Grnz Perre Regd egneur de Lge Gy de ncte Mre egneur de Fou geret Lous Amont egneur de Guepent Chres rue egnmeur de Ludounere de Cour oep e Bucher egnmeur de Loumey Mrgny CAres oret de ue drqus de Gurenne Frços de oret egneur de V ete Chres de mory egneur de en Te rs Lous Chot omte de ermc Frnos deFontne Cheuer de Vepeque Cude du ets egneur du mers Amthonme Chres de Ferreres egneur de Suuuœuf René du p egneur de Ve frnche de Monrun René Ne ee egnmeur dAngeue cques Oder de C der egmeur de Fonteny Ncos de Grs e gneur de Goue FPrncos de Chugnc egneur dOndredeu Lous Arume egneur de Toy Phppes de Brenne egner jde Courtueny Chres de Leu Cmre de Chr Chres deD"
+        ],
+        [
+            "4 Guer egnerde cu Cdt de Feme eote FrgesLFrhcsr de Corts Jegne de Rgy Pppes de omgr rpmerQudueh CoMdqméur orgjn de ordue e prës de Aeḿe pr nos es Srcertrés ous gnex ̀ Prs ce derner eurer s"
         ]
     ]
 }

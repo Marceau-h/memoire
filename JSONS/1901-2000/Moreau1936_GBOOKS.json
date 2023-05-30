@@ -1,111 +1,54 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "lettre",
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "subject": [
+            "Parlements",
+            "Parlement de Paris"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Bordeaux",
-            "Aix-en-Provence"
-        ],
-        "creation": "1649-03-30",
+        "creation": "1649-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-14",
+            "@when": "2022-10-07",
             "@who": "AB"
         },
-        "titre": "Lettre de la cour de Parlement de Tholose à la reine\n          régente sur le sujet du trouble d'Aix et de Bordeaux.",
+        "titre": "Lettre de la cour de Parlement de Paris, envoyée aux\n          parlements du royaume, du 18 janvier 1649.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1937_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau1936_GBOOKS.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "LETTRE",
-            "DE LA COVR",
-            "DV PARLEMENT",
-            "DE THOLOSE,",
-            "A LA REYNE",
-            "REGENTE,",
-            "Sur le ſujet du trouble d’Aix & de Bourdeaux.",
-            "A PARIS,",
-            "Iouxte la copie imprimee aà Tholoſe par Iean",
-            "Boude, Imprimeur ordinaire du Roy.",
-            "M. DC. XLX.",
-            "Auec Permiſſion."
+            "Lettre decour de Prement de Prs envoyée ux prements du royume du 8 jnver 649 Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté8 jun 202 Prement de PrsLettre decour de Prement de Prs envoyée ux prements du royume du 8 jnver 649 Prsmprmeurs et rres ordnres du ro649 dtée de jnver 649 Lyon Bothèque muncpe de Lyon Réserve Rés 37998TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs936 Lettre decour de Prement de Prs envoyée ux prements du royume du 8 jnver 649 P rs pr es mprmeurs et rres ordnres du ro 649 5 pgesy enune utre édton des mêmes mprmeurs qu dffère de ce dns e ttre en ce qu porteux utres Prementsdns e texte en ce qu est mprmé en crctères tquesde pusettre nest ps sgnée L rédcton et envo en vent été déérés dns udence du 7 jnverprose ettre texte offce Prements Prement de PrsLettre du prement de Prs ux utres prements du royume 64"
         ],
         [
-            "A1",
-            "8 0",
-            "ed A tA8",
-            "e Set gg?",
-            "po& t 3",
-            "LETTRE E LA COVRD V",
-            "Parlement e Tholole, aà la evne egentes",
-            "lur le ſujet du trouble dAix & de",
-            "Bordeaux.",
-            "A T",
-            "MADAME",
-            "T’anr que nous auons creu que l’authorité",
-            "des charges dont le Roy nous honore pouuoit",
-            "ſuffie a maintemr la paix & le repos dans les",
-            "Prouinces qu il à commiſes à nos ſois, Novs",
-            "n auons pas voulu imporuner V. M, occupée",
-            "aux gtrandes affaies du Royaume: antenant",
-            "que nous voyons augienter le delorde au",
-            "pays de nos voiſins. & qu’l eſt a craindre qu’il",
-            "nenire dans le noſtre, Nous recour ns au Roy",
-            "comme a a ſource du pouuorque nous e er",
-            "ons, & ſupplon ttes hnmbleme nt V. M. de",
-            "vouloir employer baut horité Royalle qui eſt",
-            "en voſtre man, pou faire ceſſer ces mal’heurs.",
-            "lous ſommes enuironne z de la Prouence &",
-            "de la. parie de Guyenne qui eſt lu reſſort du",
-            "Parle ent de Bordeaux, la guerre eſt aſlumée",
-            "en ces deur pays, & ſait des ja ſenur ſa chaleur",
-            "& ſa flan e dans le noſtre: Lexemple e ſt plux",
-            "fort que la Loy, ie peuple le uit; & on com",
-            "4"
+            "TRE 37888DE LA COVR DE PARLEMENT DE PARS ENVOYEE AVX AVTRES Prements du Royume Du ductéme our de nuer m x cens quornteuf e u &d A PARSPr es mprmeurs & Lrres ordn res du Roy M DC XLXAuec Pruege deMjeté"
         ],
         [
-            "3",
-            "... ,am--.ALAaaal aa",
-            "4",
-            "enc ici de louer dea gens de guerre ſanso",
-            "pre ſſe comrſſtons du Roy. On faie dos i",
-            "pſinons nauuelles pour les enmtrete uir lur les",
-            "peuple, i runez par les foule qu’il onde",
-            "pis ſi longt erps ſoufferos, qus uous ozons",
-            "direV que ceun de la campagne ne poſ",
-            "ſe denlus rienquie la ve & l’air qu’ils-reſpy",
-            "rent ceuedes villesne ſon guére pus i",
-            "hes que ccu là!. Le peu de commeres qu",
-            "nus auions auec Bordeax & ’rouence nous",
-            "eſtoſieé& hoipLne nous garanriſſoifpas-de la",
-            "peſte de Mſeilleqiaeace cette Proulae?",
-            "& d’où elle nous vien ſouuent, il ne reſteroit",
-            "pas-vn de ces fleau, dont pieu punit le hom",
-            "mes en ſa’colre, qui ne tombaſt lur nous",
-            "FRites nou,: M AD . M.i, cete grace, & à",
-            "l’Eſtar, d’oſtoindre promptemt ces deux ſeux,",
-            "qui pourroient cauſer vn plus grand embra",
-            "ſemont & qu’lplailt à voſtre bomé do donneri",
-            "à ces deu rounces ces deux pai particolhle",
-            "res, attendne la Ge nerale, pres lauellerou?",
-            "ſouſpire & tout eſpere de yoſtremain; & reçe",
-            "uez de nos deuoirs-& de otre lteau ſeruice",
-            "du Roy & au voſſres, cbsre-humbles & tre",
-            "reſpetueules Renpnlttances que nous fai",
-            "ſons àV. M aceompagnees de la proteſtainn",
-            "de nos tres humbles obeyſſances, & de noſtre",
-            "ivolable delité",
-            "FIN."
+            "Tuqj er h r u e 2 ooqoge"
+        ],
+        [
+            "FS EVRS Vous u eonsue vos ureZ ppr p ey t comumun e que es eces ̀ v nront pe de crore que dse ps où y uot eu per rque ues ouseff ts deDeron que n usons procurée pour re r ordre ns t & ou germ re des P u es e Cr n Mreneue e Roy de Prs ̀ deux heures pres mnuct & f n uetrV e Ce q ms eftone ment &crnto dus depnt de tous J es gens de en t pour donner pretexté d̀vne ctonergsft A J"
+        ],
+        [
+            "crre vne Lettre u Preuot des Mr chnds & Echeuns pr queeous ceue duoreuntegenceuec es Etrngers pour eur mettre entre es mnsperonne du Roy Qu et vne comne que detrut eZ dee meme &dont nuons eon de nous jutfer Ms de vous nformer que e deen dudt Crdn MZrn n utre ut que dopprmer& nentr e Prement &e de Prs fn pr vneoppreon commune dujet tr es utres Prounces du Royume & etryrnne u ponct de erendre mtre ou de ce qu et e pus condere dnsEtt Ce qu et teement nute & conmtrre ux Lox de cette Monrche & ̀ uthorteé Roye que nous nous promettons que vous vonus epojereZ de tout votre pouuor pour empecher vnpern cenux"
+        ],
+        [
+            "9 ceux deen ous uons pournsf re d̀ notre deuor donné vn Arre pr eque e CrdnZrn etdecre Perturteur du repos puc ennemy du Roy & deoEtt fnde detromper es Peupes que pourroent erur prendre ux ordres qu donne ous e noe du Roy duque usé depus pueurs ńes L Ve de Prs e uédes troupes & Moeur e Prnce de Conty uec eucoup de Prnces Dues & Prs OQffcers deCourone &u res Peroues de condton ont vens u Prement decrer qus vouoent erur e Roy uec nous en cette occfo pourrretfere tours des entrepres du dt Crdn MZrn Nous vous don nons prt de ce que nous uos ft fu ques ̀ preent & dedettoû ontesco es Et comme nous nuons tous quvn eue nteret & ne meme ntenton 3"
+        ],
+        [
+            "2 ee ce 5e4 os cond tes es n es e roten o e q profr uen Sn mert t meuons é p ep réess ur ous defend ee nete0e nouto0 spo nt uepr os d vous pouruoyesu pu otdvo ec eruton & nce qus5 en es dvent nt nouse no s e e t pe nt vne gue e c e qu uro pou ctE n ger Nous ouo o e ron p f ente enceu vous de o5 A ESEVRS os ons Frer s &Ge tennsour de esn 6 S néPrem nt de Pcs DV TLLET"
         ]
     ]
 }

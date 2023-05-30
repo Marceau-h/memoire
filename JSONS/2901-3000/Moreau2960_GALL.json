@@ -1,160 +1,98 @@
 {
     "entête": {
-        "form": "prose",
-        "subject": "Gouvernement",
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1649-03-15",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2021-11-09",
             "@who": "AB"
         },
-        "titre": "La raison d'État et le bouclier du Parlement.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
-        },
+        "titre": "Raillerie universelle, dédiée aux curieux de ce temps, en\n          vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-11",
+                "#text": "11 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-01",
+                "#text": "1 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau2961_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "fichier": "Moreau2960_GALL.xml",
+        "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "De &",
-            "BOVCLIER",
-            "PARLEMENT",
-            "e e leilee"
+            "Rere unversee dédée ux cureux de ce temps en vers uresques Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté févrer 202vr 202Antone Pcot Rere unversee dédée ux cureux de ce temps en vers uresques Prs Perre Trg 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y086TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsRéédton sns épître dédctore de\"Rere unversee Dedée à Monsegneur emnentssme crdn duc de Rcheeu\" puée en 635 pus en 640Pr Antone Pcot ron du Puset dprès e prvège de éd de 635Mrque u ttre 2960 Rere unverseedédée ux cureux de ce temps en vers uresques Prs Perre Trg 649 2 pges Pr e ron du Puset L premère édtonété donnée en •625° PrsPerre Trg Ee est dédée u crdn de Rcheeuvers poése uresque strque Le prement ccepte e trté de Rue 64"
         ],
         [
-            "3",
-            "t’t’ppp",
-            "T",
-            "LA RAISON D’ESTAT.",
-            "ET LE",
-            "BOVCLIER",
-            "DV PARLEMENT.",
-            "Aê A meilleure & la plus ſincere in",
-            "cention dans la conduitte de l’E",
-            "i ſtat n’eſt pas touſiouns la plus ap",
-            "prouuée. Ceux qui ayment la con",
-            "Nfuſion & qui ſe preualent desde",
-            "es srer u houniſes en nu ſluneeue, ane",
-            "ietcent blen loin, & la font ſouuent paſſer pour",
-            "vn crinae. C’eſt ce qui faie que les actions les",
-            "plus iuſtes en matiere de Police, ont quelques",
-            "fois beſoin de deffenſe contre ces malicieux inſo",
-            "lents, & qu’il faut quelques fois employer iuſquà",
-            "la violence pour les maintenir dans leur éclat, &",
-            "pour deſtruire les deſſeins pernicieux de ceux qui",
-            "les attaquent. Et parce que la iuſtice paroiſt plus",
-            "pure dans la ſeueriteé, il eſt neceſſaire aſſez ſou",
-            "uent de la rendre rigoureuſe, afin que peſonne"
+            "RALLERE VNVERSELLE DEDEE AVX CVREVX DE CE TEMPS En Vers BurequesA PARS Chez PERRE TARGA ruë Snt Vctor u Soe dOr M DC XLXAVEC PERMSSON"
         ],
         [
-            "ne la méconnoiſſe. Cette vertu qui regne auſſi",
-            "bien dans la guerre comme dans la Paix, eſt touſ",
-            "iours le plus puiſſant appuy de la Monarchie, &",
-            "quiconque s’efforce de l’eſbranler, menace l’Eſtat",
-            "à meſme temps, d’vne cheute irreparable.",
-            "Quand ce mal-heur eſt aà craindre, elle doit tout",
-            "oſer pour le combattre, & ne doit rien obmettre",
-            "pour le-deſtouraer. Elle doit faire agir les diſpen",
-            "ſateurs de ſes graces, & ceux qui ſont comme les",
-            "Oracles des Loix qu’elle donne: & comme ils",
-            "ſont les plus intereſſez dans ſa cauſe, elle les doit",
-            "obligerà reſpondre de ſon bon droict, & à la con",
-            "ſeruer dans ſon integriteé accouſtumé́e. C’eſt ce",
-            "qu’elle a entrepris heureuſement pour la France",
-            "& le choix qu’elle a fait de ces Auguſtes Senateurs;",
-            "n’a pas eſté ndigné d’elle; elle n’a pas eſté moins",
-            "heureuſe de les rencontrer en ſon party, qu’ilsont",
-            "eſté glorieux de la mauartenir en ſa vigueur. Elle",
-            "leur a donné beaucoup de conduite & d’eiperien",
-            "ce, & ils les ont employé́es à l’adminiſtration d’vn",
-            "Etat qui ne fubſiſte que par elle.",
-            "Elle leur a mis le fer à la main, & ils ne s’en",
-            "ſont ſeruis que pou la deffendre, & poueſouſte",
-            "nir l’authotité du plus iuſte des Rois, que la tyran",
-            "uie s’efforçoit de renurſer impunénent. Quand",
-            "ele leur fera quitter les armes, elle ſeule iuſtifiera",
-            "vn procedéſi loü̈able, & nofera qu trop connoî",
-            "re qu’ils ’ont agy que par raiſon d’Eſtat en cette",
-            "coion"
+            "3 RALLERE VNVERSELLE DEDEE AVX CVREVX DE CE TEMPS En Vers Bureques S e Fnncer à encumeQu forge or en vn momentQuãd e tẽps chãge et quõ e pume e rend uß promptementS es renrs ont eurnceDe prendre pr tout des pousnsCet qus çuẽt en quẽFrnceOn ne punt ps es rcnsSgote oyntMefePouuot cquerrdouceurEe tendrot meuxpromeeQuee ft à on ConfeeurSfemme deuoteueEt en etme dvn chcunCet quvne perre preceueA on prx qu net ps commun S es vertus ont deéesBẽ quees deuroẽt nous chrmerCet quetnt m recompeneesPeu de gens es veuent merS e vce deuent énormeEn sttchnt ux psonsCet que htude e formePr des frequentes ctonsS nous eruons dpprentgeAux mux que nous vouõs guerrCet quvn Medecn nét pr geQu nen ye en ft mourrS nous connoons pr prtqueQue e monde et rempy de fousCet e vnfemme mpudqueEt e jeu qu nous perdent tousj"
         ],
         [
-            "conion cture dangereuſe, où̀ il a fallu preſque ſe",
-            "rendre ſuſpect, pour n’eſtre pas iniuſte. Mais par",
-            "ce qu’il s’agiſſoit de l’intereſt du Roy & du publie,",
-            "en cette occaſion il n’y auoit rien aà balançerpoux",
-            "eux, ils deuoient tout entreprendre, meſme au",
-            "peril de leur vie & de leur reputation, auſſi n’ont",
-            "ils pas manqué à ce deuoir, & l’ont rendu auec tant",
-            "de pradence, qu’ils ont donneé de l’enuie à leurs",
-            "ennemis meſme, qui n’auoient point de plus grand",
-            "ſujet de les hair, que par ce qu’ils ne faiſoient rien",
-            "qui les puſt offenſer. Ce n’eſt pas qu’ils n’ayent",
-            "bien examiné leur procedé, & qu’ils n’en ayent",
-            "voulu noircir, meſme les plus belles & les plus ſin",
-            "ceres actions;mais quand ils les ent vouluaccuſer,",
-            "la Iuſtice a reſpondu pour eux.",
-            "Si on a voulu faire paſſer pour vn crime d’Eſtat,",
-            "d’auoir condamneé́ Mazarin à quitter la Cour, & aà",
-            "vuider de la France, la Iuſtice a fait voir que le",
-            "crime d’enleuer les Rois, & de troubler tout vu",
-            "oyaume, eſtoit trop dige da-ce chaftiment.",
-            "Si on les a repris d’auoir pris les armes auee trop",
-            "de hardieſſe, la Iuſtice a reſpondu, qu’elle leur",
-            "auoit mis à la main pour ouurir les paſſages de Pa",
-            "ris, que des trouppes inſolentes tenoient fermez,",
-            "pour executer la vangeance de Mazarin, & pour",
-            "deliurer tout vn peuple des miſeres & des calami",
-            "tez, ou la famin l’alloit precipitet.",
-            "Si on les aceuſe d’auoir refuſé vr Herault ve",
-            "B"
+            "4 Speronne en ccorteSe rege encondtonCet crnte dvne chne forteQue trne ogtonS on met dedfferenceAux hommes pr extereurCet quon sttche à pprenceQund on ne connot ps vn coeurS e ge me meue vn LureQu vn homme pour on entretenCet qu vn ure prẽd à ẽ vureEthomme ouuent ne vut renSchoepus de merteEn cchnt es deffuts quee Leu qu dort & hõme hypocrteOnt de untge en ceS es fourms ynt des esEn vont rencontrentmortL erté quon donne ux eesNe eur ft gueres mons de tortS on ft en ors quon ppeVn Sergent qu tent u coetCet que e poon et en eQundsechppe du fet S on etmegeeDvn que or ne peut ttrerCet quepus grnde rcheeEt de ne e ps dererS Npe uec on nfuencePeut pourrr es corps & es dentsCet quee trouue vne utnceQu e porte à es ccdentsSSerenedes decesEn es yeux qu ont pens dppsEe cche eurs es mcesEnqueuë quon ne vot psS e Noe uecnoeeNe trouue ps dequoy dnerLrgent à cette genteeQuà toute heurene peut donnerS e potron qu crnttoucheFuyt vn ut pr deus toutCet quon ne vot ps vne mouchePres dvne mrmte qu outS hõme doux et pen de chrmesPour otenr tout ce qu veutLe rude ft tnt de vcrmesQuon uy rete tnt quon peut S"
         ],
         [
-            "6",
-            "nant de la part du Roy, elle fait voir que le Roye",
-            "traittoit iamais ſes plus fideles ſujets, ny en Sou",
-            "aerains, ny en criinels. d’Eſtat, ny en enne",
-            "mis.",
-            "Si on leur a reproché leur laſchet́ dans la guer",
-            "ce, & de n’oſer paroiſtre pour combattre: elle a",
-            "monſtreé qu’ils n’auoient pris les armes que pour",
-            "conſeruer le Royaume, & pour ſubuenir aux ne",
-            "ceſfitez de tout vn peuple qu’on auoit deſſein d’af",
-            "famer, & nonpas pour offenſer perſonne.",
-            "Si on les a calomniez, en leur ſuppoſant vne in",
-            "telligence auec les ennemis de l’Eſtat, la luſticea",
-            "reſpondu pour eux en cet eadroit, auec tant de",
-            "force, & a tant donné de preuues du contraire,",
-            "qu’elle a contraint ces faux accuſateurs d’auouër,",
-            "qu’ils n’ont point eſcouté d’autres ennemis, que",
-            "ceux de la tyrannie & de la malice.",
-            "En fin, leur plus grand defau, c’eſt d’eſtre irre",
-            "prochables, & malgré l’impoſture, la Iuſtice a",
-            "monſtré erop- dairmone, que la loeule taiſon d’E",
-            "ſtat les auoit fait agir, & qu’ils n’auoientrien en",
-            "trepris que pour le bien du public, & pour l’inte",
-            "reſt de leurRoy, que leur intẽtion eſtoit pure, & que",
-            "leur zele n’eſtoit point indiſcret; auſſi ont- ils porté",
-            "les affaires au poinct où elles ne pouuoient arri",
-            "uer, ans nous donner la paix: la Conference qui ſe",
-            "tient tous les ours à S. Germain, en eſt vne belle",
-            "ouuerture, & nous n’eſperons point de les reuois de"
+            "5 S on vot que e Fucon preLes coeurs quon donne en es repsCet quevnde et exquePuquon en veut ẽ quon n psS mour ft vne prte gt en perfectonQundft queympteLe econde en on ctonS hue et vn punt remedeA en des mux pour es guerrLeprt que e ge poedePeut encore meux ecourrS e ve mnt qu oûpreFt e eune homme & ne et psNet ce ps quvn chcun dereSe déguer uquu trepsS on vot chnger es ournéesA des fuors deCourCet vn effet des detnéesEt non ps de tre du ourS on n pont de recompenceDe ces Courtns ffronteursCet qus fontgrnde dépenceQu nont rẽ pour eurs eruteurs S pueurs u eu de preSont en venus en demndntCet qus cõmncent eur ffrePr es preens en ordntS es femmes ont des yonnesEtnt jouzes des mrsPour es fre deuenr onnesQuon es éogne de PrsS e vge deLuneEt en ujet u chngementQuet e mque deFortuneQudegue en vn momentS on chrme pr ftereCeux qu ont en propertéCet qus trouuentmenterePus douce quevertéS homme peut donner à oreDegce en toute onCét quãde oupçon uy ft croreQu et trhy dnsmonS Deu dõne ux hõmes dEgeDu en qu ne peut profterCe e ft pr entremeDu de qu eur ft quter B"
         ],
         [
-            "7",
-            "retour que la palme à lamain ilne leur manques",
-            "ra qu’vn prix aſſez digne de tant d’actions hero",
-            "Ques i mais la gloire d’auoir ſi bien reuſy, leurſera",
-            "ne puiſſante Iacisfacion, qui ſera comblee pa",
-            "les benedictions continuelles de tous les peuples,",
-            "qui ſe eiouiront de tenir de cet Auguſte Parl",
-            "aent toure leur felicité.",
-            "FIN."
+            "6 Sfe ft quon oupreQund onvot tnt rechercherCet quon dot pndre e nureQu v donner contre vn rocherS e joux à humeur mornéCet quvne Venus ns repectLe mence du CprcorneS Mrs y mese on pectS des peronnes en ccortesFont tous es ours tnt de cocusCét que ren nouure en es portesComme es cefs & es ecusS gnornt çt en on roeCet qundngue ne dt motPus quen retenntproeOn ne vot ps qu et vn otS e docte en GeometreA en deuttéOnetnt dnduftreQund on ort de neceßtéSfemme et vne vogeQu ne ft quer & venrLocconen pus dâgeQue on ne curot retenr S on vot que e m extrémeSe reche dns e tourmentLes dettes ne ont ps de memeLeur pene dure ncementS es chãps pent ux gendrmesPour s fre à eur dersLes puures y verent des rmesAuec ecoup de déprsS pueurs ont ouuent enueEtperdent detre àCourCet quedouceur deveNet ps en ce rdé ejourSpete fmne & guerreSont preges dedoueurLes femmes qu ont urterreSont es cometes du mheurS notre humeur nteVeut de rgent en qunttéCet que ren net nupporteComme detre en neceßtéS Auoct rchee ne sen fut ps étonnerPus qu commence enjeuneeA tout prendre & ne ren donner"
+        ],
+        [
+            "7 S mour et vne mneQu jettepoußere ux yeuxCet fute de uure VrneQu nous cõdurot dns es CeuxSftere peut preDeprt dvn rusé fteurCet quee net ps ez crePour en vouor m à utheurS on vot vure dvne feVn Atroogue nuffntVn Poëte etmereQu meurt de fm endntS ceux qu pechent des nguesEt toutes ortes de pofonsNe peuuent ps prendre des fesCét que or mãque ux hmeçõsS ceuy qu prete et vn AngeAu temps qu nous ft ogerQundfut pyere chngeEn de pour nous ffgerS eucoup dns eurs mrgesOnt des yeux qu ne peuuent vorCét que ceux qu ont es pus gesNe derent ps tous çuor S homme tome enveeeEn vne grnde puuretéCet vn gne quen uneeA trop mé ouetéS homme rempy dnnocenceEt ttrpé des CourtnsCet qu ne çt ps eur eenceTrtres fteurs & médnsS e Snge &otte femmeNous font rre en eurs ctonsCet que e pus ouuent eur meA de memes conceptonsS e ge quoy qu endureNet ps pree de semrquerCet qu çt prendremeureEt e temps ne uy peut mnquerS eucoup de ceruees vudesEn rendent tnt dnfortunésCet quon ne donne ps des gudesAux ueuges pßonnésS e temps retent es penéesDvn qu ft profter on enCet que quãd es eux ont péesLes mouns ne eruent de ren"
+        ],
+        [
+            "8 S es femmes qu ont honnetesNe douent pont er u Cet crnte de muues etesQuy sy trouuent pour fre mS e der nteEtot condut prronOn ne trouuerot ps meCe qu net que fe & poonS nous croyons que AequemteNet ps ge enqutéQuetcence qu conteA tromper enqunttéS cet vne choe éudenteQu pert or en on ctonCet quvne forme precedenteNet ps en vne prutonS es Luts chrment es oreesDes femmes qu font des cocusLe on du verre & des outeesRut es enfns de BccusSpeur dont me et touchéeDõne u corps degrãds tourmẽsCet prce quee et ttcheéAu prncpe des entmens S Auoct àcenceDe fre durer e procésLe Medecn à mpudenceDe fre durer es ccesSfe dennceFt du m enregrdntCet que epne punceDe pcquer en e deffendntS e joüeur dt des sphemesTrnporté dnspßonVn mrchãd en ft ẽ de memesPour vendre dcretonS hommedeuffnceEt s ne çurot profterCet que rtpeu de punceQund Deu ne veut ps ßterS mnt dcret et coupeAmntfemme dvn jouxCet que oet en et meBen que on peché eme douxSveee et dedgneeDes eunes pns de pßonsCet quvns eur ge eognees ont dutres ffectons S"
+        ],
+        [
+            "9 S e médnt ftguerreEt sen vot puny queque ourCet que ors quon ette vne perreOn dot ttendre e retourS on vot vne vee rudeQund onpene corrgerCet queeprs on htudeDoù vent quon nepeut chãgerS ps vn homme ne peut dreQu os heureux untmortCet quon ne vot ps vn nureAeuré deunt questre u portSmuque et nnocenteEn erunt ux deuotonsEe et utrement gntePrmy es foes pßonsS ce nest ps choe communeDuor àCour de rgentCet que pour y fre fortuneFut etre ourd & dgentS Romepreenté EmpreA Cppe vn cornu ctoyenEn ce temps vn cornu ft rreEt net ps Roy pr ce moyen Sfortune moderéeContente vn coeur re de onsPour uor me temperéeVn courge nen vut ps monsS e Berger dnscneDere or pour estre heureuxCet que hõme n est pus vn nePour en deuenr moureuxS on vot quvne groüetteFt des tours utnt que e ventL femme est vne proüetteQu tourne encores pus ouuentScervee en odePe pr tout ns sernerCet quyntvertu pour gudeOn ne crnt ps de chnceerSDectque nuenteDes ujets pour en dputerVne Hrngere mptenteEn trouue utnt pour ergoterS queque genthomme outrgeVn ourgeos uec de excésQu uy ouhte en mrgeVne putn & des procés C"
+        ],
+        [
+            "0 S Auoct et pen de ruesPour déguervertéS femme trouue utnt dexcuesPour fre vne nfdetéS e mondetnt drtfceQuon pne den echpperCet quon ne vot ps vn offceS gener que de tromperS e voygeur e deeDeus e ct dvn pynCet que ennuy futpePour estre u ct dvn CourtnS es offces e poedentPr ceux qu nõt pont de çuorCest que es pus ges eur cedentPus que rgent es ft uorSgere est ns morceA queque rron effrontéCet que tout ce quon ft pr forceNe peut pre àvoontéS e oux tent deLuneEt prendmouche à tous proposCet peur dvne choe communeQu est prué de on repos S es mes qu ontnettesFõt vor quvne hõme et vn moqueurCet quon ne vot pont de unettesQu puent découurr vn coeurS pr es effets de enueLe on ouffre detre offenséCet qu epere vne utre veOù e en est recompenséSfemme et vne rueeQue on ne connot que en trdCet que on me et dégueeEt on corps ouuent pen de frdS homme de en dot pprendreA connotre es pßonsCet qu et ogé de rendreLe conte de es ctonsSconnonce ft dreQuon en crot ges qu ont fousCet quepßon ttreAuecque des chrmes en douxS es vees ont des tempetesQu ne ont propres quà trouerQue ne prenn de eunes etesQund on dere semmeuer"
+        ],
+        [
+            "S tnence et necereEtpufeursfont en vnCet quee net ps utreQund onft fute de pnS on et content dvn potgeOù trempent e rd & es chouxCet que pour uor duntgeLe reps nen et ps pus douxS es femmes en ueesSéognent de occonCet prce que es pus rueesY trouuent eur confuonS es rrons font pentenceSgnoentfn de notre ortEt ont pens de contrtonCet peu pus que eur repentãceMnque de tsfctonS queque fnncer ueDemutpctonPour ver dvne contre rueQuon venne àutrctonSpnte nous et oeVn Mone n pont dmtéL putnme neneEt e uf vn coeur ns pté S on connot que e enceEt enouche dvn prudentCet quvn prer pen dnoẽceFt vor quvn hõme et mpudentS e ot nous veut fre croreQu et propre à pus dvn meterCet quvn Leurepeu de memorePus qu oue on enterSchoe net coneruéeEn yntpoeßonCest quee net ps reeuéePus quon en pertpßonS es Cers en vne gneSgnoentfn de notre ortQue ft vn Medecn qu gneVne ordonnnce demort ?Spene et trop preeueVers es méchns pour es punrCet que es deux õt ft oteueMs pourtnt ee dot venrS mour dvne morfonduëRedut vn homme à ouprerL nté qu ur perduëLe fer eucoup endurer"
+        ],
+        [
+            "2 Scoque nous ft croreQue es vents ont mceuxQue dot fre e vent de goreA ceux qu ont mceux ?S ojet de AntomteEt de meme que dvn oucherCet que tout eur empoy conteA ne ren fre que hcherSource n du dommgeQund on entreprend de trQue on e mette en mrgeOn uy fer en reentrS on derecenceDes choes que on dot preuorL prudence & experenceSont cees qufont uorS e mceux e rngeAuprés dvn on pour ttrperCet quvn méchãt uy rend e chãgeEt empeche de e tromperS es mnteux ont neceresPour e couurr en tous es euxVn on ordre dns es ffresMet à couuert encore meux S es ees font tnt de choesPour fre eurs mrs cocusCet quees çuent que es roesDeuennent entot grtte cusSvertu dot etre méeDe ceux qu ont es pus punsCest queonne renomméeA des chrmes en runsS on vot quvn Mone senfermeAuecque dutres pentensCet quvn jmspus onermeQuvne ve de cnquntnsS on mnque en e croynt geEt s et rre den trouuerCet quon reconnot pr vgeQue peu penent à e uuerS mour ft que on e pmeDns vne foe pßonCet que ren ne chtoue meComme mgntonSmuque quon nous donneNe rend ps nos eprts contensCet quee net msonneQuvn ccord uec e temps S"
+        ],
+        [
+            "3 S e muet pourdefeneCherche vn moyen de erQue fer homme quon offeneQu ct dcourr & prer ?S on vot tnt dffetteresEnouche dvn OrteurCet que es nuës menteresFont trop tot connetre vn menteurS e çunt çt en on meQu ne çt ren prfttementLgnornt merte du âmeCroynt çuor extremementS es prs que on poedeRedouent eurs contentemensCet qundpene qu precedeA ft reentr es tourmensS toute choe deréeFt ouffrr dnspßonL pene n pus de duréeQund on poeßonSfemme qu ftfneSe fche de e vor merEe ne e ft que pr mnePour e fre pus etmer S e ge peveEn eruntDuntéCet peur devor erueSous es ox devntéSputn vnterceAuec trop dffecttonVn Breton meme grcePrnt de on extrctonS on dot ver de rcoeAPere ou en ux MretsQue dot fre vn qu nous cjoePour nous mettre en es nteretsS e fer tré derseDot etre ttu chudementCet quetnt hors defournze reuent frod en vn momentS Deu guertmdeComme e ouuern gentOn vot vne mn trop hrdeAu Medecn qu prend rgentS es ordes ont dedns RomeSeuement en queque qurterA Prs uue e on hommeOn en ft prtout e meter D"
+        ],
+        [
+            "4 S on dot freprereEtnt en per emnentVn ourreu frppãt pr derrereDot émouuor vn ptentS deusmer vn CorreDe roe uecque de excésQue ft ur terre vn CommfreEn fnt ordre dvn procésS homme de en vot ns crndreL femme qu etme peuCrotque étouppe et à pndreQund ee pproche prés du feu ?Smort et tnt deréeCet des ffgés qu nont renPuquon vot quee et horréeDe ceux qu poedent e enS on pereuerncePrmy es pus grnds deprsCet vn effet de epernceQu fte u meu des dersS on et trompé prformeDes Cmeeons deCourLe tẽps qu ne veut ps quõ dormeLes fer reconnetre vnour S es veux ontfce emePr entreme des doueursLmour des fes ft de memeLeur donnnt es ps es coueursS e Mn vt deproyeQu peut prendre ourneementVn Gendrme qu pume oyeNe e condut ps utrementS es Sorcers perdent eurs mesEn erunt e De u tLes grçons qu eruent es DmesSe perdent dns e cetS on votgrnde eurnceAux coups fts pr des etourdsCet que nyns pus depernceLe deepor es rend hrdsSpeur donne des ttentesAux hommes pens dmpetésCet quon ne peut etre ns crntesEn fnt des méchncetésScrnte du cocugePeut truer er notre on heurCet quon ent vne grnde rgeQund vne femme ote honneur"
+        ],
+        [
+            "5 Sfemme est mceueEt méprechtetéCe qurendvceueCettrop grnde ouetéS Afrque donne nnceA des estes dns es deertsL muquememe punceOn en vod en dns es concertsS gnornt mnque de ruePour preuor & fuyr ce qu nut merte en quon excuePus qu ne mrche que de nutS e ge ne pre gueresCet pour nuor pont de regretPus que es proes ont cheresA ceuy qu dt on ecretS es chemnées fmeuesChent homme demonLes femmes qu ont des cueuesLe font uec pus de ronS e cõe quvn ve nous donneNe peut pporter que du enCet queche et touours õneQuãdmeutte ft vn veux chẽ S es veux ontmeresQue destre ndonnés de tousCet qus nous dent tãt de fesQue nous es tenons pour des fousS e puure cocu e fcheQue on çuor v trop untCeuy qu uy met on pncheEst encore en pus çuntSperonne mptentePeut mement pruenrCest que toute choe exceenteVeut vn ong temps pour otenrS e tupde ne snmeDes cences penes dppsCet qu ne ft ps grnde etmeDes choes qu ne connot psS fut uor decencePour fre ux echecs vn on tour fut en pus de ptencePour fre vn on trt en mourS es rts percent es muresEt ne ont propres quà rongerLes Poetes ont des cnesQu cherchent prtout à mnger"
+        ],
+        [
+            "6 S des peonnes offeneesPrent nconderementDutres retennent eurs peneesEt e font uec ugementS e Frnços dt ce qu peneAors quon e veut offenerVn Normnt trtre en recõpeneNe decre ps on penerS on vot quvn uge dereDes cornes pour etre préVn utre esqu oupreEt on oe en et égréSfueur tourne en dgrceEt nous ne deesperõs pontCet que Deu qu ft quon nous cheNous peut mettre en vn pus hut pontSgrndeur demeuréePert e pett en es ouhtsCet quvne vctore esperéeNe vut ps vne eure pxS mpudque et vne otteBen que on mour ot ecretOntort de crore dotteCee qu refue vn dcret S nous deuõs crndre quvn trtreNe oge ps dãs nos monsCet quẽcore quõ ot on mtreOn ne et ps des trhonsS e chrtn qu nous preOtent ce qu veut sémentLrgenten pus dndutrePusqutout en vn momentSprere dvne dmeFt tnt deffets ur es eprsCet quee çt vn utre gmeQue es erens de CnrsSrchee et derePour netre ps vn mndenM cque ee et deporeEt cet vn m non ps vn enS Aquemte n quen oucheLrgent qu promet ux humnsCet quvn he qu e toucheNe e v ps mettre en es mnsS etocde et mportuneQue tre vn drot ecrmeurQund vn emprunteur en porte vneOn dot etre en muue humeur S"
+        ],
+        [
+            "7 S e puurecette uentureQue destre ßté du prudentCest quemondre creturePeut erur en queque ccdentS e ve quãdfemme et morteApeu de reentmentCet quefmme net pus forteEt qu sen e promptementS on mépreproePrce quee ne coute renEe net pourtntfruoeQuvn rusé nevende enScde et necereAu eu qu depend du hzrdVn qu vend nteectureDot uß entendre en on rtS on vot crotre vne mouretteQue on ne fot que pr jeuCet quvne pette uetteFt ntre ouuent vn grnd feuS on votourde ordnreAux ecrts dvn HtorenCet ce quvn Auct çt freAuxcues qu ne vent ren S on connot des tromperesAux drps quõ uge des meeursLes eprts pens de menteresFont en vor quon en trouue eursS pr oùcoueuure peLe venn demeure rresteCet ce quon remrque àtrceDvn rempy de mechncetéS hõme en qu ot meA crnte detre mréCet qu e trouue mereQundet m ppréS e en du mrgeEt pus fort quvn noeud GordenL morten de untgePour fre rompre on enS on vot quvne me odeTrue pour uor du enCet que ors quvne oure et vudeCet du cur qu ne ert de renS e fs vere peu de rmesQund on pere vent à mourrCet qu condere es chrmesDu en qu e dot ecourr E"
+        ],
+        [
+            "8 S ngrt à me trtrefeVers ceux qu e trtent e meuxCet quvn cht trtre quõ creePortegrffe dns es yeuxS es mrs crgnent e âmeEt es rches de shzrderCet que es ecus &DmeSont dffces à grderS e Mone e ert de rueCeft qunddemnde pour DeuPuquõ çt ẽ qu nous ueEt qu prent umone en on euS queque peronne et frndeDes ons morceux en on repsEt ne çt que vutvndeEe ne es merte psS cet vn m quvn coup depéeQu no met ux pés du vnqueurQue ftproe échppéeQu porte on coup dns e coeur ?S e pßoné des DmesMnque en eur dnt on ecretCet que es pẽ & es femmesOnt touours e ec ndcret S on estmefneeDvn renrd qu pene échpperQue don dre de dreeDe ceuy qu çt ttrperS dns vn mrché e rustqueY vend des veux & des oonsCest ce quvn Procureur prtqueAu Ps en toutes onsS me nest ps euréeEn voynt des mceuxFutdemeure epréeEt ne pus ren fre vec euxS e Nn donne épouunteQuntorde prés des fousQue ft mour ors qu enchnteLes yeux & eprt dvn jouxS on vot quvn homme sétonneQundmort e veut ccoterCet prce qu ct que peronneN pouuor de uy reterS e Deun proe vn neugent vne mort fuementVn grãd Preuot qu nous cõdãneL predt vertement"
+        ],
+        [
+            "9 S es odts mentguerreEt ne e pent quux comtsTous es Sophtes deterreNe reprent que es detsS me pene dnoenceReçot ouuent vn muus tourCet quegrnde voenceNet excue quen mourS eprt et en necerePour uor du contentementCet quon ne ft ps vne ffreQuen ute de on ugemeneS on pprend vne cenceS m en nostre ntonCest prce que mptenceDuertt nostre ffectonS queque ffre dmportnceA de ostce enfntPour oster toute restnceQuon nteree oppontS mnt pe on nnéeAche des fux prsCest que on me enéeLe rend ueuge en es ders S Orteur est pen de chrmesPour émouuor es pßonsLrgentdußy onnes rmesPour chnger es ffectonsS es ngues qu ont dertesOnt eurs ouches penes de meLeurs penees qu ont couuertesCchent dns eurs mes e eS quequvn dt queGrãmreNe monstre commefut prerCest quenourre oumerentrut enfnt à erSfemme vnt deruëNe guert du m quee entEe dot etre ecouruëDvn Medecn doecentS cet untge de ntreGrãd Segneur putot que uuntCet quen dõnãt on ft e mtreEt e vet en receuntS quequvn tourne en rereL rme fte en vn momentCet quee vent dvne fureEt non ps dvn grnugement"
+        ],
+        [
+            "20 S e puure n pont de goreSe voynt en duertéCet quepene et cceoreDvne grnde neceßtéSfe etnt contrefteFt quon oupre nut & ourS rchee que on ouhteEstcue de cét mourS e mgcen profnePeut fre queque chngementsCest de chnger vn homme en neQundcrot ux enchntemensS es rochers Cryde & SyeSe font crndre ns voygerCest qus ont eurs quẽ ScuePuquon vot prtout du dngerS on dot ouer AquemeCest en vne rche monOùdépene est ennemeQund ee est fte ns ron S on vot quvn hõme econdeQund vne ee veutmerCet quetãt ornemẽt du mondeS euté peut tout nmerS e ne us ps puneFnnt en ur on ujetCet quepenee de eVoe u vent dvn derner ojetS nous voyons quvn HeretqueNe smue quà dputerCest exercce dvn CrtqueContre vn qu ne peut mterS uques à tnt que on meureAu monde onm déprsCest quon ne pene de onne heureA porter pus hut es dersEtnotre me net contenteDnsrchee & es prsCet quhorms Deu toute utrettenteNe peut contenter nos ders  FN"
         ]
     ]
 }
