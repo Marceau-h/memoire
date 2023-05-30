@@ -1,45 +1,97 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-31",
+            "@when": "2022-03-10",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement donné contre le cardinal\n          Mazarin, publié le 30 décembre 1651.",
+        "titre": "Arrêt de la cour de parlement, portant cassation de la\n          déclaration, donnée contre monseigneur le prince de Condé.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau305_GBOOKS.xml",
+        "fichier": "Moreau306_MAZ.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Arrêt decour de prement donné contre e crdn Mzrn pué e 30 décemre 65 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de PrsArrêt decour de prement donné contre e crdn Mzrn pué e 30 décemre 65 Prsmprmeurs et rres ordnres du ro65 dté du 30 décemre 65 Lyon Bothèque muncpe3496TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs305 Arrêt decour de prement donné contre e c dn Mzrn pué e 30 décemre 65 Prs pr es mprmeurs et rres ordnres du ro 65 7 pges Dté du 29 T yune édton dOréns chez Ges Hototprmeur du ro 65 8 pgesprose"
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "Portant caſſation de la Decla",
+            "ration donnee contre Monſei",
+            "gneur le Prince de Condé.",
+            "A PARIS,",
+            "Chez NICOLAS VIVENAY, en ſa Bouti",
+            "que au Palais.",
+            "M. DC. LII."
         ],
         [
-            "ARREST DE LA COV R DE PARLEMENT Donné contre e Crdn Mzrn Pué́ e trentéme Decemre m x cens cnquntnA PARS Pr es nmprmeurs & Lrres ordnres du RoyAuec Pruege deMjefte"
+            "ARREST DE LA COVR",
+            "de Parlement.",
+            "CE iour toutes les Chambres aſſen",
+            "blé́es, Monſieur le Duc d Orleans y",
+            "LAeſtant, ayant deliberé le iour d’hyer",
+            "& cedit iour ſur la Lettre du Sieur Prince de",
+            "Condé: creance par luy donneée, & ſa Re",
+            "queſte contenüe au Regiſtre dudit iour",
+            "d’hyer, enſemble ſur le recit fait ledit iour",
+            "par vn Officier de ce qui s’eſt paſſé à Pont",
+            "Su onne & és enuirons, & ſur les con",
+            "cluſions du Proecureur General du Roy, &.",
+            "ettres miſſiues de Maiſtre Iacques de Ge",
+            "niers Conſeiller en la Coudr, que l’vn deſ",
+            "dits Conſeillers d’icelle a preſenteées ledit",
+            "our.",
+            "Aarreſté & ordonné que d’Office, aà la",
+            "equeſte du Proeureur General, il ſerain",
+            "formé du fait arriué à Ponunne &",
+            "s enu rons, le neufviéme de ce mois, & à̀",
+            "cette fin que ledit Officier, oüy par la Cour",
+            "ne e renda ſa depoſinos pur deuantllſree,",
+            "eolas Cheuallier, & lean Doujat Corſeillert?",
+            "du Roy en icelle: Que Monſieur le duc"
         ],
         [
-            "3 ARREST DE LA COVR DE PARLEMENTcontre e Crdn Mzrn EXTRCT DES REGSTRES de Prement CE jourCour toutes es Chmre emees Monfeur e Duc dor ens y etnt Apres uor veu pre ens es Gens du RoyLettre de cchet dudt Segneur Roy donnée à Pocters e 2 dee ce mos & n contenuë u regtre de ce jour & ecture fte deDecrton verfée enCour eA tres choes trexprees nhtons & defenes u Crdn Mzn es prens ez & do metques eftrngers ous queque pretexte cue empoy nce ou occon que ce ot de rentrer dns e Royume pys & terres de oénce du Roy ou etns ousprore ton à péne etre decrez crmnes de eze Meté & perturteurs du repos puc & à eous Gouuerneurs de Pronces & Pces Leutennts Bfs Senechux Cptues A j"
-        ],
-        [
-            "Chefs & Conducteurs de gens de guerre Pre uots des Mrechux Mres & Echeuns des Ves & utres Offcers & Sujets dudt Se gneur Roy de uy donner retrtte ny entrete nr ucun commerce uec uy pr ettres enuoy de Courrers ou utrement &ux Gencrux d meées de e receuordns eurs troupes & à toutes peronnes de uy enuoyerou à ueuns de es p ens e dometques ou utres quuroent uuy drectement ou ndreéctoment ucuns deners ous queque pretexte que ce ot ux penes portées pr es Ordonnnces & qûe es Arrets de dte Cour des& 9 FeurerMrs deux & hucteme Aout derners en eme ceux des utres Prenents donnez con tre edt C dn Mzrn eroent executez Et pres que edr eur Due dOrensdt uor dus certn que edt Crdn Mzrn etot à Scdn conere oe eoermee d djr Decrton & dedts Arrets edts Gens du Roy retrez & depus rentrez & ouys en eurs Concuons L mtere me en deerton LADTE COVRrreté & ordonneé Que es Deputez dcee en executon des Arrets des treze & vngtéme de ce mos prtrot ncemment & ront trouuer e Roy à̀ effect de remercer ed Segneur des nouuees eur̃ces qu uy pt donner portées pr dre Lettre de cchet Me mes pour executer edt Arret du trezeme de ce mos"
-        ],
-        [
-            "ce mos Et qu er ecrt deprt de dte Cout à Moneur e Premer Predent pour ppuyer pres edt Segneur Roy es dee rtons & Arrets dcee Cour Et prés es eurnces dudt eur Duc dOrens des dus à uy donnez de entrée dudt Crd n Mzrn dedns Sedn u preéudce des defences portées pr dte Decrton du Roy A DECLARE & decre es penes porteées pr cee Decrton encou ruës Ce fnt edt Crdn & es dhe rns crmnes de eze Meté́ & pertur teurs du repos puc Enont ux commu nes eur courr us & ux Mres & Echeuns des Ves de soppoer ̀ eur pge Or donne que urBotheque & meues dudt Crdn Mzrn qu eront vendus & reuenus de es Benefces & utres ens qu e trouueront uy pprtenr en Frnce & ̀ ceux qu tenter pr preference & nonotnt toures es oppotons & ppetons prsomme de cent cnqunte m ures quee er donné́e à ceuy ou ceux qu repreenteront edt Crdn ̀ u tce mort ou vf ou à̀ eurs herters EtB"
-        ],
-        [
-            "ceuy qu e repfeenter e trouué pteuen de crme er e Roy treumement up pé octroyer prdon pourueu que ce ne ot crme de eze Meté Et eront edtes De crton & Arrets executez eon eur for me & teneur Decre u es Offcers du Roy & Gouuerneurs des Pces qu e trou ueront uor fuoré e pge dudt Cr dn & uor ecorté de eurs peronnes ou de eurs troupes preement crmnes de eze Meté decheus de toutes Chr ges & Gouuernemens memes des prue ges de Noee confonmément ̀ dte De crton & udts Arrets Et er edt SeurDuc dOrens pré prCour dempoyer uthorté du Roy &enne pour exe euton de dte Decrton & dedts Ar rets Ordonne en outre que es Cone ers comms &utres eront enuoyez eés Pro unces & eux que eon er pour execu ton du preent Arret duque er donné dus ux utres Premens Et ceuy eu pué & ffché pr tout où eon er ̀ ce quucun nen pretende cue dgno rnce FACT en Prement e vngt"
-        ],
-        [
-            "7 neuféme Decemre m x cens cnqunte vn Sgné DV TLLET CE Vendrey 30 Decemre 65 Aret y deus de Noegmeurs deCour de Premenseté eu & pué ̀ on de trompe & cry puc en ous es Crrefours ordnres & exrordnres pces & eux ccoutumez ̀ fre cry & procmtons en cœte Ve & Fu ourgs de Prs pr moy Chres Cno ure Cneur ordnre du Roy enVe Preuoté & Vcone de Prs fne quee pucon etos ccempgneé de tros Trompettes en du Bor cques e Frn Jurez Trompeetes deMete edn eux & vn utre Trompete comms Sgné CANTO Cotonné à Orgn prs moy Con er Secretre du Roy Mon Cou ronne de Frnce & de es Fnnces"
+            "d’Orleans, ſera prieé d’enuoyer vn Trom",
+            "pette, redemander & faire rendre Maiſtre",
+            "Prançois Bitaut, Conſeilleren ladite Cour;",
+            "& que la Requeſte dudit ſieur rince de",
+            "Condé, enſemble la lettre de creance du",
+            "porteur d’icelle, ſeront enuoyez aux depu",
+            "tez de ladite Cour à Poictiers, & copie de la",
+            "depoſition dudit Officier arriué de pont",
+            "Sunne, pourremonſtrer tres humble",
+            "ment audit Seigneur Roy, l’importance du",
+            "contenu en ladite Requeſte; & les maux",
+            "neuitables que commencent aà̀ produire &",
+            "pportera à l’aduenir le retour du Cardinal",
+            "Mazarin en ſon Royaume: Cepédant ſeront",
+            "Declaration du Roy & Arreſts, donnés",
+            "contre ledit Cardinal executés, faititeratriue",
+            "deffences à rous ſujets dudit Seigneuroy,",
+            "d’y contreuenir & de donner paſſage, nyre",
+            "connoiſtre le Mareſchal d’Hocquincourt &",
+            "utres quiaſſiſtent ledit Cardinal en quali",
+            "té de commendants les trouppes du Roy:.",
+            "Et outre a eſté ordonné qu’il ſera ſurcis al’e",
+            "ecution de la Declaration & Arfeſt de ve",
+            "Ffication du cinquiéme Decembre dernier,",
+            "uſque à ce que la Declaration dudit Sei",
+            "dneur Roy, du ſiiéme de Seprembre der",
+            "nier, & Arreſts rendus en conſequence, con",
+            "tre ledit Cardinal ayent plainement & en"
         ]
     ]
 }

@@ -1,76 +1,193 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
+        "genre": "discours adressé",
         "handwritten_note": false,
         "table_of_content": false,
-        "illustration": true,
-        "creation": "1652-04-01",
+        "illustration": false,
+        "creation": "1652-04-28",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-04",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Avertissement à messieurs les prévost des marchands et\n          eschevins de la ville de Paris, contenant l’explication de l’éclipse qui se doit faire le\n          huitiesme jour d'avril de la présente année, et autres choses qui doivent arriver à la\n          poursuite du cardinal Mazarin, avec le dénombrement des villes qui seront investies ou\n          vexés par les gens de guerre, prédit par Michel Nostradamus",
+        "titre": "Avertissement aux bons bourgeois, sur le sujet de la\n          conférence pour la conclusion de la paix générale et particulière, avec l’exil perpétuel\n          du cardinal Mazarin",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau447_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau449_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Avertssement à messeurs es prévost des mrchnds et eschevns deve de Prs contennt expcton de écpse qu se dot fre e hutesme jour dvr deprésente nnée et utres choses qu dovent rrver àpoursute du crdn Mzrn vec e dénomrement des ves qu seront nvestes ou vexés pr es gens de guerre prédt pr Mche Nostrdmus Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202Jcques Mengu Avertssement à messeurs es prévost des mrchnds et eschevns deve de Prs contennt expcton de écpse qu se dot fre e hutesme jour dvr deprésente nnée et utres choses qu dovent rrver àpoursute du crdn Mzrn vec e dénomrement des ves qu seront nvestes ou vexés (sc) pr es gens de guerre prédt pr Mche Nostrdmus Prs Jen Pétrn 652 Munch Bothèque de Étt de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs447 Avertssement à messeurs es prévost des mrchnds et eschevns deve de Prs contennt exp ton de écpse qu se dot fre e hutesme jour dvr deprésente nnée et utres choses qu d vent rrver àpoursute du crdn Mzrn vec e dénomrement des ves qu seront nvestes ou vexés (sc) pr es gens de guerre prédt pr Mche Nostrdmus PresJen Pétrn 652 5 pges Cest e cnquème Avertssement de Jcques Mengu+ Lécpse presget «guerrefmne ctrénovton des os en Frnce » Entre es utres choses qu devent rrver àpoursute du c dn Mzrnfut remrquer ceeLe crdn sortrt de Frncesert éu ppe et couronnert Lous XV comme emp reur à SvoneMengu étt s sûr de ce derner événement qu nhést ps à e prédre encore une fos queques semnes pus trd dns e Cstéme génér u révouton du mondeetc Tours Oréns Bos Angers Rennes et Nntes étent es ves mencées pr écpsevers proseLe prnce de Condé rrve à rmée des ducs de Beufort et de Nemours 65"
+            "309164",
+            "ADVERTISSEMENT",
+            "AVX BONS",
+            "BOVRGEOIS.",
+            "7 7",
+            "Sur le ſuiet de la Conference pour la Con",
+            "cluſion de la Paix generale & parti",
+            "culiere, auec l’exil perpetuel",
+            "du C. Mazarin.",
+            "ouxte le Placard affſicheé le May 65a.",
+            "e",
+            "ueA PAS.",
+            "ce NICOLAS VIVENAY, Imprimeur",
+            "ordinaire de Monſegneur Pu cn",
+            "DC. Ln.",
+            "Auec Permiſſion de Son Aleſſe Royale."
         ],
         [
-            "AVERTSSEMENT A MESSEVRS LES PREVOST DES MARCHANDS Et Echeuns de Prs Contennt expcton de Ecpe qu e dot fre e hucteme our dvr depreente Anné & utre choes qu douent ruer pourute du Crd n Mzrn uec e denomrement des ves qu eront nuetes ov vexez pr es gens de guerres predt pr Mche NotrdmusA PARS Chez EAN PETRNAL ruë deBuchere ux tros Mrmouzets M DC L"
+            "3",
+            "Ae",
+            "pp pP: ppppeeep",
+            "ADVERTISSEMENT",
+            "AvX B0NS",
+            "BOVRGEOIS.",
+            "sovns.",
+            "* Son Alteſfe Royade, & Monſieur le Prin",
+            "ce, ne demeurent point ſi lonmps dans Pa",
+            "ris, que pour y defendre vos intereſts aux deſpens",
+            "de leur bien, & au hazard de leur propre vie;. Et",
+            "leurs ennemis & les vô̂trres ſe ſeruent de toutes",
+            "ortes d’inuentions pour vous denir, can’eſt quie",
+            "pour y reſtablir le Cardinal Mazarin ſur la perte",
+            "generale de tout ce qu’il y a de gens de bien qui",
+            "ne le veulent point fouffrir.",
+            "Les mauuaiſes impreſſions qu’on taſche de jattes",
+            "dans nos eſprits ſur le fujet de la depuration qui",
+            "eſté faite, eſt vne marque de leur malice; L’on",
+            "eut aiſement connu cette verité́, ſi l’on euſt ſçeu",
+            "que Monſieur de Chauigny eſt le plus grad enne"
         ],
         [
-            "Extrst du Pruege du Roy PAr grce & Pruege du Roy donoédps e dme our de My 649 Sgné Pr e Roy en on C e GVYTONN E A Vet pernns M cQs Meov Proeeur és Mthemtques de fremp vn Dfonre erums dexpcton des ots es pd es deqes es ons Cofogrphes Geegnpe Aromomes ot pé for ocement t pr Eg4 Ememes Pnoesr qs pr Pgres Portnt defene à tous utres mprmeurs & Lrres de contrefre e Oeuoures dudt MENGAV pendnt dx ns à̀ pees deux m ures dmende de confcton des Etmp res & de teove uuuere omme pme à pen et cou udt Prege"
+            "4",
+            "my duC. Mazar. Et l’on n’euſt pas ſans doute man",
+            "qué d’imputer a Meſſieurs les Primces, qu’ils auoient",
+            "deſſein d’eterniſer les guerres ciuiles, s’ils euſſeac l",
+            "olument refuſé d’eſcouter les propoſitions d’ac",
+            "comodement, que la Reynae d’Angleterre fit à",
+            "S.A.’R. & à Monſieur le Prince; Mais apres auoir",
+            "teſmoigné à la face de toune l’Europe qu’ils n’ont",
+            "rien tant en horreur que les deſordres, que la pre",
+            "ſence du Cardinal Mazarin rendra d’auſſi longue",
+            "durée que ſon miniſtere ſubſiſtera, ils feront con",
+            "noiſtre à tout le monde qu’ils n ſongens à rien",
+            "moins qu’a s’accomoder auec luy, n’ayans doaneé",
+            "ordre à ceux qui ont eſté deputez de traiter, que",
+            "prédablementil ne fut chaſſé pour iamais du",
+            "Royaume.",
+            "Si Meſſieurs les Princes n’ont empeſché que les",
+            "tronpes duCardinal Maarin ſe oient approchées",
+            "de Earis’eſt por n’mmoir voulu fauſſer ’da parode",
+            "quils duient donniéh au Parlement de ne laiſſer",
+            "point venir leur Atmée à dix lieuës de certe ville;",
+            "Comme pareillement le Mareſchal de l’Hoſpital",
+            "ueit prouis de la part de la Cour; Et Monſieur le",
+            "Prince n’a poinc ceu leur deuoir uenirau deuant,",
+            "pour oſter à ſes ennemis le ſujet de pouuoir ac",
+            "cuſer d’auoir attirépar ſon approchela guerre a vos",
+            "purtes. La Courtemoignant en cette occaſiõ auoir",
+            "de"
         ],
         [
-            "3 AVERTSSEMENT A Meeurs es Preuot des Mrchnds & Eheuns de Prs Coutnnt expcton de Ecdpe qu e dot fre e hucfeme our dAvrdepreente Anmee & u tres choesqu douene rruer ̀pourute du Cr dn Mzrn ec e denomremer des Veq eront muetes ou vexeez pr es gens de Guerres predtes pr MceNotrdmr ns eE vS Oude ce grnd Pte Ltn ynt eté oup conné duor dr queque Proe crtque con tre certns Senteurs Rmns ent deve de Rme pour queque temps & dernt retourner dns eur enne grce ft certn peLure à eur oünge qu eur enuoy ecret ement en ces pepres teme Vde Ler ver e mes r grr n vde ed ncuus qurms dece?s e emqud Domuo nepcetre Vtn"
+            "5",
+            "de treauuais deſſeins cõtre la Capirale du Rõy",
+            "aume par les frequents actes d’hoſtilité qu’ils yexer",
+            "ceroiét tous les iours, ſi les Courreurs que Meſſieurs.",
+            "es Princes enuoyent de toutes parts pour conſeruer",
+            "liberté du Commerce, & la ſeureté́ de ceux qui",
+            "vous porrent des viures, ne les euſſen empeſchez",
+            "de les executer iuſques dans vos murailles; y ayants",
+            "pour ce ſujet fait entrer des vagabonds, qui ſous",
+            "eur nom exercent mille maux, auſquels on a",
+            "commencé de remedier, pour obuier aà tant de tra",
+            "hiſons qu’on y pretendoit faire reiſſir par cette meſ",
+            "chanceteé́.",
+            "Les puiſſantes raiſons que Meſſieurs les Princes",
+            "ont de ne vous point epoſer à̀ la Campagne, ne",
+            "doiuent point eſtre publiées, pour en oſter la con",
+            "noiſſance aux Mazarins; Et les aduis que l’on a",
+            "eus des mauuaiſes intentions de pluſieurs Bour",
+            "geois preuenus & gaignez, n’ont pas peu contri",
+            "bué à̀ cette reſolution que l’on a priſe de ne vous",
+            "peint laiſſer ſortir quand vous l’auez demandé;",
+            "ſçachant treien que tous les zelé́s ſeroient libre",
+            "ment allez au deuant du Tyran, cependant que",
+            "ceux de ſon party ſeroient demeurez dans Paris",
+            "pour y eſclorre des pernicieux deſſeins, inſpirés par",
+            "es ennemis de Meſſieurs les Princes, & pour ſe ſai",
+            "ſir de tous les meilleurs poſtes de cette ville, ce"
         ],
         [
-            "mon Lure de m prt ür es eux Scrés ms que que ce ot en ecret & tout n quvne pe onne ne pourrot fre puque ton Mte n pserté dy er e ne çy ps Meeudns es uertements que e vous y de ény urot eu queque proe crtque qu of fené queque Prtcuher ou ss ne vous ont ps eté grees pour nuor ps eté conformes ̀ vos mertes eence que vousenuezft me t douter e çy en qu ny eu ms ucun pro phte qu fut en receü̈ dnsptre cetp our quoy y pencé́ me retrer pour queque temps de cette ve dememe quOude ft de cee deRo me vous uppnt pour cette fos receuor exp cton dvn Ecpe qu e dot fre e huct me dumos dAvr prochn enuron es dx heures dmrn eque er teénereux &epouuns sen et veüdepus nencede Chr L rencontre de ces deux grnds umnres e er dnsmon Roye du Ce u gne du Mou tun mon de Mrs & duretprequtoôs res es effecs de cette opeconmeneroue uron e 6 du mos de us et prohu p d Guerres cruees ms teement crues qus e Sodts mms fent fouue des queroes &eeé d ordr ergrnd prmy ex quours e noerone eur ren dre dutn que oomonmt Ecpe e fer dn mn Rpye du & fud qeespus grnds ufent duodouujets"
+            "6",
+            "qui eſt important d’empeſcher; C’eſt pourquoy",
+            "s ſont obligez de vous conſeruer pourſeruir d’ob",
+            "ſtacle aux conſeils qui ſe prennent tous les iours",
+            "contre Paris, ou de s’en venger, ou ’y introduire",
+            "e Cardinal Mazarin. Ces raiſons, & bien d’autres",
+            "plus conſiderables, les obligent d’attendre le ſecours",
+            "qui leur vient ſecrettement de diuers endroits, afin",
+            "de laiſfer touſiours la 1erraitte de Paris aſſeureée",
+            "ous la garde des fideles Bourgeois.",
+            "Le Procureur Gentral contre la Depuration du",
+            "quel l’on crietant, n’a point eſté́ enuoyé par Meſ",
+            "ſieurs les Princes, mais par le Parlement, qui a",
+            "voulu ſçauoir la derniere reſolution de la Cour (qui",
+            "n’auoit fait nulle reſponceauant d’y proceder au",
+            "trement.",
+            "Les bruits que l’on a fait courir que M. le Prince",
+            "uoit tacitement fait ſon acconodement, ſont auſſi",
+            "faux, que celuy qui les a inuentez eftmalicieuxx; ce",
+            "n’eſt point d’aiourd’huy qu’il taſche de le décrier,",
+            "& u’il met en vſage toutes ſortes d’artifices pour",
+            "e rendre ſuſpect & odieux au Peuple; mais les pu",
+            "bhiques proreſtations qu’il fait de faire e irleCar",
+            "dinal Mazarin iaſtifint laſinctrité de ſa conduite:",
+            "Les fommes immienſes qu’il deſpend d uis huit",
+            "ois pour luy faire la gnerre, ẗſmoignent aſlez",
+            "queſes intereſts n luy lonr poin i chers oae:c u"
         ],
         [
-            "ere 5 ujects e Mtre deferer u vet e Segneur à on v de mnere que nous verrons vn Sece contrre ̀ron ou pourmeux dre e monde renuereé Ms comme cette Ecpe e fer dns e gne du Mouton es fts romeront ur ceuxdont eur ps e trouuer domné pr ceuy entre eques ont comprsBretgne Aemgne Angeterre & vne onne prte de te prt cuerement ceux qu ont mtrophes des Mers comme u ur ceux qu ont pour cendnt e Sgne duMouton & des ens prtcuers chmps pturges & eu de utce cet uunt opnon des Atonomes de ce temps Ms notte Orce Frnços y oute depusdeoton de certnes ves qu ont en Prnce &fmne dns tros n dcy dequees vesenft vn Ctogue pr e Qutrn vngteme depremere Centure dontteneur et ee Tours Orens Bos Angers Rennes & Nntes Cteé́s vexées pr ut chngement Pr ngues etrnges rone renduẽ Tenres Feuues Drs Rennes terre Mer trememént ee vot pr ce Qutrn toutes es ves qudouent etre vexées pr es gens de guerre & e commeve dAngers e trouue nottée ou p q cé́e u mtnt du Ctogue e treuue nenmonspremere tquée & en honneurpr ce qque ore oree preueuun queeseyr ouendcee etoent es pus contns pour e eruce deB o? 3"
+            "du Peuple, par le refus qu’il a ſi ſeuuent fait des",
+            "grands àduantages, qu’on luy offroit, s’il eur voulu",
+            "er , encores l’adminiſtratin des affaires de l’E",
+            "ſut entre les mains du Cardinal Mazarin ou ſouf",
+            "ffir qu’on luy eut donné vne place de refuge dats",
+            "e Royaume, ayant touſiours genesouſemereſ",
+            "pondu,: Que le og a’ofte vas nesſuuernefmnts",
+            "qu’il ſe ſaiſiſſe de mon bien; & qu’il me dépouille de",
+            "foaut ce que ie poſſede, pourueu que Maarin ne ſub",
+            "ſſte. Apres ces paroles qu’il reitere ſi ſouuent, &",
+            "es preuues qu’il donne tous les iours de ſa ferme",
+            "reſolution, ie m’eſtonne qu’il y ait des Pariſiens",
+            "ez credules pour ſe laiſſer perſuader par leurs pro",
+            "pres ennemis.",
+            "Meſſieurs les Princes font ſi bien veiller ſur les",
+            "paſſages de la riuiere, qu’il eſt certain qu’il n’eſt",
+            "point deſcendu vn grain de bled à ſainct Germain",
+            "depuis que la Cour y eſt, & ſi ce que l’on vous dira",
+            "contre leurs intentions eſt capable de vous émou",
+            "uoir, les Mazarins ne manqueront point de vous",
+            "donner ſouuent de telles alatmes pour vous dé",
+            "truire en vous détachant des intereſts de Meſſieurs",
+            "es Princes, qui ne ſont que les voſtres. C’eſtpour",
+            "quoy vn chacun doit attendre ſans deſordre l’eue",
+            "aement de ces affaitres; La foy des Princes eſt in",
+            "uiolable, & leur propre conſeruation eſtinſepara"
         ],
         [
-            "9 es Prnces & pour montrer exempe x uttts qu ont dnsmeme ctegore de fre meux pr quee etrnges eront tendues Temtes ces ptodes metonnent dvn coté qund ees dent que e Etrngers e cmperont deunt ces Ves & du tre prt e ne metonne pont dutnt que e Pouonnos vennent en Frnce pour outenre Mzrn qu fut entendre pr ces mots Feuue Drs Renes Terre & Mer tremem entny que es Pouonnos qu e eruent de drs & deques e Mzrn pue eperer du ecours ms u grde es Angos ceux de Nntes & de Rennes pren dront grde àeurs Ves Le deordre ne er ps euement en Frnce qu e er pr toute Europe ms entore pr touteTurque pendt tos ns & comme cette Ee pe e fer dnsmon Roye es pus grnds Monrques eront ttqués dontpus prt des grnds Segneurs nuront pont de eux euré pour eur demeures O que de Cheuers Errns es vns chngeront de qurter & dutres de Do mce qu ux chmps Eéeso que de vgonsnspu or nuor n que notre Orce Fr cosremrqué dnsCenture 6 Qutrn & e vous ure quu prunt que Année e pe pueurs déogeront ns Trompete Nutre r ce prnt de cette Ecpe dt quee ne gnfe poseuementguerre ms encorefmne à que e peronne nur pont pnee ft de cete"
-        ],
-        [
-            "Ecpe ne durot pont tros nse fudrot mo quer de notre Orce dutnt que cette Année nous urons pour domnteur de umerep nette upter eque nous promet vne Annéeez fructueue Ms cue que es gens de Guerres run nt tout & empechent en ouuent quon ne eme pont nous pourtons uorfmne urfn des ttos Anneées outre que Sturne e m heureux gouuerner Année prochne 64 e que nous gter es eds queronturterre prgree qu tomeron ueüDeu prgrce nrete on nfuence pour ce qu regrde cette Ecpe qu dot rruer u mos dAvr no ftre Orce dt qu preger fnne & que nen mons deux grnds deonnres nous terone & nous donneront de eurs eds pour de rgent cet pr e Qutrn cnq detroeme Centu re & pr e Qutrn 34 dememe Centure j pr e cnqueme de Pres ong de tnt deds grnds uomnres Qu uruendr entre Avr& MrsO que crse ms deux grnd deonresPr rerre & Mer ecourront toutes prtsEt pr e qutrn 54 dememe Centure O Q rce dt de pus qu protr certn Montre e u memne temps que E pe commencer dee fre eque preger u fmne & que nent s mons on nterpreter tout utrement ce er ecue que pueuts eront urprs de fmne"
-        ],
-        [
-            "8nynt ps ft prouon n qu dt Qund e defut du Soe ors erSur e pn our e Montre er veus Tout urrement on nterpreter Chrte n grde nu ny ur pourueu Quntmoy e cros quu prunt qee es tros Année e pent que nous erõs ttquez de fm ne prce que ceque notre Orce dt pr es deur Qutrns e rpporte àdomnton du gne du Mouton qunt ux eux de pturge chmp & de utce qu eront defrchez pr es gens de Guerres & n deproueus de pouuor e re ceur Qunt à̀ ce Montre qu dot protre à mene temps que cette Eccpe e fer e ne vous vou dros ps eurer que ce n fut ceuy du que nou uons pré dns nos precedns uertenéts qu doe ntre procheve dArgoneceet e fer de terres ttques or en Guyenne quenBourgogne Chmpgne & utres eux qu ont ur e chemn de Tours & de Lyon Le gne du outon ne domne ps euemet tous es udts eux que nous venons de nommer Ms encore es eux de utce pr doue con derton L premere et fondé́e de drot uunt opnon de utnn qunddt dns es nt utes que es ox nont pont déft ns es rne & comme es gens de utce ont dms ux eu & pce des Ros pour fre mntenr eurs conttuons"
-        ],
-        [
-            "ttutons & Ordonnnces Ecpe du Soe e fnt dnsmon Roye du Ce qu regrdeuthorté des Rosfut que es gens de ut ce e reentent de cette nfuence cet ce queé mere Qutrn 6 qund dtgrnde perte s que feront es etrtres? notre Orceft encore vne utre remrque contre es gens de utce e ques eront meéprez à̀ meme temps que e Royortr hots du Royume cet prCenture 6ennotre Oreeremrqué́ dnsCenture pre Qurrn s ors qu dt Ceux qu etoens en regme pour çuor Au oy chnge deuendront puurs Vns exés ns pu or nor Lettrés & ettres ne eront ̀ grnd prx Pueurs peronnes de Condton mynt de mndée Roy reuendrot en tot dns Prs e eur proms que en ferosrecherche de m ere quynt eonuté́ notre Orce vons treu ué qu ny uot ucune prnce qu y reunt de ongtemps oufut pr queque conentement eeret ms comme nous uons dt ceunt que e Roy dot ortr hors du Royume (Quee p pcetce y urot qu reunt à Prs Ce net ps opdon de notre Orce ny es entments du Crd pus que toute on eurence depnd detre touours proche deMeté à queecme tout es ours endnt Ler me Domeperequemtus meC"
-        ],
-        [
-            "e us teement oux deproperte de cet te onne & ncompre ve de Prs quee ne ceery ms de procmerruns dont ee et menee quee dot rruer u meu de certu ne px ecrete qu e fer à on nceu n que notre Orce à remrqué dnsCentures Qu trn 86 ors qu dtCet pourp cuteeus conmme Mrres Feront entree dArmee Prs cueEt à meme temps on tcher de gneron A tee Roye pr des offres untgeues nquenotre Orceremrqué́ dnsCentureQutrn qurente cnqors qu dt Lomre due regne de Nurre nmon vy Ferve de orte egtme Lueu proms ncertn de Cmry Roy Oens donr Mur egtmeS on Artee Roye e e emporter ps ces offresy urot en du mheur ce quee ne cros ps pus quee à ft vne cton ces oun p éepus goreue &pus heroque qu en ms ynt refueé ce que e pus grnd onu que urot recherche uec pon à̀chrge u resfos que e Crdn demeurerot en Frnoes comme es rtfces ont connus & quedemeu re erot preudce u en de Ett on A tee Royeprefere uourdhuy nteret du p c n en propre ynt refué honneur queRoy uy fot pr ces offres ce qu ftvor fouc 2"
-        ],
-        [
-            "2 e o eprt &gtmdeur de on courge hors de toute comprrCe Prnce genereux & dcompre prudence n ms pru uec tt dect & uec tnt de con tnce quon refunt e retemeét du Crdn On ̀ remrqué quegore dAexpndre fut ornée & cee dHercue ce àmeure que eurs vertus perdrent eur ee rfot uour dhuy mettre en pree cesdeuéros ucc on Atee Roye ontrouent qu ny u rot ueune orte de proporton puque ceuxont eté vneus pr eur mton & pr eur v ce tout u contrre on Atee R oye trom phe de vne & de utre de mntoh pr e mé prs des offres quon uyfr & des vces pr n cnton quà uurevertu ns uor ms eu utre oect en toutes es ctons quego re de et & e repos du puc S on Aree Roye et touours ferme & con tnte n que e croyne fut pont mettro en dffcuté que e Crdnne orte deFrnceonremrquéce que nous uons dnpr root os uenc ments éomme e Crdn senur dns Augnonet contnt que de tee fçon que c commedement e fefsdr touous que e Crdn orte hors deFrnces ms e pre e qu ne ot pom quuee e Ry ptce qu er̀ ft n St urdcte ̀ coures es meés denos Prn"
-        ],
-        [
-            "2cés ous ponrrons dreue on gene en e puntet en vry dt notre Orce qu fer choeshutes qus furperont es Ceur cet à dre es penez des hõmes es pus udceucet prCenture e Qutrn ors qu duA chefdu fmouode e grnd Cne Ps dore pres ym crns redoté Son rr & os es Cex pee Et d euttne ter fors coententS on condeece Qurn on crouuer que e Crdn dot pruer u pus grnd ThroedeMorche Chretenne qu fut entende pr ees mos u chef du Mnde e grnd Cretet & deous puuous dre qu utens outre que uut ce que notre Occe dr que ce temps ̀fer de grndes Aemé́es equeeondr uec cees du Roy pous orsfe trompher es Armes de Frnce pr tout Vnuen eet prCenureSrn 5 os qu dt Auqd temps rmes ns on mm oses cer de eorex de Purose Pt gtochttoreCet pou vous deue edecherde peronne du Ro p desffres de Frns ceetntfud demeuses dcord uee nore Orce qu n grnd gone y puy dtenos nes queoù̀ es Ro poent eurs tre e connoot pendnt ep ns & note Cnoeex dt en u du Cr"
-        ],
-        [
-            "n Mzrn eque pour ron de ce ne trouuer pont de eu pour on eurnce pr ce que per onne ne e voudr pont oger que prforce tnt e rendrheDeurs reconnont on crene e voudr pont confer en nue prt prtcuherement ux Pronceux à cûe de quoyoger prm es chmps oucmper nec de Tentes & Puons tont n que feot Oofenes ener des Ar mées du Roy Nucodonofor cet ce que notre Oreremrque dnsCenture5 Qutrn6 ors qu dt E eu ere rer on Puon Et ne oudr en Ctez prendrepce Ax Crpentrs e voce on cuo Pr out ces emx orrreDe mnere que nous voyons pr ce Qutrsn eomme e Crdm emper prmCmpgne etnt dnsProuence qufut enrendre pr ces ots & ne voudr en Crés prendre pce x Cpents e ocs MdntonEt pr ce querous es eux qu ne e voudront ps receuor es runer urnt qu uy er po ecet pourquoyferprer de uy pendnt ept ns pr oùper qu fut entendre pr ces mots prtous ces enx ortreApres cé e Crdn sen t dns tencu e de nouuees ffres qu ufctedoutre que es Tures tenmoonue fenont descoures pr toute D"
-        ],
-        [
-            "Mer medrernée uques én pres de Me e & comme e eroy e Crdn fe on eourdnsve de Suone ynt touours e Roy ne que uy & dns queque remps pres e Roy e ceur e Sceptre mpr udt eu de Suonenh que notre Orce remrqué dscentureû Qutr 9 ors qu dt pendnt que Ae&ee Coeq à Suone econt vns ce qu et enooes pus remrque prCenture 5 Quttn 6 ors qu dt de Roy vendr Epereur pcfqueS metot peorns de vous drecue pourquee e Crdn qutterve dAugnon vous en erez etonnés u c que rmoymse epsnous e fer conofte cef rtunt ot dr(ee que Deu grde et e grdé Son Atee Roye dechsgerFucevn grnd Moropoe proe que e Rons egouu queques vns à on uen Den prgre eyes mntenr dnsone vooé qupreen ment pour e en &g e repos de puteNoeetos creuFrnce ferot des persprtceres & pour e Roy & pour SonArefeRoyde & pous cue nfnvn Mrmton rendr vn grneruce u Roy n que notre Orce renrqu dnsCenture Qu 4 S e Gouuerneur du Hdeds Gtce ne ç pont oud u Tromfe de Thooe e envye uy ppoendre (cet qu epnone en pn qu prege gnde Ccsdn Mrn q"
-        ],
-        [
-            "5 e Prement de Prs ̀ ft qutterprte nent mons etnt reuenu depus e vngt qutreme Decemre reprs on eu & uré qu ne qut ter pontprte quon ne ot à deux de eu Dns utre prte nous prerons de ce qu e per dns Augnon Crpentrs & utres eux de on pge comme u dedeoton de cnqves des pus notes qu ont dns Euro pe FN"
+            "8",
+            "e de la voſtre, ainſi imagineous qu’ils ne s’en",
+            "deétacheront iamais; le ſuccez en ſera auſſi aduanl",
+            "tageux que nous le ſouhaittons, pouueuque les",
+            "Mazarins ne ſurprennent point la ſimplicité des",
+            "Peuples, & que les gens de bien attendent auec vn",
+            "peu de patience le dermier effort qu’on ſeprepare de",
+            "faire bieoſt contre la caballe des Mazarins."
         ]
     ]
 }

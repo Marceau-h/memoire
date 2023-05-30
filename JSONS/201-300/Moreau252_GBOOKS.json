@@ -1,37 +1,93 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "texte officiel",
-            "arrêt"
-        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-03-30",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, par lequel il est enjoint\n          , à tous comptables, fermiers, traitants et autres particuliers, d'aller au greffe de\n          ladite cour faire déclaration des deniers par eux dus, recélés ou retenus, dans trois\n          jours, à peine de confiscation de corps et de biens.",
+        "titre": "Arrêt de la cour de parlement, donné, toutes les chambres\n          assemblées, le 8 mars 1649, en faveur du maréchal de Turenne, et pour autoriser l'entrée\n          de son armée en France.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau252_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau253_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement pr equeest enjontà tous comptes fermers trtnts et utres prtcuers der u greffe de dte cour fre décrton des deners pr eux dus recéés ou retenus dns tros jours à pene de confscton de corps et de ens Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Prement de PrsArrêt decour de prement pr equeest enjontà tous comptes fermers trtnts et utres prtcuers der u greffe de dte cour fre décrton des deners pr eux dus recéés ou retenus dns tros jours à pene de confscton de corps et de ens Prsmprmeurs et rres ordnres du ro649 mrs 649 Lyon Bothèque muncpe de LyonRés 38028TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs252 Arrêt decour de prement pr equeest e jontà tous comptes fermers trtnts et utres prtcuers der u greffe de dte cour fre d crton des deners pr eux dusrecéés ou retenus dns tros jours à pene de confscton de corps et de ens Du 2 mrs 649 Prs pr es mprmeurs et rres ordnres du ro 649 4 pgesprose texte offce rrêt"
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "Donneé toutes les Chambres aſſemblées le",
+            "huictieſme iour de Mars 1649.",
+            "EN FAVEVR DV MARESCHAL DE",
+            "Turrenne; & pour autoriſer l’entrée de ſon",
+            "rmée en France.",
+            "A PARIS,",
+            "Chez Gervais ALLIOT, Marchand Librai",
+            "re, proche la Chappelle S. Michel, dans la",
+            "Cour du Palais.",
+            "ET",
+            "ACQVES LANGLOIS, Imprimeur du Roy, vis",
+            "à vis la Fonteine ſaincte Geneuiefue,",
+            "à la Reine de Paix.",
+            "M. DC. XXXXIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "A rre d DE PARLEMENT PAR LEQVEL L EST ENONT A tous Comptes Fermers Trtns & utres Prtcuers der u Greffe de dte Cour fre decrton des deners pr eux deus receez ou retenus dns tros jours à pene de conf cton de corps & de ens Du dexeme Mrs m x cens qurnteuf An e u n APARS Pr es mprmeurs & Lrres ordnres du RoyM DC X L XAuec Pruege deMjete"
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE iour la Cour toutes les Chambres aſ",
+            "ſemblées, le ſieur Prince de Conty a di",
+            "Que le ſieur Duc de Boüillon eſtant in",
+            "diſpoſé, l’auoit prié de faine entendre la Cour,",
+            "qu’il auoir receu nouuelles du ſieur Mareſchal de",
+            "Turenne ſon frere, lequel s’offroit auec ſes trou",
+            "pes au ſeruice du Roy, de la Cour, & du public,",
+            "contre l’iniuſte oppreſſion de l’Ennemy de Eſtar",
+            "Le ſieur Coadjuteur à l’Archeueſché de Paris, a",
+            "uſſi dit, Que pour trauerſer le iuſte deſſein dudit",
+            "Mareſchal, I’on auoit eontre luy donné vn Arreſt",
+            "du Conſeil & Declaration, qui le declaroir crimi",
+            "nel; Que meſme l’on auoit cherché tous moyens",
+            "pour deſtourner ſes troupes, & de ſe ſaiſir de ſa",
+            "perſonne. RQveroirt ledit fieur Mareſchal",
+            "eſtre joint aux intereſts de ladite Cour de cette",
+            "Ville, que ce quiauoiteſté contre luy, fait & don",
+            "né, fuſt declaré́ nul, & qu’il fuſt conſerué en ſa Per",
+            "ſonne, Fortune & Biens; auec pouuoir d’entrer en",
+            "Erance auec ſeſdites troupes, pour la deffenſe de",
+            "Cette Ville: Et qu’ordre luy fuſt donné pour la ſub",
+            "ſiſtance: La matiere miſe en deliberation, Ladite",
+            "A ij"
         ],
         [
-            "4 Gener proedéextrordnrement contre es refuns & coupes & eeux puns des receez ou retentons de dts deners uuntrgeur des Ordonnnces & Arrets memes prconfcton de corps & de ens comme ynt comms e crme de Pecut ns que dte pene pue etre moderée ny es coupes dechrgez dcee pour queque cue occon & ous queque pretext que ce ot Et fn qu en oe ft vne excte recherche & que edts deners puent etre ndquezCourccordé & ccorde u denoncteur dceux e huctéme dedts deners deus receez & retenus depus dte Decrton du 2 OCtore derner juques à̀ preent & e ters de ceux deus receez ou retenus uprunt ce eneme des men des & con fctons qu eront dugeées en conequence & ede huctéme & ters dedts deners mendes & confctons deurez udt denoncteurmpe qutnce en vertu de Arret de condemuon qu nteruendr urdenontton Et er e preent Arret eu & pué à on de Trompe &ery pue & ffché és Crrefours de cette Ve & Fuurgs à ce quuun nen pretende cue d gnornceFAT en Prément e deuxeéme Mrs m fx 7rcens qurnteuf SgnéV TLLETE huttme our de Mrsc cens qureuf A t ceus de Noegneurs deCour de Prementete eu & pué́ ̀ on de Trompe & cry puc pr tous es Cr refours ordnres & extrordnres de cetre Ve & Fuurgs de Prs pr moy en oer ur Creur ordnre du Roy enVe Peeuoté & Vconmté de Prs & ffché pr tour o eoneté Até de Dder Ordn en du Sos & cques e Frn urez Trompettes du Roy edts eux Sgné́ OSSR Ae u?"
+            "Covr a decla & deceedonſeiſ u",
+            "Declaration, ſi aucuno ya, cont ledit Marſcdhal",
+            "de urrenne, nulle & de nul effet; ORDoqus",
+            "fans y auoiefgasd, aura tous pafſages ibres pourj",
+            "entrer auec ſes, toopes usd Ryaume pour le)",
+            "eruice du Roy, deffenſe de la Cour, decete Vile;",
+            "&d Pblie. Ea o à tos Oeiers &e aej",
+            "du Roy de luy beyr , LEv Ee defeleie)",
+            "empeſeher ehr quelque orte & maniere qee!",
+            "oi. O oo n en outre qu’d demeurerd jne",
+            "ux intereſts de ladite Cour & de erte Vllle; Ce",
+            "pendant fera iceſſamment faict fondspirfour’",
+            "uir & adet ha biſian deſdites troopes , l",
+            "permet prendre les déniers des Receptes deslicux",
+            "où il paſſera, iuſquesà la ſommede rois censmille",
+            "uaes,pout la ſubfiftaneed’celles roupes; dnſt́,",
+            "ra donmé aduis au fieue &de Lofgueufſle, à",
+            "oas quil nppartiendra. F 1 en Parlement le",
+            "huicieſme Mars i649. Signmé, D Tis"
         ]
     ]
 }

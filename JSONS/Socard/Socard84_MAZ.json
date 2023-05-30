@@ -1,96 +1,138 @@
 {
     "entête": {
         "form": "vers",
-        "genre": [
-            "stances",
-            "élégie",
-            "lamentation"
-        ],
+        "genre": "pamphlet",
+        "subject": "Scarron",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": "Guerre franco-espagnole (1635-1659)",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-04",
-            "@who": "AB"
+            "@when": "2022-08-09",
+            "@who": "MF"
         },
-        "titre": "Tombeav (Le) de l'Espagne ou les victoires des\n          Francois",
+        "titre": "Touche aux plumes vénales et ingrates de ce\n          temps.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Socard84_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Socard85_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Tomev (Le) de Espgne ou es vctores des Frncos Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Le tomeu de Espgne ou Les vctores des Frnços Dedé à monsegneur e mresch de Schomerg Prs Guume Ssser 649 Prs Bothèque MzrneM0574TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers stnces suves dune éége Stnces dédctores u mréch de Schomergextrt depermsson 29 octore 649 sgné \"dAury\" \"Anoesse Stnces\" sgné \"C M\" 84 Tomev (Le) de Espgne ou es vctores des Frncos Dedé à Monsegneur e Mresch de Scho erg ÀA Prs chez Guume Ssser 649 ° de 22 pges On trouve sous ce ttre es pèces de vers suvntesStnces à Mgr de Schomerg stnces àNoesse sgnées C M e tomev de E pgne es vœvx et souts deFrnce povrprosperté de ses Armes» Eegevers stnces éége menttonGuerre frncspgnoe (6359)"
+            "TOVCHE",
+            "Aux Plumes venales & ingrates de ce Temps.",
+            "ESPRITS qul voue plaiſez dans les ba",
+            "dineries,",
+            "Et qui fols adorez le plus ſot des Mortels,",
+            "En dreſſant à Balſac de ſuperbes Autels,",
+            "Pour vanter hautement toutes ſes reſueries.",
+            "Permettez auiourd’huy que dans les Eſcuries,",
+            "De ce grand Richelieu dõt les faits immortels,",
+            "Par ce fameux ingrat ſont rendus sriminels,",
+            "La Berne ſoit le nrie de ſes Friponeries.",
+            "Et toy Prince admiré par tes exploits fameux,",
+            "Quâd ce Riche Faquin qui iadis fut ſigueux,",
+            "Te preſente ſes vers pour auoir tes piſtoles,",
+            "Pourquoy ne luy dis tu, va Caimant, a Ca",
+            "gnart,",
+            "I’abhorre ta perſonne, ie deteſte ton art,",
+            "Puis que tous tes eſcrits ne sõt que monopoles?"
         ],
         [
-            "LE TOMBEAV DE LESPAGNE ou LES VCTORES DES FRANCOS Dedé ̀ Monegneur e Mrech de SchomergA PARS Chez Guume Ser mprmeur & Lrre ordnre du Roy ruë des Corders proche Soronne ux deux Tourees M DC XXXXXAuec Permßon"
+            "QViconque de Balſacveut connoiſtre l’hi",
+            "ſftoire,",
+            "On la voit pente icy de ſes uiues couleurs,",
+            "C’eſt le Prince des fols, c’eſt le Roy des men",
+            "teurs,",
+            "C’eſt vn homme noyé dedans la vaine gloire",
+            "Ses eſcrits ſont meſchans comme ſon ameeſt noire",
+            "Son langage affecté repreſente ſes mœurs,",
+            "0",
+            "Et pour auoir du bien, pour auoir des hõneurs,",
+            "vendroit Jeſuhriſt, l’Autel,& le Ciboire.",
+            "Enfin Balſac eſt tel à ce qu’on dit en Cour,",
+            "Quil eſt Maiſtre paſſe à faire vn mauuais",
+            "tour,",
+            "Et qu’iln’a luy,y ſy pve v ne y vuſene.",
+            "Mais puis que ces ingrat blaſme ſi hardiment.",
+            "Ceux que dans ſes eſcrits ils vantoit haute",
+            "ment,",
+            "l faut en le bernant punir ſon impudence."
         ],
         [
-            "e e  Aee  N  es5   e  A  5é  A MONSEGNEVR  MONSEGNEVR  rT TCHARLES DE  SCHOMBEG  DVC DHALLVYN PARE T  Mrech de Frnce Leutennt Gener des  Armées deMjefté en Ctogne  Gouuerneur de Mets &c  STANCES Ge e der qu peque mon onrss o r enr ene u e e eon  A tes huts fts ectoreux Qu pue rter de prter ton nge  A j"
+            "JE ne ſuis point fauteur de la Pourpre exilee,",
+            "L Le Maarin n’eſt point l’obiet de mon eſprit,",
+            "Qu’il ſoit vif, qu’il ſoit mort, à Cologne,",
+            "ou Madrit,",
+            "e m’en ſoucie fort peu, & moins que de Põpée.",
+            "Mais ie ne puis ſouffrir vne ame accouſtumée,",
+            "A meſurër ſa plume au niueau du pre fit,",
+            "Et qui blaſme hardiment vn homme ſans",
+            "credit,",
+            "Apres auoir ſlatté ſa fortune paſſée.",
+            "Ainſi fait vn Balſac qui pour cent eſcus d’or,",
+            "Loueroit dans ſes eſcrits Tabarin & Mon",
+            "dor,",
+            "Alnfi ſis r Dov eo laaaooo Aa o ſtre hi",
+            "toire,",
+            "Mais puis que Maarin n’a ny ſou, ny teſton,",
+            "Pourquoy ne pel pas employer le baſton?",
+            "Pour dompter ces Coquins qui s’en font tant",
+            "à croire."
         ],
         [
-            "4 et vry grnd ScnoERe e fery toujoursgore  Dempoyer mon eprt ̀ ton contentement  Pourueu que tes yex euemsent  D temps de ten or honore mon htore  Les ruux moens qu ruent m fortune  S ton grnd jugement pprouue mes écrts  Seront ojet de mon méprus  Lnt jpper es Chens ux dépens deLun  T Vertu euement moge ̀ tes önges  Ce net ps nteret ny mons es compmens  Qu mont donneé es entmens  e oger ton moerte uec ceuy des Anges  Cet pourquoy gr̃d Schõerg e ny trt d̃s m pmse  Qu ne ot eopoyé pour pedre con renom Et fre vn Aure en ton no  Ou encens ot ré d eu feu qu mume  A LA"
+            "Et infenfé Falot que alſan an appele.",
+            "Ce Duplex effronteé qui ne rougaitderiens",
+            "Scaron le culede iatte, & Vulſon le Rufien,",
+            "Reueillent la fureur d’vne Muſe fidelle:",
+            "Le meilleur de ces quatre eftant â la coupelle,",
+            "Ne ſera iamais pris pour vn homme debien,",
+            "Mais pour vnſceleratun perfide, vn vauriẽ,",
+            "Qui doit bien tſt perir ſur le haut d’vne",
+            "eſchelle;",
+            "Tous quatre ayant longtemps ſous ce beau nom",
+            "d’Autheur,",
+            "Veſcu fort jmaigrement aux fraits d’vn",
+            "mprimeur,",
+            "E laaeſaaurqned’nfſonc",
+            "s ont creu qu’eſcriuant contre le Maarin,",
+            "s pourroient au ont neuf gaigner quelque",
+            "Quatrin,",
+            "Pour aſſouuir leur faim, ſans augmenter",
+            "eur blaſime."
         ],
         [
-            "AôAAAAA Cooee eoeooo  J pppgs  DY A LA NOBLESSE   STANCES   E As e ecours deeence  N pe n eee pe  Se Veroent eurs grnds oms efre  r Prmypoudre & e enmce  Vrge dns es Vers nousreucté  V Troyen vgond dont deuot ntre Rome  Et ns ce cunt honme  Peronne ne çurot qu eut jms ete  Lngne & exceent omere  Troye et ton econd fondteur  Luy eu mgré ton detructeur  T eru de mtre & de pere  Quoy que e feu des Grecs t rué tes P  T ute pourtnt prce qu te conerue  Et on Vers te reerue  De pus eux tmens que ceux qu ont rûez"
-        ],
-        [
-            "6  Ann Cer Aexndre  Et euous me ou pus de Guerrers  Vos tetes eroent ns Lurers  Et vos noms eroent ouscendre de grnds Ecruns neuent pr eurs écrts Appeez du tomeu votre ugute memore  Et ms dns eur tore  Vos genereux expots qus onten décrts  Cet prMue & pr tore  Que ScH oMBE vur goreux  Dont es hurs fts evctoreux  Vuront u Tepe degore  MESS E VRS vou vous vure pres votre tréps  Ftes des ctons dgnes detre décrtes  Et des gens de mertes  Pour es produre u jour ne vous mnquerot ps  C M"
-        ],
-        [
-            "eddu dte d t t udhutu nerereer eereeree LE TOMBEAV  DE LESPAGNE  LES VCTORES  DES FRANCOS  TNe oue e un enue e enen  ourge &vne s rnee e e u  eprouence  ende mnu re o ens denouer  Qu forç jds es Ttr e eodue denun eeun  Ee nueoue nureue n e dne et mondre que tes uccez"
-        ],
-        [
-            "Qund e eros e Deu des Vers  Ou que juros eprt dvn Ange  Qund Appoon murot ouuert  Tous es ecrets deoünge  Qund e eros pen de Ronrt  Qund juros épué́ on rt  Et eu toute eu dHypocrene  e eros forceé dduoü̈er  Que cet ns fruct & non ns pene  Quon entreprend à̀ te ouër  o  An Mue ne tenfe ps  Qutte t outde nute  Tu prens vn ton vn peu trop s  Pour en prer de cét Ache  Confee uec ncerté  Quefrteue Antquteé́  Port trop hut vn Aexndre  Ms que SCcHOMBER voehut  Que queque ton quon pue prendre et pus s qu ne e fut"
-        ],
-        [
-            "4e  Suus dvn pett Cmp vont  Qu netot ft que de Noee renuerot en tnt  LEpgno &forteree  Ms ynt veu que es Sodts  Crgnntfoudre de on rs  Ne oent orts de eur demeure chnge eur Fort en vn pn  Et détrut ̀ mons dvne heure  Tous es truux de pus dvn n  En vn ennemy retot  A effort de on Cmeterre  Le Deu du Comot e quttot  Pour mmoer ̀ t coere netot pont de ton  De foé ny de gon  Qu ne ég̀t ̀terte  Chque coup de on coutes  Etot pour eux pus dvn tonnerre  Pus dvne mort & dvn tréps"
-        ],
-        [
-            "Ben que e fort de Sereo  Fut ecrpé deusroche  Et que prvox du cnon en ft deffendre pproche  Toutefos tu uy fs en vor  Que ton courge & ton pouuor  Ne trouuent ren de dffce  Suuoy uue Sereon  Ft vor que contre cét Ache  Tu ne coms que du ton  û  Cet ez e us oey  Sereonquttépce  Etvertu qutrhy  N pus de ng s net de gce qutte es retrnchemehs  Et fut uec es Regmens  Qu e jettent dnscmpgne  Qu dot etre pr eur mheur  Le cmetere de Epgne  Et e thrône de t veur  Qund"
-        ],
-        [
-            "93  éps  S ce quon dt des Conquerns  A emé toûjours ncroye  S ces Heros ou ces Tyrns  Nont pru vrs que dnsfe  S CHoMBERG t generoté  Suue ujourdhuy ntquteé  Du oupçon detre menongere  Et tes expots mrcueux  Nous font crore qus ont pû fre  Ce que tu ns ft qupreés eux  Ms de quoy quon es t vnté  s nont ren dememore  Que ton nom pr tout redouté́  Nt ft qu eur ot prefere  S ces Heros des temps pés  S ces grnds foudres terrés  Euent rencontreé tes orges  On es eût veu mgré eurs orts  Où tu fs dutres crnges  Etre eu memes u nomre des morts  C"
-        ],
-        [
-            "0  3e  Ss euent eu tes ennems  Bouffs dorgue & gros de gore s nuroent jms eteé ms  Dns es ftes ny dns hftore  Leur nom eot eneuey  Dns e ence & dns ouy  Ss euent eu ton unture  Et e mondre de tes hzrds  Nous eut prué́ meme en penture  Des Anns & des Cers  En effet qu de ces vns  Eut réfeur Epgnoe  Et ty de eurs Corps ngns  Vn pont pour per Cr mgnoe?  Ce mrce etot reerueé  A S cHoB ER dont e rs eueé  Foudroy eurs hutes mchnes  Et eur creu des monumens  Prmypoudre & es ruynes  De eurs propres retrnchemens"
-        ],
-        [
-            "o  u vs comme prmynuct  Depoudre & defumée fot uy eu pus de rut  Que nen ferot toute vne rmée ne ergnot pont e Cnon  Luy eu forçot vn ecdron  Etvnce opntre  Qu ne çuot vncre ̀ demy  Sotnot à toûjours comttre  Tnt qu verrot queque ennemy  p  Nynt pus ren qu retût  Apunce nconceue fot en qu rrett  S foudre toûjours redoute fnt es Comts ngns  Pr e deffut des Comttns  Sns quegore en fut ornée  Cr on courge &cheur  Ne fnt quuecjournée  Ses tromphes & eur mheur"
-        ],
-        [
-            "e  En fn e Soe exprot  A ord des rys deLune  Que Sereon e retrot  Bttu des mns deFortune  En fn Epgne & es Sodts  Ms en deroute en cnq comts  Prrent eur futte prmy omre  Qund pour punr ces goreux  Et fre vor e pett nomre  Le Ce ouurt pus de me yeux    ms ceét Atre denuct  Qu tent vne route ncertne  Ne frt entendre mons de rut  De on Coche étoffé dEenc  Ee regrdot fxement  Ce mere Regment  Qu sen fuyot uec e Comte  Qund es voynt perdu de cœur  Ee rougt de de honte  Pour eur perte & pour notre honneur  Sen"
-        ],
-        [
-            "Qund ton rs eut ré Lécue  Qu cchot es Sodts dere  Le thetre de on orgue  Deuent ceuy demere  Ms pour montrer que t veur  Ne deuot ps à eur mheur  Ses grnds uccez de t vctore  Le Ce permt que es Sodts  Accreuent éct de t gore  Prperte de cnq Comrs Ton Courge uot dedgneé  De e gner pr eur cheure  Pus qu ne crot uor ggné  Que es comts quon uy dpute  Au pr cnq dueres fos  Qus frent tete à tes Frnços  Leur retnce opntre  Ft juger à tous es humns  Qus nuoent drdeur ̀ comttre  Qufn de mourr de tes mns"
-        ],
-        [
-            "ée  Grnd Demon de notre oeur  Ange qu vee urFrnce  Toy eu tu ç̧s de que honneur  On dot Couronnervnce  Ton œ ccompgn toûjours  Non pour uy preter du ecours  Ms pour y trouuer vn ze  Sçchnt fort en que on ppuy  Ne vuot pus quen cét Ache  Et ne pouuot mourr quen uy  se  Tu vs ces grnds & rudes coups  Que nçot ce foudre de guerre  Qund Mrs pus ruy que joux  Aot er on Cmeterre  Tu vs on cheu renueré  Tu vs ce genereux eé  Repndre vn ng noe & fdee  Et vnger pr me tréps  Vne mn ̂che & crmnee  Sur me qu ne etoent ps"
-        ],
-        [
-            "t  Sen et fct s ont écrtez  Et eur depore fortune  A eu e pndre des crtez  Du frmment & deLune  Qundnuct es urot cché  Le Soe qu netot couché  Que du dept de eur retrte  Eut découuert tout àfos  Et opprore de eur deff̂te  Et e tromphe des Frnços  s ont qutteé peur de mourr  Cette gruté nturee  Aymnt meuxperdre & courr  Que ynt mourr uec ee  A oject des premers dngers  On es vt & prompts & egers  Contre eur coutume ordnre  Eux qu noent ̀ pene er  Qund s ont deunt e vugre  A ScHoMBERG s voudroent voer d"
-        ],
-        [
-            "e  Epgnos prenés des res  Eutez ScHomere & es rmes fendrvous ne voés  uquu derner de vos genrmes  Courge puures Ecdrons  Neprgnez pont vos éperons  Ou votre ve et à on terme  Serrez e fnc douez e ps  Vous netes ps en terre ferme  Ou ScHoMDRG peut toucher du rs  Et vous Epgne ouurés vos forts  Suuez vos enfns du crnge  S coM B ERft ez de morts  Otez e rete à on Courge  Ms pour toy Comte mheureux  Ot ce que ton Roy genereux  Te dt du fonds deCte  Suue toy uue Sereon  Ft vor que contre cét Ache  Tu ne comts que du ton"
-        ],
-        [
-            "eudedt pd due e deddedtedutddut  pppreeqpooe emeoSe te ee peeeoeeo Feee eeeppp ererqtrefepperr  s Yo  D E LA FRANCE  POVRLA PROSPERT E  de es Armes  ELEGE  Se e ee eree  Et on mere eu ft mounr e mheur  eeeee  ts qu rent ur t tete"
-        ],
-        [
-            "20  Que ScHoMB Rcjms rege es detnées  Que chcun de esjours vent es me nnées  Que toû̂jours tromphntffronte e ort  Qu vnque Epgnofortune &mort  Ms que trnport mnme ̂ fes de memore?  Lez moy e vous us dns e Chr degore  Cypreés retréous fres pce ux Lurers fur er es morts pour prer ux Guerrers  Grnd Duc e Cyprés meurtmort set échpée  Nynt jms eté quu out de ton eépée  Nont uecfux pprocher de ton rs  Ee te fut cy pour te uure ux comts  Acheue utre Duc fs que t gore écrte  L mort thonore eurs u en qù Leuctte  Toute ueuge quee et ee cognot tes mns  Qu frét pus dexpots que e Mrs des Romns  Cet ee qu te vt du en dvne cmpgne  En fre vn Cmetere ̀ orgue de Epgne  Recognotre es eux ffronter es hzreds  Dot e mondre eût ft peur u pus grd desCers  Comttre contre me ttquer des rmé́es  Rechercher de éct dnsnuct des fumées  mprmer t veur & fonder ton renom  Sur es corps des eez dnsvox du Cnon  Lennemy"
-        ],
-        [
-            "o  Lennemy trnporté de te voren fre  Dot que tu chrmos e demon de ere  Ne pouunt coceuor comme vn cmp de Sodts  Perdot toute Epgne en cnq ou x comts  Grnd Ductes Sodts oerent entreprendre  Ce net ps de meruee s uuoent Aexndre  s uuoent vn Guerrer dont utre veur  N jms comttu quux dépens du mheur ee  Ange de on oeur gr̃d Demon deFr̃ce  Toy eu fut e témon de toutevnce  Ds nous cr tu e ç̧s tu comttos ous uy etot ton zyeetot tonppuy  Ds nous netps vry queonne fortune  Condunt on detn dns e Chr deLune donntevnqut ennemy ggn tout dvn coupvn comt & demy  Cnq fos es s reprenoent e courge  Et cnqfos repouez s perdoent untge  En fn prenntfute u pus fort denuct  s perdentvctore & honneur quut  E"
-        ],
-        [
-            "éo  Ms grnd Due cet ez jencensmodete  Qu soffence desj de cette poëe  Et eprt retenu dont e Ce t doü̈é  Se vent pndre à mes Vers de ce qus tont oüé  Tes expots mccns & m Mue etnt e  Permet nous de monter u ommet du Prne  Pourduertr es Deux que ScoBc etey  Qu ttend eurs honneurs es mertnt u  Beot tu verrs Mrs toffrrt on Cmeterre  Neprune on Trdent upter on Tonnerre  Et e Deu des neuf Sœurs en es doctes pnceux  Vne econde ve & des Lurers nouueu  F N  & PERMSSON  Erms fre mprmer es Vers nttuez Le  F Tndeu de epgne u e Voure d  Frncos Ft ce 29 Octore s9  As  DAVBRAY"
+            "9",
+            "1.",
+            "1.",
+            "p",
+            "E1",
+            "p.",
+            "t.",
+            "g",
+            "2",
+            "a",
+            "i",
+            "L",
+            "a2",
+            "1",
+            "4",
+            ".",
+            "8",
+            "2.",
+            "1",
+            "s",
+            ".",
+            "5",
+            "i",
+            "2",
+            "i .",
+            "1",
+            "s"
         ]
     ]
 }

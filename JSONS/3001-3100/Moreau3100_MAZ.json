@@ -1,69 +1,114 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
         "genre": [
-            "récit",
-            "relation"
+            "texte officiel",
+            "arrêt"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Lorraine, Charles II de (1596-1657 ; duc d'Elbeuf)",
-            "Taille (impôt) – Pontoise (Val\n            d'Oise)",
-            "Pontoise (Val d'Oise)"
-        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-17",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Relation contenant tout ce qui s'est fait et passé dans\n          la ville de Pontoise entre les vrais serviteurs du roy et les partisans du cardinal\n          Mazarin, avec la conspiration secrète de quelques uns des plus apparents pour livrer la\n          ville au duc d'Elbeuf, découverte par les habitants.",
+        "titre": "Arrêt de la cour de parlement , toutes les chambres\n          assemblées , portant défenses, à toutes personnes, de quelque état et condition qu’elles\n          soient , de faire aucunes levées de gens de guerre qu’en vertu de lettres patentes,\n          scellées du grand sceau, à peine d’être déclarées criminels de lèze Majesté.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3100_MAZ.xml",
+        "fichier": "Moreau302_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Reton contennt tout ce qu sest ft et pssé dnsve de Pontose entre es vrs servteurs du roy et es prtsns du crdn Mzrn vecconsprton secrète de queques uns des pus pprents pour vrerve u duc dEeuf découverte pr es htnts Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Reton contennt tout ce qu sest ft & pssé dnsve de Pontose entre es vrs servteurs du Roy & es prtsns du crdn Mzrn Avecconsprton secrette de queques uns des pus pprens pour vrerve ux troupes du duc dEeuf decouverte pr es htns Sns LeuSns Nom652 Prs Bothèque MzrneM263TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs300 Reton contennt tout ce qu sest ft et pssé dnsve de Pontose entre es vrs servteurs du roy et es prtsns du crdn Mzrn veccon sprton secrète de queques uns des pus pprents pour vrerve u duc dEeuf découverte pr es htnts (S652) 2 pges Trère Queree de pette ve u sujet des tes Ce pmphet pour tnt est cureux à cuse des fmes qu y sont nomméesvers prose réct retonLorrne Chresde (5957duc dEeuf) Te (mpôt) – Pontose (V dOse) Pontose (V dOse)"
+            "A1",
+            "H 1H",
+            "L L A.",
+            "DE LA",
+            "r N r",
+            "9 1",
+            "COVR",
+            "DE PARLEMENT.",
+            "TOVTES LES CHAMBRES ASSEMBLEES;",
+            "Portant deffenſes à̀ toutes perſonnes de quelque",
+            "eſtat & condition qu’elles ſoient, de faire au",
+            "cunes leuées de Gens de guerre, qu’en vertu",
+            "de Lettres Patentes ſeelécs du grand ſeeau,",
+            "̀ peine d’eſtre declarez criminels de leze",
+            "Majeſté́.",
+            "Du . Octobre, 165.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinaires du Ry.",
+            "M. DC. LI.",
+            "Auec Priuilege de ſa Maieſté."
         ],
         [
-            "RELATON CONTENANT TOVT ce qu set ft & pé dnsve de Pontoe entre es vrs eruteurs du Roy & es prtns du Crdn Mzrn Auecconprton ecrette de queques vns des pus pprens pour urerve ux troupes du Duc dEeuf découuerte pr es htns M DC L"
+            "3",
+            "dtt eee lee ouera",
+            "e ẽSu",
+            "rſe",
+            "Ms oe",
+            "h",
+            "V l",
+            "s",
+            "dVde",
+            "T Ver",
+            "er c7",
+            "rrTtC, S E EGSTE",
+            "de Parlenent",
+            "Eiour la Courtontes les Cham",
+            "ores aſemblées, dyant delibe",
+            "or laReque preſerdtee pairle",
+            "Procueur Genedral du Roy,",
+            "e qu’attendu que plufieursper",
+            "ſonuenmdad aſre eionnees di",
+            "e ei lep nen un leiſen l e ro nee",
+            "uines peenens leuen de e eie oe ie eei",
+            "eneine dneus eue vie e e e uenr",
+            "un ſinie ounnſion duie e enn oee.",
+            "qu u conue ſon auronre, eomre le Old",
+            "eiſpen dle opnune eut le Sin de ſien u",
+            "nelenuna ſs oeune er n enel",
+            "erunade daoa pneunus e eue r e eue",
+            "nſ dſnues laudeoie ue pore e ernen",
+            "de ni eopnaole pnr ies ne e one ene.",
+            "nie enie dieoe ſio re pſe eorer er",
+            "ue qualré &e couduion qirs ſiere de nie",
+            "9",
+            "A",
+            "2"
         ],
         [
-            "3 RELATON CONTENANT tout ce qu sest pßé dnsve de Pon toe entre es vrs eruteurs du Roy es prtns du Crdn zrn Aueeconprton ecrete de certns des pus pprens pour urerve ux troupes du Duc dEeuf fn dexecuter eur rge decouerte prvgnce de queques htns eques on deot rner & egor ger Eneme es noms des conprteursJL nyperonne qu ne çche que Deu nous ynt ft ntre ous e gouuernement dvn Roy ce erot vn cr me quon ne poutrot trop punr que de ne uy ps oer u ne cron ps qu y t vn eu htnt deue qu vouut contreuenr à vne choeute & qu ne ré́pn dt dns occon tout on ng pour on eruce Ms doer ueugement & de ouffrr es mpertnences de certns rrogns eques uns de uthorté du M gtrt éeuent noemnent eur pouuor uques à op preon ve des pus honnetes htns ce qu choqueronnentmonsnet que trop vry que prche cheé & ee de cœur de queques vns des pus rches deve de Pontoe ces ortes de gens àhonte des hon netes fmes e ont rendus comme mtres de toutee & poedns preque es premers rngs & es pus emnentes chrgessoppoent dtecement à toures es pre tentons dvn chcun & voudroent dpoer oument du gouuernement deve de orte quetns ns uec vn peu de ens quoy que dez e exurcton sy ontdeuenus es ps rches & uee ve mpudnce q nt qu ps mgne pereeutent e pett peupe mencoe dempronnement es htns des qus fontemànt de e vouor oppoer à eurs menées &e pr eur gnmte ord nre s smgnent qus uroront es pourutes de cer tns genereux qu ont à preent redus de ne pusouf frr & de ne ps ommertre es chetez qu eurs detn cers ont ft en ce regrd uques cy cet ce qu e o gez à fre remontrnce u Leurennt gener pour e me prs que ces gens ont tousjours ft des htns & pour cenne quté qus ontvurpée & utueà Eeunson deve ur ce quouffert& perms qus àyent etéhyez du roe des Tes ns ucun pruege pcoontnce ou putot cheté des nommez Snt Denys Rou & Guedon poue ors Echeuns & Synde f qe toueve connoe ques ydes htns qu yen me ez e pou uor ouffert y enduttes qu ohtfes de vertu de courge & de generoté pour empecher& pour y pruenr ont uppé e Letennt gener de fes é́ouuér en toutes eurs pntes pour nteret du puc & Eu de eur ren dre jutce urreformron qus demndot etre ftes des muetons des E cheuns de Nutre eques ont ft ce qu senut Au commeneement de cette trée semërehte crettement qunze ou vngt des courgeux htns pout duer à donner ordre à ces deordres oùfut rreté queprocurton qu y fut dreee eront preentée & porée tous es hrns u mons ux pus qufez fn dëe fe duoüer de ce quon ot entreprendreque e à cét efft pres es vox reécudees fut me és mns des nommez M che Vot Drper vn des ncens Pr & Coneer de ve cques Fouert vn des Cptnes de dte ve de en Cofrt Apocre eques yns eué emqueces gens pens dndce que peronne uqu ̀ preent nz ot vouu choquer pour es connotre dvne rce qu vé prdonne ms out ft genereuement en gens dhon nheur & vrs htns A"
-        ],
-        [
-            "ot qus en furent porteuts & quee futgnée de nuron cent des pus notes sfrent gnferEcheuns & Syndcà ce qus euent en executns e refutt deconutton pr eux fut pour ce ujet à Prs pr Roée à fre comprendte u rooe des Tes vng ou vngq des pretendus ptuegez denonmmez pr eur gnfcton uf entteux à fre reger ux termes de Oc donnnce Les Echeuns & Synde ns eœur en ce rencontre de undrentmos en vneonneon pour trop crndre ces peronnes qus perent & pr pueurs gnfctons demn dvn des pus us de cette ftme meme pres queque gnton deunt Eeu pr queques pdoyers dememe outque pus pens de confuons pour eux que de ron ont teté de tout eur poe à cette gene reue entrepre Ce qu exct deux des Deputez edt Fouert etne tomé mdeà preenter requete àCour des Ades ut quee on ordõn vn vendront dnstros ours engrn de Chmre où u our gné pr Huer expres deCurfut rreté u Prquet de Meeurs es Gens d Roy es prtes pteentes que es huct premers pourueus dos Chrges ouroent de exempton & e rete comprs u rooe des Tes Ce quefté execuré ponctueement pr Eeu non ns me mences pr es cottes de ru ner es utheurs & de es fre ner Or pour executer eur rge s ont prs occon ux cheueux en e vouns vger ur nnocent u m à propos que ur ceux qus etment coupes pus qu et contnt que çchns que es troupes du Duc dEeuf qu setoent uncées vers Mnthe pour soppoer u pge du Duc de Nmours retournoent s en ont mengeére trrte en eur ptre uec e eur de Vmhry e qufãt Mrech de cmp(de nom comme on crot & dffez dou uee frcton) proche prent deDme de Chrmont eere du Preuot Vcomt en grde vn des pus grds ennems deptrt qu peu un cette entrepre ft venr B L"
-        ],
-        [
-            "edt de Vmry qu e dot prteur dvn ordre d Duc dEeuf pour fre ejourner es ronpes dnsve & de mnderfrnchement on uy ouurrot es portes Surquoy s preerent vneemée enChmre de ve où̀ setns rendus mtres pr e nomre de eurs gens po tez & à tout fre frene deputer e nommé mtre Chr es Cort Aduoct du Roy coun germn du Preuot e grde & Chnceer deCohorte pour er versedde Vmry uurer queve etot u Roy & quon mourrot pour on erucems djout pr fes foutes or dnres quon etos pret de uy donner e erment de f deté pr ecrt setmnt pus zeé erureur du Roy que esutres & donn proe udt de Vmry dy fre en trer qu on uy emerot epernt venr à̀ out du deen defme nonotnt toutes es remontrnces qu uy furent ftes pr es nommez Grue & Vot cy deunt E chëuns deputez deChmre de ve pour ecouter ce que drot edt Aduocét du Roy que cetocer conme dordre du Roynouueement receu qu porcoc de nerece uor ucune grnfon & u conrre vn ntre ordre de Sn tee Rôye qu defendot preement de nen pont réceuor Toutes deux fort fuores te ve net monsnotveué & dée à eur derete deen Ores unsdut dt & ng concone doos Ponr feteér on deenperud vne heure pres u Leutennt gener de fte vne Compgne dnfntere &eme morm entnsqutter es otez frent eneevnret euns gehsordtntes equos etns ffez dengue & c&nduts de es yeux ne mnquerenedre ques cetotfortpropos quecetteCmpgne deuot etre com mndée pr moneur e Preuot e Vcormte de Pontoe oy dnt Ecuy er Segneur de Hru ers e prte qu té qu pt Arreturrequete du Procureurgener du mrs de Fevter derner uyeté hffé & condãné́ ̀ deux me ures dmen de pour uot vurpée pour Leutennt on coun germn & pour Enegne e fs dvn Mon de e extr ctorefn den eux dtpoe e"
-        ],
-        [
-            "s rs 7Au prmr coup de Tmhurs e trouerent tros cen euncs hom mes de duc ns e nendte de onne te & fort drot ux Armes rmez à meree qu u meme moment pr ordre de eur perfde Cptne tout frz reuou & tout enfé dorgue e rent mpudemment de Hote de Ve pour y fre grde nut & our oufurenteus desSergens Cporux & Anpedes tous gens r mez des pus chetfs & de on ntegeceLespus ecroyns & es pus 2zeeés pourptre preuoyns ce perfde deen furene fre resontrnce u Lentennt gener de mportnce de cette compgne & ce qu en pouuot rruer dns e musdeen quonuot découuert quuoyent ces muus H tns &e ynt ouffert pourquoy permettre que e Preuot en Grde qu n eherchot quà rouer & perdreVe commesetot ven ré enfut e Cptne & quon nen pouuot uger que du m dont s neurent tsfcton? Le endemn de Mrs es trouppes du Due dEeuf rruerene dord urcontrectpe deVe à endrot des fuez e pus fo e ytnt tomez qutnte peds de rgeur du mur deve & fort fce à cue de ce à ecde es perres tés etnt dns e fo é ufotns ucun ordre e Preuot en grde uec queques ecou des de Compgne mont ur e remprt où e prpe etot tome & vs àuse pote des trouppes rtuées fnt fnte detre en coe resMscomme cux des htns qu etoent prepoez pour oer uetveneperte e qu uot ft rompte vn mur dns Hetee re des ros Poons & ft fre vn pge preement dns cee du Lyon drgent pour er de ces deux ouuertures fceent depce u eremprt & dceuy ̀pce & qus vrent que dns ces dogsfoyent&e deuoyenc couer qunrté de Noee & eurs vetsrmez s ngerent qus vou oent semprer des deux cotez dehreche du remprt pout fcter ecde & pour empecher e ecours des htns dutnt quen cét endrot vngt hommes rmez emrpecheront fcemet deux cent dy pprocher nyns en cét en dcoct es remprts que tros pedsu pus pou toure rgeur Pourquoy u ot on ft onter dns e fort ppeé eperon t tché u dehors des foez deve de ce coté à̀ & qu deffend cn terement reche cent hommes des fux ourgs uee enuron n qunre grcons quon mous e nom de eur Cptne uques ot qu es eut pperçeus conme vn eu on découore fcc d 6 4"
-        ],
-        [
-            "3ment à entréecommnd en urnt den ortr promptefetnon qu rot es chrger mencent es vns & es utres de pron Ce qu cu vn gtrnd rut pourquoy on ferm es portes dont es htns refuerent oument es cefs u Leutennt gener non ps que ms on r eu ujet ducun ouçon defdeté de on hon neur & deenuence vers e peupe Ms crnte comme toû jours eté trop puf enuers ces preomptueuxne es eurs n donnt on mt es htns en te ux duenuë̈s des Hoteeres en queton & on rernt pronner dx ou douze Offcers qu d pr ddree de nos per fdes setoent couez dnsVe Sur er t & qué es tetes roueetres ppeeçeurent que eur me che sot deconrr & qus etoent eogne de eur dee s frent pr rtrfce odnre de Monfeur Auoc eur chen u grnd coeren en orte quon depn vn certn Seur dVuz en prte e frere du Preuot en grde pour er fre compment u Duc dEeuf qu etot ez pret deVe & de tcher doent s de de ourner cette orge fn de fre crore u peupe quon eu uot vne grnd e ogton ms cetot utement pour dre u Duc dEeuf quemne etot éuentée ce qu uy fut outenuàre Ms es htns ne pouunts pus endurer crerent hutement queVe etot venduë & putot ouffrr cent me mors quucune grnon & qu fot e deffre de ces trtres du permnceux de en deques on etot deument duerty ce que e peupe repet tnt de fos quees perfdes furent contrnts déogner es trouppes de contrecrpe & netns pus à eur pouuor de es fre enrednsVe pour executer eur pon enrgée es frent etter dns es pu ures fuurgs qu ont dememe te queVe & urchr gez pour eur peu de ens excefuement yns deffendu à ces pu ures htns de e mettre en d ffence ur pene de pron commndé de mettre eurs rmes s & empeché que deVe on donnt e cours à ces puures cohtns qu degrnd cœur &genereue ment setoentdu fort de éperon u mondre commndement pour deffendre es murs deVe contre es trouppes queces perf des uoyent deen dy fre entrer Ce quon ne pû empecherees vendeurs de ptte nonotnt es remotrnces qusoy ent con tre ordre du Roy qu dffendot de receuor ucune grnon à quoy mceuement & üec rtfce s repquoy ent prouche du eur dVuz que e Roy nentendot ps prer des fu ourgs doù es me es u L8"
-        ],
-        [
-            "neres uoyent peu upruntor eurs fermers & mu ners uec eurs hrdes qus uoyent reurez chez eux dnsVe Le Due dEeufrrué ux portes entr uy trenteme & fut e ger u Vcrt ousproe den ortr & es trouppes des fux ourgs e edemn mtn On redou otgrde & entroyent à̀ chque portepus de deux cent hommes reous de mourr putot que de receuorfontsyns çeu que ces rtres uoent proms de fre urprendre Vememe nut on ftecrettement dre à chque eune hom me de nfntere qu fot pour e en de Ve porter es AE mes uec es htns &e uure eur pere en grde eur remontnt mportnce du fct ce qu fut pr cete euneegener euement executé nonotnt es mences de prons & dmndes deprt es nterreez que e endemn mdy e Cptne uec on u dce ccoutumée vount monterGrde & nynt trouué u eu demée ny Sodts ny Sergens u contrre Hote de Ve on pote fromédes hns fut du nmeme ps à demy enrgé ynt etré & e hueco &pque remercer e Leute nnt gener Le out meme voynt quedemurnée e pot es h tns fuorent ommer e Duc dEeuf deproe prmy eques eg vn ceren deconptton pour fre e on voet & u vMey propoé on uy der quon ot chrger on nfte nedCuere etnt ux Vges crconuons & comme on fonnotcée effet e toxndépech e eur dOr geu ntendnt de ecete Armée qu es ft à ntnt déoger Ms Deu ̧t que e ogron peuuent uor ux trtres deptre es honnetes hrns qu font eur denmeure dns ces ux ourgs & es puures vgnerons ̀ qu es trouppes nont e quoes qutre ur Le Due dEeufet demeure cnqours dns Ve ns ch gè peonne ous es promees den eopgner es rouppe ne mes cees duMrech dAumont qu perent pr rgede oue mene proretns tous deux qus etorene fore esfts de ue quon eur uot rendués & qus témogneroent ̀Mjet́ f eeon de Pontoe ̀ oreruce & eur fut repqué pr Vm ry ez s que e oueuemet des ht ns etot cue que eus trouppes ny etoent entrées on sen rpporte à ce qu e n et Ms C"
-        ],
-        [
-            "0 eurs memes trouppes nont ps é de runer tous es Vges de qutte euës crconuons Pour e Gener dcq nyns pû entrer dnsVeft de ees proceons ux Vges oun é́ que es murs Sur es dx heures du orgr de poee e Mrech de Cm Vmry e Preuot Vcomt en grde uec qutre ou cn quon n ps pû connotre furent es rmes à̀mn e fre don merordre u Corps de Grde de Hote de Ve ouny uot Puror que dx hommes ( e rete prenntrefeton dns vne Hoteere proche) commndez pr vn mpe homme qu y f ot cependutchrge de Cpor & qu y fut m trtté & frpe pr e Cptne qu ps net ns oer pr e puure homme & de p eur pour e pefde Bourgeos) trerron de erte nute ur e chmp en e mettnt ur e qurreu Mus us deo vut e orrgtur ut des t vt per us ons exercentur u contrre eftre ve mences de fre runerVe & defre met re à fe & à ng quon ne perdot queongue tteute & que ce qu etot dfferé netor ps perdu rrot en qu rrot e derner & utres ot s dcours duron gnes n vno verjs Le endemn es htns frent pnte de ce procedé etrnge & trop effrontéy djoutns qu y uot preuue que edt Preuot en grde etnt en déuche entrepeure & e fromge qunze ours uprunt on entrepre pernceue uot dt & uré qu un peu de ourseperot dvn de es ms des roupes pour e vnger de njure quon uy uot ft de mpoer àTe & qu ferot mettre e feu ux qutre cons deve quon uy uotpro ms que dord on pognrderot es nommez Vot e Cort & qon rû̂erot eurs mons pour uor ft comprendre ur e rooe dos Tes & qu ferot ner Lecomt Eeu pour y uor donné es mns & preement tuerPeronne & permon de Duhme Auoct pour uor comme vry pere du peu rop otnu on nterets contre ce oup entgé deptre & etre quee otpnte te e Leutennt gener nonont es cou unees ouppees foureres & rtfces du coun du Cpne de Cn dns eegment de Repos commnd e eur de L coé Cpne Enugne du qurter deporte de Prs uuy deH derseze Mouquetres & des deux Archers dep"
-        ],
-        [
-            "r  tendnt der er des peronnes dedts de V mty & Pè uot en grde ce ruc Cptne qu etoent couchez eneme pour ors qu ft euer & mener en cét ppre enpton du V rt où etot oge e Duc dEeuf & ne pounnt ps fe e pro cez dudt de Vmry ̀ cue dequté de Mrech de cmp e Duc dEeuf uy ft puquement e grndes reprmndespoux uot vouu trop entreprendre on tru ncemment ̀ ceuy du Preuot en grde eque àconderron de M e Duc dEeuf & enpreence & ceux deute de ntendnt eur d Orgeu du feut de Monthers Leutennt gener de Pontoe es eurs rn cens Pts de ve( ceux en chrge nyns oé entreprendre pr eur peu de hrdefe ccoutumée) Meeurs es Cptnes Leute ns & Enegnes de ous es qurters pueurs Sergens des me nes qurters quntté dhonnetes htns entrutres e eur Le omrt e Sr Vot u ncen Pr de ve & e S Duhme Ad uoct en Premenc Cott Apotcre Guy & Cude Cheuer e Veur Eeu de Lcoré & utres htãs des pus zeez pour eur ptre ft euement vne reconnonce vere tete nuëns epée ny udrer demnd treumement prdon à toute fem ée es pr de prdonner u un eur protet de ne ms ren en reprendre contreve & e gre des htns equesemr tous es vns pres es utres demndnt derechef prdon à chcun en prtcuer & es nt pt pueurs fos pcs ocunm feres quodpectore non het protetnt de es erur dns occon Apres ces protettons de eur conentementfut ergy & es htns demeurez dnsdeffnce & reous de fre toû̂jours onne grde tnt pour e eruce du Roy que pourconeruton de eurs peronnes & de eur ptre veuquté humeur & h tude de cette rce Ceux quon crot etre deconsprtos one Le eur de Vm y Mtre en e Fevre Preuot Vcomt en grde e eur dVus on erere Mtre Chres Cort Ad uoct du Roy on cou n germn Mtre Frnços Deons Pro cureur du Roy on coun germn L Dme de Chrmont ee mnere du Preuot en grde Ceux dont on net ps oument eurez & qon ouponne ont Le eur dAndre eucoup e ueur de Bmn vn peu de Mrche ourgennt qupu"
-        ],
-        [
-            "8 er Coporteurs & reprteurs de proes dont es hrns douent ede fer ont Cuedon Procureur More Notre Nue Muner àFouer Thoms du Vuer Mtre Frnços e Couturer Cheneu Ap tcre Moreu Scrtn ux Crmetes De Romecnt Vcre à̀ Snt Mcou Les Dufour Pere & Fs Ceuc qu deuoent etrr pogmndez & eurs nons pées & o ez omt Mtre Mtheu ecomrt Eeu Mtre Chres Duhme Ad uoct en Ptement Mche Vot Drper & ncen Pr de Ve Et en Cort A potcre Cex dont on deuor per es ons ont Gud & Cude Cheuer Les deux Lcorez Couns Fouort Le eur Lné Le Veur Les Fredns freres dont vn eft ux oys demort en Chres Les Segneurs Pere Fs Du pré Pertoton Fuée Muer Le Roy Les Dux freres Du Bos & utres FN"
+            "e ae uue e ſenienenſl ſee",
+            "4",
+            "nane eninreu e reie e nuna pi e",
+            "ene ouſiuel eouis ea erne e dee",
+            "e ene ede eſoe eie eie ene",
+            "ene eoſi io eiea ei nueſe neueire",
+            "eie eene nrſenel elet ene eſee",
+            "eloe ne di e oe enue e",
+            "ouneunoen e ie ae ean e",
+            "eſin e elie e i eni unen e",
+            "eneoune e e enede e ele",
+            "eoe eie",
+            "oerenone enue i oe ene eie.",
+            "poe e e le irel er eſede",
+            "eie ſldr ſle e ieſere e",
+            "edie de en eloiadre e eneinere",
+            "pteane le oeobreoy",
+            "Signe GvET.",
+            "rrauis fn eiren nr eueiri",
+            "e ereie eereeeuere",
+            "eſen dlr ene ere edefde e enie",
+            "Ee o e lerei ereilet",
+            "e le e e r eee peoeieie",
+            "o eru en ereee n oeeo",
+            "pn ir nueoirele ſ lrt",
+            "Sgne CA0"
         ]
     ]
 }

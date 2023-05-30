@@ -1,63 +1,179 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "non renseigné",
-        "subject": null,
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "épigramme",
+            "prophétique"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-06-03",
+        "subject": [
+            "Paris (France)",
+            "Emprisonnement des\n            princes"
+        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-15",
-            "@who": "ZC"
+            "@when": "2022-03-18",
+            "@who": "AB"
         },
-        "titre": "Les visages qui se démonte en la cour espagnole et\n          italienne.",
+        "titre": "Vision miraculeuse d'un hermite, envoyée à monseigneur le\n          prince de Condé, en son dernier logement du bois de Vincennes.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau4035_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau4036_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Les vsges qu se démonte encour espgnoe et tenne Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Vsges (es) qu se démonte (sc) encour espgnoe et tenne Sns LeuSns Nom649 Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y87TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs4035 Vsges (es) qu se démonte (sc) encour espgnoe et tenne (S ) 649 2 pges Cette seconde pèceemprunté queques vers àpremèreee est mons sprtuee et pus hrde « Moé premer présdentCeux qu es vértés pue (tc) veut eur ôterveCrespère fre son compte Mgréchmre des comptesAvec dAurv et Bonne uL RèreMrtneu « Son Atesse pour réconfort Chffe ou en dt Je dors » Sn en son mystère Son é de L Rvère » c Pour e prnce de Condé Veut vor toujours son compte En vsge qu se démonte Tntot turc ou uthéren Tntôt chréten tntôt pyen *vers non rensegné Déprt du prnce de Condé pourBourgogne 643"
+            "VISION",
+            "MIRACVLEVSE,",
+            "D'VN HERMITE ENVOYEE",
+            "A Monſeigneur le Pince",
+            "de Condé.",
+            "En ſon dernier logement du Bois de",
+            "Vincennes.",
+            "A PARIS",
+            "M. DC. L,"
         ],
         [
-            "LES VSAGES QV SE DESMONTE EN LA COVR ESPAGNOLLE ET TALENNE"
+            "3",
+            "VISION",
+            "MIRACVLEVSE",
+            "D’vn Hermite enuoyée à Mon",
+            "ſieur le Prince de Condé.",
+            "En ſon derier logement dis Bois de,",
+            "Vincennes.",
+            "Aetas linre Dene lenſe eue nre e i eſue",
+            "plus du grand monde, & voſtre heureuſe",
+            "retraitte au Bois de Vincennes nous fait voir",
+            "S& uuiourenuy vn Pine deaenu fermite le",
+            "prie Dieu de tout mon eœur que ce ſoit pour",
+            "onemps, & ie penſe que cette demeure",
+            "ne vous ſera pas moins vtile qu’à tout le monde. On dis que la",
+            "flatterie de la Cour vous a gaſté, & ie m’imagine que voas",
+            "eſtes en lieu( ̀ moins que vous ne ſoyez ſans raiſon j oùvous",
+            "pourezeuaporer l’eſprit de ſouuerain & ſi vous traittez du",
+            "A i"
         ],
         [
-            "LES VSAGES QV SE DESMONTE EN LA COVR ESPACNOLLE ET TALEN TRes de ce vge de ptrecontreft en es douxye x E pr on humeurdotre nuente tous es ours des Deux Ms on vge pr tropeme Q ft dord fryeur extreme Ne pouunt uor comme nous Dequoy touours trouuer on cõte Ne e erunt que de fots fous Nous dvn vge qu e demonte Ce grnd corps vetu dEcrte Ce mtre ppeur de mommons Sçt u ren joüerhrpe Que de Prs tous es frppons Et fort ouuent en utre choe Que de vous nommer e noe Cr ceux qu ont uec nous Dont e cognot humeurprompte Me mettroent tout comme vous Sns vge qu e demonte S cheuochons en ̀ Cheu Luy v u grnd trot ur es nes Comme on vt u Crnu A es cotez etoent deux mnes Pour porter en es veeux De ourrce deux enfnceux  A"
+            "4",
+            "Monarque, ce ne ſera plus que parmy les arbres de voſtre ſol.",
+            "tude, à̀ qui vous commaderez au trauers de vos grilles de fer",
+            "y aura grand plaiſir à vous conſiderer en cét eſtat, cependantc",
+            "vous m’en voulez croire, quoy que ie ne ſois qu’vn fimple",
+            "Hermite; cét é́loignement de la Cour vous obligera de ren.",
+            "trer ſouuent en vous meſme, & ce bois ſans vous y promener",
+            "vous tiendra lieu de ce lycée où̀ les Anciens Philoſophes one",
+            "fait des meditations ſi ſçauantes à l’ombre des Ormeaux.",
+            "Souuenez vous s’il vous plaiſt, que vous habitez vn lieu qui",
+            "eſtepar vn geand Prince dont la vertu fur ſoubçonnée, &",
+            "que vous reſpirez l’air de ſesvertusqui y furent autrefois ca",
+            "ptiues & qui en onteſté tiré́es plar le ſecret d’vne pruiden",
+            "e adoable. Souueneous quette illſtre Perſeée vine",
+            "u ſecours d’vne Andromede que vous auiez expoſée à la ra",
+            "ge des monſtres &des Demons.",
+            "e voy que c’eſt icy vn pas bien gliſſant, & de peur d’ou",
+            "urir vne playe qui pour voſtre honneur deuroit eſtre gue",
+            "ie, ie ne vous repreſente cette action que pour vous obliger",
+            "d’en faire penitence. Vous eſtes en lieu propre pour cel f",
+            "vous ſç̧auez profiter de voſtre priſon, & vous accommoder à",
+            "volonteé de Dieu & aux ordres du Roy voſtre Maiſtre. Vous",
+            "voyez bien, Monſeigneur, que c’eſt là̀ le langage d’vn Anaco",
+            "rette, & non pas celuy d’vn paſſionné, ſi ce n’eſt du ſalur de",
+            "voſtre ame, qui vous doit eſtre plus precieuſe que toutes les",
+            "Couronnes de la terre. Et croyez que tout ce que ie vous ay",
+            "dit iuſques icy, & que tout ce que ie pretens vous dire en ce",
+            "peu de lignes, m’a eſté inſpireé d’en haut par le rencontre d’vn",
+            "on Ange qui s’eſt monſtré à moy, e forme viſible dans",
+            "mon Deſert de Noſtre Dame de Vadam. Ne meſpriſez",
+            "donc pas, s’il vous plaiſt, Monſeigneur, ce qui vous eſt icy",
+            "envoyeé́ de ma part, & vous ſouuenez de ce qui a eſté dit au",
+            "trefois par vn excellent eſprit, que nous deuons receuoir d’auſ",
+            "ſi bonne part ce que nous verſent les moindres Eſtoilles, que",
+            "ce qui nous vient des grandes. Voyla de quelle ſorte ie reſve",
+            "en ma Celulle, & ce que i’ay crû eſtre obligé de vous",
+            "dire."
         ],
         [
-            "S vous nuez veu come nous LEmeme que on vous montre Netes cpe de çuor tous ee ee ene e eue De monter urvone Dou cement fendre de en vure Du ct fre dncer es courtnes Sns que peronne pue çuor Ce que tu fs en ton deuor Sot ure ct ou ̀te Tcher de fre touours on cõ̂te Aux prs es pus deectes Comme vn vge que demonce S tu veux ouër ou en rre Auechõme femme grçon ou fe Dmuertout & ns mot dre Et en e rencontre etre he Aer pr tout & ns ouger Et pour en mentr nenrger Quoy quon murmure contre vousDu en & du m fre on conte Et ns que ceux duec vous Sçchent que ton vge e démõte Fut tout prometre & ren tenr e femnme & fe rche & ee LEprt çuor entretenr Ben qus oent des pus dénée Affn dttrpper eur Threor Or rgent pe rres ou nneu dor Adroctement"
+            "Peut eſtre que la leçon que ie vous feray eontre l’ambi.",
+            "tion, qui eſt le ſujet de voſtre diſgrace, ne vous ſera pas tonut à̀",
+            "fait inutile, & que quandie vous repreſenteray la fragilité des",
+            "grandeurs du monde & les diuers accidens de la vie, vous y",
+            "rrouuerés de quoy vous conſoler. Ie veux croire qu’il n’en",
+            "ſera pas de vous ce qu’vn bel eſprit qui vid encore, a dit",
+            "des Eſpagnols, Que c’eſt leur couſtume de ne faire pas du",
+            "mal à̀ demy, quand ils le peuuent, & d’eſtre conſtans dans la",
+            "malice, quand ils s’y iertent.",
+            "Toutesfois on m’a ſouuent dit, que vous auiez deſpouilleé",
+            "es Egliſes de ſes plus riches ornemens, que vous auiez violé",
+            "des choſes que les Demons reſpectent, & que le remps n’o",
+            "ſeroit toucher qu’auec crainte. Mais ie laiſſe cetre mariere à̀",
+            "voſtre Confeſſeur, pour vous dire en paſſant, Que ſi vous euſ",
+            "ſiez fait vn peu de reflexion fur ee qui vous a eſteé ́crit,",
+            "fin d’vne Piece, qui porte pour titre: Diſcours ſur la depu",
+            "ration du Parlement, A Monſieur le Prince de Condé. vous",
+            "euſſiez moderé voſambition, & iamais Prophete n’a par",
+            "lé ſi clairement de ce qui vous vient d’arriuer que cét Au",
+            "theur. Enfin, Monſegneur, il eſt tres conſtant que vous",
+            "uez treal pris vos meſures. Pour éleuer vn baſtiment",
+            "uſte & ſuperbe. Ce n’eſt pas aſſez d’auoir à ſa diſpoſition des",
+            "foreſts & des carneres, & d’aſſembler vne infinité de mare",
+            "riaux, il faut outre cela la ſçience de l’Architecte & la",
+            "dire.",
+            "ction ilfaar l’induſtre des ouuriers, & leur peine.",
+            "De quo ne vus eſtes vous point ſouuenu que l’ambi",
+            "tion eſt ſt pernieiux, qu’elle a fais choir les plus ſublimes",
+            "ntelligehees dü ſejour de ler gloire, au fond des aby ſ",
+            "mes. C’eſt vni feu ardent qui brille durant la nuict de",
+            "erreur, pour nous conduire en des precipices.",
+            "Tout ce qu’elle eſtalle à nos yeux, eſt de la nature de ces",
+            "viandes pantes de ce fameux feſtn, qui contentoit les",
+            "yeux en affamant le ventre. Et quand tour ce qu’elle nous",
+            "5 9",
+            "monſtre auroit de la ſolidité, ne ſç̧auez vous pas qu’il en",
+            "eſt de routes ces choſes, comme dit Prothée des Potes. Ne",
+            "vous ſouuenez vous plus que celuy qui treuua la fortune",
+            "B"
         ],
         [
-            "A droctement fns e fous A uec dre fre on conte Sns fre vor que cet de vous Vn vge qu e demonteVge de ptre que on nomme Deous qu treme es hommes Vge u uperemnent Vge de votre Amnt Ce vge de Sce Ce vge de Chene Ce vge de Mzrn Vtu comme vn Trn Tout rouge de ng de Pucee Ce vge de mcqueree Vge en dé dyurongne Vge ̀de trogne Vge u nez de pompette Qu dnce ur es coquettes Vge u nez corrompu Que ms gurr n pû Vge de proerpne Vge de Meune Vge de fs de putn Vge de rgntn Vge deGrene Vge ̀ pochne Ques yeux u rge Que de Bre es grnds frommge Vge de ce Meduré Mcquereu deDuré"
+            "6",
+            "̀ ſa porte qui demandoit à̀ loger, ne treuua point de clou",
+            "pour attacher ſà roue Si vous auie eſté ſage vous n’au",
+            "riez point cherché auec tant d’empreſſement ’vne couron",
+            "Ee, & toucefois quelques vns diſent, que vous en auez de",
+            "iré deux. C’eſtoit buën aſſez de vous contenter des hon.",
+            "peurs qui ſont deus à voſtte naſſance, & des tiires que",
+            "ous vous ecſtes acquis, vous reſouuenant du, Von plus vln",
+            "u grand Hercule. Mais ie voy bien que ous auez uoula",
+            "miter les auareieun qui au ſenriment d’ao bon eeriuan ſen",
+            "oit aſe combien ils ont de reſors, & tourefois ils ſont en",
+            "des peines continuelles pour en aceroiſtre le nombre. I’auroi,",
+            "y ſans doure vne ample mauiere à vous entretenir lonr",
+            "emps, mais la cloche ’aduertie d’aller à veſpres, & l’eſpee",
+            "ou fnorer vne aurefois la ſairre de ce diſeoun que ienay",
+            "poin encore coucheé ſur le papier.",
+            "MONSEIGNEVR,",
+            "J re mmdu Erulear an Eſe",
+            "Al co, i umna",
+            "Oge ermale ade oſe",
+            "aſ",
+            "Dae ade ada, as",
+            "e ret e ."
         ],
         [
-            "Ce vge mptoye Qu et engendré du de Vge du Chen dEope Qu veut dre horocope A vn ngne voeur Ce vge de receeur Vge de mgeen Qu senrchy de ren Ce vge treur de ne Qu ̀ enchntéRene Vge qu es dents grnce Qu enorcee nos Prnces Et ur eux ftptroüe Ce vge de grenoüe Sur e peupe memement Pe tout or & rgent Ce vge demnence Qu voe touteFrnce Quft pr es forfx Tous es noes portefx Qu cherchent ̀ ggner eur ve En c nr de eu de ve Pendnt que deon fccon A eur femme vend eu de con Ce vry vge drpe A rendu des hommes mpes Les vns endormy Les utres ont es ms e nene ee n pnunee"
-        ],
-        [
-            "7 Auee quntté drgent Pour ruer tous eurs prens Ce vge ft on compte Auec Prnce Brons & Comte Chnceer & gens de utce Femmes & fes pr rcfce ggnez drottement Ses puures dots netement Ce vge de mcrde Appee es cmrdes Ceux qu ont de on prty Au en que Commrty Son Atee pourreconfort Chfe ou en ds e dors Et du Cone dEttnen fct ucun ett Sn en on mytere Son Aé deRuere Pour e prnce de Condé eu etre ondé Veut uor touours on compte n vge qu e demonte En rgent ou en en fes Touours on eprt frete Tntot Turc ou Luterren neoe ee oeur nntrne Qu eur ert de Boucér Pour fre tout eur pge Sur nos ves & nos vges"
-        ],
-        [
-            "8 oé Premer Predent Se fchevuemene De ce qu ne peut pus que fre Pour e monde fre rre Qu cre ̀ gorge depoyée Q Frnce nettoyée Dhommes de vures & drgent En nous trhnt mechmment Ceux qu es vertez pueveut eur oterve Croynt pus fcement Nous vendre tous ourdement Les epons qu ̀ en ve Quen dt etre pret de me Pour vor Bourgeoe Veut ttenter urve Ou ur cee de Mzrn Q chert comme vn en Crepere fre on conte gréChmre des Compt Auec dAury & Bonneu L Rerre Mrtneu s ont offerts x mons pr e eut de Buon Affn que on eur octroye our nous mettre tous en proye Et mettnt pr eur efforts Sur e peupe nouueux mpots pr de nouuees fçonsencherr chmres & Mons s"
-        ],
-        [
-            "9 s veuent fre pyer Te Ces vges ̀de A tous puures Chmrens Vne txe de x frncs Deux fos n pyntomme Ces Demons en fgure dhomme Se prommette en eurnce Cecy de on Emnnce Le que eurrepond Que trt uoent ttendu Pour fredemende De cette ffregrnde Ms qu fot premerement Fre fre ecrettement Aemer dedns Prs Tous eurs meeurs Fuors Pour que es Corps de Meters Mzrn e upper Pour ttrpper tout rgent De es puures onnes gens Vont eurs oufnt ̀ oree Que our & nuct fut qus veent A fre reuenr e Roy Et repondnt ur eur Foy Detres crée Peonne Au de toutCouronne PusReyne mement Leur demendr de rgent vour ee & pour tous ces gens Quee me & quee chert tnt"
-        ],
-        [
-            "0 nnt queMeté ngrnd neceté Pus en uront pour eurs conte De es vges qu e demontent Ceux du pPrement de rs Qu ne ont de eurs prts Qu prennent grdeeux tous Cr e cy meux que vous tous Se que re ur eurs ves pr es venmeux hrpe Meme eurs propres confreres Que vers cy on conferres Qus sen grdent fnt eur conte En vge qu e démonte Ce Leutennt Crmne Cette me de chue Ce vge ̀ etuuée Vge ty ̀ coruée Vge euy u court ouon Ce gros vge ̀ couon Ce foux Leutennt Cu Auec on corps tout de Ce vge de mrmton Au nez pourry de cochon Vge de vet de crte Vge dort quon ecrte Vge feuus cchez vous que du de nyeztoux Vge ux punte nnes Comme e cu de proerpne"
-        ],
-        [
-            "Ou du cu dvne putn Pourry de chneres & pouns Cette mne ecomunée Qu mere renée Gros vge de mcreu Et cmrde de Bonneu Cet nfme de prtyn Noe comme vn pyn Vge de feuBudchon Appreeue de Nchons Prentte de ces furereurs Quon nomme onopoeurs Sur nous e vengent pour vn trtre A qu nous vouons fre cognotre Que ne vouons pont dppott Pour gouuerner ce grnd Ett Qu e erue de rt Mgque Ny de mprmeur en muque Cr me dedre noe ce coqun Qu net ps fs de putn Qu voudrot que on né frere Se de premer fs demere Ces vges ont epernce Quvn our on emnence u ppee tous eur mtre Les çur en reconnotre Et que pr on on pres fer tous enrchr ee eee e ee"
-        ],
-        [
-            "Au puure peupe de prs Qus ppeent eurs ennemys Lecteur de vry e ture Quve meux prs mes meures De en rendre docte cecy Que e te preente ey Crms pu n mon humeurQuetre yurogne & non rmeur Ms cette hu meur pr trop rude nM empeché qu etude e nye empoyé e temps q me donner du pe temps Ne prend pont grdem verue S ordre en e vers noerue Cet que tres urement e n y pn fre utrement Cr engrnde Soronne e ny ms connu peronne Qu mt dt vn grmercy Ny en es Coeges u S contente net ton enue Amy ecteur e te pre De vouor moger tnt Toy meme te rendre contnt e men futs dsGcone Ces vges ̀ de trogne Dns rs veuent de nouueu Vous fre ore tous u eu n vous donnnt pour votre conte Vntour de vge que démonte  VJe"
+            "tQe s, epehh,A& h,8",
+            "d e e el ſſede deeeide iſ",
+            "A MONSIEVR LE PRINCE DE CONDE",
+            "Au Bois de Vincenne. giſt en cet appartemenm",
+            "u Guerrier qui peut eſtre en rage;",
+            "Mais ſi l’on prerend quil ſoit ſege,",
+            "faut qu’il demeure en la cage",
+            "ques au iour du Iugemen."
         ]
     ]
 }

@@ -1,96 +1,191 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "manifeste",
+            "astrologie",
+            "prophétique"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Charles I (1600-1649 ; roi d'Angleterre, d'Écosse et\n            d'Irlande)",
-            "Grande-Bretagne -- 1642-1651 (Guerre civile)",
-            "Charles I (1600-1649 ; roi d'Angleterre, d'Écosse et\n            d'Irlande)",
-            "Grande-Bretagne -- 1642-1651 (Guerre civile)"
-        ],
         "change": {
             "@status": "corrected",
             "@when": "2022-03-07",
             "@who": "AB"
         },
-        "titre": "Histoire entiere & veritable du procez de Charles\n          Stuart, Roy d'Angleterre. Contenant, en forme de journal, tout ce qui s'est faict &\n          passé sur ce sujet dans le Parlement, & en la Haute Cour de justice ; et la façon en\n          laquelle il a esté mis à mort. Au mois de janvier, 1648[/]9. A quoy sont adjoustées\n          quelques declarations du Parlement cy-devant publiées, pour faire voir plus amplement,\n          quels ont esté les motifs & raisons d'une procedure si extraordinaire. Le tout\n          fidellement receüilly des pieces authentiques & traduit de l'anglois.",
+        "titre": "Le manifeste du ciel, selon la lecture dans les astres.\n          Item. La determination de la durée du monde, selon le Thalmoud jerosolimitain. Cæli\n          declaratio secundum lecturam in astris. Item. Mundi durationis determinatio, secundum\n          Thalmoud Jerosolimitanum.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
         },
-        "langue": "fra",
-        "fichier": "M13331_MAZ.xml",
+        "langue": [
+            "fra",
+            "lat"
+        ],
+        "fichier": "M13487_MAZ.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Hstore entere & verte du procez de Chres Sturt Roy dAngeterre Contennt en forme de journ tout ce qu sest fct & pssé sur ce sujet dns e Prement & enHute Cour de justceetfçon en quee esté ms à mort Au mos de jnver 648[/]9 A quoy sont djoustées queques decrtons du Prement cevnt puées pour fre vor pus mpement ques ont esté es motfs & rsons dune procedure s extrordnre Le tout fdeement receüy des peces uthentques & trdut de ngos Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Prement dAngeterreHstore entere & verte du procez de Chres Sturt Roy dAngeterre Contennt en forme de journ tout ce qu sest fct & pssé sur ce sujet dns e Prement & enHute Cour de justceetfçon en quee esté ms à mort Au mos de jnver 648[/]9 A quoy sont djoustées queques decrtons du Prement cevnt puées pour fre vor pus mpement ques ont esté es motfs & rsons dune procedure s extrordnre Le tout fdeement receüy des peces uthentques & trdut de ngos Prs John Grsmond650 Prs Bothèque MzrneM333 DTrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Avertssement u ecteur Texte repéré pr Armnd dArtos (Bothèque Mzrne Ms 468 f 77v) Autre édton sns \"A quoy sont djoustées\" (BM00228) Réédté à Prs s d [792]Te Les deux décrtons joutées ont eur propre p de ttre mprmé pr John Grsmond dprès e ctogue deothèque dHuntngtonproseChres(6049ro dAngeterre dÉcosse et drnde) Grndretgne645 (Guerre cve) Chres(6049ro dAngeterre dÉcosse et drnde) Grndretgne645 (Guerre cve)"
+            "LE MANIFESTE",
+            "DV CIEL",
+            "SELON LA LECTEVR DANS LES ASTRES.",
+            "tem.",
+            "La Determination de la Duree du Monde, ſelon",
+            "e Thalmoud Ieroſolimitain.",
+            "Caeli Declaratio Secundum Lecturam in Aſtris.",
+            "tem.",
+            "Mundi Durationis Detemimatio, Secundum",
+            "Thalmoud leroſolimitanum.",
+            "A PARIS,",
+            "M. DC. LII."
         ],
         [
-            "Hore entere & verte DV PROCEZ DE CHARLES STUART Roy DAngeterre Contennt en forme de Journ tout ce qu et fct & pé ur ce ujet dns e PARLEMENT & enHAUTE COUR de JUSTCEEtfçon en quee eté ms à mort Au mos de Jnver 648/9 A quoy ont djoutées Queques Décrtons du Pr ement cevnt puées pour fre vor pus mpement ques ont eté es motfs & rsons dune proce dureextrordnre Le tout fdeement receuy des peces Au thentques & trdut de hngos A LONDRES mprmé pr J G An 650"
+            "&Auol,,&lAhlhus,",
+            "3Pd e e ee",
+            "LE MANIFESTE",
+            "DV CIEL",
+            "SELONLALECTVREDANS",
+            "LES ASTRES.",
+            "A",
+            "R L’APOCATASTASE 165.",
+            "nEeE1",
+            "Pur les bhabitans d’Oxfort, ded’Enbourg & de Serlin",
+            "& de la Holande.",
+            "ES choux cabus tetus pommez,",
+            "Les crepus & rouges freſez.",
+            "outans douteront du Mominſme",
+            "Lors les Anglois au Degruiſme.",
+            "Lors les Holandois eſtonnez",
+            "En Nauires caſſez briſez.",
+            "Sur l’Eelipſe de Soleil 8. Auril 65a.",
+            "ARREST.",
+            "pourles Vnitiens.",
+            "Le Solei TLa Turquie dejont",
+            "La Lune au pas d’Aſnes eruoit",
+            "Sur la grand Syygie de Seeurne & de ars, 0.",
+            "ouſt 1652.",
+            "EFECTION.",
+            "Pur ln Pnpais,e ſpaui.",
+            "Quand Mars au Lyon va à Saturne,",
+            "A ij"
         ],
         [
-            "ettdeêêû2 JJ eese sessseos 4 3 L A JCOMMS SON Autrement ppeéeAer des CommunesdAngeterre Aemées en P s Pornt etement dunetne ene nn Pour exmmer & jugerCes TvRr ro e7 Roy dAngeterre Omme n o que Coes rut Roy dAngetetre non cotene de LA dueres urpnfus ue e Predeu ftes ut e Peupe en es dros & J gehesnut os tespnremuep un eden repemeeu de entoer es ous A 3"
+            "4",
+            "A lors la guerre ira à l’vrne.",
+            "EDICT.",
+            "On lict au Signe de Sainct Marc",
+            "Pour la Foy qui tire ſon Arc,",
+            "Quand au Lion joincts Mars & Satune,",
+            "Veniſe met les Turcs à l’vrné:",
+            "Rome met la Foy Catholique,",
+            "Dans l’Angleterre ſcholaſtque;",
+            "Proſperiteé aux Portugais,",
+            "France, & Eſpagne auront la Paix.",
+            "Aux plus diligens ſtudieux Scrutateurs, il faut con",
+            "fulter, Sefer RQ lbbi Abahm Aben Ezr, dela Lecture",
+            "par les Aſtres, que les Illuſtriſſimes Cabbaliſtes Do",
+            "ctiſſimes liſent Sereſchit & Mercabab, qu’ils nombret",
+            "e lon les ſecrets Celeſtes du Celebriſſime Monſiear,",
+            "Monſieur Gotefroy Vendelin IL uminarcan, & qu’ils",
+            "peſent par la Balance Aſehaf Tefoni.",
+            "e",
+            "A",
+            "Mndi Durationis Dererminatio Secunmdums Thalmoud",
+            "eroſolinsitanum.",
+            "Lpaim bereſehit, alp aim betorah, alpaim bahbhba.",
+            "ninab, dus millia Nature, duo millia Legis, du0",
+            "millsa Crarie.",
+            "Secundum ſcientiſſinaos Cabbaliſas Maundi Creatio",
+            "e adVERBI nthropati vniuerſi SALVA.",
+            "TOR I S Annonciaeouem furunt anni ooo. ab n",
+            "numciaione currit anmas 165a. quod ſeeodum exatio",
+            "yes"
         ],
         [
-            "eJ  3 e ne e t2835 Aonn que s contnüot encontumce en reu nt de e oumettre u jugement deCour e Pre dent vertrot qu ne e devot ps trendre quon uy donnt pus de temps pour repondre & e preerot de donner une repone pertnente & fne Et en cs qu ne e vouut fre on com mnderot u Greffer de en ommer encore comme uprvnt Ms s vouot repondre & demn dot cope de on Aceuton ee uy erot ccordée en uy fnt routesfos entendre queCour pou vot dés eure proceder à donner jugement urcontumce & r on reus de repondre Et pour tnt qu erot requs de donnerrepone ur on Aecuton e enemn à une heure prés mdy Et ufy totCour setnt comme ee vot ordon né rendue dnsSe de VVetmnter es proc mtons & utres formtés etns ftes comme é́s utres ences & e Pronner yn eé rmené àrte pés vot commndé e dence e Soc teur Gener Coote dre on dcours àCour prnc u Predent en tette orte Le Soct oouce Monegneur cet cytrose me os que pr une grce & fveur pece de cete Hute Cour e Pronercompru ey rre ns quon t en ren vné enCue Je pre enty enpremere ence un Accuton contre uy quee contenot es pus grndes trons qu e oyent jms ftes ur e thcrre dAnererre Quun Roy qu vot receu un pouvor mté e gou vcner eon es Lox esqueesvot ft erment de mntenr pour e en & pourpx du Royu me & uque on vot à cettt fn pyé trut t nentmons pr un pcrnceux deen de renverer es Lox & dntrodure un gouvernement rtrre & tyrnnque en mesprs & dey du Prement dreé C 4"
+            "es Tabulas Raudolphinas per Supputationm quiuoij",
+            "& Plenilun ij paſebhaliunm in Paſhate & Paſſon Da",
+            "mins Nfv iESVCHRISTI Pniuerſi ede",
+            "ptoris ratificatur.",
+            "eur adieianur anni ooo & anmi fie",
+            "umm nnorum 5osy. qua ſubsrafta ab annbnn",
+            "ooo. reſdaabmrur anni 3;4. ad Mundi Drarionis",
+            "etermimationem.",
+            "Funda mentaum huius eſt quod’in primo Ceneſeos ver.",
+            "ſiut ſx liuere alpl valenns oooo qu ſecumdu",
+            "nrelligentißmos Cabbaliftas Munmdum annorrm 6oo0.",
+            "duraturum declarant.",
+            "elee eele8e",
+            "C ELI DECLARAT I O",
+            "Secundum Lecturam in Aſtris,",
+            "Super The coufam, 1̃52.",
+            "d Oxoienſes, Edenburgenſes, & erlinenſes",
+            "& ad Hollandos.",
+            "Decretum.",
+            "T Raſſiz Capitat,",
+            "deien le ſ uner",
+            "Tunc Angli in Degruiſmo,",
+            "Tunc Hollandi perterriti",
+            "n Nauibus fracti uſi"
         ],
         [
-            "e e n J eueJ 3 us) J n e Je t e (39 terre qe je pde Et pou moy de recognotre me Cour dnjouruy doquee je nv jms cy er uprvn moys vtre Roy qu dos er dexempeoueNton Angoe po mntenrJutce & es Lox Ancennes rertes je ne y ps comment e povor re Vous dtes fort en premere fos ue e compr y devp ou que je s ogé envesfeu de menrere Au heupe qe je dos defenre de out mo pou vorAeennes Los du Royume Cet fons qo quosce que je pe vots quegc Ss enre ux Los fondrente du ym Je ne puvous pt donnet de repone uruu re prteuere e vous fery entendre mes Fon pour equees e ne e pus evoos en ue corder e temps Je e y commee peu re que je os ey Ponnerypont de y qu mere votre Roy en une tede conduon Bos n Tte urfoy Pque du Royume cetor des deux Mons recognüces du Prement qu on e cops repreenttf du Royume & comme jeos preA de coneure ed Té y eté v emnent enevé & mené ey Et pourtnt vec votre permon p Mnrennt Srevous nt entendrevoonté deCour e R Aee votre permon Le Pre Mmennt Sre vec votre permonvous u3 4 out ce queCour vous ordonue Et pus que vou nevoes ps tecognotre Ee ne vous dotp permettre de renreer n des tes dcours Vous o pnoe omme nn crmne devnt une e Co jtee & ous ne ry voues ps reponde p emndeeemnéemént Ee ne e demnde ps de vous vec preres ms yous emond encore fos"
+            "4",
+            "Super Eclipſim Solis 8. prilis i6;2.",
+            "Ad Venetos.",
+            "Areſtunms.",
+            "ol Turcas disjungit, Luna ad Bechia mittit.",
+            "Super Syygiae magnama Saurni & Matis",
+            "20, Auguſti: 1652.",
+            "Ad Gallos & Hiſpanos",
+            "Apoteleſma.",
+            "necat",
+            "Truncat bellum Mars cum Saturno in quee Ieoe.",
+            "MEMAR.",
+            "n Signo Sancti Marci legitur",
+            "Areus pro Fide tenſus tenditur,",
+            "DumMars cumSaturnotenebit Leonem,",
+            "Venetiæ redigent Tnrcas in tinerenm,",
+            "Tunc Anglia ſeholaſtica",
+            "A Roma fit Caholica,",
+            "Fœlicitas Luſitanis,",
+            "Pax Gallis atque Hiſpanis.",
+            "Diligentioribus ſtudioſis Scrutatoribus Conſulen",
+            "dus eſt Sefer Rabbi Abrahbam Aben Era de Lectura",
+            "per Aſtra.",
+            "Legant ereſchit & Mercabah Illuſtriſſimi Cabba",
+            "te Peritiſſimi, ſecundum arcana eleſtia Clariſſimi",
+            "Domini Domini Gotifredi Vandelini iuminarcani",
+            "uppurent, & ponderent ex Trutina Aſchaf Tefoni."
         ],
         [
-            "34) mons eroyent mnés Et ordonn que ce eroe L devnt ee enchmre Pente Pus donn chrge As à queques uns des Commrcs der à heure pe mme rouvcr e Grefer deMon des Scgneurspour rtrer de es mns toutes es peces & ppcrse qu pouot cpcerner ce Procez ervr de preu d ve àCour vec commndement udt Greffer de t e cs cvoyer s dey Et prés vor ft frc er eu ment à peurs temons qu furent products de vnt ee juques u nomre de o ee tt un Commtté pour es exmner & commnd u Gre fcr deCour dy tr pour enregtrer eurs de poons Ee ccord uy quon produrot d vntge dt temons pus remtence u ende nn à 9 heurs du mtn u meme eu L Cour fut tendue ce jour à ur es ro hurcs du mn dnsSe de VVetmnter comme e vot ordonné ms ee envoy vers ce tempsun Offcer pour sen xcer ur ce quee etot empeché à fre fe erment ux temons & t ce que eur xmn requerot pus de tcmps quee nvot p né Et ft fre commndement à touts peronnes qu y uroyemt à fre de e rendre devnt ce enchmre Pente Le 25Cour setnt cmé u meme eu e ordonn que e grnd Prevot de Armé ou on Leut nnt frot promptement mencr dvnt ee e S Hoden qu eto Pronner dns VVht H fn qu fut nterrogé & qu peu te mognr ce qu ot des chos con cnce dns Accuton du Roy Ms ceuy tnt venu devntCourupp de en vouor xcuer ce qu e f prés vor conderé qu etot Ponner & que es demndes qu uy devoy nt tre fctes ten dovynt àpropre codemuuon & pourtut c ren voy en ron Lcs qu ep eut G rn m0 on S dud e p4 u Et de rvyo"
-        ],
-        [
-            "s 37t e35) Etendrt depoyé ut une des tours du Chen & Qe e out my d e oy pemdnr que or Etendrt eomme on ppeos y etot roe depoye Et de pus quveu e Roy àe ou Armée pres de pont de Cropredy em un ehnn oonné e pounee de cee du C GvVVerqu fut me en deroute vrone mos de uet e & quen ce emps vd gn ppmre de mons pr es chmps sen outre depo eque vers e mos de Novere uvnt Boy endernere te de Neuery gopnt c à de regment à regment pendnt quon AE etot ux mns rec œe du Premenr & qu v à uy en utte pgrnd nomre dhommes ués en ce comt des deux cotés Pcfe Potts tvernervn de Shrpeon u Com e Norhumenddepoe vor veu e yete de on rmee dns un cmp dtnt evro un me & demy deVve de Neu ur ne pune e jou dovnt que e comr sy donn qu etot vers e temps demoon n 63qu vd e endemn e Roy u chmp de t uprés dune gtoepece e cnon pendnt e com ts Et quuy eu ̀refe de on Armee en2 te de Neuery versS Mehe nnée 64 pés queeà veu grnd nomre dhom mes tués dune prt & dutre Adjoune de pus qu vot uy veu ̀ete de es forces upres du pont de Cropedy Et pés enmeme nnée uersmoon nprés de Letthe en Cn s uque remps e Comte dEex y etot vee on Armée Gcorge Crneve fogeron dAton u Comé de Hereorduy depoe qu vot veu e Roy dns Advntgrde de on Armée renconrer ee d Pre 3"
-        ],
-        [
-            "poés ey et pour en ocenr une ure ou une Jur dton coordnée Jentens en comme vous vous exprmés Sre que nonotnt ce que vous voués decrer ux Segneurs & Communcs dnschm re Pente vous contnüerés nentmons à procedet cy Je çroy vons en vor ouy prer ny Ms Sre quoy que ce ot que vous eut voués fre en endre en ce eu à ce ne peut que cutr du retr dement àjutce de cette CourTeement que tn prete de donnerSentence ee ne peut etre * pr fr s (6s) ogée pr uc ne ron docorder ce que vous de mndés Ms Sre pour condecendre en queque orte à ce qu eme que vous derés & fn que vous entendés ps mpementvoonté deCour ur ce que vous és propoé eee retrer pour que quetemps Le Roy Me rerer uy? Le Prefd Sre vous u és ncontnent e pr deCour ee e retre cependnt pour deme hure dnsCour degrde Noe Sergent dArmesCour commnde que vous és retrer e Pronner juquesce quee donne urdre de e rmener L Cour s tnt ors retrée pour deme heure ee retoun & renvoy querr e Pronner eque etnt venu ee proced deforte Le Pred Sre vous és ft une demnde on une offre àCour ur quequ propoton que vous voués fre ux Segneurs & ux Communes enchmhre Pente pourPx du Royume ur quoy rous vés en eet desj receu repone devnt queCour e evt Certes Sre ce queeet retrée &chngé de eu ce n eté que* pr frme crne uy emot ps qu y eut ucune dffcté en fre Eeconderé ce que vous vés propoé commetn"
-        ],
-        [
-            "(84 rentrune entere de tout e Royume & notre prtcuere pendnt que nous trvons à e gru oeurre de Jutce nous decrons que notre Deu et punt pour nous devrer de eur rge & quenous devons pert en nt notre devor touresfos pgrce de Deu & prforce de on Epr nos cheverons & que cet à notre reouton à tous Je dy encore Sre pour votre nteret prcuer que nous ouhttons de on coeur qu pe à Deu de vous donner un vry reentment de vos pechés fn que reconnont en quoy vous vés oencé vons pués teement erer à uy qu vous prdonne cctte grnde effuon de ny de que vous etes coupe n on Roy e trouvnt une fos coupe de ce cme ms une eue fos & n on Roy ns e peché dure Lhtore nous ppend Sreé qu sen repentt & nous fr és vor qu en u rot eté puny de mortDeu neut cceptére pentnce & ne uy eut otroyé on prdon Tu ne 2 S e uurrr ps ns euut muon pur e que ue s dne V3& t ujetEnems de Dcu de pemer Je ne vous en dry ps dvntge Le Roy Je defre de drc euement un mot vnt que vous donnés Senrence qu t que vous veés mentendre ur ces vnes mputtons dequees vous me chrges e Pred Sre vous me devés er contnuer er je ne us ps on de votre Sentence & votre temps de prer et pé Le Roy ps je dere que vous me veés en endre en peu de proes à deus cr cerres queque Sentence que vous prononceés contre moy e ne me peer ren u prx de ces pentes mputons que e voy que vous vés mes ur moy en votre dcours oneuret en vry que Ls"
-        ],
-        [
-            "̀ 0(o2) e ougne de ue re rprompemene reevemontr u upe pusen upnés du corps qu fut noomnent ms de J dns un cerce covert de veour nor pus porté enchmre à h oufut montré queque eemps & prés trnpoté de à enmon de Ss Jeques pour y dtre emoumé & depuseté enrerré u cteu de Vndor Apré́s executon fcte e Sergent Dndy etm ecorté de quequs ompgnes de Cvere pus pr Orre du Pemenr à on de trompe en dversurters deVe & devnt e Ps de Vet JJ mnter quucune peronne neut à decrer e Pnce de ôes ny ucun ure Roy dAngeterre 4 ny drnde ur pene detre coupe de hute Trhon FnN seeeeee eeeûs Au LecteurE Roy outre ce Artce ur eque et́ jgé́ dvor fctguerre à on Prement & à on Peupe etot ccué de pueurs u res crmes & ofences ny qu e peu vor de ces Decrtons uvstes e quees jy creux devor outer oy pour sfre ̀ deus ̀curoté d Lecteur"
-        ],
-        [
-            "LApPgde orro Des pEux Msos 2 DRLEMET dANLETERRE Contennt es cues & rons e quees ont eues de reoudre & rretererees e eoeneoe une Roy & nuront pus u cune ffre vec uy &gy  J A Londrespnne prj qy t oso"
-        ],
-        [
-            "7 ( 6 mné desterres pres ur es Communutés pr e monopoe depoudre à cnon vec un nomre 4 M nfny dutres & de Ptentes ur orge prepré pour freerre ur e e e chron de terre e Frngs von e cur e vn e ucre un f es rds es epnges e tc & preque ur toures utres den rées vec cet regé de toute opprefon & ecvge txe pour Armée Nve mocy Nous urons pus fcement oué es tour E ffco mens equesexetcés ur nos corps qufct à on pr foetter & fgeer trerueement en coupnt es nez & es urees es fnt rner & mrquer ux joes & es tortures es pors es prons & cchots s nvot uy ft perty une pues e os ne n nenne deenrcptves àSupertton & à dotre & en tr onpnr ur ees or deu omen one Ercommnctons des Artces de Ceremones desnouveux Cnons & des Sermens ordonnés prSus u eeovent rpeemen ̀ ou ce quvouot mpoer ous un & cter On vot encore nventé une choe de pus pour rendre notre condton pre que cee des ecves & nous oter toute epernce de pouvor jms pus re courer netre Leré qu t que on vot rendu e eu nom de rementodeux àCour queon donnot ordre den emoer un dns eoce de nes Ce netot ps euement ̀ deen de fre vor & entr e pouvor exorrnt de ces gens qu e e cnnunonrps de e oure un ee eur pr ms on nous defendot ny pr Pro mtons pques de pus prer de Premens à dver vore memes den pus eper Et dnces dueous que on fot des Pemensny vot pont de prvges és grnds pour em pecher"
-        ],
-        [
-            "5(26) un Agent à Roe queques mos devntReeon rende commeé ce e vot uy des ecrts de dvers de es Sectetres Que e merme deen e deut uy excurer en Aneterrenous nen vouons croreconeon fcte vee Sermnt pr un des ervteurs deReyne Mere qu yevot pueurs mers de peonnes ordonnées pour coupergorge ux Protetns en ce Royume ors que e Roy senen Ecoe nous nous pourrons du mons ou venr que des prnepux dentre es Reees ont confesé que eurs Comm res qu redoyent ecy upré́s du Royvoyent com munqué ce deen pueurs Pptes dns An gerere pr dvs deques en que queques cho es y euent eté chngées on vot nenrmons r reté dun conenement gener que es Pptes e royent de meme cy qus dvoyent re pr de à De orte que ors que Chremont fut prs en re nde e Ch Phen Onee & dutres Chefs de dts Reees ffermoyent veec eucoup de conf dence que eur p ty s etot uy y deTour de Londres & vot devré Archéveque depron Et qu courot cy des uy grnds rueux de ny que dns r nde Lon t uy tren que ors que e Roy re tourn dEcoe en Angeterre outre es preprfs exttordnres dnmes & de muntons de guerre & es nouvecs troupes quon vot ftes & emées ous e nom de Grdes dedns & é́s envrons de Vht & outtegrnde quntté dntrumens & mchncs à feu qu ut trouvée és mons des P pcs on t usy entrer dnsTour une nouvee Grde & pufeurs Cnnoners vec grnd nomre de grendes & toutes ortes de omes morters & toutes utres mchnes à feu & que des groses pece de"
-        ],
-        [
-            "ée3e e(3n ouot uy douer qu y vor enuoyé re eomeoy pupue e ne es op n e ee Curomme ddeerre d une vou n hmuepouengeer ou es vendre & n r ds& des mndons de guere dequny nou oume eon nonce certne devnt que de nous eondeprne e rmess Et cetes vnt queRone fu poée en Hodnde nous n vons eneore n eune e demnde enen dete Oe pourr uy émen ouven que puceus mos u Vnt quee en entreprt e Voge de voot des heure peemere Roy nhe et rere ur nos Reontrnes & ur cete ron que nou uy donnmes entre ure quee vot f n e e porux &Vee deCeuronne nous pouvons fcement juger que deenvot do en ce enysen y nt re ce vopgenus ne euons empeehee de e fe juques Jyver Msnot desn dos vntmo d Come de Strford ft eurer es Oeers de n Amee ̀ Borroudge cqu vouot eggerou pout e & que es Frnços es eronderoy ent en es deens Tours ces choes & eueoup dntres que nous pourrons eguer ut cette Entrepre nous remp ene detonnement quud nous penons ux prote tons oennees qutn de fos fte de out e onde en pent Deu ̀ emon & pour e vnger de uy s vot euementmon e penée de re dncr on AHee du Nor ou de eger ucunes orces pour eotre en gurre contre on Prement ou dentreprendre ur es drouns de e Sues ny de fre venrt de orees Erngees ou ucnn econrs de deàmer Ce qu commeuy meme en es Decrtons nuro ps euemen4 e"
-        ],
-        [
-            "34 Leutennt e Comte dOrmond Cet ponrquoyft donner une Common ecrette u Seg Her ert ppeé e Come de Gmorgn uy commn dnt de sen ervr e pus ccreucment qu pour ro Et edt Seg pour meox couvrr on jeu e oumt à un empronnement fenct pour vor ms en executon dre Common qu fut pre à Sgo Ce qu et cue que nous nous tonnons mons à preent de vor que e Roy t pû ouer es vœux & protettons qu vot ft de ne jms con es nt eO rte n etr o yo entr ous ucun pretexte que ce fut queprofeon deRegon Romne fut toeree ou à oon Fte des Lx tes contre es Pptes vec des m prectons treennees Que Peu e punPo tcrré s ne pertt en cee reouto &oer vot udcmo e protettons qund en meme rere e eee tempsprut crement de es Lettres eertes depropre mn àReyne & u Comte dOrmond s e u e onuoren de peues uomende pe contre es Pptes dAngeterre & drende Et encore que nous eufons uprVnt receu des dvs treertns & des preuves ve de preque toues ces choes udtes & qu eut tnt de fos fe s or vus Protetns en Fnee en Eeoeen p rcnde& à ce Roynume eque outre toutes utres oepreons cuées pr es njutes prerogvesJouven eyé dervt pr utnce des  e emnds Epgros Frnços Lorrns rendosDros & tres ecouts Etrngers nous nous om mes nentmons tousjoursreeement &ncére e enrnunue oeun nr ne eere e nn r ee té uy en que cees de es Royumes quprés tnt de refus nous vons encore recherché cette de nere fos uy fnt preenter des Propotons  utes"
-        ],
-        [
-            "y neon eu StonP o me end (3 utes &honnoress Que nons ne pouvons que concure à preent Quton euemen entreme uee o devor enuer e Ryume ms r e on g qu dot er depre Peoe & de Fme Or ces rons guées ne font quune pete prte de cees que nous vons en eucoup pus grnd nomre pour equees nous ne pouvons ps metre ucune confnce ur uy & vons prs ces Reoutons ceus Et pourtnt nous ferons tous devors de retr ce Gouvernement u meeus rdre qu e pourr pour recouvrerPx de ce Royume & pour e rendre heueeuxF n teJ ôedededdeeeeeseeeé desque Rdut de Orgn egos mprme o 7 Londres pr ordre des dex VMons du Premene e Ferr 64A essgggse5ssrsérepé́s r n"
-        ],
-        [
-            "LA DECLARAToN Des COMMVNES d AnoET Aeḿes en P mr Touchnt L revocton & cton de erns Sufrges &rupture du demer Trté f&t vec e Roy en e de VgheTdt dt ornu duuu pnnLondres pr rdve Prdee e é fer 64 â r ALondres eepf S u oo"
-        ],
-        [
-            "39) eteeseeseeeê e LA  E CLARATONdes Cõnus dngeterre Aeḿes en Prement Contennt es rons quEes ont eû de cer & nnuer es Suffrges uvns De Mrts 2 Decem 648 JL et reou & rreté &c Que e Suffrge deon du &e de uu 64 pr eque er Ordrer du 7 du e Sepsem & du 7 de er 67 eque rendoyent e Comre Lo Cpey Degt Ho E e ch fen Conoory e Coone Edour cy M ter Long & utres n pes detre Mres de cee Mo o eté revoques etot dne conequence dngcrcue & tendot àrune & detrfon detce & dePx de ce Royume & portnt ct y reoquéet reou & rreté &c Que e uffrge du o un 64 pr eque cee Mon oucourr & et couoc es es Segucurs que pous re ouvrure du Trté uee e Roy ̀fu drenr une px re es Reoons du gde ruer 647 qu dedoyent qnon neroyt ps u Roy & quon ne re eut p ren deprt fent revoqueécs & uuueer to"
-        ],
-        [
-            "4) LA DECLARATON Sur ces Suffrges E pus gpnd ervce quun Pemen pe Hndre un Roy cet de nformer desLAu qu e comerent u Souerneusn ee ver pou r Au ue t fn qu y pue remeder de prt onne heue pr un con prdent C cmne Jo toues nos mdes e termne nt prgueon ou u prmore de nens es deordes dn Ets q ven ot fes mdee ne e nnent ms que pr e deu ne f on ny remede à remps pr une reform ton genereC ns ereuement coderé & f de Jt oou fogt & ennmes e Pode de ce E Je Tne nnedoppreons orntes qu e mu phent journeement ue uy ce qu memcerun pgrnd JonSe de Fmes de tune en eur precuer & pens en ee ot e oume dune entere deoton Nous es eConmune d neeue endte e e pre nt pn Pement ons vee eucoup de deué & d R e Aon u é Pe trvé depus ces à nneées der eu ners non ns des grndes cnes & nsentode re grnds dngers & pse pr pueurs df ues & cmes upprmé pufeurs mur snt mededes grnds deordres pour nous oppoer nee e epene en unr n e nrene F rene enoenneruner re ne e epe e n e e de e eue ruo en unernue e Ppene ee pe & etntTyrnne cme nous vons cre ene e erun e e n oe e unedu pe se e eers peeudenme De oe eone croyons ps qu ot necere de e repeter en core cy de Nous P"
-        ],
-        [
-            "(46 os eet nous nets ousreoreo e Erngere & quee n que e ft p re quee des nterets Etnge S nrns pue uos encee emter ene n eoudeu nu t qure Pors nu ee ere ees u deunes crndeondnt de peur quee ne tun eus deens v e uy e enr nt ps meu ueeeese on enpon en ere fte oeve de nes e rmues eomre ee En quor u es on eore tores rompes en eu tenre es pnespu ene eur yns eeee reprd ceucs de ue pnnn &t dures gude nes & onces d ee ueus rne qrde qune e P & e que uns utnt cnpout e or ne n et Venn neonen quroe qu t oue d e rmndenunenere e ueue ennoe nu uoe doerune e pouor fe ne onme nnnu ep ren nor eeee n ne dnn p nmes enueres ree toues es ounons m gnes S pourquoy emns que eetot une coe nerement hors de ron de ouftt que on ee un fe omme quedque gnd qu pue r u cue derune de ne de mes de pe tonnes d oo epe de cee Vnn nous e nes re nous & ordonme quon e pp ueo p duunees ed enus een enene e eneun eeede t tnse Gouernement du orune en e rme qu eoepus convenue por eure 2 eu to o te u o en ce eu me fu dé G Co e t se de dv Px &profperé en ee e oeus unons p denonu enheureue"
-        ],
-        [
-            "50 repene de eut ng & de eurs eors u contrre tume Px fte deorte devot etre e commencemétv eus meres Et memes s e ont pnms vec uE y jet que nous es ons pten une cõdton eu coup pe prés tnt de vctores qu nous on o Je E E reuément cques que cee en quee s etoyent ors qus entreprrentguerre vec nous & ors que nos ffres etoyent e pus deeperées Dequoy certeous ne es pouvons mer nous reouvenns que ce Trté e ot ur des PRropo tons que e Roy uy meme eut pû fre à onvntge & equees voyent eé cy devne reputées ettecontrres &runeueune onne & ferme Px que ny es Mons du Prenent ny es Com mres dEcoe nvoyent jms jugé quees e pûent recevor deprt ors memes qu eto enpus grnde properté Et nons ne nous pouvons uy mgner que que que ccommodement & cord que nous euons puû re vec uy en e de Vght encondton en queeetoteut js vouu grder & o erver ny memes ucun de on pry Cr ns nous rreter uxtermes dhonneur de eureté & de e é que e Trté emot prometre ny e Roy ny ucun des ens nont jms etmé qu fut en un utre condton que cee dun Pronner Pour preuve de ce dns on Mege envoyé ux deux Mons e dOctorepropo qu peu vorerté de venr à Vetmner & eftre rems en un ett de pene erté & eureté ce qu ne veut dre utre choe non qu ne croyos ps ors quoy que ce ft u temps du Trté joüt de une ny de utre Pr es Lertres à un des premers du Mg y nos de f eto vou rõs exen cun vee qu uté qu prt Se E P Vve noe ue en& o me ut men hom S trt deVe de Londresdecre qu setmot etre en ce temps à utnt Pronner que jms Een Et"
-        ],
-        [
-            "4 52 que e Roy cn cut uy rot eveé une utre?S eut ft &nous ne nous fuons ms en devot de fe e meme nurons nous ps en ce mnqué prcheté à notre devor & trhy notre Cue en n donnnt à une eue fos tout ce que nous vons c qus & euré pr tnt de Vctorés? Etnous cu ons reprs es rmes queue eté utre choe que rejetter eRoyume dns de nouvees comuton? Dns equees de vor s urot pû à Deu de nous ent conme uprvnt prés vor trépeu de frut de es enedctons precedentes commenpprtent quàgee Dvne de e determner uy euons nous temogné que nous urons grn dement mnqué de prudence & de jugement es f res du Monde qund en ceneut ps eté tenter Deu vee trop de temerté de nous rengger à en fre epreuve Et encores qu uy t pà dendure ee ment e coeur du Roy qu n ps vouu conentr à oton ms euement à une mpe upenon de Epcopt ynt euement ccordé que ées terres des Eveques e donnent à ferme pour un ong erme en reervnt es vees rentes pour eur en treten quoy que ous euons desj vendu eurs ter s pr dvnce & que ces vees rentes fuent e dt que pueus peronnes ont preuerement cheté des ens dedts Eveques Ce nonotnt ces gens royentgrnde enve de condecendre àroonté du Roy qus netoyent ps euemens contents que es Acquereurs qu ont dventuré eurs den rs urfoy puque du Prement uent rnmpés en eurs mchés queques uns u tot & ous en pre ms s tchoyent uy de fre que Epcopt qus sctovrent utresfos ogés pr erment de detrure & extrper enterement demeu rt"
+            "LA",
+            "DETERMINATION",
+            "DE LA DVRE’E DV MONDE,",
+            "Selon le Thalmoud Ieroſolimitain.",
+            "R Lpaim bereſehit, alpaim betoral, apain ha",
+            "haninal, deux milleans de Nature, deux mille",
+            "ns de Loy, deux mille ans de Grace.",
+            "Se!on les Scientiſſimes Cabbaliſtes Depuis la Crea",
+            "tion du Monde iuſque à l’Annonciation du VERBE",
+            "HumanizeéSAVVEVR de l’Vniuers, il ya 4oo0.",
+            "ns, & depuis l’Annonciationil court l’an16̃s. ce qui",
+            "e verifie ſelon les Tables Rudolphines plus exactes",
+            "par la Supputation de l’Equinoxe & de la Pleine Lune",
+            "Paſquals, dans la Paſque & la Paſſion de Noſtre Sei",
+            "gneur IESVHRIST Redempteur de l’Vniuers.",
+            "Partant ſi on adiouſte ooo ans & 16̃s2. aus, la",
+            "omme ſera 562. ans, laquelle eſtant ſouſtraitte de",
+            "6ooo. ans, reſtra g48. ans iuſque à la Determination",
+            "de la Durée du Monde.",
+            "Le fondement de cy eſt qu’il y a ſix letres aleph",
+            "u premier Vet de la Geneſe, qui vallent ooo. qui",
+            "declarent ſelon les iutelligentiſſimes Cabbaliſtes, que",
+            "e Monde doit durer 6000. ans"
         ]
     ]
 }

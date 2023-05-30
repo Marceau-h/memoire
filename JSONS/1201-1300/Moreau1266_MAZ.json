@@ -1,40 +1,115 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "épitaphe",
+        "genre": [
+            "sonnet",
+            "poésie à forme fixe",
+            "épitaphe"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-07-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-10",
+            "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Épitaphe de la sainte boutique d'un maître savetier de la\n          rue des Prêcheurs.",
+        "titre": "Épitaphe de monsieur de Nemours.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1266_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1267_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Éptphe desnte outque dun mître sveter derue des Prêcheurs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Eptphe desnte Boutque dun mstre sveter derue des Prescheurs PrsSns Nom649 r 649 Prs Bothèque MzrneM0904TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes Dprès Céestn Moreu\"snte Boutque\" étt e sorquet du sveter Thoms Mouthé memre demce urne prsenne durnt e ocus 2 étts (A/B)p de ttre \"snte Boutque\"/\"venere Boutque\"p 2 \"snte\"/\"venere\"27 \"Sceron\"/\"Cceron\"p 3 correctement chffrée/chffrée 69 \"Et\" vec un E en pette cpte/en grnde cpte Dprès Huert Crrer texte pru r 649 (Bothèque Mzrne Ms 468 f 293v) 266 Éptphe desnte outque dun mîtrev sveter derue des Prêcheurs Prs 649 4 pges Snte Boutque ett e sorquet du sveter qu sppet Thoms Mouthé Cependnt j vu deux utres exempres de cette pèce qu portent u ttredevénére outquevers éptphe"
+            "EPITAPHE",
+            "DE MONSIEVR",
+            "DE NEMOVRS.",
+            "DOnc, Paris, ce Foudre de Guerre,",
+            "Ce Che’œuure de la Vertu,",
+            "Neſtre Aleide eſt donc abattu,",
+            "Plus craint que n’eſtoit le Tonnerre;",
+            "n’eſt plus que cendre & que terre,",
+            "Aprés auoir bien combattu,",
+            "Faul qu’il le ſoit reueſtu",
+            "D’vne armure en taille de pierre!",
+            "Ouy, Deſtins! vous auez grand tort,",
+            "Son bras nous ſeruoit de ſupport,",
+            "La France contre vous deteſte",
+            "D’auoir incité de Beaufort,",
+            "Malgré le vouloir de Thyeſte",
+            "De pouſer Nmous à la mort.",
+            "A"
         ],
         [
-            "EPTAPHE DE LA SANTE BOVTQVE DVN MASTRE SAVETER DE LA RVE DES PRECHEVRS A PARS M DC XLX"
+            "AV PERE",
+            "ET",
+            "L'ALCYON",
+            "DE LA FRANCE",
+            "SON ALTESSE ROYALE.",
+            "SONET.",
+            "DEſia de toutes parts la Pompe magnifique",
+            "S’appreſte à ta Victoire, & le Peuple aguerry",
+            "T’a pris (GASTON) pour Mars, le Ciel pour fauory,",
+            "L’Europe pour l’Atlas de l’Eſtat Monarchique.",
+            "Alcide des Gaulois. dont le bras heroïnue.",
+            "Surpaſſe la valeur & les faits de Henry,",
+            "Sans toy cent mille fois tout Paris euſt pery,",
+            "Et le Senat iamais n’euſt eſté pacifique.",
+            "Ton Alteſſe Royale a ſi grande Bonté,",
+            "Qu’il n’eſt point d’Ennemy qui n’en ſoit ſurmonté,",
+            "Ny de troubles ſi grands qu’elle ne rende calmes:",
+            "Bieoſt de tes deſſeins puiſſionous voir",
+            "e bout,",
+            "Et couronner tes Lys de Lauriers & de Palmes,",
+            "Car pour dire le vray la France te doit tout.",
+            "9",
+            "2 ...., ."
         ],
         [
-            "EPTAPHE DE LA SANTE Boutque dvn Mtre Sueter deruë  des Precheurs  7 Mort qu neprgnez peronne V Auez ruy notre prudhomme  Son nom etot Thoms outheé  En on vunt Mtre Sueté  8  e  Son nom de guere e outque u  Touours s chntotMuque  Pus ynt eu ̀ pene te  De on chpeu fote  Sur toutetot honnete homme  Et ns reproche de peronne  S mort ffge es ms nuot ucuns ennems  Comme u fut fort regreteé  De tous es prudens du Meté  Aynt prs du jus detree  Auec euxfot meruee  Et ns e oucer dttropos  Touours grd en on propos  Rempy dvne heureue memore  Rectot queque ee htore  Ou es entences de Pton  De Senecque de Cton  De Cthene de Socrte  De Sceron de Putrque"
+            "A",
+            "A MESSIEVRS",
+            "LES PRInCES",
+            "SONET.",
+            "PRinces des Fleurs de Lys, Mars de toute la",
+            "Terre,",
+            "Grands Alcides Gaulois d’indomptables trauaux,",
+            "e e e lene eoueſee e eue",
+            "Donnez tréve aux Combats, couurez vous de",
+            "Lauriers,",
+            "Et mariez l’Oliue à vos Exploits Guerriers,",
+            "Puiſque vous triomphez du Romain Euriſthée.",
+            "La Paix dedans Paris touſiours vous benira:",
+            "Mais que s’il ſe rencontre encore vn autre Anthée,",
+            "Quels Dieux autres que vous la France inuoquera!"
         ],
         [
-            "De Notrdmus de Domede  Et de ngeneux Archmede  Et outre es exercces  Entendot rort en rtfces  Les ours de nct en & nct Perre  Et quequefos durntguerre  Fot proche e Pory  Vn feu de oye en joys  Et fnement à vry dre  Auot touours e mot pour rre  Meme e our de on treps  Vn Chrurgen uy tennt e rs  Lduertt que ns fr  Ce our àdeuot mourr  Surquoy uy ft cette repone  Fu uor cette honte  De mourr en ce temps dEté  Que e pn et à on mrché  Et que ne mouro cetre Hyuer  Durnt que e pn etot cher  Ou en ors que etos en grde  Tremnt de frod u Corps de Grde  Son dcours etnt cheué  Peu preset trepé  Agé de cnquntuct ns  Au grndregret de es prens  Lnneée m x cens qurenteufeme  Au mos dAur e vnzeme  Le propre our de Pques Coe"
-        ],
-        [
-            "4  Deunt Deu on me repoe  Attendntreurrecton  Deu uy veue fre prdon  Et à tous utres Trepez  Qu comme uy ont pez  Tous confreres prens & ms  Dtes pour uy Pter De profunds  Ler Fdeum Merere  Et reques qum n pce  RBe qu n Domno moruntu"
+            "4",
+            "LE",
+            "CITOYEN",
+            "DE PARIS",
+            "SONET.",
+            "LOin d’icy, Factieux, pire que n’eſt la peſte,",
+            "LLes Iuſtes ſont punis, ce regne eſt des méchans,",
+            "eNoble le Bounrgeois le bonlnomne des Champ",
+            "Tout le monde ſe plaint & contre vous deteſte.",
+            "Ce mal Epidemique & la faim nous moleſte,",
+            "La Pandore eſt ounnerte aux deſaſtres panchans,",
+            "La Guerre nous oppreſſe, il n’eſt plus de Marclands,",
+            "Que Taille, que Maltote, & plus rien ne nous reſte.",
+            "Maltotiers & Marans, qui cauſez tant d’ennuis,",
+            "Que ſi vous me croyez & mes vers ſont ouys,",
+            "Vous adorerez Dieu, le Prince & la Iuſtice:",
+            "Autrement ie diray que vos ſens ébloüis",
+            "N’ont point d’autres deſſeins qu’à ſuiure leur malice,",
+            "Et de troubler touſiours l’Empire de Loüis.",
+            "e",
+            "De S.N."
         ]
     ]
 }

@@ -1,70 +1,166 @@
 {
     "entête": {
         "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
-        "subject": null,
+        "genre": "pamphlet",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": [
+            "Anne d'Autriche (1601-1666 ; reine de France)",
+            "France -- 1648-1653 (Fronde)"
+        ],
+        "creation": "1649-07-17",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-08",
+            "@when": "2022-02-10",
             "@who": "AB"
         },
-        "titre": "La curieuse et plaisante guerre des plaideurs en vogue,\n          en vers burlesques.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-19",
-                "#text": "19 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-28",
-                "#text": "28 avril 2021"
-            }
-        ],
+        "titre": "La custode de la reyne, qui dit tout.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
         "langue": "fra",
-        "fichier": "Moreau854_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau856_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L cureuse et psnte guerre des pdeurs en vogue en vers uresques Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté9 févrer 202 28 vr 202 Cureuse () et psnte guerre des pdeurs en vogue en vers uresques Prs Jen Du Crocq 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y456TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs854 Cureuse () et psnte guerre des pdeurs en vogueen vers uresques Prs Jen du Crocq 649 4 pgesvers poése uresque strque"
+            "LA",
+            "CVSTODE",
+            "DE LA",
+            "REYNE,",
+            "QVI DIT TOVT",
+            "M. DC. XLIX."
         ],
         [
-            "LA CVREVSE ET PLASANTE GVERRE DES PLADEVRS EN VOGVEEN VERS BVRLESQVESA PARS Chez EAN DV CROCQ u Mont Snct Hre prés e Puts Certn M DC XLX"
+            "3",
+            "LA",
+            "CVSTODE",
+            "DE LA REYNE",
+            "QVI DIT TOVT.",
+            "PEuple n’en doutez plus, il eſt vray qu’il l’a fou,",
+            "Et que c'eſt par ce trou ques lule nous canarde",
+            "Les grand & les petits en vont à la moutarde,",
+            "Reſpect bas, ileſt temps qu’ole ſçachepar tout.",
+            "Son crue eſt bien plus noir que l’on ne penſe pas,",
+            "Elle confent l’infame vice d’Italie,",
+            "E crolrois ſa desbauche tre moins accomplle",
+            "Sifonaln’auoit partà fes ſalle esbats.",
+            "EPournous vger des maux que Ingrarenous fai",
+            "et voudrois qu’on la it das la meme poure",
+            "Qui parut à mesyeux, lors que par aduenture",
+            "e deuins le teſmoin de oœlaſhe fofai.",
+            "222"
         ],
         [
-            "3LA CVREVSE ET PLASANTEguerre des Pdeurs en vogueen vers Bureques LOrs que Mrsqutté es rmes  Et qufny es rmes  Vocy quedenton  L dcorde & émoton  Ont rety prchcne  Qu ut e mouuement de Dne  Vne guerre entre es pdeurs  Dont es voentes rdeurs  Les portent touours à comtre  De deux à deux de qutre à qutre  Leurs tons ont eurs coutets  Pour eur mouquet ont des veux cs  Pen decrture vee frche  Qu eur ert de poudre & de meche  Leurs es ne ont ps du pom  Du cuure drn du eton  Ms ce ont des onnes ptoes  Qus nçent oynt es proes  Sngntes de eurs Procureurs  Qu es ppeent des reueurs"
+            "maa",
+            "lſes peis de quel eſfoy e fiſte ou ſrpdis",
+            "Voyant que la nature afrontant la naure,",
+            "ortoit contre elle reſme l’imuge de l’iniſure",
+            "Exeerable ttenta d’vn ſiiuſte meſpriſs.?",
+            "Mais pour comble d’horreuſ qui les rend odieur,",
+            "Et quel esbloümſſement frapperent mon oreille",
+            "ol prur rpnme d’ooe ple morle",
+            "Eralloiten pupts vt amour fusiex., l",
+            "taaaé. ...",
+            "Ses obiee efroyable eſtonna tou; mes ſens,",
+            "Ma raſiſonſſpeûue, & ma vue eſdre ſ7",
+            "Ne me peurent ſeruir de conduitte aſſeurée,",
+            "e fus contrant d’oiuir ces funeſte accons.",
+            "ulle que ’ayme plus que le oyny ’ſuat",
+            "e te veux teſmoigner ma paſſion exeefme",
+            "En perdant le Rqyaume, en me perant nseſne",
+            "Afin que u prfite en e Noble acntt,sCie",
+            "e ne pardonneray à mon Sceptre pour o",
+            "Que l’Vniers entier me baſme & me dereſte,",
+            "En te donnant mafFoy, Chacr eſpoux, ie proteſte:",
+            "e t’aypris pour mo Dieu, pour maoy, pourmõ Roy.",
+            "ue ratautre deuoite cedde àAmeu1",
+            "Pis qu’ ton inrereſt jexoſe ne Couronne,I",
+            "Pour quil’ambotu l reſte i’ahandoaue,",
+            "e te conſeruqa e edray le tout",
+            "Toy"
         ],
         [
-            "4  Lors que quequvn de eur rgde  Ne tre psmouquetde  Les Cercs eurs donnent e moyen  De comtre & de trer en  Afn demportervctore  s eurs dent s vous fut crore  que pour ggner votre procés vous fut fre vn peu dexcés  Dns vos preens cr votre ffre  Autrement ne vudrot ps guere  Vous voyez qupres nos ecrts nous fut fre tnt de crs  Tnt dées & tnt de venuës  Nos penes vous ont ncognuës  An vous deuez commencer  Dvn peu meux nous recompencer  Lors nos Pdeurs prennent eur cource  Pour mettremn dns eur ource  Doù ortent queues veux ducte  que es Cercs ne refuent ps  s es prent ur toutes choes  De tenr en eurs ouches coes  Cr eurs Mtres ne veuent pont  Ben qus yent e pus grnd on  qus prennent de preens honnetes  Pour vn peu segyer es Fetes Lors"
+            "J9",
+            "5",
+            "Toy ſeut peuHlCielacheua esgrandeuts,",
+            "Et qui me fit bie mieur que ton Pere eſtre Reyne:",
+            "Cher Fils ie te canfeſfe auecvmpeu de peine",
+            "e te couſte beaucoup pournourrir mes ardeuts.",
+            "Mais le fou qui me bruſleetſi clai& ſi beau",
+            "Que tonreſpec, honneur ne le ſçauroit eſteindre,",
+            "Et ſans toy ie dirois, afin de ne rien feindre.",
+            "Que ie voudrois qu’il euſt eſchauffé mon borceau.",
+            "Souffre daas ces excez vn trait de liberté,:",
+            "m’eſt bien glorieux qu’on me nomme la Mere,",
+            "faudroit neantmoins que lulle fut tou Pere",
+            "Pour efleuer vcombleà̀ mafelicité,",
+            "Peuple aueugle & brtal ſacrilege Senſeur",
+            "Pouſſeiuſque au Ciel ton inſolent murmure,",
+            "Mare les vains efforts donc on me fait injure,.",
+            "De tout ce que ie fuis il ſera poſſeſſeur.",
+            "Ta hayne a redoublé mon Amourà ſon bruit, e.i",
+            "Comme vnvent ne ſert rien que pour croiſtre ma ftaâme,2",
+            "Tes menaces en l’air ne trouble point mon ame,",
+            "Et tu verras enfin quel enſera le fruict.",
+            "e prepare vn eremple à la Poſterité",
+            "Digne de ton chaſtiment d’eternelle menmoire,",
+            "Paris ie te perdray: car ie veux pour ma gloire",
+            "Que l’on cherche quelqueiour ou te auras eſté.",
+            "B"
         ],
         [
-            "5  Lors es Pdeurs eur font erment  De nen prer ucunement  Ms qus es prent de eur rendre  Ce on offce de deffendre  Leur on drot uec pon  Les Cercs urent ns fcton  Qus en uront vn on extréme  Commesetot pour eueme  Nos Pdeurs sen vont en contns  Dns eurs mons pour queque temps  Chcun àfemme propoe  Qu crot de en ggnercue  Lors s concuent denuoyer  A eurs Procureurs pour oyer  Deux chpons grs & deux ecces  Afn duor eurs onnes grces  Les Procureurs ns retrder  Ne ent ps de es mnder  Cr eur preence et necere  Pour e gn de eur propre ffre  Vocy de retour nos Pdeurs  Qu sen vont vor eurs demndeurs  Qu eurs exhent des grnds rooes  Qu reuennent à vngt ptoes  s eur font vor u out du dogt  que pour en mntenr eur drot"
+            "6",
+            "Ville par trop rebelle eſcoute monprejat,!",
+            "Vn Cheual autrefois petdi la belle Tpoye i",
+            "Mais ie ſens en mon eourvne ſecrette joye;",
+            "Que c’eſtaſſsz d’varAſn pour vn ſi grand efſe.2.",
+            "ulle que de diſcours ftattoit on l’aſſeutaé’",
+            "onrabien que ſon Aſneeſtoit d’aiſeaue,",
+            "Et ſe creyant deſia Maiſtre de mavie;2",
+            "entendisquoes mots, il alloit profoant.",
+            "Genereux ſentiment, que ceſt ardeur me plaiſt,",
+            "Et que i’ayme d voir le ſoucy qui vous preſſe;",
+            "Ceſte haute oalere eſt iute, maPrinceſſe,",
+            "Le premier des Loixeſtle fropre intea.1",
+            "Quittez ſans plus tader ce ſejour odlem,",
+            "Oulerepeades pnos ſe purngnmdeinme",
+            "Ou la ſubmiſioni aperdu ſon eine,",
+            "Oùu les plus gens de bienſont les plusſaëieui.",
+            "Les ceuts ſont toas portésà larebelioh,",
+            "Ceu n’aguere qui douroient d’vne me plusloyale",
+            "Maintenr lrautement la puiſſance Royalle,",
+            "Pour la deſtruire mieur font ramerl’Vaſen.",
+            "C’eſt Auguſte Senat doud les Diras rree",
+            "Le rendirentiadis celebre dan’Erope",
+            "Auec vn peple vil lachenent senueloppe,",
+            "Et ſoufreauec luyde comauns interets."
         ],
         [
-            "6 fut pyer eurs ecrtures  Ces demndes eurs ont en dures  Ms s ne ent ps pourtnt  De mettremn à ntnt  A eur ource pour tsfre  Leur Procureur de eur fre  s commençent à regreter  Leur rgent & e depter  s voudroent en fnr eur guerre  Auecque des grnds coups de verre  Ms ors eurs ons Aduocts  Leurs dent qus ne çuroent ps  Termner ns eur grnd dommge  Leurs ffres & duntge  Soutennent que dns peu de temps  Les ggneront uec depens  Cette ee & douce proe  Nos puures chcneurs conoe  Ms eur epor net que du vent  Cr de meme quuprunt  On ft des grndes ecrtures  Et de nouuees procedures  queques mos etns ecoués  Nos puures Pdeurs desoés  Sont mndez pour uor encore  Tout eur rgent & eur moyen"
-        ],
-        [
-            "7  s urent en hommes de en  quynt tsft à ce roe  s nont ps de rete vne ooe  Leurs Procureurs voynt exprés  que dns e cours de eurs procés  s ont en ft dedepence  s eurs dent quen concence et temps qu fut sccorder  Lors commencent de demnder  L demeure de eurs prtes  Afn quetnts en duertes  Ees vennent dns e Ps  Où ont ces puures deoets  Vocy doncques nos duerres  Qu veuent fnr eurs ffres  Aynt fny tous eur rgent  Leurs Procureurs ont dgents  A es porter & es edure  De fre promptement ecrre  Le contrct de eur on ccort  Pr vn Notre en ccort  s voyent en prpoture  De eurs pdeurs quemeure  De eurs frz & de eurs depens  Et venuë u come du temps  s nont pusource fourne"
-        ],
-        [
-            "8  Et chcun credt eur déne  Leurs hts ont tous dechrez  Leurs ens ont tous deeperez  s ont ms eurs meues en gge  Et eur et et u pge  Ce deepor rend es eprts  De eurs femmes tout entreprts  Quees ne çuent pus que fre  Dns eur coeur grondecoere  Les rmes eurs toment des yeux  Les procez ont tnt ennuyeux  Quon es dot ns doute pus crndre  Quemort quon nous peut dépendre  Prce quee fnt nos mux  Et es procez nos ongs tomeux  Les proongent & nos ouffrnces  S on vt dns des epernces  Apres on meurt de deepor  Cette ron à e pouuor  De fre rompre comme vn verre  Entre es chquneursguerre  Qus ne pourroent pus mntenr  Prce qus vennent de fnr  Leurs es uecque eur poudre  Ce es porte à e reoudre  A fre vne trncton Auec"
-        ],
-        [
-            "9  Auec pus grnde fecton  s conuennent de cette orte  Qus e qutteront àporte  Bons ms ns demnder ren  Les vns ux utres de eur en  Leurs Procureurs nen font que rre  Et es gen ont u mrtyre  s ont epué eurs treors  Et runé eurs puures corps  Ms ors qus ont qutté es rmes  Vocy de nouuees rmes  Que font es chquneurs nouueux  s ont pus fers que des grs veux  Et pour renouueerguerre  Dechcne dnsterre  Ne srment ps de ptoets  Ny des coutets czeets  Ms en de fort onnes ptoes  Et de quntté de proes  Des ppers & de prchemns  Sns qus crgnent es ongs chemns  Et es ftgues du voyge  Chcun deuxfort on courge  s e ttent en rodomonts  Vous croyrez qus ont des demons  Ms ors que eurs oures ont vudes C"
-        ],
-        [
-            "0  s ne font pus des homcdes  s ont doux comme des gneux  Prent de creuer des tomeux  De eur procez fn de uure  L px qu montre de en vure  Lors que ces puures etourds  Sont en repos des pus hrds  Recommencentmeme guerre  Et entent e meme tonnerre  Qu es met uf en à s  Que es premers dns es comts  Concuons quvn homme et vn Ane  qu e pt de vure en chcne  Cete guerre perdrot on cours  S on otot de nos dcours  Deux eus mots qufont rentre  Qund onfte dprotre  Ces deux dctons ten es men  Sontemence & e moyen  Qu produent deusterre  Cette perpetuee guerre  Certnement es chcneurs  Sont fort emes ux veneurs  Qu perdent en ouuent eur pene  Et nont quvne epernce vne  Qu es font encor retourner"
-        ],
-        [
-            "Prmy es os e promener  An nos chcneurs en Frnce  Se nourrent dvne epernce  qu eur ft pueurs fos eur en  Mutper en vn eu ren  S es pdeurs croyoent mon dre  s ne chercheroent pont eur pre  Ms s vuroent dns e repos  Entre es verres & es pots  FN"
+            "Qui vit deſormais le deſordre ou l’orgueil des Mutins",
+            "Ae oſeé paroiſtre auec autant de parade",
+            "Deuant ees murs Sacrez, i’ay veu les Barricade",
+            "Qu’vn de vos ſeruiteurs planta de ſes nains",
+            "Grande Reyne, il eſt temps d’agir ſeuerement",
+            "Ces Rebelle ſujects ſeront bieoſt vos Maiſtre,",
+            "Puis qu’elle ne voit ſe ſeruir deſormais que d’extraire",
+            "Deſſus les fleurs de Lys de voſtre Parlement.",
+            "Mes Conſeils neceſſaire à voſtre Majeſté",
+            "Pour les executer, vous auez deux grands Princes",
+            "Qui donneront les mains au ſae de vos Prouince,",
+            "L’vn par l’impiete, & l’autre par lacheté",
+            "Il ſe turent ainſi, moy par ma paſſion",
+            "e penſay ſur le champt offrir ces deux vicimes",
+            "uſalue duPublie mais e ereut que leur erime.",
+            "Demandoit plus d’eſtat en leur punition.",
+            "Francois de qui l’Empire eſt Sain&t & glorieur,",
+            "Ne ſoufrez poiut chez ous letriomphe du vic,",
+            "Prepareà̀ Louys vn Troſne de Iuſtice,",
+            "Afin que dignement ils ſuiuent ſes Ayeuls.",
+            "FIN."
         ]
     ]
 }

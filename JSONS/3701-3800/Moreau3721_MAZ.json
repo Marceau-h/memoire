@@ -1,50 +1,160 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "récit",
+            "déclaration",
+            "texte officiel"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "France. Parlement de\n            Paris",
-            "Conférence de Rueil (1649)"
-        ],
-        "creation": "1649-03-11",
+        "creation": "1649-02-03",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-17",
-            "@who": "AB"
+            "@when": "2022-06-01",
+            "@who": "ZC"
         },
-        "titre": "La subtilité du cardinal Mazarin découverte sur la\n          conférence faite à Ruel pour la paix.",
+        "titre": "Suite de ce qui s'est passé à Saint-Germain en Laye.\n          Déclaration du roi, par laquelle sont donnés leur devoir.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3721_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3723_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L sutté du crdn Mzrn découverte surconférence fte à Rue pourpx Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 L sutté du crdn Mzrn descouverte surconference fteRue pourpx Prs Frnços Noë 649 entre e 5 et e 30 mrs 649 Prs Bothèque MzrneM2338TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs 3 étts (A/B)fn de2ede dresse \"cques ux\"/\"cques\"p 34 \"CEST\"/\"CEst\" déut22 \"que \"/\"que\"p 43 \"perts de vouor\"/\"prts de vouor\" fn3 \"opposez à\"/\"opposez à s\" déut6 \"Conference\"/\"conference\" fn6 \"ppuuor de trter e r\"/pouuor de trtter e\"20 \"pour moy pr\"/\"pour moy pr\"24 \"ouc\"/\"puc\"25 \"æorsve\"/\"horsVe\"p 74 \"necessres\"/\"uecessres\" fn6 \"peupe\"/\"peupe \" Étt Ccomme étt B suf p 74 \"necessres\" Autre édton sns dresse n dte sous e ttre \"L sutté descouverte du crdn\" (BM00402) Dprès Huert Crrer texte pru entre e 5 et e 30 mrs 649 (Bothèque Mzrne Ms 468 f 280v) 372Sutté ( du crdn Mzrn découverte surconférence fte à Rue pourpx Prs Fr ços Noë6497 pges >94 (79proseFrnce Prement de Prs Conférence de Rue (649) Sgnture du trté de Rue 64"
+            "SVITE DE CE QVI S'EST PASSE",
+            "à Sainct Germain en Laye.",
+            "DECLARATION",
+            "DV ROY,",
+            "PAR LAQVELLE SONT",
+            "donnez ſix jours aux Habitans de Paris,",
+            "pour rentrer dans leur deuoir."
         ],
         [
-            "LA SVBTLTE DV CARDNAL MAZARN DESCOVVERTE SVR LA CONFERENCE FATE A RUEL POVR LA PAXA PARS Chez FRANCOS NOEL ruë Snct cques ux Coonnes dHercues M DC XLXAVEC PERMSSON"
+            "DECLARATION",
+            "DVROV.",
+            "PA LAQVBLLE SOT",
+            "donnez ſix jours aux Habitans",
+            "de Paris, pour renerer dansleur",
+            "deuoir.",
+            "J OVYS par la grace de DIEv",
+            "oY DE EC tt .",
+            "t &V E T oos es o e",
+            "peſinealerres verone Salun Dans lel,?",
+            "ns que nous anons ue ſinre de pe",
+            "dte pournaſuuſeureae, & pout le nmaiſi",
+            "ee luduous n pdl ouiene le ul noent",
+            "e nile ou quoliu e dieun ſinienr oet",
+            "nlenoe e pat cdilnle endunanſires de",
+            "Enainenus deas aurs de la Compopn"
         ],
         [
-            "LA SVBTLTE DV CARD NAL Mzrn decouuerte uronference fte ̀ Rue pourPx EST vne Mxme dePotque & des Mchuetes ors qus ontes pus foes pr es rmes dccorderPx à quees condtonsque ce ot fn de pouuor fort fer pres eur prty pr es propres rmes de eurs ennems es dnr entr eux & detrure eurs Chefs & prncpux ppuys ou prvo ence ou pr ddree en es écrtnt ous pre texte de queegue empoy honore ou es g gnnt & ttrntà eux pr des duntges con deres Le Crdn Mzrntemogne prCon ference que es ffdez ont moyennée à Rue u en que pr roures es precedentres qu ont eté ftes uec e Prement & pr tout ce qu sen et enuuy qu ngnorot ps cette mx me & quçuot tren mettre en prt que cr voynt qu ne pouuot execurer prforce du mons ̀ preent e deen qucon ceu de runer e Prement deVe de Prs à cue des puntes troupes uxres qu ve"
+            "ont bien intentionnez. Nous auons toûjours",
+            "paſſionnement ſouhaitte que nos Peuples, &",
+            "particulierement les Habitans de noſtre bon",
+            "ne ville de Paris, reconnuſſent que le chaſti",
+            "ment que nous voulions faire de ces Faétieux,",
+            "ne les regarde point, & n’auons rien obmis",
+            "pour empeſcher qu’ils n’y priſſent part, par la",
+            "eul motif de l’affection que nous leurs por",
+            "tons, & non par aucune apprehenſion de",
+            "ppuy. qu’ils pouuoient donner au Parle",
+            "ment; n’ayant iamais douteé que d’vne façon",
+            "ou d’autre, nous ne venions à bout d’obliger",
+            "en toſt tous les Rebelles à l’obeiſſance qu’ils",
+            "nous doiuente Mais nous auons veu auec",
+            "grand regret, que toutes nos diligences ont",
+            "eſté inutiles & que les artifices dont ces meſ",
+            "chans ſe ſont ſeruis pour abuſer leſdits Habi",
+            "tans de noſtre ville de Paris, ont telement",
+            "preualu aux bonnes intentions que nous",
+            "uons touſiours eu pour eux, qu’ils les ont",
+            "engagez à deffendre leur crime par vn autre,",
+            "eur mettant les armes à la main contre u",
+            "Souuerain, & leur faiſant croire aujourdhuy",
+            "qu’il n’y a plus de falut pour eux, que dan la",
+            "reſiſtance qu’ils nous feront; Nous aurions à la",
+            "verité, iuſte raiſon de nous ſeruir de la puiſsãce",
+            "que Dieu nousa miſe en main, pour chaſtier",
+            "vne"
         ],
         [
-            "nent de duers endtots à eurs ecours & deonne voonté que es Prounces temognent de toutes perts de vouor econder eurs gene reux & chrtes deens & ppuyer eur ute deffence de toutes eurs forces set fnement reou de dper pr vn ccommodement mu é orce dontvoyot ne pouuor utrement éuter e coup epernt quynt dermé & pr ue de Chefs vnpunt Peupe & ttré eurs trouppes ̀ on prty ous pretexte du eruce du Royne uy erot ps m e de e deffre uec e temps de ceux du Pre ment & deV e & qu e ont e pus pumment oppoez àtyrnne & vocy on ronnement S dote pus ttrer e Prement à vne Conference prtcuere hors de Prs pr des Deputez qu yenr pen ppuuor de trter e re montery nfement ur m ete cr pr ce moyenmeer eucoup pus fce duor pour moy pr e pouuor que mon Demon me donne ur es eprts de ceux à̀ qu e pus prerpurté de vox dvn pett nomre que de tout e corps du Prement Et deurs ceuxqu onte emogné pus de chour pour e ouc noe ront ps ccepterdeputton ors ve Queprcs fortut s ont eur ordreexprés pour mon regrd qus ne vueent pont conentr que e demeure ̀Cour s ne refueront pes ns doute dccepter expedent que e ourfe ry"
+            "3",
+            "vne Rebellion ſi eſtrange en toutes ſes cir",
+            "conſtances, & ne laiſſer pas vn ſi mauuais.",
+            "exemple impuny. Mais conſiderant, que l’au",
+            "thoriré Souueraine n’éclatte pas moins dans",
+            "es actions de Clemencey que dans celie de Iu",
+            "ſtice, & compatiſſant d’ailleurs à̀ ce que leſ",
+            "dits Habitans ſe ſont jettez dans ce mauuais",
+            "pas, pluſtoſt par malheur & deceus de l’appa",
+            "rence d’vn faux bien, que par mauuaiſe vo",
+            "lonté, ou par deſſein formé de nous d’eſobeir:",
+            "Et noſtre affection meſme & noſtre rendreſſe",
+            "ugmentant à proportion que nous ſçauons",
+            "que leur miſere & leur ſouffrance augmen",
+            "tent, N ovs voulons bien leur tendre les",
+            "ras pour les retirer du precipice, dans lequel",
+            "sſe tr ouuent, & leur donner vne nouuelle &",
+            "ndubitable marque de l’amour que nous",
+            "uons pour eux. A Csc a va as de l’auis",
+            "de la Reyne Regente noſtre treonnrée",
+            "Dame & Mere, de noſtre tremer & tremé",
+            "Onclele Duc d’Oleans, de noſtre tres cher&",
+            "resameé Couſi le Pincee Condé, des aus",
+            "res Princes, Ducs, Pairs, & Officiers de no",
+            "Couronne, & autres Grands & Notables Per",
+            "fennages de noſtre Conſeil, eſâtaus pré́s de",
+            "ous en graad uormbre, ’ox sauons dit&",
+            "claré, diſons & declarons per ces preſentes"
         ],
         [
-            "ry ropoer de me er demeurer en Frnce en queque eueogné doù pourtnt e pour ry touours uor communquton uecReyne & es prncpux Mntres & ordonner pr ce moyen des prncpes ffres de Ett comme tetos àCour en ttendnt quuec e temps e pue my retr uenerment Cét éognement me er vertement vn peu fcheux ms u pr ce moyen oten dry nfement que es Arrets qu ont eté renduontre moy demeurerontnus en tten dnt que e pue fre retr mon honneur pr des pus mpes Decrtons & me vnge hutement de ceux qu sen one prs à moy uec tnt dgreur Cependnt ury cét dunt ge que es Bourgeos de Prs mettront s es r mes& que e pourry redure à mon prty ous pretexte du eruce du Roy es trouppes qus ont euées & cees qu vennent à eur ecours pour men erur pres contre eux memes pres quoy nyps pprence que ms s en re uennent à euer desnouuees trouppes en que ett quee es pue redurre rdeur du mn peupe setnt nfement rente prneceté du pn qusont ouffert depus deux mos & pr es contrutons qus ont eté o gez de pyer poureuée &utnce de eurs troupesCependntu ury moyen de fre ret B"
+            "6",
+            "gnez de noſtre main, que ſi dans ſix iours à",
+            "compter de la datre de ces preſentes, les Ha",
+            "bitans de noſtre ville de Paris, ne quittent les",
+            "rmes & rentrent dans leur deuoir, obligeant",
+            "par ce moyen les Gens ſe dſans tenir noſte",
+            "Cour de Parlemẽt de Paris à nous obeir, Nous",
+            "oublyerons entieremenrt & pardonnerons les",
+            "fautes paſſées deſdirs Habirans, ſans qu’ils en",
+            "puiſſent iamais eſtre recherchez pour quelque",
+            "cauſe & occaſiton que ce ſoit, les receurons en",
+            "noſtre grace, & que nous retournerons auſſi",
+            "toſt eſtablir noſtreſeiour dans ladite Ville, &",
+            "eur confirmerons plainoment toutes les gra",
+            "ces que nous leur auons ceuant dé́partis",
+            "par noſtre Declaration du vings deuzieſme",
+            "O ctobtedenier, & ſerõs preſts à lour ecn faire",
+            "de nouuelles en toues occaions. Si D n",
+            "n ons e mandement àtous nos Officiers &",
+            "Suhaiets d’obeir à la preſente Declaration, &e de",
+            "tenir lamain à ce qu’elleſoit executé́e depot",
+            "n pointſelon fafome & teneur. Cae1",
+            "eſtnoſtre plaiſir, Ea teſmoin dequoy, nou",
+            "uons fait mettn uoſtre ſel à ces preſentues;,",
+            "que nous uenx fais lire & publier en aotre",
+            "onſejl, la eye egsnl oeaſtre o",
+            "orés Dame: dLMete preſents,s où atoia",
+            "uſi noſtre rreer & emeOcle leDut"
         ],
         [
-            "6 rer es deners du Roy qu ont eté rretez pr tout de uthorré du Prement & me deffre pr force ou prdree des Chefs qu uoent ccepte e cmmndement de eurs trouppes u en que de ceux du Prement ou de H0 te de Ve qu ont rretéuec pus drdeur e progrez de mes deens ce qu ne me er ps eucoup dffce e pus es devnr es vns duec es utres & pour cet effect moyenner vn Trtté́ prtcuer du rement ns y com prendre nteret des Generux Cre croyns n ndonnez du Prement s ne eront pus prompts nyfces ̀ epouer eur que ee & à entreprendreprotecton d Peupe eque pres e perdr ueme dns es pro pres confuonsEt qu puset rrry pondneemoyen é fre ntrure & eeuere Roy pr des Gouuer neurs qu me ront ffdez & qu uy npre ront contnueement des entments de hne & devengence contre e Prement & Ve de Prs fn que qunder meur non eue mentme ouffre enCour ms u me con erue touourspour on premer Mntre Apres quoy ene mnquery pont de pretexces & de moyens pour tre e Prement pr utho rté du Roy & mevnger de tous ceux qu ont eté ez hrds que de sen prendre à mon hon neur & à m peronnee ne e pus fre"
-        ],
-        [
-            "putot comme epere Cet ̀ e verte ut des deens du Crd n Mzrn Ms Meeurs du Prement ont trop ffectonnez u en puc & Meeurs es Generux trop zeez u eruce du Roy & de eur Ptre pour nextrper pr ̀ outcue &r cne de tnt de mheurs pus qus ontmn àcognée & ont trop dnteret es vns & es utres à extncton entere du regne des Fuo rs pour mettre s es rmes ns uor pour ueuperonne du Roy de Gouuerneurs fdees & doüez des qutez reques à vnemportn ce educton qu uy nprent contnueement uec toutes es vertus neceres ̀ vngrnd Prnce es entmens ds peté enuers Deu & dmour & de envence enuers on peupe Et nous deuons etre eurez que Deu qudonné uques cỳVe de Prs des temo gnges dvne prorecton route prtcuere & vereé eudemment es enedctons ur es de ens du Prement en ce rencontre ne er pont on œuure mprfte & qunentnt à duenr comme ft pr e pe es pernceux cones du Crdn Mzrnredonner à on peupe e repos &erté que tnt de gens de en uy demndent pr eurs preres Deu nous en fegrce FN"
+            "d’Orleans, noſtre treher & emé Cou",
+            "ſin le Prince de Condé, & autres Princes.",
+            "Ducs, Pairs, & Officiers de noſtre Couronne,",
+            "& pluſieurs Grands Seigneurs eſtant prés de",
+            "nous. Doaneé à Sainct Germain en Laye, le",
+            "troizieſme iour de Fevrier l’an de Grace mil ſix",
+            "cens quarante neuf, & de noſtre Regne le ſi",
+            "xieſme. SignéLOVYS, Et plus bas, par le",
+            "Roy la Reyne Regente ſa Mere preſente.",
+            "D Gvn eGav."
         ]
     ]
 }

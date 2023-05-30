@@ -1,66 +1,151 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": [
-            "narration",
-            "relation"
-        ],
-        "subject": [
-            "Cruauté",
-            "Exactions"
-        ],
+        "form": "vers",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-04-30",
+        "creation": "1648-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-04-13",
             "@who": "AB"
         },
-        "titre": "Les horribles cruautés faites dans les provinces de\n          France par les gens de guerre d'Erlac et autres.",
+        "titre": "L'humble remontrance des bons François à nos seigneurs du\n          Parlement.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1668_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1669_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Les horres cruutés ftes dns es provnces de Frnce pr es gens de guerre dErc et utres Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Horres (es) cruutés ftes dns es provnces de Frnce pr es gens de guerre dErc et utres PrsSns Nom649 Lyon Bothèque muncpe de LyonSJ F 247/88 29TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs668 Horres (es) cruutés ftes dns es provnces de Frnce pr es gens de guerre dErc et utres Prs 649pges Édton ugmentée deChmpgne désoée pr rmée dErc On me à douter de uthentcté de tous ces déts tnt s sont ffreuxCependnt uteur nomme es vges et es per SOeSprose nrrton reton Cruuté ExctonsVoyge de Fndre 640"
+            "L’HVMBLE",
+            "REMONSTRANCE",
+            "DES BON",
+            "FRANCOIS",
+            "A NOSSEIGNEVRS DE",
+            "PARLEMENT.",
+            "A PARIS,",
+            "M. DC. XLVIII."
         ],
         [
-            "AA h e e& t6 éePtep DrD r D r LESHORBLES CRAAVTE2 ftes dns es Prounces de Frn e pr es gens de guerres dEr ch & utres QEt à̀ cecoup queon vor Ett depore depuure Frncepre t ent defte &endonnee de coot L e Mondenypus que deepor dns es Ves Bourgs & Vges des Prounces ce net que feunyque des peurs des gemements des tortures des vos des Mrtyres des cruute omnes exetcez pr es gens de guerre du Gener Erch &tres eques ont pres que des Demons n uenteé tous es ours de nouucux uppces ne e pouunt oûer du ng des puures htns des ves & vges e ne ç̧y pr que moyen vous es decrre dutnt qus ont engrnd nome re & me trouuntdvn grnd reentment voynt qu preent qu nypus de remede oneu crer peronne ne peut ecouter e De regnepreent dnsFrnce &qunt A7 c"
+            "3",
+            "L’HVMBLE",
+            "REMONSTRANCE",
+            "des bons Francois à Noſ",
+            "ſeigneurs de Parlement.",
+            "ARITRES de nos Deſtinées,",
+            "Aſtres qui ſur noſtre oriſon,",
+            "Ramenés la belle ſaiſon",
+            "Apres tant de triſtes journées,",
+            "Vos ſoins ſont les fruits de nos vœux",
+            "Faſſent pour nous, &nos epreuvr.",
+            "Tout ce que le Ciel vous jnſpire",
+            "Pour vn peuple perſecuté",
+            "Et rendez à ce Grand Empire",
+            "Sa premiere fœlicité.",
+            "A y"
         ],
         [
-            "é de Comms ut érre pour cet efet equesront en tot excuté́ eurs deensnous nuoõs recours à Deu pr nos preres e upper de nous regrder en pté & denuoyer à notre ecours Moneur nt Mche prote cteur deFrnce pour comrre tous ces Comms dohques qu empechent e repos de notre on Roy & de on puure peupe venez donc grnd Guerrer du Ce venez protecteur deFrnce nous tten dons votre ecours uec mptence nous prons Deu que ee fot u utot An otHorres CruuteZ ftes dnsCmpgne pr es gens Erc TEr Suoye du Bourg Touree proche deRhems sé́tnt retré dns vn totà porc uec outefme peur defureur de qutre Ae mns ont demeuré tros ours dns edt toét ns mnger es Aemn e pomennt dn Cour entenderent qu y uot quequvn dns e toct mrent crq ou x otte de pe umeée àpor te epernt qus ortroent u tot ms es purs gens nynt psforee furet eéoufes defuméeDns e meme vge Frnços dAuty fe se"
+            "e34.",
+            "Des commencemens ſi proſperes,",
+            "Nous flatrant à vn Siecle plus doux",
+            "Et l’eſclat vous regarde Tous,",
+            "Comme de veritables Peres,",
+            "Ce tiltre vous eſt glorieux",
+            "Et toute la France à les yeux",
+            "Deſſus voſtre auguſte Sceance,",
+            "Maintenant Iuges Souuerains",
+            "enieue den eie o la",
+            "8",
+            "Le Ciel aydant voſtre courage",
+            "Et voſtre genereux devoir",
+            "Renuit enfin le pouuoir,",
+            "Pour acheuer ce grand Ouurage,",
+            "Pouſſez d’vn noble mouuement,",
+            "Seruez vous glorieuſement,",
+            "De l’authorité qu’elle vous donne,",
+            "Et que voſtre ſaincte vnion,",
+            "Ne ſouffrez pas qu’on la ſoubçonne",
+            "D’vne ſi l’aſche coruption.",
+            "A"
         ],
         [
-            "ez peds & mns vn on dnsouchequee mouruo pendnr que on forço ces deut ee fes ngé́e de dx ns & utre de trej equees ons mortes deux heures presAu meme vge fut rtchee vne vce fem me àche mnée uy ruerent pnte des peds uec vne pee toutre rouge &nture pour uy fre dre o ee uot rgem mourut en me me tempsDns ede vge de Touree Egoeté pée eucoup de perfonnes qusy etoentpe reées ont eté cres voé́es dns dte E ge  Ls vges dutourRuere Dttgoy tôus rezoeucoup de Borgos & pïns ort té mryre pr ces d́mons onmue vous pouuez vor res Vn nomme Dros fut pendu dnsmon uectoute f fmte reerue de s fe qu ut voée pr pueurAmns2Auvge de Mchu s ont mcré qun tré de peronnes pjuépupr des mons pd hge vjo es fos do ou ge de opo huct ns 7j 2Vous çuez que e Chtqu de né Lmert où etot Moneûr de oyeueeté́ fort ́ peéj onmfcr̃tores e peronhes qu etoe ddnsAAM p mo"
+            "5",
+            "9",
+            "Pauure France que l’on opprime",
+            "Pour t’auoir trop tiré deſang",
+            "Tant de Vautours rongent tonflanc,",
+            "Que tu n’eſt plus qu’vne Vietime,",
+            "Mais tes maux ont aſſez duré",
+            "Maintenant vn Siecle d’Oré,",
+            "Rendra tes plaintes aſſoupie",
+            "Tu mangeras ton pain ſans pleurs",
+            "Et l’on chaſſera ſes Harpies,",
+            "Qui ſengreſſent dans tes malheurs,",
+            "e8",
+            "Ceſt vne venimeuſe Inſecte",
+            "Qui cauſe la mortalité",
+            "Et qui flattanr l’Authorité,",
+            "La rend odieuſe & ſuſpecte",
+            "Les grands voleurs dignes des fers",
+            "Ne doiuent point eſtres ſouffers",
+            "Quant vn commerce ſi laſche,",
+            "Tous les ſuppots ſoient abolis,",
+            "Er ne ſouffrez plus vne tache",
+            "Qui reuit l’eſclat de nos Lys."
         ],
         [
-            "Ces n eureux Aemns pres que des D es cofferenr vne chevremrent entre deuxdrps dns vn ct & enuoyerent querr e Curé pour uy fre er eS Screment àchevre e Curé́ reconnontmce de ces omnes refuf e meheomps de uy er ces Ae nns voynt quse vouot ps e frent mourr dvne mort que e oe vous decrre unt ee et crueenq ps e nus dn vn os fuens t trppés prpeurs Aemns qu neftoent ps encore ouus de ng es perceh à vn pre es frent mourr à coup de ptoets 2 Aeros eusde Rhems s ont entreé́ dn E ge duvge qusont peé & ont tré qumtteé de coups de ptoets contreScte Hote ueo des phemes omnes & ont ft eur ordureur es AuresDns e mmevge s entrerent dnm on dvn nommé FrnçosVuen e trpuunt en core dns on ct uecfemme s e prrent & juerentpnte des peds pour uy fre eonfeer où etot on rgent Ce pmre homne fut tontrnt de e dre de dépt qus uoénr de eequs ny en uot ps eucoup e frent mou rr à pcte feu prronr en ut efeme uy eue ent u pte des pcds punuy freddcou2 urr encore queque choe Ne çeuret treru2"
+            "6",
+            "C",
+            "Vainoment es hommes d’affaires",
+            "Taſchent de diuertir leur ſort,",
+            "Leur fortune ne fait effort",
+            "Que ſur des ames mercenaires,",
+            "Et voſtre zele non ſuſpect",
+            "Ne differe point ce reſpects,",
+            "Ny d’intereſt ny d’aliance",
+            "Et le ſalut de deux ou trois,",
+            "Vous eſt de moindre conſequence",
+            "Que celuy de tous les Frãnçois.",
+            "Regardez ſages Politiques,",
+            "Dans nos Villes & dans nos Champs,",
+            "Et vous verrez que ces meſchans,",
+            "Sont les peſtes des Republiques,",
+            "Tout le pays eſt déſolé,",
+            "s ont tous pris & rout plle,",
+            "Sans reſpect de ſexe ny d’aage,",
+            "Ce ne ſont que pleurs & que cnis",
+            "Et par tout ſe trouue l’image",
+            "Des reſtes d’vn fameux debris."
         ],
         [
-            "e pre dee nor quee dot touours mon Deu yez pteé de moy es rhnes voynt co uy mren depoudre à cnon dnsnture & y murent e feu mourut peu pres Au meme vge cques Bouron fut tt ché́ à vn morceu de os ped & mns pou uy fre decouutr es cches drgent qu y uot dns e vge voynt qu nen çuot pont e fouëtterent epce dvn qurheure pus uy fendrent e ventre uy rrcherent e cur e tterent à vn chen qu ne e vouur ps mnger Pueuts Pretres ont eté dépoüeés tdut nû̂s eur ttchnt des chts ur e dos & es on foü̈e té uques à ce qus furent tous ecorchés pus es 3ttcherent àqueuë de eurs cheuux es tr nnt pr evge Vous çuez qus ont entré dnsChpee de notre Dme de Benot e Vux oùont touu pé & ont prsmge deVerge & on ouppée pr moceux uec des hches & ont ms dns e feue foc quntté de mr ces dns dte Chpee Vu eueomme uchnt de e uuer uecfemme dns vn os fut otrpé dvn Ans eque uy h vxcoup de hche urtete qu uy fend uques u covouut forcerfeme e pres quee y m mcouffrrmo e rc de meshe dx coupdepeos dns"
-        ],
-        [
-            "emee mourut dnt mon eu ptdonnes moy mes futeH emmen & es fe de tous nge y on eté voees ns y éprgner utune dems e geyfe de pus grnds m eres que dun doureeo dunt que eucoup de pe n De Vretre s y font touues oerent de nuep ou petruent ourpnteur ye u grndecue dequtte deperonmes qu on porty meure u quntué de poonme de ofd us qu u nr que deeuneou e quon ere qunre de corps du e pur Pohe de Preyone enme dns ne ge qus eoree eornedeeue deree qu n e e oue puedns eoue peren o eoe o de nue ene o eneu npne u n ue qu rr vncoup demouquet conureCruet &u en ure ous es ues ques e qrono ̀ teree dunsChppeey uo pueun emoes oees s oeren espus e e ures es foueeret uqueu mounne e qu uoent eté Voees furent ud queue d nns ceuus ner e fr cppo u ren err Que ds u duot Le edr nenur eooun s e renme u ps ton mene du uonDomufre pous vu muuus dnre quuueut deeoneruheun Ce pgent pe qudepes ont prt & emmene quns Dmes"
-        ],
-        [
-            "Dmes de con dton & fe dns eur Cmp qu eruent decuesces endez ne fut pus prer depuure Chmpgne pusque on ncheue de tot runerne rete pus que queques grns qu ont urterre que ces enrgez ont mnger à eurs cheuux Pr ens prenez grde ̀ vous nsPcrde s cemmenceot tn fre u tnt comme s ont ft dnChmpgnepns de pé́ mfcré́ voé́ tous es vgeos e retrent dns es ves prncpes come Core nt Quent Perenne tout y et cypnp de pu res vgeos qu e uuenr uee eurs etjuy v tnt de monde qus ont côtrnts de cou che dns es ruës deus e pué deous es u vns e frod y etgrnd que chcun cre de n ercorde uques ux pertsenfnscherté́ de Vures y et en grnde hy meure quntté de onde de puureté́Dns Anjou & pys du Mne e ne vous pus décrre e deégt qu sy ftes cresdes gens de guerre egeos ndonnent tour e vo ny et ps eprgné e voe e euement des m ons tout et en futrteydeseconds Aemns hen qus oent Frnços de nton Choe p ye àvorvudrot eur perr out dn oup que nt ngure rportery vne htoe en pnt qu etps mon ptoye que es ures ceunt"
-        ],
-        [
-            "Vne femme nommée Dene Budoün e pennt uuer ueefe dnsve dAngere comme font à preent tous es htns des v ges e trouunt entre es ms de nos denturez & demons dechnez s prrent cette femme uy otetent tout ce quee uot ur eeerent toute nuëfoüetterent de rns drresfe fut voée deuntmere pus en ynt ft à eur voontéerens à utre rrefoeteeret cõ̃me nmere ur ces entre ftes p prà deurzons Regeux eques vount pperfu re de ces rres qu ne pens erur quà̀g menter eur fure duntge quuprunt s prrent es deux Regeux és erent u à vnre & cependnt que on futgeot es deux Re geuxmere &fe ren rent eprr &erent es deux Re geux pour norts e ne vouds prery ps des tortures qus enercent pour e fre donner de rgent trop h orres à decrremrchons à Bordeux ò tout certe Pounre et en vn deépore etf Dns Bordeux t yeu qunîté d eesEges ruées & grnd nomre d peronnes qu nt fny eut ve tne du feu que dés frnrmes oû ee etehcoed à preent engnde déuon e coee à peetjvodus y voye que des fmmesde eus des emremens qu ecrentes Mohtsdees vées vous yetendeque des crs des pu"
-        ],
-        [
-            "ures htns rnt de vges ruez tnt de pu ures vgeos qu ndonnent eurs ens qu ent à̀protecton des odts vous ne trouuez dns es chemns que des corps morts tnt grnds que petts dutres petts enfns dns es chemns es vges dutour de Lourne ont tous per dus cet vn pys de deoton & de trtee Vo ett depore depuure Frnce ererceée pr des Tyrns qu cheuent deperdre enterement vo de ees exempes pour Prs qu touors dors oneu e pouer & d uerer du mheur qu uy dot rruerouche oree & ne veut ps entendre es crs & cruutez des puures Prounces qu nguenL Mo Deu puque Prs etendormy veez pour uy & e deffen dez du mheur dontet mencé utre Prement veez donc s vous pt pour e ougement du peupe & conderex ett de pore de toutes es Prounces poyez e ou gement du puure peupe ngunt ee ps ez pâtr & ouffrr pour vn homme de net qu vent de ong pour vn Mntre trnger qu troue tour Ett qu de onemps ne pourr etre en repos qu ne cherche utre choe que de vous fre perr & toute s Frnce e pre Deu que on deen ne pue reutFN"
-        ],
-        [
-            "Vne femme nommé́e Dene Budoü̈n e pennt uuer ueefe dnsve dAngers comme font à preent tous es htns des v gés e trouunt entre es ms de nos denturez & demons dechnez s prrent certe femme uy oterent tout ce quee uot ur eeerent toute nuëfoü̈etcerent de rns drresfe fut voée deunemere pus en ynt ft à eur voontéerent à utre rrefoueteerent coõme mere ur ces entre ftes p prà deuxons Regeux eques vount pperfu re de ces rres qu ne pens erur qug menter eur fure duntge quuprunt s prrent et deux Regeux es erent u à vn r re & cependnt que on futgeot es deux Re geuxmete &fe ren rent eprt &erent es deux Re geux pour norts e ne vous prery ps des tortures qus exercent pour e fre donner de rgent trop horres à decrre mrchons à Bordeux où tout certe Prounre et en vn dépore etrEns Bordeuxyeu quntté e ees E ges rué́es & grnd nore de peronnes qu ont fny eut ve tne d feu que des frmmes oûee et ehcoe à̀ preet en gnde doons coe à peetjvous ny xoyez que dé fnnetsde eu des emremens qu ecrentes ôohts e es vées vous yrntndez que des crîs des p (2"
+            "57",
+            "8",
+            "Aſſez a troublé noſtre ioye",
+            "Leur inſolente cruaute,",
+            "Aſſez de leur auidité",
+            "Nous auons tous eſté la proye,",
+            "Ces gens de tous hays & crains,",
+            "Perdent meſmes leurs Souuerains",
+            "La diſettes de leurs Prouinces,",
+            "Oſte la force à leurs proiets,",
+            "Et l’incommodité des Princess,",
+            "Vient de celles deleurs ſubiets.",
+            "9e",
+            "Le retour de ces iours plus calmes,",
+            "Signalera voſtre Vertu,",
+            "Releuer l’Eſtat abatu",
+            "C’eſt cueillir d’eternelles Palmes,",
+            "Rendez de mon Roy, quoy qu’Enfans",
+            "Leregne heureux & Triomphant,",
+            "Et monſtrenz à toute la France",
+            "Par de propices changements,",
+            "Que les loix & voſtrec prudence",
+            "En ſont les plus fortsfondements."
         ]
     ]
 }

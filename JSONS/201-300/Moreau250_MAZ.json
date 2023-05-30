@@ -1,45 +1,97 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "arrêt",
-            "texte officiel"
-        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Fouquet, Nicolas (1615-1680)",
-            "Armements",
-            "Militaires",
-            "Impôts",
-            "Aliments – Approvisionnement",
-            "Pontcarré (Seine-et-Marne)"
-        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-10",
+            "@when": "2022-03-30",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, portant qu’il sera fait\n          recherche des moyens d’avoir argent, pour l’armement et subsistance des gens de guerre,\n          avec défense, aux habitants, de payer aucunes tailles ni autres taxes ; et en cas de\n          contravention , qu’il sera procédé par voie de représailles.",
+        "titre": "Arrêts de la cour de parlement, pour l’ouverture de la\n          conférence et passage des vivres et autres choses nécessaires en cette ville de Paris,\n          avec députation d’ancuns présidents en ladite cour et autres y dénommés, pour traiter et\n          résoudre de tout ce qui sera utile et nécessaire à cet effet en ladite conférence, pour la\n          paix générale et soulagement des peuples.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau250_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau251_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement portnt qu ser ft recherche des moyens dvor rgent pour rmement et susstnce des gens de guerre vec défense ux htnts de pyer ucunes tes n utres txeset en cs de contrventonqu ser procédé pr voe de représes Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Prement de PrsArrest decour de Prement portnt qu ser ft recherche des moyens dvor rgent pour rmement & susstnce des gens de guerre vec defenses ux htns de pyer ucunes tes ny utres txeset en cs de contrventon qu ser procédé pr droct de represes Du 22 févrer m sx cens qurnteuf Prsmprmeurs et rres ordnres du ro649 dté du 22 févrer 649 Prs Bothèque MzrneM4463TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Contre rrêt du conse dté du 5 févrer nsturnt une txe pour es msons de cmpgne des conseers et offcers du Prement (BM0032) Sgné \"Du Tet\" 250 Arrêt decour de prement portnt qu ser ft recherche des moyens dvor rgent pour rm ment et susstnce des gens de guerre vec défense ux htnts de pyer ucunes tes n utres txeset en cs de contrventonqu ser procédé pr voe de représes Du 22 févrer 649 Prs pr es mprmeurset rres ordnres du ro 649 4 pgesy vt un rrêt du conse qu txt es msons de cm gne des conseers et offcers du prement Lrrêét du 22 étt donc déjà un cte de représes Vor es Txes ftes ès msons sses ux envrons de Prs etcprose rrêt texte offceFouquet Ncos (680) Armements Mtres mpôts Aments – Approvsonnement Pontcrré (Senrne)"
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "POVR L'OVVERTVRE DE LA",
+            "Conference, & Paſſages de Viures & autres",
+            "choſes neceſſaires en cette Ville de Paris ; Auec",
+            "Deputation d'aucuns des Preſidens de ladite",
+            "Cour, & autres y dénommez, pour traiter et re",
+            "oudre de tout ce qui ſera vtile & neceſſaire à cet",
+            "effet en ladite Conference, pour la Paix generale",
+            "& ſoulagement des Peuples.",
+            "Du dernier Février & premier Mars mil ſic",
+            "cens quaranteuf.",
+            "A PARIS.",
+            "Par les Imprimeurs & Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX",
+            "Auec Priuilege de ſa Majeſte."
         ],
         [
-            "Arret deCour DE PARLEMENT PORTANT QVL SERA FAT recherche des moyens duor rgent pour Armement & Sutnce des gens de guerre Auec defenes ux htns de pyer ucunes Tes ny utres Txes Et en cs de contr uenton qu er procedé pr droct de re prees Du 22 Févrer m x cens qurnteufA PARS Pr es mprmeur & Lrres ordnres du Roy M DC XLXAuec Pruege deMjeté"
+            "3",
+            "Du Dimaamche vingaicfieme éorier",
+            "mil ſix cens quaranteuf.",
+            "CE jour, la Cour teoutes les Chambre",
+            "embĺes, Ayant deliberé ſur le recit",
+            "fait le jour d’hier par Monſieur le Premier",
+            "Preſident, de ce quit’eſt paſet S. Germain",
+            "en Laye, en la Deputation faite vers le Roy",
+            "& la eine Regente, en exoeution de l’Arreſté du 19. de",
+            "e mais & an, & de la Propoſition faite de tenir vna",
+            "Coaference. pour aduilſer à’ee qui eſt naceſſaire pous",
+            "hien de la Pat generale & ſoulagement des Peu",
+            "ples; Et oü̈yſus ce les Gens du Roy; A ARRESTE’ &",
+            "ordonné, que ladite Conference ſera tenuë en lieu ſeur,",
+            "tel qu’il laia an Roy & à̀ la Reine Regente, qu’à",
+            "eette finy aſſiſteront quatre Preſidens de ladite Cour,",
+            "Va ou deux des Generaux, Deux Conſeillers de la",
+            "Gand’ Chambse, vn Confeillaer de chacune Chambre",
+            "das Eaqueſtes, & vn des Requeftes, comme auſſi vn",
+            "Mait des Rqueſtes, Deux de chaeune des Compa",
+            "gnies Souueraines de cette Ville, Et le Preuoſt des",
+            "Marchands, ou en ſos abſence l’vn des Eſcheuins; Leſ",
+            "uels auront plain pouuoir de taiter & reſoudre ee",
+            "quils jugeroat par leur prudenes, & qui ſera rouué",
+            "plus propre, vtile & conuenable pour le bien de IEſta,"
         ],
         [
-            "4 tre edes htns de Ponré pporter enCourCommon dns tros jours presgn feton du peent Arret en on domce à Prs ̀requete d Proeureur Gener du Roy & ju ques ̀ ce uyntedt nxercce deChrge uy ft defenes den fre uune foncton ̀ pene de fux FAT en Prement e vnge deuxéme Févrer m x cens qurnte neuf Sgn6 DV TLLET Cotonn&Orgm prmoy Conee Secretre du Roy & de es Fnes"
+            "4",
+            "oulagement des Peuples & particulierement de laVille",
+            "de Paris, authorité́ desCompagnies & conſeruatio des",
+            "ntereſts de ceux quiont témoigné fidelité & affebion",
+            "en cette occaſion ſi importante, dont ſera donné ad",
+            "uis au ſieur Duc de Longueuille, auſdites Compa",
+            "gnies Souerines de Patis, ux Deputez d Paule",
+            "mens de Rouen & d’Aix en Prouence, & auſdiPre",
+            "uoſt des Marchands & Eſcheuins: Et ſeront les Gens",
+            "du Roy deputez, pour aller voir ledit Seignero1",
+            "dies ame Reie Regente, pous leur faire entend",
+            "e preſent arteſte, & les ſuppliar de la part de ladu",
+            "Cour, Que ſuiuant la parole donnee, les paſa",
+            "foient ouurs pour la diborté des choſes neceſſaira",
+            "eete Vſ, dt ont eſté deputez Meſiurs leas",
+            "mier pedenrt, de ieſne ſacodoreſdent be",
+            "meue & de Nenmon, auſi pefidene Delonoua",
+            "&e Menardeau, Conſelers’de la nnd’’hamb;",
+            "De la Nuuu, de Coe, bitult, n. Vole &edluu.",
+            "des Enqueſtes, Et le Févré des Requeſtes",
+            "Du Lundy promier jour de Mars 1649.",
+            "CE jour, la Cour toutes les Chambres aſſemblée,",
+            "Maiſtre Guillauime Briſſonhe Conſeiller & Mai",
+            "des Requeſtes, a eu depue poui lerecunioſ",
+            "meſté du jour d’hie. Signe, DvTILLEI."
         ]
     ]
 }

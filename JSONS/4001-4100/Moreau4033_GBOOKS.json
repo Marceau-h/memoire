@@ -1,87 +1,196 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "dialogue",
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-01-28",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-13",
-            "@who": "ZC"
+            "@when": "2022-09-06",
+            "@who": "AB"
         },
-        "titre": "Le visage de la cour et la contenance des grands, avec\n          leur censure et le dialogue du roi et du duc d'Anjou avec la mamman , en\n          proverbes.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Les visages qui se démontent, en vers bur\n          lesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-15",
+                "#text": "15 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-03-25",
+                "#text": "25 mars 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau4033_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau4034_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le vsge decour etcontennce des grnds vec eur censure et e dogue du ro et du duc dAnjou vecmmmnen proveres Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Seur de Sndrcourt Frncçoudes de Mézery Vsge (e) decour etcontennce des grnds vec eur censure et e dogue du ro et du duc dAnjou vecmmmn (sc) en proveres PrsSns Nom652 Lyon Bothèque muncpe38083TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs4033 Vsge (e) decour etcontennce des grnds vec eur censure et e dogue du ro et du duc dAnjou vecmmmn (sc) en proveres Prs 652 20 pges Sndrcourt Voc queques proveresL reneee est comme e cmeot eeprs son p Mzrncest un on grden pour es res que e oup Le Codjuteurcestmesgne dArchmutpusy enmons vut Turennepene de vn nest ren à compter Le prnce de Condéqu ne ft que pour so ne mérte ps de remercements Le Prementqu cherche e mheur e mheur u ventprose dogue Arrvée du crdn Mzrn à Poters 658"
+            "LES",
+            "VISAGES",
+            "QVI SE DEMONTENT.",
+            "En Vers Burleſques. <pb n=\"2\"",
+            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5426080d/f3.item.r=bpt6k5426080d\"/>"
         ],
         [
-            "LE VSAGE DE LA COVR ET LA CONTENANCE DES GRANDS AVEC LEVR CENSVRE ET Le Dogue du Roy & du Duc dAnjou AuecMmmn EN PROVERBES A PARS M DC L"
+            "LES",
+            "VISAGES",
+            "QVI SE DEMONTENT.",
+            "COurtiſans, noſtre experience,",
+            "Vous donne vn ſalutaire aduis,",
+            "C'eſt d'auoir ſelon l'occurrence",
+            "Des viſages fermez à vis,",
+            "Sçauoir rire, pleurer, & feindre,",
+            "Diſſimuler & ſe contraindre,",
+            "C'eſt le ſecret d'vn eſprit fort:",
+            "Car le Baron deuiendra Comte,",
+            "S'il fait ioüer à grand reſſort",
+            "Vn viſage qui ſe deſmonte.",
+            "Gardez touſiours la deference,",
+            "Practiquez l'aſſiduité,",
+            "Faites cent mille reuerences,",
+            "y va de l'vtilité,",
+            "Baiſez les mains que l'on abhorre,",
+            "Plus que les crimes de Gomorre,",
+            "Parlez à double intention,",
+            "Sur tour pour trouuer voſtre compte,",
+            "Meſlez dedans l'occaſion",
+            "Vn viſage qui ſe demonte."
         ],
         [
-            "LE VSAGEHHDE LA COVR En Proueres LA FRANCERoy de Pper Prnces de Pe Peupe A de Fon LE ROYe Che ouuent & e ts es uons ms onme rompt mon Pre & Epgno prend es etes Le Crtquene o nn reue oue Le Duc dAnjouNous urons notre Regne pres es utres Le Crntque 7 ur cependne en des tetes ees L ReyneA out perdre n qn coup pereur"
+            "4",
+            "La plus ſpecieuſe fineſſe,",
+            "Qui vous peut faire maintenir,",
+            "C'eſt de mentir auec adreſſe,",
+            "Et de promettre ſans tenir,",
+            "Dites apres le mot pour rire,",
+            "Donnez la pointe à la Satyre,",
+            "Pillez pluſtoſt dans les Autheurs,",
+            "Et bouffonnant ſur vn bon conte,",
+            "Ayez au gré des Auditeurs",
+            "Vn viſage qui ſe demonte.",
+            "Soyez ſans yeux & ſans oreilles",
+            "Si vous voulez viure à la Cour,",
+            "Car trente ans de nuits & de veilles",
+            "Souuent ſe perdent en vn iour:",
+            "La peine eſt mal recompenſée",
+            "De celuy qui dit ſa penſée:",
+            "court hazard d'eſtre interdit,",
+            "Si ſon front de marbre ou de fonte,",
+            "N'a pour conſeruer ſon credit",
+            "Vn viſage qui ſe demonte.",
+            "Viſages cuits à l'eſtuuée,",
+            "Viſages cuits au couroüillon,",
+            "Viſages baſtis à coruée,",
+            "Viſages à mettre au billon,",
+            "Viſages de valets de carte,",
+            "Viſages d'abord qu'on eſcarte,",
+            "Viſages feüillus cacheous,",
+            "De peur que l'on ne vous affronte,",
+            "Car vous n'auez pas comme nous",
+            "Vn viſage qui ſe demonte.",
+            "Aupres"
         ],
         [
-            "4 e nen demordros ps pour tous es Fs dEue & dAdm Le Crtque Chcun et re de foer à es depens L ReyneM cheme met pus proche que m cm oe & qu mme me mon chen Le Crtque Ee et comme e cmeot eeprs on pyLe Prueé Cone Vn vet ne peut fre que ce que on mtre uy commnde ny vn cheu rdé er utrement que comme on e mene Le Crtque Qu e ft ete merte que oup e mnge Le meme Prué ConeNous ommes du os dont on ft es vees de tous ons ccords Le Crtque Autrement s à toutes etes Le Premer Predent e us e Chen u grnd Coer ren net en fte ne e fs Le Crtque L grnd Bre ne ft ps e Phoophe ny Homme dEtt Mon"
+            "5",
+            "Aupres d'vn viſage de plaſtre",
+            "Nous contrefaiſons les doux yeux,",
+            "Et noſtre reſpect idolatre",
+            "Le nomme le vainqueur des Dieux:",
+            "Puis trouuant vne autre fortune,",
+            "Nous ſçauons d'vne loy commune",
+            "Traitter toutes ſortes d'objets,",
+            "Et ſans rencontrer de meſconte,",
+            "Prendre pour de nouueaux ſubjets",
+            "Vn viſage qui ſe demonte.",
+            "Quelquesfois l'apparence trompe,",
+            "Et déguiſant la verité,",
+            "Le luſtre d'vne vaine pompe",
+            "Surprend noſtre credulité,",
+            "Tel aux obſeques de ſon pere,",
+            "De ſon eſpoux ou de ſon frere,",
+            "Feindra par des larmes d'oignons",
+            "Que la triſteſſe le ſurmonte,",
+            "Et traiſnera iuſqu'aux talons",
+            "Vn deüil ioyeux, & c.",
+            "Virginitez vieilles & ſainctes,",
+            "C'eſt trop dire de chappellets,",
+            "eſt temps de quitter vos feintes",
+            "Et de receuoir des poullets:",
+            "Que voſtre humeur donc s'accommode",
+            "A nos deuotes à la mode,",
+            "Quittez vos faſcheux Directeurs,",
+            "Et ſouffrant que l'amour vous dompt",
+            "Ayez au gré des ſeruiteurs",
+            "Vn viſage, & c.",
+            "B"
         ],
         [
-            "Le mee Psemer Predentnet que de en fre es orges qund on yet e men fs ppeer Mere en pr es Vges e Crquene perdr ren fute de e demnder Le meme entnt que nommé en Archeuechede Tououe e us m monté ms en rtrpe touoursquequvn e Crtque Autnt de on que de voée & pus de chnceque de en oü̈er Seruene A tous Segneurs tous honneursne fut pont snformer de que coté vent e vent pourueu qu ot on Le CnnqueA homne gnue ers s Dooneteny Mrde nuues t Su pnendntnet que de e rouuer où on déprt Eu ete on entouoursprt Le Crt que Eu ente de Cour nefce ucun peché vene Le veuxntemdnt Fueur de Prnce et ps hen ge & en pu eurs etts e vot qu eune ne meur"
+            "6",
+            "Pauures ſots l'on baiſe vos femmes,",
+            "Et feignant de n'en ſçauoir rien,",
+            "Vous acquerez le nom d'infames",
+            "Pour l'intereſt d'vn peu de bien,",
+            "Pour des perles, ou pour des juppes,",
+            "Vous paſſez en ville pour duppes,",
+            "Vos larmes ſeruent de ioüet,",
+            "Vous deuriez rougir de honte,",
+            "A moins que d'auoir à roüet",
+            "Vn viſage qui ſe demonte.",
+            "L'argent qu'auiourd'huy l'on demande",
+            "Fait que durant le Carnaual,",
+            "A moins que de payer l'amende",
+            "L'on donne rarement le bal:",
+            "Si quelqu'vn eſt dans l'oppulence",
+            "feint d'eſtre dans l'indigence,",
+            "Et pour mieux deſguiſer ſon ieu,",
+            "De peur que ſa taxe ne monte,",
+            "câche ſoubs l'habit d'vn gueux",
+            "Vn viſage, & c.",
+            "Pendant que le ſiecle eſt malade,",
+            "Chacun par de diuers reſſorts",
+            "Met ſon eſprit à l'eſtrapade",
+            "Pour le rendre de tous accords:",
+            "La feinte autresfois capitalle,",
+            "Doit eſtre vne Vertu morale",
+            "Pour la faire conſiderer,",
+            "Puis que Panurge nous raconte,",
+            "Qu'il faut auoir pour proſperer",
+            "Vn viſage, & c."
         ],
         [
-            "6 Le CrtqueCet grnd dommge qundrre m à gens de en on compte on c et penLe Teer e deuens dEueque Meuner Le Crrquenet chnce qu ne retourne Mneur de Veroy Ce que vn ft utre détrut Le Crtumprudence ne quert eence Le Duc de Dmue e us my du eœur ychnce ms y peur quece ne ot ps deonne Le Crtque ne vut ren qu n courge Le eux Chnceer e ç̧uos en quon reuendrot cure à notre fourLe CtqueeOn conute touours es veux Sorcers &net que Chngeurs pour e counotre n mon noye 4Mn de Chfeuneuf On me pe ouuentpume pr e ec e Crtque Pour vn ponct Mrn perdt on ne"
-        ],
-        [
-            "Gutut Cprne des Crdes deR eyne fut fre e Chen pour uor os e Crrque En epernce duor nneux tnt vt e Loup qu deuent veux Roqueure & e rqns de Géuresft on e tenr u gros de Arc Le Crtque Pourueu que e Tronc nen ot pourry Les Mods Germn Montgu & dgyAonne heure nous prtpuye Le Crrque L mrchnde de on et touourspus pr eée & ren qu ve trouue putotchnce que queque choe de on Ondedey e me trouue cy comme u ps de Cocgne y rencontre tout à ouhtLe Crquevent de en on fre honte & dommge à on von Mzrn e e tout fre & tout dre ms e ç̧uryen prendre m pce en temps & eu Le Crrque Cet vn on Grden pour es Bes que e Loup"
-        ],
-        [
-            "Le CodureurOn ne me connot ps pour me vor & te pre de nous deux qu ne çt commeyLe Crrque Vn Brer ryt utre & cetMegne dAr e nout pusy en& mons vut Le Roy dAngeterre e us Moneur de nu eu fute de pce & ne çy pus ̀ que nt me recommnder Le Crque Vn mheureux voudror que tout e monde e reemt cet pourquoy cetty tche à nous metre dns e pnneu L Reyne dAngeterre Lon e repent touours de muus mrché Le Crque Ochévreet éefut quee route & qund on et à on efut tcher de sy tenr Le Duc de endome Qund on et uec es Loupsfut hurer & trer touours e on out pr deuers oy Le Crtque Cet vn grnd Conquernt ft des mer uees depus peu dontet grnd rurt enruë̈ des muets Le Duc de Mercœurfut rendre honneur à̀ qu on e dot & fre tout"
-        ],
-        [
-            "tout ce que e Roy veut ns dre ny quoy ny quee fue de er e cu du oue Le Crtqee O e Vnyong temps qu uypre enteé on ofrndemrque & net che que de es fueurs Le Due dEeuf Tous ens ont conmmunsnyque m nere de es uor Le Crtque Cet encore vn homme de enprendrot ur e Mtre Auteet de tous meters encoreen depene à vure MefSeurs es Enmfns Les Reurs ne ont ps cy de notre coteé Le Crque On ft peu de cs de Snts qu ne guerent de ren Le Duc dEpernon Qu perd vn chen & recouure vn chttou ours vn nm à̀ qutre pttes Le Crtque Qund on veut ttrper vn mtn on uy etcuhours que que os à ronger Le Duc de Cnde on fs de nouueu nommé pr Cour pour etre Gouuerneur deGnenne quon uy grdeC"
-        ],
-        [
-            "6 L choe dont on me ft preent et à mon er uce & hors de mon commndement Le Crtque Ce net ps vnde pour es oyeux e morceu uy per en on du ee Le Comte dHrcourt y ttu es uons dutres uront prs es oyons Le Crque Les ons Cheuux qu font uone nemn gent ps Le Prnce Thoms pourueu dechrge de rnd Eeuyer ms vn ne perd que utre ne ggne Le Crtquene fot pus que cetty pour nous cheuer de pendreet pourueu Deu pour uoye es utresFore er onne es Mrchnds sement Les Mrechux de Turenne & deFeré́ Senneterre prnts dedgrce du Comte d Hrcourt Autnt nous en pend à œ & nous prenons en depene dot on ne nous ç̧ur gueres de gré́ Le Crsque Pene de vn net à ren compter Le Mreh dHocquncourtmence couté pnte & fgot ms e ny ps tout perdu pus que y uueé e moue"
-        ],
-        [
-            "du pourpont Le Crque Les jeux ont fts pour es futesLe Mrech de Grncey mennt des forces de Normnde u ecurs deReyne Au eon on vot qu my et Le Crrtque ccunt duor connue ̀pre de Gruenesn grde de courr prés on éteufyonemps quvendu on cheu pour uor de uone Les fuxs Mzrns deCourfut ermn dont on voudrot que e rs fut coupé Le Crque Les rues e montrent où s ont Monmeur e Due dOrens Ptence rrteée deuent fureur Le Crrque Bres qu entgent ont pres que Loups Mdemoee Bon ng e peut menr Le Crque Cetvrye Pucee dOrens es yeux en font utnt mourr que utre en mettot ̀ mort uec on epeé́e"
-        ],
-        [
-            "Le Cone du Due dOrensfut empeher quechrtette ne mrche deunt es œufs Le Crtque Les efets ont mes & es proes femees Le Prnce de Conde A cœur vnt ren mpoe Le Crtque Qu ne ft que pour oy ne merte pont de remercment Le Cone du Prnce de Condéfut fre monde neuf Le Crrque Tout ce qu rne ne tome ps Le Prnce de Conty en fs pus que tous es Ferrs & us on àguerre e ne poe e hrnos ny our ny nuct Le Crquen grde qu ne fe des merueeset touours mtre du fx Le Duc de Longueue Bs rut et on grç̧on & qu v entement v eurement Le Crtque Autnt chemne vn homme en vn our quvne me"
-        ],
-        [
-            "3 me en cent ns Le Duc de Beuforr Qu ft ce qu peut & donne ce qun pont merté́ de me Le Crrque Cet mrchnde de Pnsnyque ncqueter Le Duc de Gue On e grderot putot dvn Lrron que dvn trtre Le Crrtque Mueéfort à fre Le Comte Dugnon Qu ne svnture n ny cheu ny mue Le Crque Qu ne e hzrde net ms pendu L Mor Houdncourty tout eon de chercher vn utre ndnypus ren à̀ fre cy pour moy Le Crutque LEpgno n pus uet de ecrndre Hyuer ny e frod des pedsne dormr pus ns c Mrm togne e ne us encor à ord ny rue Le Crtque On qutre ouuentchnce pour uor ps Bthzr Arrue qu pourr e us reou de pouer tou ours mon det & here er en courte  e ne ps D"
-        ],
-        [
-            "4 Le Crtquenet que dempoyer enfeée Les Sedteux de Ormeene fut pont tnt de Loups ̀ mnger vne Bres Le Crtque Ny tnt de Chens ̀ ronger vn os Le Duc de Lorrne A orce de mheur chnce vent Le Crtque Deu veut jeu en qu ne or ps joüeur Les Efpgnos prnts deFrncefut tous ydè pumer ce Coq Le Crtque Qund vn chen e noye chcun uy foue urtete Le Prnce de MrcBouye & utresfut yder u contre & e mettte touours du coté des pus forts Le CrtqueChoe prohée & defenduë et touours chere tenuë Les Pcoreurs des deux Armées net gnes quen Aout Le Crtque cy e Get perd on droct"
-        ],
-        [
-            "5 Les Sodts de Armeée Mzrne Nous nuons ps ffre ̀ ete ée Le Prement de Pontoe Nous uons chngeé notre Borgne ̀ vn Aueuge Le Crtque On ft ouuent àhte choe dont on e repent tout ̀ orLe Prement de Prs En roünt es Crtes ouuent oneu Le Crtque jeu Qu cherche mheur mheur uy vent Moneur de Broue On crod meux ouuent vn méchnt dementr quvn homme de en de dre vry Le Crtquenet u de pres ourdes que es vryes Le Predent Voe Ce quon me grde nempre psLe CrtqueOn nttque psvoonters vn mtn qude onnes dents & de onnes grffes pour e defendre Le Prefdent Ameot e me us vn peu hté de prer Le Crtqe Vn coup de nge et pre quvn coup de"
-        ],
-        [
-            "6 nce Les veux ntendnts Notre regne net pus de ce Monde Le Crtque Ce ont de ons des s ont voé ̀ toutes Les Prpns mns Nous ommes comme es Procureurs nous reeuerons mngere Le Crt Ouy potence ne vous éeue & ne vous rend Eueque des Chmps qu fontene dcton uec es pedsLes Fs des Prtus Nous uons dequoy frrenous nous moc quons deroüée Le Crt Les enfns dvn pere dmné ont touours heureux Le Cergé Humté pe pr tout Le Crtque Ceuy ont du ps de Cocgne es A ouettes eur toment dns e e toutes ro tes L Noee Aez e pe de ecot qu ren ne pye Le Crtque Ceuy ont comme es Aretrers de Cogne de dure deere Le Ters Ete Les"
-        ],
-        [
-            "7Les tus pyeront mendeLe Crtque L ete du commun et touours ̀ pus m pnce Les Prens Nous ommes du Bouŕ nous ne demndons qumour & mpee Le CrtqueA ongue u roue mumge e fe DAMES DE COVRL Chevree O os enmes eus que mu en A net ps cutte L Monon en y en ft cqur de m concence e ne dos pons uor regret u temps pe Md L M D M Mngeons tou pus quon nous foue MeC D R Vn pecheé ceé et à̀ demy prdonnéL Dme de Beuus e çy de ons morse es voufos dre Le Crtquefuut e defet de touts ete qur duuxtrous ousqueuë E"
-        ],
-        [
-            "8 sceececccstcescceescees DALOGVE DV RO ET DV DVc DAoV AVE L MAMMAN Le Roy J L y mnge en des mouches qu ny votLe Duc dAnjounen fut crore ny Guter ny Grgueen fut fre ̀ ftete L Reynue Qu foe pr cone ne foe qù demyLe Roy Les vrys ms ont en rres L Royne Encore sen peu trouuer vn entre me &mere nenot ps moteLe Roy Mon Coun e Crdn nen e ps e Phœnx ? L Reyne Vous deurez erterre pr où̀pe Le Roy Mmmn Vous ez vn peu en vte en eongne L Reyne Votre Mjeté ne e connot ps comme e fs Le Roy e e cognos rnt que e ne enme ps meux"
-        ],
-        [
-            "L ReyeVous voyez ce quon vous ft qundny et ps Le Roy Et e çy ce que vous ftes qundy et L Reyne Vous en ̧uez eucoup e ne ç̧y qu vous entnt pprs Le Roy e ne ds mot ms e nen ongepm rmon 9 L Reyne e vous conee de ne ren gr der ur e cœur Le Roy Tout vent ̀ temps qu peut t tendreLe Dc dAnjo Mmmn Moneur e Crdn vut on prx peronne ne e ̀menyque vous qu ppeez Cu rûé Ms qundne vendrot ms cy nter ner e eurre tout ne sen porterot que meux uos cecy ̀ vous dre prce qu ne me reuent de nue prt ouù̀ e enuoye Adeu Mmmn qund es mots ont dts Eu ente et fte Pene pus dvne fos & ongez ur tout quon net ps touours ousverge & quenfns deuennent gens L Reyne Ces Bdns me donneront endes ffres ms voyez vn peu es Pteux"
-        ],
-        [
-            "2G enegnent àPe à̀ fre on nd ms nm portenyremedeen fut per pt ̀ ou prfenetre choe prome et deuë & pus e terme vut rgent & quvne onne heure enve n ps touours puureté A A e FN"
+            "7",
+            "Mais enfin ce declin des choſes",
+            "mpoſe par neceſſité",
+            "Les eſtranges metamorphoſes",
+            "Qu'ordonne la fatalité,",
+            "Touſiours la fortune ſe iouë,",
+            "Mais que le branle de ſa rouë,",
+            "Qui cauſe le bien & le mal,",
+            "Nous precipite ou nous remonte,",
+            "Nous portons d'vn viſage eſgal",
+            "Vn viſage qui ſe demonte.",
+            "Aux Dames, qui ſe tiennent le ſoir à cauſer",
+            "à leur porte.",
+            "Meſnagez auec aduantage",
+            "Les coeurs que vous auez vaincus,",
+            "Et gouſtez les plaiſirs de l'aage",
+            "Aux deſpens des pauures cocus:",
+            "Que ſi l'amour qui vous tranſporte",
+            "Vous fait rencontrer à la porte",
+            "Auec vos ieunes fauoris,",
+            "Prenez d'vne pofture prompte,",
+            "Voyant reuenir vos maris,",
+            "Vn viſage qui ſe demonte.",
+            "FIN."
         ]
     ]
 }

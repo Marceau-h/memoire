@@ -1,47 +1,153 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "discours adressé",
-        "subject": null,
+        "genre": [
+            "réponse",
+            "discours adressé"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-04-01",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-28",
-            "@who": "MF"
+            "@when": "2022-10-25",
+            "@who": "AB"
         },
-        "titre": "La véritable réponse du roi faite à la harangue de M. le\n          cardinal de Retz, en présence de MM. les députés du clergé de Paris.",
+        "titre": "La véritable réponse du roi faite par M. le garde des\n          sceaux aux remontrances par écrit présentées à Sa Majesté dans la ville de Sully, le\n          toisième avril 1652, par MM. les députés du Parlement de Paris, où se voit le peu de\n          satisfaction que ces messieurs ont reçu de la cour sur le sujet de leur\n          députation.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3955_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3957_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L vérte réponse du ro fte àhrngue de M e crdn de Retz en présence de MM es députés du cergé de Prs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Lous XVVérte () réponse du ro fte àhrngue de M e crdn de Retz en présence de MM es députés du cergé de Prs Sns LeuLes mprmeurs du Ro3 septemre 652 Lyon Bothèque muncpeRés 309804TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsUne cope de ce texteété mprmée à Montun 3955 Vérte () réponse du ro fte àhrngue de M e crdn de Retz en présence de MM es députés du cergé de Prsest cr que ce sont à es édtons offcees et queRé ponse du ro fte ux députés du cergé de Prsfue excte nurt psmême veur ogrphque VorHrngue fte u ro pr monsegneur e crdn de Retzetc etVérte hrngueetcprose dscours dressé"
+            "LA VERITABLE",
+            "RESPONCE",
+            "DV ROY,",
+            "A PARIS,",
+            "Chez SALOMON DE LA FOSSE.",
+            "M. DC. LII."
         ],
         [
-            "LA VERTABLE RESPONSE DV ROY FATE A LA HARANGVE DE Moneur e Crdn de Rets en preence de Meeurs es Deputez du Cergé de PrsA PARS Pr es mprmeurs & Lrres du Roy M DC LAuec Pruege deMjeté"
+            "aßiâéiai",
+            "gpgpeggggggrgre4",
+            "LVERTBLE RESFONCE V",
+            "Roy, faite par Monſfeur le Gards des Seeaue",
+            "ux Remonſtrances par eſrie, preſentées à ſa Ma",
+            "iefté dans la ville de Sully, le roiſieſme Avril",
+            "65. par Meſßieurs les Deputez du Parſemae.",
+            "de Paris. Où̀ ce void le peu de ſatisfaction que ees",
+            "eieurs ont receu à la Cour, ſur le ſujet de leur",
+            "Depataion.",
+            "ESSIEvRS.",
+            "V Le Roy m’a commandé de vous di",
+            "1e, qu’il a receu les Remonſtrances par eſcrit",
+            "que vous luy auez preſenté́es, qu’il ſçait",
+            "uec quel eſprit, la Compagnie s’eſt portée à",
+            "cette reſolution, & que neantmoins il luy",
+            "reſte vn iuſte iegret, que les pretextes que",
+            "es Officiers prennent, ſoient ſemblables à",
+            "ceux des ennemis del’Eſtat, pour leuerles",
+            "armes contre ſa Maieſté, laquelle euſt peuſt",
+            "promettre que comme les deſſcins des vns",
+            "ont bien differendsdesautres, que par les",
+            "obligations & par les lumieres de leurs eſ",
+            "prits, qui penetrent aſſez la veritable auſe",
+            "deſes mouuemens, ils pouuoient s’en ſep",
+            "eraiſément, & employer toute l’authorité."
         ],
         [
-            "3 RESPONS E DV ROT donnée pr Ecrt u Deputes dsCergé de Pns E s s E RDY eu treree quee Cergé deone ve dePrs dontMjeté́ ft vnengue etmo uy yt en uoyé donner pr es Deputez de nouuees preuues de on ffecton & def fdeté dnsconjoncture preente S Mjeté en ̀ receu dutnt pus de utsf ctouee e promet que ceux de eurs corps qu ontdrecton des concences de es peupes tcheront ouours de eurpprendre utntpx eurs enegnemensqu pr eur exempe e repect& oey ce queproe &oy de Deu dont A j 4"
+            "4",
+            "pour condamner la priſe des armes pardes",
+            "Sujets contre leur Souuerain, ſous quelque",
+            "pretexte que ce ſoit.",
+            "Elſe void encore auec déplaiſir, qu’au",
+            "meſme moment que les rebelles ’oppoſent",
+            "à maim armée & à viue force à ſon paſſage",
+            "pout ſon retour à Paris, la capitale ville de",
+            "on Royaume, elle trouue au deuant deſoy",
+            "nombre de ſes Officiers, au nom de ce meſ",
+            "me Parlenent, quijadis, durant le temps le",
+            "plus difficile des Siecles paſſez, a donné des",
+            "preuues de ſon inuiolable fideliteé, pour con",
+            "courir ſe ſembll à ce meſchant effet.",
+            "La verité eſt que cette Compagnie ſice",
+            "ebre n’a point cette intention, & ne ſouf",
+            "frira point que l’on puſt dire qu’elle euſt pre",
+            "ſté des Offices ſecourables aux ennemis de",
+            "Eſtat, & aux eſtrangers qui viennent pour",
+            "deſoler la France.",
+            "Et neantmoins la poſterité, ſçaura, que",
+            "les eſtrangers ennemis iurez de la Couron",
+            "ne ſont entrez dans le Royaume, ont tra",
+            "uerſé́ les Prouinces, mis les ſujets du Roy en",
+            "proye, ruiné tous les peuples, exercé toutes",
+            "ortes de ſacrileges & d’actes d’hoſtilité que",
+            "e canonde ſon Arſenal a roulé dans la vil",
+            "le"
         ],
         [
-            "4 s ont es nterpreues ogent es ujets de rendre à eur Souuern S Mjeté prend e Ce ̀ temon quee n pont de pus voent der dns me que de redonnerpx à es uets pour pruenr en eeereee de utte à cee de touteChretenté & queté en on pouuor pour fre jouyr de vne & de utre tous ceux que Deums eusconduteL ontéuecc queeMjeté set dpoée ̀ prdonner toutes es offenes qu uy ont eté ftes & ̀ fre puer vne Amnte genere de tout ce queté entreprs contre on u thorté pendnt ces mouuemensft vor crement quee ne refue ps decrfer és nterets pus enes pour ere pos pc Ee ne dere ps uec mons dmptence de netournér enVe de Prs pour y retr trnquté & e oeur dont ee ccoutumé e jouyr quã̃d ee et honnorée depreence de onRd y S jeté ̀ dj prs eoutonde senrpprocher"
+            "5",
+            "le de Paris, pour combattre les trouppes",
+            "Royalles que le Parlement a ſouffert, & n’a",
+            "point dõné d’Arreſt ainſi qu’il eſt accouſtu",
+            "me, pour conuocquer le Ban & Arriere",
+            "Ban, afind’exciter tous les François à s’op",
+            "poſer courageuſement à des attentats ſi pu",
+            "blicqs.",
+            "Sa Mté verra dans vos Regiſtres que les gẽs",
+            "du Roy, ſes Offieiers particuliers ſeuls hon",
+            "norez de ce nom,ont demandé auec inſtan",
+            "ce, Iuſtice au nom de là Couronne, qu’elle",
+            "ne leur a point eſtéaccordée, que meſme on",
+            "n’a point deliberé ſur leurs concluſions.",
+            "lle ſç̧aura encore que ſa eclaration",
+            "contre les rebellesa eſté veriffiéc au l’arle",
+            "ment, que le temps de la grace que le Roy",
+            "eur auoit accordée pour ſe mettre en leur",
+            "deuoir eſt paſſé, & que l’on pouuoit leurs",
+            "faire ſentir les peines deuës à leurs crimes, &",
+            "que parvn contraire iugementonen a ſu",
+            "cis l’execution,",
+            "Ces répioches d’vn Roy a ſes Officiors,",
+            "d’vn Roy à ſes ſujets, d’vn Roy commepe",
+            "re àſesenfans; ſont ſi iuſtes qu’ils pourroiét",
+            "eſtreemployoz pou reſponces aux Remans",
+            "..,L,"
         ],
         [
-            "donneé́ ordre de preprer on Chteu de nct Gemn pour y er ueeCour u pemer our Mset tres necere que esons ujes de dte Ve poure metuen ut de profe de e eu e deuurene de otces ques en ont pruc uqu preent & qus ny ouffrent pus e pouuovent de ceux qu pour fre duret es trouhes qus ont exctez nont utre ut que doee nr ouoours es prnopus memr deE t epe deeur chefe Les ons qus on ps y deunt qumdMjetee po qnue dede Ve de fre rdour es pu dus u Porreus derompre es Ponts doeen pr & forne es pgus & de enu o our des gen de uere entreConr& Pns ott connotre euemmen que e ent dfen & eonennpoue n nhus de dre Ve pout eur pope en ey qpoes gsemereuemene S eeure eperes que dns me oreon mnporun E eu repos & u ut de our rus temogneront e meme courge &mne"
-        ],
-        [
-            "ffecton que eurs predeceeurs qundm prns tous es pers & es forces dvne f cton eucoup pus punte que cee du jourdhuy qu uotRegon pour pretex te s cherent ceux qu opprmoent eu erté & e deurerent des ennems ettn gers & dometques qu vooent empéche e Roy Henry e Grnd dentrer en pofefou deVe Cpte de on Royume S Mjefté ynt de ft defpt tout cequon pouuot derer dee uec rfon pour h eu reté de ceux à qu es futes pftées pourroent uor donń queque orte dpprehenton ne peut crore que executon dvngoteux &vte deen comme et ceuy de remertrepus noe Ve de Europe en ett ou ee dot etre pue etre pos onemps retr dée pr ucune conderton ny que des u jets fdees comme es htns de dte V e quee ymetendrement vueent dfferer duntge dee rendre heureux pr e defut de certnes formtez où s nont pont dnteret dont ceuy qu droct de com"
-        ],
-        [
-            "7 mnder ne peut e déprtr ns fre preud ce ̀dgnté & uquees de eur prt s uroent tort de srreter pus qus peuuent trouuer eur gore & eur eureté dns eur oeynce Ft ̀ Compegne eour de Septemre 6̃5z Et pus s Sgné LOVS DE GVENEGA VD"
+            "ee oen le enp le e ee",
+            "6",
+            "trances, leſquelles dans les Siecles paſſéi",
+            "de diuiſion, qu’à l’eſteindre.",
+            "Sa Maieſte ne laiſſe pas de prendre aſſeu",
+            "rance que cette premere Compagnie du!",
+            "Royaume, reprendr a bieoſt ſon premiet",
+            "eſprit, pour ſe joindre auec celuy deſon Sou.",
+            "uerain en plaignant enſemble la fortune pu",
+            "blique, & la face de l’Eſtat, tout deſolé parla",
+            "rebellion de quelquens de ſes ſujets en",
+            "ttendant que le Ciel fauorable à la France",
+            "faſſe reſſentir aux ebelles, le poids deſes iu",
+            "ſtes armes, qu’elleluy aydera à abbattre en.",
+            "tierement par l’exomple qu’elle donnera de",
+            "on obeyſſance toute entiere aux iuſtes vo",
+            "lontez de ſon Monarque.",
+            "C’eſt l’vnique moyen d’eſtablir de repos",
+            "dans le Royaume qu affermira l’authorité",
+            "Royalle, auec laquelle eule on peut faire",
+            "ceſſer l’extremité des miſeres que le peuple",
+            "ouffre.",
+            "Quand à Monſieur le Cardinal Mazarin,",
+            "eft reuenu en Franice par le comnſande",
+            "ment du Roy, & ainſi ſon obeyſſance ne",
+            "pouuant eſtre çriminelle,tpuseles eines",
+            "."
         ]
     ]
 }

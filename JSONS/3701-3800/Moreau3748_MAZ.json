@@ -1,122 +1,175 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "vers",
         "genre": [
-            "dédicace",
-            "avant-propos",
-            "poésie strophique",
-            "dialogue",
-            "récit",
-            "sonnet"
+            "poésie",
+            "burlesque",
+            "satirique"
         ],
+        "subject": null,
         "handwritten_note": false,
-        "table_of_content": true,
+        "table_of_content": false,
         "illustration": false,
+        "creation": "1649-04-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-17",
+            "@when": "2022-09-22",
             "@who": "AB"
         },
-        "titre": "Le tableau funeste des harpies de l'Etat et des tyrans du\n          peuple, et notamment celui de leur principal chef, contenant les plus grands maux qu'il a\n          commis dans l'Europe: 1. l'aversion que lui et les siens ont toujours eue contre les\n          Français, comme étant Espagnols naturels; 2. les pernicieux enseignements que son père\n          Porcini lui a donnés; 3. le notable assassinat commis dans Rome, par ses menées, sur la\n          personne du sieur Francisco Pamphilio , neveu du cardinal du même nom, tenant à présent le\n          siège apostolique sous le nom, tenant d'Innocent X; 4. sa députation à Casal, par le pape\n          Urbain VIII, après ledit assasinat, où il servit la couronne d'Espagne plus que celle de\n          France; 5. sa venue en France à la suite du cardinal de Richelieu, qui le mit dans\n          l'esprit de Louis XIII, d'heureuse mémoire, 6. sa promotion au cardinalat contre la\n          résidence du pape et des cardinaux; 7. son ministère en France après le décès de Louis\n          XIII; 8. ce qu'il a fait contre la maison de condé; 10. ce qu'il a fait contre le\n          Parlement; 11. les guerries qu'il a fomentées dans tous les États pour son seul intérêt;\n          12. son ingratitude en vers la France, assistant maintenant ses ennemis par ses conseils\n          et par les trésors qu'il lui a volés; enfin l'abrégé de ses plus notables actions, divisé\n          par journées, et entretiens d'un gentihomme françois et d'un vénitien; dédié à monseigneur\n          le coadjuteur de Paris.",
+        "titre": "Tableau raccourci des courtisans, en vers\n          burlesques.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-02-11",
+            "#text": "11 février 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3748_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3749_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le teu funeste des hrpes de Ett et des tyrns du peupe et notmment ceu de eur prncp chef contennt es pus grnds mux qucomms dns Europeverson que u et es sens ont toujours eue contre es Frnçs comme étnt Espgnos ntures 2 es pernceux ensegnements que son père Porcn udonnés 3 e note ssssnt comms dns Rome pr ses menées surpersonne du seur Frncsco Pmphoneveu du crdn du même nom tennt à présent e sège postoque sous e nom tennt dnnocent X 4 s députton à Cs pr e ppe Urn V près edt sssnt oùservtcouronne dEspgne pus que cee de Frnce 5 s venue en Frnce àsute du crdn de Rcheeu qu e mt dns esprt de Lous X dheureuse mémore 6 s promoton u crdnt contrerésdence du ppe et des crdnux 7 son mnstère en Frnce près e décès de Lous X 8 ce quft contremson de condé 0 ce quft contre e Prementes guerres qufomentées dns tous es Étts pour son seu ntérêt 2 son ngrttude en versFrnce ssstnt mntennt ses ennems pr ses conses et pr es trésors qu uvoés enfn régé de ses pus notes ctons dvsé pr journées et entretens dun genthomme frnços et dun vénten dédé à monsegneur e codjuteur de Prs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022Perre Du Peeter S C D P LAnzrn Le teu funeste des hrpes de Estt et des tyrns du peupe Et notment ceuy de eur prncp chef contennt es pus grnds mux qucomms dns Europe Dedé à monsegneur e codjuteur de Prs PrsSns Nom65 premère qunzne doût 65 Prs Bothèque MzrneM542FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsL pèce pus rchtecturée quepuprt des ees comprend une dédcde à Gond un vnropos dontverve pmphétre mgme tous es pucs posses nsutnt es uns ount es utres (\"Royste Frondeur on Prementre ou Crdnste Mzrnste Prtste Mchvéste Athéste ou Monte Jnénste ref toureste des Prtsns\" \" enfn hommes & femmes qu ont prs A B C\" p 8) uteur y évoque ussrépresson des ees et de eurs uteurs et mprmeurs Sensut des dzns doctosyes qu sont e réct topque des orgnes de Mzrn et de son pouvor Un sonnet cot e voume ssnt écrt pr à un ters (PDLG) àounge de uteur\"A monseur DP sur son Hstore\"sgt de mmer es textes encomstques encdrnt es poéses mprmées à époque Ce peut uss être une mnèrep our uteur de donner son denttéDP sont es ntes de Perre Du Peeter uteur du mons hut mzrndes (mort en 660 dprès Rcheeten 667 ou 668 dprès Moreuou en 680 seon dutres sources) S cette dentfcton est correctesert uss uteur des utres textes de Antmzrn (L Mort funeste du crdn Mzrn etcetRéponse u seur Scrron sur e sujet de ses Cent qutre vers) Dogue en vers entre \"Le genomme frnços et e Venten\" Dédcce à rchevêque de Cornthe et codjuteur de Prs suve dun vs u ecteur Àfn sonnet retf u texte pr \" P D L G\"Texte reprs sous e ttre \" Fts pernceux que e crdn Mzrncomms…\" (Moreu n° 370) Dédcce sgnée \"S C seur D P & Anzrn\" Texte prupremère qunzne doût 65 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 293v) 3748 Teu (e) funeste des hrpes de Ett et des tyrns du peupe et notmment ceu de eur prncp chef contennt es pus grnds mux qucomms dns Europeverson que u et es sens ont toujours eue contre es Frnços comme étnt Esp gnos ntures 2 es pernceux ensegnements que son père Porcn udonnés3 e note sss snt comms dns Rome pr ses menées surpersonne du seur Frncsco Pmpho (sc)neveu du crdn du même nom tennt à présent e sége postoque sous e nom dnnocent X 4 s (mpu tton à Cs pr e ppe Urn V près edt ssssntoùservtcouronne dEspgne pus que cee de Frnce 5 s venue en Frnce àsute du crdn de Rcheeuqu e mt dns esprt de Lous X dheureuse mémore 6 s promoton u crdnt contrerésstnce du ppe et des crd nux 7 son mnstère en Frnce près e décès de Lous X8 ce quft contremson de Ven dôme9 ce quft contremson de Condé0 ce quft contre es Prements es guer res qufomentées dns tous es Etts pour son seu ntérêt 2 son ngrttude enversFrnce ssstnt mntennt ses ennems pr ses conses et pr es trésors qu uvoés enfn régé de ses pus notes ctons dvsé pr journées et entretens dun genthomme frnços et dun véntendédé à monsegneur e codjuteur de Prs Prs 65 8 pges non comprs épître dédctore et vs u ecteur Lépître dédctore est sgnée S C seur D P et YAnt M rn Luteur y dt que e codjuteur est u crdn ce querose est à ognon Pendnt e ocus de Prs vu Gondy sous es r mes àtête de ses régments Dns Avs u ecteurdonne sur ême queques déts qu mértent dêtre conservésvt été dépée étt de roe onguequoqu ât souvent en roe courtefute de chse ou de crrosse On peut crore qu vt prs nssnce dns e pys Lyonnsnnonçt que son hstore de Mzrn sert uss ongue que e Snugustn ou e Putrque Je n ps de pene à e crorepusque dnsseconde prte dont je prer tout à heuren ps encore rconté ssssnt de Frncsco Pmph qu est dprès e ttre du monse trosème pont de son pmphet Je ne cros ps qu t ren pué u deà deseconde prte qu est nttuéee Second Journ ou Entreten du genthomme frnços vec e vénten etc Le Teu funesteété contreft sous e ttre dees Fts pernceux que e crdn Mzrncomms etcyencore de ce pmphétreMort funeste du crdn M zrnetcetRéponse u seur Scrron sur e sujet de ses Cent qutre vers etcvers prose dédcce vnropos poése strophque dogue réct sonnet"
+            "TABLEAV",
+            "RACOVRCI",
+            "DES",
+            "COVRTISANS.",
+            "EN VERS BVRLESQVES.",
+            "A PARIS.",
+            "M. DC. XLIX. <pb n=\"2\"",
+            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5724899c/f3.item.r=bpt6k5724899c\"/>"
         ],
         [
-            "TABLEAV FVNESTE DES HARPES DE LESTAT ET DES TYRANS DV PEVPLE ET NOTAMENT CELVY DE LEVR PRNNCPAL Chef contennt es pus grnds mux qucomms dns EuropeLueron que uy & es ens ont touours eu contre es Frn cos comme etns Epgnos nturesLes pernceux enegnemens que on Pere Porcn uydonnésLe note nt comms dns Rome pr es mences urperonne du Seur Frncco Pmpho nepueu du Crdn de meme nom tennt à preent e Sege Apotoque ous e nom dnnocent X V S deputron à Cz pr e Ppe Vrn V pres edten d nreneeue nun eee eonun uu ure e ene V S venue en Frnce ̀ute du Crdn de Rcheeu qu e mt dns eprt de Louys X dheureue memore v S promoon u Crdne eonre es retnees du Ppe& des Crdnux V Son Mnterc en Frnce pres e deceds de Louys X V Ce quft contreMon de Vndome X Ce quft contreMon de Condeé X Ce quft contre es Premens X Les guerres qufomentées dns rous es Etts pour on eu nterret X Son ngrttude enuersFrnce tnt mntennt es en nems pr es cones & es threors qu uyvoez En fn Aregre de es pus notes ctons dué pr ournées & Entretens dvn Genomme Frnços & dvn Venten Dedé ̀ Monegneur e Coduteur de Prs A PARS M DC L"
+            "TABLEAV RACOVRCY des Courtiſans.",
+            "FILLEs du Souuerain des Dieux,",
+            "Belles Princeſſes toutes nuës,",
+            "Qui foulez ce mont glorieux",
+            "& Dont la cime trouche les nuës;",
+            "Cheres Germaines du Soleil,",
+            "Deuant qui la ſeutdu ſommai",
+            "Voidtoutes ſes fureurs captiues,",
+            "Deſcendez de ce double Mont,",
+            "Et ne vous montrez oint rétiues",
+            "Quand le merite vous femond",
+            "DPerecheſ, pour l’amour de moy,",
+            "Sainctes filles de la memoire,",
+            "Si vous auez congé du Roy",
+            "D’interrompre vn peu ſonHiſtoire,",
+            "Suiuez ce petit traict de feu,",
+            "Dont voſtre frere perce vn peu",
+            "L’obſeurité de ma demeure;",
+            "Déeſſes il vous faut haſter,",
+            "Le soleil n'a que demie heure,",
+            "Tous les iours à me vifiter",
+            "A ii"
         ],
         [
-            "ment MONSEGNEVR e eros e pus coupe du mon dent H re du pus pemeeux onmme dennu e oos vous e propoer pour modee & pour ee8pe en uconrre emne erperence ous ft nr eru dogr es vertez qu e retreuuent dnsmrunr e que e upunt ne prnt ms uee pus de e &e pus de reefque trs qon es ft vor dn ne e dtnce upres de enrs contrres de es e ne cgnos de protre rop mpntdo fqqurgrdes meer dto ut p n oegd & de e vee du CndmAM Tnurnunn de ces eens qu enrent enre de guer r rn mge ds grnmd Herue errour des monen deterre & e pus vn onunme du monde &r ur e reners dee dn Therfs e pu de pronmg qu s ms de usC E s gnmuus preenmen e ren nprmer dennueoe on ovoytete dvn ogon & de ue nu res ee roe oprft dfeen dns eurs qnu s puque eur e r npore de ue e t u nusooud & ede e e nee e peu de nur &r rre e es don dnn eneu oure prmnrpour nous momrmer ns dom eueer ps e e n net detenee queos ds n eun nufuns pe neee s on e puumus nnrrmon s mr d ne qrnromus ̀ f onn e doueeur & ̀ endre ffefton que vous ue ours"
+            "Mais quel eſclat dans ce manoir",
+            "Chaſſe l’obſeurité de l’ombre?",
+            "D’où vient? qu’en ce cachot ſi noir",
+            "On ne trouue plus rien de ſombre;",
+            "nuiſibles Diuinitez,",
+            "Qui par mes importunitez",
+            "Eſtes ſi promprement venuës",
+            "Dieux que ie me diré content",
+            "De vous auoir entretenuës,",
+            "Malgré ceux qui me veillenttant.",
+            "Dites moy? car c’eſt le ſujet",
+            "Pourquoy ma paſſion vous preſſe,",
+            "Quel doit eſtre auiourd’huy l’obierz",
+            "De voſtre immortelle careſſe;",
+            "Faites quevos diuins regards,",
+            "Le caerchent en toutes les parts",
+            "Ou mes amitiez ſont allées;",
+            "Ha il pareſt viſiblement,",
+            "Muſes vous eſtes appellées,",
+            "Pour mon cher Doris ſeulement.",
+            "ſtes"
         ],
         [
-            "ours eu pour e peupe de Prs ̀ on urce exreme vo re grnde eré ̀ s ee de onng & ̀ v e errton votre grnde nne & vore utre Noee ̀ onurdé & ̀ on gnorne votre oen e & votré doctrne ̀ es foureres & ̀ es trhons otre cndeur & vostre fdeté ̀ es voeresnet tete de vos mns ̀ es fmones nnocence e vorecur ched vote connce ̀ete votre grnd eprt & ̀dgnté don etredgnehonmeurque vous uez detre Pretre ceuy de Docteur de Soronne dAé de Pretde Ege & vnour ceuy dArche ueque depremere ue du monde pres eque vous ne pouuez ren ouhter ny ren pretendre de pus eu de pus honnee de pus utre & de pus honore Ne rougez pont MoxsecvR e ne ds quever etoute pure & ns ucune frere mefos e me us veu rempy detonmnement condernt comme votre e prtrouours demeuré ferme & nerne ̀ es u percheres &es echeens Er comme vn rocher u meu des fors demer e mocque de tous eurs vns efforts n vous uez regrdé uec meprs êct de es grndes rchees & es fueurs devne fortne en eogne des ches entmens de ces petts mechns prt ndgnes du nom frncos & dedgnté́ qus porent qu remps de fumée & de vent ont pr oupee & pr do pe e genou deunt uy &ont doré ce veu dor meme pendnt e ocus de Prs uy ont ery de con eers & depons & pr re moyen onteté es crues ns e"
+            "teous le ſeul des viuans",
+            "Qui n’auez point perdu courage?",
+            "Pour la fureur de tant de vents",
+            "ui conſpirent à mon naufrage;",
+            "Vous ſeul capable de pitié?",
+            "Qu’vne ſilongue inimitié,",
+            "Contre moy ſi fore obſtinée",
+            "N’a iamais encore abatu,",
+            "Et qui ſuiuezma deſtinée",
+            "uſqu’aux abois de mavertu.",
+            "Et tant de laſches Courtiſans",
+            "Dont i’ay ſi bien flatté lavie,",
+            "Contre moy ſont les Partiſans,",
+            "Et les Eſclaues de l’Enuie;",
+            "Auiourd’huy ces eſprits abiets,",
+            "Ployent à tous les faux obiets",
+            "Que leur offre la calomnie,",
+            "Et n’oſent d’vn mot ſeulement",
+            "S’oppoſer à la Tyrannie,",
+            "Quime creuſe le monument.",
+            "B"
         ],
         [
-            "truments detyrnne & de cruuté e dry vn mot duege de Prs puqueoccon s enpreenmte On veu ous es rmes MosGEvR ̀tete de Regment que vous uez entretenus & por es entrore nr ueZ empoyé ce que vous uez de pus cher Vosen nemys sen ontetonés & sen ont vouu mocquer ms es gens de es & ceux qu çuent ngerdes dtonsd truy ns nteret & ns pon vous ont regrdé com vn ronprmy es dngers conduut e peupe de Deu dns ncontnce des mers & oeuré des deerr C pendnt quv n utre grnd Peronnge de nore F etot eur Moe & eur Proteteur Pour moy e vous ronderos uec drrron comme vn on & fdee P teurutour de on Berc condunt uec grnd on vo te troupeu & e nourrßnt de os ens & de os con es En vn mot on peut dre ns vous trop oer que vous ués reté uec tnt de vgueur ̀ tous esmuu de ens & f genereuement contre qurreé toures es pern ceues mxmes que vous etes ece comre eque echoe & ft on derner nufrge Vous ués frondé uec tnt de drot & de usftce que comme vn utre D ud vous ueés tu ce Gent & coupétete à̀ cét utheur de nos ouffrnces & de nos meres Frondez touours MONSEGEvR frondez uques u out & ns reche tes enerement es testes de cette Hydre renßnte couppés es rnches ̀ ce funefte Cy prés & ms n ne verr de es reettons Les fenm mes d re utmefos chncoent puquement es ön"
+            "Ce ne ſontque Mignards de lict;",
+            "Ce ſont des courages de terre",
+            "ue la moindre vague amollit,",
+            "Et qui n’ont qu’vn éclat de verre;",
+            "Ce n’eſt que molleſſe & que fard,",
+            "Leur ſens, leur voix, & leur regard,",
+            "Ont touſiours diuerſes viſées;",
+            "Et pour le mal & pour le bien",
+            "s ont vne ame duiſée,",
+            "Qui ne peut s’aſſeurer de rien.",
+            "Ces cœurs ou l’ennemy de Dieu",
+            "A logé tant de perfidie,",
+            "qu’on ny ſçauroir trouuer de lieu",
+            "Pour vneaffection hardie;",
+            "s n’ont iamais d’amis ſi cher,",
+            "Que ſa mort les puiſſe empeſcher",
+            "De quelque viſite ordinaire;",
+            "Ou depuis le matin au ſoir,",
+            "Rien ſouuent ils n’ontrien à faire",
+            "ue ſe regarder & s’aſſeoir."
         ],
         [
-            "gese eurs oys pres eurs goreues vtores vn doenes entue me msutre preue force de on rs enft mourr dx me Nous pour rons dre dns nos htores que de ce eu coup dey vous uez tutete dn mon de frpons de hrpes de Ett de ng uës du peupe & de mengeurs de Chre tens qu uuntfortune de ce Tyrn pr eurs prts prets monopoes ntendnces & nuentons doques ont enterement deoeé nos Prounces & runé ns reour ce notre puure Frnce Frondez encor vne fos Mo SEGNEVR & ognntutce de Ege u pou uor deNoee pourchezZ vgoureuement Erecton & etement done Chmre de ustce pour f re rendre gorge uquu derner dener ̀ ces cormorns qu 2 ont tout rgent & es fnnces de Ett TouteFr ce enr votre memore pus dvn ece es gens de en vous regrderont comme vn homme decendu du Ce com me vn Antgone prmy es Grecs & comme vn Cton prmy es Romnr Et e Roy meme reconnont vn our es ons eruces que vous urez rendus ̀ on Ett me vous en ur ps de pettes ogtons Ms pour f re vne prfte entthee des ees qutez du Mzrn e pouos fre protrevné & on extreme upere que tout e monderemrqué́dns es rores ou expoé vne hche prmy des feux qu ont es rmes des Romns urrefos es Artres & es Souue rns de touteterre en contrre vertement ux entments dhomté́ queut ct Eueque de Myence E"
+            "Mais! que peuncontre le ſort:",
+            "Laiſſons là ces vilaines ames,",
+            "Leur laſcheté n’a point de tort;",
+            "s n’acquirent poureſtre infames:",
+            "La fortune aux yeux aueuglez,",
+            "Aux mouuemens tout dereglez,",
+            "Les a conceus a l’aduanture,",
+            "Et ſous vn aſtre tranſporté",
+            "Qui cheminoit contrenature,",
+            "Quand il leur verſa la clarté.",
+            "Vous eſtes né tout au rebours",
+            "De leurs influences malignes,",
+            "L’Aſtre dont vous ſuiuez le cours,",
+            "Suit les roures les plus benignes;",
+            "eſt vray que vous meritez,",
+            "Au delà des proſperitez,",
+            "Dont il vous a laiſſél’vſage;",
+            "Si le deſtin donnoit vnrang",
+            "Selon l’eſprit, & le courage,",
+            "Doris ſeroit Prince du Sang."
         ],
         [
-            "qu etnt orty d vn Chrron prt pour es rmes des roueë & des eeux Luy qu ethne du peupe & e re4 ut detoutes es ntons qu ne reuue pont de ny de re trte ßeurée en ucune contrée deterre pource que cet ennemy depx genere & e fomenteur des guerres de Europe En vn mot MONSE GNEVRcette verté demore pe pour nfe dns ordre des ctons humnes quefn eftpremere ntentee &dernere executée mon deeneteé dns e com mencement de ce pett ouurge de preuenr dns votre e prt es entmens don es grnds ont mus smm gnns que es utheurs qu eur concrent eur ru nont pont dutre ut que epor du ucre & dere compene e vous ppe treumement de crore que e ny ms eu e cœurche &mercenre quen out ce que y trué́ y eu euementpenee de reneperer ny de ren pretendre que e tre pour m tsfcton & pourposterté & enfn que e ne re cherche en tout cecy que honneur de os onnes grces dnsconfnce que y que vous offrnt mes tres humes refpects vous me permetrez de prendrequt́ de rMONSEGNEVRVotre treume & treent eruteur S C eur D P &PAn Mzrn"
-        ],
-        [
-            "H Adus u Lecteur8My ou Ennemy Lecteur qu que tu osRoyte Frondeur on Prementreou Crdnte Mzrnte Prtte AA Mchuete Athete ou Monte nente ref tourete des Prtns Mtoters monopoeurs donneurs ddus Pre teurs Vurersrutns Soutrtns Comms ous Comms Hommes dffres ntendns Sur ntendns Fuzeers Hrpes de Etr Sngues du peupe Antropophges Mngeurs de Chretens Petes des Prounces Po y rons deté venus de nent Suppors du PrtnRere Meureurs ugeurs Mrqueurs Courters du vn Rts de cue Mro ters ur e e ur e os ur e chron ur uone ur e fon ur e pper ur es crtes ur e ped four ché ur es etescorne ns y comprendre es honmmes à corne) Mtoers ur toutes es denré́es œufs eurre fromge qu entrent pr es qunzngts portes de cette Ve pour erur dments à tnt de mons dmes qu yuent dns cet ncompre rcourcy de Vuners enfn hommes & femmes qu ont prs A B C Aux vns honneur px & e nedéton ux utres nfme guerre & medcton S tu me demnde mon nom e terepons que e me urnomme nt Mzrn & commememore de Antechrt et tres odeue à tout e Chrtnme en gener & enprtcuer quoy que cette en gence dedemons ne ot ps encore dnsnture pour com es vertez Eungeques de homme e pus ute qu t ms eté ny pû etre dns e mone nf e pre ends en cueque f çonde er m memore dns e cœur & dns etme de rous es ons Frnos pre 2"
-        ],
-        [
-            "ems nopo pnnonr o que eut y ft mpr merve du pus meehnt home qu t ms conuercé prm eux du pus morte e nem qums epue eurs ens & eur n & du pus ntque tyrn qu depus treze cens ns t en y mne etmon de eur Ett & ̀ meure qus dete teront Mzrn en nt es vertez de m poeememetéps u eur en venc & eur mtré re donder ur An Mrn ors meme qu er dns es pceues Ves Ctez & Vnuerte de u re monde S t euroté te porte à vouor çuor qu e us e te dry en peu de mots quutrefos y eté homme depée mntennt de roe ongue ms fute de che ou de croe ms non ps de crotte e Vy e pus ouuent en ht court Pour es qutez de mon eprt ees ontpettes quees ne mertent ps ton entreten ms mtrees pons ont mour demuque du eu & des ees cho es Enfn pour es qutez de mon corpsnrureeté peu ere en mon endrot quees ont putot des qugrees non peutre quey e nez àBorroméeouche ez grnde pour uer vn grnd verre de vn tout d vn trt & ns perdre h ne es cheueux nors &mn pus propre à don ner quà receuor uunt humeur chude & prompte du ps Lonnos Voà Anzrn qu texpoe envers Frnços non ureques Htore deve du Ctdn Mzrn contennt tout ce quft en Frnce qu et e trte thetre decruuté & dety rnne Stu moppoes pour ron que tout ce quon curot dre ur ce uet à eté de retru dns me peces qu ont couru pr tous es crrefours de cette Ve & dey e ont dperées pr tout e monde e te repons que tout ce quetu s veu ot en proe ot en vers ureques ou utres peces detchées de duers Autheurs tu e pourrs uor dns vneu voume &"
-        ],
-        [
-            "e rt e re tsfer dnsdecrton nfue des ctons de ce Tyrn Frnços Dns e premer trt de pn ceu tu verrs es fts heroques de on yeu & de on pere es pernceux enegnemens que ceuy uyé pour pruenr à vne hute fortune trez ns dou te de Aretn ou du Mchue Dnsutte e n ou ery ps dy nerer es nu res troces quvomy contre es utes Senteurs de cet Augute Prement eur donnntfuement es qutez de Frfx & de Prcdes Et encore pres cè es voeurs de Mz rns es Prtns defortune & es Monopoeuts eperent & puent hutement qu reuendr encore vnefos dãs Prs & qu y fer en couper des tetes & que msy reuent &c Ms e menporte cy Amy Lecteur e te pre dexeuer mon ze e En vn mot ur ce uet epere de compoer vn ure u gros que Putrque ou e Snt Augutn que tu pours receuor pr dueres repres & en pueurs feües dord quees ortront deouspree quoy que ces ours pez queques certns nqu teurs defoy Mzrne yent tt defences ux mprmeuts de ne nen puet contre ues Mz rn dns qu ne fot pus prer contre cet homme ̀ quon en uot es dt & quon nen curot dre d untge mencns de fre pendre & roü̈er es con treuenns & en effet u meme temps queques vns dceux trouuntcoppe dvne pece que e fs pu er dernerement emporterent mgré́ tous es ef forts de mon mprmeur etos ent Amy Le cteur ors qus rurent dentre es mns es produ ctons & es chers enfns de mon eprt &peutre e my etos rencontré e nuros ps mons ft qu ne onne qu vot eneuer es onceux pr vne troup pe de cheurs e rencontry mon ouurer pus épou uenteé quvn eure qu vent dechper dentre es p t"
-        ],
-        [
-            "Ves rvm ensr vy vur eurerne me er ps perms deécrre & fre m prmer contre vn homme queté nny deFnce comme vn voeur & pr Arret du Prement exco muné dns es Proes comme vn demon & procmeé à on de trompe pr tous es crrefours de cetre ve comme e pus nfme ceert qu t ms re grdé e oe dont es ryons ne ont ms é c ré qù regret & prce qu conuerot prmy dutres hõmes peure meeurs que uy Eterneement on de cmer contre cet ennemy deFrnce & qund es hommes e tront es perres meme preront contre uy & contre tous ces dherns Enfn e e perudyen qu reprt es eprts mtmn à œnure & e reout dcheuer mon tru & e en Voà̀ tout ce que uos à te dre ur ce ujet eue grce quet rens det courtoe cet de corrger hrdment mes futes quont en pus grnd nomre me fos que cees de mprmeur Adcu Amy Lecteur à oy eu ot honneur px & enedcton & à mon nnemy nfme guerre & medcton"
-        ],
-        [
-            "hdAAQhQAtheuh  Se E e t e ee e &e edeeooede eeu  LE  TABLEAV FVNESTE  r r E  E rT E  DES HARPES DE LESTAT  ET  DES TYRANS DV PE VPLE  Le Gencme Frncos Rnd Deu mon extreme foee  t ue oune edonre e CdeTes ugemens ont nompres  r Et tes Arrets pens de gefe  douns e ron fone & oop pen  Se perd u de du prent  Et regrdnt ordre des cues  Que t mn dpoe en eurs rngs vot que dns es rmondres cho  Ee r orgue des pus grnds  Touepreuoyne humn  Vot uorter tous es deens  S tu netens dns tes mns  Comme vn Aueuge que on mene  Les coyns ont des Hous  Et es pus ges ont des fous  s perent dns eurs mxjme  Apres vn ̂che repentr  Et toutes eurs grndeurs umes  Ne ç̧uroent es en grentr  A"
-        ],
-        [
-            "Le Venten  On connot en ns vorutte  De votre dcours ffecté  Qu et ̂chement concerté  Contre Mzrn &fute  A epreuue de vos chnons  De vos vers en mme fç̧ons t vos Sentences fruoes  Cent Arrets dc de Bourdeux  Et tout chrgé de vos ptoes e mocque de vos rondeux  Le GeneLhomme Frnç̧os  A vor t mne née  Et tes ens de crnte eys  On uge en de ton pys  Et de f perfde gnée  Tu portes e front depon  Mstu romps m queton  Pr vne utre econde ntnce  Tu pourros en en peu de ours  Fumnt e ped dvne Potence  Scrur de pture ux Vutours  e  Ceux de t nton funete  Ne eront pus es en venus  L Frnce es hyr pus  Que e poon ou quepete  Dpouez pus nuds quem  Pendus du or u endemn  Chcun ruy de eur uppce  A chque moment r vos  S dnsGréue on ft utce  Ou en ̀Crox du Tror"
-        ],
-        [
-            "3  Le Venten  De grce honnete Genomme  Apprenez dns mon entreten  Que e us mons Scen  que vous netes ntf de Rome  Seuement ns vous emporter  Prenez e on de mecouter  Et vous verrez dns vn memore  Mnuté pr des ons eprts  Tout enter uet de Htore Que vous meme uez entreprs  e  y couru vn & utre Poe  y veu deux fos tout e Leunt  S e us deuenu ç̧unt  Ce n et ps u fond dvne ecoe  Mes Cheueux ont deuenus grs  Pr e grnd tru que y prs  M dexterte ns ege  A découuert e eu ecret  Deerre Phoophe  Et du mouuement ns rret  e  Tout ce que rt &nrure  Ont de eu de rre & dexqus  Mes pus grns ons me ont cqus  Les utres ont precture  gs pr prtque & pr rt  e nexpoe ren u hzrd  e treuue dns m medecne  L gueron des pus grnds mux  Pr es heres pr eur rcne  Ou prChr des nmux"
-        ],
-        [
-            "A Pude e Dvn Lezrdpeu mrqueré́e  e conerme depus ong temps resee pour e e e urprs dns e Prntemps A Preque ot qu eut quttrée  Cet e remede du hu  Ms cét enueux nm  Sçchnt pr ntnct de ncure  Qu et ouuern ux humns  Le deuore en ftpture Pour e rur dentre nosmms  S36  Sns medecne & ns oppte  e guesfe ure en deu ou  En tros mots rrete e cours  De m de poumon ou de rte  L goutte e frcr des yeux  Son es nu queore e meus  L gueron degruee  Et vn effet de mes onguens  Et dEymer e Prtcee  Sen etot pourueu pour vngt ns  ee n M de Coque Nephretjue De Rens de Ventne dtome rge yoete de Cotgnde   Ms cet pourDme mpudque  M de Npes depus vngt ns u  e e guers dns vn Prntenmps  L nche &nore mge  Et rt de rppeen es morts  T  Et vn de mes mondres efforts  Pour  n  2   Sns pourtnt eun endre ve"
-        ],
-        [
-            "3  Pour éterner mmemore  Pr vn eu ecret nunteé́  e montre vn mror enchnté  Que y formé ur e grmore  Enfn e us mtre de rt  Quoy quhe comme vn pendrd E pour en fre experence  e vous montre pour deux edus  Cet rt de ggner àchnce  Au Hoc àPrme & u Fux  Le Gen homsmse Frnços  Qu mmene cer Empyrque  Ce veux Chrtn degueé?  Vryementet en dueé  De meter on rt mgque  V frpon upot des demons  V ten hrnguer ur es pons  Couperoure ousuppe  Ou en ouer des goeets  Croros tu me prendre pour duppe  Et mttrper dns tes fets   e croyos qu me deut ntrure  De queque nouueu ourquet  Ms y en veu dns on cquet  Qune tendot qù me edure  Cet vn gueux vn puure ndgent  u ne utte qù de rgent ouete de Pndore  Et es drogues de Trn  Quoy que s en ot voyons encore  Sne connot pont Mzrn  5"
-        ],
-        [
-            "Ee Voten  y prcouru dns te  Tout e pys Venten  Le Genos e Lguren  Auec touteRomne  Lorette & e Mon Auentn  e pus eu du py Ltn  L hure &e Sce  Tous es vges ros es ou  e ̧y e nom de chque v  Et ceuy meme des tuurgs  3  en pus dcourr pr routne  Et ns protre des pus veux  Ty reconnu tous es yeus  Et ceux dontprt orgne  Son pere fut vn n  Et on yeu pr vn rcn  Dns Ctro mertntCorde  A Genes eut eté condut  S pr ougrnd mer orde ne e fut uue de nut A 6  On crot que ce fut pr ntrgue  Dvn tteeur Egypten  Qu pr rt d mgcen  Br es portes dvne dgue  An dns cet heureux moment eut e chtment  De ceux qu pour vn erme troce  Souffrns me rourmens duers  Meurent dnsvnee foe  Mngez des erpns & des vers  J"
-        ],
-        [
-            "ee  Son fs ne fut ps mons coupe  Lors que pr vn nt fut qu e retrt De Genes comme vn preuote  De ce eu doùet ntf e uu ur vn equf  Dns vne ve de Sce  Cet Mzre doù Mzrn  A prs on nom uunt e te  Dvn Poton où dvn fqun &  Et quttnt e nom de rce  Funete & pr trop odeux  Pr es crymes de es yeus  En reprt vn utre àpce  L̀ on pere touours mechnt  Leu ourque de mrchnd  qudu depus exereeée  Et Mzrn pour tout prty  Trouumnen verée  Qu fut vet de Shett  3  y connu Porcn on pere  Qu ous vn front fer & hgrd Porte tous es trts dvn pendrd  Quepuureteé deepere  Orgueeux upere rrognt  Son nez cmus vn morgnt  Ft prrotre encor dns on me  Qu fut cpe du forft  u e detnot àrme  Du mons s neut eteé́ defft  Chpeer  Crd  Scher"
-        ],
-        [
-            "e  erpesmuoû que es ncetres pr Ont touours hy es Frnços  Scenes  Et que dns Npes utrefos  Vn deux etot prmy ces trtres  Qu eruoent es Nporns  Au our qus tremperent eurs mns  Dns e ng de votre noee  Ouù ors qus etoent mons grdez  Pr es Cones & on dree  Hut me furent pognrdez  ASe  Tout ce que votre oree ecouts  Nous pprenons de pere en fs  e çy d e our prefx  De cette ngnte deroute  Depus ce goreux ourn  n Qu fur ̀ tnt dhommes ft  ee de O ppee nore rue r  Vne mer vn funete eeue  Ou cette nton poe  Ft rencontre de on Cercuo  Npes pour ors etot me  Neut ete e oug du Frnços  u pr es noentes ys  Rendot ce eu degree  Le meurtre netot pont vngé  Le ourgeos etot enrgé  De vor qu eneuotfemme  Et ns qu ot dre mot  Le trtot de e dnfme  De fou de cornrd & de ot  Enfn"
-        ],
-        [
-            "A36  Enfnmort fut concertée  Touteve fut dccord  Qu vot meux fouffrrmort  Que de vurem trteée  De monyeu es ons dus  De pont en pont furent uus  Cependnt ur cetre entrepre  Dns e vn & prmy es pts  Sns eur decouurrurpre vuot uec es odts  Vn our que eurs chef pr megrde  Pus fers pus eu & pus muguets   Sns crnte quon fut ux guets  uuoene pont re doue eur grde   Ch cun vuot en eureté os ppe  A cjoer queque euté ez Cr  Et os que mour es trnporte pnoe pr  Le ourgeos ort demon 3ert ̀ cue  Et e nt d vne porte  Et mtre degrnon  3 cj rses e Fr  Dordfureur &rge  Arment es mns de gros Couteux  Et crntmort des Crpux cherche es eux du crnge  ne repre que e ng  L grnde Ege et vn etng  Pus rouge que net ecrtfe  Et es Correfours pens de Corps  Sementgrotre dvn prte  Qu e pt dechr des morts  g A"
-        ],
-        [
-            "e  3  Enfn chrne urproye  Pre quvn Lon tout ngnt ft vn ruge pus grnd  Quutrefos on ne ft dns T  Et e odt du veux Gregeos Fut mons crue que ce ourge  Qu renouuentfure  Dns encente de es mons  P Ft vn etrnge ouchere  os & des Suf De ces deux noes grnons  e  Porcn dns cetteournée  Se gn pr es expots ft mourr pus de Frnços  Qu nyde ours dns nneéc  L tous eurs efforts furent vns  Là dns e ng des pus hutns port es deux mns ftes  Et pour pprendre pr utruy  Vous pouuez vor dns nos Annes  omment ees prent de uy  S3 et certn & e uoue  Que e fer de on rs punt  En ft treper pus de cent  Quon trnot pres dns  Et rnt ̀ on entreten fut ( d Scen  S fme et des ncennes  S ms on vous ft rect  De vos Vepres Scenes  Rcontez tout ceque y dt"
-        ],
-        [
-            "3  Emeu dvn dcoursfunete  A pene pouuo e vor  Et nenmons ns memouuor  e uy ds dcheuer e rete e teut sen pus dcourr  Et moy fché uquu mourr  Duor ecouté ces rmes  Mon cœur futde regret  Et mes yeux tous moüez de rmes  Que y repndre en ecret  Le Genonme Frnços  Vryemoent votre dcours metonne  Et e vous demnde prdon  De vous uor donné e nom  Decette nton frponne  H quon ne connot ps ̀ vor  Vn homme qu ̀ du çuor  Et quoy quecence eette et ous des mechnts hts  Lgnornt et ous ecrrre  Tout chrge dor & de Rüs  é8  Sns nterrompre votre hytore Et votre gree entreten  Souffrez que ete du men  Vn trt en dgne de memore  S es yeus du Crdn  Autrefos nous frent du m  En mcrnt notre noee Leur fs nous en ft pus ouffrr  Lors que ous mn & pr oupee tche à̀ nous fre mourr   3  4"
-        ],
-        [
-            "S  deerté nos Prounces  u chmps on y meurt ̀ mers  Prend es ens des prtcuers  Pnuneene epgnés ceu des pnnee  Enfn veut perdre Et S n e non de Porenrr  u monsrent e ddene  et vn Tgre cet n rgon  Cet vn Ceope n Popnene  Vn Tyrn de ft & de noe  Ms ogez moy de reprendre  L utte de yotre deous  e eros es nuts & es ours   43  Sns mennuer de vous entendre  Votre eprt n ren nuenre  Sur e pont deprnt  Cheun et en que fut e pere  De ce grnd nuenteur du e  e enen Vous çures connofntmere  Touterce & on etoc e  Cetotdone Cne ue ee emme on o emp  Fe pouuot uor vnge nst  Qun econnus dns ene  Vous dre on exrrcton  S nncenton  Serot vn uet de ree  Ee uot pus dvu fuuory  Et cent utres uoent ée  Aunt que detre à on my  Etnt"
-        ],
-        [
-            "Etnt pr hymen ere  Sous e oug de cet Artn  Ee eut touours vn Courtn  Au gré des prs deve  S de rre on uge du frut  Voyez ceuy queeprodut  Et ns demntr e prouere  Neperez ps u renouueu  Ny on uc dvne muue here  Ny on œuf dvn mechnt Coreu  Ae fut mechnt touteve  Dés ge de cnq ou x ns  Nourry prmy des Artns  On e vt encn à enue  Son pere pr trop ndugent  Souffrot qu out de rgent  Au Bern u Fux àPrme  Et pr ̀ on eprt oueur  Receuttentute du erme  Putot que cee de honneur    Mrn t uy dot on pere  Eeoue mon fs m econ  Aprens à fre e poon  DPu corps venmeux dvn vpere  Lrcent ettrop voent  Ceuy pus foe &e pus ent  Sempre du cœur & e tue  Ee chnt utheur du forfe  Le mde en vn seuertoe meurt cout pe & tout defft  oe m fegemes ose z r on per Pore  J"
-        ],
-        [
-            "Cortry    Retens de moy certe mxme  Et dont e ne pus moner  4  S honneur ne peut ser  Auec ton en recours u crme  Tous ces crupueux ont des fous  s meurent de m à genoux  En rectnt eur ptotre  Sot en euunt ot en mngnt  ( Pour moy e nen connos pont dutrej  Ndore que e Deu drgent  e  L Regon etrue  Depoce des Tyrns  Pr à e peupe crnt es grnds  Sous ce grnd ect qu mue  Dns ton ordnre trffe  Sous œ crue dvn Bc  Porte e cœur dvn Crocode  Pour ppuyer ton nteret  Ne crns pont de perdre vne ve  Ouuertement ou en ecret  3e e gort Sns te oucer de doctrne  Apprens de on heure à pper  Cet e moyen de sequper  Et de fre onne cune  S tu veux deuenr cunt  Fy per ton eprt muuent  Aux chngemens defortune  Sny touoursfueur des grnds  S queque mheur tmpope  Tu es pourrs prendt grnds"
-        ],
-        [
-            "g  e  Pour de rgent ers de Mercure  Porte hrdment e pouet  r ne ns pont detre vet  De ces nourrons dEpecure  Apprens rt de te fre ymer  s temmes & pour es chrmer  Sers toy de queque crctere  Ame touoursnouueuté  Et ns te rendre trutre  Fs fortune pr t euté S  Ben on de ton pys ure  Et de t e extrcton  Pourche vne utre nton  Voypus douce &pus rre  Le Frnços prot fort humns  Là tu pourrs fre t mn  Cette nton etrngere  Entre toutes me pt e pus  Qumporte quee ot egere  Pourueu quee t en des ecus  3  Grde enfn toutes mes proes  Fuyfortune des guerrers  Te veux tu chrger de Lurers?  Ne fsguerre quux Ptoes An tu pourrs ns erreur Regr Ett dvn Empereur  An tu ers he homme  V e te ouhtePx  epere quvn our dedns Rome  Tu me trs vn Ps  4"
-        ],
-        [
-            "e  O Den quee frponnere  Qu vt ms vn te Docteur? uy montr rt dmpoteur  Dontvort pendntve  Cet eprt de vceux  Se nt esour es yeux  Pr epor de cette pprence  Reout dennor on ng  Et pour ce deen vnt en Frnce  Seeuer dns e premer rng  Le Genomme Frncos t vry quu Seee ou nous omme  Ben peruers & en corrompu  e ne cros ps quon t connu  Ny pû vor deux pus mechns hommes  Et quoy que e os gé  Vous muezfort ogé Que fnt de vous grnde etme  e veux etre de vos ms  Et vous crer mercy du erme  Que pr megrde y comms  A  Le Ventten u pourAfn que ren ne vous echppe une er e vous deers nr  epr Dont ce pus qunfme Pret  e Ft mour e nepueu du Ppe os dse  Ms dfterons uquà dem  cens X  Vous urez enter dnsmn  Adeu mon rue Gen homme  Apprenez moy votre ogs  Le Genomme Fnços  Cet u eu de Pume de Rome  Tout contre e pett Prs 22  Tue o A"
-        ],
-        [
-            "Se  Toot s  Ms cet purotu ped de Bche  Proche deCrox du Tror  Son eprt propre à̀ deceuor  Et à crndre qu ne me trche  Quoy que sen otet çunt  Vetu comme vn moun à̀ vent rconte en vne hytore  Demn e ne mnquery ps  De trer de uy ce memore  Men deu couter vn reps  m du premer entreen du Gent homme rnços  uec e Vente"
-        ],
-        [
-            "3 u o dn ph Pp  cene  5  Ad nn huhhnhhn  de d dedeeeeteedee eeee ?  A  D P r NH  MONSEVR C  SVR SONHSTORE  SGNNET Erte Frncos dontpume qunte  V Nous decrt vne Hytore uec deeux vers  Que tu peux oger ms peupes duers  Permes moy de ojer t pemture vunte  L mondre des coueurs en et fort ectnte  Les trs fort en trez & gement couuers  S en quon ne peut meux nous dependre vn peruers  Qu fut grnd euement prve noence  Lecteur qu que tu os d te fut duöer  Qon ne peut p ee dgnenen ur  LAmre ouurer de ce prft ouurge  Ny que e dgne oet de on ute couroux  Ne rouut vn econd nement pus doux  Que de tous es deffux cette nfue mge  P D L G"
+            "O Dieux que me faul choiſir",
+            "Pour loüer mon Dieu Tutelaire;",
+            "que fera je en l’ardent deſir",
+            "que mon eſprit a de vous plaire:",
+            "e diray par tout mon boeur,",
+            "le peindré ſi bienvoſtre honneur,",
+            "que la Mer qui void les deux poles",
+            "Dont ſe méſure l’Vniaers,",
+            "Gardera ſur ſes Ondes molles.",
+            "Les caracteres de mesvers.",
+            "FIN.",
+            "PERMISSION.",
+            "JL eſt permis à IA pvioco, mprimeur & Libraite àParis,",
+            "A d imprimer ou faire imprimer, endre & debiter vn Liure inti",
+            "tulé, Tablean racaurey des Courtiſans; Et deffenſes ſont faites aà",
+            "tous autres de l’imprimer peme lell’amende. Fait ce troiſreſme",
+            "May 1643.",
+            "D’AVBRAY."
         ]
     ]
 }

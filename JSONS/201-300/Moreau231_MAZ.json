@@ -5,37 +5,94 @@
             "arrêt",
             "texte officiel"
         ],
-        "handwritten_note": false,
+        "handwritten_note": true,
         "table_of_content": false,
         "illustration": false,
-        "subject": "Rentes de l'Hôtel de ville de\n            Paris",
+        "subject": "Censure",
         "change": {
             "@status": "corrected",
             "@when": "2022-03-10",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement pour le payement des rentes\n          de l’Hôtel de Ville de Paris.",
+        "titre": "Arrèt de la cour de Parlement, portant défenses, à tous\n          imprimeurs et colporteurs, d’imprimer et exposer en vente aucuns ouvrages et autres écrits\n          concernant les affaires publiques, sans permission registrée augreffe de ladite cour, sur\n          peines y contenues.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau231_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau232_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement pour e pyement des rentes de Hôte de Ve de Prs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Prement de PrsArrest decour de Prement pour e pyement des rentes de Hoste de ve de Prs Prs Gervs Aot 649 26 jnver 649 Prs Bothèque MzrneM4443TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès Céestn Moreu utre édton de rrêt nttué \"Arrest decour de Prement Du vngnquéme jnver 649 Pr equeest ordonné ux pyeurs des rentes de pyer es rrerges deus & escheus ux renters qu sont present en cette ve\" (BM0002) Sgné \"Guet\" Dté du 25 jnver 649 Dprès Huert Crrer texte pru e 26 jnver 649 (Bothèque Mzrne Ms 468 f 7v) 23 Arrêt decour de prement pour e pyement des rentes de Hôte de Ve de Prs Prs Gervs Aot 649 4 pges Autre édton de rrêt qu précèdeprose rrêt texte offceRentes de Hôte de ve de Prs"
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES A TOVS",
+            "mprimeurs & Colporteurs d’imprimer & expoſer",
+            "en vente aucuns Ouurages & autres Eſcrits concer",
+            "nant les affaires publiques, ſans permiſſion regiſtrée",
+            "u Greffe de ladite Cour, ſur les peines y contenuë̈s.",
+            "Da vinginquiéme Ianuier mil ſix cens quarenteuf.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
         ],
         [
-            "ARREST DE LA COVR DE PARLEMENT Pour e pyement des Rentes de Hote de Ve de PrsA PARS Chez GERVAS ALLOT u Ps procheChppee S Mche M DC XXL"
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "SVR ce qui a eſté remonſtré à la Cour par",
+            "e Procureur General du Roy, Que con",
+            "tre les anciens Reglemens, Ordonnan",
+            "ces & Arreſts renouuellez & publiez en",
+            "diuers temps, pluſieurs particuliers ſe li",
+            "centient de faire imprimer, vendre & debiter publique",
+            "ment pluſieurs ouurages ſous diuers tiltres, libelles iniu",
+            "rieux & diffamatoires, & autres écrits concernans les aſ",
+            "faires publiques, ſans nom d’Autheur ny d’Imprimeur:",
+            "Requerant y eſtre pourueu. La matiere miſe en delib",
+            "ration: LA CovR a fait & fait trexpreſſes inhibi",
+            "tions & defenſes à toutes perſonnes de quelque qualité",
+            "& condition qu’elles ſoient, de compoſer & mettre an",
+            "umiere aucuns libelles iniurieux & diffamatoires, & à",
+            "tous Imprimeurs, Libraires, Relieurs & Colporteurs,",
+            "d’imprimer, debiter, y txpoſer eu vente aucuns libel.",
+            "es ny autres eécrits concernans les affaires publiques,",
+            "ns que le nom de l’Autheur, de l’Imprimeur, & du lieu",
+            "où l’impreſſion ſera faite, ſoient au commencement,",
+            "uec la Permiſſion regiſtré́e au Grefſe de la Cour, à peine",
+            "de cinq cens liures d’amende & de punition exe mplai:",
+            "re: Enjoint à tous Commiſlaires, Huiſſiers, Sergens &",
+            "utres Offciers de Iuſtice, de ſaiſir & tranſporter les",
+            "preſſes & caracteres des Maiſtres Imprimeurs & autres",
+            "qui ſeront trouuez imprimans aucuns liures, libelles ou"
         ],
         [
-            "3 EXTRACT TDES Regtres de Prement LA Cour toutes e Chm res emées deernt ur es ffres preentes pour é́uter ux deordres qu e pour roent commettre u pyement des rentes de Hote de cette Ve de Prs & ttendune ceté preente A ordonné & ordonne ux Pyeurs dedtes rentes pyer es rrerges dce es deus echeus &echor ux renters qu ont preents en cette Ve à excuon des"
-        ],
-        [
-            "4 ens hors cette Ve ft defen ces udts Receueurs den ver utrement & de contreuenr u preent Arret ns nentmons trer ̀ conequence pour due nr Ft en Prement e vng cnqueme nuer 6̃49 Sń GVET"
+            "4",
+            "utres écrits, ſans ladite Permiſſion, pour eſtre vendue",
+            "u plus offrant & dernier encheriſſeur, en la maniere",
+            "ccouſtumée, & les deniers en prouenans aumoſnez à",
+            "Hoſteieu de cette Ville de Paris, Meſmes d’arreſter",
+            "& conſtituer priſonniers tous les lmprimeurs, Colpor",
+            "reurs & autres qui ſeront trouuez imprimans ou debi.",
+            "tans telles pieces, pour leur eſtre le procez fait & parfair,",
+            "& punis ſelon la rigueur des Ordonnances. Ordonne",
+            "qu’à la diligence du Procureur General du Roy, le pre",
+            "ſent Arreſt ſera ſignifié au Syndic & Adjoints de la Li",
+            "brairie, pour eſtre leu & publié en la Communauté des",
+            "mprimeurs & Libraires, & outre publié & affiché par",
+            "es carrefours & autres lieux accouſtumez de cette Ville",
+            "de Paris. Enjoint au Preuoſt de Paris, ſes Lieutenans, de",
+            "tenir la main à̀ l’execution du preſent Arreſt, informer",
+            "des contrauentions, & proceder à l’encontre des con",
+            "treuenans ſuiuant la rigueur des Ordonnances & Ar.",
+            "reſts. FarcT en Parlement le vinginquieme Ianuier",
+            "mil ſix cens quarenteuf. Signé, dv TILLET.",
+            "Collationné ̀ l’original par moy Conſeiller Sgcretaine",
+            "du Roy & de ſes Finanmces."
         ]
     ]
 }

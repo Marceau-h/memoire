@@ -1,13 +1,9 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "vers",
         "genre": [
             "narration",
-            "nouvelles",
-            "chanson"
+            "burlesque"
         ],
         "subject": null,
         "handwritten_note": false,
@@ -19,58 +15,173 @@
             "@when": "2022-09-09",
             "@who": "AB"
         },
-        "titre": "La gazette de la place Maubert, ou Suite de la Gazette\n          des halles, touchant les affaires du temps. Second nouvelle.",
+        "titre": "La gazette des halles, sur les affaires du temps.\n          Première nouvelle.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-04-20",
-            "#text": "20 avril 2021"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1469_GALL.xml",
+        "fichier": "Moreau1470_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L gzette depce Muert ou Sute deGzette des hes touchnt es ffres du temps Second nouvee Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté20 vr 202Auteur deGzette des Hes Gzette () depce Muert ou Sute deGzette des hes touchnt es ffres du temps Second nouvee Prs Mche Mettyer sège de prs vnt fn mrs 649 Prs Bothèque ntone de Frnce Déprtement ttérture et rt Y53TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Cette gzette qu emprutne u ptos prsen met en scène Dme Bre Dme Dense et \"une ourgeose\" commentnt es \"ffres du temps\" à svor e sège de Prs L chnson du \"Quen dron\" est utsée pour commenter ctuté en puseurs coupets (p )469 Gzette () depce Muert ou Sute deGzette des hes touchnt es ffres du temps Seconde nouvee Prs Mche Mettyer 649pgesvers prose nrrton nouvees chnson Récepton de envoyé de rchduc Léopod u prement 64"
+            "LA",
+            "GAZETTE",
+            "DES",
+            "HALLES",
+            "TOVCHANT LES",
+            "ffaires du temps.",
+            "PREMIERE NOVVELLE.",
+            "A PARIS,",
+            "Chez MICHIEL MTTAYER, Imprimeur ordinaire",
+            "du Roy, demeurant en l’Iſle Noſtre Dame ſur le",
+            "Pont Marie, au Cigne.",
+            "M DC. XLIX."
         ],
         [
-            "SVTTE DE LA GAZETTE DE LA PLACE MAVBERT pr Autheur deDE LA GAZETTE DE HALLES touchnt es ffres du tempeA PARS Chez MCHEL MTTAYER mprmeur ord nre du Roy demeurnt en e Notre Dme ur e Pont Mre u Cgne M DC XLX"
+            "LA",
+            "GAZETTE DES HALLES",
+            "PREMIERE NOVVELLE.",
+            "Omereenfin parguieu iopenſe,",
+            "l’on monſtréàſon Emenence",
+            "Sneſahauteu ou deplais,",
+            "en on dit deus mots au Palais,",
+            "Parguié i’en ſomme deueuglée",
+            "en voulons faire vne valleée",
+            "Sl aimecant d’eſtre Emenant,",
+            "A Monaucon ſoitypendant",
+            "enlevatra de toula viie",
+            "C’eſt vn lieu haut & bien vtille",
+            "ur tou les gens de ſa ſacon,",
+            "Qui caraſent plus vngarçon",
+            "s ne ſenent de belles files,",
+            "S ie tenien ſes triquebilles",
+            "e les doriensà nos matou.",
+            "elpangnenen autant de mous",
+            "eaiſ apmrorenaredlund",
+            "dame voyet ma limand",
+            "vousbeoſn de mauiuun,",
+            "Jeu auon de fais & de ia.",
+            "marhandiſeſloute enuie"
         ],
         [
-            "3  DAME BARBE SE PLAGNANT  ̀pette fe du ong temps quee n veu  Dme De ne pour eurconfernce   TROSESME GAZETTE Argot u pont veu Dene  V Tres dme que et m pre On nevot ny peu ny prou  A es fourée en que que trou  Per gueu ̀ e me oute en pnne nycy deux emne  Connevotpont n crté  L puure femme set pté  Avng homme en tre  Vn homme qu ns fre cre  Luy ur ft queque gugnon  Et tren frotté çon tgnon  e cognos fort en on courge  Set vn guee ̀ fre crnge  Et pus e our qu ns ny  Pr tros fos én fort pey  Crenrge qunt ̀ cue  Tenez en vo deoze  Ls veneç p enezmoy  M foy qund erot pour e Roy  A 0"
+            "e eouiſtl olie pardre lunie,",
+            "Reuenons à nos Partuiſans",
+            "Qui voulien que nos Preſidans",
+            "euſſions poiut de voiren clapire",
+            "e lieus auons rendu lieu tiltre",
+            "Somme l auien par le paſſe,",
+            "Sans qu’on heux airt rien effaceé",
+            "Et ſi iobtiendron leu demande",
+            "Jut elle encortra fois plus gande",
+            "ASa pargueu ie le voulo",
+            "Et ceſt ainſin que e panlon",
+            "Si ie vendons de l morue",
+            "En ſo ie nou moins abſolue:",
+            "Jeſmoin le Cure que ſ’ons faie,",
+            "Voule rous voir vn plus bou na",
+            "dne aunonu dernadil iroſei er",
+            "Ou l’appo ee lur noſre re",
+            "Venvoulonsl ce porreur dlu",
+            "de les di oueſnus ue iler",
+            "Dſil dſe nunie on luſeie",
+            "S ene tenon nos parole,",
+            "ommeice pent meurt i",
+            "Ce voiſin de ldle ou e",
+            "Qus ſopot de noue oieie",
+            "ee pe ne eu de doun le",
+            "Sue ene de ouna le lrnonmon",
+            "de nns nirne ſon p n onrnon",
+            "S el oune bneunu fle e ne",
+            "ues lye rou on uue."
         ],
         [
-            "4  A qu Deu donne onne ve  Vyez prenez  L Bourgeoe  Qe e mne  Dme Be  Ho mets et que vo du on  enez voueous du Sumon  Vous en coupery deux drne  Ne e ftes ps pour eprne  Cy vous en uez pety  e vous e rez ̀ credy  e voy quoy que vous puez dre  Que et votre frut qen dere  Et que es petts peds en ouuent  Font en ouffrr du m ux grns me ouuent utre creme  Vous ncheptez ren qù moeme  Comme dt utre ns mnty  Vous ne ftes que rmey  Pr m foy e vous en ure  L Bourgeoe  Ho vous men contez des pus mures  C ç ne fut pont tnt préché  Depechons nous feont mrché  D Bre  Vous vous mucqué de moy e eme  Nous ne nous ttrons ps eneme  Tout e que y et en ̀ vous  L Bourgee  Ms e on mot comen pour nous  Dme"
+            "g",
+            "Et ſi iauon le petrina",
+            "Auſi pront qu’a ſonarcens",
+            "Que la peſteſoit la bougraille",
+            "Ce ne ſont ma foy rien qui vaille",
+            "Mais dſon comme l’autre dit",
+            "Hors du peuple eſt de Dieu maudir",
+            "e menerien bien les affaires",
+            "Si lebon Roy nous laiſsoit faire",
+            "Cariauons veu téz quon nous voit",
+            "Le troiſieſme reigne de Roy",
+            "Helas teſmoin Monſieu ſon pere",
+            "Ceſtoit vn hommeſans colere",
+            "Vnhomme qui auroit eu de nou",
+            "uſques à̀ nos mouchois de cou",
+            "Quand ie dirois noſtre chemiſe",
+            "En bonne foy ie leuſſien miſe",
+            "Dieu luyfaſse paix & pardon",
+            "En fin pour vous faire cour don",
+            "nous voulien mettreenbaſfiere",
+            "s ie ne nous en ſoucipſguere",
+            "Arriue tous sen quipurra",
+            "Sil faut ſe battre ille faura",
+            "on courage ma camarade",
+            "Faiſon nou vne barricade",
+            "Aleatour de noſtre bacquet.",
+            "Debons gros bros de vin clairet",
+            "Pour toxin nous prendron le varre",
+            "tpuis nous boiron, tant que tara",
+            "Laiſson voir peté́ le Rena",
+            "Eguiealur tout, dit larmoina",
+            "B",
+            "EIN."
         ],
         [
-            "Dme Bre  Vouez vous dont que e e de  Aucy vry qu vous e deue  5  Vous ne mn poyrez que x frns  Cr qund erot pour mon enfnt  e nen rttrez psme  L Bourgeoe  Hõ hõ fut dont que e men e  Vous ete trop chere uourdhuy  Ee ̀ cue du Vendredy  Que vous ftesrenchere  D Bre  C venez ç pre mme  Con en en voué vous doné  eru f u tnt setonné  Voyez comme etm chndre  C comen or voueous dre  L Bourgeoe  Pour es vter tnt de fçons  e vous en donne deux tetons  Dme Bre  Ecoutez u vry Mdme  Comme vous ete honete femme  Y me ruent ns vous mnty  A pus de tros frns & demy  L Bourgeoe  Vous nen urez ps d vntge  D Bre  Cenet ps ̀ votre vge"
+            "e",
+            "AVTRE NOVVELLE",
+            "Dialogue.",
+            "D. GRAANE.",
+            "Rſu la pay de Guieu ſoit donnée entrenous",
+            "V Nous auons vu la veille ou treſtou come lou",
+            "e nous allien mangé & haché tout en piece",
+            "Mais le ran eſt paſſe nou rentron en lieſſe",
+            "Au Guieble ſoit donné́ ceux qui ont commenc",
+            "DAME QVANTIANE.",
+            "Quainſin ſoi, quainſin fut lon nauroie pascaſſe",
+            "La teſteà̀ noſtre fils ces guiebles decreuices",
+            "gropougres dhados, la peſte ſoit les Suiſes",
+            "Si laReine võuloit a men feroit raiſon",
+            "s quoy il ſemble auar qui gnila que ſon garcon",
+            "Et quiſfauieouſouſi pour eſe paruroſairme",
+            "D. GRATIANÉ.",
+            "rguieunen dit qua ditſorant de Noſtre Danme",
+            "Quil faloie tout tud que ſeſnon des muainr eu",
+            "Ques le roulien ſembl a les lapouimilir",
+            "S qu fit quen bienmoins dulrant queieee pus",
+            "ouleulrou p’an ſn oubuie lail e r",
+            "ouieu ſcait ſi a parn, parvueeeadere",
+            "QV ANTIANE.",
+            "Sla inu de conſay de ce ſlneoiea det",
+            "Pirou nn lns e p n qe i ererune",
+            "dnener d nſen nos erurei ren ene",
+            "i",
+            "e nuray pas donnldle l l ree une"
         ],
         [
-            "Rendez rendez moy mon umon  Adeu deu m foymon  Vous fut des trppes de morué  Comme dntre on cheu ruë  Voyez mdme de nct mn  Le cous tout chrgé de frcn  Voyezee mgurée  Voyezgueue reprée  Pncé que on puure coqu  Ne uydonné qnvn ecu  Pour e rete deemne  Voyez moyougre de mne  Ses eux cheueux en erpenteux  Ses ncs ouers dns es rueux  Ses deux coffe de crpude  Voyez m dme ren qu ve  Luy fut donné du umon frs  A e eu rete de cqus  L Burgeoe  Adeu ̀ ton ms veu femme  Dre tnt de proe nf mme  Qu pre uecmons de rron  D Bre  Adeu deu mry gron  Tronez moy e dos u pus vte  Cr our de gueu cy tu mrte  Tu vers que pe m mn  Pete ̀ poux chene de putn  Voyez moy e e u mcqurde"
-        ],
-        [
-            "Quee grnd dee derde  M foy voy vn eu ton  Pour rurdy ̀ mon fucon  Au en metre en Guume  Ne ds pus ren que esepume  EL pndeoque ne v pus  L Bourgeoe  En vouez vous dx os de pus  Dme Bre  Aute toy deunt m outcque  Porte gugnon chude prtque  Cy non e te gytré de eu  Bougre de groun de pourceu  Reguytez donc dme Ponette  Prez donc commere treette  Vorne n tu ren de on  Pour donné ̀ ce veu drgon  Mdme ou et votre demeure  On vous e porter tout eure  Aveous eon dvnhoteur  Ou en dvne chretreeufs  Pour porter tout votre gge  Aorot pus eon dvn pge  Pour uy troué on coton  Cr ̀ e crotte de f çon  Qù ne er en tot que ouë  De mn en mn confoue  Pus qu nfut crons pres"
-        ],
-        [
-            "3  Et crogne mque et et  M foyvoy en ée  Adeu vous dspuure peée  Dme Bre urpre pr  dme Dene  A commere on e ty prns  Quoy tu te fche en on etn  Tu s toutefce euë  Dme Bre  Qu pre du oup en votqeue  Doù dee venu dont dmoy  Tu ms donné en de effroy  Dme Dene  Le dee otgroe fee  Doù vent e vens de Gonee  Ne me vs tu ps e mtn  Aporte de nct Mrtn  Ou e vteucoup de rue  Donné e rude ut u rue  Et pus de deux me cdet  Frent ̀geure ux nuet  Aux ognons u choux ux youes  Enfn tout Prs fut en foue  Setot mrue de es vor  Sedury uque u or  Moy qu etot demeuré derrere  y demeurypronnere  uqù e our que tu me vot  Enfn que du du con vot  Entryty"
-        ],
-        [
-            "9  Entryty eucoup de chrrettes  D Bre  Les grn ruës etent tropetreteces  Sn entry vrmn eucou  Tn con ne uot es mettre oux  D Dene  A preent comme v ffre  Auronepx ou guer  D Bre  e fzonspx mugré eux  D Dene  Que dntre y ont dot en honteux  D Bre  Pergeuy eur et enforce  Ce Crdn ce metre oe  Se vot u out de on rouet  Cr tu vot tout chcun e ht  Les Nomns & toute Epgne  Les Lorns & toutBertgne  Enfn tnt ux ves quux chmps  Chcun e cognosméchnt  Quonne cherche querune  D Dene  M foy on en eu de pn  Et cePrnce de Condéo0  En et touours poedé  Auenque toutce  S e e tenen dnshe  vrrot que et detrehs  c  6"
-        ],
-        [
-            "0  Prncpement ̀ prs  Ce net ps quon uy vouu fre  Aucune choe temerre  Qund ce ne erot que on nom  Appe é Lous de Bouron  Ms e uy chnterengme  Luy remontrnt qu et nfme  De prendre vnmuus prty  Qu en fer en repnty  Vn Crdn vn Emnnce  Qu n pus ren de on en Frnce  Ytout prs tout ms dehors  Y ne uy rete que on corps  Dont ce en fort e chgrgne  Tent utre our ountchopne  entendy drechnon  Sur e eu chn qundon  Dme Bre  Hu ds don que e untde  Cet vne eernde  Dme Dene  Sus ons Frnços ecourez votre Frnce  Secourez moy dns mon oppreon  Votre nnce  Porte e nom  De ne ouffrr ucune tryon  Vngé moy don  Brues guerrers sogez que e vous donne  Auec e our vn cœur comme vn Lon"
-        ],
-        [
-            "Cy nm couronne  Pr vn demon  Deunt vos yeux et pre ur monfron  Qundroton  Grnd Prement vous etes trop ugute  Pour nen vouor trer votre ron  L cue et ute  Et de on  En vous vengent votre Roy & mon non  undroton  Dme Bre  e nentn ren ̀ ton jrgon  Ny fn ny mon quu s erton  Dme Dene M foy veu tu que e e de  Au ft en Dme Dene  Ms en y ft ns me vnté  Vne que e te vs chnté  S couteen e te pre  S tutrouue pus joe Dme Dene  e voudros en tenr dedns m chmre  Ce Mcrn qu nous ft enrgé  Son pus u memre  Lynt h̀gé  A tout nos chens e e feros mngé  Qundroton  Dme Bre  O m foy fut que eprne 9"
-        ],
-        [
-            "yme meuxte pyer chopne  A vut pus ns compron  Vn ecu que utre vn teton  Dme Dene  ee    en uon en encor vne  Et qu net ps des pus commune  Pus que en omme ur e trn  De ce dee de Mcrn  Pr m foy fut que ede  A couté ̀ pre ns fnte  Du Mzrn & deMzrne  Qundroton que dee en droton  Sons des cnne  Qund roton  Qundroton pr m foy ren de on  Qundroton  Dme Bre  Qundroton qundrton  Nousft en mngé du on  Ms mugré tout on hyuee  Nont cependntconfernce  Tnt chepté comme pé  uons nous ft rnuté  Dme Dene  e nons pus peur defmne  ons pus de ed & de frne  Qu ne nous en fut pour vn n  S nos Meeurs du Prement"
-        ],
-        [
-            "Nous pporteguerreouuerte  Pr m foy e prsprte  Cr tous nos generux & nous  Nousy ront uy cé e coux  Et cy grcheryre  Qund tu m comere Bre  D Bre  L px et fte mtondt  Achrge que ce mudt  S cete pete dumnnce  Sortt de notre Frnce  Deu uy en vee en ouy  Que notre pett Roy Lous  Son frere & toutefme  Reuenne dnsonne ve  Sns roué uecqrron  Les pus ruts demron  S mere on once &tnte  Et m moreeprnte  Set vn enfnt que me en  Pour du rete e nen dren  Qu fce des choux ou des rue  Ses ux oudrt qu font es rue  e nen noryms pté  X ont perdu mon mté  Dme Dene  O en fut uor pnce  uqu tnt queconfernce  Nous de cy et vry ou non"
-        ],
-        [
-            "qu cet ennemy ce demon  y en peur qu ne e degue  Luy outntccque gre  De ustete vn grnd chpu  Tout ntour vn eu pumu  A con coté epée dorée  L ee perrucque poudrée  S re dvn utre fçn  Rzé comme vn eune grcon  4  Et ne erot ps de fre  Se quet dns ett necere  Et pr n cy e gueren  Pr tout des puures Prens  Adeu uec c e te e  Vonuct e tmp me pree  Fut retourné ̀mron  Dmre  A pren moy don qundrton  D Dene  Non nonenpecheros t vnte  deu  Dme Bre  Adeu ton t erunte FN"
+            "Parguieu ie vous le dis tout haut & plat & net",
+            "urays frapé d’abort & toute la premiere.",
+            "D. GRATI ANE.",
+            "Ma foy n’en lieus auret bien taillé́ des croupiere",
+            "A luy & à̀ tou ceu qui ſon de ſon conſay",
+            "Qu’il lieus puiſſearriué vn accident paray",
+            "Comme à ce porteux diau, las qu’il la manqui belle,",
+            "doi fondre ſes ſiaux pour faire vne chandelle",
+            "E l’aller preſenté au ſainct qu’il ſe vouü̈y",
+            "D. QVAN.",
+            "Parguié n’en dit de peur qe’il s’en euanoü̈y",
+            "doit remercié ſon Monſieu le grand Maiſtre",
+            "Qui le voulant ſauué raceut par la ferneſtre",
+            "n grand coup de paué deſſus ſon pauure dos",
+            "Qui le contraignit bien luy & tous ſes hardos",
+            "Pe driller au pu viſte & faire deligence",
+            "t ſallé tetiré aupres ſon Emenence.",
+            "FIN."
         ]
     ]
 }

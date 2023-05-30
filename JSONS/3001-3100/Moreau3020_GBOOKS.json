@@ -1,52 +1,162 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "récit",
+        "genre": [
+            "narration",
+            "récit"
+        ],
         "subject": [
-            "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
+            "Louis, roi de France, XIV, 1638-1715",
             "Orléans, Gaston, duc d', 1608-1660",
             "Parlement de Paris"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-09-26",
+        "creation": "1652-10-13",
         "change": {
             "@status": "corrected",
-            "@when": "2022-06-28",
+            "@when": "2022-09-28",
             "@who": "AB"
         },
-        "titre": "Récit véritable de tout ce qui s'est fait et passé au\n          Parlement, le jeudi 26 septembre 1652, en présence de Son Altesse Royale , avec les arrêts\n          portant cassation des procédures faites contre M. le duc de Beaufort et défenses à toutes\n          personnes de s'assembler ni attrouper au Palai-Royal ni autres lieux à peine de la vue, et\n          la députatio de M. Talon, avocat général, pour être envoyé à Sa Majesté par messieurs du\n          Parlement.",
+        "titre": "Recit veritable de tout ce qui s'est fait et passé en\n          Parlement, le mercredy 16. octobre 1652. En presence de son Alt. Royale, et autres ducs\n          & pairs de France. Avec la response du Roy à la derniere lettre & declaration de\n          son Altesse Royale.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3020_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3024_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Réct vérte de tout ce qu sest ft et pssé u Prement e jeud 26 septemre 652 en présence de Son Atesse Royevec es rrêts portnt csston des procédures ftes contre M e duc de Beufort et défenses à toutes personnes de sssemer n ttrouper u oy n utres eux à pene devue etdéputto de M Ton voct génér pour être envoyé à S Mjesté pr messeurs du Prement Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Réct vérte de tout ce qu sest ft et pssé u Prement e jeud 26 septemre 652 en présence de Son Atesse Royevec es rrêts portnt csston des procédures ftes contre M e duc de Beufort et défenses à toutes personnes de sssemer n ttrouper u oy n utres eux à pene devue etdéputto de M Ton voct génér pour être envoyé à S Mjesté pr messeurs du Prement Prs Lurent Lureu 652 Lyon Bothèque muncpe309862TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Ne content ps e texte des rrêts nnoncés u ttre3020 Réct vérte de tout ce qu sest ft et pssé u Prement e jeud 26 septemre 652 en présence de Son Atesse Royevec es rrêts portnt css ton des procédures ftes contre M e duc de Be fort et défenses à toutes personnes de sssemer n ttrouper u Poy n utres eux à pene deve etdéputton de M Tonvoct générpour être envoyé à S Mjesté pr messeurs du Prement Prs L Lureu 652 7 pges Rreprose réct Beufort Frnços de Bouroendôme duc de 669 Oréns Gston duc d 6060 Prement de PrsDeuxème décrton dmnste 656"
+            "RECIT",
+            "VERITABLE",
+            "DE TOVT CE QVI",
+            "S'EST FAITET PASSE",
+            "EN PARLEMENT,",
+            "e Mereredy 16. Oobre 1i652.",
+            "En preſence de ſon Alt. Royale,",
+            "Et autres Ducs & Pairs de France.",
+            "AVEC LA RESPONSE DV ROY",
+            "̀ la derniere Lettre & Declaration de ſon Alteſſe",
+            "Royale.",
+            "A PARIS,",
+            "Chez LAVRENT TOVSSAINT.",
+            "M. DC. LII."
         ],
         [
-            "RECT VERTABLE De tout ce qu set fct & pé en Prement e eudy xxv Septemre 652 En preence de on Atee Roye AVEC LES ARRESTS PORTANT Cton des pocedures fctes centre Mon eur e Duc de Beufort Et deffencestoutes peronnes de semer ny t troupper u Ps Roy ny utres eux à pene deVe EtDeputton de Moeur Ton Aduoct Cener our eftre enuoyéMjeté pr Meeurs du Prement A PARS Che LAVRENT LAVREAV M DC L"
+            "3",
+            "RE CI T",
+            "VERITABLE",
+            "DETOVT CE QVI SEST FAIT",
+            "& paſſeé en Parlenaent le Mercredy 16.",
+            "Oobre6;.",
+            "En preſence da ſon Alt. Royale, & autres",
+            "Ducs & Pairs de France..",
+            "Auee la Reſpoaſe d ay à l dernmiere Lettre",
+            "& Deelaratio de ſon Aleſſe oyale.",
+            "E Courier que Monſei",
+            "gneur le Due d’Orleans",
+            "auoit enuoye en Cous,",
+            "eſtant retourne le Mar",
+            "dy ſur les ſix heunes du",
+            "Sv ſoir, Son Alteſſe Royalle,",
+            "uroit baillé ſes ordres de faire aduertis",
+            "Meſſieurs. du Parlemen qu’il s’y deuoi"
         ],
         [
-            "3 RECT VERTABLE DE TOVTCEQV SEST PAS é en Prement e eudy 6 Sept 652 En prefente deon Atee Roye AVEC LES ARRESTS poRTNT cton desprotedures fctes contree Duc de Beufort Et deffences à toutes peronnes de semer ny ttroupper u Ps Roy ny utres eux à pene desVe Et e pueon de Moneur Ton doc Cenerpour etre enuoyé ̀Mjeté prMeeurs dn PreentESSEVRS deCchnore des V Vctons etns emez comme à ordnre s uroent eté duerts que Monegneur e Due dOrens deuot e ren dre u Ps ur es neuf heures du mtn ce u urot ogé Moneur e Predent de Nemond de fre commndement ux Beu ueters de chcune Chmre des Enquetes"
+            "rendre le lendemain pour faire ouuerture",
+            "du pacquet à luy apporté par ſon Cou",
+            "rier.",
+            "Le Mercredy ſeizicme Octobre mil",
+            "x eens cinquanteux, Meſſieurs s’e",
+            "tans aſſemblees en la Graud’ Chambre,",
+            "Monſieur Mollé Preſident des Enqueſtes",
+            "uroit dit à la Compagnie qu’il y auoit",
+            "quarante ou cinquante hommes qui pa",
+            "ſoient pour Gens de guerres dans Cha",
+            "renton, leſquels empeſchoient le Com",
+            "merce qui a accouſtumeé de ce faire ſur",
+            "les Riuieres de Marne & de Seine, & fai",
+            "ſoient des vols indifferemnent ſur toutes",
+            "ortes de perſonnes, & qu’il y falloit met",
+            "re ordre.",
+            "Dans ce temps, la Compagnie ayant",
+            "eu aduis que ſon Alteſſe Royale eſtoit a",
+            "Saine Chapelle du ’alais, elle a auſſi",
+            "oſt deputé deux de Meſſieurs les Preſi",
+            "dents au Mortier, & quatre des Conſeil",
+            "lers de la grand’hambre leſquels l’ayant",
+            "eſté querr, ils ſeroient tous enſe",
+            "compagnez de onſieur leDuc de Beau",
+            "fort venus en la grand’hambre, en la",
+            "quelle eſtns, Son Alteſſe Royalea dit,",
+            "qu’il"
         ],
         [
-            "64 de fre ç̧ûot à Meeurs qus euent à sy rendre Leque commndemeut urot eté executé & à dte heure de neuf dumtn on Atee Roye eroé venuë à̀Sncte Chppee du Ps teé de Mon eur e Due de Beufort & utres Segneurs où Meeurs es Predents de Longue & de Beu uec qutte de Meeurs deGrud Chmre es uroent eté quorr Son Atee Roye urot peé prgrn de Se & edt eur de Beufort prgrnde Gere des Pronners & de à dns e Grefe Cu Son Atee Roye urot repreenté àCompgne qu uot é des Ports ux x Corps des mrchnds pour ertrou uer e Roy Que Moneur de Beufort e tot dns e Greffe Cu pour repreenter àCour Comme etnt Due & Pr qu dunpprtenot quà ee de e utfer du Due uqueuot etéeureux de e por ter qu etot upouuor deCour de c er es nformtons ftes ot pre Procu reur Gener de Connete de Frnce ou pr ceuy es Euës & Forets Tee ment queCour donneé Arret pr equeeece comme ttentt toutes es nfor"
+            "53",
+            "qu’il auoitreceu Lettre du Roy, portat",
+            "Reſponſe à celle qu’id auoit enuoyee l’ou",
+            "uer ture de laquelle ayans eſté faite, & auſſi",
+            "toſt la lectuse, qui contient, Que ſon l.",
+            "teſſe Royale ne peut pas douter qu’il n’ait",
+            "receu le pacquet qu’il luyauoit enuoyé par",
+            "e marquis de loyeuſe, lequel u’en auoiti ap",
+            "porté de reſponſe, auſſi qu’il n’auoir ſollici",
+            "té ieelle: que pour l’Amniſtie gnerale il",
+            "n’en falloit d’autre que celle qu’il a ayde",
+            "uant baillée, par laquelle les plusFatieux",
+            "y trouuoient leur aduantage & feureté, qui",
+            "uoit eſté verifiée en ſon Parlement trans",
+            "feré́ à Pontoiſe, qu’il s’approchoit pour",
+            "reuenir en ſa bonne Ville de Paris; Ma",
+            "qu’auparauant il eſtoit expedient de fai",
+            "re retirer les trouppes des enuions, &",
+            "es enuoyer ſur les Frontieres; Qu’il ne",
+            "pouubit enuoyer. Ja aſſeports que l’on",
+            "uy demandoit pour la Compagnie, d’au",
+            "tant qu’elle eſtoit interdite & falloit ne",
+            "eeſſairement qu’elle exeeutaſt ſes Decla",
+            "ations, jont qu’elle n’eſtoit en pleine",
+            "liberté de ſes ſufſrages, y ayant à crain",
+            "dre les meſmes choſes qui ſont. atriuées",
+            "dans les journées dé́s quator2léme Iuin.",
+            "B",
+            "s",
+            ".",
+            "e",
+            "2",
+            "A."
         ],
         [
-            "2 mtons & procedures ftes contre edt eur Duec de Beufort qu erot nformé d nouueu àrequete du Procureur Gener du Roy de tout ce qu setot fct & pé u Due dont etot queton Et pour ceét effet Meeurs Bron & Doujt Coneers enGrndChmre ont etez cmms pout f re dte ntruton Apres quoy on Atee Roye urotre preenté & ft çuor ce qu setot péu Ps Roy Mrdy derner vn qu treme de ce mos que cetot vne ffr de pereue conequnce à queeetot tre necere dy pouruor ns dey du nt que cetot vn chemn ouuért pour f re etr vn Qo ve & en utte vne emoton popure e vo u meme temps sentrettre qurter contre qurter que Moneur Bechefert Scndc des Sut uds de oneur e Proeureur Generynt efté mnde & uy ynt ft çuor ce que deus urot dt es concuonms à Cour de quee setnt recréurot eté ouuert deux dusLv que Monfeur Preuot Con feer u Prement & en GrndChm re Chef de cette Aemeée du Ps Roy erot mndé de venr preente ment en Prement pour dre es notfs qu"
-        ],
-        [
-            "6 ont porteé ̀ etre utheur de dte en g ee ee pour en utte etre ordonné ce que hute r de ron Et e econd qu erot nfor Jr q mé tnt comre uy que contre ceux qu sdn uroent te De orte qu urot et́ qrendu Arret pr eque Meteurs e feu den? er & Lené Coneers engrnde Chm h n re ont eté comms pour nformer de e ee r qu cetot pé edt out de nrdyp uue s Roy & cependnt defences de f duunu Fes vees &s emos emóes nr e n roupper à duenrpene de ve Jeetts u Cot deon chest uro rere eone nu on Atee Roye que purs qu uy  uuom u pedonmer des pde ponu u e u Ceops des uremds qus no hon umeme one de eo n domer vn pout ee eut Compgme que uroe pne on h eur Ton premer A duoet Gener du pou Roy de ccepter pour er de eur prt e rouuetefue pout e per de nouueu de donnerp ̀ es pees &re u er eu one ue de ss ne equs n ordome qu t que un cequ e Roy sdunce pour venr en orr Ch teu de nct Germn ous deuons A pt à Deu epefer vne prompte onne & durée px ed"
-        ],
-        [
-            "Apres que on Atee Royeeté hors deornde Chmre ur dus queté rpporté u Prement que qune ou dx huct Ceres du Ps sen etoent é́s à Pontoe depus huct ours en ç̧à & qus uroent etez receües Procureurs potuns du pretendu Prement trnsfereé udt Pon toe cette ffre urot eté me ur e Bu reu en quee pueurs de Meeurs u roent dord donné eurs dus à ce que es pretendeuës receptons fuent decrée nu es deffences ud cers de pus à duenr entrer u Ps pour y fre ucuncs fon ctons ms commey uot pueurs de 0 eeurs à oppner & que heure dvne etot onnée e touteté rems u pre mer our eneme pour deerer ure tre des Hts dOrens ecrpte u Pr ement pour eur donner dus detrn n que e Reoy veut fre du Prement de Pontoe en eur ve & encores pour de erer ur tvne utre Lettre de pueurs e eurs dndt Prement de Pontoe enuoyée u Prement à ce que pour doner que que oence u Roy s douent venr e jondre uec eux & ortr de Prs FN"
+            "6",
+            "& quatneme luillee. Et d’auantage que",
+            "c’eſtoit touſiours pour gagner du temps,",
+            "ereledſe",
+            "& faire en ſote que ſes ennemis ſe for",
+            "me du Prince de Ligno, qu ſoa oauuer.",
+            "neus d’Aras luy a fais ſçauoir auec vn",
+            "Armée pous fe joindre auec Monſieurle",
+            "Prince de Cond.",
+            "Apres laquelle lectutre, la Compagai",
+            "demandé́ à Son Alteſſe Royalle s’il a",
+            "roit la bonté de fairs reſponce, auſielle",
+            "deſiroit que l’on oppinaſt ſur ieelle. Soa",
+            "Alefſe Royalle a repreſent́ que l Co",
+            "pagnie ſçauolt blen eonmme la plusgans",
+            "de partie des Colonels auoient auds",
+            "paſſeports, & eſtoient partis du iour dhet",
+            "à midy pour àllar ttouuer le Roy, quls",
+            "pouuoient arriuet au lieu où il eſt dansée",
+            "jour, & ſollielter la Reſpnſe à lur dep",
+            "tation au pltot, qu’ils pourroien eſtre de",
+            "retout dans deux iours, & que danse",
+            "enagà il pourroit auoir da ſen coſté",
+            "quelqueuouaolles: de ſorte que la Coa.",
+            "paguie pour toutes ſes conſiderations sr",
+            "s l’Aſſemblée aà̀ Samedy proachai."
         ]
     ]
 }

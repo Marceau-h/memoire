@@ -1,47 +1,185 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique",
+            "prophétique"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-24",
+            "@when": "2022-09-19",
             "@who": "AB"
         },
-        "titre": "Conspiration de quatre femmes des plus nobles et des plus\n          illustres de Paris, qui ont comploté l’entière ruine de Mazarin.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Le constipé de la cour, avec une prophétie\n          burlesque",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-25",
+                "#text": "25 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-28",
+                "#text": "28 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau777_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau778_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Consprton de qutre femmes des pus noes et des pus ustres de Prs qu ont compoté entère rune de Mzrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Consprton de qutre femmes des pus noes et des pus ustres de Prs qu ont compoté entère rune de Mzrn Prs Antone Quenet 649 dernère semne de févrer 649 Lyon Bothèque muncpe32742TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès Huert Crrer suvnt un pssge du texte prudernère semne de févrer 649 (Bothèque Mzrne Ms 468 f 83 v) 777 Consprton de qutre femmes des pus noes et des pusustres de Prs qu ont compoté entère rune de Mzrn Prts Antone Quenet 649 7 pgesprose non rensegné"
+            "LE CONSTIPE",
+            "DE LA COVR.",
+            "AVEC VNE",
+            "PROPHETIE BVRLESQVE."
         ],
         [
-            "LA CONSPRATON DE QVATRE FEMMES DES PLVS NOBLES ET DES PLVS utres de Prs qu ont com potté entere rune de MAZARNA PARS Chez ANTONE QVENET ruë des Crmes à mge ncte Bre M DC XLXAuec Permßon"
+            "LE CONSTIPE",
+            "DE LA COVR.",
+            "DEPVIS cinq ans i'ay conſulté,",
+            "Des Medecins la Faculté,",
+            "s m'ont fait prendre des cliſtaires,",
+            "Et des boüillons appertatiſs.",
+            "Et ſi auec tous ces outils,",
+            "e n'ay peu faire mes affaires.",
+            "L'vn d'eux pour en donner raiſon,",
+            "Accuſoit l'air de la maiſon,",
+            "Mes appetits trop volontaires,",
+            "Et mille autre menus fatras,",
+            "Qui font (dil) qu'on ne va pas,",
+            "Si librement à ſes affaires.",
+            "Mais vn autre des plus barbus,",
+            "Me dit Monſieur ce n'eſt qu'abus,",
+            "Non ſeulement les Sedentaires,",
+            "Et tous ceux des autres Meſtiers,",
+            "Ne peuuent plus en nos quartiers,",
+            "Faire tant ſoit peu leurs affaires.",
+            "Quelque Sorcïer fin & accort,",
+            "Peut eſtre y a ietté ſon ſort,",
+            "A ij"
         ],
         [
-            "3 LA CONSPRATON DE DE QVATRE FEMMES Des pus Noes & des pus usftres de Prs qu ont competté entere ru ne de Mzrn LASSEMBLEE qu e ft D mnche derner pres vepres en cette ve de Prsdns ruë des Gruers àenqué́me chm re nous ft eperer quen ref nous jouyrons des doucoursdu ne ongue Px que e tot Mzrn ne er pus u mon de & que dns peu de tempsFrnce er de urée dvn Montrehorre Vne femme de grnde fme &re putron qu rerrot chez ee de puures fes déuchées & es ydot à ggner eur ve fut ez heureue qoe deux ns presmort de on mry ee mt u monde qutre groes fes dvne Aj"
+            "4",
+            "Charmans les vertus ordinaires,",
+            "De nos remedes l'axatifs,",
+            "Car au lieu de nous eſtre vtils,",
+            "s gardent d'aller aux affaires.",
+            "Pluſieurs officiers conſtipez,",
+            "Ayant de nos vieux recipez,",
+            "Pillé tous les plus beaux myſteres,",
+            "Et pris quelque petit bolus,",
+            "Y ont gagné vn vilain flus,",
+            "Au lieu d'y faire leurs affaires.",
+            "C'eſt pourquoy leurs Tailleurs ne font,",
+            "Aux chauſſes qu'vn demy plain fond,",
+            "Pour les choſes accidentaires,",
+            "A quoy ſouuent on eſt contraint,",
+            "Témoin la Dame au paſle teint",
+            "Qui fait en plain bal ſes affaires.",
+            "D'autres ont voulu ſe laſcher,",
+            "A fine force de maſcher,",
+            "Des racines de Commiſſaires,",
+            "Mais tels remedes deceuans,",
+            "Ne leur ont donné que des vents,",
+            "Et n'ont ſçeu faire leurs affaires.",
+            "Quand à moy pour n'en rien celer",
+            "e ne ſçaurois que conſeiller,",
+            "Tant les pratiques ſont contraires,",
+            "Et les remedes incertains",
+            "Aux malades qui ſe ſont plains,",
+            "De"
         ],
         [
-            "eue ventrée Cette Dme Guemette n on ppeot e pequnt de on ncenne extrton es éeu uec grnd ong de eurs peronnes & outre quees uoent toutes ntureement ncnton u meter dmour ee e mnqu ps nentmons de eur fre pprendre chcune queque utre vcton dnde tenotoutque de Reuendeue ur e Pont Neuf &Chmre ux Mrets du Tenmpee conde fut Mréevn Veeux qu uy permettot ce quee vouot pourueu queoutee mrchttroeme etot ruudeue de s &qutréme endot de Eu de Ve Ces onnes Dmes ynt coutume de e ter ouuent e trouuerent Dmn che derner u ogs de née pour y fre coton pres quees eurent eu chcune eur out ee de qurte ees e mret à dcourr eneme des meres d enps des mux que cue cette mheureue guer re & des deordres que Mzrn pporte en Frnce L Cdette qu etpus eoquente commepus joe prenntproe dt que vertement nous étons dns vn étrnge ece que es choes oent en m & que es meux enez jugeoét e qu y uot ou mnque de condutte ou fute de reouton en nos ffres Quee pprence doe éeuntvox queReyne upporte vn Coqun qu n de en que de rotüer Ett & senrchr ux depens du ng des puures? que es Prnces prennent or prt & que e Cone ne fe ren ns uy commu nquer? que ert u Prement de e condmner à mortes Arrets donnez contre uy ne ont execu tez Pourquoy uy donner des couroüons ss ne ont empoonnez & cpes de e fre creuer? pour quoy e mettre entre deux Des ss ne onr n ez & reous de emporter?pourquoy uy preentet ds"
+            "5",
+            "De n'aller point à leurs affaires.",
+            "e ne fçay quelques bons cerueaux,",
+            "Approuuent des cornets nouueaux,",
+            "ncognus aux portliſtaires,",
+            "Mais l'vſage en eſt hazardeux,",
+            "Et ie ne connoiſt aucun d'eux,",
+            "Qui ayent bien fait leurs affaires.",
+            "Quand aux vſages d’intereſts,",
+            "Debtes, rembourſement de preſts,",
+            "Et le toüt mis par inuentaires,",
+            "On a deffendu d'en bailler,",
+            "A tous ceux qui vouloient aller",
+            "Par ce moyen à leurs affaires.",
+            "eſt vray que les lauements,",
+            "Fais d'eſtats & d'appointements",
+            "Sont ſur tout au mal neceſſaires,",
+            "Mais ce ſont morceaux reſeruez",
+            "Pour les Seigneurs que vous ſçauez",
+            "Preſſez d'aller à leurs affaires.",
+            "Pour les coliques paſſions",
+            "L'on fait eſtat des Penſions,",
+            "Et aux douleurs plus mortiferes,",
+            "Ces dons d'Extra nonanciens,",
+            "Aydent tres bien les patiens",
+            "Qui veulent faire leurs affaires.",
+            "Toutefois ie n'en connoiſt point",
+            "B"
         ],
         [
-            "des fetns ss ne ont enchntez & pourquoy em poyer es meeures pumes du monde pour e rendre crmne & odeux àrerrees eprts de nos v ns Cptmes ne uy trent juques ̀dernere gourte du ng des Venes Ce mheureux ce dm né ce perfde qu empeche notre commerce qu rune notre rrffc & nous ft fre muue chere Vue Deuvous etez toutes tros dns e meme entmnt que moy & que vous euez ez de cou rge de hrdee & de reouron nous rons con tmment ffronrer ce mheureux & u hzrd de notre ve mettreFrnce en repos &deurer de ce crue ennemy y utrefos entendu dre à vn Pre dcteur qu pot pour vn des hes hommes e fon ece que ce neft ps dujourdhuy que des fem mes ont ft des tons tres genereues L ReyneTomcs urmont Cyrus en re & uy otve udrh tu depropre mn Hoofernes & fe rendt Vétoreue de on rmeée Tnrs Reyne de Pere con door ee meme es ttoupes & formot vn ege u prfttement qu e pus grnd Cptne du monde Detn Prncee deChne seeu ur e Throne pr on courge & gouuern e Royu me uec utnt de gee & de prudence que de genero fté En fn comme y ez onne memoreme ouoent de quntté dHtores dont e e e re ce crnte de me tendre enueue qu mont pprs goe eucop de Royumes deuoent u en eu oneruron à des femmes qu des hommes M fœur nterronpt née notre mere dot rdn rement prnt de vous que vous ueznguee e pendué & que vous etez cpe de fré vn compment uec dree Ms comme e uspus gé́e & qu yt ecoup pus dngereux dns es"
+            "6",
+            "Qui ſe ſoient gueris de tous point,",
+            "Auec ſes drogues ſalutaires.",
+            "Tant on les baille rarement,",
+            "Sinon Mazarin ſeulement,",
+            "Qui fait quand il veut ſes affairres.",
+            "PROPHETIES BVRLESQVE",
+            "EN FORME DE",
+            "COQ A L'ASNE.",
+            "PEVPLE mal'heur ſur vous quant le ſanglant",
+            "Gerfaut,",
+            "Et le bleu limaçon mari de la linotte,",
+            "Vers le pole antarticq s'en viendra d'vn plaint ſaut,",
+            "Luiſant comme vn bonnet fait à la mattelotte.",
+            "Ce maeur aduiendra quand l'indompté guerrier",
+            "Vaillant & genereux ainſi qu'vn pot de chambre,",
+            "Viendra ſans dire mot en ſurſaut s'eſcrier",
+            "Belle ie ſuis de paille & vous eſtes mon ambre.",
+            "Alors le Grand Seigneur qui cõmande au Leuant,",
+            "Tranchera d'vn reuers tout le corps d'vn fromage,",
+            "Donnera d'vn eſtoc dans les cheueux du vent,",
+            "Et mettra pour trophée vne poire ſauuage.",
+            "Car le Duc caſanier de cent mille Allemans",
+            "Atomes à cheual effroyra la campagne,",
+            "Le Roy de Calicut n'eſt pas des Muſulmans,",
+            "Comme il fut arreſté au grand Conſeil d'Eſpagne.",
+            "Les Princes arreſtez d'vn accident ſi fort,",
+            "Firent au Pretean vne belle Ambaſſade,"
         ],
         [
-            "8res e ons ry quec et echoe de preronn re e pru en& conunonoe dec uSç ez done pour ce qu t e z àqn voudronst u es u rrché ec r du ven tre uec t vne vct me detnée à̀mort & en 0 tot s usgr dsen prence u ruror e ors qu uy nous enerons em ns e u ps dute psq e e M rqus Anc efuory feueye Mere f t rué m teuement &ue vous m en endu de quA n fuory du R y Auer fnt es ours gnomneue & fut pendume me get qu uot t re er pou Mrdo ée en rr uer de eme de Mxrn ce C me deo qu prs touts ortes de coueurs pour? r chr & eeuer en g ndeur epeq pr vne peete mouchequ e mettr dns e tomeu o p y es pun eurs de pus horres chro nes& cette Cor nee ue t empumee puse pumesFrnce er enfn dépou e & mecoutà̀ nu nes ee ps e commenc ent puque t ot on uy uvẽd es me es pr rr eCou & que tãtot on neue tos es Benefces pr ôonfcton pour de rg nt ene cos s qu n t ecoup prqu à̀ fu qu yt fournyu r s de cette guerre & que Moneu e Pence de Condé́ vouu e tout cecy fut à es depens Vous me drez p tre qu y oemps qu en ft m qu en à̀ enuoyeés Rome e o s répods désqueeté eco0 en cement derune & que e Ppe pus fn que uyurprs en cere contre & vocy comment Vhone te homme fort çunt mentrerennt des coutumes ds tens qu pour de rg t commettent me chetez & me crmes me t vne choe que vous moy urt pe àcrore qu et que e e de j"
-        ],
-        [
-            "Mzrn ynt eté ft Crdn u en que uyPennoy à Rome ncontnent prespromoton & uy dnn toutes es Fnnces pour es mettre ànque de cette Ve ous on propre & prué́ nom fn que on spperceut mons de es rpnes & voe res L Sgnor Omp Nece deSncteré ynt eu connonce que ce foure uot des ommes m menes de ons dor de Frnce qu etoent enm on e reout de es uor & çchnt que tous es ens des Crdnux Mones qu meurent reuennent ux offres deSncteré ee uy ft donner vn ouon & e conged de ce monde Voy com ment eté depoüé à Rome & trompé pr ceux de on ps Vryment repondrent es deux utres œursnen dot ps mons eperer en Frnce & de queque fçon que es ffres tournentne peut euter nyrune nymort S e Prement àd ede usuy fer on procé́s &Moneur e Prnce de Condé et rtu de rgeommer ms quntny urot que nous qutre œurs Germnesfut nous rmer de ped en cp & uec vne genereue reo uton uous en er à Snt Germn uy porter vn coup de ptoet dnsrtete & e mettre en s cet re cton nous rendr goreues & nous mettr u rng des femmes utres de ce temps FN"
+            "7",
+            "Luy donnant pour preſent vne teſte de mort,",
+            "Vne paire de gands auec vne Salade.",
+            "L'Eminent Mazarin, & vn Prince Allement",
+            "Au ſon du violon danſeront la courante,",
+            "Puis ils iront coupper aux vignes du ſerment,",
+            "Où ils feront enſemble vn bouquet d'Amarante.",
+            "L'Incarnadin d'Eſpagne & le velours tanné.",
+            "Vne coiffe orangée, vne eſcharpe vne mittre,",
+            "Alors que Salomon fut aux Iuifs deſtiné,",
+            "Le Roy de Dannemarc preſidoit au chapitre.",
+            "De papier vn tapis, de reſveil vn filet,",
+            "Vn Eueſque, vn Gaſcon dont l'ame eſt pourſuiuie,",
+            "D'vn amoureux deſir d'auoir vn flageolet,",
+            "Grand Prince de Piedmont Dieu conſerue ta vie",
+            "Vne beſte à long bec dans le ſommet des tours,",
+            "Et aux lieux ennemis le plus ſouuent ſe niche,",
+            "Sa femme au lieu de Saints adore des amours,",
+            "Et plante à ſa colonne vne belle corniche.",
+            "Voila ce que ma dit vn grand nez tout camus,",
+            "Que vous deuez tenir pour vne Prophetie,",
+            "Ou de ſainte Brigide, ou de Noſtradamus,",
+            "Eſcrit en lettre d'or deſſus vne veſſie."
         ]
     ]
 }

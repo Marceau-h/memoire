@@ -2,103 +2,238 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "handwritten_note": true,
+        "subject": null,
+        "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-12-12",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-14",
+            "@when": "2022-10-07",
             "@who": "AB"
         },
-        "titre": "Lettre de M. le cardinal Mazarin au roi.",
+        "titre": "Lettre de M. le maréchal de Turennes ) à la\n          reine.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1986_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1990_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Lettre de M e crdn Mzrn u ro Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022Jues Mzrn Lettre de monseur e crdn Mzrn u Roy SednSns Nom652 3 jnver 652 Prs Bothèque MzrneMs 44FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès une note ms de Duussoueny sur son exempre (Bothèque Mzrne Ms 44) édton donnée \"entre ms non puée à Prs\" Les ettres u ro et àrene sont dtées \"A Boüon e 23 decemre 65\"Texte mprmé à Sedn dprès Céestn Moreu à Prs pr mprmere du Louvre et pru e 3 jnver 652 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 208) 986 Lettre de M e crdn Mzrn u ro (Sn d) 27 pges Dtée uss de Bouon e 23 décemre 65 ms non sgnée On t ensute une ettre du crdn àrene Ces tros ettres réunes ne sont ps communes S nous en croyons uteur des Oservtons sur queques ettres écrtes u crdn Mzrn et pr e crdn Mzrn ees sont sortes « de mprmere veuse de Sédn »prose ettreLe ro mnde u crdn Mzrn de rentrer en Frnce 6"
+            "LETTRE",
+            "MONSIEVR",
+            "MARESCHAL",
+            "ala Reyne",
+            "Pl",
+            "oe"
         ],
         [
-            "LETTRE DE MONSEVR LE CARDNAL MAZARN AV ROY Données entre Ams non puées À Prs e 3 jnver 652"
+            "T",
+            "1J",
+            "..",
+            ".",
+            "eqr",
+            "H1",
+            ".",
+            "J 4",
+            "TJ 2",
+            "l CI",
+            "I",
+            "S",
+            "LL AT1",
+            "MMIVT",
+            "ro 2l1",
+            "AI1",
+            "„2,.",
+            "1",
+            "DI.I6"
         ],
         [
-            "AV ROY SRE CoOME es enfts & es grces dont e us redeue ̀onte du feu Roy de goreue me more & à cee de Votre Meteé ont nfnment excedé e prx du peu de recompene qu pouuot etre deue ux eruces que y t ché de rendre à̀ Ett u metm pus ogé quucune utre des cretures & des uets de V Mde es uy témogner uquu derner oûpr de m ve Et ces condertons dhonneur & de recon non ce e rencontrns deurs uec mon ncnton m pon & mo deuor e metmeros tout ̀ ft ndgne non euement du rng que e tens dns Ege & ce qu ne met ps mons preceux de ffecton & de etme dont V M mhonore ms de protre meme prmy es hommesdns vn temps où ee e trouue ur es rs deux grndes guerres à̀ outenr vne etrngere con tre vn ennemy touours redoute & utre n etne & pr conequent encore pus dngereu e & voynt vosfdees uets expoer tous esours uec oye eurs ens & eur ve pour e A j"
+            "5",
+            "Letre d onſieur le Mareſhal de Turennes,,",
+            "et l ope..",
+            "Rbieie",
+            "and ie a’dois pas desaiſons d’amieié& de re",
+            "eonoaiſſaouqi m’blige de! haſarder & aa for",
+            "tue &navieypour ador Monſiear le Prince au re",
+            "couvrement deſa libetés Ie puisſſeurer Voſtre Ma",
+            "jeſté, MA DA E, que le feeuice du Roy & le vo",
+            "fſtte partioûluir, mre l’aurolte fait entreprendre. Ieſç̧ay",
+            "e que. C’ ne clofe qui d’abod peut ſembler",
+            "eſteaage, puiſqu’il n’eſt deteu que par les Ordres de",
+            "Voe Maſeſté́: Mais ce n’eſt pas d’duiourd’huy que",
+            "petudenoe des Roys a ſté ſurpriſe par les aetifices de",
+            "ues Cafeleans, nyod’ahiourd’hay qu’ll leur a eſté",
+            "tile que lebrs eritables ſruieusrs fe ſoienxs oppoſez",
+            "uit violences de leurs Miniſtras por lenr donner le",
+            "temps de lebsrtnoiſte: L’Hiſtoise eſttoute pleine",
+            "dbfeseeples s. mais fanondire de plus anciennes",
+            "qMé oele derdſte Régencns Nous voyons bien à clait",
+            "uae leseqnſejls dlevoſts ſiiſttus ont fait com",
+            "haner des ahdſe que vous de uria pas auoir",
+            "dheuôt & quedu ſoirlaui matin, bien loin de ſeruir",
+            "u bia de l’Eftst,obma il pals le fiaiſoit ennendro,",
+            "ois auez fou biié lrgM e pomarpir ouiſér le’ boule",
+            "ueſement :pour eodmbiem vosdiie.vousſ aDA M,",
+            "que ét aguſte qenat, debelabird Parlaene de Pan.",
+            "2"
         ],
         [
-            "6 mnten depunce & de uthorté de V M e me os deuncer pr ueun dns vn ze eute & me contentos de regrder honteu ement ou de deporer dns oueté dvne hon teue retrte e feu dont e Royume rue u ourdhuy u dehors & u dedns ns me mettre en deuor comme es utres de contruer ce qu peut dépendre de moy & de mes ms pour don ner pus de moyen ̀ V M detendre ou de fre u mons ceer vn de ces emremens unt queduree uy t é prendre pus de force VMSRE peut e ouuenr que on eue ment executy uec vne regnton ueuge ordre quee uge ̀ propos de menuoyer de orr du oyume quoy que ett des ffres dors me donnt ute uet de crore qu uot putot eté extorqué dee que ce netotve rte ntenton ms que e méogny meme uques u Rhn pour connotreen effet com me pueurs en prooent perudez présert́ de Moneur e Prnce otenuene retot pus ren ̀ derer que mon éognement pout vor e Royume dns e pus hut come de on heur & de propertez qu e pouuot ouht rer & pour fre que es peupes goutent es douceurs dvn ece dor que e commerce refeu rt que es fnnces de V M euent ondn ce qu fut pour mettre es ennems ̀ron que votre uthorté e rett queMon Roye fut prftement vne & quon put enfortnece dutpre ours tous tenr detede qu en e ogr quen M& u pef out que uo prt ent on m po et ortte"
+            "Ee ſe fut point oppoſéaux conſeils de Monſeignenr le",
+            "Cardinal Mazarin, lors qu’il auoit perſuadé à V. M.",
+            "que la ruïne de cette grande Ville eſtoit vrile au ſerui",
+            "ce du Roy voſtre Fils. Vo Beelarations font foy de",
+            "combien e ce chef vous auez eſté trompée, & les",
+            "Regiſtres du Parlement, chargez du noni du tofmpüt",
+            "rendront à voſtre deécharge vn irreprochable teſmoi",
+            "gnage à la poſterité de ſes mauuais deſſeins, & de vo",
+            "ſe ſurpriſe. Ainſi Mm as oasſommes eia drois",
+            "d’eſperer que vous nous ſçaurevn iourquedque gré",
+            "de ce qu’appellans devous, à vous meſme, Nous vous",
+            "upplions de conſiderer que le Card. Maaoi he ous",
+            "conſeillé la detentiomde Monſeigneurle Prince, qu",
+            "pour ne le trouuer poins dans ſu cheiL, dans le",
+            "eſtabliſſemelrs d’alliances; de places &e: de. charge",
+            "qu’il eſt reſolu de prendre en ceét Eſtat. au haſard de le",
+            "mettre dans lestroubles, qui fort facllemen en peu!",
+            "uat cauſer lamine. Ayez doncla bonté MaDams,",
+            "de coupper chemin à ces deſoidrese La detentio de",
+            "nMonſeigneur le Prince met tout le Royaume dans l’o",
+            "rage, & ſa liberté y va mettre le calme dansvn mo;",
+            "ment: ll y a eſté́ mis contre tcoues les fora, &e os",
+            "tre vos propres Declaraions, puiſue dans e min;",
+            "rité il eſt appellé par ſai qualité, & non pas par yoſtie",
+            "commiſſion, à la fonction neceſſaie de l’vn des Ches",
+            "de voſtre Conſeil Car ainſis que comme egentee,",
+            "vous auez le drict de paſſer padeſſua te qul vous eſt",
+            "onſeillë ; Monſeigneur le Duod’Orleas s onſeig.",
+            "e Prince ont celuy de ousprupoſer oe qu’ilscroyen",
+            "tile au bien de cét Eſtat &l’on ne petteurfefmer la",
+            "bouche,"
         ],
         [
-            "eve eu onu cequ n u qu ee tS otnst pout on s e dn on on ten fort peu de temps concurrePx genere  necere &derée Et certes comme e ne me us ms propoeé dutre ut en toutes mes cCtons que ces memespreceux untges & que deurs y toû ours ety m prncpe tsfcton ̀ crfer tous mes nterets prtcuers u en de Ett ren ne me pouuot ftter pus greement que degrndes epernces ny me fre per e re te de mes ours uec pus de douceur & de trn quté dme qund meme uros eté proerpr en endrot deterre e pus uuge & e pus é ogné de toute communcton que de çuor que m reegton contruot ̀grndeur de V M & fotfecté́ de es peupes e dry meme uec verté que e zee dont e rue pourgore deFrnce murot ft preferer cette condton & cette forme de verout éct qu ccompgne ordnrement cee que e venos de quttet pourueu que eue pu uor u mons pr mes mheursprncpe prt u onheut de cette Couronne & pus e me entos nnocent pus e me eros ors etmé goreus de enur n de vetme ̀ Ett de ner pr mon crfce toutes es tempetes dontpouuot etre ttu Cet pr eete eue ron Squey out fert ue contnce pendnt pus de dr mos de vor dechrer en toutes fcons m reputton de tre prué de tous es ens qu mpprtennent A j 9 7"
+            "ouche, ant qriſs seulent porret aàV. M. les plaintes",
+            "de ſon peuple; mais bien Ioing deluy laiſſer ce droict,",
+            "vous le mettez dans v lieu o il neut pas meſme",
+            "çauoir, ſi c’ab vous qui regne, & ae cognoiſt plus",
+            "d’autre maiſtre que nconſieur de Bar, où ceux que Bar",
+            "uy veut faire connoiſtre; mais fi par quelque raiſon",
+            "qui vousa paru trerefſante, vous auez eſté contrain",
+            "e de paſſer pardeſſusl’acicle de voſtre Declararion, o",
+            "vousvous eſtez obligée de ne toucher point à̀ la liber",
+            "é́ de ceux, qui par le deub’de leurs charges ſont obli.",
+            "gen à̀ vne fonctiota neceſfaire, ſans qu’u préalable il",
+            "y euſt vn decres donné dans ’ordre de Iluſtiee,vueil",
+            "lezau aolnms, M a d m s, que celuy qui eſt appellé",
+            "par fa naiſſance aà la fonction neceſſalre de l’vn des deux",
+            "Chefs du Conſeil ſupréme de V. M. & par coaſe",
+            "quent le premiee de ceux qui doiuent iouyr de ee pri",
+            "uilege, ne perde pas celuy du moindre ſujet de voſtre",
+            "Royaume, qui par les Ordonnances de nos Roysdoie",
+            "eſtre mis dans 4. heures dans les priſons de ſes Iu",
+            "ges naeurel, lors qu’il a eſté arreſt ſansauere forme,.",
+            "que celle du commandement militaire du Prince",
+            "Voyla, Ma m e, de quoy tous les bons Fran",
+            "gois vous fupplient, & principalement ceux qui ſont",
+            "uec raoy tetirez dans la ville de Seenay, commeamis",
+            "ou domeſtiques de M. le Prince s’y trouauent double",
+            "ment obligez, leur deſſein ny le mien n’a iamais eſt",
+            "autre, que de recourir aà̀ V. M. & la ſupplier auec tout",
+            "e roſpect que ſes ſuiess luy doiuent,de rentrer en élle.",
+            "aeſme, & vouloir, ou par ſa propre bonté́ relaſchet",
+            "nonſieur le Princa, ou du moins vouloir que le Parle"
         ],
         [
-            "prerté de vos Metez & que uos de tnez u pyement des grndes detes que y contrctées pour e outen de vos ffres & de votre eruce en des occons prentes que é puement de es fnnces & es ongueurs des for mtez euent é́ ou ft deperr y ouffert uec ptence detre ppeé voeur & prte per turteur du repos puc ennemy de Ett e feu deChretenté pour uor trueré et ement de on repos de me vor errnt dns e monde ns retrte ny ze euré uec vne fme ̀ qu ̀ge n ps perms encore de pou uor etre utre qunnocente & enfn de vor m ve contnueement expoeée ̀ duers pers ns que en ye euement murmuré mour que y pourFrnce ynt dés onemps etté deprofondes rcnes quucun muus trtement net cpe de érner Cet cetre meme r on SRE qu m empeché de puer des M nfetes oùmeut eté fce de fre vor eu demment que pr utce e mertos peutre queque oü̈nge dns es chefs meme quontournez en ceuton & en crme & prtcue rement ur ceuy dePx où e meure que pr vn écrt qu protr eot u our e fe y toucher u dogt ̀ ceut meme qu ont e pus preuenus de pon & dnmoté contre moy qu n ren eté oms de m prt en tout temps de poe ou dmgne pour pruenr ̀concuon de ce grnd ouurge Enfn y me me Dec e t te d gn0 heur em poŕ dre ttnr tsfutey de mé uos en que e pts eun ons0 te utp t qervep gnunqe"
+            "ment econnoiſſe, &s qu’il puifſe désauioumd’hyais",
+            "dre compte à voſtre aajeſté, & vn iour au Roy voſtre",
+            "Fils, du bien ou d mal que ſa detention pencprcurer!",
+            "à ce Royaume : mais la violence d voſtre Miniſtre",
+            "met bien noſtre fortuneen autres cermes, dans le meſ",
+            "me moment que nous ſongions par qui nous ferions",
+            "preſenter ces treumbles ſupplications à̀ V. M. Le",
+            "eur de la Fertenetorre auc les troupes, qui por",
+            "tent le nom du Cardinal, viént rauager les ſeules ter",
+            "res qui reſtent à onſeign. le Prince, ſe ſaiſit de la Ci",
+            "adelle de Clermont, où mondir ſieur le Prince, qui",
+            "n’auoit iaaais euù deſſain de la deffendre contre aucun",
+            "des Subiets du Roy, n’auoit pas changé vn ſeul hom",
+            "me de la gariſon qu’il y auoit trouueée, & qui y auoie.",
+            "eſté miſe par la Ferté meſme, ainſi qu’il paroiſt bien",
+            "par la maniere, dot elle luya eſtérenduë. Il paſſe ou",
+            "tre, & vient auec’leſdites trouppes iuſques aux portes",
+            "de cette ville, vſe de toutesſortes de cruautez ſur tous",
+            "ceux que la fortune a fait tomber entre ſes mains, ſans",
+            "qu’ils euſſent aueune tâ̂che, que d’eſtre ſeruiceus ou",
+            "domeſtiques de onſeigneur le Prince, lors veritable",
+            "ment, il a fallu trouuer des prorecteurs à l’innocence",
+            "de nos deſſeins, & voyant qu’il neſe trouuoit en cette",
+            "frontiére que des: Erançois trop foibles poaur entrer",
+            "dans de ſi iuſtes conſiderations, Nbus auons eſté con",
+            "traints aà̀ receuoir du ſecours des eſtrangers, moyen",
+            "nant lequel nous auons eſté obligez de leur promettre",
+            "d’employer iuſqu’à aoſtre dernier ſouſpir, toures oos",
+            "pçines & nos ſoins, & detromper V. M. du perni",
+            "cieux conſeil que leé Cardinal ’masarin luy donne, d"
         ],
         [
-            "deu An n t net e ne me retenu mes pntes ur tous es Arrets & es Decrtons quondonneées contre moy & y en toutes choes grdé vne moderron que e re te de Europetrouué ̀ dre prce quee en gnorecue trendnt touours que e on heur puc fut rety fn quon ne put uor e mondre pretexte de mmputer dy uor p porté e mondre otce & me contentnt d dreer ncemment mes vœux u Ce pour o tenr qu uy put de ouger mes penes prtsfcton de es vor vtes en queque fçon u eruce de V M & u repos de es uets e ne me eros pont encore SRE dépr ty dememe condure & urs putot ongé à méogner duntge qù mpprocher tuos vû votre Ett trnque & rous vos uets en vns ne conprer comme s y ont ogez que e en de votre eruce oueuement es e prts euent pru tnt ot peu dpoez ̀ vne reü̈nonute &necere & en on de onger ̀ mon retrour e nuros ps meme ou htéceton de mes muxuos crû qu eut pu cuer e mondre troue u oeur pu c ou fournr vn pretexte de e trouer ̀ ceux qu en uroent eu e deen Ms voynt uec toute Europe quu eu de ces grnds effets quon uot pué que mon é ognement deuot nfement produre esffres ont vement & notement empré queconfuon & e deordre ont nfnment 9"
+            "Eehir couſidurs l’Europe en guerre, & ionſeignene le",
+            "Prince en priſon, comme de leur coſté ils ſe ſont obli",
+            "gez de n’entendre iamais propoſition de paix aucune,",
+            "qu’au préalable onſeigneur e Pince ne foic en liber",
+            "té, & ce pour ne pouuoir trouuer aucune ſeuretédans",
+            "des traittez, ou le premier Prince du Sang de France",
+            "n’auroit point donneé ſonſuffrage, moyennant quoy.,",
+            "uſſi ils ne pouuent pretendre que nous trauaillion",
+            "mais pour aueun autre intereſt qui puiſſe regardes",
+            "eur ambition, ou la noſtre, & ſi nous ſommes aſſez",
+            "heureux que d’obtenir la liberté de monſeigneur le",
+            "Prince, ils ſont obligez de retirer leurs troupes, & nous",
+            "er en liberté de nousſoubmettre aux volontez de",
+            "V. M. ainſi que nous defirons faire en toutes rencoe",
+            "tres, & que nous aurions fait meſme en cettui y,",
+            "ous n’eſtions aſſeurez que l’empriſonnemẽt de mon",
+            "eigneur le Prince, comme nous l’auons dé ja dit eſt",
+            "vne choſe, que par ſurpriſe on vous a fait entreprendre",
+            "contre vos propres intereſts. Iay creu MaDA, en",
+            "deuoir aduertir V. M.a fin qu’elle voye s’il luy plaiſt,",
+            "à quoy il tient que la France ne ſoit paiſible, & en eſtat",
+            "de recouurer ſa premiere opulence par vne paix gene",
+            "rale,s au ce grand Prince alloit. trauailler auec tant de",
+            "zele de ſoin; Nous ſçauons bien MDA ME, que",
+            "V. M. s’eſt plainte de ce que onſieur le Prince luy",
+            "parlé trop librement trois iours deuant ſa detention,",
+            "ur le ſujet de ladite paix, vous ayant dit, qu’il ſeroit à",
+            "fin obligé de tenir pour ſuſpectes les chicanes, dont",
+            "vos Miniſtres vſoient continuellement ſur des traittez",
+            "de cette importance, & qui deuoient donner le repos"
         ],
         [
-            "4 9 2 ugmentez que onft des ons etrotesuec es Epgnos que es trtez en ont gnez & rtfez de prt & dutre que e feu ded corde cue et tout ̀ ft umé que es ons que V Mprs pour étendre ont eté u nutes que es condecendnces quee uot euës pour e preuenr queonte que V Meuë de donner ̀ S A Ree mtere dem poyer e zee qupour Ett en uy enuoynt vn pouuor ns mtton pour ccommode ment n ren produtque queques dgences que on AR t ftes pr enuoy de pueurs Gen tshommes & Courersn pû otenr es ré́ pones qu etot ouhter pour fre ceer es deordres &mere où s ont pongé tnt dnnocents que onmeme refuéConferen ce qu uot eté propoée ce qu ne e prtque ps entre es ennems es pus fers & es pusgrs en orte que V Meté forcée de er àfn grutce & decrer crmnes de eze Meté ceux qu ont prs es rmes contre es ordres & on eruce quetempefte set de renduë treoente & enfn quequté & e nomre des forces de es ennems peuuent rendre fort douteux e uccés de es deens & de es truuxtout ce queede zeez & de f dees eruteurs ne concourent àerur de tout eur pouuor de eur credt & de eurs mspon que y pour e en de Ett pourgore de V M outreutce decue qu et ceerepenequdorn0edreuedqmS eyoneeruen"
-        ],
-        [
-            "ues e nt n e u S uoen on o qu S e ee es s e nn eren que user̀ ue re es de te uttdt deh tout ur e e cee de Deu meme ne m pû permettre de vor ces gttons & ces ncerttudes uque es es ffres de V M ont expoées & de de meurer dns vn repos honteux que e me eros reproché́ à̀ moeme comme vncrmey encore eté fortfé SRE dns cette re outon ors que urerté que y prs de f re offrr ̀ V M dns ces cononctures prentes mes foes eruces & ceux de mes ms uec ce que e pourros emer de forces pr mon cre dt & pr e eur y pprs que V M uot euonté dgréer ce pett effect de mon zee & té mogné quee erot en e que e uy mene ce renfort de troupes pour uy yder ̀ remettre dns e deuor & dns oence qu uy et deuë es uets qu sen ont écrtez Aprés ce goreux dueu de mon deenny uot quvne eue conderton qu eut pû mr reter duntge en ces qurters cy qu etot duncement dePx genere que uosyque que temps grnd uet deperer Ms pour mexpquer meux ̀eus ̀V M ee greor s uy pt que e uy de que e ne us ps de meuré enterement ofdns m rerrte & qu ynt trouué que tout ce qu e pot en Frnce contre moy nempechot ps que es Epgnos meme ̀ qu uos tché de fre e pus de m en erunt V M ne me rrtent uec eucoup de cutez & demrques dvne etme prtcuere rendnt meme cette utce àV M de ne douter 72 3"
-        ],
-        [
-            "0 ps quee ne contnut ̀ mhonorer deen uence nonotnt es muus trttemens que e receuos e crus deuor profter de cette op non qus uoent pour eyer doger es Mntres du Roy Cthoque qu ont en Fn dres à̀ renoüer uec moy queque negocton de Px entre es deux Couronnes m penée uot fort heureuement reü & uos duncé f fre en orte que uos conçu uec eucoup de fondement epernce den pouuor enuoyer en tot de fort onnes nouuees à V M Ms ors que es choes etoent dpoé́es u ponct que e pouuos ouhtter e reconnû uee vne doueur extreme que on uot prs dutres meures prgnture dvn trteé quon uot enuoyé ̀ Bru xees & pr es fortes octtons quon uot fres en meme temps en Epgne qu donnnt de nouuees epernces ux ennems eur uoent donné u de nouuees peneées Cet vne verté qu ne peut receuor de contr dcton & que e remets à̀ fre ç̧uor pus prt cuerement pr queque utre voye à̀ V Me us meme ogeé en uy en rendnt compte dd uoüer que es Mntres dEpgne ne proent ps ouhtterPx mons ponnément que moy Ms SRE uron pû fcement re noncer ̀Mdrd ̀ tnt de grndes epernces qu on yft conceuor& comment ne ps ceder ux eurnces que des Frnços meme conderes pr eur nnce pr eurs rchees pr eurs to Con P ten on e ep nt enepVdeueuouueouog C"
-        ],
-        [
-            "ee uetemens pr eurs ms prreputton qus on eque dunsguere &e pt er ee dt pnmy es roupes comment ds e ne p ceder ux eurnces potues qus y onedonner que eot ou s contrnroem V Mocrte hnche ur Epgpnosou quen mons de x mos s pourroent conon cnen re des pogre u doue de ee qu tor necere pour forcer V M ur tees condtons qus uy voudroent preerre pourPx & ̀ setmer meme en eureux de tns queque grundprx que ce put edres e confee S e V M queene us pe cono e de vot que ce grnd ouurgenecerepos u onheur derous es peupe e ot p n eme mheur dehoûe ors que pr rore esepprences etotproche deperfecdon &ecpendnt e ne doure nuement que ceux quonteue cue ne contnuent eneorepu es que e edtecrdu drrnn qune veurpPx & qu empecheM SE dontgee &cpcté ont euncé ge & ont ft ppquer deonne eure connonce de es fres pourrouuenr quprésreduton quee ft ous on ooence de routes es pces deNormnde de ourgoones &preoyenne eḿe ̀ quoyen ognnt entot epuon des Epgnos deChmpgmeou meme eur prneps orps dr mée fut déftne retot pus de prtydnms e B j 27"
-        ],
-        [
-            "24 Royume qu portt e nom des Prnces eurs prens ms & eruteurs ne prenoent que es onnes voyes pour es eru & n uoent recours qùcemence eue de V M Et orsPxqueutnce de ce prty uot retrdée e pouuot dre &tenr pour nfe ne retnt pus de pernces ux ennems de vor es gndes forcesV M occupées ̀ utre choe qu es comt tre uecvgueur & e uccez quees uoẽt toû ours ft qund Ett uot eté ns troues A u fue en ce temp̀ que Dom Eteuende Gmrr me propo vne conference uec eCom e de Fuengne & men oct meme en u te pr deux de ẽs ertrespour trter & concurePx entre es deux Couronnes ms toutescePO potons séunoürent pr m retrte On crut nentmons que cette Px & e cme du Royu me eroent pus eurez pr ergement dee Prnce & pr m proerpton vn & u tre ynt eté tumuturement reou &enet rrué ce que e monde vot uourdhuy & que e ne doure ps que tous es ons Frnços ne depo rent uec des rmes de ng regrdnt eur ptre pongee dns esmheurs & es deordres ou ee e rouue dontute peut etre encore pus fu nete & rereudee ̀ uthortéoye Cetre forte conderton S qu pouuotme retenr encore ences qurters etnt cet́e ̀ mon grnd regret yous ueu decrée proedeM f vn efortuec tnce de mes ms d umetc dee Tt"
-        ],
-        [
-            "ee e n e 3 pour entrer dns e Royume en ett de netre ps tout ̀ ft nute ̀ on eruce dns vntemps qù of vot vn prty treondere pour es forces e déprtr de oence qu et deueV M & svntr uec es ncens ennems de Ett & qù mons comme y dt que tous es vert es eruteurs & tous es fdees uets de V M redouent eur zee & eur rdeur pour contr uer ce qu peut dépendre deux ux orns ccé́s dees rmes cette on peut fre courr grnd rque ̀Frnce qu pr es propertez & s d untges uot excté pendntonemps d mrton & enue de toute Europe de deuenr eeme vn oet de compon & vn horre thetre de cmtez &de deordres y encore eu pour prncpe veuë en ceconcuon dePx genere connont qu nypont de moyen pus eur pour y pruenr que dttre es prts qu e ont ́euez contre uthorté́ de V M & detendre e feu dont e Royume et ̀ preent emré Et ̀verté SREqund es Prnces ont eté preez prneceté de eurs ffres es pr ons ont eté ouuent ouuertes ux pus coupes & es nns es pus crmnes ont eté rppeez pour etre empoyez contre eurs ennems e veux eperer quereouton que e prends dns vne cononcture qu rend ndpenes es deuors de tous es eruteurs de V M er receuë de tous es ons Frnços uec dutnt pus dppro B j"
-        ],
-        [
-            "ed2 2 ton que mon nnoeence et ez connuë̈ & que e nry ps memem ccompgné que e ne pue eperer uec ron de rendre à̀V M & ̀ Etr queque on eruceet vry SRE que e ne pus ps ner quetous mes ms & ceux qu es ccompgnent ne oent Mzrns & ne portent uec pr vn nom quontrué ̀ rendreodeux u ne ç pses eruces qus pourront rendre à̀ V M e ront utnt gréez de tout e monde que e veux me promettre qus e eront dee e pus pour tnt dre que V M n pont de uets qu ruent dvn zee pus rdent de donner tout eur ng s et necere pourerur quon nenpont veu uques cy de ce nom mnquer de fdeté ̀ VM & prendre e prty des Epgnos & des utres ennems de votre Couronne & qu nen et ucun qu ne ot pret de crfer tout on en & dexpoer me fosve pour executon des mondres ordres dont V M es honorer Cet de ces memes ms SRE de qu e refuytnce qus moffroent genereuement ors que e orts du Royume prce que e crû̂s quee etot vte ̀ mes nterets prtcuers ee pouuot ors preudcer ̀ ceux de V M qu mont touours eté es premers & es eus en veuë ms e y cceptée ̀ preent que y connu que Ett nen peut receuor que eucoup duntgee protete àV M de ne vouor former de pntes contre qu que ce ot cre peur f po er qu en n t du e nponde"
-        ],
-        [
-            "qe e e & n n nnre que ye donné uet nnocemment à̀ uero 7 que eucoup de peronnes ont témogné uor contre moy &V Mencoreonté de don ner queque ccez ̀ mes uppctons treum es e es empoyery putot pour eur fre dé prtr es grces qus uront deurs mertées pr eurs eruces que pour my oppoer Tout mon ut SRE net que der expo er m ve pour e en & pour e retement du repos deFrnce u pu dre que certe ve et uourdhuyeue choe qu me rete ynt empoyé́ e peu que uos & que y pû trouuer à former e corps des troupes que y m es eneme Et commeprt que y euë utre fos pr e chox &onté du feu Roy & de pus pr cee deReyne ors Regente ̀ d mntrton des ffres pourrot fre oup conner ̀ quequens que m reouton qu n pour prncpe quvne treure pon pour on eruce & pour v́e que degner pr que ques nouueux effets procedt de queque der de rentrer dns e mntere e uppe treume ment V M & ce pour toute recompene des er uces quee me ftgrce de crore que y ren dus ̀ ee & à̀ Ett uec urnt de fdeté que de zee de ne vouor ps que e mngere ̀ duenr en ucune fcon dns e mnment des ffres ce ponct en cs que V M t ez onne opnon de moy pour me ordonner etnt e eu qu pourrot me rendre coupe dvne deoen"
-        ],
-        [
-            "72 ce enuersV M u mondre ordre de quee en oute utre choe e crferos m ve uec oyene mnque ps de nomre de Mntres forx hes & dont ppeeon & es ons erons ouuueurou queesmeonontete oonerpr oonon puhques s hdeeent de noys un oeres & e cononces quedrecton que y eue pendnt vn ez onemps m p ournr e protee VM de es eut donmer fott mcere ment & de en meeur cœur que e ne rentre osdnspce qus oecuperont L eue up peon que e fsV Ce quynt ete otey de tunt de crmes & condmne ns ere ouy ee tonté de vouor quon eerce en ere moy dns es formesutce quon ne de nerot ps u derner du Royume edemn de tres euere S & que VM veue u pen dre es mnouuemens & es etes de ene nee dontuy pt mhonorer en orte quee ne proe ny nge en ucune fcon dns ce rencontre offrnt meme pour cét effet de me ren re eu en te eu qu uy pr me precrrefn que mon nnocence vennt pr ce moreǹ etre eudemment reconnue m reputton quonvouu tnt de fos déchrer ot enteremen prée & que e pue uee pus de encee de ts fcton er erur VM uec mes ms en te endrot dedns ou dehors e Royume & en tee mnere qu uy pr ne ouhttnt ren que de pouuor contruer ce qu peut dépendre J"
-        ],
-        [
-            "e eto cnpt e p e u ne n 8 t72 de moy à̀ pper orge quonexcté dns votre Ett & de rendre mes penes & mes ons vrtes u repos & àfecté de vos uets S Deu donne à̀ V Mprotecton que on dot eperer dencteté de es ntentons & deutce decue & que chcun rentrnt dns on deuor es mouuemens dont votre Royume et gŕ e termnent uec e oeur &gore que mer tentonté́ & ppcton uec quee V M y true nftgement euppe tres humement dés à̀ preent de trouuer on de me precrre queque endrot où e pue per e rete de mes ours en repos & es empoyer à prer Deu qu come V M dutnt de propertez & de enedctons quee enmerté Cet e pus rdent ouht de A Boü̈on e 2 Decemre 6̧"
-        ],
-        [
-            "p 5 uE E 4 3j tJquH t 4 s 93o0 e 25242 2   3343 d"
-        ],
-        [
-            "J LETTRE A LAREYNE"
-        ],
-        [
-            "AL HL nADAME2 E dos pr tnt de rons à V M vn comprte exct de toutes mes ctons quetnt ur e ponct den entreprendre vne qu pourr fre éct dns e monde y creu deuor unt toutes choes prendreerté de uy fre çuor es motfs qu my ont ogé me promettnt deutce que non euement V M ne es degréer ps ms quee uger meme que qund m reouton neut ps eté uthorée pr e goreux dueu que e Roy enft e neue pû ns vne ngrttude dont e me ftte que V M ne me tent ps cp e mempecher de fre mes efforts pour ren dre à̀Meté tous es foes eruces qu peu uent dépendre de moy dns vne cononcture où e preent eon quee enne uy urot ps me me perms de refuer ceux des peronnes es pus crmneeserot en uperfu de repreenter ̀ V M ny e zee uec eque y eruy cét Ett quee çt meux que peronne ny e dentrereement que y y pporté queeeu ouuentgeneroté de comtre pr des commndemens ous de re 2"
-        ],
-        [
-            "Ceeé 3 4 ceuorerté des grces dont e ne me us ps creu dgne ny es uccez untgeux que ce zee & mon ppcton ou putot e onheur deFrnce uoent produt quee çt uor eté́ tes que es ennems prés de grndes pertes en tous endrots où es rmes ont pu gr etoent reduts pour e grntr den ouffrr de pus conder es ̀ donner es mns ̀Px genere com me e eu moyen qus uoent pour rreter es progrés deFrncees duons quon yft ntre neuent reeué eurs epernces & chn gé enterementfce des ffreserot encore uperu de dre ̀ V M pr ques mheurs cette Couronne et décheü de es grnds untges yt eeme tnt trué ̀ détourner & mon drr es vns pour e mntenr en poeon des utres& enfn defre ouuenr que e Ce uot teement eny es ouhts es voyges que V Mentreprs uec e Roy dns des onsrudes & es truux queeoufferts urfn de nnée dernere présreducton des pces de Nor mnde & de Bourgogne préseuée du ege de Gue prés orge de Guyenne cmé preés expuon des Epgnos des potes qus uoent occupez en Chmpgne & prés vne te g gnée où s uoent perdu eurs prncpes forces queV M uotgore &conoton duor urmonté des dffcutez qu emoent de oy n unces duor teement pcfé e Royume & etent e feu des fctons qu ny pouuot urddpecoouehunoo m e& to o e o dr u"
-        ],
-        [
-            "ps e tees ts ce3e es nt s tt „  pus protre ucun prty es rmes ̀mn contrre u eruce & ux ntentons du Roy & duor ft reprendre ux ennems es pené́es de px dont nos duons es uoent peu upr unt teement eognez qus nuoent ps ft dffeuté de prer Meeurs es Medteurs de de crer ̀ VM de eur prt qu ne fot pus e perer de Px ny meme de negocton ou de congrez pourtrter Cependnt V M e peut ouuenr quprés tous ces heureux uccé́s Mon eur e Comte de Fuendgne témogn ou hter uec pfon duor vne conference uec moy pour renouer e trte & en duncerconcuon V M e remettr u fcement dnsme more que cetot dns cette conttuton go reue que e trouuoent es ffres ors qu fu ugé que érgement de Moneur e Prnce & mon éognement es pourroent mettre en tot en meeur ett vn & utre furent execu rez uec es crcontnces que V M çt e ne orts ps euement du Royume uunt es or dres que en receu de V M e me retry enco re en on de es fronteres pour donner pus de eu u prompt etement du onheur puc que on uot ft eperer ̀ touteFrnce de mon éognement y ouffert dns cette retrte ns dre vn eu mot ny ns en porter mes pntes ou mes remontrnces & mes uppctons tres humes à vos Metez des Arrets & Decr D 3 385"
-        ],
-        [
-            "24 tons qu me chrgent des pus grnds opprores quon pue mputer ̀ homme de en & qurouours ez ft connotre qu nuot utre ut en toutes es ctons queconeruton de on honneur y ft meme cét effort ur moy de ne vouor ps defendre pr des Mnfetes m reputroncrueement déchré́e & dempe cher que mes ms qu çuoent mon nnocence ne puent ceux que eur ffecton eur uot ft preprer fn quon ne put uor e mondre pretexte de me reprocher que pr cét nteret pr tcuer & pr vne trop grnde precptton eue eteé cue des retrdemens defecté pu que qu netot ps mons dns m retrte e eu oet de tous mes vœux u dépens meme dechoe du monde qu metpus preceue quee uot eté ors que prprt que uos dns es ffres cette fecté e trouuot onte ̀ m gore prtcuere y demeureé en cét ett pus de dx mos & pus en dpoton de méogner encore duntge que de retournereue veu que mon premer eognement eut produt quequvn des effets quon en uot ft eperer Enfn y ouffertmertume de mes mheurs uec pus de cont ce & de force que e neue oeé me promettre & que e neue euen effect ns doucement quyporte epernce dont e me us touours ft té uunt opnon des utres qus pourroent uec vn peu detemps contruer eucoup u ré t"
-        ],
-        [
-            "4e pos s e y 25 tfement de uthorré́ Roye & en utte u onheur des peupes qu dépend prncpe ment du retemenc de cette uthorté nos f conceu eucoup depor quemorteé du Roy erot v ouuetft remedetous es mux qu ffgeoen Ett & à produre ge nerement dns es eprts cé́t effet untgeux àMeté quucun de es uets neut pus dutre penée que demerter honneur de on etme & de es onnes grces pr es eruces & prperte de tout on rg s eut eté efon Ms voynt contre mon ttente & mes ouhts que en on de cette vnnme conprton à̀ es nterets & ̀ es voontez e feu qu etot uprunt demeuré couuertpruû̂ uec tnt déct & set ft entr uec tnt de voence qudeemré duer es prounces & qu peut pus fcement uure es utres qu net fce de étendre voỹt qù vne ongue guerre etrngere que Ett épué dhommes & de fnnces uot de depene ̀ outenr sen et douté́ vne ntetne dutnt pus dngereue quee rue es entres dvn corps qu n ps trop de touteforce pour com tre u dehors y creu qu ne pouuot etre de on Frnços ny de verte eruteur de V M qu non euement ns honte ms ns crme put regrder es rs croezfce preente des ff res ns y ccourr uec tout ee qu peut uor de forces & dms & ns crfer on en & fve pour donner pus de moyen u Roy de e defen D j"
-        ],
-        [
-            "e026 dre des punces redoutes qu ttquent En cette quté & comme e pus ogé de rous e me us preuu MADAME de ffe cton genereue de mes ms & depon qus ont deurs pour e en de Ett pour fre vn effort uec eux de mettre eneme vn corps de troupes ez condere pour pouuor etre vt e à Ett dns des cononcturesprentes & e ne pus ez exprmer à V Mpon qus témognent de pouuor en ce rencontre gner pr tout eur zee & eur fdeté́ & en tee mne re qu pr àS M de ordonner Aprés ce premer ut de erur e Roy que e me fus propoé dns mon deen & que y meme en veuë deuntreprton de mon honneur y ongé que e pouuos chercher en ute es moyens de ne e er ps duntge en comproms dns e monde & que e ne deuos ps demeurer dns vn ence & dns vne moderton nute pen dnt que on contnuot ̀ déchrer m reput ton ce qu m ft upper e Roy treume ment de vouor me fre rendrc utce dns es formes es pus eueres & es pus rgoureues ur es crmes dont on m ceué & ur eques on m condmné ns muor ouy offrnt pour cede me rendre tout eu en te euqu uy pr mordõner& oe eperer que V M rrouuer cet te ntnceegtme quee ne refuer psgr ce que e uy demnde devouor ppuyer de es puns offces fn quynt eu de fre protre que"
-        ],
-        [
-            "27 que mon nnocence et ̀ épreuue de toutes est 7 tques decomne es pus crtques & es pus mceux oent contrnts dduoü̈er que e ne us ps cpe du mondre des crmes dont on m vouu tcher V M MADAMEvne ponforte pour tous es untges de cette Couronne tnt de on té pour tous ceux en qu ee trouue des mpreons de ce zee & tnt déquté nturee que e ne pus ps douter qu fe utre choe pour uy fre pprouuer & gréer mon deen que de uy en re preenter nuëment es motfs comme y tché de fre cetgrce dont oeupper uec touteoûmon & e repect qu uy et deu & comme e prendserté den demnder enco re vne utre u Roy qu et duoronté́ de me dpener duor ucune prt dns e mnment de es ffres qundMeté́ urot ez onne opnon de muffnce &protecton de VM uprés du Roy en cs que cette preuenton dvne choe ̀ quee peutre S M ne onge ps ne ot pont trop preomptueue pour empecher que e ne os ps expoe ̀ commettre vne deoe nce commerruerot nfementonuotmondre penée de me fre cét honneur que etme en effet ncomprement mons quegoreue quté A Bouon e 23 Decemre 65"
+            "vn peuple entiérement deſolé: mais vn Prince qui",
+            "ouuen a expoſeé ſa vie, &verſeé ſon ſang à la teſte de",
+            "oarmées, pour rendre voſtre nom redourable à tou;",
+            "es enneniis, & fans autre intereſt que d’agrandit os.",
+            "frontiéres, comme il a fait par la priſe de tant deVil",
+            "es fortes & impoctantes, & des Prouinces entiéres",
+            "qu’il conquiſes, pouuoit biela teſts leudée vous con",
+            "ſeiller lapais dans le aabinet, ſanis qu’on le pût ſoub",
+            "çonner de crainte ou d’intelligence, y de manque de",
+            "reſpect enuers V. M. mettee dõc eneſtat madam",
+            "de s’employer à vn fi digae ouurage, au lieu qu’en le",
+            "reteaant, ſon innocnce epprimee va ſans doute",
+            "diouſter aà la guérre des deur Couronnes, vne ciuile",
+            "& inteſtine, où vous allez voir vos Subiers ſe déchirer",
+            "eu meſmes propremant par la quarelle d’vn particu",
+            "liereſtranger, ontre vn Prince du Sang de France.",
+            "C’eſt ma Da , celuy de tous vosSubiets, qui eſt",
+            "uec plus dareſpect, de zele & de pafſion, comme da",
+            "deuois,.",
+            "E ..",
+            "o e",
+            "Letreable, trebeyſſamt & tredel",
+            "Subiat Seruieur n vrnnes.."
         ]
     ]
 }

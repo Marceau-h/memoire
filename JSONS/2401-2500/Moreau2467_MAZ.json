@@ -1,128 +1,268 @@
 {
     "entête": {
         "form": "vers",
-        "genre": "burlesque",
+        "genre": [
+            "supplique",
+            "lamentation"
+        ],
+        "subject": "Venise",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Louis XIV (1638-1715 ; roi de France)",
-            "Anne d'Autriche (1601-1666 ; reine de France)",
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
-            "Orléans, Gaston (1608-1660 ; duc d')",
-            "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
-            "Longueville, Henri II (1595-1663 ; duc de)",
-            "La Mothe-Houdancourt, Philippe de (1605-1657)",
-            "Richelieu, Armand Jean Du Plessis (1585-1642 ; cardinal duc\n            de)",
-            "Scarron, Paul (1610-1660). La mazarinade"
-        ],
-        "creation": "1651-03-11",
+        "creation": "1649-07-17",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-14",
-            "@who": "AB"
+            "@when": "2022-05-20",
+            "@who": "MF"
         },
-        "titre": "La miliade , ou l'Éloge burlesque de Mazarin, pour servir\n          de pièce de carnaval.",
+        "titre": "La militante république de Venise prosternée aux pieds de\n          la France, implorant son secours contre la tyrannie du Turc.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2467_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2468_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L mdeou Éoge uresque de Mzrn pour servr de pèce de crnv Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 L mde ou Leoge uresque de Mzrn pour servr de pece de crnv Sns LeuSns Nom65 à prtr du 22 févrer 65 Prs Bothèque MzrneM023TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes 3 étts (A/B/C)p 3 ttre de déprt \"LELOGE\"(B)/\"LELOGE\"(A et C)p 24 \"etre\"(A)/\"etres\"(B et C) p 248 \"utheu\"(A)/\"utheurs\"(B et C)3 \"ven\"(A)/\"vene\"(B et C) Dprès Huert Crrer texte pru à prtr du 22 févrer 65 (Bothèque Mzrne Ms 468 f 56v) 2467 Mde () ou Éoge uresque de Mzrn pour servr de pèce de crnv Sns Leu 65 7 pges « De ore sns cesse et reore Depus ce mtn und grs » Voàdte Ce pmphet n ren de commun que e nom vecMde de Rcheeu Surtoutnest n uss voent n uss sprtue pru prèsMzrnde cr je s àpge « Comme dnsMzrnde (sc) Qu nest quune ongue mzrde 272 BBLOGRAPHE [MNSTRE] Lquee à ce mnstre ému Rend je cros e nez en cmu »enété pué dnsmême nnée 65 une seconde éd ton revue et corrgée pr uteur Vor e Gouvernement de Étt présent etc et e Gouvernement présentetcvers uresqueLous XV (635ro de Frnce) Anne dAutrche (666rene de Frnce) Condé Lous de Bouron (686prnce de) Cont Armnd de Bouron (6266prnce de) Oréns Gston (6060duc d) Beufort Frnços de Bouroendôme (669duc de) Longueve Henr(5963duc de) L Mothoudncourt Phppe de (6057) Rcheeu Armnd Jen Du Pesss (5842crdn duc de) Scrron Pu (660) L mzrnde Arrêt du prement contre e crdn Mzrn 6"
+            "LA",
+            "MILITANTE",
+            "REPVBLIQVE",
+            "DE",
+            "VENISE",
+            "PROSTERNEE AVX PIEDS",
+            "DE LA",
+            "FRANCE",
+            "mplorant ſon ſecours,",
+            "CONTRE LA TYRANNIE",
+            "DV TVRC",
+            "A PARIS,",
+            "Chez ROLIN DE LA HAYE, au Mont S. Hilaire,",
+            "ruë d'Eſcoſſe.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "LA MLADE OV LELOGE BVRLESQVE DE MAZARN POVR SERVR DE PECE DE CARNAVALM DC L"
+            "p4",
+            "L MILIAANTE REPVBEIQVE",
+            "de Veniſe proſternée aux pieds de la France, im",
+            "plorant ſon ſecours, contre la tyrannie du Turc.",
+            "En Vers Burleſques.",
+            "Trerand, tre puiſſant Empire",
+            "Que le Ciel & la Terre admire,",
+            "France en veus eſt mon ſeul recours;",
+            "Daignez nous donner du ſecous,",
+            "A genoux on vous en ſupplie",
+            "On ſç̧ait que vous eſtes remplie,",
+            "Des ſoldats qui par leur valeur",
+            "Nous pourront oſter du malheur,",
+            "Dont la cuelle tyranni",
+            "Du Ture anuecque ſa manie;",
+            "Nous menaſſe à chaſque moment",
+            "Il nous pepare vn grand tourment,",
+            "Puis qu’il leue vne grande armee",
+            "De ſa propre rag animée,",
+            "Par laqueſle il veut rauager",
+            "Nos champs, & nos gens ſaccager,",
+            "Vous ſç̧auez qu’il tient la Cané́e",
+            "fait deſia plus d’vne année,",
+            "C’eſt là qu’il ramaſſe ſon train",
+            "Pour nous faire viure en chagrain,",
+            "C’eſt là qu’il enuoye de Grece",
+            "De la munition ſans ceſſe,",
+            "A ij"
         ],
         [
-            "LA MLADE OV LELOGE  Bureque de Mzrn pour erur de  péce de Crn  GRAND Bdn Mtre Apoon  As oueur de Voon  Ou Frere de ces neuf Pucees  Qu nyns dns eurs ecrcees  Dequoy scheter vn epoux  Qu eur frere es genoux  Auront toujours eurs puceges  Dutnt quees ont pr tropges  Pour vendre jms eur honeur  Comme font fes ns pudeur  Comme de cette heure fonut fes  Qu e contournns comme ngues  Dȩ̀ deà̀ ettent regrds  Afn dtrper queque Grds  Eevonttot qu es chroue  Comme des chcres noe  Ce qu pourtnt et vn eur  Qu metcence en horreur  De vor quee otfte  Memes u Chef deCe  Qu nt p depusonemps  Auor queques deners comptns  Pour en pouruor des Sœursonnes  Auec du onnes peronnes  Ms à quee dgreon  Me porte m refexon?  Aeurs ppquos m penée  Comment sen et ee egrece?"
+            "C’eſt la qu’il fait prouiſion",
+            "Auecque grande paſſion,",
+            "Des biſcuits afin que hors de terre",
+            "Soit pour la bouche ou pour la guerre:",
+            "Ses ſoldats ne manquent de rien",
+            "ne cherche que le moyen",
+            "De mettre noſtre Republique",
+            "Sous ſon Empire tyrannique;",
+            "Ses vaiſſeaux qui ſont ſur la Mer",
+            "Les Nauires qu’il fait armer,",
+            "Nous detiennent dans des allarmes",
+            "Nous apprehendons que ſes armes;.",
+            "etrant noſtre belle Duché́",
+            "Le Ture qui vit dans le peché,",
+            "D’vne cruelle felonnie",
+            "La pourra parſa tyrannie",
+            "Perdre comme vn autre Illion",
+            "Si les Lys auec le Lion,",
+            "Ne nous donnent point aſſiſtance",
+            "Pour ſupprimer ſa violence;.!",
+            "Nous apprenons que ces Bachas",
+            "Leuent ſans ceſſe des ſoldats,",
+            "Et fait conſtruire vne machine",
+            "Qui nous menace de ruine,",
+            "Les Trompettes & les Tambours.",
+            "Ne font que reſonner touſiours,",
+            "Afin de leuer la Milice",
+            "Qui nous voudroit par ſa malice,",
+            "Mettre dans la confuſion",
+            "Dans la preſente occaſion,",
+            "Le",
+            "Qu",
+            "Ses",
+            "Nou",
+            "Son",
+            "Don",
+            "Et nc",
+            "De l",
+            "Ls p",
+            "Prien",
+            "Qu",
+            "Et qu",
+            "Au fe",
+            "De no",
+            "Vouse",
+            "QUl",
+            "Atusm",
+            "pl,",
+            "eſeſ",
+            "e lſ"
         ],
         [
-            "E 4  L reuocy dou venez vous?  Vous me pourrez mettro on eourroux  e pretens dcourr dvn hofnme  Qu ues Mzrn e nomme  De ce peronnge mportnt  Donten ces ours on pre tnt  Or us ̀ pette voge  Quon demeure à̀ preent en cge  Tnds que de ce Crdn  e dry e en & e m  Toy done qu regs nunce  Des vers donne men ondnce  Afn que ce dgne dcours  At vn mpe & uffnt cour  Et e ure pr t Fontne  Pr Hecon & Hpocrene  Qu met vn cher & grnd erment  Dte recompener mpement  Et pr deusrécompence  De te remprenpence  Que tu pourrs ns uor fm  Te per pus dvn n de pn  e cros Meer oueur de Vee  Que pree oftre et ez e  Et que cet eucoup en vn tempe  Ouù tnt de peupem uxdents  Et en pus ux ooyux encore  Fute de pn qu es reture  Ms e ens m vene oühr  Deéj tu es venu rempr  De t queur Prnenne  Ouurons donc cette venemenne  En fueur de ce Mzrn  Que durres dent Mcrn  Pr e Styx cet vn peronnge  Qu de es peds tortus ft ge oon"
+            "Le Turc qui boit dans le carnage",
+            "Le ſang des Chreſtiens par ſa rage,",
+            "Nous donne vne telle terreur",
+            "Que nous apprehendons l’horreur,.",
+            "De la mort dont il nous menace",
+            "Si le Ciel par ſa ſaincte grace,",
+            "Ne nous deliure de ce fleau",
+            "Et qu’il faſſe perir dans l’eau,",
+            "Ses armé́es & ſur la terre",
+            "Par des forts eſlans de tonnerre:",
+            "L’exceſſif nombre des ſoldats",
+            "Qu’il arme pour nous mettre à bas,",
+            "Ses canons, ſes bombes funeſtes",
+            "Nous font craindre plus que cent peftes.",
+            "Son abbord dans noſtre pays",
+            "Dont nous ſommes bien eſbays,",
+            "Et nous ne viuons qu’en la crainte,",
+            "De la mort qui nous eſt depeinte.",
+            "Les petits enfans a genoux",
+            "Prient Dieu qui nous ſoit fi doux;",
+            "Qu’il nous vueille ſauuer la vie",
+            "Et qu’il face perdre l’enuie,",
+            "Au fier ennemy des Chreſtiens",
+            "De nous mettre au nombre des ſiens.",
+            "Vous entendriez les pauures ſemmes",
+            "Qui luy recommandent leurs ames,",
+            "Leurs maris auec leurs parens,",
+            "Les plus petits & les plus grands;",
+            "Le ſexe ſans eſtre aux allarmes",
+            "Ne laiſſe de verſer des larmes."
         ],
         [
-            "Son predeceeur Rcheeu  Que on crgnot en pus que Des  Et qu fot à tousnque  Prute Potque  Ne ft toutefos ms ren  De eme à ce uen  Cet ue ms pour fre rne  e ds uen pr mxme  Non d ce grnd Heros pé  Ve n eo ve n pce  Cr à vous dre vry e doute  Quee hors de ces eux futroute  Msme emporte uec oy  Lhumeur qu u donneoy  Tnds quee et dnsCrce  Quenfnvermne frce  Ce feu Mntre qu ms  Ne e peurt pre uecPx  Et é prtnt deve  Au eu duque ee et nne  entens dns ce pnt eout  Ouù re Puton tentCour  Auec Mdme Proerpne  Prncee ee & tres poupne  Ms quoy que e compere Armnd  Aymtguerre étrngement  Et qu y fut nftge  e croy qu donne en u De  Cee de ce Royume à  Et qu voudrot en dre ho  Quoy qu en ot ou pue en etre  Le Vet urpe on ttre n ren ft qu ot ége  A on dcpe ou en v N qu merte dns htore  Vnefmeue memore  E  e eE"
+            "Et les vieillards voudroient moutir",
+            "Quand ils ne peuuent ſecourir",
+            "Leur fidelle & chere Patrie",
+            "De crainte de la voir fletrie.",
+            "Par ces loups garroux des enfers",
+            "Et quelle viue dans leurs fes,",
+            "Nos ieunes gens que le courage;",
+            "Et l’horreur d’vn cruel pillage,",
+            "Anime vers nos ennemis",
+            "Ne ſont iamais point endormis:",
+            "Le ſang qui boult dans leurs artiires.",
+            "Teſmoigne leur iuſtes coleres.",
+            "Et le grand ele de leun cens",
+            "s deſirent eſtre vainqueurs,",
+            "Ce grand deſir leur ſert d’amorce",
+            "Et leur fait redoubler leur force,",
+            "Neantmoins ils ne pourroient pas::",
+            "Mettre nos ennemis à bas,",
+            "Sans voſtre ſecours grande France,",
+            "Et voſtre heroique aſſiſtance",
+            "Nous ſçauons que voſtre valeur",
+            "Peut ſeule chaſſer le malheur,",
+            "Qui nous talonne & fait la guerre",
+            "A deſſein de mettre par terre",
+            "L’eſtat de noſtre liberté,",
+            "Pour nous mettre en capriuité..",
+            "Noſtre eſprit dans l’inquietude",
+            "N’a pour obiet ny pour eſtude",
+            "Que de pouuoir bien inuenter",
+            "Le moyen de viſte arreſter,",
+            "Et",
+            "Aſ",
+            "E!",
+            "Lal",
+            "No",
+            "Fin",
+            "Para",
+            "Nou",
+            "Du",
+            "out",
+            "ul"
         ],
         [
-            "On e dt fs dvn Chpeér  Dutres dvn nechnt Pfrener  Nnmporte fu fs dvn pere  Qu nous eut ché́ e dertere  nen et à̀ meetmer  Et on de en pouuot ̂ mer  Tnt pus et enne  Pus oue et on Emnence  De setre dvn erceu hotux  Eeué hommepompeux  Cet Agthoce qu ft rge  Dednsguerre de Crthge  Et de grnd Guerrer deunt Roy  Etot fs de poter m foy  crtes ntt dAthene Qu futrue Cptne  Eut pere de pus v meter Etnt uf honneur uecter  Tue que Serue on urnomme  Pour etre né de Serue à Rom  Eur utrefos dedns es mns  Le noe Sceptre des Romnsr  Msne fut ps que oue  Le puure & heureux Lmufte etot ou Htore à men  De Prens ez m prty  Le conte en et pnt rfre ne connut msonpere  Etmerece que on dr  Ft ce puure enfnt àcrod  Auec deux utres dontCgne  Qu netot ps vne rehgne  Tout àfos e deur  Dvne fcon quon mudr  Aot quee er ce  Cr effrontée &perdüe"
+            "7",
+            "Le Turc & toute ſon Armé́e,",
+            "Que nous voudrions rendre abyſimeée,",
+            "Dans l’humide ſein de la Mer,",
+            "Ce deſir nous a fait armer,",
+            "Pluſieurs Vaiſſeaux en diligence;",
+            "Eſperant que voſtre aſſiſtance",
+            "Secondera nos bons deſirs:",
+            "Ayant eſgard à nos ſouſpirs,",
+            "Qui troublent l’air parmy les nuës;",
+            "Pour rendre nos douleurs connuës,",
+            "mais on n’a veu nos Eſtats",
+            "Craindre vn ſi funeſte degats,",
+            "Nous chancelons dans vne crainte,",
+            "Par qui la mort nous eſt depeinte;",
+            "Car cét ennemy des humains",
+            "N’a point des plus cruels deſſeins,",
+            "Que ceux qu’il nourrit dans ſon ame",
+            "D’vſer du fer & de la flamme,",
+            "A deſſein de nous ruiner;",
+            "Et pour nous faire proſterner,",
+            "A ſes pieds pour luy rendre hommage",
+            "Et luy donner pour heritage,",
+            "La liberté de nos Eſtats,",
+            "Nous aymons mieux que le treſpas,",
+            "Finiſſe nos triſtes iourné́es;",
+            "Parauant que les deſtinées,.",
+            "Nous voyent viure ſous la loy",
+            "Du Turc qui vit ſans point de foy,",
+            "Toutes les puiſſances du monde;",
+            "Où la Loy des Chreſtiens abonde,"
         ],
         [
-            "Affn de couurr on mé́ft  Pr vn pus horre forft  Dccoucher e entnt en prete  L mote de on frut ee pprete  Et dvn foépunte eu  Lu detne pour on tomeu  Aot y vfrouche  Aotputn ccouche  Et ceuy de ces tros enfns  Qu ort e premer de es fncs  Et pongé prmere mpe  Dns cette eu oureue & croupe  Ms pennt pr cet ttentt  Quee uot ft on coup dEtt  L meurtrere&mrude  Fut comme e ctoy en penude  Qund de on ventre trop fecond  Ee en vd ortr vnecond  Et dut encor etre pus efme  En voynt ortr e troeme  Et qu fot poureurté  Oter à ces deuxcrté  Le remord deconcence  Lu ftdeus remontrnce  Ms moneur honneur ns pte  Nen vount pont fre à moté  Pr meux queconcence  Et uy fnt vor mportnce  De ces tros ctes nhumns  Ee en cqute enfn es mns  Et ces deux nnocens coupes  ont pr es mns nexores  An que e premer trtez  Et dns cette e eu etez  Pus cette megere sen v  Et voc ce qu ru"
-        ],
-        [
-            "Ceuy dont e vous dsfe  Ou enhtore verte  Aynt pr vn en ft du ort  Ete gt nt de effort  De Dme Prque teree  Qu de vche & veu ft curée  Et coneué ur du Roeu  Qu e ougeot deus eu Vn certn Roy qu dunture  Pot pr à urmonture  Vd ns çuor ce que cetot  Lenfnt qu dem eu couurot  Ce qu ft quà orssunce  Et e poue uecquence  Qu empognfortement  Que e Roy pen détonnement  De cetre merue ere  Mudt me fos e Brre  Autheur dvn ctemechnt  Et ugent pr à que enfnt  Etot detne de Fortune  Queque choe non commune  Le ft prendre & touours nourr  Et deuennt grnd guerr  S que dedns rt mtre  Montrnt tout ce qu cuot fre  p es pus vureux  Fut vn Cptne fmeux  Et de Cptne Monrque  Comme htore e remrque  An me utres de eu s  Que e ne vous contery ps  De peur de fcher vos orees  Ont ft prouees & merutes  Sur qu ce grnd & veux gouu  Le Temps u menton oneu  N puû porterdent encore  Que"
-        ],
-        [
-            "93  Que tous es Eresdeuore  Loüons donc e eur Mrn  Qu netnt fs que dvn fqun  Set ft vnmerueeux homme  Qu étonneFrnce & Rome  Que & quu ne ps  Ce Crdn de grnd trcs  Et depus que ur Omopte set vû̂ rer écrte  Qu & quepont ft  En vocy e dcouts prft  Voy nt quà RomeFortune  Ne uy etot pont opportune  Et quuecque tous es meters nuot cqus grnds deners su dentrer en Frnce  Pennt y rencontrerchnce  Pr que tour chcun e çt en  Et s et nte on ne vut ren  Ms quoy e ft et excue  Pour suncer tour et fe  Et comme vn grnd Poeredt  e etme ns contredt  Cet Cornee dns on Pompé́e  Occs de pognrd ou depée furfur voer u crme qu nous e  Et de meme furvertus qu nous per  An ft en on Emnence  Dentrer comme eeft en Frnce  Veà donc pour e premer pont  Ou ns mentr e ne mens pont  En utte ynt eté receue  Auecence duë̈  Du Roy deéfunct & deCour  Ee ny ft ps ong eour  Quee en conut tous es mteres  A"
-        ],
-        [
-            "&L  Et çeut en comment fre ffres  en quee prt m frncos  Quee écorchot en on ptos  Prfremue &grce  Quee nmot de on udce  E pr es utres entregens  Ee chrmen es gens  Sur tout nos eunes Dmoees  Qu yment es peronnes ees  Queeft uque à cejour  Tout ce queevouu en Cout  Ee fut de ce renetque  De Rcheeu e Potque  Pre dord pour on gent  Et uy gngn mnt on rgent  Tnt ux dez quux crtes & ãques  Dont en utte Ee tnt nques  Et ou mnte fos Rcheeu  Fut contrnt de urer prdeu  Etnt prouoqué́ pre  Que e Cmr deSce  Aot ft à vn Mzrn  Pour e mons utnt que uy fn  Prquoy commenetot ps ete  Sondnt es reors detete e uger propre ux deens  Qu formot ur tous es hums  Des ors ux emposppque Et uy enegneprrque  Non ps ce du Ps  Ouù on v ouü̈er des vets  Des Conus ou Conete  N dutres eux de pdore  Ms ce des Fuors  De ces veneres epts  Que premers Mntres onnomme"
-        ],
-        [
-            "Et cePotque en omme  Cet Art de reger es Etrs  Ou dy metre e peupe u s  Séeuer u deus des Prnces  Poeder pus queux eurs Prounces  Et fre ous oy tout per uy pprt donc on meter  Ouns for eucoup ntrure pprt tout ce quon peut dre  Et eruten es Frnços  Que Loüs ce on Roy des Roys  Pr e Cone utrme  Du Segneur Emnentme  mperr du Sege Romn  Vn onet rouge à Mzrrn  Auec vn vetement eme  Pourrecompene équte  S que tennt e econd eu  Aupres du Gnd Rcheeu montr pus de vehemence  A chercher e en deFrnce  Leque on ne empechnt ps  Den uor queque utre pus s  Pour deer on grnd Gene fot uec ndutre  Venr de quntté de eux  Ce qus uoent de cureux  De eux joux pour es Donees  Pommdes à es rendre ees  Petts Toutous pour eurs mnchons  Quon peut nommer chhfons  Et me utres petres hrdes  Conuenes à ces mgnrdes  Des Meeurs ynt on u fot mener ey  Des chpeux en grnde ondnce"
-        ],
-        [
-            "reee  E  Et ceà sentend pour fnnce  Cr à dre de vry pour ors nuot ps tnt de treors  Qu peut ee depence re  Sns en trer dntre re  Que queque mpe compment  O des grnds mercy euement  Au de peut detre prodgue  De meme quvne forte dgue çeut à eré  Touours oppoer chcheté  Non que pourperonne meme neut vne rgee extreme  Cr pour es tsfctons  De ces utres pons  Quur tout pour e Thetre  ten qu doâ̂tre  Pour es ets & es fetns  Les frceurs & es dns Les Dmes en chr & penture  Les Ps de rche tructure  Meme pour oger es cheuux  Tes quvn Roy nen de pus eux  Et pour me utres gentes  Que de mndoyent es conuotes neprgn non pus notre or  Quepouere & mons encor  Ms quoy? ce ont mgnfcenees  Bentes ux Emnences H et vry que quequvn dr  Et certes ronur    Qe eon de pr e De  Quvne Emnence nte  Venne cy fre ces excez  A nos grnds couts depens & frs?  TouteFrncs et ffmée"
-        ],
-        [
-            "3  Et vores toute conumée  Pr es fetns pr es ets  Pr es mgnques Ps  Et pr es utres opuences  De ces funetes Emnences  A ce e ne reponds ren  Crreponce onct en  Et e ne veux u ren dre  Leque pue à mon deen nure  Pus que dns ce pett dcours  L ounge et eue de cours  An donctot que Leu Rche  Fut u Soronque Edfce  Lé à gnt commeet  Et eut eé on grnd Vet  Ce Mzrn ce rué droe  Enpce cheuer on rô̂e et pus que ms  Ses eux & heroques fts  Poednt ors eu Emnence prt peu à peupunce  Et rendt u feu Roy LOVS  Des eruces treouys  Teement quà heure dernere  Quemort vn peu pr trop fere  O trer ur u es trts  Qu cuent encor des regrets  Pr on regtre tettore montr en uor memore  En ordonnnt u Roy on fs  Qu e ft Mntre des Ls  qucy y de hoes à dre  Se es pouuos en decrre  Loreu que dctes goeux  Se repreentent à mes yeux me fut vn trt de umere  e"
-        ],
-        [
-            "E4 Dns cette Fmeue crtere  Et du te e pus pompeux  En crcteres umnex  Trcer tnt de choesees  Quees demeurent mmortees  Ouy ns rer & tout de on  e dos prendre e grue ton  Pour chnter ces rres meruees qu douent chrmer es orees  Ms quoy m Mue ne veur ps  Reprendre à preent es ps  Ee et en on humeur fotre  Etpette ccrtre  En vn retrer e en veux  Ee me erne uec mes veux  Et dedns on extrugnce  Dt cecy de on Emnence  Quetnt dedns vn pen credt  Aement ee e rendt  L premere Tete de Frnce  Quee renge ouspunce  De orte donc que Mzrn  Du Roy meme ft Souuern  Dpo de px & de guerre  Et comme en Ege nt Perre put er & deer  Sns quon ot sen oucer retr es vnsdes chnes  Ou des onemps dedns es genes  Les tenot on predeceeur  Ou en putot on precureur rpe u es utres  Qu comme des Scrons Apotres  Auoent pr e on cheeu  Eu ordre der prer Deu  Dns queque endrot àcmpgne"
-        ],
-        [
-            "5  Qu put eot vncre Epgne  Msnture ht ce dn  Le vude utnt que ft e C  Ce fut pourquoy on Emnence  Pr vn trt de grnde prudence  Ft vtement rempr ces eux  De quntté de petts feux  que ? de Segneurs & Prnces  Qqu ne ont pont peronnes mnces  Temons e genereux Beufort  De Prsepor & uport  L Mothe & utres grnds courges  Qu ft tretous outer en cges  Pour uor ft ou uor dt  Queque cs qu uy ft dept  Et s demeurerent à omre  Des ournées ez on nomre  Tnt que pr rue ou utrement  s eurent érgement  Ce qu on de uy pouuor pre  Le mt fort & ferme en coere  Qc quequutre s vnt à̀ pont  Euy qu ny penot pont  Cry eut certne tete  Sur qu chut toutetempete  Et e Predent Bron  Fut ce dn pr vn ouon  Conué der per onde  Qu nous condut en utre monde  An ns trompette & tmour  Pueurs prtrent tour à tour  Et queques utres pr gnee  Vrent fnr eur detnée  Comme Senec ous Neron  Qu de enn deunt feon  Son mnence fort ge"
-        ],
-        [
-            "Leur ffnt vte fre ge  Suunt en ceàe con  Deon Pedgogue Lucon  qu tenot quoy que on en de  Ve en toute mde  De Ett n que du corps  De mettre vn peu de ng dehors  S et vry s nomettent me  Certte vte Pheotome  Ms ces Mntres Merdecns  En vent pour dutres deens  Cr pour e en de eur petonne  Seuement chcun deux ordonne  Comme en vn vertge fcheux  Ptot deeprt que des yeux  Et dont vne terreur pnque  Troue eur cerueu phrenetque  Ou qund eur e tropen feu  Dns eurs ntetns ft eu eu  Et de coete rend eurs mes  De nouueux vuues de mes  Qu de meme quvn feu gregeos  Coumerot Ett Frnços  Sns dte ph eothome  Leur pus grnde & meeur me  Et qu met chez eux es hoà  Qund s srrtent uques à  efut pour vn m tout eme  Que Mzrn e Venere  Vng cnq mos ont enuron  Vount n ce nousdn  En fre à Couon & Bruxee2  De ft s en tenoent dns e  Sur tout e derner ns Thems  Qu uy protur desms 3  Cr tnt ourgeos que ppus  Eurent  eeeee"
-        ],
-        [
-            "7  Eurent de Mzrngrce  Etudeur mgre uy  Dontfut fort greué denu  En ynt eu grnd m de tete  Aez ong temps ns fre fete  Ms quoy e prudent Crdn  Pour éuter vn pus grnd m  Ft pr force e Pcfque  Tnt quenfnput fre nque  A nous puures Prens  Qu nous en prmesur es ens  Cẽ fut u grnd our deFeue  Ou pueurs ns er en greue  Eurent rs & mes ce2  Et furent tous treout eez  Setns dvn ee rdcue  ngerez de prer de ue  ue qu ors notre ennem  Mudt fut en De & dem  Où fourez dednse pge  Dvn peu drgent & de gge  Que queques puures mheureux  Penoent retrer de cher eux  Ce fut e encejour de chere  Ce futprecedente nut  Seprnt de ce outvee  Ou chcun uot ft meruee  Lempnt cour çoup fos ur fs  Anté de ces grnds Roys  De qu Empre e termne  Dns epce dvne eune  Tnt que Bcus emsàs  Ces Roy & eurs usue   Ou pour vous donner de ffre  Vn pus verte rec  T  O  E"
-        ],
-        [
-            "T Et quen eur t ou uttettst  Ayns encor en mn e verre  s furent urpts dvn omme  u dur uques u reue  Et ce fut pour He dre en ommé  Pendntronfe de otme  Que ue qu ne dormoes  Nous ft vn terre trcs  Et pr vne de dude  Se vengent dercde  Crnous emmen L0V5  qu tenot nos cœursreoüs  Ce pus frnc de tous nos Monrques  Dont e gr Pere u cõdArques  Le qutreme des Henrs  Ft mntes femmes ns mrs  J nous rut ce Prnce Hutre  A pene en on deuxeme utre  Et cet à dre en on Frncços  A dx ns uec queques mos  Tnt fn quc chcun entende  Qufn qucy nu ne pretenâe  PFendre Lutre pour vn oreu  An que ferot queque ve  Qu cherchrerore on orgne  De tum en ngue tne  Et pource comme vn on fee  Nynt ps prs que ce oe  2  Sgnfe en frrcon àge  Me pourrot fre quequeoutrge  Et puer que uos de  Que e Mzrn nous rut Roy dvn de es eux fmes Oû vuent es pe fgesfenes23  Amy ecteut eeufe nmo   eeeee e2"
-        ],
-        [
-            "S queque peumue toy  9  Sur ce que Lutre gnfe  Cet que de tout e me defe  Et veut uuer mon pett nom  De tch& de muus renom  Orus donc ee mtos de ue  Qu trop trd de nous e recue  Nous prt notre meeur des Ros  A dx ns uec queques mos  Pr vn rpt qu ufounge  Que e dos à cet homme étrnge  Mertor quvn noe echfut  Le ft vor en Greue de hut  Et quynt tnt cherroe  Sur qu Fortune chcun oue  Là deus vne roü̈e u crt ux Frnços merc  Aunt que donze coups de rre  Dont e eur Guume chmre  Les gens fts comme Mcrn rendt me en Trn  O ns hes pus qu fur rre  En ces ours quon ft gnets frre  Dutnt pus que ce Crdn  Et e fqun du Crnu  O que de ouprs & de rmes  Et que de ngntes rmes  Nous cu ce rpt nhumn  Ft pr ce De de utn  Quee pteue detnée  Nous vnt trouuermtnée  Et nous mt en etrnge rroy  Nous voyns ors pruez de Roy  Fors de ceux ̀ de pos ou feue  De qupunce fort refue  Exprot dns ce meme our  e"
-        ],
-        [
-            "eere  0  L nut de qu fut ft etour  Ce our tnt de oy remrque  Etot( & ce fut à̀ e Dej  Le Moneur Mercredy du pn  Qu defend deme fm  Or fryeur de cette ete  qu mt à tous mrte en tete  Cu vn ouceux hhn  nt dns e mrché de nt en  Quenpce de Muert e  Et dns e reort deHe  S qu y eut en du det  Et memes vn oü̈nt comrt  Ou uques entre cmrdes  Ss donnerent onnes gourmdes  Pour ttrer edt eur pn  A fon prty contrefm  Comme u es és & frne5  Ennems de cette mtne  2j  Teement que comme corpsns  Pr vn nfnté de mns  s furent en mons de deux heures  Enéuez dedns es demeures  De ceux qu es pyerent en  Sns quoy deux on neut tenuren  Ms mgré notre preuoynce  Contrefmeque engence  Nous ne fumes ps for onmps  Quee vnt eger nos dents  Au moyen de ce quemete  L guerreen tous euxmere  Nous morgunt pr terre&epr eu  Mt tour Prs dnsvf rndeu  Ou ocus comme on voudr dre  Teement que pus ren à frre  Ny é́ ny frne ny pn  Ny   2"
-        ],
-        [
-            "2  y chouxny poreuryetu  N heres ny nuetZ ny rues  Nentrerent qu pene à Prs  Donc es Bourgeos fort éuds  Voy ns qus fe ren vn creme Qu nen uot pont eu de memer  Puque deunt e Crnu n  Vry emps de fes &de mettotoredete  Dns eurs pts & ur eur ete  s mudrent pus de centfos  Le mtre ue Cros  Et uy donnerent pueurs ttres  Qu netoyeét ons qù des etre  Et non ps ̀ ce Grnd Romn  Qu tenot eur ort dusnn  s ppeerent fs deput0  Dont e deunt erut de ute  En on pysez onenps  A qu vouut pquer dedns  2  L  s e nommerent entounoutre  Dgme d etre u oudvne pourmre Vn Grçoe vn Cood Cus  Qu fot es femmes coeus  An que prtque àÀ Rome  Ou pourfemme on e hõ̃me  Et pr me utres orquets  Les Mrent en tous upques     Comme dnsMzrnde  Qu net quvne onguerdeo   Lquee ̀ ce te eomr eo e  Rend je cros e nez en cme  Cependnt orsendoue pq  f cherch dnsponquoeen Qe quoy f s e eerun  De ces mednsfns epc  F e e 22    3"
-        ],
-        [
-            "22 ft donc coées pgev Arreter et s&e fromges  Et urprendre tous esconuos  Qu venoyent cy queques fes   Ms mgré oue mchore  Nous eumces toudequoyore  Snon du vn u mosfoeu Fort propre à̀ uérdemeuu  Au mgreé on Emnene  Nous eumes ecor onde?  Des neges greesgçhs  L  Accompgnez de eunsfroos   Contre qu on ft eôrps deorde Où nu mouqune erde  Nentr non de ons ufets  Des pncettesdes henets  Et du os grnde fouue Nentmons dns cete unture  Le mheur ne fut psgrnd  Qu6 neut du oheur qd & qu  Cr de Beufotpo dvnce  Comme ennem de dEhnend  Et e Mrech Houddncour  Qee mt jds hors de Cour  Dont s uy rendet rrpte  Len ynt fortr en poteg  Se vnrent decrerpour ns  S que mgreé ofurrous  s frent venrptesce  Dont eut eootte ndgenee?  Enquoy deBouye 2  Empoyen fo ouc  Que du de pueteds & frns Nous frent cy ones mnes  Et mnts Tonneu preementn Qu pens du osde emeonme me"
-        ],
-        [
-            "23  Vnrent u ecours de nostrognes  Que es eux couuroent de vergo  Les groes & pettes chrs ( gnes  Que donnentterre & es rs  Bœufsgrs veux moutõs&voes  Chpons du Mns perdrs & ces  Aouettes evrus puuers  Et toutes ortes de gers  Que e V de onne mere  Fournt àmeeure chere  Adoucrent nos premers mux  Entre es verres & es pots  Et eur tnce fdee  t que Creme en eut dns e  Et que Crnu ce coup à̀  Fut e pus fort & ceu  S enpu deépre u Ppe  Que on punt Fumen en frpe  Ce ue qu prcherteé  Qu cu dns notre Cceé  Nous ft eer on Ordonnnee  De fre en ce Temps pentence  Et e contrgne en ce Snt An  De sen er u Vtcn  Se purger de ce crme & dutres  Que uy & tous es ons Apotres  Dedns cette guerre ut comms  Et ft commettre ou en perms  Des prophntons deTempes  Des voemens ns exempes  Des meurtres des ccgemens  Des vos des empronnemens  Des morts de fmne cuées  De nos Prounces deoées  Et de me utres pus nors c4s  Que e çs & ne dry ps  eree"
-        ],
-        [
-            "Et dont ce Fou de Cre  Depus que on oeur e cre  S et oueé dns Ltt des Ls  Comme etns nettement dedus  Dns dte Mznnde  Et pueures peces drgrde  Que es Poëtes & Proeurs  Autnt ons que muus Autheu  Ont ftes à̀Segneure  Pourrguednzere  Qu ne donn ms teton  A tous ces mgnons dApoon  Pour tout e cher ng de eur ven  Ny meme vn pcotn duene  A ce tnt renomme cheu  Qu de on ped ft ce Cn  Dont es neuf fes de Memore  Troyent e e or degore  Ms retournons ̀ nos res  Apres es grnds chrurs  Voynt ne pouuor Prs prendr  Comme uot oé pretendre  Et quon uot en Prement  Ordonné on nement  oue pr nouue Arret tres ute  Vent dffrmer ce Corps Augute  Enfnen vnt ̀ ccord  Que e der rdent & fort  De reuor notre Prnce yme  Nous ft trouuer treree  Teement queMete   Nous rempt de fecreé  Aynt puû̂ ors ̀ Emnence  De nous rmenerpreence  Et deogner tous es pndrs  Qu contre nous furent ouds n  L LLLT AL"
-        ],
-        [
-            "n dns es reouynces  Nous perdmes nos doences  Et ce fut à qu pr evn  Cherot e meux on chgrn  Tnt que chcun en on negoce  Ne redournt pus ren drroc  Vqu de meme que deunt  Tous uoent en poupe e vent  AorsDme Comede  Qu setot vn peu refrode  Commeņ de e rechufer  Et ceut f peu e rrfer  Que des pps de on rheâtre  Tout e Monde fut doâ̂tre  Sur tout qund u pett Bouron  A Bourgogne ynt ft fux on  Ee ét on Andromeéde  A tous oucs e vry remede  Et de qu utre eureé  Chrm uqùMete  Ses Prnces & tous peronnges  Qu sentedent ux eux ouurges  Ms quoy de teon ne vodren  Et e Demon Scen  Dont eprt de mereure roue  Comme fortune uroue  Ce Potque chcneur  Trop tot s de notre oeur  Luy ft en vte fre fndre  Pr vn utre nouue ecndre  Dont sdu e fn mtos  En mons de temps que de x mos  e us fort mrry pourgore  De dre f tthon nore  Ms chcunçt commemoy  Qu nen eus ps pett émoy   G"
-        ],
-        [
-            "Et pr m foy ors que y pene  dmre encor on noence  Que d? en y de horreur  Et encor que Thems ns erreur  Pouuot en tres onn utce  Punr du fouet cette mdce  Et meme en utte du fouet  Le nnrn comme ft  Comment empronner cros Prnces  Les tros ppus de nos Prounces  De Condé qu prt on prty  De Longueve & de Conty?  Les fre mettre dns Vncennes  Et comme des crmnes ux genes?  Les trnsferer à Mrcoucy  Et pour es uor àmercy  Pus u Hure de grce  Tnt qu uy pus eur fre grce  Et pr ce coupe ttentt  Se ouer n de Ett  Vryment pour ce on Ermnence  Mertot pourrecompene  Touru mons e fouët commefut  Et detre nny e mrut  Ms en rgeuregtme  Tnt pour uor comms ce ctme  Que es utres forfts honteux  Etot deeder es Ceux  Eu n quà Ancede  Tomer denoe ecde  Deus queque nfme crre  Qu uy eut ré e mueu  Qu pus on m en dt encore  Que cette mechnte pecore  D chen dener vn uorton  Auot rqué contre Gtone  Ce Prnce dvne hute mrque"
-        ],
-        [
-            "Onee de notre Monrque  Et que pour vure en ou  Le ncheruot vouu  Au meme eu que tous esutres  Pour dre ̀ es ptrnotres  Ly fnt uure dvn Pret  Dont on Atee ft ett  Et de Beufort & deMotte  Que des ceunt e vous cotre  Fr qu uot j emoë̈ttez  Comme e vous es y cottez  Ms vouez vous que e vous de  L verté́ uec frnche  Tout et de Creme Prennt  Et conuene & conuennt  Sns qu mnqu de hrdee  e veux quon me coupe m pee  S neut on cu fort en pnteé  Au Trône deMjeté  Ouy e croy qu e fot fete  De e vorCouronne en tete  O e coqun & mpudent  e toteros pus dvne dent  S e pouuos dns m fure  Donner deus t frpere  Ms e us ez en vengé  De ce quen fn on t rngeé  Cr à Deu grce vn Sent ge  T forcé de tournervge  Nous eueu putot tourné  On en erot mons fortuneé  En tcent tu pourtnt ee ete  Attendos tu cette tempete?  Eperos tu ce coup de ped?  Cette de ns pourpeé?  Cette p nte mommere"
-        ],
-        [
-            "Cette rude ecoupetere  28  Cette dechrge de Morter  Que Thems eueft jouer  Penos tu qupreés tes rudes  Et tes ottes rodomontdes  On te ernt de fçon?  Auos tu preueu ce pnço  Ds moy vn peu mon puure ues  qu ux tons n ps es mues  Que penes tu de ce eu tour  Qu toge ̀ vuderCour  Et̀ pont u te pye  Du tour de S Germn en Lye?  Apreent prend tu pour des ns  Ceux qu te trttent de ce s?  M foy ru grtes ton oree  Cr on re oge ̀pree  Scys tuFe du Bou  Pr qu jds etes ont ceu  PHer Ltn ou Grec nmporte ne men chut de quee orte  Cetot toûours ngge humn  Sot que ce fut Grec ou Ltn  Crnet ucun dome  Que ne pue pprédrerout homme  Or uos on y vod e renrd  Pre à toy fn ppert  Ben ttrpe prSgogne  Meme ffront ft pr t rrogne  Et pus encore te ft get  De peur de te entr ger  Ge donc ot de peur que Gue  Ne e ruë ur ton Epue  V vtte & ne reuent ms  Snon pour porter cotterets  Ou putot de venr Cdure  Tu Ae"
-        ],
-        [
-            "9  Tu muguetts dt n e Hvre  Afn de ty refuger  V s te pt pus on cher  De Br pr à t rette eee  Et te vendt demoquette  Ms ds moy nuos tu pont peur  Que es tros Prnces en fureur  Rendns onne & reue utce  A tes excés & t mce  Ne te jettent dnsmer  Pour y prendre vn ouon mer  Ou pr vn pus ute re  Ne te f̂ent metrre en Gere  Afn eon t dgnté  Et ton utre quté  quon ty donn de onnes chrges  e vouos dre des dechrges  Cr qunt ux chrges cet peur nous  Aez tu nous en e à rous net ourg ve ny vge  Qu ne ten donre à me rge  Ms de rechef ge & vtn  S tu veux dns e vtcn  Outu veux à Pnpeune  Vor s y ft eu er de Lune  Outu veux ou tu voudrs  Cet ce qu ne mmporte ps  Pourueu quen repos tu nous es  Per nos ours en egrees  Comme nous ommes à ce our  Que nos Prnces ont de retour  Et quà enue chcunsprete  De fre pour eux onne fete  An qù eur entreée on ft  Beuuns à eux toutenut  Et termnnt tous nos detres  H  4"
-        ],
-        [
-            "Pr feux qu urent uquux tres  Annoncer nos rmemens  Que cuoyent ces Prnces chrms  A qu nous ons fre gore  De ore ns cee & reore  De pus ce mtn Lundy gts  uques u mtn du treps  De ce Mrdy qu prend Creme  Mudt qu nen fer de meme  Et ot uec toy Mzrn  Ché dcy comme vn coqun  Aons donc toy qu net quvn Ae Non pus que ton cheu pege  Fre vn enter Gudemus  Chez e compere Chfemus  Cr y pr trop pré ns ore Et toy ns rnermchore  Trop oüé de ton ntrument  Qu net ux Dmes en chrmnt  Cr fn que en tu entendes  Encor que es cordes tu ndes?  Ce net tours quvn Vng Or çche Meer Pnton  Quees en veuent vn qu entre  uques u fond & uquu centre  Et qu ot dedns en vn mot  Et non nu ong comme et ton ot  on prent de Vee  Prdonnez moy chere pucee  S e ny dt ce mot tout s  Cet quen ces ours ecy tout et grs  FN"
+            "Nous doiuent ſans plus diſcouir,",
+            "De leurs forces nous ſeourir;",
+            "Si bien que la Paix generale,",
+            "Nous peut deliurer de ſcandale",
+            "C’eſt par elle tant ſeulement;",
+            "Que nous pouuons metre au tourmene,",
+            "Le Turc duquel il nous menace;",
+            "France, faites nous cette grace,",
+            "Donnez la Paix à l’Vniuerse",
+            "Contenteous des Lauriers vers,",
+            "Que vous auez deſſus la teſte",
+            "Noſtre Republique ſouhaitte:",
+            "Vous prie & coniure à genoux,l",
+            "que vous luy monſtriez voftre œil doux,",
+            "Et que par vos puiſſantes Armes",
+            "Vous la deliuriez des allarmes:",
+            "Autrefois voſtre Henry lſe Grand;.",
+            "Pour nous teſmoigner ſon cœur frane,",
+            "Nous fit preſent de ſon eſpée;",
+            "Venez donc la rendre occupé́e,",
+            "Par la mains de vos bons ſoldats,",
+            "A",
+            "Lors nous ne redouterons pas,",
+            "e rure ny oue ſon ngeanee,",
+            "ouns ſieounu iue la rnne, u",
+            "Viue cét Empire de Lys,",
+            "Qui rend nos maux enſeuelis.",
+            "EIN."
         ]
     ]
 }

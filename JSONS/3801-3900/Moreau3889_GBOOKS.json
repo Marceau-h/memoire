@@ -1,45 +1,68 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "affiche",
-        "subject": null,
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-07-06",
+        "creation": "1652-07-20",
         "change": {
             "@status": "corrected",
-            "@when": "2022-05-16",
-            "@who": "ZC"
+            "@when": "2022-10-25",
+            "@who": "AB"
         },
-        "titre": "Troisième affiche apposée à Paris, le 19 juillet\n          1651.",
+        "titre": "Troisième arrêt du conseil d'État du roi, portant\n          cassation de l'arrêt donné par le Parlement de Paris, le vingt-quatrième juillet dernier,\n          pour la vente du reste des meubles de M. le cardinale Mazarin, et défense audit Parlement\n          et aux commissaires nommés de l'exécuter.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3889_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3890_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Trosème ffche pposée à Prs e 9 juet 65 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Trosème ffche pposée à Prs e 9 juet 65 Sns LeuSns NomSns Dte menton du 9 juet 65 Lyon Bothèque muncpe322TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsCope de pcrd 3889 Trosème ffche pposée à Prs e 9 juet 65(Sn d) 6 pges Sommton à ServenLe Teer et de Lyonne dvor à qutter Prs dns es vngutre heureset e royume dns hut jours « mpe scéért trître voeur tyrn scrège pertur teur du pucsorcer mgcenppeur monopoeur rdche monstre épouvnte et omne de Juo Mzrn ten renégt et portnsegne de Antechrst » Voà comme es pmphétres font prer e prnce de Condé Vor Avs ux gens de enprose ffche Le prnce de Condé se retre à Snur 66"
+            "TROISIESME",
+            "3I 1001",
+            "Au .",
+            "tieeu, u4",
+            "ARRES T",
+            "DV CONSEIL D’ESTAT",
+            "cr e.",
+            "7",
+            "r",
+            "DV RO Y.",
+            "Portant caſſatiou de l’Arreſt donné par le Parlemeni",
+            "de Paris le vingt quatrieſme Iuillet dernier, pour",
+            "vente du reſte des meubles de M. le Cardina!",
+            "Muain & defenes audit Palement & aur",
+            "Commiſſaires nommez de l’executer.",
+            "EXTRICT DES REGISTRES",
+            "du Conſeil d’Eſtat.",
+            "gVR ce qui a eſlé repreſenté au Roy en ſon",
+            "conſen qu’auprepudie de l’drſl donne",
+            "par ſa Majeſé à Poicdiers du o lanuier",
+            "dernler, Par lequel elle auroit caſſé &",
+            "nnulle l’Arreſt de ſa Cour de Parlement de Pari.",
+            "du a Deembre, & fait res eupreſles defenees de",
+            "ereeute le oficens de ladie ceour qu ſonrrete",
+            "nus dans la ville de Pans pat la violence des rebeles,",
+            "uroient donné par vne continuation d’attentar &"
         ],
         [
-            "TROSEME AFFCHE POSEE A PARS e 9 uet 65"
-        ],
-        [
-            "Troemé Affche Poée ̀ Prs e 9 uet 65 TE pr es vrs & ons LV Frnços Fdees & oens eruteurs & ujets decrée Peronne duROY Pere des Peupes dees eruteurs ufdes Prnces du ng es Enfns & coneruteurs deCouronne & utres ons & fdees ffî cers & utcers Aydes & con fortcee Rnnems mortes de fpe Ceert Trtre Voeur"
-        ],
-        [
-            "Tyrn Screge Perturteur du Pue Sorcer Mgeen P peur Monopoeur Brdche & Montre epouunte & o mnede uo Mzrn t en Renegt Portnegne de An Chrt & des res nom mez Compces Adherns & Fu teurs dceuyJL et enjont ̀ Servent Lyoh r eene e ne euonene vuderve de Prs dns vngt qutre heurs eor n pres du Royume Afn que do eounts eu ot eruy dore & honoré en y retnt pr toutRegon Chretenne Lv non eternee de eurs Metez uee edts Prnces du fPx"
-        ],
-        [
-            "Px genere tnt derée des Prn ces &du povre Peupe (empechée pr edts Servent e Teer & de Lyonne) eut ougement & Fé̂pose & fnemet que eo e deutce pue reure que depusonempsefté pres que tout à̀ ft écype Le tonut pr yrnne & voere dedrts Mzrn Servent de Lyomee eer qu e deréne qe e Troueperte des Prnces & du Royume Et ̀ fute de ce fre Leur et decré pr edts ons & fdees Frnços qus y empoyeront e peu de en qu eur rete jonct à eurs forces nturees epernt & seurnt deBonté Dune des forces urnturees pour vngerque ree uec yde confort & on"
-        ],
-        [
-            "cone dedts Prnces du ng pour purger Ett & couper rcne à tous ces Montres nfer nux eeus & utres Fcton nres dudt mpe ceert trî̂ tre voeur tyrn crege per turteur ennemy du Roy & de Ett Mgcen orcer ppeur monopoeur educteur rd che ougeron renegt & men tre nferh Mzrn"
+            "8",
+            "mplement, ainſi qu’il appartienda par raiſou,",
+            "FAIT au Coaſeil d’Eſtat du Roy, ſa Majeſté y",
+            "eſtant enu ai’onhiſe le vingehuit luileusj",
+            "Signé DE GVENEGAVD,",
+            "A PONTHOISE.",
+            "Chez Iulien Couraut Imprimeur ordinaire duRoy.",
+            "o e",
+            "uu2"
         ]
     ]
 }

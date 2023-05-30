@@ -2,53 +2,169 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "récit",
-            "relation"
+            "narration",
+            "récit"
         ],
-        "subject": [
-            "Siège",
-            "Montargis"
-        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-04-07",
+        "creation": "1652-07-20",
         "change": {
             "@status": "corrected",
-            "@when": "2022-07-08",
+            "@when": "2022-09-27",
             "@who": "AB"
         },
-        "titre": "La relation véritable contenant la prise de la ville et\n          château par force de Montargis par l'armée de Son Altesse Royale.",
+        "titre": "Relation véritable contenant la sortie par force du duc\n          d'Épernon hors la ville de Dijon, avec le siège du château de ladite ville par les\n          habitants d'icelle.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3184_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3186_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L reton vérte contenntprse deve et châteu pr force de Montrgs pr rmée de Son Atesse Roye Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Reton () vérte contenntprse deve et châteu pr force (sc) de Montrgs pr rmée de Son Atesse Roye Prs Jen Brunet 652 Munch Bothèque de Étt de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs384 Reton () vérte contenntprse deve et châteu pr force (sc) de Montrgs pr rmée de Son Atesse Roye Prs Jen Brunet 652 8 pges Rreprose réct reton Sège MontrgsComt de Beneu 657"
+            "RELATION",
+            "VERITABLE",
+            "CONTENANT",
+            "La ſortie par force du Duc d’Eper",
+            "non hors la Ville de Dijon",
+            "Auec le Siege du Chaſteau de ladite Ville, par",
+            "es Habitans d'icelle.",
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë ſaincte Anne.",
+            "M. DC. LII."
         ],
         [
-            "LA RELATON VERTABLE Contenntpre deVe & Chteu pr force de Montrgs Pr Armée de Son Atee RoyeA PARS Chez EAN BRVNET ruë Neufue Sncte Anne M DC L"
+            "3",
+            "Relation veritable contenant",
+            "ſortie par force du Duc",
+            "d’Epernon hors la Ville de",
+            "Dijon, Auec le Siege du",
+            "Chaſteau de ladite Vlle, par",
+            "es Habitans d’icelle.",
+            "Q* Epuis la priſe du chaſteau de Tal",
+            "l ie oereneiee",
+            "fe ainſi qu’on leur auoit promis, lors",
+            "qu’il fut aſſiegé par le Duc d’Epe",
+            "o, ſuiuant les ordres du Cardinal Mazarin.",
+            "Les habitans ont touiours gardé vne haine",
+            "particuliere contre luy, & qui s’eſt encore aug",
+            "entéce, en ce que ce Duc a voulu de ſon autho",
+            "ie priuée, & auec la force faire é́lire le Procu:",
+            "Ieur General du Roy au Paslement, pour Maire",
+            "de la Ville, contre la couſtume de tout temps",
+            "e e e eie"
         ],
         [
-            "3 LA RELATON verte & contenntpre deVe & Chteu de Montrgs gON ne pouotps douter que preence de Monher e Prnce neft ̀ onodqueqne effetv Q gnceveur &ge condute nous promettoeut rouoursqueques heureux premces des uts que nousen eperons dns eurmturté Au tot que ce Genereuxprnce futtrue ce fut à vter es deux rmées à ethruonne ntegen ce entte es Chefs encourger es Sodts & emr queres pots & es heux es pusduntgoux ynt donc ugé à propos de e r deve de Mon rgsenuoy ommer es Htns dee rendre ms etntpuprpuornezpnes nregences &foureresu Cdne dzn &ntmez pr"
+            "4",
+            "es oniuet la lienne au Parlenent.",
+            "Le Due d’Epernon en ſortit voyant la Ville",
+            "rmeée contre luy, fortifiée de quantité́ de No.",
+            "eſi: & gens de guerre de la Prouince, tres",
+            "nal content de ſon gouuernement, ſe ſouue",
+            "nant de ce qu’il a fait en Guyenne à ceux de",
+            "Bordeaux, ce qui a eſté́ cauſe qu’il a eſté rap",
+            "pelé & mis Gouuerneur en Bourgongne, ou il",
+            "eſt autant hai qu’en Guyenne. II s’eſt retiré à",
+            "Chaſtillon ſur Seine, où il attend les ordres du",
+            "Roy ſur ce qu’l aura à faire.",
+            "Cependant les troupes leué́es aà̀ Dijon & en",
+            "Prouince, aſſiegent ce Chaſteau, bien re",
+            "ſolues de le prendre & de leraſer, pour la gran",
+            "de incommodté́ que la Ville en reçoit, com",
+            "me eſtnt vne lunette dangereuſe & trop pr0",
+            "che, & qui oſte la liberteé aux habitans de ſe",
+            "pourmener de ce coſté. là.",
+            "Le Comte de Bouteuille qui commande à",
+            "Bell Garde, pour Monſieur le Prince de Con",
+            "dé, s’eſt voulu oppoſet au razement de ce Cha",
+            "ſteau, reſolh par ceux de Djon: diſant qu’ilap",
+            "partenoit à Monſleur le Prince, comme ’ayant",
+            "par engagement.",
+            "Mais il luy a eſté́ reſpondu, que leshabitans",
+            "ymoient mieux rembourſer Monſieur le Pria.",
+            "ce de l’argent pour lequel ce Ehaſteau luy etoit",
+            "engagé"
         ],
         [
-            "e eur Fure Gouuerneur qu setot etté́ dns e Ghteu qu commn de àVe uec qutre cens homes s frent repone qus ne e rendroent pont & qus etoent eous de e defendre Ce que Moneur e Prnce ynt pprscommnd à Moneur e Due de Nemous de fre uncet fes trôoppes & es ynt encore vne fos ft ommer & perctnt ds eut opntreté s furent men cez du pge ss e foent prende pr force & de ft on fettre en tete hué poedes de cnon eques ̀ eur premerodéchtge ouunterent te e ment nos Htns qus tntent cone entreux Et en utte ynt demndé́ ̀ prementer s e ren drent & receurent es troppes de rmée de dte A R Ao uot e Gouuerneut ynt eté́ dury de eur reoutôn e u uecpus grnde pr e de es gens excepré quequens qu prrentoc con de à de prendre prty dns rmé́e de on Atee Roye Ce pote fut renmrqué́ conder e etnt urrvere de Lore & peoche du C n de Brrre en oete qu et fort duntegeux ànos trouppes Cr encore que quequestrouppes du Crdn M zrn fuent peées à Genurot tououts fu quees euent psé e Lon& à Montrgs pour venr à Fontne eu n qus uoent premedté Ms eur deen et rompu de ce coté S en que on dt que es trouppes Mz rnes ynt pprs cetre expedton repseérent en vte"
+            "3",
+            "engagé, & de le eontenter, que de ſouffrir ſa",
+            "nce, pour le grand dommage qu’ils en",
+            "receuolent, & pour le bien &ſeureté de leur Vil",
+            "le, ce qui luy fait voir que l’ayant pris, ils le fe",
+            "ront rafer. De quoy le Comte de Bouteuille",
+            "eſt reſolud’en eſcrireà Monſieur le Prince, &",
+            "cependanta prié les habitans de ſurſeoir le raſe",
+            "ment de ce Chaſteau, s’ils le prenoient par ſiege,",
+            "uſques à ce qu’l euft receu ſa volonré & les",
+            "commandemens, ce qui luy a eſtéaccordé.",
+            "Dé́s le huictieſme de ce mois de Iuillet ce",
+            "Chaſteau eſt aſſiege. Le Marquis d’Vxelle Gou",
+            "uemeur de Beaune, par ordre du Duec d’Eſper",
+            "non a leue quelques trouppes de Caualerie,",
+            "&d’Infanterie pour ioindre aux ſiennes, & aller",
+            "ecourir ce Chaſteau.",
+            "On croit que c’eſt la cauſe pourquoy le Roy",
+            "eprepare pour aller en Bourgogne, en reſolu",
+            "tion de chaſtier ceux de Dijon comme rebe lles,",
+            "& d’empeſcher la prſe de ce C aſteau. Mais il",
+            "eſtà raindre que la Prouince deſia mifſ",
+            "ctionnceau Duc d’Epernon, craignant d’ſtre",
+            "e theatre de la Guere, n’ſſiſtent puiſſammene",
+            "cux de Dijon, & ne les ay dent à prendre promp",
+            "temoat ce Chaſteau, & cela eſtant, l ſt ſans",
+            "doute que nonobſtant la parole donnée au Com",
+            "ta de bouteuille, ils ne le raſent, ſans artendre"
         ],
         [
-            "vte e pont de Gen pou y fre vn eu denée &sy fortfer Les Bourgeos ynt ndonnéVe & mporté́ ce qus uoent peu de eurs ens &meues Cr oû pent tes gensnypus ren à vndngeren quon peut vor mntennt que s res d Crdn Mznn vennent ̀ eur pero de ne chnt pus de qe oté tenter chemn eu é́ pourvenr en deç & ne trouunt ps uoup pus de eureté de de ̀ Cr e croy que vou uez pprs pr rtque de Gerju ecnmme moncur de Suop es pouruunt vuement & ynt gngné eut ucdes eur ft qutter e fu oug deS Denys & enutte es pouruut ur eur font uques ux portesde v e ousetns veuschudement pour uus s furent ontrnts de nte deperte de tu Ve dtre vne rthe du pont de eur oteé Ce que nos Gens ynt veu & ne pouunt per pus outrte s n tomp en vne e enr cote & ret Crdn zrn n pus de pge non pus dt e cotéQue que v s roye t qu fer pe n de àCourtome vrs Lon ms e ny r uue ps qu y t euu p de euép u uy pmee que ess fortes ut eChevnqu peu ntdfendre nten reouon de npentree uonnées pr xeu pe de Bosoû exreé des uutz t ns e mpo pres eunuot tuper uoute ore de on utucmenu fs en qu nyeu eu out qu e ve pus her poe Anr ou nn"
+            "nouuelle de Monſieur le Prinee; ce quji aſſeura",
+            "Jeur Ville contre eeux qui la voudrojecaſſie",
+            "ger, ’ayant plus ce Chaſteau qui ſeuiroi",
+            "grandement à̀ la battre, comme eſt la relolujap",
+            "du Due d’Eperuon, ee qui poaurroi rriurſi",
+            "e Roy ſtoit en Bourgogne. C’eſt ce qui firque",
+            "es hbitans de Dijon battent furieuſement ce",
+            "Chaſteau, & s’eſtant puiſſammen; retranchee",
+            "deuant, & dreſſé des batteries ſur les mgrailles",
+            "de la Ville qui regardente Chaſteau, pour tirer",
+            "ur ceux qui voudroient entreprendre de forcet",
+            "eus retrnchemens.",
+            "Ceux qui ſont à ce ſiege ſont dautantplus.",
+            "encouragez, que la Ville leur enuoye pain, vin",
+            "& viande en abondance, d’heure à autre, &",
+            "ont ſouuent rafraichis de nouueaux ſoldats,",
+            "pendant que quelque Caualerie qu’ils oat faite",
+            "t la campagne, pour empeſcher le ſecours",
+            "que ledit Marquis d’Vxelles pretend y con",
+            "duire en perſonne. Mais les retranchemens",
+            "ont ſi bien gardez & munis de redoutes, qu’il",
+            "eſt bien diffiile de les forcer, à moins que de",
+            "en perdre des hommes, reſolus de mourlr",
+            "pour leur ſeureté, puiſſant aiguillon, qui fait",
+            "meépriſer les dangers, la mort meſme, comm",
+            "es exemples de pluſieurs ſieges de Ville le font",
+            "connoiſtre, qui ont combatu iuſques à l’extre"
         ],
         [
-            "6me e Ce uy prepre vn ute chtment & qupres setre eruy de uy pout chter es peupesfer comme e on pere de fme qu ette es verges dns e feu qund es enfns ont profté de es correctons Lrmée de on A R et m̂ntennt ̀ Montr gs & e v jondre à cee que Monfeur de Beufort commnde e croy qu ont en reouton der à Gen cr e Crdn Mzrn ynt pprs que es trouppes de oneur e Duc de Lorrne vnç̧oent fort set reou de ne es ps ttendre voynt en qu nen urot pson mcheéen qu tente r e ort dvn comt pour ouë̈r de on rete & s y etot u heureux comme u Hoc on en pour rot pprehender ueë ms nos gens ont en d poez à e receuor ou es trouppes pour uy Crnyps dpprence qu y venne en peronne Tout ce que e trouue detrnge cet qu fe que vne genereue Nohee Frnçoe e veé́rer eur ng pour ce fqun & qu ne e trouue pont que quvn upres du Roy pour repreenter àMetéperte quee v fre ot dvn coté ot de utree pount en ce tencontre eperer que du dommge & poemort de es pus rues Generuxt Cr qund es Pences ce qù Deu ne pe uroent du dé́chet s çuroent touors en e renoüer tot ou trd & e Crdn Mzrn vctoreux erot tou jours en ute à̀ eurs enfns & u peupe u eu que ce Mntre etnt ̀ s tout et etouffé́ dnsper te Auet à crore que Deu à qu tout et preent enordonnerutrement & quvn mon dnnocens quont deunt uy demndnt vengence des mux qus ontoufferts prtyrnne ttreront on re urtete & qun tous es peupes eront de urez dee Tyrn qu nous ft tcy reentr es tros eur peteguere &fmnecourtu vn rut qus e ont decrez à̀ Tou oue pour onR Ctencor vn pge de con equence pour eurs deens & vne Ve qu donne rerne à eucoup dutres & certesetot à̀ ouhtter que toutes es Ves fent e eme Cros que égré des forces e rencontre cet ce qu ft durerguerre &tout e derot dvn co éfudrot ne cerement que e pty pus foe pt oy du pus fort Cet ce qu nous deurot n cterà fre vne vnon gener pour extermner u theurde nos meres &toutes es Communes des pys que ce Tyrn rmne e oueuoent on ven drotheot à out de uy & ne ouffcroent psongtemps msnypont dntehgence entre ous & nteret eu rompe es vnmon es puseŕes àfn toutesfos es peupes ez eront con trtnts de e etter dns extremté & de defendre eur pn ms e crns que ce ne ot trop t d Nous ttendons cy vn Courrer ur queques nucts qu courent de queque comt que on dt"
-        ],
-        [
-            "donné́ ms on ny doute ps encor foy t tendu qu nen et venu ucunc nouuee à̀ on A tee Roye Dtu vee que ce ot ̀ untge du Roy deEtt & à honnur de on Atee Roye qu n utre ut que nteret pue FN"
+            "7",
+            "mité pour la deffenſe de leurs murailles, &",
+            "meſmes quelquenes, comme Numance &",
+            "Cartagene en Eſpagne, eſtant aſſiegé́es par les",
+            "Romains, aymerent mieux ſouffrir toutes les",
+            "extremitez de la guerre, & enfin reduites au",
+            "deſeſpoir, allumerent des feux par toute leur",
+            "Ville, & ſe ietterent dedans auec leurs richeſ",
+            "ſes, plaſtoſt que de ſe rendre à leur ennemis",
+            "& ſe voir eſclaues, tant a de pouuoir la force",
+            "& la necefſitédu deſeſpoir en des hommes cou",
+            "ageux, & reſolus à tout ſouffrir, pour ſe con",
+            "ſeruer contre les ſoldats, auides de pillage &",
+            "de butin.",
+            "FIN."
         ]
     ]
 }

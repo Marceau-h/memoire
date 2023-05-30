@@ -1,83 +1,184 @@
 {
     "entête": {
-        "form": "vers",
+        "form": "prose",
         "genre": [
-            "poésie",
-            "burlesque",
-            "satirique",
-            "récit"
+            "récit",
+            "relation"
         ],
-        "subject": [
-            "Scarron",
-            null
-        ],
+        "subject": "Mazarin",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-06-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-28",
+            "@when": "2022-07-05",
             "@who": "AB"
         },
-        "titre": "Relation burlesque véritable de tout ce qui s'est passé\n          dans la Fronde de Paris jusques à présent, envoyée au cardinal Mazarin par un provincial,\n          ou Histoire burlesque du ministère et des disgrâces du cardinal Mazarin.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-11",
-                "#text": "11 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-03-30",
-                "#text": "30 mars 2021"
-            }
-        ],
+        "titre": "Relation contenant ce qui s'est fait au conseil tenu à\n          Melun le 3ᵉ juin 1652, et la résolution prise par le roi et la reine pour l'éloignement du\n          cardinal Mazarin hors de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau3094_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3095_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Reton uresque vérte de tout ce qu sest pssé dnsFronde de Prs jusques à présent envoyée u crdn Mzrn pr un provnc ou Hstore uresque du mnstère et des dsgrâces du crdn Mzrn Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté févrer 202 30 mrs 202Pu Scrron Reton uresque vérte de tout ce qu sest pssé dnsFronde de Prs jusques à présent envoyée u crdn Mzrn pr un provnc ou Hstore uresque du mnstère et des dsgrâces du crdn Mzrn Sns LeuSns Nom652 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y44TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsMême pèce que \"es Estrennes uresques\" 3094 Reton uresque vérte de tout ce qu sest pssé dnsFronde de Prsjusquesà présent envoyée u crdn Mzrn pr un provnc ou Hstore uresque du mnstère et des dsgrâces du crdn Mzrn (S652) 4 pges Même pèce que es Etrennes uresques de M Scrronetcvers poése uresque strque réct Scrron"
+            "RELATION",
+            "CONTENANT CE QVI",
+            "s’eſt fait au Conſeil tenu à",
+            "Melun le troiſiéme Iuin 1652.",
+            "en la reſolution prinſe par le",
+            "Roy & la Reyne, pour l’éloi",
+            "gnement du Cardinal Maza",
+            "rin hors de France.",
+            "A PARIS",
+            "CHEZ LOVYS HARDOVIN, ruë S. Victor.",
+            "M. DC. LII."
         ],
         [
-            "RELATON BVRLESQVE VERTABLE De tout ce qu set pé dnsFronde de Prs uques à preentEnuoyée u Crdn Mzrn pr vnProunc OV HSTORE BVRLESQVE du Mntere & des dgrces du Crdn Mzrn M DC L"
+            "RELATION CONTENANT",
+            "ce qui s’et fatt aa Conſeil ten à Mels",
+            "e roſme Iuia é5a. ens la reſoltna",
+            "priſe par le Roy laReyde paurl’éi..",
+            "ement da Cardlnal Maeaarin hod d",
+            "nœ.",
+            "J Aneceſſité eſt vne forte piece puisqu’e",
+            "LLle commande aux Grands & aux petts",
+            "& lcsublige à des choſes qui ſont ſouuentee",
+            "qs bieneſſorgnées de leur iatentip o?",
+            "onté pour preuenis delsgands mnaux;c,",
+            "JVseſt veuau occurrnce du preſnt &dan",
+            "faauqeb ſoaue uiourhuy la, Fran",
+            "cerauailléodvnodangsauſgueeciuila1",
+            "ceſe palamalhusenxleſeins du Ca,d",
+            "diual Maaia.",
+            "Caone la uine & la miſere ſt co",
+            "une, & generale par poutes leProuincesd,",
+            "ume,les peuples contraints dabado",
+            "necr les lieux de leur demeure, & la campagn,",
+            "nǵtedesdeſſolusudes âtange"
         ],
         [
-            "3 RELATON Bureque verte de tout ce qu set pé dnsFronde de Prs uques à preent Enuoyée u Cr dn Mzrn Pr vn Pro >unc OVHtore Bureque du Mntere & desdgrces du Crdn Mzrn MOnegneurvotre Emnence  Depus quee et orte de Frnce  N pont eu de ettres de moy  Ce net ps pourtnt pr m foy  Que e nye mnte enuence  Monegneur pour votre Emnence  Ms s depus e ft our"
+            "4",
+            "& non iamais veuës parmy nous, ny de l’aâ̂ge",
+            "de nos Peres, les Armé́es ne pouuant plus vi",
+            "ure ny ſubſiſter, pricipalenent celle des Mà",
+            "rms qui perit de iour aà antre a ſiog d’E",
+            "ſlampes, & dans laquelle les malahs te",
+            "qantes dessoldats mal nouris ;& fatiggé́s",
+            "par les ſosies quhoateſteé faites depuishuict",
+            "ours des gens de guee qui ſondans la",
+            "ville, qui diminuent & affoibliſſent telle",
+            "daie Camp,affamê &e haguiſſane dfain",
+            "& deſoif, n’ayans autr oauë que celle qui .",
+            "etapprtée de loia dans des tonmeaux, & qui",
+            "e en aux eldosjcdlafa ctpirb quudanl",
+            "ćteſtatelſtlera nalement cotrain à del",
+            "dmper & leuer le ſiege.’",
+            "Dlailleuts l’arrue de l’Amaé dp u del",
+            "Lorrlßpouf le’ ecous eilaoesl&tfen0",
+            "forcecelle du Rdy’ils combmadnto4?",
+            "tre celle de ce Cardinal, le fairapprhender?",
+            "vne tenauuiſe lfude ees mahuiteuſes",
+            "tetentiohs, ne pouuant pasroſiûto à at dé",
+            "frces vies contte lûy; & ien reſous deſe",
+            "pfouiſuiure d ilſeta.",
+            "Ca eſfté loſuſeé du Graaeoaſuiue?",
+            "t"
         ],
         [
-            "4  Quee ft ge deCour  y touours eté en detree  Et us preque mort de trtee  Sns quoy vous çurez Monegneur yongtemps moon creue coeur  Et que depus votre orte  Au dey ft rotye  Nyy dormy quenuct  Dont e ny ps peu de dept  Hestout e our e ngotte  Comme vn fo qu et ns mrotte  Et ce qu me true pus  Cet que dppett e ny pus  Et que qutre reps me ent  Comme cheuux que courrers pent  ugez en que ett en us  Et s pourrot mrruer ps  Cependntfut que e rete  Prmy gens mechns comme pete  Prmy gens qu ont enrgez  De ce que vous eur echppez  Et qu voudroent ns mpoture  Pouuor mnger votré freure  Et pus eruez des Potentts  Qu nont que des ujets ngrts  Des ujets dont ngrttude  A expué m quetude Pr"
+            "S5",
+            "tnt Lundy demier troiſiéme Iuin àMelun, ou",
+            "la Courſeiouina, pout aduiſer aux moyens",
+            "pour terminer cette guerre, & de mettre la!",
+            "Franceenrepos.",
+            "Et comme le Roy & la eyneſçaueattres 9",
+            "en que ntehtion des Ptinces & de ceux l",
+            "quiles aſitenret dene poſer les me que.",
+            "parvuepaixgenerale, ferme & ſtable qu’ils",
+            "demandent, cela eft eauſe de la reſolution",
+            "pinſe parleurs Maieſtés en ce Conſeil, d’obli",
+            "ger le Cardinal à ſortir du Royaume au plù",
+            "toft; reſolutio qui ne s’eſt pinſe qu’apres:",
+            "eaucoup de difficultez, que leurſdictes Ma",
+            "jeſtés troauoient en l’éloignement d’vn tel",
+            "Miniſtre,; qu’elles affectionnent comme par",
+            "contranctes, pour les auoir comme furprin?",
+            "es par ſes arfices & mauuais Conſeſls léuir?",
+            "mettant en I’eſrit que Meſſieurs les Princes!",
+            "omt de maunaiſes intention; & que l’tab1",
+            "court riſque deſe perdrepar la guerre u’ils y",
+            "entretennent; ſans faire reflexion fur’ctte",
+            "verité ſi cogneuë, que luy ſeol ’eſt le ſujei",
+            "de cetre’guêrre; & que les Pninees ſans s",
+            "meſthlansConſeils, n’euffent iamais prins le",
+            "B",
+            "2 c"
         ],
         [
-            "5  Pr des comptes à dormr de out  Qu pouent m ptence à out  Fns de votre gnore  Epouunte Rere  Et trttns vous & vos nepueux  Commevous etez des gueux  uqu dre que votre rce  Net pont du tout des Roys de Thrce  Ms que votre yeu chppeer  Etot frere dvn couteer  Et qun votre ee nepce  Netot pont du tout vne pece  Pour Moneur e Due de Mercoeur  Frere dvn Prnce de grnd coeur  Qu premerfrondé en Frnce  Et qu fronde encoroutrnce  Qund quequvn pre de proüee  Vous ués déeé Gonnee  Et certes ce grnd Crdn  Serot (dn) grnd gener  S qundveut srmer en guerre endoot e Cmeterre  s dent que pour dompter Bourdeux  Vous monttes vos grnds cheuux  Ms que pr tres ute Neptune  Au en quàdeme une B"
+            "mes, ’eftaat la ſeule cauſe pous laquelle ils,",
+            "es ont prinſes, & afin d’oſter. le Roy de la:",
+            "ubjection oùſa Majeſté ſe void ſous le gou",
+            "uernément de ces maeureux eſtranges,",
+            "qui eſt tout ſon conſeil: car il eſt aſſeureé que",
+            "es Princes du Sang intereſſez plus que tous",
+            "utres aà̀ conſeruer la perſonne deſadite Maje",
+            "ſté, veiller à la deffenſe de ſon. Eſtat conre.",
+            "es mauuais deſſeins de ſes enqemis. qui eſt",
+            "tout leur plus grand intereſt & la plus noble.",
+            "gloire qu’ils pretendent remporter en tout",
+            "leur procedé, n’y ayant que ceux quiſont e,",
+            "nemis jurez de leurs perſonnes & qualitez, qui;",
+            "es ont mis mal enuers leurs Majeſtez, afin de.",
+            "lesperdre s’ils pouuoient en ſe ſeant pour",
+            "cét effet dunom, de l’authorité & des armes,",
+            "du Roy, qui a l’ame trop. bonne pour laiſſer,",
+            "uccomber ſous les effets d’vn tel Miniſtre en",
+            "nemy de la France, les Princes de ſon Sang,",
+            "quiſont les bras droits de ladeffenſe deſa pe",
+            "ſonne, & les baſſes ſolides & aſſeurées du fon:.",
+            "dement deſon Eſtat.",
+            "Les effets de ce que deſſusſe verronut ſi tan.",
+            "eſt queMazarin abaudonne la France, cadés."
         ],
         [
-            "6  Vons futes f fort rgoué  Que regrettez dy etre é  Qvn Boüon méchnt comme vn cncre  (Monegneur) vous ch e ventre  Et vous cu vngrnd fus  Que de Boüon ne vouez pus  Que dt on de votre Bte  Qu uy fot des funeres  Et non ps en fre des feux  s vous nomment ues e Preux  Et ffn que votre Emnence  Voye uque où v eur noence  Vocy ce qus content de vous  Prdon Monegneur à genoux  Hume prdon e vous uppe  S e vous ecrts eur foe  s dent vryment e Mzrn  Etot encor vn o Fqun  De vouor prendre ns mtne  Ce grnd Mrech de Thurenne en retourn tout pompeux  Ms m foy e trtre orgueeux  Ne çuot ps quvn coup de Fronde  Renuere ouuent te qu gronde  Et que pour e rue Condé deuot etre enfn Frondé  Vo commentrere"
+            "ntanr deſoeleoigement, c ſront Meſ",
+            "ſieurs les Ptinçesquiles premies trjuaillcront:",
+            "pour metrre le R oyaume enreps, qui poſe",
+            "ront les armes, rmsorant ainſi fin à ceteofuneſte",
+            "gerrepar la Paix generalle que ſa Majeſté fe",
+            "ra auec eux, où l’on verta le, Siecle d’Or qui",
+            "rendra la France heureuſe, riche & abondan.",
+            "te par vn temps deſireé calme, dans lequel le.",
+            "Royaume fleurira, la Iuſtice & les Loix re",
+            "prendront leurs forces & leur vigueur, laNo",
+            "bleſſerentrera aux priuileges qui leur ont eſteé",
+            "tant de fois diminuez & alterez, viuront en",
+            "paix auec leurs ſujets, & ne conſpireront que",
+            "pour rendre toutſeruice & fidelité́ au Roy, à̀",
+            "quoy leur naiſſance les oblige, ainſi le pauure",
+            "peuple rentrera en la jouiſſance du repos que",
+            "es troubles leur auoient fait perdre. Les Mar",
+            "chands veront le reſtabliſſement du com",
+            "merce auec les Eſtrangers, que la guerre",
+            "uoit rompu, & dont la priuation duquel",
+            "depuis tant d’années, ils ont ſouffert de",
+            "grandes pertes: Les Impoſitions n’aurons",
+            "plus de cours, puis que les pretextes de le",
+            "uer ſur le peuple, ſeront oſtez à la confu"
         ],
         [
-            "7  Donne ur votre frppere  Pourtnt (ce dn) Mzrn  Et dement rué & fn  Cet m foy vne fne ete ft en vn coup detete  Qund mgré e pere concrpt nous ft vor on grnd credt  Vers Br qu uy ouurtporte  Ms qu refu on ecorte  Dutres dent voyez vous ns frd fut fn ms vn peu trop trd  Cr prés toutPreture  Et pourtnt en deconfture  s font courr eut quà Coogne  Auez ft en onne eogne  Quon verr en tot vos expocts  Dvne utre mprefon que de Bos  Dns que à mprmee  Pe en fortrere  Ouy (dt utre)fer eu vor  Les effets de on grnd pouuor  Le ruement de Brouee  Qu en er ee prcee  Et que rrcdes à foon  Concherent tout ce frnc oyon  On verrpre de Npe"
-        ],
-        [
-            "8  Qu per pour vn mrce  Tout comme cee de Cmry  Auecgrde de Courtry  Que s y pre de Cremone  Moeu que ce Fs de Beone  Y ur ft de rres expots  Qu y ur perdu de Frnços  Etnous deuons en tous crore  Que nous y verrons àgore  Les ecours donnez à Longon  A Pomno & à Mouzon  L fmeue pron des Prnces  Dvn Condé preneur de Prounces  Dvn Prnce qu dns es comts  Le Sre en mn met tout à s  Lutre jour vn Toüud Rutque  Mord me fntNque  (Cetot vn Mtre Chrpenter)  e donne vn pt de mon meter  (Me dt ) pour on Emnence  Vount prer dvne potence  Son cmrde u rut  Vous vouot encor en du m  Crdot (voyez nfme)  Quon deuot vous mettre àRme  Et non ps vous er er Quon"
-        ],
-        [
-            "9  Quon vous urot ft etrer  Pr queque vgoureux Comte  Ben ntrut de votre merte  Voyez Monegneur quet ce  Cependntnypont dho  Et fut er prer e monde  Autrement vn chcun vous fronde  Poncette cre n Mzrn  Lors chcun veut etre prn  Et on ne vod peronne en Ruë  Qu ne cre u tot tuë tuë  An es votres fns doux  Sont contrnts de vous rener tous  Et pour eprgner e ctere  Lchent eur peur pr e derrere  Vo Monegneur ce quon dt  De vous & de votre credt  Msfut que votre Emnence  Sçche tout ce quon ft en Frnce  A Prs prncpement  Où ces demons du Prement  ncemment vous vpendent  Et cros que vous perdte s pretendent  Cr s ont dt pr eur Arret  Aynt ceu que vous etez pret  De reuenr mgréfronde  Mgré es Prnces & tout e monde C"
-        ],
-        [
-            "0  Quon vous couperot e gozer  Comme on ferot vn rn dozer  Et meme ont proms recompene  A qu tuër votre Emnence  Aynt ms votre tete à prx  Et proms meme prds  Au meurtrer & àrce  De peur quon ne vous ft de grce  s ont dt encore de pus  Que vos ures eront vendus  Affn queomme ot prete  Que ne ufnt pour e rete  Lon prendr es ens conffquez  De vos dherns demontez  Pr cet Arrt qu es condmne  Nen doutez pont cr Deu me dmne  Ss ne vous ndomnnent tous  Autnt deux que de Louprous  A propos tous es pyns  Gens de utce & rtns  Grnds petts ges ou non ges  Douent vous ttendre ux pges  Pour echner vous & vos gens  A quoy des hommes ntegens  Douent tenrmn de orte  Que ny vous ny votre ecorte"
-        ],
-        [
-            "Ne pués pus vne utre fos  Venr u gteu de nos Roys  Vo tout ce que Arret porte  S e ments e De memporte  Son Atee Roye en chre  Dont e ny grde de me tre  Se ft porter u Prement  Pour vous fronder pus rudement  Cependntnyremede  Qund meme Monour Archmede  Retournerot pour vous venger  Lon ne pourrot psrnger  Etnt mée de tout e monde  Enecor pus depus quee fronde  Pendnt que du rue Condé  Vous etes dutreprt frondé  Chcun pre Deu qu es ene  Que net(dn) pn dépe  Affn de pouuor e mnger  Mzrn ce chen dEtrnger  Vo ett de toute choe  Certes grnde metmorphoe  Dont pueurs ont mout etourds Ao modo éourds  Qunt à moy ugezenfge ?  Monegneur voynt tnt doutrge"
-        ],
-        [
-            "2  Se fre à vn tres grnd Pret  Qu ne pe que pour grnd Ft  Cet tout ce que e pus vous dre  Ou putot (Monegneur) ecrre  Vous prnt uec tout effort  Cet à dre (Monegneur) en fort  De crore que votre Emnence  N ucun de m corpuence  Qu vous ot pus ffectonné  Ny Monegneur pus ponné  De pouuor vous uuerpnce  En dept de touteFrnce  Et vous fre vor dez es Le fu fre uourdhuy  Sot dns Coogne où à Myence  Que ë vous yme à toute outrnce  Puque donc ttes eurement  e vous honore dement  Ftes Monegneur e vous pre  Et ce ns hezter me  Que e reçoue promptement  Queque rue commndement  Fue der uquà Lorette  Vous y per vne toette  e vous eure Monegneur  Que comme deus de on coeur"
-        ],
-        [
-            "3  e us Monegneur à outrnce  Seruteur à Votre Emnence Jouos à votre EmnenceQue depus peu en dgenceEt prty e Grde des SceuxQu sen v pr monts & pr vuxAuec Moneur deVeueMnque de eurté dnsveSs nont vouu precpterPour ne vous vor decpterPueurs cy remüent mengeQu pprehendent e rugee veux dre Monegneur tous ceuxQu e entent vn peu reneuxSouçonnez de MzrnmePus dngereux que rhumtmeCr pour e mons et prs u crnCeuy quon cre u Mzrn"
-        ],
-        [
-            "4 Lon vos mnteux verdsDouez de Rouge à enuersVos onnets PoonnoeQue on rute àFrnçoe  A Prs e derner du mos  Sx ours deunt e our des Roys 65 M DC L"
+            "ona d. Partiſans, Maltoiers & RMono",
+            "poleurs, ui ſeſontientichis de la ſiubſtance.",
+            "publiqu, & le Roy aura moyen d’uvſer d’eſ.",
+            "pargne nſes Flnanoes pour rompre les en",
+            "tropriſos qui le pourroient faire à l’aduenn",
+            "urſon Etaſans ſurcharger ſes ſujets.",
+            "FIN."
         ]
     ]
 }

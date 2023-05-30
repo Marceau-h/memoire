@@ -1,86 +1,215 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "pamphlet",
+        "form": "vers",
+        "genre": [
+            "blâme",
+            "rhétorique épidictique"
+        ],
+        "subject": "Condé, Louis de Bourbon, prince de, 1621-1686",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-10-08",
+        "creation": "1649-02-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-04-20",
             "@who": "AB"
         },
-        "titre": "Les justes prétentions de Son Altesse Royale sur la\n          qualité de chef du conseil de Sa Majesté, que les Mazarins ont fait usurper à la reine,\n          pour se conserver les moyens de rétablir leur maître.",
+        "titre": "Les justes reproches de la France à monsieur le prince de\n          Condé.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1786_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1788_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Les justes prétentons de Son Atesse Roye surquté de chef du conse de S Mjesté que es Mzrns ont ft usurper àrene pour se conserver es moyens de rétr eur mître Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Justes (es) prétentons de Son Atesse Roye surquté de chef du conse de S Mjesté que es Mzrns ont ft usurper àrene pour se conserver es moyens de rétr eur mître Sns LeuSns Nom65 Lyon Bothèque muncpe de LyonRés 309669TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs786 Justes (es) prétentons de Son Atesse Roye surquté de chef du conse de S Mjesté que es Mzrns ont ft usurper àrene pour se conser ver es moyens de rétr eur mître (S65) 20 pges Aprèsmjorté cesre àfn de 65 Le mons com mun peutre des pmphets où cette queston t été trtéeprose pmphetDécrton du ro contre es prnces de Condé de Conty etc 68"
+            "VSTES REPROCHES",
+            "DE LA",
+            "FRANCE",
+            "A",
+            "MONSIEVR",
+            "LE PRINCE",
+            "DE CONDE.",
+            "A PARIS,",
+            "Chez IACQVES LANGLOIS, Imprimeur du Roy, au",
+            "Mont ſaincte Genneuiefue, vis à vis la fonteine,",
+            "la Reine de Paix.",
+            "M DCX LIX."
         ],
         [
-            "VSTES PRETENTONS ALTESSE ROYALLE urquté de Chefdu Cone deMjete Que es Mzrns ont ft vurper ̀Reyne pour e neuer e moye de retr eur dftre"
+            "3",
+            "VSTES REPROCHES",
+            "DE LA",
+            "FRANCE",
+            "A MONSIEVR",
+            "LE PRINCE",
+            "DE CONDE",
+            "Mpenetrable prouidence",
+            "Prés de qui l’humaine prudence",
+            "N’eſt qu’aueuglement & qu’erreur;",
+            "Qu’auez vous conclu de la France",
+            "Touſiours triſte & dans la ſouffiance?",
+            "Verra ellevoſtre fureur",
+            "Sans éprouuer voſtre clemence?",
+            "Aujourd’huy pour vn Eſtranger",
+            "Homme tout à fait inutile",
+            "D’vne naiſſance baſſe & vile,",
+            "Ft d’vn eſprit fourbe & leger,",
+            "Ceſte France ſi floriſſante,",
+            "Si pompeuſe & ſi triomphante",
+            "A ji"
         ],
         [
-            "3& utA Aets tept &t u LE S VSTES PRETENTON5 DE SON ALTESSE ROYALLE urquté́ de Chef du Cone deMjeté́ L et temps de euer hrdment e mque &de ne dmuer pus vne verté dont eu dence nous coute trop cher pour eneuer pus ong temps dns e ence S es mhenrs preens nous font ouurr es yeux pour regrder nos meres s nous en decouurent à meme tempsource & nous font vor que nous ne ommes reduts àdernere des cmtes que prce que nous uons perms vzurpton dvne uthorté que toutes es ox de Ett det noent à on Atee Roye & quon ne uy"
+            "4",
+            "Eſt envn extreme danger;",
+            "Et ceux qui la deuroienr vanger",
+            "Depoüillant leur premier courage,",
+            "Contre elle forcenent de rage,",
+            "Et ſont armez pour l’egorger.",
+            "Vn Prince qui par tant de fois",
+            "Soûmit l’arrogance Eſpagnolle;",
+            "Vn Prince dont tous les François,",
+            "Faiſoient cy deuant leur Idole,",
+            "Tourmant contre elle ſes exploits,",
+            "Eſt l’ennemy qui la deſole,",
+            "Et qui d’vne paſſionfolle,",
+            "S’en va la reduire aux abois,",
+            "Embraſſant malheureuſement",
+            "Vne entrepriſe vaine & noire,",
+            "renuerſe honteuſement",
+            "Les temples dreſſez à ſa gloire,",
+            "Et ſans refleſchir vn moment",
+            "Sur ce qu’en dira noſtre hiſtoire",
+            "Comme s’il eſtoit hors de ſens,",
+            "L’ame d’vn faux eſpoir trompée,",
+            "veut tuer de ſon épée,",
+            "Ceux qui luy donnoient de l’encens",
+            "Apres vn changement ſemblable,",
+            "Qui nouspert &nousſurpréd tous,",
+            "O Prouidence impenetrable!",
+            "Qu’a"
         ],
         [
-            "deuot ps uee mons de utce quMjeté cee detre decré Mjeur ̀ ge de qutorze ns enrgez tnt qu vous pr Meeurs esMzrns comme vous ne vous etes eeuez vous ne çurez vous outenr quuec nutce comme cette verté́ ns repque vous fer vor dns vn r onnement qu et ̀ epreuue Les çuns dns htore peuuent uor dns cee de Frnce quunt e regne de Chres V dt e Sge nos Roys netoent ms decrezMeurs qù ge de vngnn & que cette ncenne coutume trdute uqù ors de pere en fs depus Phrmond & reç̧euë genere ment comme vne des prncpes ox fond mentes de cét Ett fut nuoement repe ctée uqù ce que Chres V pour empecher es us & es vurptons des Regents queongueur dvne Tutee fot ncrer trop pro fondement dns e pouuor ou uge fort prudemment qu fot regermnorté & uy precrre des ornes à ge de qutorze 2nsL decrton de ce Sge donnee pour ce ujet fut executée presmort en fueur de Chres V on fs Ms uec cette refe on toutefos qu ne ferot pont vor on  4"
+            "5",
+            "Qu’au donc reſolu de nous?",
+            "Eſe là ceſte paix celeſte",
+            "Qu’apres yn ſiecle ſifuneſte",
+            "Nos peuples eſperoient de toye?",
+            "Helas! quel ſort nous accompagne,",
+            "Nous auons guerre auec l’Eſpagne.,",
+            "Et loin d’en voir ceſſer l’effroy,",
+            "De meſme que de l’Allemagne,",
+            "Nos Princes ſous couleur de foy,",
+            "Abuſant du beaunom de Roy,",
+            "Battent contre nous lacampagne,",
+            "Et taſchent les armes en main",
+            "De nous faire perir de faim.",
+            "N’auons nous pas auec zele",
+            "Toui ours reuere tes Autels,",
+            "Dans le monde eſl des mortels,",
+            "Dont le cœur te ſoitplus fidele?",
+            "eſt vrav, j’auoüe vnpeché",
+            "Dont Paris eſt fort entaché,",
+            "C’eſt le luxe de la pompevaine:",
+            "Mais les ſuperbes Partiſans",
+            "De nos maux les ſeuls artiſans",
+            "En doiuent ſeuls ſentir la peine;",
+            "s en ſont les premiers Auteurs,",
+            "Et ſeduiſent leurs ſp ctateurs",
+            "Par le brillant de leur licence,",
+            "Sont comme en noſtre dépenſe,",
+            "B"
         ],
         [
-            "on uthorté que pr e cone des Dues de Berry dAnjou & de Bourgogne es onces qu uy furent nommez pr e Roy onpere ffn de uy erur de Tuteurs en effet uqù âge precrt pr es ox pour é́ mncper es enfnss quoy que nentmons s nen pou uoent ny porter e nom ny exercer e pouuor ns e rendre coupes dvn ttentt mnfe te à uthorré ounerne Frord & pres uy Pu Eme ont re mrqué que ce chox des tros onces de Chr es V pout gouuerner on Cone ne fut ft pr ce ge Monrque que pr ce qu uge fort mement quetns ntereez à outenr u thorté́ de eur néveu prproxmté du ng qu eur fot epereruceeon du Tronetoutefosvenot à mn quer de on cotéetot ogé de eur en commettre e on pu tot qu rout utre Er prce queMjorte precrte pr uy à r4 ns netot que effet dv ne refecton potque contre es vurptons des Tuteurscrut qu nen pouuo ppeer dutres mons proches à on cone uquà à ge de 2r n qu uot eté e terme des mnortés precedenes ns eur prtger du monsen p rence uthoté deegence que es ons ne oeœnt pomt tomer enrre esmns de eut u n eoent put ppeez & pr eut"
+            "Mis le deſordre dans nos ſens.",
+            "Toutesfois nous peut on reprendre,",
+            "D’vn crime enuers le Roy commis",
+            "Grans Princes daignez nous entendre,",
+            "Eſl vn peuple plus ſoubmis",
+            "Que le pauure peuple de France,",
+            "Dont vous eſtes les ennemis,",
+            "Au lieu d’en prendre la deffenſe?",
+            "Eſt il charge, impoſition,",
+            "Ny ſi peſante ny ſi dure",
+            "Qu’il ne portaſt ſans faction,",
+            "Et qu’il n’endurât ſans murmure?",
+            "Accablez ſous le faix des maux,",
+            "Sans faire aucune reſiſtance,",
+            "Nous auons veu mille crapaux,",
+            "Sortis des maras infernaux",
+            "Se gonfler de noſtre ſubſtance,",
+            "Et des ſueurs de nos trauaux.",
+            "De ce qu’on nous vit poſſeder,",
+            "Auant la hberté rauie,",
+            "A peine auons nous pû garder",
+            "Vne triſte & mourante vie,",
+            "Encor quand le Roy nous conuie,",
+            "Et qu’il daigne nous commander,",
+            "Sans feindre ny ſansretarder,",
+            "Pleins d’vne magnanime enuie,"
         ],
         [
-            "6nce & pr eur cpcté De ces vertez qu ne peuuentetre conteteées que pr ceux qu ont gnorns dns h tore es Potques en concuënt deux utres qu ont comme es uttes neceres de eur éudence L premere que es Roys queques Mjeurs qus yent eté du depus decrez à âge de 4 ns en utte dedecrton de Chres V nont nentmons pont encor eté ugez uor ez de vgueur pour mner et mon de eur Monrche ns queque ecours emprunté pus que ntenton de ce Sge ors qu donn cette decrton n ms eteé que dempé́cher que es Regents ne fuent vnong temps ous en eur otnt vn pouuor qu pnt en dutres mns ousquté de cone ne fot psx duor vne meme frce quoy que ousdeépendnce dvn Mneur ver te & qu netot decré Mjeur que pr r on dEtt Outre que ce erot etre u effrontement que crmneement reur de dre contre es entmens des ox concertées pr es meeurs tees du monde & reçeü̈es pr es protons & es coutumes generes de tous es eces quvn enfnt de qutorze ns commencez fut cpe de porter epods de toute vne âonr che pendnt entmons qu et deffendu pr"
+            "7",
+            "On nous la voit lors hazarder.",
+            "s n’en veulent, nous diſenls,",
+            "Qu’à ce grand corps Parlementaire,",
+            "Dout les membres ſont les fuſils,",
+            "De l’émotionpopulaire.",
+            "O Dieu: quiſçauez le contraire,",
+            "Vous qui perçant iuſqu’en nosreins,",
+            "Eſtes ſeul noſtre digne iuge,",
+            "Vous connoiſſez tous nos deſſeins,",
+            "Et vousſerez noſtre refuge.",
+            "Monſtrez leur que le Parlement,",
+            "N’agit que tres ſincerement,",
+            "En ce qu’à preſentil ordonne,",
+            "Et que par vn ſainct mouuement,",
+            "Voſtre ſeul eſprit l’égullonne,",
+            "A chercher vn temperament",
+            "Pour conſeruer voſtre couronne,",
+            "Qui falloit perdre aſſeurément,",
+            "Sans ceſte peine qu’il ſe donne.",
+            "Cependant contre leurs efforts,",
+            "Veuille, oSouueraine puiſſance,",
+            "En faueur de noſtre innocence,",
+            "rendre le ſoin de nos dehors:",
+            "Pardon, ſi d’vne ame trophaute,",
+            "y voulu ſonder tes ſecrets,",
+            "Que ta main nou donne ou nousoſte,",
+            "e reuere tous les decrets,"
         ],
         [
-            "3 es ox de commettredrecéton dvne pette fme à̀condute dvn ge qu er mondre que de vngt ou vngn n Ne vous rmés ps Meeurs es Mzrns qu pretextéspompeue ment à̀ tous vos deens uthorté ouuerne quoy quen effet vous nyez pont de mondres ntentons que deoutenr S e ds quvn Roy de 4 ns n ps encor ez de vgueur pour por rer dgnement on Sceptre ns vn ecours em pruntée e ds ns déroger à on pouuor ou que e ne veux ny ne pus uy ner pus qu et de cré Mjeur pr e conentement des ox Lr econde verté que emprunte dedecr ton de Chres V er pus urprennte & u coup encore pus nfe Cr e outens ueec tous es Htorens & es cenez que cege Mo nrque nynt precrt â̂ge de qutorze ns pour etre e rerme deMnorté des Roys quffn dempecher es vurptons des Regents queongueur du temps fot nenement empe ter ur es drots dc uthorté ouuerneSem pr meeme ron decrer qus eroent à meme emps eognées & deRegence & du Cone & quueeTutee des Roys mneurs s qutte roent e mnement de toutes es ffres d ttCette refecâton ne receur pont uçune dff"
-        ],
-        [
-            "s ctéceux qu pourrot y forrer eque doute veuent prendrepene de conderer que nenon qu Che V ot demptehevurpetons des Regents en eur regent epou uor neut pont eu deffet uppoe qus euent encore rete dns e Cone prce que es eunes Mjeurs ne e ontnt ps ez forts pour ne uc comer pont u pent frdeu des ffres dE tt neuent euement ps eteé́ en ez ms encor euent eté contrnts de sen deer ur es epues de eur Cone eque e trouunt rempy des memes peronnes qu urot gouuerné eur enfnce eut ps conequent ete en po on dvn eme pouuor quoy qu ne eut pont xerce ousv meme ttreTeement que pourt fre vordecrtnn de Chres V dns toute on etenduë cet à dre pour empecher es vurptos des Regents en eur otns es Tutees des Mneursfudro pr meme ron es eogner du Cone de eur Mjorté Et cet pr ce moyen quon pourrot f cemen refonner s us de eur Regence u eu que er contsnuntmeme uthorté ous e ttre de Coneers s peuuent dutm pus femenr pouer es progroz de eurs premers vurptons que pus s ont de pretexte pour e eccher en e couunt de ndeépndnce des M jeurs S"
-        ],
-        [
-            "S quequvn seffre de ces vertez qu sen prene ou àfdeté de nos htoens ou en ux mnes de nos pus grnds Roys e ny mers ny ny doute ren du men & eet en ce que e eoros uor donné uet à̀ mes ennemys de ne pouruure uec eur nmoté́ ordnreuos en ren corrompupureté de htore pourprottuer ̀ m pon en fueur du prty dont y epouéqueree uec tnt de utceet vry que e prentends me erur des grnds duntges que ces verŕs me donnent pour montrer que e procedé de M e Prnce net nmé que du eu deen d fre vor es voontés des Roys predeceeurs deM jeté́ & de uy coneruer toute uthorté que es ncetres uy ont trnms uee tnt de go re ns prrtre que pue etr uecune ment terée pr es vurpteurs Lors que e Roy fut decré Mjeur o 6 de Septemre ur e ecommencment dequ toreme nneée tout e monde vot en qune fut emnepé ̀ cétdge quepredrot de ce ncene fçon de fre peen coutume depusdecrron de Chex V & que cet en utte de ce pouuor puyê de uthorté de C"
-        ],
-        [
-            "0 tous es Roys qu ont regné́ depus ce Sge que es renes deMonrche ont eté́ otéee dentre es mns deRegente pour etrendonnée condure ndependemmnt de toute orre de Tuteur De orte quon à ron de dre ns dnger ducune contr dcton que nynt eu e drot detre émn cpé ̀ eét â̂ge de 4 ns quen ute du pouuor qu enreceu dedecrton de Chres V & decoutume prtquée de tout temps depus cette meme decrtonn deu prconequent tomer entre es mns quuoent regenté pour etre gouuerné pr eur Cone pus quepremer ntenton de cet re decrton de Chres V netot utre que de rompre e coursuthorté des Regents ce qu ne e pouunt fre quen émncpnt eurs pupesfot donc e reoudre dre ger e temps de eurs Mnortés Teement quon dot concure pr vne conequence ne cere en fueur du deen de Chres V que cette decrton deMorté des Roys ̀ ge de 4 ns ne t quvn pur moyen pour r ruer fn cet à̀ dur pour congeder es Regents de exercce de eur urhoruré & es mettre en ett de ne pouuor pont eeuét v"
-        ],
-        [
-            "cooe de punce qu pue fre omre à cee du Roy out ce ronnement quoy quen puent dre es Mzrns ne reç̧ot pont de repque e meme drot qu ft decrer es oys M jeurs à̀ 4 ns eogne es tureurs de exercce de eur uthorteé & ne permet ps qusre tennent meme ous vne utre quté prce que e chngement de t̂tre ne uffrot ps pour empecher es vurptons & prce qus u roent utnt de moyen de sgrndr en pre dnt en eur Cone ous vne qut́ dépen dnte quen y commndnt en Tuteurs Ms pour mettre ce ronnement dns vn eu our que es opnttes memes oent contrnts de e vor mgré ueugement de eur pon e men vy e rendre vfe pr e moyen de experence quee etnt nf e dns tout ce quee temogne redur mes Aduerres à vne mpunce formee de me pouuor contredre ns uy donner e démentrQund Louys X de goreue memore fut decre MjeéurFrnce deuot proe ment entrer dns vnetrnquteé qu deut re compener es grndestrueres dont ee uor eté donftmmenc deoée pendnt en fnce 7"
-        ],
-        [
-            "e s2Royede ce ute Et ns doute? es ées e pernces quon en uot conç̧eües neuent pont eté trut réespr es euenemens contr reses decrtons Royes qu donnent pou uor ux pupes detre decrez mjeurs à ̂ge de 4 ns euent eté regeuement oer uées cet à dreceux qu uoent rege ntéMnorteé de ce eune Monrque fuent orts dvn meme ps & deRegence & du Cone pour ny permettre entré́e qu ceux quec pcté &nnce y peoent comme nos ncetres ont veu dns es peronnes utres des Ducs de Berry dAnjou & de Bourgogne qu furent nommez pr Chres V pour con dureeune Mjorté de Chres V eur Nepveu uques ̀ â̂ge de vngt vn n Ms comme Mne de Medcs e coneru e pou uor dns e meme uthorté quee uot exercé́ pendntRegence ns e comoun quer à̀ ceux qu e deuotdu mons prcger uc ee pr es drots deproxmté du fng e re pos de Ett fut contmment trueré ufquà ce quemort du Mrqus dAnere genereue ment reouë̈ pr e eune Mjeur fr chnger de fce ux ffres erenoü e nœud des grn des duons qu uos prtgé cetts onr che Nons"
-        ],
-        [
-            "Nons psunt pour prouuer vne verté que e uccez dedernere Regence & e commencement deMjorté ne nous rendent que trop ene Et pour donnervn peu pus de pods à toutes es refectons que nous eterons ur ce ujet fons esortr deouche de Chres V en nterro gent es utres Mnes touchnt es reour ces qu fot trouuer pour fre ccorternnce des troues qu emoent me ncer e repos de cét Ett en ute des grnds orges deMnorté Ms que de e on de trouer e repos de es cendres ? Son exempe &decrton ne nous ntru oen ees ps ez de tout ce qu fot fre pour er u deunr de toute orte de troues? Et ors qu nous temogne prdecrton qu nregeMnorté des Roys à̀ utre deen que pour empecher es vurptons des Regents ne pr ps ez crement pour fre connotre qu pretend que es memes Regents ne oent ps mons eogné́es deTutee que du Con e des Roys Comme qundchot es Ducs de Berry dAnjou & de Bourgogne pour en compoer tout e Cone de Chres V on fs & eur Nepveu? Ne montr"
-        ],
-        [
-            "4 ps pr cét exempe qu en fot fre de meme des pus proches de notre Deu dou e u ouee pnunor que e enue u eu en quteé de Re gente deuot per dns es mns de on Aree Roye & de Me eurs es Prnces du Sng ousquté de Cone pour cheuer ce grnd ouurge de on educton Roye qu ne dot propre ment uor on derner terme qù ge de vngn n Ms ces Meeurs qu ont encor meuxconnus ous e nom de ce procrt & qu e ont touours efforcez de urprendreon té deReyne pr es fux rtfces dvne ne ceté pretenduë qus uy ont ft conceuor dns e retement de zrns nont ps eté ddus quedecrton de Chres V vut dns toute on etendue cet à dre que on Aee Roye & Meeurs es Prn ces du Sng euentpce qu eur etoc detnée pr our cpcté́ & pr eur nfn ce dns e Cone du Roy Et pour cét effets uy ont coneé mgré́ toutes es ox de Ett de retenr uthorté quee uot en quhté́ de Regentre ous e ttre de chef du Cone ur eurnce qus ont eu quempcté de on exe donnerot nfe"
-        ],
-        [
-            "5 ment pus de pre ̀ eurs rtfces pour fc ter e retour de ceuy qus conderent comme e eu ppuy de eurs fortunes prt cueres & qus eroent en ett doter us fcement es otces de ce pernceux deen Au eu que S A R eut eté commeuypprtenot chef du Cone deMjeté &es Prnces du Sngy euent eu e credt queutce eurs mertes eur cpcté & eur nnce eur promettoentne fut pont douter que es Mzrns neuent eu quà̀ chercher fortune de queque utre coté prce quon neut ps mnqué́ dntrureMjeté deverté́ de tout ce qu set pé́ pendnt e Mntere de eur Mtre pout en fre u en ojet de on ndgnton que ceuy de toutes es uerons puques & pr meme moye nous euons veu e re tour de cette heureue trn quteé que nous ne ç̧urons à̀ preent eperer de pueurs nnéesqueque proudence pus prtcu ere ny metmn povr nous mettre dnsouyence de ces eéux ours Etqun ne ot ne ç̧uonous ps pr experence de ce quset pé́ depus 4 ou 5 mos queprncpe cue des grn des duons de cét Ett net utre que n"
-        ],
-        [
-            "6 utce quonft à S AR & ux Prnces du Sng de es uor frutrez deprtep ton que eur hnce eur fot pretendre uec trop de drot dns etement du Cone deMjeteé Net ce ps ce motf quetté e chme dnsmon Roy e & quprtgé ceux qu deuot fre ron ner uec greé́ment dns Ett hrmone dvne heureue px pr e concert de eur n rte gence? e f escoutume de Ettpeoent S AR à honneur detre chefs du Cone deM & es memes deffendoent expree ment queporte nen fut ouuerte qù ceux qu pourroent y entrer uec e uffrge de Ms es Prnces du Sng eston regeue ment oerué́es? hes tnt sen fut quon t reuer é́ eur nteté que ceuy meme qu de uoent etre e chef du Cone nyeuemét pseté́ peé & es utres dotprtcpt̃ et ot necere pour on etement nen ont ms eu e vent que ors qus e ont veus reduts ̀ mpunce de sy pouuor opoer uec uecés pr es voyes dedouceur Cet u cette eue rs õ̃ qu eurft pre entr que e deen deRegente notot u tre que de pouer on utorté pr es mémes voyes quee uot tenu pour en etrer es premers"
-        ],
-        [
-            "premers fondetents cet à̀ dre pr e ret e ment de ceuy que toutes es ox uoent cheé de Ett & comme s ot ugé́ que cet te contnuto dvne meme uthorté etot contrdctorement oppoée prncpe fn dedecrton qu donne pouuor ux Roys pupes detre émncpes ̀ qutorze ns & que pr conequetetot ̀ cndre que es ucés qu en reuroent ne fue nt trop pernceux à̀ cette Monrche u en dequee s ont oges de veer prproxm té du ng s on cru queutce exgent du mons de eur deuor qus fotrment queque opporon u deregemene de cette nouuecondute ̀ quee s ne pouuoent e ou metre ̀ mons que den etre du mons pre ment comphees & que pour cét effet s fent écter vn econtontement qu peut etr es ffres en quque meeure poture Ne futps etre fureuement ponné pour trouuer à rodre dns cette condure de Meeurs es Prnces que es pus rgoureux ceneurs e merontms ss veuenten trerenr es ox fondmentes de Etr dns eur ncene preté cet à dre ss veuent que Etr ute pres memesmoyenspr rL L n"
-        ],
-        [
-            "equesset rendu redoute à toure Eu rope Et ne ps é ̀ coneute en ute de ce que nous uons veu du depus que es m heus dont nous uons & erons encor pro ement truerez neuenr pont nondé dns Ete uec cét horre deuge de cmtez que nos rmes ont de commencé́ denfercomme onfort utement repectédecrton de Chres V en decrnt e Roy meur ̀ qutorze ns on eut preement re pecté es nte ntons qu uoent emeu à̀5 donner & qu ne tendoent qù runer es de ens mteux des Regents en es eognnt à meme temps & deTutee & du ConeSutce eut eu ez de force pour pcer M e Duc dOrens dns e rng que on me rte &nnce uy fot pretendre dns e Coneeut pourueu u mecontentement de M e Prnce commeuot de com mencé es entmens neuent eté mepré́seut ms e nnement duC Mzrn dns vne tee eudence qu neut ps euement é ̀ fon retement epprenee pour e pouuo pretexter uec ucune pro té & pr ce eu coup dEtt dont touteEurope etot en ttenteeut dermé́ Me"
-        ],
-        [
-            "9J ers es Prnceseut reüny Mon Roy eeut remsutce e ett de pou uor fre toutes es foncts ucc on u thorté́ ordnre & ce que os deuonsrous ouhter uec poneu pté e pretexre gener qu ert de fue coueurà touses de regements pucs & qu mefteement teré e deuor des peupeés enues eur ouue rn quepus prt meme e nt mgné́s que eur oug netot pus vere prce qu eur emot mpoé pr ceetrnger Ms tous es deordres contrresces e es eperntes ont eté́ es fetes utes de cette nutce dEtt & e e tnt de No ee que M e Prcetdepus peu dnsdernere te n fourn que pour fre vor que e ce sntereorvengence de nutce quon uy à ft e ne uor pont ppeéetement vn Cone quon ne pouuot compoer sprtcpton An pus qu net pot dutre ource de nos deordres que cetteontnuton du pou uor queregente et onerué contre es n tentons dedecrron de Chres Vne fut pont e merre erpene de chercher du A oy  L"
-        ],
-        [
-            "0 tre reonrce à o deordres que cee donmes mondres podes peuuent er qu et otercue put oter & perdre enueremnt on effet"
+            "8",
+            "Et ie me repens de mafaute.",
+            "Peuſtre veuu de ces nuits",
+            "Nous ramener à la lumiere,",
+            "Peuſtre veuu par ces bruits,",
+            "Nous donner vne paix entiere,",
+            "Et terminer tous nos ennuis.",
+            "Grand Dieu ſi c’eſt là ton deſſein,",
+            "Haſtes en l’effet deſirable?",
+            "Ei de ton doigt touchant le ſein,",
+            "De noſtre jeune inexorable,",
+            "Oſte les armes de ſa main.",
+            "Faits par ta diuine entremiſe,",
+            "Q’il laiſſe lâſonntrepriſe,",
+            "Et que quittant ce ſuborneur,",
+            "Qui l’a ſeduit par ſes pratiques",
+            "Au moins ilſauue les reliques,",
+            "De ſon nom, & de ſon honneur.",
+            "En fin pluſtoſt que par ſes ares,",
+            "L’Innocent ſoit reduit aux larmes,",
+            "Grand Dieu, comme à Paul abbatu,",
+            "Par ta lumiere foudroyante,",
+            "Du haut de la voute éclairante,",
+            "Pour mieux réueiller ſa vertu,",
+            "Dis luy d’vne vox éclatante,",
+            "Pourquoy me perſeeutu?",
+            "FIN."
         ]
     ]
 }

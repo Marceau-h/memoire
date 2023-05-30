@@ -1,54 +1,125 @@
 {
     "entête": {
         "form": "vers",
-        "subject": "Emprisonnement des\n            Princes",
-        "genre": "poésie",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1650-01-18",
+        "creation": "1649-01-26",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-09-09",
             "@who": "AB"
         },
-        "titre": "Les frondeurs victorieux et triomphants sous le règne de\n          Louis XIV, dit Dieudonné.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
-        },
+        "titre": "La fuite des maltôtiers après Mazarin, mise en vers\n          burlesques par le sieur Pompholis.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-22",
+                "#text": "22 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-22",
+                "#text": "22 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau1454_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1455_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Les frondeurs vctoreux et tromphnts sous e règne de Lous XV dt Deudonné Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Frondeurs (es) vctoreux et tromphnts sous e règne de Lous XV dt Deudonné Sns LeuSns Nom650 Lyon Bothèque muncpe de LyonRés 30463TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs454 Frondeurs (es) vctoreux et tromphnts sous e règne de Lous XV dt Deudonné (s650) 8 pges Le tromphe deFronde céttprson des prnces Muvs ms peu communvers Emprsonnement des Prnces poéseArrestton des prnces 65"
+            "LA FVITTE",
+            "DES",
+            "MALTOTIERS",
+            "APRES",
+            "MAZARIN.",
+            "MISE EN VERS BVRLESQVES",
+            "Par le Sieur POMPHOLLIS.",
+            "DEPVIS que vous eſtes fortis,",
+            "Meſſire Iulles hors de Paris,",
+            "A L'on a bien taillé des croupieres",
+            "A Meſſieurs vos Secretaires,",
+            "Qui ont auſſi peſché au plat,",
+            "Et qui n'ont ſçeu voſtre depart.",
+            "L'on en voyoit dans cette ville",
+            "Plus de cent, voire plus de mille",
+            "Qui ſe vouloient auſsi ſauuer,",
+            "Afin de vous aller trouuer.",
+            "Voyant qu'on mettoit icy ordre",
+            "Et qu'ils ne ſçauoient plus où mordre,",
+            "Les vns couroient parmy la ruë",
+            "Qui d'vne façon mautruë,",
+            "Se diſoient Seigneurs d'vn village,"
         ],
         [
-            "LES  FRONDEVRS  V CTOREvX  ET TROMPHANS  SOVS LE REGNE D E  LOVS XV  DT DEV DONNE 7Ovs etonnez vous Fronde A terré tous es Mutns  Ee vnqut es Phtns  Quu Cou e pus eu du monde  Duque Dud pr on fort rs  e3e  Frondeurs vous uezVétore  Chcun uur votre prty  Et e Roy vousdeprty  Les honneurs deus à votre gore  Aynt conneu que vos dens  Eoent egtmes & nes  Ao  3  A"
+            "2",
+            "Et qu'on leur donnaſt le paſſage:",
+            "Les autres grands Monopoleurs,",
+            "Noircis comme des Ramoneurs,",
+            "Veſtus d'habits de gueuſerie,",
+            "Pour taſcher de ſauuer leur vies:",
+            "D'autres retournoient leurs habis",
+            "Pour ſortir deuers Sainct Denis,",
+            "Et par la porte de Sainct Iacques",
+            "en eſt ſorty ſans caſaques,",
+            "Qui ſe diſoient mourir de faim,",
+            "Et qu'ils alloient chercher du pain,",
+            "C'eſt vous qu'ils ſuiuiofent à la piſte",
+            "Comme petits Mazariniſtes:",
+            "Mais tous les gros ſont demeurez,",
+            "Qui ſouffrent autant que les damnez,",
+            "On les a fait rougir de honte",
+            "Quant on leur a demandé conte",
+            "Des Louys qu'ils ont pris pour vous.",
+            "e trouue qu'ils eſtoient bien fous,",
+            "De mettre tout leur eſperance",
+            "A voſre tronmpeuſe Eminence:",
+            "s en ſont bien aux repentans,",
+            "D'auoir paſſé tant de comptans;",
+            "Dont l'vn d'eux qui n'eſtoit pas ſot",
+            "S'eſt retiré tout auſsi tôt",
+            "Qu'il a veu que voſtre Eminence",
+            "Commençoit n'eſtre en aſſurence.",
+            "e crois que vous auez regret",
+            "De ce beau Palais imparfait,"
         ],
         [
-            "34  Quvn chcun porte doncFronde  Tout à entour de on Chppeu  Ce Co donrche &eu  Emecher quon ne vous gronde  Et rendr ous vos peds oums  Tous ceux qu ont vos Ennems  Se Vue LOVS VueFronde  Et vue tous es ons Frondeurs  Les Beus Forts es Cod juteurs  Sontgore de tout e monde  Etnt pr eur fdeté  Ferne ppuy deRoyut́  S3e  Que tout e monde retente  DeVctore des Frondeurs  Que es Vncus & es Vnqueurs  Se remettent en meme ce  Souscondute de LOVS  Pour ugmenter es Feurs de Ls  eSJe  Vneous Frondeurs fdees  Les Epgnos & es Germns ReceurontPx de vos mns  Qunt vous nurez pus de querees  Auec vous e Roy mettr à s  Tous es Gens & Gos"
-        ],
-        [
-            "S quequvn vous cherche quereé  PreenceyFronde u pon  Et vous verrez que tout à pon  s e mettront ur ecee  Pour receuor e ugement  Du grnd fdee Prement  ASe  Vous Prtns de nutee  Qu fezguerre ux Frondeurs Votre fumée & vos vpeurs  Ont decouuert votre mce  Cr vous uez deLoy  En fegnnt detre pour e Roy  S  Quon ne demnde puscue  Des pronners & exez  Les Frondeurs es ont frondez  Sns courr ms fntspue  s ont en Cge ces Meeurs  Pr dree de nos Frondeurs  S3e  Ftes vor à touteterre  Mes fdees & chers Frondeurs  Qe vous çuez forcer es cœurs  Et enPx & enGuerre  Donnnt vn ferme démenty  A qu net de votre prty"
-        ],
-        [
-            "8  Vosdefes nont pont de mce  Frondeurs vous tenez e on out  Au vryment cet à ce cop  Quon e rnge dns votre ce  Crrte des prons & exs  Qu ttrppet es pus uts Aez mechns dons Arognce  Vous fot courr u grnd ps  Au chemn qu ne fot ps  Pourrune deFrnce  Ms vous vous etes uez  Et nuez en quvu ped de nez  AÉe  Vous uez ft me ruges  Dns nos mons qu ont ux Chmp  Et trop crues & trop mchns  Vous nous dez cent mfe outrges  Ms e grnd m dvn te de  Etot encherté du pn  Ae  Vos cruutez & voeses  Vos runes & vos eurs  Vos meurtres vos crs vos terreurs  Et vos cuees ncendes  Sont àgore des Frondeurs  Pus qus demeurent es Vnqueurs  Eprts"
-        ],
-        [
-            "5  e  Eprrs tous remp de mce  Vous uezeneué e Roy  Et vous u mnqut de oy A ce qu et de o duce  s es Frondeu one ue  Pr eur eue fdetéô  &  u vet eode  Dns Prs uec es Frondeurs  Qu ont ft vot pr eurs rdeurs  Qs euone en tont ereprende  Ount deurs tout dep  Pour e eruce de Eftt Sus fs courge doncmon Prnce Pusque es Frondeurs on pour vons  LEpgno crndr eurcourrous  Aueergueut de eur pnce  Et pour euter eurs Cous  s e mettrout à deux genus  3  Tromphez donc Erondeurs fdees  Qu uezen comttu  Ponrooe & pu Ven  Vos oünges ont eternees  Tromphez de vos Ennems  Pus qus ont à vos peds oums"
-        ],
-        [
-            "6  Dn e peun du Trempe  e mets e Lon r  Ce Prnce fer & vcm Pus o qonnn d qu re e  L Fronde e n oneh  Pour on Trompho dotné  e Soe qfoe Cet ceuy q oouot morr  Pour nous defende ecor  ddn f fpne pms e trouuepns à g  Qu uot cone ouo edu e Lée R erd euu pr v de  Dnx on çhz de Froudo uue pe  Qu font vor que tu on deen  pNetot qus vent & pen de uuds  Nous decouuretrn  Qu ne fus portne n uh  e Lept onetete creue  Qu du Trompd fprt  Ce corps mgre ns pos de rd  Cette humeur ters &fcue  Cet e Coneer vceu  Du Lon fer & fuoux"
-        ],
-        [
-            "7  8e  Au cnquefme chr qu de utte  Sut e Troophe & ppre  Sont es prtrjs u uure  De ceux q e fne ms en futte  LequesFtondeecrtez  Au hru ds tres retez e  Le us our nous emontre  En vn ts ns deons deus  Les Teus duens & confus  De ceux qu noet fre montre  Qu ont es Enms nrez  Des Frodeurs qu es ont frndez  ée  En ute vous vuyes pretre  Dns ce chr de chgrn gé  Ceux qu ne eu rdr & congé  De e retse ns nn nmttre  Pour erpce ux ondeurs  Qu trompnt coe Vnqueurs g  Au dorne cy tes mgeâ  Des cœurs gsz pns de terreur  De eux qu one tremns de peur  Quon es che dedns es Cges  Cet pourquoy vus es voyez tous  Egrez prque cne fous  9"
-        ],
-        [
-            "7  3  p  AT  Se Ms cette Troupe deoée  Qu ut à ped ns reconfort  Crnte des horreurs demort  Etnt des Frondes enchnées  Sont es Sodts es cteurs  Qu frentguerre ux Frondeurs   ee  Tout cet ppre mgnfque  Sous es peds des Frondeurs oums  Cet àgore de LoVS  Pourqu tout cecy e prtque  Cet pour uy & pourVertu Que es Frondeurs ont comteu  é  Voyez en ute es Portques Les Ares tromphus & duers  Les Crques & tnt dppres Auec es vox & es Muques  Ce ont es ppres fmeus Du Tromphe de nos Frondes  3&  En fn Frondeurs totegore  Demeure de vote eone  et ecrtet cotte  onPour vne eternee memore  Surfeüe de ce pper  Qu durer pus que er  EN     u?"
+            "3",
+            "Et cette grand'Bibliotheque,",
+            "Tomes de Grenade & Seneque,",
+            "Et autres beaux liures Romains,",
+            "Qu'on ne vous rendra pas és mains.",
+            "Reuenant à voſtre caballe,",
+            "Qui touſiours appreſte leur malle,",
+            "Attendant que leur enuoyez",
+            "Ces machines des autres annez,",
+            "Où ils mettront leur equipage,",
+            "Et leur honneſte perſonnage.",
+            "s prendront les cordes du bal",
+            "Qui ſont au Palais Cardinal,",
+            "Pour eſtre enleuez hors de France",
+            "Où ſe plaira voſtre Eminence.",
+            "s ſortiront ſans paſſeport,",
+            "Ny ſans parler ny dire mot,",
+            "Pourueu que les cordes ſoiont fortes",
+            "Pour ſeulement ſortir les portes;",
+            "Et vous commanderez tout haut",
+            "Que l'on vous enleue bien haut",
+            "A la grand'troupe diabolique",
+            "Auec leurs violons & muſique,",
+            "Eſtant conduits par Belzebut",
+            "Les feront arriuer au but,",
+            "En Enfer touſiours en ſouffrance",
+            "Au deſir de toute la France.",
+            "A PARIS,",
+            "M DC. XLIX."
         ]
     ]
 }

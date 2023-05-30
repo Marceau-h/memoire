@@ -1,76 +1,205 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
-        "subject": [
-            "Longueville, Henri, duc de, II d'Orléans, 1595-1663",
-            "Condé, Louis de Bourbon, prince de, 1621-1686",
-            "Conti, Armand de Bourbon, prince de, 1629-1666",
-            "Emprisonnement des\n            Princes"
-        ],
+        "form": "prose",
+        "genre": "discours adressé",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1650-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-30",
+            "@when": "2022-06-27",
             "@who": "AB"
         },
-        "titre": "Le ramage de l'oyseau mis en cage, en vers\n          burlesque.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-18",
-                "#text": "18 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-03-30",
-                "#text": "30 mars 2021"
-            }
-        ],
+        "titre": "Le rameau royal ou le Symbole de la paix présenté à la\n          reine le jour des Rameaux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau2974_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2975_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le rmge de oyseu ms en cge en vers uresque Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté8 févrer 202 30 mrs 202Lousde Bouron prnce de Condé Le rmge de oyseu ms en cge en vers uresque LyonSns Nom650 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y088TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes À propos deprson des prnces Deux étts dep 5pgnton essus de \"frod\" (A)pgnton essus de \"fsot\" (B) Dprès Huert Crrerexste une utre édton (sns eu 650) peutre une contrefçon yonnse (Bothèque Mzrne Ms 468 f 7)2974 Rmge (e) de oseu ms en cge en vers ur esques Prs 650 Deux pèces une deet utre de 8 pges Le sujet estprson des prncesvers poése uresque strque Longueve Henr duc dedOréns 5963 Condé Lous de Bouron prnce de 686 Cont Armnd de Bouron prnce de 6266 Emprsonnement des PrncesArrestton des prnces 65"
+            "LE",
+            "RAMEAV",
+            "ROYAL,",
+            "OV",
+            "LE SYMBOLE DE LA PAIX,",
+            "PRESENTE",
+            "A LA REYNE.",
+            "LE IOVR DES RAMEAVX.",
+            "A PARIS,",
+            "Chez ARNOVLD COTINET, ruë des",
+            "Carmes, au petit IESVS.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "LE RAMAGE DE LOYSEAV MS EN CAGE EN VERS BVRLESQVES M DC L"
+            "3",
+            "LE",
+            "RAMEAV ROYAL",
+            "PRESENTE’",
+            "A LA REYNE",
+            "MADAME.",
+            "qui ſont d’vn ſang Royal comme vous,",
+            "emblent eſtre plus obligées que les autres, de mar",
+            "cher à grand pas à la plus éminente vertu, par vn che",
+            "min qui leur eſt deſia frayé dãs la ſuitte de tant d’He",
+            "ros & d’Heroines, qui leur ont laiſſeé de ſi glorieuſes",
+            "traces. La Nature ſemble exiger d’eux, le deuoir de",
+            "S’eſleuer au plus haut point de la perfection, dont la",
+            "grande naiſſance qu’elle leur donne, eſt comme lepre",
+            "Eeiereiedleieie",
+            "eux qui regardent la grandeur, ſe la figurent toû",
+            "A ij"
         ],
         [
-            "3LE RAMAGE DE LOYSEAVMS EN CAGEEN VERS BVRLESQVES PREMER CHANT MA Mue ns que tu tetonnes fut en que tu nous entonnes  Que tu te mettes en humeur  Que tu entres meme en fureur  Pour exprmer pr tes mences  Pr tes getes pr tes grmces  Pr des depts & mudons  Pr toutes ortes de fçons  Leffroycoere &rge  Du Prnce quonms en cge  Leque ynt voé trop hut  A prs Vncennes ns ut  Ce eu propre pourdemeure  Sns uor chngé de nture  Pr on gree ejour  L ttré dns n & jour  Là pr es cours de detnées per mntes nnées"
+            "jours comme quelque choſe qui eſt au deſſus d’eux,",
+            "& quis’eéleuant au dela du commun a quelque choſe",
+            "de plus parfait que luy: mals ilsſe ſoumettent à vne",
+            "puiſſance qu’ils ne connoiſſent pas bien, ſi elle ne ſe",
+            "communique à euxpar de bonnes qualitez, & ſi elle",
+            "nereçoit les preſens que la baſſeſſe ne peut empeſ",
+            "cherà vn ſujet affectionné de rendre à̀ ſa Souuerane.",
+            "Tous vos fideles ſujets, Madame, preſentent vne",
+            "palme à voſtre Majeſté, & demdent par des feruen",
+            "tes prieres que voſtre main la couronne, afin quede",
+            "uenuë Royale elle ſoit plus digne d’eſtre preſentée",
+            "ur les autels pour receuoir la benediction de te",
+            "grand Dieu, qui triomphe auiourd’huy par l’entrée",
+            "olennelle qu’il fait dans la ville capitale de ſes peu",
+            "ples & qui leur apporte à̀ meſme temps les glorieu",
+            "ſes marques de la paix en ſa perſonne diuine. On",
+            "vous attend chaque iour dans la voſtre, & vous y ſe",
+            "rez bien plus glorieuſementreceuë auec ce Rameau",
+            "Royal à la main, vous marcherez en triomphe auec",
+            "ceſte palme qui ſera le ſigne le plus aſſeuré de la Paix,",
+            "& la plus illuſtre marque de voſtre vertu. On ne",
+            "doutera point que vous ne ſoyez arriuée au plus",
+            "haut point de la perfection, & que vous n’ayez don",
+            "né la derniere borne à vos actionsles plus heroiques.",
+            "Tous vos peuples connoiſtront voſtre grandeur par",
+            "ounuieie euen e u e e nue e une e uerd",
+            "entiront de ſi puiſſants effets, ils en admireront la",
+            "cauſe, & en louëront la vertu qui leur aura fait tant",
+            "de bien,"
         ],
         [
-            "4  Là notre Veureux guerrer  Dot pendnt ce mos de nuer  A or fre on memore  Et pour umere de htore  Remrquer es cons & recons  Et renouueer es grnds ons  Pour fre tnt de ees choes  Fre vor des Metmorphoes  Fre reuenr e psé  Guerroyer comme sé  Chnger Mrdrs en Creme  Oeruer e jeune uy meme  Crnut qu fut prs ns vert  Et ogé comme en de Vert  S mrmte fut renuerséë  Et neut mngé dejournée  S e Mrech de Renzou  Apres uor mngé on ou  Ne uy eut donné pour ptnce  Vn pt tré dedepence fut ms en de eux drps ncs  Quoy qu fut couché ut des ncs  Et voynt pr vn trouLune  Pet contre ee &fortune  Borgnee d cet cy  Que e me us trouué u  Oüy dns cette on meme Lors"
+            "3",
+            "de bien, & les aura comblez du boeur quileur eſt",
+            "e plus ſouhaittable. Cõdeſcendez, Madame, pour ce",
+            "coupà la foibleſſe dupeuple, acceptez ſes offiandes",
+            "& ne luy deniés pas vne grace qu’il a demandé́e auec",
+            "tant de ſoupirs & tt de larmes. Vous ne diminuerez",
+            "rien pour cela de voſtre authorité, voſtre gloire n’en",
+            "era point abbaiſſée, au contraire on vous reconnoi",
+            "tra toute puiſſante, quand vous aurez à la main ce qui",
+            "oumet les peuples & qui les force de faire par abon",
+            "dance d’affection, ce qu’ils ne faiſoient que par la loy",
+            "du deuoir. On vous erigera des troph́es par tout",
+            "où voſtre nomſera connu: & tout le monde s’effor",
+            "cera de le rendre glorieux aà la poſterite. Dieu qui a eu",
+            "touſiours de l’amour pour ſon peuple,s’eſt aſſez ſou",
+            "uent laiſſé flé́chir par ſes prieres, & luy a ſouuent",
+            "donné la Paix, lors meſme qu’il le croyoit tout",
+            "preſt de chaſtier, il luy a fait ſenyir ſon pouuoir ſi",
+            "toſt qu’il l’a veu ſur le poinct d’eſtre opprimé, &",
+            "uy a mieux fait connoiſtre dans ſes neceſſitez que",
+            "dans ſes abondances, qu’il eſtoit ſon Souuerain.",
+            "Ceux qu’il employoit à̀ ces grands effets de ſaproui",
+            "dence, eſtoient touſiours quélques grands perſon",
+            "nages, & quelquesfois quelques femmes fortes. Il",
+            "eur mettoit la verge en main ou le couteau, afin de",
+            "es rendre venerables à ſes peuples & redoutables",
+            "àleurs ennemis. Vous, Madame, qu’il a choiſie pour",
+            "regner dans vn pays qu’il ſemble auoir cheri plus",
+            "queles autres dé́s le commencement de la Monar",
+            "B"
         ],
         [
-            "5  Lors qu fot yn frod extreme  e recognos en cette tour  Doù e voyos tout à entour  Mes troupes mes en te  Fre fuïr tnt de cne  S on mouurot ce contreuent  e verros e mon à vent  Où juos ms m ttere  Grdée de nfntere  Doù vent quonchngé mes gens  Et que doffcers dgens  Mont oté uques à epée ?  H eureue journée  Epée des frondeurs effroy  Qu eut tout ms en derroy  Qu eut rmenéfmne  Qu eut ms Prs en rune  S Vequer neut eu e frond  De me oter pr grnd ront  Où etes vous vns gendrmes  Qu muez veu dns es rmes  Fre des meux Grnd Gon  Seroe uec toy chmpon  Du mons e voudros en ttendre  Pour nuor ujet de me pndre  Lgefortune & e ort  dAexndre deunt m mort D"
+            "chie, vous qulla fait ſucceder aà̀ tant de Roys, pour",
+            "prendre le ſoin de cet Eſtat qui luy eſt ſi cher, pen",
+            "dant la minorité de ce fils qu’il a donné comme par",
+            "miracle, pour eſtre le cõ̃ ducteurde ſes peuples: vous",
+            "que la pieté a rendü ſi recommendable: Vous ſem",
+            "blez, dés le premier moment de voſtre Regence,",
+            "uoirreceu toute ſeule, ce qui auoit eſté partagé aà̀",
+            "pluſieurs; Dieu vous a mis en main la verge & le cou",
+            "tcau: mais il veut, Madame, qu’apres auoir fait triom",
+            "pher celuy cy par la deffaite de vos ennemis, vous",
+            "faſſiez fleurir cella. Il ne veut pas que vous tour",
+            "iez ce fer contre vos peuples languiſſans. Auſſi ne",
+            "eroilpas iuſte, Madame, que ceux qui ont contri",
+            "bú la plus grande partie de leur plus pure ſubftance",
+            "vos glorienſes conqueſtes, qui ont donné leur ſang",
+            "preſque iuſques à la derniere goutte, pour ſignerleur",
+            "fidelré, ſoient reduits à cette extremité. Iugez, Ma",
+            "came, combienil eſt ſenſible à ceux qui ſont fideles",
+            "& qui aiment bien de ſe voir par ie ne ſçay quel mal",
+            "heur, comme forcez de ſubir larigueur de ceux qu’ils",
+            "ment tendrement. l n’eſt rien de ſiinſuportable,",
+            "que la colere d’vne perſonne pour qui l’on n’a que de",
+            "ffection:& que peun faire en vne ſi malheureu",
+            "ſe conioncture, pour l’appaiſer, que de luy allar pre",
+            "ſenter la palme, luy dire qu’elle a vaincu & qu’il eſti",
+            "temps de faire la paix, & de faire fleurir cette vergo",
+            "ounein de p eſe eoenele enl"
         ],
         [
-            "6  Cetot mon ut & m vsée  De me rendre pr mon epée  Aou comme ont es Ros  Comme eux etre deus es Los  L Fortune metot propce  e couros dedns cette ce  Et tout pret à mettre dedns  Tout de go on m ms dedns  Les eurs vont touours en troupe  Lvn et porté pr utre en croupe  Au qund y eté prt  Les utres Chefs de mon prt  Mont uuy dednsmere  Hes mon puure pett frere  Qu çuot tromper e Prquet  A troué ot on pcquet  Mon erere de Longueve  Ben qu t vouu fre ge  Au en que e Duc dEoeuf  Ne peuuent renuoyer etoeuf  Bouïon nur ps eugoute  Pour e uuer dnsderoute  Turenne pourrot en u  Auec Erc moter dcy  Ms ur tout e me trouue en pene  Et ne pus uor mon hene  Ne çchnt où on ur ms"
+            "7",
+            "fores, & vous aurez encor le premierrang parmy les",
+            "Heros, ſi vous acheuez bien ce que vous auiez aſſez",
+            "heureuſement commencé. Vos armes ont terraſlé les",
+            "plas puiſſans Ennemis de voſtre Regẽce en pluſieurs",
+            "tailles, dont vous auez remporté les auantages:",
+            "mais vous n’auez encor rien fait, ſi ous ne fairs ſen",
+            "tiraux Peuples ces meſmes aentages, ſi vous ne",
+            "eur diſtribuez liberalemc̃t le ſruict de tat de cõque",
+            "ſtes qu’ils ont cultiué ſans en auoir encor pû gouſter.",
+            "faut Madame, que vous couronniez tant de hauts",
+            "faits par vne derniere action, qui ſera plus illuſtre que",
+            "toutes les autres, & qui eſt pourtant la plus facile à",
+            "produire.Voſtre peuple a contribué toutes ſes forces",
+            "̀ la rendre ayſ́e par des Arḿes nombreuſes, dont il",
+            "ſouſtenu le poids & doublement payé la deſpenſe.",
+            "Apres que toutes ces entre priſes ont reiſii ſi auanta",
+            "geuſement pour vous, il a iuſte raiſon d’en demader",
+            "quelque autage, qui ne diminü rien cdes voſtres: Au",
+            "cõtraire il vos a ouuert totes les voyes par où vous",
+            "pouuiez les accroiſtre. Et aujourd’huy il vous va ren",
+            "dre la plus renommée& la plûs glorieuſe Reyne du",
+            "monde, ſi vous receuez les palmes qu’il vous preſen",
+            "te, & ſi vous executez ce qui le peut rendre heureux.",
+            "Donnez aà̀ voueſme, Madame, cette Couronne",
+            "de gloire, que tant de Heros n’ont pû gagner apres",
+            "tant d’effots genereux Ne larefuſez pas, tandis qu’el",
+            "le ſe preſente, ſa conqueſte n’eſt pas d’vn iour, vos pre",
+            "deceſſeurs ſe ſont efforcez pluſieurs années de l’ac"
         ],
         [
-            "7  Lete de tous mes ms  epere pourtnt quefute  Aur uué depourute  L Mouye du mons e us eur  Que Chot etnt on dneur  S peut ttrpercmpgne  Fer peds de Bretgne  Pour nuor dné e é  Fu que e os reué  Et que e perde contennce  Pour nuor commencédne  S e pus reprendre eor  e rendry comme vn hrng or  Et pptryedne  A cette gent Prenne  Aors on verr e deen  Que e tens cché dns mon en  Et de tout ce quon pourrot dre  Dehors e nen feros que rre  Mntenntfut dre hes  Pour éuter e coutes  Et prendre tout en ptence  Protetnt de mon nnocence  S ne tenot quà fer doux  Afn de es en fer tous  e dros que cet mes offenes  Qu ont ttré ces vengences"
-        ],
-        [
-            "8  Quynt creu meux erur e Roy  De Deu y trngreéLoy  Que e us meme mons coupe  L Foy mynt emé vne fe  Quon peut etmer vceux  Ceuy qu crod & ne ft meux  Que pour moyjy queque vce  e us exempté de mce  Et ne pus pecher en ce pont  De concence nynt pont  Sns conter que mes Prueges  Rendent nus tous es creges  Et font que outon  Mrche utnt executon  Les Lox ont ftes pour es hommes  Ms etnt Prnces nous ne ommes  Ogez n que es Deux  Doeïr quu detn comme eux  Detn fcheux en ce rencontre  Quon ne peut er à encontre  Detn qu rue dns es Ceux  Le pouuor ou des Deux  Fortune tu me fsmouë  Qund os rreter t rouë  Me donnnt pour fcher mon cou  Vncennes u eu de Snt Coud  Mon Pere pour e fre ge Ft"
-        ],
-        [
-            "9  Ft vn eme pprentge  Et prrgueur de on ort  Mengendr dns e eu de mort  e us e eu de m nnce  Et pus dre pour m deffence  Quenfermé dns ce eu ft  e repre mon r nt  Au pr es mux que endure  e detete mon unture  Et us tout pret à fre meux  S e pus ortr de ces eux  e nry ms ns ecorte  Quccompgné de onne orte  eureux que e me déps  Reuenuouuent des pds  Et duor etépeu ge  Que de me er mettre en cge  En cge moy de qu effort  Et pus redouté quemort Qu fos que prfrodure  L Cour decmpot à toute heure  Qu mettos es utres dehors  Ou es enfermos pr reots  e us donc prs ce net quvn onge  Ce me em ors que y onge  Ms quoy ce net ufon  Ny phntome ny von C"
-        ],
-        [
-            "0  e us eu n quvn hermte  On ne m ps épte  On m foué comme vn rgnd  uque dns es ps de mon gnd  Tous commejuosrge  Me fuyent uques à mon pge  Tout mon trn ce trouue redut  A deux vets qu font nu rut  Dedns cette omre demeure  Mes ennus croent dheure en heure  Ecoutntqueque moment  Sonne mon ergement  e me trouue dedns m couche  Le mtn comme e me couche  Et voy e retour du Soe  Le pus ouuent ns corre oe  Ceux qu mccuent detre mpe  Sçuront que y chngé de ve  Et Songe mons à me ruer  Que e ne fts à me uuer  S jentends rure des gendrmes  e pene que on cre ux rmes  Et mttche es eperons  Et voudros tenr es rçons  S mon corps uuot m pensée  Ben tot e prendrosvoée  Et deuendros oeu des chmps"
-        ],
-        [
-            "Et on entendrot ttre u chmps  Mntennt que e us en cge  e ne tens quvn trte rmge  Attendnt qu ce renouueu  e pue entonner r nouueu  An ur e ord du Mendre  Le e oeu nous ft entendre  Qu e ent proche defn  Qund pour e pndre du detn  Aynt ecoüé on pumge  Fr retentr tout e ruge  Pr e trte ecent devox  Et e trouuerent dns es os  Pr vn oupr de meode  Fnt e derner deve  FN"
+            "8",
+            "querir, & n’ont trauallé quepour vous. Receuez ce",
+            "precieux Rameau, que voſtre Peuple vous preſente,",
+            "fin que deuenu Royal entre vos mains, il ſoit plus",
+            "digne d’eſtre preſenté à Ieſuhriſt triomphant,",
+            "pour eſtre beny de ſa main diuine. Tout voſtre peu!",
+            "ple vous accompagnera à cette heureuſe ceremonie,",
+            "& couurant de fleurs & de ſes plusprecieux orne",
+            "mens, le chemin par ouù̀ voſtre Majeſté paſſera, il",
+            "meſlera des cris de ioye aux honneurs que vous ren",
+            "drez à ce Dieu qui fait ſon entrée ſolennelle en Hieru",
+            "ſalem, & au milieu de ſes trã̃ſports, il s’écriera: Voicy",
+            "celle quiprepare les voyes du Seigneur, ſuiuons la à",
+            "odeur des parfums qu’elle répand: courons voir le",
+            "petit Salomon ſous l’éclat du Diadeſme dont ſa Me",
+            "re l’a couronné, allons rendre nos hommages à ce",
+            "eune Roy, & nos actions de grace à la plus glorieu",
+            "ſe Reine qui fut iamais éleuée ſur lethroſne denoſtre",
+            "Monarchie.",
+            "FIN."
         ]
     ]
 }

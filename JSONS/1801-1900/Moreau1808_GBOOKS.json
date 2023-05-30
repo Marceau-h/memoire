@@ -1,51 +1,173 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "narration",
-        "subject": null,
+        "form": "vers",
+        "genre": [
+            "lettre",
+            "burlesque"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-02-11",
+        "subject": [
+            "La Rivière, Louis de (1593-1670 ; abbé)",
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Orléans, Gaston (1608-1660 ; duc d')",
+            "Paris -- 1649 (blocus)"
+        ],
+        "creation": "1649-03-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-06",
+            "@when": "2022-02-11",
             "@who": "AB"
         },
-        "titre": "Les leçons des ténèbres des Parisiens, où les prophéties\n          de Jérémie sont naïvement expliquées, suivant ce qui arrive à présent.",
+        "titre": "Lettre à l'abbé, burlesque.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-26",
-            "#text": "26 avril 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1808_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1810_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Les eçons des ténères des Prsens où es prophétes de Jéréme sont nïvement expquées suvnt ce qu rrve à présent Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Leçons (es) des (sc) ténères des Prsens où es prophétes de Jéréme sont nïvement expquées suvnt ce qu rrve à présent Prs Perre Sevestre 649 Forence Bothèque ntone centre de ForenceTrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dvsé en tros journées dprès vnroposPremère journéeL seconde journéeeu pour ttre\"L Jerusem frnçose Ou es prophetes de Jereme sont nyvement expquées suvnt ce qu rrve à present\" ettrosème\"Sute deJerusem frnçose\" 808 Leçons (es) des (sc)ténères des Prsens où es prophétes de Jéréme sont nïvement expquéessuvnt ce qu rrve à présent Prs Perre Se vestre 649 8 pges Ce pmphet nest n meeur n pus muvs que e précé dent msest pus rre Mzrn y joue e rôe de JudsAprèsprse de Chrentonprose nrrton Arrestton du chever de L Vette 64"
+            "LETTRE",
+            "A L’ABBE",
+            "BVRLESQVE.",
+            "A PARIS",
+            "M. DC. XLIX.."
         ],
         [
-            "LECONS DES TEES PARSENS OV LES PROPHETES de ereme ont nyuement ounep ene ne Sedeee en s es r es u nou c te n eDC"
+            "3",
+            "LETTRE A L'ABBE.",
+            "BVRLESQVE.",
+            "L vous ſied bien, Monſieur l’Abbé,",
+            "D’vn petit chanteur de Iubé,",
+            "Ou d’vnpeu d’exctement de boüe,",
+            "De monter au haut de la rouë.",
+            "C’eſt ainſi que quand il luy plaiſt",
+            "D?vn marmiton ou d’vn valet",
+            "La fortune fait vn Monarque.",
+            "Ou du moins vn ſeigneur de marque",
+            "Tantoſt elle abbaiſſe des grands",
+            "Pour eſleuer des ignorants:",
+            "Mais quelquesfois elle ſe iouë",
+            "Et faiſant faire vn tour de rouë,",
+            "D’vn qu’elle auoit fait ſi puiſſant,",
+            "Duplein elle en fait vn croiſſant,",
+            "Tant de Rois iadis ſi celebres",
+            "Se ſont veus couuerts de tenebres,",
+            "Et reduits à chercher du pain,",
+            "Apres vn pouuoir ſouuerain,.",
+            "N’n pas veu dans vne cage",
+            "Comme dans vn piteux ſeruage",
+            "A"
         ],
         [
-            "3 AunropOsE Prophete eremus preuoynt es mhers qu deoent tom Lrvde de erem denty ntement de De ver des pms ur cette Cte eqes redn pr ecrees pp Lmen ons d ce d ujet quees contenoent Dns eet ourge dun nt npré de Desprophet ce q deot rruer ̀ cete orge e Cté de orte quee pouot eter es mheurr ffee et eu des yeu ez crs por decorr es ertenmens qe ce nt omme Ayot donnez Ms ce fut e que e pene vn ecret jugement eDes q vooe trer ron de ce peupe prce q ot fs monr Esvs CHRsT on Fs Ms qe ds je ous onmnes eu gesnous memes & ne voyons ps que ce que no prenons por es nfres peut efreprs por nous Et comme es Prophetes ne nt jms cres ̀ ce pont qon es pue expquer emense rhe qe ces ecrts peuuent efre ppqnezZ ̀ notre fortnmeno es voons conmféderer de e pres Cet ce que e defre de vos fre vor d preent vous momffrnt vertement qe Des e dertme e ujf de ce q eur deuot rruer voot u nous duertr ec ux de ce qee nous os crmdre Cr come vne predto ne ps fte pour vne ee peronne spor vn mer dmes qu pent sy renconsrernet ps fé m propos que ces Propees nenous pene erur uten qx uf Ce que tu porr or ument cher Lecteurt veux re expcton qe y donne ne y e e pus nement que y p y deuuseé cet ourge n tros ornees unmtes por ne me pont eogner de ntenon de Ege qu chnte eLeçons en tros ours duers que on ppee Te nres ̀ cue qen tot ce tempsEs vHsT fur dns es cceores dePon ce qu te fer vor ns doute que es pred ons du rophete ont tout predt ce q sccompt mntenmnt cr e ne me retre ucnement de ens de ce grnd Prophere De pus e duertry que e mets premerement os texte qc e trds fdee ment en Frnç̧os ps pres ens donme expcton chqe pue ponr euterconfon Tos henreememt ds tru que e te pre ete Adee"
+            "4",
+            "Vn Emnpereur de l’Orient",
+            "Se repaiſtre d’vn peu de vent.",
+            "N’ on pas ſouuent des Princes,",
+            "Qui deſpoü̈illez de leurs prouinces",
+            "Ont ſerui de triſte ornemens,",
+            "Au triomphe d’vn conquerant:",
+            "Mais c’eſt hors de voſtre naiſſance,",
+            "Que ie rabaiſſe la puiſſance.",
+            "Parlons vn peu des fauoris,",
+            "Dont vous eſtes des mieux choiſis:",
+            "Sçauez vous qu’au temps de Tybere",
+            "Sejan luy ſeul pouuoit tout faire,",
+            "Et qu’il s’eſt veu dans vn moment",
+            "Perdre tout ſon commandement,",
+            "Et du plus puiſſant de la terre",
+            "miter le freſle du verre",
+            "Par vn infame & triſte ſort",
+            "Receuoir les coups de la nmaort.",
+            "Sçaueous bien que Beliſſaire",
+            "Ce guerrier iadis ſi ſincere,",
+            "Apres tant de paysconquis",
+            "Qne ſon courage auoit acquis",
+            "Aux loix de l’Empereur ſon maiſtre",
+            "La fortune luy fit paroiſtre,",
+            "Que malgré toute ſa vertu,",
+            "falloit qu’il fut abbau,",
+            "Quoy que ſa vertu fuſt connuë,",
+            "falloit qu’il perdiſt la veuë:"
         ],
         [
-            "LESS p y y HHH L L LL A 4 LZ PARSENS OV LES PROPHETES DE EREME ont nuement expquées uunt ce qu rrue ̀ preent PREMERE OVRNEE PREMERE LEcONe ourquy cette Cré f grnde &rempe depepe ee e nenn ne eue ee et ne e tee Qe e e e ee de e ee e ur edee Prs et cetre depore Crté queté deée à m pourueu de fon Prnce quon uy ̀ mheureuement eneué ce quredute ux memes os dvne eune femme qu e voynt ndonnée de on cher epoux ne ft pus que Verer des rmes & e retrnt toure eue futCompgne des utres 2 ernt des rmes ee ne cee de peurr e ong denft & e runeue deunuens r nse e e ue nue perome poronoer meome prmy es pu hen me Tus ermsmeprent & deuennment er pus pns ennems Ne fue psnuct que Prs commenç de reentr esfhcuons?"
+            "Mais auez vous eſtudié.",
+            "N’auez vous iamais mandié",
+            "Le ſecours de noſtre Grammaire.",
+            "L’hiſtoire eſlle familiere",
+            "A noſtre excellent iugement,",
+            "Ou ſi vous aimez le Romant:",
+            "e vois dans l’Hiſtoire Romaine",
+            "Vn action fort inhumaine",
+            "Commiſe contre vn grandDocteur,",
+            "Ce Seneque ce graue Autheur",
+            "Que ſa ſageſſe fans ſeconde",
+            "Deuoit iendre maeſtre du monde.",
+            "Apres auoir ſidellement",
+            "Conduit vn fol entendement",
+            "L’eſpace de quelques anneées.",
+            "La cruauté́ des deſtinées",
+            "Et celle de ſon eſcolier",
+            "Se pleuſt à le voir deſpoüilles",
+            "De tous ſes biens & de ſavie",
+            "Pour plaire à labrutaleenuie",
+            "D’vn bouffon & d’vne putain",
+            "Entreteins par ce facquin,",
+            "Qui gouuernoit pour lorsl’Empire?",
+            "Mais, Monſieur, c’eſtvousen tropdire,",
+            "Ft ie connois à cét inſtane",
+            "Qne vous n’en eſtespasoneent.",
+            "N’importe malgrévoſtrerags",
+            "Non pas malgré voſtro coorag",
+            "s"
         ],
         [
-            "ffctons? Ne ps deé de ceux qu e deurocrt ps ronnement upporter Ses Prnces ont es pus r ennems & ceux q uy fontguerre 3 uds chngé de eu ̀ cue de don & de e mutude de ceux qe eoent reduts u eruge e et e utreprt on pen trouuer de reos Ce qu ft que s cex qu uoent co mencé de pereuter cette puure ve e ont jettez teus ur ece & ont redute u os Mzrn cet ce mere uds qu ne pouunt pus de meurer uec nous set echpeé de nos mns pour er eurs ne pouunt pus ncus ftger duntge ny nous redure en vn pus grnd ecugeet tourmenté depropre concence qu ne ç̧urot jms e qutter Et es Prnces en ute e u tenntcontreron ont commencc de nous oucher es pges & de nous rreter es vures ce qu nousjettez eu de grndes penes 4 Les chemns de Son e pgnent ̀ cue qu ny feronne q venne doemnmté queon uot cotume de fre Totes es portes ont efé detrutes e Pere ont onguement eu re e fes o deuens totes hvre & toues cneues & ee ne set troue oppreee de ́on Les chemns qu vennent de tous es endrots ̀ve ont formé des pntes contrevoence de ceux qu es empe choent Etoemnteé que dt e Proprere net ee ps trop ve pus que e jour des Roys on nous empech de nous ré jour & notre Creme prennt ne set ps ft en meeur ett On rompu es Pont eus de nos portes nos Pretres & nos Regeux ont ncemment oupre drent cont nueement eurs preres u Ce nos fes deuennent trtes & chngees voynt quees noeroent eperer durnt tous ces troues detre mrées Et toutes ces choes nous ont ns doute des occons de trtee J Ses enncms e ont droement poez ̀tete & e ont extreme ment enrch prce que e Segneur fpre ur ede ̀ ue denmu de des pechez quede uot conms Secs petts enfns ont ete condutr en ptute deuent es yex de ceuy qu uy cuot tnt derroue Le Prnce mrche uy meme à̀cetede es odts uques donné e pge Et tout ce en eurement net rrué que pour nos pechez es odts de notre prty qu etoent petts àventeé prce qus e ont trouuez es pus foes ont eté conduts à̀ pect du Prnce dns e os de Vncen nes & eurs"
+            "6",
+            "Car rous conuiennent en ce point,",
+            "Que vous n’en euſtes iamais point,",
+            "e veux ſans eſtre teméeraire",
+            "Vous dire ce qu’il vous faut faire,",
+            "Vous ſcauez, Monſieur, par effet",
+            "Que la Fortune vons a fait,",
+            "Elle peut auſſi vous deffaiie.",
+            "Il ne vous faut qu’vnvent contraire",
+            "Pour perdre tout voſtre credit,",
+            "e crois deſia qu’on vous l’a dit:.",
+            "Mais encore ie vous le repete,",
+            "Gardez qu’on vous caſſe lateſte,",
+            "Vous cn faites trop tous les iours,",
+            "Ft vous continuez touſiours:",
+            "Mais ſongez à ce que vous faites,",
+            "Et conſiderez ce que vous eſtes.",
+            "Tous ſç̧auent que vous eſtes né",
+            "Dans la ruë S Honoreé,",
+            "Gn connoiſt encore voſtre mere",
+            "Pour vne meſchantelingere:",
+            "Cependant vous eſtes ſi fol",
+            "Que l’on vous caſſera le col,",
+            "Et que vous obligezvn Ptince",
+            "A vouloir petdre ſa prouinee.",
+            "Où diable eſt voſtre iugement,",
+            "Si vous ny ſoignez meurement,",
+            "e plains voſtre pauure carçaſfe:",
+            "Conſiderez que Dieu ſe laſfe"
         ],
         [
-            "Secoe LEoNEt outeé edede Sonndonne Ses Pr ce cme des Beters nont pont trouué de ptré & e ont equ ez ns force de deut es yex des ennems ques pouruuoent Prs et deuenu tout utre qu netot uprunt ces re nuëmens & en chngé de vge quon ne e ç̧urot pus reconnotre receu de echec ̀ Chrenton & eurs prurpre de es ennems 2 eruem s reouene des onrs quce eut de fon & Ae ence de tout e quee ot deré & quee uot poedé de tont teups os que on epe tomor dns es ns de es cnnenms qu ne venot peronne porccourr Ses ennems ont engee e ont norque de e fetes Ce fut ors que ces perres nous frenr deer es yeux pou? eux reconnotre e m qu nous tonnot & nous reouuenr depx que nous poedons notre memore ds je fut ors ouuerte qund nouspperceumes que nous etons tomez dns es mns du Prnce & que peronne ne e htot de nous donner du ecours A cette heur ̀ nos ennems noerent pont eurs rocrds & e mrent à e guer des preres ne nous fons tous es ours dedns nos Eges 3 erueemms pcché ur peché cet pourquoy ee net pont deeurée dns vn memte et Tous te q uy portoent de hon neur vnt rrez es dutnt qus onme pperçex on gomne Ms edde fondnt tote en pers set ornee de sutre cot Ne ps vry que Prs etot f rempy de toutes ortes de crmes queprde &voere ur tous es utres pechez y uoentvogue & quee ne çuot en quee poture e mette chngent tous es ours de mode ot ux hts ou ux fçons de prer ce qufot meprer de toutes es utres Ctez non euement de Frnce ms de tous es en drots deterre Ms ors quee set veuë ffgée ee set enfn reconnuë̈ & e tournnt de utre coté cet ̀ dre chngent de ve & de mœurs e e set enfn repente 4 Ee de ordre u peds & ne set ponmt reovuen defn d rncre Eeeté rudement dme ne trount œcun moyen pour e conoer Scgneur conderez mon ffton prce que mon ennemy et deu tout drot Nous uons uprunt es peds es cr nous courons à rde ttuë à̀ troures ortes de crmes ne nous reouue nns pourquoy nous ommes u monde Nous uons eteé re"
-        ],
-        [
-            "jettez rudement de Deu qu nous ndonnnt tout ̀ ft ne nouspus e peronne pour nous conoer ToseSE LE4ONLennemyporé́ c nmn ̀ tot ce quee ot de pus cher prce qeev es tons etrer ds on Snfre nons que vout ueZ omndeé de ny ps entrernyren de ps cr que cette prophete cr ennemy quportemn ur ce que nous uons de pus cher et M rn qu nouseneué e Roy dont ence nous eten fe quee et ̀verte e pus grnd m que nous reen tons Cet Mzrn de quetéperfde &emer re que dentrer dns e Sncture de Deu en e fnt Crd n ttre qu porte s fut dre n contrevoonté de Deu meme qu nems pprouué temonmechn e ve 2 TTou on peupe gemt & cherche du pn s ont donné tout ce qus uoent de ps rnche & de preneux pour e refre vn pert RegrdeZ moy Segncr & condereZ prce que vous muezft f hjece Dns Prs e peupeonguement oupré & emt enco re à̀ preent pour uor du p L fmneteement op pree qu ne e oucot pus de threors ny des choes es pus preceues pourueu qu eut dequoy e rer & pour ougerfmne ette toy done puure peupe en ces ours f conderes à cue dePon qu ouffrt pour mour de toy ettes toy entre es rs de ton Deu qu tfort rué ns utre deen que pour te reeuer pus pres 3 O vous tous qu pez pr ce chemn cy voyezZ & conderezs e peut rencontrer vne utre doueur qus ot ee ̀menne prce qu m vndngé comme pre e Segncur u jour qu en tre e frere çy que ces proes dns tous es ecrts des Sçuns ont ntemenr expoées pour gnferperonne de notre Se geur eu Chrt ms vous me permettrez nentmons de es ccommoder u ujet que y commenceé Yt donc une pus grnde doueur que cee des Prens s ont pr uez de eur Roy eurs pus chrs Prnces ont eurs ennems vn eu prtcuer eur cue vn m ns pre dns eur cœur s voyentneceté du peupe es Mrchnds e runer n enfement e Sent uor me penes à compoer es ff"
-        ],
-        [
-            "resNoee etre duée Ege uor eucoup de tr uux & ref s voyent tout enmuus ordre qu et en dffce dy remeder ns quemn de Deu sen vuee meer 4ft chord feu du pus hut du Ce dont conommé mes os & pr ce moyenm rendüe pus çnnte tendu deunt mes peds vn fe &m t tourner dvn utre coém rende toute deoée & toute coee en trfeeLe feu que Deuft chor ur Prs ce ont es ffctons cr commeneprgne ren de tout ce qu et propre ̀ ruer qundsy ttche vne fos de meme es ffhctons nont ren eprgné dns Prs depus e pus pett juques u pus grnd & ̀ tous eneme donnécence cet à̀ dreconnonce des futes De pus ces memes ffctons ontvn punt feé pour rreter nos pechez & qu nous retrnt des muues ncntons nousft tourner du coté de Deu prpentence qu fnt ntre des regrets u pus profond de nos mes nousft peurer nos pechez 5 Le jog de mes nquteZ ̀ veé ees ont eté tournées dns es mns C es deus mon co M force seft trouuée ffoe e Se gneur m me dns e pouor dne mn dont c ne porry me euer L penteur de nos crmes n ceé de nuct & de our à̀ nous tourmenter Le our nous uons eté ur es rmes &nut nous uons eu des rmes qu nous foent crndreurpre de nos ennems Tnrot ennemy venot ̀ nos portes on vouot ruer es fux ourgs on tuot nos gens defus es chemns Enfn Deurourné́ & retourné dedns es mns nos pechez & es rejettnt deus notre conouspuns r goureuement de orte que notre force n peu reter u m Et pourdernere puntonnousms entre es mns dvn mere etrnger dont nous urons en depene à̀ ortr s ne pt à Deu de nous ecourr vtement F depremere orné́e"
+            "Des maux dont vous eſtes l’autheur,",
+            "Ou dont vous eſtes le fauteur,",
+            "Ceſſez voſtre ſotte practique,",
+            "Vous n’eſtes pas bon politrique",
+            "De conſeruer ce qui veus nuit,",
+            "Et d’auoir ſouffert que la nuict",
+            "Le Roy quittaſt ſa bonne ville:",
+            "Faites que l’autheur faſſe Gille,",
+            "Et croyez que ie ſuis de cœur",
+            "Voſtre treumble ſeruiteur."
         ]
     ]
 }

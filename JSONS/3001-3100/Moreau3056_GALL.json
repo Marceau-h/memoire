@@ -1,59 +1,174 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "nouvelles",
+        "genre": [
+            "narration",
+            "articles"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1652-02-03",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-31",
-            "@who": "KA"
+            "@when": "2022-09-28",
+            "@who": "AB"
         },
-        "titre": "La réduction , au service du roi, de Damvilliers et du\n          Pont de l'Arche en Normandie, avec ce qui s'est passé de plus considérable en cette\n          province.",
+        "titre": "La reduction de la ville et chasteau d'Angers en\n          l'obeissance du Roy, avec les articles de sa Capitulation, fait le 26. Fév. 1652.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3056_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3057_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L réductonu servce du ro de Dmvers et du Pont de Arche en Normnde vec ce qu sest pssé de pus consdére en cette provnce Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Réducton () u servce du ro de Dmvers et du Pont de Arche en Normnde vec ce qu sest pssé de pus consdére en cette provnce PrsSns Nom650 4 févrer 65023 cm pgnton mutpe Prs Bothèque ntone de Frnce Déprtement Réserve des vres rres RES 59 (2088)TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dns une nthooge de 88 réédton dpomtque de \"Mzrndes normndes\" Le coophon mentonne\"A Prs du ureu dAdresse e 4 Févrer 650Les Gzettes Nouvees & Extrordnres se vendent à Roüen chez ANTHONE FERRAND ET VLEN COVRANT ux degrez du Ps Auec Prvege\" Texte consute à prtr devue 32/68prose nouvees"
+            "LA",
+            "REDVCTION",
+            "DE LA VILLE",
+            "ET CHASTEAV",
+            "D'ANGERS",
+            "EN L'OBEISSANCE",
+            "DV ROY.",
+            "AVEC LES ARTICLES",
+            "de ſa Capitulation, fait le 26. Fév. 1652.",
+            "A PARIS,",
+            "Chez SALOMON DE LA FOSSE.",
+            "M. DC. LII."
         ],
         [
-            "LA REDVCTON AV SERVCE DV ROY des pces de Dnvers dns e Luxemourg & du Pont drche en Normnde Auec ce qu set ngueres pe de pus emore en cette provnceLmportnce deve de Dvers &tuton proche du pys ennemy ynt oge e Roy deffunt à y tenr A pourgrde vn régment dnn tere ous e eur dAnnevoux qu en ut ft Gouverneur depuspre ur es Epgnos pr e Mrech de Chton n 637 ce Gouvernementetéun ô9 donné u Prnce de Cont Leque vount seurer depce e eur de Bé cheree qu en etot ors Leutennt de Roy ut ogé e dutéme Novemre enuvnt de doõnerdémon &"
+            "3",
+            "LA REDVCTON DE LA VILLE",
+            "& Chaſteau d’Aaeps en l’obeyſſance du Roy,",
+            "auec les Articles de ſa Capitualation.",
+            "’Eſt maintenant qu’il faut admirti",
+            "pnudenre conduiue amue laquele",
+            "le Conſenl, de noſtre Roy agit dans",
+            "&P ſes deſſeins, il n’appartient qu’à̀ ces",
+            "grands Genies, dont il eſt compoſeé de Iuges",
+            "des intereſts de ’Eſtat,l& non pas à ſts eſprits",
+            "de bas alloy de diſcourir d’vne matiere qui paſ",
+            "ſe leur connoiſſance, & laquelle ils peuuent",
+            "d’autant moins reſoudre qu’ils n’ont pas ſeule",
+            "ment, la capacité figiréé pout ceteffet, n’eſtant",
+            "pàs la dbctrine dû vulgaire qui puiſſe compren",
+            "dre les maximes que l’on tient au Gouuerne",
+            "ment, La douceur auec laquelle ces ſages P",
+            "Ittiques gouuernant l’Eſtat, fait voir que c’eſt e",
+            "eul ’amour de la patrie qui guide toutes leurs",
+            "entrepriſes, & ſans doubte ils ſeroient inſenſi",
+            "bles s’ils n’eſtoient eſchauffez aupres de ce fet",
+            "drdedt qui embraſe noſtre jeune Monarque d’a",
+            "mouir & de charité pour le ſoulagement de ſes",
+            "A ij"
         ],
         [
-            "de cencer on régment u eu duqueen fut eueé vn utre pour e Prnce de Mrc Ms pource que on e contnt de chnger es Chefs & Ofcers prncpux du régment dudt eur de Becheree à çvor es Cptnes Leutennt & Enegnes fns en trer en eur pce des cretures du Prnce de Cont retennt es Cporux es Sergens &odteque depusdeten ton des tros Prnces edt eur de Bécheree e perûüd qu pourrot pr e moyen de es Cporux Sergens & odts retez dequessetot ft grndement mer e rendre mtre depce & urpropotonuy ut donné vn ordre du Roy pour y commnder en ce cs Les ynt doncen mengez qu e conerv decrênce dns eurs eprtseur ft vor ement verõ à porter es rmes contre e Roy ce qu eur ft temogner queque dedn ux commndemens de eurs Ches De quo setns pnts u Chever deRochucut com mndnt pour e Prnce de Cont en cette ve de Dnv ers & u en ynt u ft es pntes u Mrech de Turenne ce Mrech ft vncer e xéme de ce mos vn rêgment dnfntere & des cvers verspce Ce que voyns es Sergens Cporux & odts de cette grnou pprêhendns e muvs trtement qu eur etot prépréces troupes etrngeres entroyent cheux es pus ortes s e réourent de e déendre & à ntnt e rent de eur Gouuerneur du Mjor & de tous es Cptnes Leu tenns & Enegnes vnt que e regment du Mrech de Turenne fut entré & fn de en empecher trerent ur"
+            "peuples, qui le rend infatigable dans ſes plus",
+            "tendres anné́es, ou il a emouſſé toutes les diffi",
+            "cultez qui s’eſtoient oppoſeées à ſes Royalles",
+            "reſolutions, ſoit par les faſcheux chemins la core",
+            "equence des voyages ou la rigueur des ſaiſons,",
+            "Si bien que rien n’eſt capable de ralentir ſon",
+            "courage inuincible à l’imitation des glorieur",
+            "nceſtres de ſa Majeſté, qui n’a pour but de tous",
+            "es trauaux qu’vne paix aſſeureée, à l’abry de la",
+            "quelle elle puiſſe cuillir autant de Mirthes qu’ele",
+            "fait de Lauriers. Et comme ces deſſeins ſont",
+            "non ſeulement eéquitables: mais encores dignes",
+            "d’vn grand Roy, il ne faut pas s’eſtonner ſiles",
+            "rmes d’vn tel Monarque ſont par tout ſuiuies",
+            "de ſuccez adauantageux à ſa gloire qui eſt vne)",
+            "preuue certaine de la Iuſtice qui les accompa:",
+            "gne, en ſorte que l’on peut dire auec verité, que",
+            "tout ce qui eſt arreſté dans vn Conſeil ſi augu",
+            "ſte procedde de la meſme équité, puiſque nous",
+            "voyons reüſſir ſi heureuſement toutes ces ente",
+            "priſes, d’où il paroiſt que Dieu protege viſi",
+            "blement les intereſts de ce ils aiſné de ſon Egli",
+            "ſe, & quoy que le Demon de la diſcorde ait ſemé",
+            "diuiſion preſque dans toutes les parties)",
+            "de l’Eſtat; Neantmoins il ſe trouue que ce qui",
+            "embloir eſtre le plus difficile ſe trouue facil.",
+            "&"
         ],
         [
-            "uy ez de cnonndes pour e duertr de per pus outre pus frent prt de cette cton u eur de Feuqueres eque en donn vs u Roy & u eur de Bechere qu ttendot pres d ce on evenement qut ntro dure dnspce & receuor à rs ouuerts de es ncens odts De quoy des e endemn donn u vs à Leurs Mjetez pr on frere ces odts setns n ren dus ns coup err mtres de tous eurs Ches utnt urprs comme vous pouuez crorc dnut & nopné chngement & yns promptement remspce en oeynce du Roy temognns eur repet u Cheuer deRocheoucut qu es commndot en ce qus rent prer e Roy enfveur ns prer de eurs utrcs Off cers L reduon du Porche u eruce du Roy d ce qu set pe en ueE eur de Chmoy commndntve & e chteu L du Ponrche e trouuot cz ort pour es gr der unt pproche de S Mjeté msne eut ps putot veuë & condere e pcr oùe mettot en retnton Prnce que rentrnt en vne prte de on deuorenuoy upper de trouuer on qu es grdt pour on eruce memes en conderton des grndes depences"
+            "3",
+            "& il ſe reconnoiſt que par tout ou ce Monar",
+            "que François communique ces rares qualitez",
+            "dont la diuine prouidence aà doué ſa perſonne",
+            "Sacrée, en meſme temps les peuples les plus eſ",
+            "chauffez dans l’obſtination de leur mutinerie",
+            "ont contraints auſſi bien par la douceur de ces",
+            "ymables attraits que par la force des armez vi",
+            "cCto ieuſes de ſa Majeſté, de ſe renger dans leus",
+            "deuoir en reconnoifſant la legitime authorité de",
+            "eur Souuerain; C’eſt cette force touſiours ac",
+            "compagnée de luſtice ſecondée de ceſte auguſte",
+            "preſence de noftre Roy, qui a diſſippeé en vn mo",
+            "ment les nuages qui co nmençoient d’obſcurcir",
+            "ces rayons de l’authonteé́ Ro alle dans le Berry,",
+            "où cet aſtre Royal neuſt pas pluſtoſt commen",
+            "eć de pidre que cete Pouince s’eſt voue Calb",
+            "anée, & dans vn reps aſſeuré, cét llluſtie flam",
+            "beau ayant pouſſé p’ne anant les traits de ſa lu",
+            "miere, auroit non ſeulement ff’erv le Poi ctou",
+            "dans vne obeyſfſance parfaite: mais à porteé. l’eſ",
+            "pouuente dans les lieux les plus jeculez, ou la",
+            "diuiſion eſtoit en vogue, par ce moyen empeſ",
+            "che quelle ne ſe ſoit gliée plus auant, & par",
+            "de ſignallez eombatrs deſliuté ſes ſubjets de l’op",
+            "preſſion qui leur eſtoit preparée, tellement que",
+            "déa out couuct de Lauiers fa lajeteé́ ayan"
         ],
         [
-            "qu y uot ftes notmment pour es muntons qu uot mes dns e chteu qu et u toutereponce quen remporterent es eurs de Fontenes dAngove e Bron de Lores & ntres qu es vns pr chrge es utres de eur propre mouuement sempoyerent en cette negotton Ms e Comte dHrcourt uy ft çvor qu ne devot pont ttendre quon e t pus onemps en cette pce pource qu vot ordre expres de er nvetr qu ne devot non pus epérer quon u permt dttendrereponce deDuchee de Longueve demndnt du temps pour envoyer vers ee De ft ce Comte nvettpce vec es troupes du Roy qu commnde Dequoy edt eur de Chmoy neut ps putot vs qu envoy toutenut vers on Emnence à quee ynt ft entendre qu uot eu ordre deDuchee de Longueve de rendrepce u Roy Le 7 de ce mos e eur de S Amour Exempt des Grdes dn Corps y fut envoyé pr e Comte de Hrconrt Leutennt gener de rméêe de S Mjeté en cette pro vnce de Normnde & cet Exempt y fut receu uec qu rnte odts détchez du regment des Grdes pourgrder en ttendnt que e Roy en t utrement dpoe & edt eur de Chmoy en ortt à qutre heures & deme de reevée du meme jour uecgrnon compoee de 8 odts euement outre es o Morteyes en quon eut t courr e rut dvn eucoup pus grnd"
+            "ne e e lo ene e lne e en ſerner",
+            "oit ſur ſon authorité, auroit reſolu de quitter le",
+            "ejoui de Poitiers & ſe rendre ſur les lmites de",
+            "crte Prouince e la yille de Saumur, auec vne",
+            "partieé de ſes trouppes, afin deranger ces peup’es",
+            "à la raiſon, & dans vne ſi belle o caſion moiſ",
+            "ſonnée de nouuelles Palmes, ern jmmortaliſant",
+            "gloire de ſes Armes: Mais par vn prodige met",
+            "ueilleux, les habitans de ladite Ville d’Angers",
+            "voyant approcher ſe miracle de nos jours de",
+            "enceinte des murailles de leurs ville dans vne",
+            "Royalle reſolution de les pouſſer about à quel",
+            "que prix que ce fuſt; ont fait paroiſtre qu’il eſt",
+            "comme impoſſible aux Franç̧ois de meſurer leurs",
+            "rmes contre celles de leur Souuerain, quelque",
+            "pretexre que l’on leur puiſſe auoir fait prendre,",
+            "en ſe ſoubettant entierement aux volonre2",
+            "du Roy, & luy liurant les clefs de ladite Ville",
+            "& Chaſteau d’Angers, aux conditions qu’il a",
+            "pleu à ſa Majeſteé de leur accorder par ces arti",
+            "cles ſuyuant.",
+            "Er",
+            "II",
+            "ARTICLES ACCOR DEZ.",
+            "Que le Duc de Rbhan Gouueraeur de la"
         ],
         [
-            "nomre qu à ntnt memes e denderent & e ret rerent chcun chez oy Ce Gouuerneur ortnt depceee tren ourne de toutes ortes de muntons de guerre & de ouche uec x peces de cnon & qutre cens mouquetons neufs Vo ce qu set peé juques u eptéême du conrnt urreddton du Ponrche Ms e mtn du huteme deux nouveux Députez deve de Deppe e rendrent à Roüen & rporterent queDuchee de Longueve qu setot retrée dns e ch teu etot decenduë e jour precedent dnsve où ee vot ft convoquer vne mée de tous es htnts en quee toutefos s ne e trouuerent que 5o ou 6o en rmes & pres es vor hrnguez queque temps pour onder eurs ntentons ee es trouu ermes dns e eruce du Roy Pus ee dt Quen e reront ou cheu ee nuo eu ucune nenfons préjudce u eruce de S Mjeé ms euement dy per ec queque orte de eurt e tems depron de Momfeur on mry é quee oro de e mettre entre eurs mns pourueu qus peut u Roy fre retrer es roupes deProvnce A quoyfut repondu vnnmêment Quss feroyen çuor u Roydcrtn pour prendre urce es ordres de S Mjeé & y oer ponue ement Cependnt es premers Deputez de cette ve de Deppe demndns jutmment vn Che pour fre rmer es our geos & es gràtr de nvõ des troupes du grãd chteu e Roy eur envoymtnée du meme jour ô e eur du"
-        ],
-        [
-            "Peeére Mrech de cmp dontfdeté &v eur ont ez connuës Au fu receu de ces htãs vec des ccmtons de joye qu temognérent comeneur etot grée & fut uv de x chrots egement chrgez de poudre & de meche & de pomDuchee de Lon gueve ynt ft cheter ous mn ors de on rrvée outes es muntons qu etoyent ors dnsve Les troupes du Roy condutes pr e Comte dHrcourt u tot que e Pont de Arche fut rendu erent coucher à Andes & ce ou 8 à Cy qu et ur e chemn de Rouen à dte ve de Deppe de orte quees devoen rrver e endemn àveuë depce & es Mrechux des ogs du Roy en prtrent e meme our 8 pour er à Bqueve u ur e chemn de Deppe Cependnt & fn de ne vous pont trop nterrompre ordre des tẽps e eur de Sntot Mtre des ceremones mt 8o Sues du regment des Grdes dns e chteu de Rouen dt e ve Ps pour dutnt pus seurer depce On desttu pr ordre du Roy toutes es cretures & per onnes fectonnêes & dépendntes du Duc de Longue ve Avor e eur de Fontne e Pn Mjor deve qu etot on Leutennt dns e ve Ps & qu trot penon de uy vn Coneer du Prement de Rouen qu e dot à uy Onoté à vn utre Coneer on conf dent vne porte fortfeêe dontgrdeeté renduë àve ouschrge dvn Echeun comme pr e pé Onft e meme du ort qu et u out du pont que ce Due"
-        ],
-        [
-            "uot ft ortfer Onuprué e feur Aumont dechrge de Cptne des Arqueufers de Roüen & pueurs utres Cptnes & Offcers de ve pr uy etsEt e eur deMrguere Mtre des Requetes vn des ntendnts deutce Poce & fnnces àute du Roy & en r mée de Normnde etnt é udt Prement de Rouen ce Prement es Chmres emées reout doer à tout ce quordonnerot S Mjeté qu euru rems eeton des Offcers cez en pretnt eon ncenne coutume e erment de fdeté entre es mns du Roy L nuct du hut u neuféêmeDuchee de Longue ve ugent prfdeté des htns de Deppe enuers e Roy ce quee en devot eperer ey de sen retrer & e uuer pr mer etãt à cette fn decenduë pr es der reres du grnd chteu pour semrquer u s defre ms e eur du Pes Beeure ynt ft prer u Cptne Dne qu commãdoteue fregte pour ors en ett de fre voe ee fut contrnte de retourner vne econde fos dns ce chteu uec es Dmoees & preuoynt queee ne e htot toutes es uennẽs depce ns etre ermées pr pproche des troupes Royesuy erot mpoe de ortr ns etre reconnuë voyn deurs que e eur du Pes Beére e retrnchot deunt ce chteu ee trouu moyen de e uuercheu uec cn cuers ns quon t pû juques cy çuor quee route eepre non que quequens dent uor veüe per à Longueue En prtnt ee dépech e eur de Chmoy qu seto"
-        ],
-        [
-            "retré du Ponrche upres dee pour eurer Leurs MjefeZ de on oence & que ce quee t juques cy nuot e que pour rencontrereure deperonnequememe confderon ogeot encor d̀ sogerMs que pour domner d S Mjeé vne mrgue de on usmé d& repedefdeé ou ee efot ee uot ordonmé us feur de Mon gn ous Leuennt d Duc de Longueue & Leutennt du feur deTour) qu commnde dns e chfeu de Deppe de e remettre entre es mns de ee peronne qu pr d̀ S Mjeé A quoyReyne à repondu quee seftonnot fort que Mdme de Longueue prt pour prétexe de ce quee uo ft juques d cete heureeurté deperonne pus quee uy uo enuoyé e feur de Vrenmmes expres pour uy donner puroe qee pouuot er & demeurer en oue eurté d Tre os d Couommers Que pour ordre quee uot donn u feus de Montgn de remettre e chfeu de Deppe entre es nns ee ne uy en uot ucune gton pur ce quee uo en connu quee me pouuot ps e d́fendre confre es forces d Roy Sur quoy ynt eté demndé udt eur de Chmoy ce qu ot fre pour exécutonrepondt quvn ordre demn uffrot on e uy ft donc ecrre ur heure & on drememe nut on ecrt udt eur du Pes Beere On mnd en meme temps u Comte de Hrcourt qu sunçot comme y dt uec es troupes du Roy vers Deppe denuoyer deux cents Sues udt eur du Pes"
-        ],
-        [
-            "Beere pour entrer dns e chteu & fre frs te u rete des troupes juques à ce qu eut us que edt eur du Pefs fut Mtre de ce chteu Lon ft u fre te u gge deCour qu etot desj prty pour e rendre à Bqueve où S Mjeté deuo er couchernut du endemn mrche neut eté rretée pr cette oceurence Cependnt nouuees vnrent de Cën que e eur de Croette qu y commnde etot en dpoton de remettre u on chten u Roy n quuot ft e eur de Chrmoy & quot fre e eur de Montgn commeen uot euré e eur du Pes Beére prLettre du neufême de ce mos portnt en utnce Quencor qu eut eté vn peu urprs depropoton de remettre es chteux de Deppe entre es mns veu es termes uquesetot demeuré uec e eur de Chmoy toutefos ncnton qude porter ux ordres du Roy e repe? qu eur dot & e comnndement qu enreceu deDuchee de Longueue ogeotuy donnerproe de remettre dns vngut heures edts chteux entre es mns & pour cet efet uy donner preentement vn otge deprt pour eureté de executon deproe ors qus uy en donner vn ntre deenne pour etre temons que es choes demeureront en meme ett où ees e trouuent & qu nentrer ren dnspce que ce qu y et uecerté ux genommes qu y ont de e pouuor retrer chez euxon eur eme à condton u que deprt dudt eur du Peeére"
-        ],
-        [
-            "ne er nnoué ucune choe ny ft ucune entrepre contre edts chteux & orterees ou ceux qu ppr tennent à dte Duchee ou qu ont dns edts chteux moyennnt qu ot ft nuentre uunt ncen & nouue ett des nmes cnons muntons de guerre & de ouche & generement de tout ce qu et & e trouuer dns eurs mgzns fn que es nterets du Duc de Lon gueue puent etre coneruez comme u ce qu con cerne edt eur de Montgn en prtcuer pour es rmes & muntons qu yft mettre En outre qu y ur en tere eureté pour tous ceux qu ont dns edts chteux & qu e ont ms en ett de rendre eruce en ce rencontre à dte Duchee es dometques ou utres qu e retre ront où on eur emer edts dometques uec eurs rmes gge meues equpge Vets & cheuux & quumeme choe uy er ccordée & à tous es utres Offcers & odts degrnon dedtes orte rees An vo qutre pces e Ponrche e ve Ps Deppe & Cen reggnées pr e Roy depus on entrée enNormnde & en ong devnté des oëtes des muus Drogutes vous voyez cy eucoup pus que ne nous uot proms mon ttre A Prs du ureu dAdree e 4 Févrer 650 Les Gxettes Nouvees & Extrordnres e vendent à Roüen chez ANTHONE FERRAND E VLEN COVRANT ux degrez dPs Auec Prvege"
+            "place ſera continué dans ledit Gouuernement.",
+            "l. Que pour témoigner par effect le zele",
+            "des Habitans de ladite Ville d’Angers pour le",
+            "eruice de ſa Majeſté, & l’aduancement de ſes",
+            "ffaires, ils payeront preſentement la ſomme de",
+            "cent mil liures, pour ayder à la ſubſiſtance des",
+            "trouppes.",
+            "Que le ſieur de Fourilles, Capitaine du",
+            "Regiment des Gardes de ſa Majeſté, entrera",
+            "dans la place auec quatre Compagnies des Gar",
+            "des au nom du Roy, qui y demeureront huict",
+            "ours, & en ſortiront apres.",
+            "I. Que l’Vniuerſité́, enſemble tous leſ",
+            "dits Habitans ſeront maintenus & conſeruez",
+            "dans leurs anciens priuileges.",
+            "Faict au Camp deuant Angers le as. Febvrier 1652:",
+            "Sgne, le Comte de Quiace: & le Duc de Rohan."
         ]
     ]
 }

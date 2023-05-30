@@ -1,64 +1,169 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
-        "subject": null,
+        "form": "prose",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-08",
+            "@when": "2022-02-10",
             "@who": "AB"
         },
-        "titre": "Extraordinaire arrivée du burlesque On de ce temps qui\n          sait, qui fait et qui dit toutes les particularités du siége de Cambray, avec un sommaire\n          de l’ordre du festin fait aux généraux et Parlement d’Angleterre par les communes.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-16",
-                "#text": "16 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-19",
-                "#text": "19 avril 2021"
-            }
-        ],
+        "titre": "La facétieuse défaite d’un boulanger par le général\n          Herspel Rhusma.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
         "langue": "fra",
-        "fichier": "Moreau1357_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1359_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Extrordnre rrvée du uresque On de ce temps qu st qu ft et qu dt toutes es prtcurtés du sége de Cmry vec un sommre de ordre du festn ft ux générux et Prement dAngeterre pr es communes Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté6 févrer 202 9 vr 202 Extrordnre rrvée du uresque On de ce temps qu st qu ft et qu dt toutes es prtcurtés du sége de Cmry vec un sommre de ordre du festn ft ux générux et Prement dAngeterre pr es communes Prs Etenne Héert 649 dté du er juet 649 Prs Bothèque ntone de Frnce Déprtement ttérture et rt Y63 Y64 Y778 Y59 Y520TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs357 Extrordnre rvée du uresque On de ce temps qu st qu ft et qu dt toutes es pr curtés du sége de Cmry vec un sommre de ordre du festn ft ux générux et Prement dAngeterre pr es communes Prs Étenne Héert Pgnée de 29 à 36 On t sur36° pgefn Le °\" juet 649 Vor e Buresque On de ce tempsetcvers poése uresque strque"
+            "LA FACESIEVCE",
+            "DEFFAICTE D'VN",
+            "BOVLANGER",
+            "PAR LE GENERAL",
+            "HERSPEL",
+            "RHVSMA",
+            "A PARIS,",
+            "Chez la uefue MVSNIER, au mont ſainct Hilaire",
+            "en la Cour d'Albret.",
+            "M. DC. XLIX."
         ],
         [
-            "29 EXTRAORDNARE ARRVEE DV BVRLESQVE ON DE CE TEMPS QV SCAT QV FAT & Qu dt toutes es prtcurtez du ege de CmryAuec vn ommre de ordre du etn ft uxGenerux & Prement dAngeterrepr es Communes  DOù vent ce Courrer hors dhene  Vrymentprend en depene  Et pcque en doue cron  L mzette du poton  Ne çurot rpentervte  Le vo qu decend u gte  Aons & çchons s vous pt  Ce qu veut dre & queet  Cét etffer de renommée  Hcet quON reuent de rmée  e croy qu nous v dre u vry  Lett du ege de Cmry  Cét vne ee & onne pce  Le on Deu nous fegrce  Den uor vnon uccez  Que nous ggnons notre procez H"
+            "La facecieuſe deffaicted’vn Boulan",
+            "ger, par le General Herſpel Rhuſ",
+            "ma, & parle CollonelBrouillards.",
+            "LE General Martin Herſpel Rhuma eſt",
+            "e venu ces iours paſez ſurprendre lapoi",
+            "̃trine, qui eſt vne des bonnes places du",
+            "vdume de Cauuigny auncorps d’nboulanger",
+            "en fit faire les approches la nuit, par le Colo",
+            "nel Brouillards;ſouſtenu par le Capitaine Vent",
+            "coulis, & le matin au point du iour toute ſon",
+            "rmee ſe trouua campee, la place bloquee, &",
+            "es lignes acheuees, le General prit ſon quartier",
+            "dans le derueau, qui eſt vn gros bourg aſſez bien",
+            "ermé de murailles, ſcité ſur vn coſteau qui cõ",
+            "mande dans la poctrine: Le Comte de Cathare",
+            "& le Marquis de la fluxion, ſe campent à Bras,",
+            "mbes, qui ſont de grands villagesproche",
+            "22.1",
+            "LLa..",
+            ".."
         ],
         [
-            "30Sns vous tenr pus en ncë  En vous fntreuerence  ON vous dt pour vous couper court  Que e vnt Comte dHrcourt  Le Gener de notre rmée  Dont me de gore nmée  Nentreprend que de huts expos  Ft e vngnq de utre mos  Apres vne excte reueuë  De crnte de queque eueuë  Détcher de nos Regmens  Deux me cnq cens Aemnds  Pour sen er àourdne  Sns onner tmour ny uccne  A Vuchees per Ecu  Et e pnter de Gco  Prochepce unt urore  De pusft mrcher encore  Qutre me ur des rouns  Auec deux mes fntns  Chos dns nos troupes Frnçoes  Et non ps pour pper noes  Qutre peces de gros cnon  Pour nuetr à enuron  De utre coté cette ve  ON ft mrcher à doue fe  Sous deux chefs prudens commefut  Vequer & Ferré mut  Notre ete cuere  Pus en utte nfntere  Et e cnon ur es ffuts  Pour tonner en cs de reffus  Le Gener mrchnt en tete  Pus redouté quetempeteQueques ennems detchez  Dedns vn os setoent nchez  Pour fre queque pcorée"
+            ".a,.",
+            "4.",
+            "poictrine. Rhuma enuoya recognoiſtre la",
+            "place par le arquis de picuite, qui rapporta que",
+            "place eſtoit aiſee à battre du coſté des poul",
+            "mons, qui ſont deux baſtions vn peu foibles, &",
+            "uſſi toſt il fit dreſſet ſa batterie de trois canons",
+            "eule ment, la groſſe toux, qui eſt vn gros canon",
+            "qui porte quarante liures de flegmes, du hoc",
+            "quet & du tricquet, qui ſont deux petires pieces",
+            "de campagne, qui tirent ſans ceſſe depuis le",
+            "point du iour. Simon cœur Sergent Maior de la",
+            "poictrine ne s’eſtonne point, le Capitaine Ca",
+            "thare ſe trouue vn peu eſmeu; lacque Foye, hõ̃",
+            "me ſanguin & prompt, l’echauffe dans ſon har",
+            "nois, & ſe reſolurent de ſaire vne ſortie. Et pour",
+            "cet effet le Capitaine Lancette fut commandé",
+            "uec ſon Lieutenant maiſtre tlieroſme ſeignee,",
+            "de donner au quartier de la fluxion, il ſort cou",
+            "rageuſement, attaque le quartier par la baſili",
+            "que culaine trois palettes de ſang, & fait glo",
+            "rieuſement ſaretraicte: Il n’euſt de perte de ſon",
+            "coſté que ſon eſpee qui fut vn peu fauſſee, cela",
+            "rreſta vn peu la force du Marquis, vne heure",
+            "pres parut à la veuë des lignes, le Duc de Bouil",
+            "lon auec vne armee fort leſte, reſolut de don",
+            "ne"
         ],
         [
-            "3Ms dedns vne echuffourrée  Où e Regment de Fry  Auec vn grnd houeury  Leur donn vuementche  Les vns ommez urpce  Dutres uuez du chms  Hppns ruquement e ts  Deux douznes dN reterent  Que nos ons dres grotterent  Apres es uor ougez  De or dont s etoent chrgezLffre etnt premedtée  Ou pour meux dre concertée  Entre e corps des Aemnds  Et ceuy de nos Regmens  Quutnt e eur comme e notre  Se treuuerot de prt & dutre  Préspce u Soe eunt  Dés e mtn du our uunt  De Veguer eut ndutre  Auecquescuere  De sy rendre ou tros ourgugnons  Autrenent dts mngeurs dognons  Qu tomerent deous es grffes  De nos gres ecogrffes  Lynt uré quà deen  Entre cette ve & Bouchn  Deux Regmens foent grme  De e etter dednspce  Sns smuer à conuter prtt pour es ffronter  Et e r de duntge  En es rretnt u pge  Et fre deus equouco  Sentend en cs quentre Ecu  Et es trouppeses peut prendre  Oucomme ON uy ft entendre"
+            "S97",
+            "ner bataille, ou de forcer les retranchemens",
+            "pour rauitsiller la place, pour cet effet il prend",
+            "uangarde, il donne la bataille à commander",
+            "u V icomte de Couple d’œufs, en l’arrierar",
+            "de au Marquis de Tiſane: Bouillon voyant que",
+            "Rhauma ne vouloit point abandonner le retran",
+            "chement, donne teſte baiſſee dedans, il pafſe",
+            "Coupl’œufs ſuit, & la tiſsane apporte vn",
+            "grand rafraichiſsement à la place: quatre fleg",
+            "mes eſpionnes qui auoient ſuiui leſecours, fu",
+            "rent pris dans la poictrine:, & furent des auſſi",
+            "toſt iettees du haut en bas des muralles, apres",
+            "eur auoir donneé la queſtion, & qu’on euſt ſçeu",
+            "d’eux que Rhuma eſtoit baſtard d’vn Rhuma",
+            "tiſme, & qu’il eſtoit reſolu de mourir deuant",
+            "place, ou de l’emporter: mais que ſi l’on",
+            "pouuoit gaigner leComte de Cathare & le Mar",
+            "quis de la fluxion, il faudroit neceſsairement",
+            "qu’il leuaſt le ſiege Pour cet effect l’on enuoya",
+            "en leur quartier le Colonel reighſſe, habillé́ en",
+            "curreden qui parla au Conre & au Marquis,",
+            "quis’adoucirent. Vn peu apres on y enuoya le",
+            "Caporal les Tablettes veſtu en muſcadin, qui",
+            "trauaillerent tous deux fort adroittement ſans",
+            "B",
+            "."
         ],
         [
-            "32Ces Vvons & ces rndos  Entre nos Retres & Frnços  Etoent rencontrez pr megrdes  En eur donnnt queque nzrde  Ou es ttrnt vers Bouchn  Fre pprocher de mn en mn  Les Aemns & tnt derrere  Que deunt eur ter croupereMs u eu der u gop  Nos Aemnds trderent trop  Et ces ongueurs & ces demeures  Qu durerent prés de qutre heures  Nous penerent fre enrger  Et donnerent en à onger  Aux ennems qu ns demordre  Se tnrent cos & en en ordre  Pour decouurr notre deen  Qund ON vt ortr de Bouchn  De cuers vne cohorten  Qu eur vnrent erur decorte  Pour es etter dedns Cmry  s y furent donc & de vry  Ce eur fut ez fce  Sçchns es chemns deve  Qu netoent que des deffez  Et certns détours rcoez  Ou qu es eut vouu pouruure  Eut ns doute eté s de vure  Ms comment nous pprocher deux  L ruere etnt entre deux  De es eer nous nuons grde  A mons que des coups de omrde fut donc e contenter  De es vor & de es conter  s etoent en tros cens oxnte  Ou qutre mons que e ne mente  Le eur de Vequer fchéQue"
+            "e fairecognoiſtre, & cependant la batterie ne",
+            "ceſsoit point, on reſolut donc de iouer au qui",
+            "te ou au double & ſe ſeruir de l’inuention d’vn",
+            "ngenieur, nommé Dom Franciſco Natura,",
+            "qui propoſa de noier tout le camp des ennemis,",
+            "& faire par tranſpiration au trauers des porcs,",
+            "comme par vne eſpece de ſueur ſortir du",
+            "Camp du cerueau de la poictrine, des villages",
+            "ras & iambes, & autres leurs adiacents vne",
+            "grande quantiré de ſeroſitez, que la meilleure",
+            "partie ſe trouueroit noyee: il trauaille& reuſfit,",
+            "tout le pays eſt à nage, & ſe trouuerent enſe",
+            "uelis dans les eaux le Comte & le Marquis, &",
+            "ns que Rhuma ſe trouuaſt logé plus haut, il",
+            "euſt eu pareille deſtinee: Mais il tint ferme &",
+            "gar da ſon poſte opiniaſtrement comme on vit",
+            "qu’il ne vouloit point deſloger, on fit vne mine",
+            "dans vn petit valon, nomme fondement quieſt",
+            "porte de derriere d’n village nommé ventri",
+            "eulle, ou le General auoit le magazin de ſes",
+            "munitions, le Capitaine Laxatif conduit par",
+            "e Capitaine Lauement, ſe coule par cent che",
+            "minstortus, entremeſlez les vns dans les autres:",
+            "& commeil trauailloit encore à fuareter pour"
         ],
         [
-            "33Que Ecu uot empeché  De fre vne tee cpture  Ne trouu pont dutre ouuerture  Pour executer on deen  Que de fre ttre vn moun  Dont e Pont fot vn pfge  De vn uquà utre ruge  Pr où es gens deuoent per  Pourueu quON e ft er  Le cnon etnt necere  Pour executer cette ffre  Au Comte dHrcourt Cuers  Potons Courrers ur Courrers  Furent depechez ns reche  Ms encor que ON prt à tches  De dgenter ce moyen  Ces Vvons dreronten  Que cét effort fut nute  s etoent de dnsve  Et e cnon fut mené  Comme moutrde pres dnéLe Comte dHrcourt qu detete  Pour empecher dentrer e rete  Chot comme ON uy cone  Du pes Beere & Brog  Auec peces de ttere  Affn queCuere  Fute de c ou de tteu  Pr ce moun peut per euMs nos Aemnds dAemgne  Au meme temps dnscmpgne  Prurent ez echuffez  Cr ON es uot reffez  Et es htns de Vuchee  Leur uoent ft vne queree  Et setoent ms qutre ou cnq cent  Pour oucher ce chemn pnt"
-        ],
-        [
-            "34S en comme ON dt que es notres  Contrnts den er chercher dutres  Beucoup mons ez & pus on  Mrent pus qus netot eon  Ms pour punr cette cne  ON es chuff dvn peu de pe  Et ON conuertt eurs mons  En des cendres & des tons  Pour à eur depens rendre ges  Les mnns des utres vgesEnfn e or du meme our  Tous nos gens etns de retour  Et e rete de notre rmée  Etnt dnspne rruée  Tnt fntns que cuers  Furent rngez dns tros qurtersLe premer en preemnence  Detné pour on exceence  Vers Bouchn fut à on deffut  Reg prFertut  De qu humeur et ez prompte  Gener ous mondt eur Comte  ON donn e econd qurter  Au Gener de Vequer  Du coté de Doüy pour utre  Le eur Ohem vn on Apotre  En receut es commndemens  Prce qus ont Aemnds  ON es mt du coté de Frnce  Et ce chef commnde en ence  DErc à Perronne té  Pour certne ncommodtéLe endemn de ce our meme  Cet à dre e vngnqueme  Lgnes de crconuton  Sns dcontnuton  A res uor eté trcées  Furent tout à on commmncées"
-        ],
-        [
-            "35Dtntes de qunze cens ps  Depce ON ne doute ps  Cette dtnce etnt connuë  De eur pceue etenduë  Certns Vvons & Gtdours  Y ont occupez tous es ours  Qu furent prs pr e oudre  En vount entrer dnsve  De quee e Gouuerneur  Pour mntenr e ponct dhonneur  Ften petter e petre  Pour tcher de fre etre  Qu et eon de depecher  Pour nous couurr & nous ccher  Ms ON crot que cette choere  A mne de ne durer guere  Et qu ne e repoe vn peu  Apres uor etté on feuVngt me hommes dnfntere  Et qunze de cuere  Font e nomre des egens  Tres genereux & dgens  Ce qu ft fregrme  Au pett monde depce  Dont cnq me à es en compter  Sont en ett de reter  Pourueu comme s nont psmne  Qus sexemptent defmne  Cr en cs de prouon  Au eu detre à confuon  s nen ont ps pour eur dent creue  Notre rmée u prx et heureue  Pour tous es ens qu dns e cmp  Vennent à chque out de chmp  Produts pr es frequens pges  Quee ft dns tous eurs vge  Sns comprendre e pyement"
-        ],
-        [
-            "36 Queereceu tout frchement  Le vng pr certn epe  On ceut que rmée enneme  Etot de pres de Douy  Et quee mrchot vers Cmry  Msnotre sen t es fees  Et pretendter en peces  En cs quee ot y venr  Etpce ne peut tenr  A ce quON dt que x emnes  Les preuues en ont tres certnes  S tous nos truux commencez  Ne ont pr eurs gens truerez  Deu veüe queproete  Sot eon nos veux ccompe  Et que nous puons pres tout  En venr promptement out  Pour chnger vn peu de mtere  ON vous uot proms nguere  De vous prer du trttement  Que Londres ft u Prement  Comme à es Generux drmée  L veue de cette ournée  Ces Meeurs furent nutez  Pr Commres Deputez  A ce fetnmgnfque  Dreé dnse puque  QuON ppee des Epcers  Lheure du dner Offcers Pompeuement es met erent  Et tous regement sy trouuerent  Chcun deus vn rche nc  Prt ence eon on Rng  Dns cette e tpée  Ou mnte te etot dreée  LOrteur honorement  Repreentnt e Prement  Prtpcepus note  Après quON eut couuertte  De mets exqus & preceux  Et de vns frs deceux  ON ne pr pus que de ore  Et de en rnermchore  Le Mord Mre ynt dné  An quON uot ordonné  Au Prement rendt epée  Enmnere ccoutumée  Commeuot ft utrefos  En cs pre ux deffuncts Roys  Et de peur quepopuce  Ne grondt ou ftgrme  Qutre cens cous de pods  Furent pr notes Bourgeos  Dtruez ns trchere  Affn de frefrre  Ms Meeurs cet ez cuer fut quON se repoer Fn e premer uet 649A PARS Chez ESTENNE HUBERT u Mont Snct Hre"
+            "4",
+            "10",
+            "chercher à̀ ſurprendre l’ennemy, vn ſoldat qui",
+            "e nomme la tranchee fit iouer lamine, & tout",
+            "d’vn coup l’on vit ſauter l’axatif & lauement,",
+            "quifurent ſurpris & ne purent ſe retirer, & auec",
+            "euxcinquantes barques de flegmes, quarante",
+            "charettes de pituitte, deux poinçons de biles",
+            "poraces, deux caques de melancolie & quatre",
+            "cens mil liures de cruditez, le lendemain au",
+            "matin le General Martin Herſpel Rhuma leua",
+            "e ſiege, la poictrine grandement affoiblie dei ſes",
+            "fatiques paſſez, ſe reſiouit auec ſes amis Bouillõ",
+            "& couple d’œufs, la tiſſane fait reparer lesruines",
+            "que la batterie de l’ennemy auoit faittes à ſes",
+            "tions, dont la gorge eſtoit vn peu endoma",
+            "gee. Enfin apres huit heures de repos & les ſoins",
+            "du Vidame de Cauuigny, la poictrine ſe trouua",
+            "en meilleur eſtat qu’elle n’eſtoit auparauant le",
+            "ege. Depuis i’ay apris que le General Rhuma",
+            "& le Colonel Brouillards furent ioindre l’in",
+            "fant Apoplexiequi ont fait la guerre à on",
+            "ſieurde Bouillon, & en trente heures l’ont ex",
+            "pedié. Dieu veille auoir ſon ame."
         ]
     ]
 }

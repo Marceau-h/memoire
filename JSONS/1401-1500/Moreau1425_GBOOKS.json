@@ -1,45 +1,102 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "prose",
+            "vers"
+        ],
+        "genre": [
+            "prosopopée",
+            "prière",
+            "cantique"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1649-01-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-01",
+            "@when": "2022-11-08",
             "@who": "AB"
         },
-        "titre": "La france en deuil, présentée à la reine pour le\n          rétablissement de ses États et de son royaume, par un de ses fidèles sujets.",
+        "titre": "La france en prière pour la paix.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-11-08",
+            "#text": "8 novembre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1425_GBOOKS.xml",
+        "fichier": "Moreau1426_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L frnce en deu présentée àrene pour e rétssement de ses Étts et de son royume pr un de ses fdèes sujets Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Frnce () en deu présentée àrene pour e rétssement de ses Étts et de son royume pr un de ses fdèes sujets Prs Perre Vrquet 649 Lyon Bothèque muncpe32307TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsFeuron grvé sur os u ttre Bndeu et ettrne grvés u ttre de déprt|Egement pué sous e ttre L Frnce ffgée présentée Reyne pour e restssement de ses Estts & de son Royume pr un de ses fdees sujets 425 Frnce () en deq présentée àrene pour e rétssement de ses Étts et de son royume pr un de ses fdèes sujets Prs Perre Vrquet 649 7 pges Ce nesten queque sortequepréfce dun vre qu nms été pué encependnt été ft une utre édton qu ne dffère de ce quen un seu pontu eu de Z Frnce en deu on t u treL Frnce ffgée etcprose"
+            "rRANCE",
+            "PAix",
+            "e e ie",
+            "AVEC PERMISSION."
         ],
         [
-            "LA FRANCE EN DEVL PRESENTEE A LA RETNE pour e Retement de es Etts & de on Royume Pr vn de es fdees SujetsA PARS Chez Perre VARQVET ruë S en de Ltrn deunt e Coege Roy M DC XLXAVEC PERMSSON"
+            "e,",
+            "r Aaeeſo",
+            "Eereee rrr",
+            "ei lee lel8",
+            "Te E",
+            "E",
+            "1 1 H",
+            "LE LAIN IIVE",
+            "DE LA PAIX",
+            "D PAAE DOMINE IN DEBV5",
+            "nooſtris qua non eſt alius qui pugnet pro nmobis i",
+            "ea Deus oſter.",
+            "Qg RA ND Roy de cous les Roysi",
+            "uincible Monarque,",
+            "ee oui oonmandoaude, A la teae",
+            "aux Enfers:",
+            "Eqs poŕ en vosmains d’vn Dieu",
+            "vainqueur la marque, (fers.",
+            "Parmy tant de broüillards, d’armes d’harnois, de",
+            "pacems.",
+            "Noſtre cœur panitelant d’vnefrayeur panique,",
+            "N’a point autre recous qu’à voſtre deité:",
+            "La paix c’eſtnoſtre bien. la guerre commeinique,"
         ],
         [
-            "3 LA FRANCE EN DEVL PRESENTEE A LA REYNE pour e Reftement de es Eftts & de on RoyumeAoAeQueque connonce que ye de onee & quequoprofond reped qumprme votre Mjeté dns es eprts de ceux qu p prochents uoüe que cet ns pene puque e çyque es fueurs dont vous uez eoutume d ho norer ceux qu e donnent honneur de vous pre enter queque choe que y oé meurer pre ement uec eux e fruce du on heur que epere gouter en preentnt ̀ votre Mjeté ce T eeedeee eene A j"
+            "Fit crier humblementaà",
+            "voſtre grand bonté.",
+            "Doie.",
+            "Voyés donc nos douleurs, voyé́s noſtre coõplainte.",
+            "Auquel lieu pourroin trouuer quelque ſejour:",
+            "Siparvoſtre moyen la guerre n’eſt eſteinte,",
+            "Lonne trouueraplus de foy parmy l’amour.",
+            "s diebas noſtris.",
+            "La px c’eſt noſtre amour noſtre viuante image,",
+            "Laquelle nous auons receu pour dernier trais:",
+            "Comme Pigmeleon nous aymons ſon ouurage,",
+            "Come vn aurrearciſſeao’aymoõsſon pourtrairs.",
+            "Quia non eſt alius.",
+            "Si laguerre augmentoit parmy tant de diſgrace,",
+            "Siles deſſeins caché́s ſuiuoient tous leurs effets:",
+            "OQù pouroin loger le ſalut de la grace,",
+            "Pamy tant de malheurs, parmy tant de forfaits.",
+            "Qui pugnet pre nobis.",
+            "Deurement monarchie eſleuez l’eſperance,",
+            "Qui tené́s ſous vos mains tous les lceptres diuers:",
+            "Sid’vnclin de voſtre œil, vous conſerués la Ftace,"
         ],
         [
-            "4ME qu derot de protreyong temps deunt votre Peronne pour uy fre connotrenee e en reneemdeoes dune e es vertez de on puure Peupe ffgé dont ee recmeyong temps ce ont toutes es Ves de vos Ets en gener qu dvne vue vox uy de mndent utce Ouy M dAm ceet votre Royume en vn mot dns eque on nentend pus que peurs & gememens que deordre que guer res que femuement pr tout Cet pourquoy e pere que votre genereux courge ne permettrms de vor es Sujets tus pr uthorté́ que vous uez confée à vne peronne qu sen et ren duë ndgne es Prounes trouées es Ves e puées pr e ng de on Peupe es Fnnces tres pr urce dvn Etrnges Non non MA DA mE votre Mjete nepermettr ps que on Royume ot oppreé u detrment de on Peupe non votre eoncmce ne e gener ms ux f fctons & cruutez fres à es Sujets ns doute votre peteé́ ne e cptuer s pour ffger ts Prounces & cet ce que touteFrncereconnu depus votre gouuernement & cet prvox que Deu demnde à preent à uotre Mjeté́ es premces du pouuor qu uyms enre es mns veut dono que uthorté qu vousdõnée tru e àdefene de o Ett de es Prounces & de es Ves pour mertertourt ce quvous prepre dee ndcton net done pseon pour ce de euer ds rmées equpper des Sodts ny e donner tnt"
-        ],
-        [
-            "de penes Votre Augufte Premont fournr ̀ cette heure vn mpe ujet à votre zoe qu ne ouhte ren tnt que de oü̈yr de votre pteence quperduëvn omng temps pr nexreme mheur àFrnce uec on Roy votre cher Fs qu regret te uec tnt de pene Cet vn Corps ns Ame fns queen peut gr& ne peut fre es fonctons Cet donc à ute ue Mque votre Mjeté ne permetrr de dre que ns dees tres memres onnus de meme que e Soe cee de contnuercourerue tout & deeche ce qu rencontreen et de rmeme de notre eune Monrque depuds quefté́neué de notre prsence nous nuons eu que guére & quecruutezque nous uonsoufferts depus on deprt eet vn m mportnt oùe remede dot etre ppqué En vn mot ct v m puqos qu ne repre qde dheure e hours de momentn momens es effe de voremercorde e ne doute donc pont M DA mME que votre Mjeté nuz ouchée dvnefte douor qund ee vertdonne e uye preentery es dogts que ces nomux trones ont ft deus on Peupe & e me fgure que on ee tout urprs nccuferrms ct Augute Sq rt dns equeont ces us Gtons ffectonez pour eur Roy & ts Peupes de gyuor eteéEeees puquemercor de pr ched́j à̀u tce ensns à equés & preteon de tou tes chos Ce de pdsBqes e oop copne en ucunofço dAugePrment deB"
-        ],
-        [
-            "pte deotre R yûme dorgy de descermes deutce pus qu n qnfr que es Lor enpocé́es ns demndn Ce net donc ps yote Premene ms ce on euz qu ont eeree ont creu que pour etre entretenus ̀os ftsne ng pour etre ps eges ux forur esqus ten Aent de eotre Mo Non n M dous cuons en que ce netps votre Mjete qu dere que onfoue on Peupe Fnnce e çt ez pr ffecton que vous nuez cede uy ee e uee eneemencement deegence q pe que pour vn ece rempy de hon heur & touours heureux Non ce netps votte reuenu qu ous rune cet en u contrre nous ommes mecontens de vor que ce que noudonnons dvn cœur re & frnc qu nen reuenne psxéme prte dns vos coffres Ceftdonc ue cue egtme que votre f de e Premet etfercé uourd huy de prendre es rmes contre ces Prtns & crners du ng po purte qu n e contencent ps de uccer uquesextremté́ de notre ng ms encore efentde noscorps pour es fre pourdns es prons à force du remps qus y ont detenus Voyez donc Mdmeet n que votre Mjeté dere quon v à̀ endror de ces fdees Fnçoscet n quee commhde quon es tytmnfe"
-        ],
-        [
-            "eet ̀ es proüêes quee veur que on tre deux Non M s ce e fut ms dnspenée de tous vos ons Sujets pr Fncnton que vous uez touours eué de es oger & moeme oery eurer uec otro pernon que es rmes me ont pus frequentes que ne ont à ceux àoye de nos meres Cet pourquoy M D me e vous uppery de ne vouor chnger ces onnes voontez que vous uez touours euës pourFrnce on fe ou en mertume puque nous ommes tout prets à ouffrr tees penes que on vous emer nous fre endurer Ms ns er pus on nous çuons que votre Mjeté et dtnt pus porté́e pournotre ougements comme nous emement dvne vox vnnme de nous dre touours es treumes treeï ns & tre fdees Sujes FN"
+            "4.",
+            "Qui pourra de la France en fairel’Vniuers.",
+            "Niſi tu.",
+            "C’eſt ſans commencement & ſans fin limitée,",
+            "Que portés la puiſſance & la gloire de Dieu:",
+            "tre force & vertu n’eſt de nul empruntée,",
+            "Voſtre Empire eſt par tout, & eſtes en tout lieu.",
+            "Deas noſter.",
+            "Vniſlés donc nos cœurs de la paix ſans la guerre,",
+            "Nous chanterons cy bas vn Hymne glorieux?",
+            "Car ayant chaſlé loing les eéclairs de tonnere.",
+            "Noulmouno pourreuiurevniourdedaisleceu",
+            "FIN."
         ]
     ]
 }

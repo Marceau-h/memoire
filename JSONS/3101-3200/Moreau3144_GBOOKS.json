@@ -1,63 +1,160 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "genre": [
-            "relation",
+            "narration",
             "récit"
         ],
-        "subject": "Roi",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-10-06",
+        "creation": "1652-08-26",
         "change": {
             "@status": "corrected",
-            "@when": "2022-07-07",
+            "@when": "2022-09-27",
             "@who": "AB"
         },
-        "titre": "Relation de tout ce qui s'est fait et passé en la\n          députation du corps de la milice de Paris, et l'assurance que le roi a donnée de se rendre\n          le 21 octobre à Paris, avec toute la satisfaction qu'on a désirée de Sa Majesté.",
+        "titre": "Relation de tout ce qui s'est passé à l'arrivée des\n          troupes de l'aarchiduc Léopold , près la ville de Saint-Quentin",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3144_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3146_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Reton de tout ce qu sest ft et pssé endéputton du corps demce de Prs et ssurnce que e rodonnée de se rendre e 2 octore à Prs vec toutestsfcton quondésrée de S Mjesté Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Reton de tout ce qu sest ft et pssé endéputton du corps demce de Prs et ssurnce que e rodonnée de se rendre e 2 octore à Prs vec toutestsfcton quondésrée de S Mjesté Prs Perre Le Pett 652 Munch Bothèque de Étt de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs344 Reton de tout ce qu sest ft et pssé endéputton du corps demce de Prset ssurnce que e rodonnée de se rendre e 2 octore à Prs vec toutestsfcton quondésrée de S Mjesté PrsPerre Le Pett652 8 pgesy enune édton de RouenJen Vretsur mprmé à Prsprose reton réct RoLes coones demce sssement pour convenr dune députton u ro 656"
+            "RELATION",
+            "DE TOVT CE QVI",
+            "s’eſt paſſé à l’arriuée des Troupes",
+            "de l’Aarchiduc Leopold, prés la",
+            "ville de Saint Quentin.",
+            "A PARIS,",
+            "M. DC. LII."
         ],
         [
-            "RELATON DE TOVT CE QV SEST FAT ET pé enDeputton du Corps deMese de Prs Et eurnce que e Roydonnée de e rendre Lndy Prs uec toutetsfcton quonderée de S MjetéA PARS CheZ PERRE LE PETT mpr & L ord du Roy ruë Snt cques ̀Crox dOr M DC LAVEC PRVLEGE DV ROY"
+            "3",
+            "RELTION DE TOVTCE QVI",
+            "s’et fait & paé à l’arriueée des Troupes de",
+            "l’Archidue Leopold, uers ar ville de Salnt",
+            "Quentin.",
+            "AY penſé qu’il n’eſtoit pas mal",
+            "er ore e enle e uireue",
+            "é uée des: Toupes de l’Archiduc",
+            "L. dans la Picardie, & conment",
+            "eux de Saint Quentin les ont maraittez",
+            "dans l’abord, veu que ie ne veux ny y ad",
+            "jouter ny diminuer de ce que i’en ay appris",
+            "u vray par les derniers Lettres que i’ay re",
+            "ceuës de Dimanche dernier; eſcrites du Ven",
+            "dredy, dans leſquels il m’eſt appris tout au",
+            "uiay ce qui s’eſt paſſeé́:",
+            "Le Vendnedy treiziéme de ee mois, Mon",
+            "ieun le Due de. Nenmours arriua vis à vis la",
+            "villle de. Saint Quentin : la o eſtant arriueé",
+            "c quanté de Caulleri & l fnterie au"
         ],
         [
-            "3 RELATON DE TOVT CE qu set pßé endeputton du Corps deMce de Prs uecHrngue de Mon eur de Seue egneur de Chtgnonue ncen Coone Etrépone de S MjetéE Corps deMce de Prs connontLneceteé queVe uot depreence du Roy deput qtre Coones qutre Leutenns Coones deux Cptnes deux Leutenns deux Enegnes de chque Coonee & vn Bourgeos de chque Compgne fnt en tout deux cens qu rnteuf peronnes pour rendre eurs deuors u Roy & e upper de vouor honoreronne ve de Prs depreence Aynt eu us que e Roy de uot rruer à Snt Germn prtrét e Mrdy 5 du cournt pour Rue & dns e chemn trouuerent pus de deux cens Bourgeos à̀ cheu qu e jo gnrent ̀ eux uec eques etns rruez u eu Moneur de Seue Chtgnoõue premer Coone receut ettre de Moneur de Guenegut Secret re dEtt qu uy donnot us deprt du Roy qu rruerot ̀ S Germn e eudy & qus euent à sy rendre e Vendredy ce qus frent prtgez en huct trouppes pour mrcher en ordre M tre dont S Mjeté ynt eu us e eur Sntot Mtre des Ceremones enuoy u deunt deux vn Offcer pour eur dre que S Mjeté derot"
+            "roient eſté chargez par ceux de la Ville,",
+            "voyant que ces Troupes venoient pour les",
+            "eger, & ayant fait vne ſortie, auroient",
+            "tué pluſieurs des ennemis, & les auroient ſi",
+            "fort maraittez, quoy que cette garniſon",
+            "oit bien plus en petit nombre queles Trou",
+            "pes de l’Archiduc, qui ſe montent au plus",
+            "cinqà ſix mil honames, tous aſſez mal equi",
+            "pes, leſquels toutesfois nefont aucun degaſt",
+            "dans tous les lieut pat ou ils paſſent, ſou",
+            "doyaht ce qu’ils prennent pour leurs neceſ",
+            "ſitez, & ils ſeroient an plus grand nombre,",
+            "ce n’eſtoit que pluſieurs ſe ſont deffilez, &",
+            "e ſont iettez dans la ville de Saint Quentin",
+            "pour pouuoir ſe debander des Troupes de",
+            "Meſſieus les Princes, craignants d’auoir du",
+            "deſſous, & qu’apres ils ſeroient contraints",
+            "de ſe retirer auec toute confuſion, ſereſſou",
+            "uenant de la peine & perte qu’ils en ont re",
+            "ceus dans les dernieres guerres, où ils au",
+            "roient auec beaucoup de difficulé puù ren",
+            "trer dans leurs pais: Mais quand au reſte",
+            "de ceux qui ont ſuiuy Monſieur le Duc de",
+            "Nemouts, ſont arxiuez de la iouarnée d’hier",
+            "vers"
         ],
         [
-            "es vor en cette mrche & en ute ynt contnué de mrcher juques ̀porte du Prc s furent re ceus pr e eur de Sntot ccompgneé́ de qutre Trompettes du Roy qu setns ms àtete es condurent dnsgrnde Pce entre es deux Chteux Le RoyReyne Moneur e Duc dAnjou & touteCour setns ms ur e Bcon du Chteu pour es vor rruer s perent u deous dudt Bcon & furent decendre u Ch teu neuf où pres uor eté́ queque temps pen dnt eque edt eur de Seue ynt demndé u eur de Sntotynt à̀ porterproe pour vn Corps de Mcene erot ps entendu deout edt eur de Sntot repondt qu nuot receu ucun ordre pour ce & qu en pouuot ver com meuy prot s furent ntroduts pr edt eur de Sntot &preentez à Audnce pr Meeurs e Mrech de Hopt & du Pes Secretre dE tt dnsgrnde Se du veux Chteu où etoent e Roy &Reyne s M e Duc dAnjou Mt e Chnceer ̀mn drote M e Grde des Sceux ̀guche Meeurs es Mrechux de V eroy & de Hopt & utres Segneurs & Offcers edt eur de Seue pres uor üé́Mjeté & ms e genoü̈ juques en terre uec tous es Depu Z ft deout on Dcours en ces termes SRE Svox de votre ve de Prs nuot pont eté empechée enouche de ceux qu en ontcondute nous nurons ps entreprs de rompre or"
+            "vers la ville de Noyon, pour en ſuite",
+            "paſſer la riuiere de Somme, & de là s’en",
+            "venir aà Mante poar ioindre les Troupes",
+            "de Monſeigneur le Prince de Condé &",
+            "celles de Son Altefſe Royale: de plus on",
+            "dit que l’arriuée de ſes Troupes en la Pi",
+            "cardie ont donneé beau coup d’epouunte",
+            "& terreur; d’abord ayant donné́ l’eſpace",
+            "de deux iours & deux nuicts entiers l’a",
+            "larme dans la ville de Saint Quentin,",
+            "croyant quils venoient pour les aſſieger;",
+            "mais voyant qu’ils eſtoient en trop petit",
+            "nombre pour eſtre ſi hardis de venir aſſie",
+            "ger vne ville de ſi grande importance &",
+            "ſi forte, ſe ſont enfin diſſipez de l’eſprit,",
+            "crainte qu’ils en auoient. On ne ſçay",
+            "u vray, ſi Monſieur le Due de Nemours",
+            "eſtoit auec ſes Troupes, les vns en diſent",
+            "d’vae faç̧on & les autres de l autre; mais",
+            "y apptis d’arre part qu’il y eſtoit, &",
+            "qu’il s’eſtoit fot eſ onné du procedé du",
+            "Gouuernour de Saint Quentin nommé",
+            "Mopſieur de Linitrs, lequel ſçauoit bien",
+            "que Monſieus le Duc de Nemours( le"
         ],
         [
-            "dre ordnre & de protre ns euxpeds de Votre Mjeté pour uy preenter nos vœux nos re pects & nos oumonsEt comme dotre offce et putot detné̀ cton que pour proe nous u rons ttendu pr eur entreme honneur de vos commndemens & notre prompte oeïnce u rotefté e eu ngge qu vous urot eutretenu de notre fdeté et vry quedors que nous conderons que Vo tre Mjeteé et e centre où outent tutes esgnes de ce grnd Cerce queescœurs de tousnosh trs vont ncoffmment vers vous & quon peue de qus font pus vertement ds votre Cour que dns encente de nos mutes où̀ s ne ongen qùrpeer e votre nous etmons que cet echor herVde où ee et que dechercher où vus etes que cet ne fre quvn meme corps uec ee que de e rendre u u où tourtes es prtes ont greement reünes à̀ eur prncpe & que ceten coe enrer ptftement dns o eprs yore dns pus forte pon que de uppéer ̀es deuors que es ordres de Votre Mjeté vennent dnterrdmpre Et qee quy peut meux sfre quenous qu orrnt proé pour vn Corps eque enmre tou teVe uons drot de prer pour ee & qur nous pouuons donner cét honneur de uetre ps eue ment qttchexà otre Mjeté p e deuor de o tre nnce & prfoy de notre ermeur ms encore pr uheogton prtcuere ddxpoer pousonctuc tre ng& nos ves"
+            "ruit en eſtant commun) eſtoit alĺ vers",
+            "Archiduc, pour auoir par ſon moyen",
+            "tance de ſes Troupes: Mais ie croy à",
+            "mon aduis que chacun doit coſeruer de",
+            "en ſans ſe confier à̀ ſon ennemy: car",
+            "comme deſinterreſſez, ils ne ſe mettent",
+            "guere en peines des intereſts de qui que",
+            "ce ſoit; mais ſeulement prenent l’occa",
+            "ſion pour le leur, en acquerant touû̂jours",
+            "connoiſſance du païs à la ſcituation des",
+            "places pour puis apres en venir fondre au",
+            "deſaduantage de la France; mais nous de",
+            "uons ſouhaitter tous, qu’vne bonne paix",
+            "e faſſe. On dit encore qu’il arriuc vne ſi",
+            "grande quantité de vagabonds par toute",
+            "Picardie qu’ils detrouſſent, & pillent",
+            "tous les paſſans, & commettent toutes",
+            "ortes d’extorſions & ſacrileges, brûlent",
+            "des villages tous entiers, & vont iuſques",
+            "ux portes de Noſtrame de Lieſſe,",
+            "pour piller & voller les pellerins, quoy",
+            "qu’à preſent ils ſoient en treetit nom",
+            "bre à cauſe de toutes les guerres, & l’on",
+            "craint encore quelque grarde reuolte en"
         ],
         [
-            "rS LRE prts es tres & es deordres qu ont rruez dns Pcs depus que Votre Mjeté sen eft eognée & que mous ne prtendons en ucune orte dmuer nous npnochetons ps dee ns premerement eccct de nos deportenens & uy en jutfermcercé es temognges dunt geux qu uy poude rendre ue uous ogex à nous en tre pour ne ps ffor en nos ouches des venmtez qu ot puspmment efthes dns O cce deneEtnos htns uoent eté ez nhoureux poureonmre eux ncenton nuorps cou mengex eon vos voontez eur zee & vnee uout ermpyde mour de votre eruce nous uroms peoede ous empecher deo rendreen quedquefonm om pce fence de Votre Mjoteé qu ousofté e eourge en nous ndonnnt &gude pour o étne condute en nous prunt des uoresque e t doon vfge nous pportcot n s R e eetVotre jetéd uy p à reeuerujourdhy mos courges preence & à reger notre condute cet ee qu etn e eu Atre que Prs regrde nous dot ufeueohufer & ecrer Atre qu ne dot ps feuemen ous ex ter pr es nfuences ms u nouster de h mere & qu nous ynt mprmé de eu emtmers n qu fre uyre ur nous es ryonspour espouuor ecorretcet vne verté contnte dnscence deos Atres qus ngent fortement pr eursununces"
-        ],
-        [
-            "7 qnnt qus seeuet ur ss retes &c qus p prochent de notre cendntnet ps mons ver s que cees que Votre Mjeté verfe ur ous e ot ncmprenment us effectnes & notre oence non ps pus oûme ms pus vgoureue qund otre veuëfortferQuereft donc non que Votre Mjefteé ne df foe ps dnncge à conuer otre Ve Cpte de on etour & à honorer depeence? Quee ne re te pont à semrquer dns notre Vfeu qu ne porr uure dutre roure que cee qu uy pr qund ee en tendr e emon quee ne e prue ps pus onemps des deuors de pus de deux cens m hommes qu nguent deon ence & qune re pront queon eruce & quee ouffre que nous re entnns es effets de onté qu ne e epre ms des ges Cones de cette grnde Reyne que nous regrdons àescotez uec joye & uec repect à quErnce etredeue ms à qu ee deurot tout qund ee ne uy deurot que votre nnce & es res qurez que on exempe & votre ntrmcton ontffermes en vous Ce nt S R E es tneumos upctons que nous uons efté chrgez de vous fre u nom du Corps deMce de votre Ve de Prs Nous ne çrons ouer erté de nos Pges s e net que pour rendre nos treumes remercmens à Votre Mjeté des ordres queedon us e ujet rtendnt que on uthonte es fe"
-        ],
-        [
-            "3Msnous oons uy expoer es vœux & es ders de nos Htns & pourquoy ne oeronous ps puque Deu dont vous etes mge estoufours grees qund s ont oû̂ms à es voontez com me nous nous ndonnons ux votres Qu pe ̀ Votre Mjeté conumer ouurge deonté e veux dre ouurge dePx qutnt eon queonteé ye gree es temper mens qupeuuent etr pr vne Amnte qu ne e pont de eu ny de pretexte den conteter esformtez & pr cette contetton dempecher effet de vos ntentons e frut de vos grces & eretement detrnquté puhqueEt comme ence du Prement & des utres Cours Souuernes eroentune de notre com merce &dernere deoton de nos Artns que Votre Mjeteé́ grée de nous es rendre en es reün nt toutes dns Prs pour on eruce & condernt que cet y fortfer que de nous et noftre prnc pe force Ms SRE ce ont des ouhts & non ps des condtons de nos repets nous es deuons ns con dton nous es rendons de meme & erons ded uoüez de nos Concroyens den ver utrenmẽts nous ont ccopgné ̀ mers hors de nos Portes uec e nedctons uec rmesoû̂prnt pres Votre Mje te demndnt eur Roy s nousrrendent uec m ptence dons rmeux uec vne prfte dpoton pour toutes vos voontez ms qu ct ss nous re ceuront ns reproches ns medctons vore s njure"
-        ],
-        [
-            "jure nous trompons eur trente &nous retour nons ns uor honneur de uure Votre Mjeté ou à tout e mons ns eur porter e jour d votre re our & ordre pour votre recepton H SRE ne eur refuez ps cete grce ez vous vncre à eurs rmes rendeous à nreret d notre repos ms rendez vous putot à nteret de votre eruce dns eque nous trouuerons toû jours notre repos comme cet vnque oject qu nous nme & notre verte pon dy contrue pr tout ce qu dependr de nous pour fre cogno tre à Votre Mjeteé que nous ommes ns reerue es treumes treens & tredees eru teurs & ujets Ce dcours ft u gré de tous es Deputez qu ontemogné qu uot eté en toutes es prtes con forme à eurs ntentons Le Roy ft de ouche œpone qu utESSEVRS e me ouuendry toute mve du eruce que vous muezrenduen cette ccon e vous pre uf de vous urer rtouours de mon ffecton quoy que es ffres que mont ucté ceux qu ec ont reuotez contremoy mepeu ent oger à̀ fure dutres voyges nentmons pus que vous me temognez e deter jy refou der à Prs u putot e fery çuor u Preuot des Mrchnds & Echeuns ce qu et necetre pour ce C"
-        ],
-        [
-            "0 En utteReyne ynt prsproe dt Qe e uot rouors meéeve de Prs & que o ejour uy etot treree quee nuot jms douté defdeté des Bourgeos quee eur ren drot coure mteé qus pouuoent ouhtter dee quee fortferot ouours e Roy dns ffecton qu uot pour Prs & dnsreouco qu uot pre dy retourner u putotLes Deputez ynt remercé e Roy &Rene s eurentonté de ouffrr detre üés de rous e dts Deputez es vns pres es utres & de eur donner me temognges dffecton En ure s furent conduts dnsSe des Comedes où s trouuee nt e fetn mgnfquement prepreé & es trompettes dnstrune qu onnerent pueurs fnfrespen dnt e reps u meu duque S Mjeté pour mr que treguere de on ffecton vouur perdnsSe où es ccmtons & es crs de Vue e Roy etoufferent e ru des tromperres dont e on ynt recommencé pr rruée de Moneur e Duc dAnjou es crs & es ccmtons frent e meme effet quenpreence du Roy Ce qu vous peut f re ez juger quenté ny fut ps ouée Le reps fny ucuns des prnepuxDPeputex xynt eté üer Moneur e Mrech de Hopt Gou uerneur de rs deprt deCompgne &en pr tcuer prendre congé́ de eurs Mjetez s eur con frmerent es epernces du prompt retour que uoent proms & perent juques à eur fre co"
-        ],
-        [
-            "gnotre qus e rendroent Lundy u Louure Et ncontnent pres edts Deputez sen ont retournez dns e meme ordre qus etoent rruez à Snt Germn pour ttendre à Prs e retour de eurs Mjetez"
+            "Picardie; car les pauures paſſans ſont",
+            "dans vn deſeſpoir, que tous ceux qu’ils",
+            "rencontrent ſur les grands chemins &",
+            "eux eſcartez, pillent tout, eſtant re",
+            "duits en vne ſi grande pauureté qu’ils n’ont",
+            "pas du pain à mettre dans leurs bouches,",
+            "eſtant retirez la plus part du temps dans",
+            "es bois, & demeurant ſeulement ſur les",
+            "emboucheures pour gueſter les paſſans,",
+            "fin de les dé́trouſſer pour tâcher de trou",
+            "uer du pain pour viure; ce qui eſt aſſez",
+            "toutesfois faſcheux, car on ne ſç̧ait plus",
+            "quel chemin l’on doit à̀ preſent tenir pour",
+            "voyager, & nous deuons prier Dieu, que",
+            "tous cesmaux icy ſe paſſent bieoſt."
         ]
     ]
 }

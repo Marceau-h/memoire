@@ -1,56 +1,81 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "texte officiel",
-            "arrêt"
-        ],
-        "subject": [
-            "Loyers, Droit, Paris",
-            "Propriétaires et locataires"
-        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-03-30",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, pour la décharge entière\n          des loyers des maisons du quartier de Pâques en la ville et fauxbourgs de Paris, rendu en\n          interprétation de celui du 10 avril dernier, avec règlement pour les baux.",
+        "titre": "Arrêt de la cour de parlement, en faveur des locataires\n          et sous-locataires des maisons de la ville et fauxbourgs de Paris, pour leur décharge du\n          loyer de Pâques dernier, avec règlement pour les baux, rentes foncières et autres,\n          constituées pour la construction des bâtiments, donné sur les requêtes des propriétaires\n          desdites maisons, et pour l’exécution des arrêts précédents des 10 et 14 présents mois et\n          an.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau264_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau265_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement pourdéchrge entère des oyers des msons du qurter de Pâques enve et fuxourgs de Prs rendu en nterprétton de ceu du 0 vr derner vec règement pour es ux Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Prement de PrsArrêt decour de prement pourdéchrge entère des oyers des msons du qurter de Pâques enve et fuxourgs de Prs rendu en nterprétton de ceu du 0 vr derner vec règement pour es ux Prsmprmeurs et rres ordnres du ro649 dté dvr 649 Lyon Bothèque muncpe de LyonRés 3879TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Autres édtons 8 pcomposton typogrphque dfférentemême ttre à dresse \"Pruege\" vec e premerà envers (BM0875)u ttre \"dxéme Aur derner\" \"4 Aur 649\" (BM0874 BM0877 et BM0878)u ttre \"dxéme Avr derner\" \"4 Avr 649\" (BM0876)u ttre \"dxéme Aur derner\" et \"4 Aur\" suv de nnée en toutes ettres (BM0873)Prs Mche Mettyer 649 (BM0850 et BM0872) Vrntes grphques notmmentp 34 \"en Bptste\"7 \"Bux\" vec grnde cpte5 \"defences\"p 47 \"qusp 5 \"derner \"3 \"Mone\"5 \"ses\"/2 \"o/tres\"4 \"en S Denys\"24 Bsques derner Et\" ou \"Psques dernerEt\"p 6 \"dxesme\"3 \"occupées\"2 \"enterremēt\"9/20 \"e/chor\"28 \"demeurās\"29 \"és\"p 73/4 \"de/ner Autre\" \"Chmrens\"2/3 \"deffe/ses\"4 \"pyemnt\"2 \"Sur grus es petts Crneux\" fn29 \"Veu edt Arrest du\"p 8 déut \"dxesme Avr es\" déut8 \"Chmres Grnes où\" \"deschrgées\"7 \"u prtcuers\"20/2 \"qutorze/me Aur\"22 \"Sgné Dv TLLET\" et en pettes cptes24 \"Secrtre\" 2 étts du cher B (B/B2)p 524 \"Bsques\" / \"Psques\" Sgné \"Du Tet\" 264 Arrêt decour de prement pourdéchrge entère des oyers des msons du qurter de Pâques enve et fuxourgs de Prs rendu en nterpré ton de ceu du 0 vr derner vec règement pour es ux Du 44 vr 649 Prs pr es mprmeurs et rres ordnres du ro 649 8 pgesydes déts cureux sur es qurters de Prs L V neuvurvos prît vor été du côté du pett Crreu et de Montorgue de à encore e nom deruc Bouroeneuve L Nouvernce étt entreporte Montmrtre etporte Rcheeu Les chmrens étent ceux qu ne ouent que des chmresprose texte offce rrêt Loyers Drot Prs Proprétres et octres"
+            "Arreſt le la Cour",
+            "DE PARLEMENT.",
+            "EN FAVEVR DES LOCATAIRES",
+            "& Souocataires des Maiſons de la Ville & Faux",
+            "bourgs de Paris, pour leur deſcharge du loyer de",
+            "Paſques dernier, Auec Reglement pour les Baux,",
+            "Rentes foncieres & autres conſtituées pour la",
+            "conſtruction des Baſtimens.",
+            "Donné ſur les requeſtes des Proprietaires deſdites Maiſons, & por l’exe",
+            "cution des Arreſts precedens, des 10. & 14. des preſens mois",
+            "& an.",
+            "Du 27. Auril 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
         ],
         [
-            "ARREST DE LA COVR PARLEMENT DE POVR LA DESCHARGE ENTERE DES oyers des Mons du qurter de Pques enVe & Fuurgs de Prs Rendu en nterprerton de ce uy du o Aur derner Auec Regement pour es Buxu Du 4 Aur 649 esV 5 & uA PARS Pr es mprmeurs & Lrres ordnres du RoyTDC X LAuec Pruege deMjeté"
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "LA COVR ayant deliberé ſur la",
+            "requeſte preſentée leving deuxiéme",
+            "de ce mois & an, par les Proprieaires",
+            "des Maiſons de cette Ville & Faux",
+            "bourgs de Paris, Bourgeois & Habitans de la",
+            "dite Ville, & veu les Concluſions du Procureur",
+            "neral du Roy ſur ladite requeſte, enſemble",
+            "es Arreſts des dix & quatorziéme de ce mois &",
+            "n, A ORDONNE & ordonne, Que leſdits",
+            "Aireſts ſeront executez; ce faiſant, tous Mar",
+            "ands qui ſont Artiſans, & tous Locataires",
+            "pour reloüer, & Souocataires, qui tiennent",
+            "à louage partie ou portions des Maiſons louees",
+            "n Chambre garnie ou non garnie, en cettedite",
+            "Ville & Faux bourgs, demeureront deſchargez",
+            "quaier eſheu à Paſques dernier ſeule"
         ],
         [
-            "Ah && Pe Qé 9s 7EXTRACT DES REGSTRES de Prement E ovCour pres uor veu es Requetes preenté́es vne pr en BpeteFuer en Vertte &uttes cous demeurns proche & eés enurons du Ps à ce qu fut ordonné que es Bux qu eur uoent eté fts des Mons où s ont demeurns chcun en eur prtcuer demeureroent nus & reous & qus de meureroent dechrgez des oyers qu ont couru oqu courrontmeux es Propretres nymoent con entr & ccorderdmnuton du prx dedts Bux de moté tnt pour es termes de Noë que ceux de pus echeus & qu echerroent uques à exprton dedts sux uec defences de mettre edts nux à exe cuton ny de proceder u trnport & vente de eurs ens meues Autre pr es Htns des ruës deDrpere Brrere & Gerus Lurent à ce qus fu ent dechrchez de eurs Bux & du pyement dede me nnée echeuë u our de Pques derner & es Loctres & Souctres & Chmrens à pro porton Aurre pr en deSerre & utres demeueejefeegeret rns enCté cendnte à meme fn Autre pr es Mrchnds octres des Boutques etns dnsG"
-        ],
-        [
-            "4 terme echeu u our Snct Remy derner s fuent dechrgez des deux termes dedts oyers echeus de pus edt our Snct Remy uques u derner Mrs derner Autre pr es Bourgeos & Htns deVe & Fuurgs de Prs à̀ ce qus fuent dechrgez dvne deme nnée du oyer de eurs Mons echent à Pques & qu fut urs à toutes contrntes con treux Autre pr Forent Mrte Chrurgen ord nre du Roy en on Artere & utres tous prtcu ers Htns demeurns ene Notrme à ce qus fuent dechrgez chcun ̀ eur egrd des Bux à oyer qu eur uoent eté fts des Mons qus occupent pour e terme qu commencerot u our Snct en prochnmeux nymoent es Propre rres eur fre dmnuton du oyer à ron du ters du prx des Bux pendnt e temps qu retot à exprer de chcun dedts Bux & u urpus qus uroent dmnuton dudt oyer pourdeme nnée echeuë u our de Pques derner Autre pr en Boue nos & utres tous Artns & demeurns dns e du Ps à ce qus fuent dechrgez du pye ment des oyers qu poutroent etre pr eux deus pour es deux termes echeus à Noe & à Pques uf à eux à e pouruor ot pourreouton des Bux ou utres dmnutons s y echeot Autre pr tous es Loctres des Mons zes ruës Snct Honoré Frementeu des Bons Enfns & utres ruës truerntes u qurter & proche du Louure & du Ps Roy à̀ ce qu fut ordonné qus demeu reroent dechrgez du pyement des deux termes de oyer"
-        ],
-        [
-            "oyers de Noe & Pques derner Et encores de executon & entrerenemenu de eurs Bux qu demeureront reous Autre pr en eMoyne & utres tous octres pcncpux des ons tes urPopt Mre & es es dceuy ̀ ce qus fuent dechrgez du pyement du Qur ter echeu à̀ Pque dernes & de ceuy qu e cherrot u jour S en prochn & en coe quenee mn euée de eurs ens s & qù duenr s uroent dmnuton de moté du prx de eurs Bux Autre pr es prncpux o ctres des mons qu oget en chmres gr nes dos ruës des Poues du Louvre duCocq de Chmpfeury du Chntre de en nct Denys Frementeu de Beuus & de nct Thoms du Louvre à̀ ce que eurs Bux fuent reous & eux dechrgez de ce qus deuont des oyers de pus e qunzeme My derner Autre pr An tone e Bond Perre Tre & utres prnc pux octres des mons czes ruë Neufue S Anne & S Louys proche e Ps à ce qus fuent dechrgez des qurters des oyers dont s e trouueroent redeues uquu our de Pques derner Et qù dueruroent d mnuton de eurs oyers dvn tersmeux es Proprésres dedtes mons nymoent con entrreoucon de eursBux Autre prCu Drcque & utres fns prte des Htns deruë er Snct Dens prés e Ps RoyB"
-        ],
-        [
-            "à ce quen nterpretnt Arret du dxéme Avr derner s fent dechrgez des oyers des m ons pr eux oceupées pour es deux Qurters dOétore & nver derner du mons ce qu rete à pyer dupremer dceux Autre pr Frn ços Bujos & utres tous tenns à oyer des mons & chmres en cette ve de Prs ten dnte à meme fn Autre pr Tounct Gor & utres octres des mons & ouques de ruë̈ nct Honoré du coté des Hes à̀ te qus fuent dechrgez de moté́ du terme de Nö & enterement du terme de Pques Et pour d venr es Bux decrez nus& reoustmeux nyment es Propretres conenrrdechtge du ters à duenr Autre pr René Mheut & utres tous prncpux octres de mons depce Muert & és enurons e qu fut ordonneé qus uroent dmnuton entere dv ne deme nné́e de eurs oyers echeus ou à e cheor uee deffenes de es contrndre Autre pr Noe Crré Bourgeos de Prs prncp o ctre dvne mfon fcze pce Muert à̀ ce q fut dechrgé purement & mpemont des ros termes ç̧uor deux echeus u our de P ques derner & ceuy qu echerrot à nt en prochn & que e B de dxe mon demeu rerot reou Autre pr Antone e Grnd & u es rous Hoteers & Creters demeurnsenpce Murt & es nurons dcee à e qud"
-        ],
-        [
-            "fut õrdonné qus eroent dechrgez dvne de me nné́e entere des oyersoutredmnuton porté́e pr es Arrets des dx & douze Avr der ner Autre pr en Ametrye dt nt Mrtn & utmes tous Bourgeot deRrs tenns de grnds corps de ogsen cĥnre grne és uës Coqu eré ons Enfns petthrmps & veux Au utns à ce qus fuont dechrgez enterement du qurter de Pfques confomé ment à̀ ceux des Euurgs ne Mrce & nt Germn Au tre pr es puures Bourgeos Chmre ns deVe & Fuurgs de Prs à ce que deffen es fuent ftes à us Popretres & prnc pux octres de es onttndre u pyement du terme echeu u our de nt Remy derner & de cey qu et echeuu derner Mrs derner deques s demeureroent dochrgee Et à tous Huers & Sergens dexecuter en eurs ens Autre pr oüs Huere & dutres tous puures Bourgeos de cette Ve de Prs demeurnt enVe Neufe Suts grus es petts Crreux outms e us r Mongue Ceur de M rce ruë ppeéerueë Neufue nt Suueur ruë de Cery de Bron & utres rus djcentes ur e chemn qu condut versNouuee Frn ce & Mont Mrtre àce que nterprernt edt Arret du dx Avr qus eroene dechrgez non euement du terme enter de Pques ms encores du terme dent en prochn"
-        ],
-        [
-            "3 Veu ede Artet du dxeme Avr & es Cn cuons du Procureu Gener du Roy ur ucu nes dcees L mtere ms edeerton LAdTE u ynt ucunement égrd ud tes Re qutescexecutt & terpretnt edt Ar ret du dxeme de o mo & r A ordonné & ordonne Que rous Mrchnds Artns & Ho teers &s Locrres pour reoüers Chmres Grnes u non grnes & tous ouoct res qu tennentBoutques Echopes & Mons ou prte d cees en cette Ve & Fuurgs de Prs de meureront dechrgez des oyers du qurter efcheu u terme de Pques derner eu ement Epour es oyers deus & echeus up runt eront tenus edts octres & ous octres es pyer dns e mos pendnt eque uroront es contrnts & ventes des meues pour ron de ce Et uf ux prtcuers à e pouruor pourreouton pretenduë des ux prdeunt es uges ordnres uquescon nonce en pprtent Fr e Prement e qorzeme Avr m x cens qurnte neuf Sgné DV TLLET Cotonné org pr moy CeerSeeretre du Roy& de es Fnces"
+            "ment: Fait defenſes de preſenter aucune reque",
+            "ſte en nom collectif ſous le nom des Proprie",
+            "taires, ſauf à chacun en particulier aà ſe pour",
+            "uoir pardeuant les Iuges ordinaires pour la di",
+            "minution pretendu qu’il peut deuoir, d’vn",
+            "quartier d’arrerages des rentes foncieres & au",
+            "tres conſtituees pour l conſtruction des baſti",
+            "mens des Maiſons dont les Locataires ſe trou",
+            "uent deſchargez, defenſes au contraire. FAICT",
+            "en Parlement le vingeptiéme Auril mil ſix",
+            "cens quarenteuf.",
+            "Signe, DV TILLET.",
+            "Collationné à l’original par moy Conſeiller Secne",
+            "taire du Roy & de ſes Finances."
         ]
     ]
 }

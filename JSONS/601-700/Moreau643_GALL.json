@@ -1,71 +1,170 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
+        "form": "prose",
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-04",
+        "creation": "1649-03-01",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-08",
-            "@who": "AB"
+            "@when": "2022-04-06",
+            "@who": "ZC"
         },
-        "titre": "Le cartel burlesque entre deux amis, envoyé de Paris à\n          Ruel et refusé pendant la conférence.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-24",
-                "#text": "24 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-20",
-                "#text": "20 avril 2021"
-            }
-        ],
+        "titre": "La cassandre françoise, avec le Riéveil-matin des\n          Parisiens.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau643_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau644_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le crte uresque entre deux ms envoyé de Prs à Rue et refusé pendntconférence Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté24 févrer 202 20 vr 202 Crte (e) uresque entre deux ms envoyé de Prs à Rue et refusé pendntconférence Prs Ncos Jcqurd 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y20TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs643 Crte (e) uresque entre deux ms envoyé de Prs à Rue et refusé pendntconférence Prs Ncos Jcqurd649pgesvers poése uresque strque Déprt des députés pourconférence de Rue 644"
+            "LA",
+            "CASSANDRE",
+            "FRANCOISE,",
+            "AVEC LE REVEIATIN",
+            "DES PARISIENS.",
+            "A PARIS,",
+            "Chez ESTIENNE HEBERT, au Mont Sainct Hilaire,",
+            "ruë des ſepoye.",
+            "M. DC. XLIX."
         ],
         [
-            "LE CARTEL BVRLESQVE ENTRE DEVX AMS ENVOYE DE PARS A RVEL & refué pendntConférnceA PARS De Lmprmere de NCOLAS ACQVARD rüe Chrtére pres e Putertn u Treert M DC XLX"
+            "L A",
+            "CASSANDRE",
+            "r",
+            "T T",
+            "H",
+            "FRANCOISE.",
+            "T",
+            "AVEC LE REVEIATIN",
+            "r 1",
+            "des Pariſiens.",
+            "AssADE auoit ce ma heur de n’eſtre",
+            "pas ecoutée, bien qu’elle ne manquaſt ia",
+            "mais en ſes Propheties. Son frere Laocoon",
+            "puernoreneſou eu i neſoue i ne e ne oe",
+            "de tant loin qu’ilpeut; Ne laiſſez pas entrer dedans",
+            "voſtre ville ceét homme eſtranger, ce Simon Archi.",
+            "matoys, ce perfide, ce cheual artificieux: Ily a dedans",
+            "eual vne legion d’ennemis, qui ſont coniureza",
+            "nore ruine.",
+            "Caſſandre eſt le ſymbole de la Prudence, qui de",
+            "uine mieux que Noſtradamus, auec tout ſon barra",
+            "goüin de Centuries; Mais c’eſt vne vertu contraire",
+            "à la prudence des hommes vains & ambitieux: Car.",
+            "elle ſe ſert diſcretement de la lumiere où elle eſt touſ",
+            "jours eſleuée, & la plus haute induſtrie de ces gens icy",
+            "eſt de ſe cacher en mal.faiſant, ils imirent l’Autruche,",
+            "quipenſe en cachant la teſte, que le reſte du corps eſt",
+            "nuiſble. Or il y a vne veuë, il y a vn œil qui les eclai",
+            "re, il y a vne Prudence au deſſus d’ex qui les mire",
+            "A ij"
         ],
         [
-            "3 LE CARTEL BVRLESQVE ENTRE DEVX AMSENVOYE DE PARS A RVEL& refué pendntConférnce QVoy Tyrs oynt puer  Mes expos quveus à ore  Aen pu es ouer  Que de men contetergore ?  Sç que e verre ou e o  Long dvn grnd demy ped de Roy  Tent chopne en meurée ?  Et que e ceete Fmeu  ms ousvoûte zurée  Nendn veu de pus eu ? A j"
+            "4",
+            "& les couche en joüe de cnquante lieuës, & quiles",
+            "canarde comme des oyſons dedans vn marais.",
+            "y a vne Caſlandre qui predit tous les maeurs",
+            "qu’ils doiuent cauſer, qui pr euoit que leurs coniura :a.",
+            "tions & leurs monopoles nae vont qu’à la ſubmoſionde",
+            "tout vn peuple. Le mal eſt que Caſſandre n’eſt pas.",
+            "ecouté́e en ſes predictions, non plus que Laocoon",
+            "on frere, c’eſt à dire le bras droict, & la force de la Jl",
+            "Prudence, qui veut preuenir les calamitez qu’elléa",
+            "preueuës; il crie, comme il’ay dit, gardeous de l",
+            "er entrer ce cheual dedans vos murs; Mais Lao",
+            "eoon à beau crier, & les ferpens ſymboles de la Pru",
+            "dence ont beau enuelopper ſes enfans en la preſence",
+            "de tout Ie peuple, pour ſignifier que la meſme Pru",
+            "dence le conduit, & que ſes paroles enfanteées de la.",
+            "Raiſon & d’vn bon Eſprit, meritent toute autre crean",
+            "ce. e cheual plein d’hypocrites & de teſtes ma",
+            "quées entré́es dans Ia miſerable ville Capitale detout!",
+            "e Royaume, on deſteuit les murs & les mareſts pour",
+            "e faire monter à ſon ayſe, & ſi haut que toute l’Vni 1",
+            "uers en peut voir le faiſte. Voyla donc le Royaume:",
+            "poſeé à toutes ſortes de maeurs. O fatrale incredu",
+            "lité des hommes! Tous les bons Eſprits affectionnez.",
+            "à la France, ont préueu & predit lemal qui nous enui",
+            "oune en cestemps. On auoit predit le deſſein horri",
+            "bled’vn Eſtranger, ſç̧auoir eſt de bruſler la ville de Pa",
+            "nis la Minui de Noel. On n’auoit pas oublié d’ad",
+            "uertir que l’on priſt garde à la Baftile durant les tene",
+            "bres,ou cet Entlemy comme le demon, circait grens",
+            "quem denuoret, par le moyde ſes traiſtres & de ſes.",
+            "eſpions,"
         ],
         [
-            "4 Lcqus mon verre nee ps  Ten rendre témon ocure ?  Comen de fos en vn reps  Vudero mon ordnre ?  O e grnd teur de os e veux e mettre à ec tros fos  Contre e gnd vne eue  Et e uy fery ns efforts  Auec du Condreux prgueue  RentrerGconnde u corpsMgré es troues de ce temps  Dy fdee & cher Apheme  Que s en veut e pemps  e en fery juge ueme  Dy (deû sen rrter)  Quee uy fy en qutter  Vne vnté qu moffence  Cet e frut du on quonprs  De menegner dés mon enfnce  Vn rt qutrop trd pprs A pene"
+            "iuiſques aujourd’huy Dieu a deſtourné ces deux der",
+            "niers accidens. Mais il y a vn troiſieſme qui ſe couue",
+            "& ſe couure: Prene bien garde, ô̂ bon Pariſien,",
+            "voicy vn Reſuei matin qui vous dit ces mots d’vn",
+            "Autheur celebre.",
+            "Vt iugulent homines, ſurgunt de note latrones",
+            "Vt teipſum ſerues, non expergiſceris?",
+            "Etplus efficacement la ſaine Eſcrirure.",
+            "Nunquid qui dornit, non adiicet v reſurgat.",
+            "Ecenis qui edebat tecm panes tuas, magnificaui",
+            "uper te ſupplantationem, c’eſt à dire",
+            "Les larrons ne dorment point afin de t’eſgorger:",
+            "Quoy!’ aurois tu moins de ſoin pourte ſauuer, qu’eux",
+            "pour t’eſgorger & pour te perdre. Tel qui mange",
+            "tonpain & qui te fait beau ſemblant, cherche à te ſup",
+            "planter & à te perdre par toutes ſortes d’inuentions.",
+            "Souuienoy que tu as dormy ceuant à la Fran",
+            "çoiſe, & comme s’y tu euſſes veſcu dans les delices",
+            "de la Paix. Le ſeul chant du coq t’aduertiſſoit de l’au",
+            "be du iour, & poſſible que tu te ſouciois fort peu des",
+            "rmes de ſainct Pierre, pleurant ſes offenſes au ſou",
+            "uenir de cet oyſeau, de ce re ſueiatin. Auiourd’huy",
+            "on te reſueille au bruit des tambours battans, l’on",
+            "veu ce furieux débordement de la Seine, l’on a re",
+            "marqué́ laſtatue du feu de ioye de la ſainct Iean der",
+            "nier, auec vn Sceptre & vn Diademe reſiſtant au feu",
+            "quieſtoit à l’entour: Figure d’inuentin commune,",
+            "fantaiſle fortuite ſans deſſein, & pour lors, ſans appli",
+            "cationſi vous voulez; Et neantmoins ce que le vulgai",
+            "fait à l’aduenture, & ſans ypenſer, ſe trouue bien",
+            "B"
         ],
         [
-            "5 A pene uon euement  Conté qutre mos de mon ge  Que mon nourrer Aemnd  Dter grnd peronnge  En effetfemme vn mtn  Aynt de tros goute de vn  Moüé e out dememmee  e men vsen ppté  Que depus e rûé comme ee  Pour ce jus dont uos ttéAn dn queque queur  Que dvn pot neuf rge yt uë  Ee grde onemps odeur  Dont vne fos ee et muë  An nos prens queques fos  (Ms nnocemment toutos)  A ce meter nous chemnent  Lors qus nous donnent à teter  Des nourrces qu nous unent  Putot que de nous terB"
-        ],
-        [
-            "6 Pour te montrery ron  Sns en chercher vn utre exempe  Cher Apheme notre mon  Nous en fournt vn ez mpe  pprens de ce que on men dt  Qun Dme As me rendt  Deuot u Demon deTree  Et queputn uot  Hunt e cu deBoutee  Autnt de vn que moy de t  Queque doux que fût ment  Que e tros dun en dâtre  Dont on veux cocu dAemnt  Netot ps ucoun doâtre  Soudn quee prenot ce ton  Lnt à e jus du teton  Dont e me ouos ns otce  Dze eunt mon pett nez  ttchos à ce doux pectce  Mes yeux à e vor otnez"
-        ],
-        [
-            "7 Le Mrou qu dvn our enuer  Et queque fos en duntge  N joüé tour de on meter  Surchr ou ur e potge  Ou e chen quvn on ppett  Comme à es Ros ujettt  A tous ceux quete eme  Tenté dés e commencement  De fre ce qus font eneme  Les regrde mons fxementMs uos eu conderer  L queur u degoute  Que e pouuos en eperer  De cee qu vot toute  uos eu uy montrer e ec  Mettre vn pett fâcon à ec  Netnt ps vne grnde ffre  Ee épuot teement  Qu ny retot ps dequoy fre  Ruy ur onge euement"
-        ],
-        [
-            "8 Comen me coûtot en hereu  (Cr des enfns cet e ngge)  Comen me coûtot ute Deu  De pnte ce crue outrge Frutré de m prt du utn  e fos e pett Lutn  Sur e gron decrongne  Qu queque fos pour mpper  Donnot à on pett Yvrongne  S Boutee vude à erBcchus propce à oron  Que e uy fs mon cher Apheme  L punt & me ft ron  De ce trt de rgueur extreme  Pour venger on pett vet  Ce Deu chnge ce vn en ct  Vn certn our deemne  Et pr vn prodge dun  Des deux tetons de nhumne  Ft pour moy deux ources de vnTu rs"
-        ],
-        [
-            "9 Tu rs cher Apheme & doutnt  De unture dun Yvrongne  Tu cros nouyr en mécoutnt  Que des contes deCgongne  Ms tete de ce devn  Qu dt que ymeros e vn  Le mytereux troe  Que e ne veux n quvn veu  (S e te ments dune ye)  Bore deorms que de eu  Voy done Tyrs s tet precrt  De te remettre àcmpgne  Porte uy ce Crte ecrt  Dencre fte de vn dEpgne  L utnce en et que demn  e veux vor e verre àmn  Le drôe tnt quun de mous créue  Qu venne & que cet vn düe  Qu ne voe pstréue  Fte entre Prs & RüeC"
-        ],
-        [
-            "L Tréve ? hcet m ppquer  Vn terme dout e cy uge  S ne donne pour mexpquer  Aux ffres quun fux vge  Cet mprudemment que e fs  Dvn doux vnropos de px  Vne prente e de guerre  De noftre nnocence chrmé  Le Roy v poer e tonnerre  Dont vn trte uot rméMgré es compots noüys  Dvnche &s courge  Nos tres es yeux de Louys  Percent & dpent orge  Nu cher Apheme nenpeur  Que e orcer dontvpeur  L formé pour nous mettre en poudre  Et mon Roy mgré Bezéut  Veut pour en empoyerfoudre  Que on ouurer en ot e ut"
-        ],
-        [
-            "Anne prete à nous rmener  Ses deces qu ont es notres  V nous oudre & condemner  Ce montre horreur de tous es utres  M Reyne v reconnont  Ou que on peupe et nnocent  Des crmes de Lezmnence  Ou ce qu uot proteté  Qus ne ont ps comme ee pene  Crmes de Lenjeté"
+            "6",
+            "ouuenteapable d’vn ſens que l’on applique aux acci",
+            "dens qui viennent apres. La France conſerue fa pusiſ",
+            "ſance Royale au milieu des bouteux & des vol i",
+            "eurs, qui la ſaccagent & qui taſchent d’en fairevnem",
+            "brazement general, en maſſacrant tous les bons &ge",
+            "nereux François, qui ne furent iamais Eſpagnols ny",
+            "Monopolleurs, c’eſt à dire, les coupporges dupau",
+            "ure Peuple Pariſien, ce débordement de ta grande&",
+            "elle riuiere, ſignifie le debordement de ſes mœurs,&",
+            "oubliance que tu fais ſouuentefois de ton Dieu en le",
+            "mant, en te parjurant, & en mille autres façons.",
+            "Que cela te ſerue d’vn Reſueiatin, pour t’exciterà",
+            "te conuertir en mieux. Toute ta fortune & ta conſerua",
+            "tion depend du Ciel contre des Sceleras, Etrudes,",
+            "Tygres, nhumains, & des Athées qui ſe mocquentde",
+            "Dieu & de ſa ſuſtice. Dieu t’a preſerué de ces acci",
+            "dens que ie viens de dire; Mais tu n’és pas encore eſ .",
+            "chappé́ du mal, ny meſme d’vn autre troiſieſme. Tou",
+            "tesfois nonobſtant les Propheties contraires, le Roy",
+            "des Roys ſauua autrefois la grande & ſuperbe Nini.",
+            "ue, apres que les habitans eurent fait vne vraye & non r",
+            "fſeinte Penitence.",
+            "Tout le monde apperç̧oit que l’intention de nos",
+            "ennemis eſt de te rendre ſeditieux, s’ils pouuoient au",
+            "eu que les bons Miniſtres d’Eſtat, pour empeſchet",
+            "vnſi grand ſcandale, employent leur prudence & tous",
+            "eurs efforts. Ils tovoulent affamer & reduire aux der",
+            "niers abois; Mais Dieu qui renuerſera leurs daſſeins",
+            "funeſtes, te rendra plus fort par les meſmes voyes",
+            "qu’ils’cherchent pour te mettre en poudre. Ta neceſſi"
         ]
     ]
 }

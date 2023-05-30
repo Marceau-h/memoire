@@ -1,54 +1,119 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "narration",
-            "burlesque"
-        ],
-        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "00-00-0000",
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)",
+            "Comminges, Gaston Jean Baptiste de (1613-1670)"
+        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-13",
+            "@when": "2022-03-14",
             "@who": "AB"
         },
-        "titre": "La jérusalem françoise, où les prophéties de Jérémie sont\n          naïvement expliquées, suivant ce qui arrive à présent.",
+        "titre": "Le jeu de dames que monsieur le prince de Condé joue avec\n          M. Guitault .",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-26",
-            "#text": "26 avril 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1733_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1734_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L jérusem frnçose où es prophétes de Jéréme sont nïvement expquées suvnt ce qu rrve à présent Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Jérusem () frnçose où es prophétes de Jéréme sont nïvement expquées suvnt ce qu rrve à présent Prs Perre Sevestre 649 Lyon Bothèque muncpeSJ F 247/77 54TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Sute de \"Les eçons des teneres des Prsens ou es prophetes de Jereme sont nyvement expquées suvnt ce qu rrve à présent\" (Moreu 808) qu comporte e même compément de ttre etmenton \"Premere journee\" u ttre de déprtLe ttre de déprt pge 3 porte\"Seconde journée\"L \"trosesme journee\" vec une pge de ttre proprepour ttre\"Sute deJerusem frnçose Ou es prophetes de Jereme sont nyvement expquées suvnt ce qu rrve à présent\" 733 Jérusem () frnçose où es prophétes de Jéréme sont nïvement expquées suvnt ce qu rrve à présent Prs Perre Sévestre 649 Deux prtes de 8 pges chcuneprose nrrton uresque Avntpx"
+            "LE IEV DE DAMES,",
+            "que Monſieur le Prince de",
+            "Condé à ioüé auec Mon",
+            "ſieur Guitault.",
+            "Monfieur Guitault parlant aà Momſieur le Prince.",
+            "VOus plaiſez vous au Ieu de Dames.",
+            "Monſieur le Prince.",
+            "Quelque fois ie m’y diuertis, & ie m’y plais fort",
+            "quandi’ay le deſſus, & que ie puis Damer.",
+            "Monffeur Guiaudlt.",
+            "Pour moy, il y aſi lonemps que ie n’y ayioü̂é",
+            "que ie croy auoir oublié́ lejeu.",
+            "Monſieur le Prince.",
+            "Quaad leay parfaiteme, o e peur iamais",
+            "oublier.",
+            "Mouſieur Guiale.",
+            "e oſe ioüer auec vous, i’ay peur de n’eſtre pas",
+            "ez fort.",
+            "Monſfieur le Prince",
+            "e n’y ay iamais bien ioü̈é́, & y ſçay aueune fineſ",
+            "ſe, ie ne fais que remuer toutes mes Dames l’vne a",
+            "pres l’autre ſans ordre, & à la fin ie m’en trouse mal.",
+            "Monſeur Guitault.",
+            "e m’hazarderay daue de loervne partie, mais il",
+            "r aa a",
+            "A"
         ],
         [
-            "LA ERVSALEM FRANCOSE OV LES PROPHETES de ereme ont nyuement expquées uunt ce qu rrue ̀ preentA PARS Chez PERRE SEVESTRE u mont Snct Hre dnsCour dAtet M DC XLX"
+            "faut que l’aye l’aduantage de Trois pions, autremens",
+            "e ne puis ioü̈er.",
+            "Moſeur le Prinmce.",
+            "Ce que tu pouras prendre en iouant, ie te le doue.",
+            "Moſisur Guirault.",
+            "e m’en vais doneeommencer.",
+            "Monſieur le Prince.",
+            "e ne ſç̧ay deſia plus que ioü̈er.",
+            "Monſieur Guiaule.",
+            "Auance, vous eſtes en ſeureteé́.",
+            "Monſieur le Prince.",
+            "y Trois Pions qui ſont en grand danger.4",
+            "Monfieur Guiraulr.",
+            "e les prenderay ſiie puis.",
+            "Monmſeu le Prince.",
+            "fauit que ie taché à les ſauuer.’",
+            "Manfieur Guialt.",
+            "e vous en empeſcheray bien.",
+            "ae",
+            "Tune mae donneaueun quariep",
+            "4",
+            "2",
+            "foeut Gldl.",
+            "Voyla beau coup de rois que ie vais faire.",
+            "Monſieur le Prince.",
+            "Ceſt ce qui ſera aue de a pere",
+            "1",
+            "Monfſour Guinule.",
+            "Vous tez hal joeé, vous ne ſfç̧auiriez plus aller à",
+            "Dahes.",
+            "Moſleut le prince.,",
+            "eer ine ane qai t iunrr"
         ],
         [
-            "R VSALEMH MFRANCOSEOY LES POPHE TES DE EREME ont nuement expquées uunt ee qurrue à preent SECONDE OVRNEEPrmere Lço r A edAn de dpr mr &s es urn e re neee g us dpnenuode ruuu E & t detooedude n enuet d& epuu&erSr e ens E e nernen unrnou enmeunu e&e en dee e pune peneeunr Aennedeunn eon f n n ennueore e d pune ete oene ee pueree rne nenpoe nusue er neen eun e peen oure een euene d vundre eens t enen eer pneee nnre ensmen nmn e ede us ue e eeoe fnete e e quden e et proene erret"
-        ],
-        [
-            "pour runer es vns & es utres Queques onnes mes qu e confoent ̀voonteé du Segneur e ont entremes pour pper on courroux comme Moye utrefos e mt dennt Deu pour empecher de nure à̀ on peupe ms ces onnes gens e ont trouuez ceez uec es mechns pour qu s uoent fr eur prere & nont ps eu meeur mrché queux cr e ufte en ouuent ptt pour outenrueeSes portes ont eté fcheées dns terre perdu & ms s nent es verrose pcé on Roy & es Prnces uec e nton efrge resny pus mntennt de oy & es Prophetes nont pns tro ueé de von deunt e SegneurL erté qu nous etot utrefoscque nuot ms perms dns Prs quon oucht es portres & quon demn dt à̀ ceux qu veuent per où s vont Ee ont mnte nnt fché́es en terre cet à̀ dre quon ne es ouure ps é ment & quon nen permet ps e pge Le Roy & es Psrn ces ont entre es mns dvn ten qu es tentfurr en chnez quon smgnerot vooners qu yqueques choe dextrordnre en ce De pus es ox ont perdu eur punce & uthorté́ quees uoenr cy deunt & es Propheres e veux dre es Pretres & es Pteurs nont pus trouué́ de fueur en Deu qu meprnt eur prere n ps é de nous chter 3e ont fs contre terre es fes de Son ont rreé es ve rds s ont poudeé eur tefe de cendre s e ont reueus de ces & es Verges onr ete contre terre ers teftes Dns es ngoes & prmy es necetez chcun set profterné contre rerre rnt pour ouger vn peu es frgues qù fn de e proterner deunt Deu ot ux Eges ou dnsmon es fes qu ppehendoentperte de nos ve rds cet ̀ dre du Premẽt euent en vouu e forcer de es retenr Les onnes ̀ ce ujet & pourconeruton du Roy & de on Royume ont poudré eur tefte de cendre cet à dre ont ft pemtence e reuetnt de hres & de cces & es Verges toutes fmpes & routes honteues regrdent toû jours contre terre nont regrder vers e Ce de peur de mportunerMes yeux ont tnt versé de rmes qs enx pouoent pus mer entres ont efeé troées mon foyeete repnd pr terre en voyntçontron de mon peupe & voynt de pent enfnt & cede q tot"
-        ],
-        [
-            "tot dns es pecc & dns es crreours deveEnfn nous ommes rruez u ponct qu eme que Deu vuee nous ccorder e prdõ & quprs pté de nos nfor tunes &e Prophere pre vn peu trop humnement cet pour nous exprmerõté deDeu & on extreme reentmẽt pour nos mux Qnd nous voyons queque choe qu nous ft ptc nous en ommes tous emeus dns ntereur n Deu qu prend compon de notre mereetc fortement roucheé de pte Son foyeeté́ repndu pr terre ce veut dre qu n pus de fe contre nous & qu ne veut pus sen vnger pres uor reconnu que e peupe setot mendé & que es perrs enfns nguns uec eurs meres qu ne es pouuoent pus ter ̀ cue de extreme neceré quees reentoent & qu etoent couchées u meu des pces toutes nguntes & eches uy ont ft pté SE conNE LE 4oNs ont dt ̀ crs meres où c ce qu y du pn & du vn ors qus eoent fos comme des peronnes eées dns es mrchez deve & ors qus troent u dcrner ou r des e en de eurs mers Le Prophete exgere encore vne fos vne choepus p toye de cees qu puent ms rruer Cr quyren de pus dgne de compon que de vor des puures en fns demnder du pn à̀ eur mere qu nenpont pour eur en donner & que ces puures enfns ontfoes qus ne e curoent outenr non pus quvne peronne eee & de es vor en ute mourr entre es rs de eur mere qu sen deepere Cet ce que onveu dns Prs depus queque remps tnt ̀veuë meme du peupe que dns es mons en prtcuer 2 A qu te pourros je en comprer ou te rendre eme fe de ereems ̀ qu tegere & comment te conoere o Ver ge fe de So prce que ton repentr et grnd comme vne mer p ee qu te porr donner du remecdeet vry que nous pouuons dre vertement que dns P rs onveu ceer es deordres qu y etoent uprunt fm ers Le uxe nypus de vogueprde y et etoufé́e e ren ny es treurs de ne ny ont pus de cours de orre qu sẽe que rtous es pechez ont cchez deous e ofeu cet pourquoy ce que e Prophete dt en cet rtce uy con B"
-        ],
-        [
-            "uent fort en ne çchnt de quee fçon e oüer & e oüe prncpement depentence 3 es Prophetes one conderee menteue & efourde à̀ toy memene vouoent ps metre u our ton nqte fn de te prooquerpentence Et de urpu s ont veu comme tu rejettos & receos fuement des choes Deu en qu reconnoe crement notre nquté́ d mue ouuent nentmons pour ttendre que nous recon noons notre fute Et de pusme hypocre de ceux qu dégmentpus grnde prt de eurs ctons fnt dvne ortre deunt es yeux du puc & e comportnt dvne utre dns eur concenceTons ceux qupoent pr e chemn deunt toy ont ttu des nnstont fé & ont rné eur tete urve de eru em en dnt Et cecette uve dvneexccente euté quon ppeot es eces & e contenteent de touteterre? Sns doute que nos ennems qu ne dereroent utre choque notre perte & notre confuon ne mnquent pont de jetter des reres ur nous & pnt & repnt ux endrots dou s peuuent vor cette ve s ttent des mns ce que on tft ors quon veut nmer vn chen ou vne utre ete pour en er ttquer vne utre ou en ors quon e veut mocquer de quequvn en e ffnt ou e hunt pr meprs e ne doute pont u qus ne rnent en ouuenttete smgnnt en que Prsperdu en eurement tourepremere pendeur & e es contentemens netmes dont jooentpuprt de es ctoyens on eunouys rosEsME LEÇON r e us vn homme qu connos en que mon ndgence et fors grnde en ndgnton decverge Le peupe de Prs erot en euré́ment ns ron s ne reconnoot pus c rement que e our que toutepuureté qu ouffre ujourdhuy prouent decoere de Deu eque ndgné́ de es vces & de es muues cons e punt rgoureu ement & ne e nt pont en repos uy ft reentrverge e veux dre e frppe rudement de tous es cotezen qu nypont de pce ur uy qu ne ot meurrre 2m mence & m condute dedns es tencrer & m æ chéumere"
-        ],
-        [
-            "e noe dre pr certe entence ce que y trouue verte mët cr e pene que cet vne mence ̀ pueurs qu e voynt touchez de tnt de penes ne ent ps nentmons de de meurer touours otnez & mgré ex empe de ceux qu e ont vertement conuerts ne ent ps de demeurer en eur muue htude & deuure touours & pr ce moyen demeurent vertement dnsnut cet ̀ dre de dns e peché 3n ft tout e ong du jour que de tourner & retournermn deus moy Qund on veut ftter quequvn & prncpement es en fns & ceux qu ont en notre chrge onde coutume de eur portermn tntot urtete & tntot de ge fn que es trnt doucement on es oge pus forte ment à mour & à̀ oeynce que nous ttendons de eu prt An Deu nousftez pr es duertemens our ners ot pr es predctons de ceux qu montent en ch re ou ot pr es ons exempes des Regeux & des peron nes du monde qu vuent dnsretenuë qu ont utnt de mns de Deu qu nous touchent & e cœur &voonteé pour nous condure dns e on chemn 4rendu m chr & me peu conmeees efoent vcs & ncenncsromp &froe mes os e ne doute pont comme y de dt que ces proes ne strruent ordnrement à̀ eus Chrt Ms e te demnde prdon cher Lecteurvount uure mon deen e ds que es peuuent srreter à ceux que Deudes j puns où qu dot punr dns Prs cr rendu eur chr & eur peu com me toutres vees cet ̀ dreesteement mcerez prfm & pr es necetez deve qus proent tous ves & rdez & reement tus que vous drez à̀ es vor mrcher qus ont es memres rompus 5 fy dedns mon gyron & nm tout entoure de fe& de tr Deuty dns notre gyron cet à dre edfeé d nsnous memes vn ong ms de pechez pour nous es re preen ter à̀fn & pour en trer vn ourvngence en nous fnt ouffrr tnt de penes & tnt de mheurs que nous re enton s 6m ms dns es eux ocurs comeone ccx qu ont effé́ touor9 ers"
-        ],
-        [
-            "dt que es pecheurs ont dordnre ce deuntge qu pres eur mort on ne e ouuent non pus deux comme ss nuoent ms vecu cy s Cet ̀ dre qus ne rencon trent en peronne que ce ot ny meme dns eurs prensmondre courtoe du monde tnt pour en uor memore que pour prer Deu pour eux pres qus ont morts 7ty conre moy fn que e ne pue ortr &redon é mes chnesnypont de doute qu yde fort ong temps com me nous e reconnotrons émentnous vouons e con derer que Deu tt ̀ entour de nous cet ̀ dre qu u cte des peronnes pour nous tourmenter & nous perdre te es quont eté ces n uës dEtt qu nous ont peé́ u quux os Et tout dvn coup redoueé nos chnes en formnt vn punt prty qu noustenurdefort & nousé es mnserré́ que nous uons en depene ̀ nous deer 8 Ms qnd ury cré & preé repoué m prere Deueteé queque temps quencore qu nous entendt ncemment crer & prermepror pourtntre quete que nous uy fons & e rendot ourd ̀ nos vœux 9 oché mon chemn de perres qurres &renuere tonsnes psNos ennems qu nous ont ouché es chemns pour otererté de nos vures ont utnt de perres qurrées qu e ont mes u deunt de nous crfgure qurreée etpus ferme &pus contnte & quon remuë uec pus de dff cute ce quft que nous uons en eu depene à̀ es fre recuer de notre pge & que en ouuent ceux qu nous vouoent pporter des vures ont etc contrnts de rerour ner ur eurs ps Fn deeconde ournée"
+            "3",
+            "Manfieur Guitaulr.",
+            "Voſtrie Ieu ne vaur plus ien.",
+            "Monſieur le Prince.",
+            "y eſté trompé, le penſois faire vn eoup de Trois.,",
+            "mais tu m’en a fairvn plus beau.",
+            "Monſieur Guitault.",
+            "falloit vſer de preuoyence.",
+            "Monſfeur le Prince.",
+            "n’eſt plus temps, ie ne puis pas reſiſter, tu as mis",
+            "trop bon ordre à ton leu.",
+            "Mnſieur Guitault.",
+            "ne autrois vous joü̈rez mieux.",
+            "Moſieur le Prince.",
+            "Si ie me fuſſe défait d’vn Pion, i’auois gaigné, mais",
+            "e u croiois pas que le Ieu iroit de la façon.",
+            "Monſieur Guitault.",
+            "fau que vous quittiez.",
+            "Monſieur le Priuce.",
+            "Si tu n’eſtois point ſi fort ie pourois me Sauuer, mais",
+            "e ſuis pris, ie n’ay plus de Dames.",
+            "Monfieur Guitault.",
+            "C’eſt aſſez joué, il eſt tard, ie vais ſerrer les Pions",
+            "de peur qu’ils ne ſe perdent.",
+            "FIN."
         ]
     ]
 }

@@ -1,36 +1,91 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": "Commerce -- France -- Paris (France) -- 17e siècle",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-30",
+            "@when": "2022-02-07",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, portant que tous les biens\n          meubles ou immeubles et revenus des bénéfices du cardinal Mazarin seront saisis, et\n          commissaires, séquestres et gardiens commis à iceux.",
+        "titre": "Arrêt de la cour de parlement, portant injonction, à tous\n          marchands et artisans de cette ville et faubourgs de Paris, de tenir leurs boutiques\n          ouvertes et continuer leurs trafics , ainsi qu’il est accoutumé.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau224_GBOOKS.xml",
+        "fichier": "Moreau225_MAZ.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Arrêt decour de prement portnt que tous es ens meues ou mmeues et revenus des énéfces du crdn Mzrn seront sss et commssres séquestres et grdens comms à ceux Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de PrsArrêt decour de prement portnt que tous es ens meues ou mmeues et revenus des énéfces du crdn Mzrn seront sss et commssres séquestres et grdens comms à ceux Prsmprmeurs et rres ordnres du ro649 5 jnver 649 Lyon Bothèque muncpe32998TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Deux utres édtons (BM00092 et BM00093) Égement pué dns e recue édtor \"Recue de dverses peces qu ont pru durnt es mouvemens derners de nnée 649\" (BM000059) Sgné \"Du Tet\" Texte pru e 5 jnver649 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 5 v) 224 Arrêt decour de prement portnt que tous es ens meues ou mmeues et revenus des én fces du crdn Mzrn seront sss et comm sres séquestres et grdens comms à ceux Du 3 jnver 649 Prs pr es mprmeurs etres ordnres du ro 649 4 pgesprose"
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT INIONCTION A TOVS",
+            "Marchands & Artiſans de cette Ville & Faux",
+            "bourgs de Paris, de tenir leurs boutiques ouuer",
+            "tes, & continuer leur trafic ainſi qu’ils ont ac",
+            "couſtumeé.",
+            "Du quatorizéme iour de Ianuier 1s49.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinai",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
         ],
         [
-            "Arret deCour DE PARLEMENT PORTANT QVE TOVS LES BENS meues & mmeues & reuenus des Benefces du Crdn Mzrn eront s & Comm res Sequetres & Grdens ets à̀ ceux Du trezéme our de nuer m x cens qurenteuf A PARS Pr es mprmeurs & Lrres ordnres du Roy M DC XLXAuec Pruege deMjeté"
+            "l AA ltbſhtbbttte",
+            "e e ae es de de ae e e de fui",
+            "Souppeſeeſqpſeipeeopep",
+            "A",
+            "ex RAeT",
+            "DESREGISTRES",
+            "DE PARLEMENT.",
+            "E iour, la Cour toutes les Cham",
+            "ats",
+            "dt oes ſenibies s Sus aduli qi!",
+            "Z eſlé donne qu’aucuns archands de",
+            "tte Ville tiennent leurs boutiques",
+            "fermées; ce qui eſt contre l’ordre, & peue",
+            "pooutr rouble d la reanquilire pablquaele",
+            "nere miſe en deliberaton, LADITE",
+            "a enjoine A tous Marchands & Ari",
+            "fans de ecette Ville & Fauourgs, tenir leurs",
+            "ouriques ouuertes, coneinuer leurs raſie",
+            "n qu’ils ont aeeouſtuḿ, à peine damende",
+            "roitraire. Et ſera le preſent Arreſt, a la re",
+            "queſte du nroeneur denetal du oy lespu;",
+            "e aiché par tout ou il apparienda,à",
+            "ce que nul n’en pretende cauſe d’gmorancei",
+            "Enjoint aux oieiers du Roy du Chaſtelet,",
+            ".",
+            "1!",
+            "Ema"
         ],
         [
-            "3 EXTRAT DES REGSTRES DE PARLEMENT LA COVR toutes es Chm res emées deernt ur executon de Arret du s de ce mos & n donné contre e Crdn Mzrn A OR DONNE & ordonne Que tous es ens meues & mmeues & reuenus de es e nefces eront s & Commres Seque tres & Grdens ets à ceux àrequete du Procureur Gener du Roy & dgence de es Suttuts Et eront es Fermers Re ceueurs & deteurs des reuenus echeusgnez en dte Cour pour repreenter eurs Bux ffrmer & vuder eurs mns Leus ft defenes den pyer ucuns que pr ordre"
-        ],
-        [
-            "de dte Cour à pene dé pyer deux fos FACT en Prement e trezéme nuer m x cens qurenteuf Sgne DV TLLET Cotonné à orgn pr moy Coneer & Secre tre du Roy & de es Fnnces"
+            "4",
+            "cuit la nain à l’ereeution EAIT en P",
+            "ounen le quatodieme laaulert mit ſir cene,",
+            "quaranteuf.",
+            "Signé, DV TILLE.",
+            "Collaonné nl’Orgimal, par moy Comnſeiller",
+            "Secretaire du Ry & de ſes Finnnr,",
+            "J aureime our de lamier mil ſit den qumam",
+            "lp rapſde dus de ſlopus Ceet",
+            "Eiee dſie rils, iſerroe pe u",
+            "es pun nus dlieoiarmfeir omrditdnes ce eaunrn",
+            "ee eeile e lue lferrs ds pue re es lu ſ",
+            "ocniapmdnoe da or n la l, nuaſu ’",
+            "n le ueen ofdſeindſ ieuen qun leumn d",
+            "ru t Fains lie Tmmuu du Peoyſdin iu",
+            "Signe, IOSSiER"
         ]
     ]
 }

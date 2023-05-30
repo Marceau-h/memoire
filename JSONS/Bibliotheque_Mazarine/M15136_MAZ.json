@@ -1,67 +1,166 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "traduction",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Retz, Cardinal de (1613-1679)",
-            "Lionne, Hugues de (1611-1671)",
-            "Vendôme, Louis de Bourbon (1612-1669 ; duc de)"
-        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-04",
+            "@when": "2022-03-07",
             "@who": "AB"
         },
-        "titre": "Il manifesto di monsignor il principe di Condè.\n          Toccante le veritiere ragioni della di lui uscita da Parigi, fatta sotto li 6. di luglio\n          1651. Con una protesta alla Francia, ch' egli non la vuole contro alcun' altro, eccetto\n          che contro il suo nemico, e del commun riposo il cardinal Mazarino. Fedelmente tradotta\n          dal francese, secondo la copia stampata in Parigi.",
+        "titre": "Arrest de la cour de Parlement, portant commandement à\n          tous huiβiers & sergens de se retirer & faire leur demeure aux lieux ou ils\n          doivent resider pour le fait de leurs charges, à peine de faux & de mil livres\n          d'amende : et a tous commiβionnaires de se servir de leurs commiβions, ny faire aucuns\n          exploicts ny acte de justice sur pareille peine.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "langue": "ita",
-        "fichier": "M15136_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "langue": "fra",
+        "fichier": "M15191_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "mnfesto d monsgnorprncpe d Condè Toccnte e vertere rgon de d u usct d Prg ftt sotto6 d ugo 65 Con un protestFrnc ch eg nonvuoe contro cun tro eccetto che controsuo nemco e de commun rposocrdn Mzrno Fedemente trdott d frncese secondocop stmpt n Prg Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022Cude Du Bosc de Montndrémnfesto d monsgnorprncpe d Condè Toccnte e vertere rgon de d u usct d Prg ftt sotto6 d ugo 65 Con un protestFrnc ch eg nonvuoe contro cun tro eccetto che controsuo nemco e de commun rposocrdn Mzrno Fedemente trdott d frncese secondocop stmpt n Prg Sns LeuSns NomSns Dte Prs Bothèque MzrneM536FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en ten Trducton de\"Le mnfeste de monsegneur e prnce de Condé touchnt es vertes rsons de s sorte hors de Prs fte e 6 juet 65 Avec une protestton qu ft àFrnce qu nen veut quà ennemy commun de son repos cest à dre u crdn Mzrn\" Édton sgnée pr Armnd dArtos (Bothèque Mzrne 8° 4052/3 [Res] p 244) Édtons en frnçssns eu sns nom sns dte 8 p (BM0289) 2[ ] p (BM0288) 2[ ] p vec composton typogrphque dfférente notmment ttre sur 4 gnes (BM029)édton jouxtecope mprmée à Prs[Bordeux] sns dte 8 p Texte orgn en frnçs pr Du Bosc de Montndré et désvoué pr Condé dprès Huert Crrer \"L presse deFronde (6453)es Mzrndes\" Genève Genève t989 p 29 et t 2 99 p 54 Attrué à tort à Mttheu Du Bos pr Céestn Moreuprose trductonCondé Lous de Bouron (686prnce de) Retz Crdn de (679) Lonne Hugues de (7) Vendôme Lous de Bouron (669duc de)"
+            "ARREST DE LA COVR DE",
+            "Parlement, portant commandement à tous",
+            "Huißiers & Sergens de ſe retirer& faire leur",
+            "demeure aux lieux ou ils doiuent reſider pour",
+            "e fait de leurs charges, à peine de faux & de",
+            "milliures d’ainende: Et a tous Commißion",
+            "naires de ſe ſeruir de leurs Cormmißions, ny",
+            "faire aucuns exploicts ny acte de Iuſtice ſur",
+            "pareille pcine.",
+            "ETRAICT DES REGISTRES",
+            "PARLEMENT.",
+            "VEV par la Cour la equeſe aele",
+            "preſeritee par les Mſlres de la Com",
+            "Nde",
+            "e nuna ls Seonus i lerrene",
+            "eaei Ciees de li onreuni q",
+            "e depuis l’annee mil ſix censtrẽtinq,",
+            "es Partilans & Traitftans ont par vne vſurpation &",
+            "ous des pretextes ſpecieux & imaginaires, fait ŕer",
+            "vn nombreinfny d’Huſliers & Sergens qui ſonteſ",
+            "pars par tout le Royaume, leſquels n’ont an ais eſté",
+            "pourueus paraucunes prouiſions du oy ny eſteé receus",
+            "parinformation de vié & mgurs, pi éſte ſerment à Iû",
+            "iceny baillé caution ſuiuadnt l’rdonnance: Etd’A",
+            "uantage, leſdits Partiſans & Traittans ont fait bailler",
+            "à leurs Valets & Seruiteurs vne infinité de Commiſ",
+            "ſion spar les Intendans de Iuſtice, pour exercer icelles",
+            "tant qu’il leur plairoit, Leſquels enlemble leſdts Hn",
+            "ſiers & Sergens ceſſus, ont en tous les lieux & en",
+            "A"
         ],
         [
-            "L MANFESTO D MongnorPrncpe d Conde Toccnte e vertere rgon de d u vct d Prg Ftt otto6 d Lugo 65 Con vn protetFrnc cheg nonvuoe contro cuntro eccetto che controuo Nemco e de commun rpoo L CARDNAL MAZARN0Fedemente trdott d Frncee econdo cop tmpt n Prg"
+            "2",
+            "droits du Royaume exercé ſur le publiec des violence?",
+            "hortibles, exeds, pilleries, exactions, voleries & fau",
+            "ſetez, pour ſatisfaire aux mauuais de ſſei ns des Parti",
+            "ſans: Ce quia reduit lapluſpart du peuple à mandicité́:",
+            "Et eomme leſdits Huiſſiers Sergens & Commiſſion",
+            "naires ontyeu qu’ils ne pouuoient plus qu’auec grade",
+            "diffieulté exercer dans Ies Prouinces leurs voleres &",
+            "pilleries, ils ſe ſont retirez, & font à preſent leur reſi",
+            "dence dans la Vlle, Fauxbourgs & Preuoſté́ de Paris,",
+            "exerç̧ansla charge de Sergens, quoy qu’ils n’en ayent",
+            "ucun pouuoir ny puiſſance, & oſtent aux Supplians",
+            "da foction de leurs chargs &demeurent par ce",
+            "moyen fruſtrez de i peu d’emalumens u’ls en pou",
+            "oienteſper C’eſt pourquoy les Supplians ayans ob",
+            "tenu pluſieurs Sentenc es & Arreſts contre leſdts pre",
+            "endus Sergens & Commiſſionnaires, portans deffen",
+            "ſes d’eyeuter aucuns actes de la lurſdiction du Pre",
+            "oſt de Patis & autres, & condemne chaque contreue",
+            "nanten deux ens liue, aue poir au Supplans de",
+            "es emptiſonner Comme ces Arreſts n ont point don",
+            "de crainte auſdits Commiſſionnaires. etans cens de",
+            "naeant & Valets dſdits Prtiſans: Scbaſuen Tatif",
+            "vn d’ieeux, couuuant ees entre pniſes, auroit eſté at",
+            "reſte a’Ia equeſte des Supplan;, & conſtitue pnſon",
+            "’nier es prſons ugcand Chaſtelet, & d’e elles eſlagy",
+            "pat reſtdu Couſeil du s ay 64REQE",
+            "ROIENT en tans bpeſoin ſt ou ſeroit, Otdoqnner",
+            "ye les Arréſls de ladte Cour ſeroient executez ſelon",
+            "2 2",
+            "ear ſorene & teneur, reiteregl s defeſes poreespjt",
+            "ecux, E ejindre auſdits Huiſſiers & Se gens pre",
+            "teni,, ſe retirer & faire lenrsatuelles demes ans"
         ],
         [
-            "L MANFESTO D MongnorPrncpe d Conde O non duto punto chem vct non h grndementerugto mo d cooro qu non ono per uco nformdee rgou che m hnno ogto ̀ queto cmhe emrpresp rutone e tnto pù n vn tempo cho doueuo preupporre che quet m prtenz non poteu non eer egut d vuo tupor pA co & vnuere tnteconcetto commune genermente d tutt che o j queo che d rego ̀ tuttmoument d Stroe chocon rpe co ggrdme ntepuc tr che non penduo gm d tr prte che cò oue e ndrzzpcere dee me ucnz onSeooroqu ono d queto entmento non foeero per d grzd que n rouzone gudco conorme r rputoue chom ono cqutto fr̀ mez d vn nfntà d occon r̀ e qu n ono p e o contnumente pcere d prgere prodgmenten gue oo per frcrnet rne gor e rpoo à quet t o const eoe proteto che huendo o huuo ntutte e me ntrpree quet uon orte d huere empre ftte tutte contntemente rucrc non meno ̀ pcere de me gu e genero pene che ̀ vntgo de Coron per de deque ononprgnero g m nehonorene e rcchezze netevtquet t deco p oeto che nou co d peron vermente zente de enec de Monrch non d terre n tutto e per tutto ̀ me ccmequeg ch tro degno non he m che dngre contnumente per gntere deo Sttoe che per rgone medem non poo fr d meno d nõ gthcremoument du que che vrrnno egeeo em concott Coe po proteto tuttH rn c che o non ho gm huut eucue uemc e e che non e g̀m cdro ne d gr che g̀ do nn ono re engu z tronnte de m generoe perturtor de puco r po non hnuee ojyreuedu t ch o non e gm cos e che hueteruente ccon etdegno chehueuno d tnrrerpoo deo St to e che n vece d uorrg reto oprmo ̀ tcontrmnree oro mchne per mero d qe g otco nuper ppreccho d qu per g uere e p po m oguno honore equt̀ d prmo PucpengueA 2 Que"
+            "3",
+            "es lieux où ils doiuent reſider pour le fait de leursc ar",
+            "ges aucunes ils ont, & de n’exploiter ailleurs à̀pene",
+            "de aux, punition corporelle, & de deux mil hures d’",
+            "mende; Et où leſdits Huiſſiers & Sergens ſeroient",
+            "trouuez refractaires, de ſatlsfaire à l’Arreſt qui inter",
+            "uiendra vinguatre heures apres la publication d’i",
+            "celuy, qui ſera faite par tout ou il appartiendra, meſ",
+            "me au Siee Preſidial du Chaſtelet u’ilſera permis",
+            "u Supplians de les empriſonner: Et à l’eſgard d ſdits",
+            "Commiſſionnaires que leurs Commiſfions ſeront de",
+            "larces aulles & de nul effect, dffenſes a eux de plus",
+            "e lguir deſdtes Commiſſions, ny faire aueuns ex",
+            "ploicts ny actes de Iuſtice, pareillement à peine de",
+            "faux, punition corporelle, deux mil hiures d’amende,",
+            "& de tous deſpens, dommages & intereſts, & permis",
+            "de les empriſonner: VEVauſſi les Ar eſts de ladite",
+            "Cour, des2 Aouſt162 6. premier Feus ier 16 8. vn",
+            "iehme Iullet 6 4o. & deuxi ſme Mav i648. & autres",
+            "mcs atta hees à ladite Requeſte, Concluſions du",
+            "Proueur Geueral du Roy, & tcut conſidere, LA ’T",
+            "DITECOVR, à ordonné & ordonne que leſdits",
+            "Arreſts des 22. Aouſt 16 6. premer Feurier i628. vn",
+            "ziſme Iuillet i6o. & deuxieſme May 1648. ſerot",
+            "xecutez lelou leurforme & te eur à rei eré les deſf n",
+            "ſes portees pariceux: Enjontauſdits Huiſers & Ser.",
+            "gens de ſe retirer & faire leurs demeures aux lieux cù",
+            "sdoiuenr eſider pour le faitde leurs charges, dans la",
+            "hu ctaine apes la publieation du preſent Are, & de",
+            "n’exploicter aill urs à peine de crime de faux, & de",
+            "mil liures d’aende: Et oû leu lts tiuſſies Serren,",
+            "e trouueut refraiiaires de ſatisair aupreſent Ar.t,"
         ],
         [
-            "Queooo gto ejefre emrenermeteopo percd pgon qorcecme e cnegmeut de uo u ce(Crn Mzrno)ncorC horm m rcee rmrre come s ofo tro ncpce d dnno pgu modo pernn h̀ ftto rgo neuomente pprendere fr̀ e pur troppo v pprene dvn vcn pendore che n omm non hueuno pertpgone à̀ tre Prncp trmente che per forze che e Creture deo Autre prncpe de odo ppoggteourn utrt̀ o uutruno tutu egret2 mente neoro cuor per fro po dumpre qundo e ne foe preen tt fuoreuoeoccone e per rccendere ( nco p mortmene che prmne Monrchtumut co mezo de ngnt ntrprë de medemo ttentro controperon n Co che troppo gene ro ncert̀ de meportment huree eu duo eto ruce re emprudenz de me Nemc neo rcer queto econdo Monopoo non huee ogto d metterm n eurode oro m chne rtrndom prontmente ne mego dee oro nde per non cr rcdereFrnc n vn econdo Ao d deoz onecgon t d g storz che hureono ftto rdeutonenteme Nemc per venre à̀ cpo d quet econd deerzoneConfeo ene che doppom crcerzone o non ho mpt0 momento enzvn egret pprenone d quet econd ntrpree che contnume nte dutuo e poteero eere neme compthumpzeze de me Nemc etortunt C pportt Frnc dm erzonee per couequenz che dutuo douee eerne ntordt d coorocheono cos prodgomente ngrndt fuo rt d non tro che d dordn e de conuoture de FrncContutoc m perudeuo pur nco che fuero per huer meno tnto d ptudenz d non trcorrere tnt otre e crudetà̀ ottoMnort e d pettre cheutort̀ de Mgort̀ porgee oro pe rnz d fuoreuoe ucceo con econdredegno che hueuno d frm rtenereCotet precptt mpzenz deoro ngutz m h ftto cre dere chegnohno preentto che nnocenz dee me nten 2on efedet̀ deme erug non hureono potuto eer cnce t d de denotro goune Monrcque eendo perfettme te conpeuoe de trdment deoro Monopoj e de ncerr̀ d tuttme ndment tftto ontn d fuorreoro trtttree tto per gutfcrm( co mezo de o u utort̀) ne concetto pu co E perc hnnotmtoneceero preuenre coretotempo fte e oroperuere nteton e tentre dmpoer de peron m prm cheR foe ntto d egnreprumo copo de gute us"
-        ],
-        [
-            "5tnMnrtnd 6 procedee & éermente gutfcndoAnocené met dtenpo dé h ercereonee deo cccmento ftto ergt e d Mzrnoron de Trnn hnno oscutmentedpotfft per eecuzone d queto econd0 tftetto forndo cou e oro peruere ntenzon e gute e engne rcnzonde notr ncompre egente chernc erfne dottpunto drportrrccCrdn Mzrn e rcdere pere nee egure de vtme guerre e per congo de me mc To non ue prefertn prudente fug d vn dnno retenz petoree turoente che necermente doueuno egurneFopeo che non v oggetto per gnornte ch eg de g fr d Sto ehe nonntermente nformto dee contnue rghe che enz m poreono preeNomc de notro rpoo perrt reProtettoredee oro mchne e per mporreme quet me ch dhuer cconenttocos ngunoo trttto oue e propoton tutte non m ono m prute meno che crmnme & oue ho em pre gudcto cheprtto non foe puntomeno untggootrn queà deo Stto d queonoque medem chetormnotuttod ne Puëde nottr Neme Evero chemoruo d cotete propozon con e qu non tor cone menoorecch à̀ me che nterrompno contnumenter pooSu Atezz ce emr meno ppoggtopre eto peccheMndtrj de M rno hnno mpreo de mrtggo de Duc d Mercuro conMncn pretendendo che doppo quet p renre de ngue d Vndomo cou queo d vnoStrnero conocuto etgon d oppornuouo Zo non heero d eere horm pu tr che opnone chmere rt comente mcherte e chrr non potee horm p opporrtorno d u enz dr d se opçttovoer ccendere vn guérr cue tnt g sforz chePrtggn d u hureon ftto contro e pu gute retenze d quequ heerorcuto d ottocrneruo rtornoSe Su Aez Ree che d m e tro rmrro empre come ueo de m condott nonfoe contntemente oppotoedzo propofne d fchmreCrdn Mzrn o credo che e tnte mportunt hhreero menocof & gttm cõcenzc chegn ftc Aure ftto e ptto grntrugo ̀ mntenerm ̀ ronte e coe dtnt e cos ftt ncnt M otre chemo euo non reettomeno che nutmo o hô creduto che n nun m ner m conuene pegre huendo nnz ̀ g occh n contrro tsesrefempe d SRAA 3 Quete"
-        ],
-        [
-            "Quete oppoon chequtà d Prncpe de ngue non m hà g̀ n permeo d nterrompere contrortorno de Crdn M no hnnofne ftto concudere ̀ uo Mndtrjfuneto de gno d frmrtenere peru che e foe oro vn votructo d egrm e rcc hureono potuto puù ermente e pu fcmente trrcr perrtorno de oro udtoe che per metter n curo d ogn percoo ree tto chefoero curt de m peron tudegno n punto deere effettuto qundo o me ne uudd e que che dgentemente oeruunoget e g ndment de me Nemc m uurono ch er tempo dnugre perm curezz e chevoenz de g ffr non permetreu ̀ que che rccu no nguto monopoo d derrne pù oreeecuzone per tmore d non fre vno orto tnteoectudne che o hre yro d preuenrg & ntcptmente currm Ben hureero potutome Nemc fr pre quet rgone per vn epreteto de vertere motuo che e h ureero vouto fmẽte mputrem prtenz so nonhue ttoopetto d quete congectture opr eudentme rgon e so non fce contre conutorr̀ & eudenz d tuto co che p d egreto n mrer dj Stto che n omm vogono rchmreCrdn Mzrno pér oeuro ̀ que poto e prego ne que ono e frorre e edere preo mone de Monrch e per conequenznon conte c che penno fre deoStto c de peron m L degn conocut e uon penotrt chedue SgnorCodu tore e dLonne prttcno egrermente con trettezz e dometchezzgrnde che ddt fr̀ d oro mc prtcorm e che dop0mort duorzo eguto fr̀ d oro non può eer cos trettmente rnout per tro motuo che per queopud rgoneuomente o petrre m fnno gutmente pprendere queg effett cho rmetto0dcoro d quuog Potco poche de do eendo vnopù mort Nemco che h oe tropu ucerto Prt ggno che hCrdn Mzrno ̀ me pre che nonpunto enz rgo ne che gn huomo ponto gudch eer ontno d ogn preteto e o dhdo de ucceo de oro negozt Cooro che nnonom dee pcrone cheono vnte conCo durore doppom prgon ǹ con fo preteto d vn nuou mt̀ e che nno chemugg ucce d vn prente premed tt hnno mortmente ncrudeto controm C on certo non condnnernnoguto tmore che o ho cheororunone ppog gt ̀ que rcco ourno che o tnto ruerco non foe per d porre ncoecond vot g ffrtoun m eperen2non m"
-        ],
-        [
-            "m hueeé negnto chtr non prà m deonfdre à tnz de progreode tempoque eendo tto sfortuntmente comprt d mz d que Fur cheCrdu Mzrn h druccoo mente ntrodott ne potc de Frnc hà toto fftto ogu rezz à̀ g Hero d procedere generomeute econdo o mpuo de oro nt ngenut̀ Vorre ncorà mputre cotet grn dometchezz de SS Codu tore e d Lonne rnouzone d quche mcz nnocente con trtt per tnto d quchtromotuo evggo de Duc d Mercu ro che prt ono g̀ cun gorn per Coon con degno d ndr à vedere uo o Crdn Mrno non m fcee ncorpu rgo neuomente opettre che n effett m grdo mo hno rc cro degn d rchmre queto Bndto L Potc gudchno e à oro pce de mcert̀ m ntorno ̀ queto vggode Duc d Mercur e conderno so m ono gutmente mpreonto d do uer eereecond vot oggetto de trnnc perecuzone d que to commune nmco mentremnegg deo Stto per u non ono punto men ourn deo d queofoero per detro tnute che e ue Creture che ono contnumente nnte do prto d u en che ente ono g ourntendent d tuttnegozj n mner te che en pu currognvno d quet vertà cheg gouern pù o urnmente gordn de Monrch ente che g̀ non fceuhor propro chegrtrouu peronmente n rg SeHrnc non h̀ vermente degno d rchmreCrdn Mzrno m d conderro come vero Nemco d Stto non e eg vero chepu roz potc non omente g prohrce cos mn fetoe puco commerco conPerturtore de uo rpoo m̀ o gree d pù trettmente d tero neme con tuttuo Prt gn per dngnnre ntermenteo prto d ccheduno de mpreone che h̀( ver ̀ f che) cheFrnc coneru tuttu con eo u vn egret ntegenz? M̀ n ftt( ogn pure che opport che e g dc) non con tent d huer conerut cõ̃ eo u contntemente mcz per mezo de Correr epre d u egretmente pedtfne h̀ po nche cconentto che nfno vn Prncpe h ntrpreovggo e che n r d tuttSoggett deo Srto cheerno vnnmemente o eut per e trnne d queto Strnere e nendtò portrg efo medemo g uu de cert pernz de uo vcno rtmento Poono en mcherre à̀ oro pot cotet gt de Duc d Mercu ro e dpnger per vn fctrà d vn Prncpe goune mercè chemoument dvn prpnt o toero djmnò ch en d vcno o0tu"
-        ],
-        [
-            "tu oërund6 Mâ fâtt esàe prereto o& pn Erre ddéoj che à trrtenere ceoro che ohno deo e eggerd çereouér6 che non ono nformt checotet gt e egut cougonrture de negozj che troppo rgoneuonente m fnno retre unguo eû degno foe d rchnreMzrno uppoto che hrueero po tuto prm rretreperon m d d currepéron ds u n quche uogodpendente d Coron dt0 che o hue tnt for d fr unredegn de me Nemc opr m ert Etroppo ene nformt tuttFrnc dee tteugntmportun tà̀ de Crdn Mzrnque eendo tto condnrtt d n donr oStto per t mugt che reerotte teuo per t morre eemprmente cento prnMnr ̀ nondmen huutô rdrc d dmndre e dnterere vumente tutte e e Cre ture per ottenere vno d rcotr dentro d eun dee mgor fortezze dpendent d Coron Cotete propozon enche n0 tte con e fchre ruttte ne Congo hnno d ogn modo rtro uto Agent egretqu cducendo furecmenteont̀ nture de pu perfett Prncpe de Monco hnno ndotto o prto d e ̀ congt ̀ qu enz duo e non h̀ gm cconentto d meno ne qu e ? rmt sfotntmente edt d cooroqu non otono per tto che per e oe ntrpree deoro uurre dee uggeton ne opr trrprncpj che dee oro furere Per quetoefetto coet mort m̀ egret nemc dete Stto h uendo pot g occh our Brc co ̀ dre opr vn dee pu ort Pze de Chrtnt̀fono mmgn cheor Sgnore reecuro d tutte e mncce devertere fede oggett de Frnc tuttuot che hueero potuto tror modo d prrgeneport procurndoque Gouerno per dcunddee Creture d u Et ructe oro penmentedegno ppntoome e o hueuno formto co fuore d Chreuoy Luogotenente peérRë dentro Brcque ott0pernz cheMzrut doueero frgene huere per rcompen grdo pu to e fortun mggore h̀ cos ecretmene mneeggtoo trdment0 conroSgTdet Gouermtore de fnz ( & nmotroppo generoo per opportre cheuo Gouerno douee erure per curez dee cdfgrzeMz rnj che me o dfeceo enr ordn eccetto cee oo foo cpreeo e dee egretetegenze cheg hueur huute tonMndtrj d qoeto ndto Queo chef credere en dupc enro chee Neese deFpoo de Prne hnodétndro rfe per Potto d rugo e d rcouero detmeroudodehgfrgo duote orotrne9 Ameoe eP veggo ehetmmo sefure Vrdes nnePrtggno"
-        ],
-        [
-            "9 TPrrgn de Crdne Mzrnoque Vrdes che h̀ tntovmen te donroerugo dSu ARe che queto cmo d gouern0 ë tto ftto ne congontur de prten de Duc d Mercu o per Coon ndà che o peno d non opettre enzrgone che que to rencpe vd eomedemocome per cort du per conduro cocon pomp e oennrà̀ n rrcmento de u gor g̀ dengrt con tnt gutm Arret e per conequene condurueo contretnto dshonore de Frnc E che co poo o opettre tro che queto d coteto curmen ro cheprocurpu morte de me Nemc &vero Autore e fFo ce d ttt dordn d quet Monrch? E non poo o dre ens remertà che nonf̀ pù tm e nonten pu cur de perou m? non pu de rpoo de Frnç non pù de Trono de mo Re ? nod pu detrnqutà̀de Popoo? mentre che m grdo de retenes de Congn m grdo de voont̀ contrr de Hrnce m gr dode dordn mnccrvno d ogn modo tutte e trttgom ne po per trourg vn uogo d frnchgTutrte quee rgon che ho n qù ddoute perche eruno per mop tuo de m prten non rehorfne tro che deo pr tet per dedumne o tentt che Mzrnt vnnoquet econdd vot ncor medndoporfermrm e dugento trecento perone e qu ndrono tuttnotte de e de corrente rondudo rmre dentroorgo d S Germno &Regmento de e gurde ne me demo tempo rdoppte non m huee nopettto de ntrpre che doueunofne etfetture doppo huer concertt poco men che ppreom crcertone Quet congettur uuort d congo dtutrme mc non m ǹ permeo d dfterre pu otre hor de m prtenz tne d prouederem eurez per mezzo d vn pront rtrt d me voontrmente precprt p p ro tmore dnon vederm forztoquche retenz che certo nonree potuto fr d me enz quche dturo de rpoo e de rn qur̀ Sree nco tto necerovenr e mnne ncont oche tec vcendo con dugento Mzrntr mt e o pre ene m onhuee comtrut non g huee meno mpedto ppono vggo per pprenone chem etenz douee fr retre vergognomente vno ogn oro sfor20 Et eccou vn uon prte de motu de m vct e dee rgon che m hnno ogtortrrm S Mur0 pettndo cheGutz congrtempet che d me Nemcv̀ egremente ngrondo per fr pofne pertmente coppre oprm0 Cpo H o potuto douuto potrm con mggor cute? h 0 potuto"
-        ],
-        [
-            "0 pou pu prdentemente prgmrepueco rpoo non reeuuo morueure d urpto & ote o e pet m ded hue voutormre tu que che gut de m cu hurecerne mo prtto? Gudch pnre chvog de mo onodo d posere one e me rgon non rcuo udce euno pure che gdntereto L o protetotutttrnc che e non hue pertee neue ucermente per gorde uouon ergo cert o outn o tro ne ou e u ego per e ugute pere Gu2on de e emcqu doppo huer ncermente epotmotu de m vct pno Cde uon r puno fuor d propotorvedere e rgoncdh th huuto dperegutrm doppo che no prgonnmento cos erouente procurto d gue preu che n huee metros d non poter eere horm pu ttruert0 dg sfor2 de cunnâper o p totoo rgone genere t r non e che vn reduo deuuerone chePr gn de Crdn Mzrn hnno enente con erur contro d ne doppo che forz t d enrre e pre perfuoreuo tne che tutHrno fceu de m urceroueono vcdut cotrettdmure odo oro no ̀ to che quche nuou occone gmettee n tto d d courro à d o m uppoto che ueero potuto pegrerou pne g d me pre d eer empre Nemco rreconce de Cr dn Mzrno n ft o non duto punto che e mportune tnze che mhuno empre fnto ncefntemente per mchm mpegnn dom ne oro prtto e eh o ho contnumente rutrte come ugge ton ermno n mter dsttonon notte e cue prncphme decongur or contrm peron CoOs no m e tuto gm poe rcurre nmo mo e formre n e medeoperfettmene que de que Concetto chef tcuno dmprmerm ch o fo ntermente ero e rme e che h n pgon huefe totmente cncesomt tento ch tr hueu vnneo contrnnocenz dee me on Perche 0 eggo che o prnto de Crdn Mzrno numce tuttu our mete utCrte che e Creture d u ono mego ccote & e cot cherncp de Snguee che e pedzou de g rtr u po nonfnuo gm che non no meno uorzzte d eonen d cou che ftto vergognomence dcccto come Reo n mor d uto d Hrnc Non e neo efere de pù utendent dee mtere d Stto per fpere cheurte nonu rtrfecos contnteets d coerrmgouern0"
-        ],
-        [
-            "gouern deGun per tr cgone che per quet vn chc non prueprope uorn Mzrnocu potc eppe frcre tntme pu che rgon uhcent z otentrengnte d cos ndegn rpu E non ogn eere depu untggt ne egrer de tto per ntendere chenegozzone d e dn dontoe gn egente n cmo de Dncto d orgogn e vno de pn efeede uo ntrch e de degno cheg h d rtroure n port per rentrregouemo de Monrch Cotet orte otntone de Corte dtrre nnzrtornodM 2rno e d dffdr de m condott perche ono que o che gs ne fccop ggrd oppotone m h̀ ftto rpr re e ve che g oeu pee vote reterremo dceto ne ggo ee no 2tnto che co tuore d Su Atezz ee chee frpoto per drech ogn quche gore e pu vero concetto de ncere dtutte e me zon o po conocere d non eer pu rmrto d cos m occho e cho po con curez perre d non douer eere per o uuenre trtttoput con tnt dtdcnzM̀ n ftt cotet utre frpozone non e tr meno nute d queonott gsforz che ho ftt o per fctrnecreden & huendo preuuto e depozon de Luogotenente genere de Stt ecunne de m Nemc non hnno potuto trre n ongodegno d perderm per ure conround vn rencpe de C Ree e reque & rottm de nufrgo d vno conocuto E vero che non per tro ue hnno precptteecuone e non perche ve dutog̀ copertomrtggo de Duc d Mercuro hnno tumte che nou foe pù tempo d mentr dee oppoton de Hrnc e perche vedeuno che cotet prente d Mzrno conC d Vndomo gutfcu horm d vntggo tutt g storz chefce uno per dporre e coeuortorno D modote chepuo coõmodmente concudere chem dgr 2 e vn puro eetto dee oppoton che ho empre contntemente ftte o rtmento d coteto puco Nemco e ce non dpende d r che d me teormetterm ne pu ro e p fnorto ugo con vn pen ecurezz d veder ntermente odstftrto d ogn m mco vog pure cho voe econdreperneo degn d rchmreCrdn Mzrn e d fro r edereTmone d queto Stto M̀ non pc m Do chom d vn te Vt che m renderee enz duo crmnoo n mter d Stto mentre che Pur troppo chrmente conoco che nonpu procurre coteto rtor no en dudere dnnomenteCoron d Monrch Non p cDo chorumett coteto peo nopporte our e pe de A A popo"
-        ],
-        [
-            "2 popos rdott d tnt ptvtm necentà d quet Vvn n de Demouos ngrt ounmente de oro pu vno gue Nn pco Duo cn u opgetoe d rmprouerumm qndo e Mggore cho j n cun mner concorortmeno dco JS uo pPu rnre en rcondur eco ogn o e d turoeu pe Monrch oS troppo ene queo d che on detoreSu Met̀ durnte ueren uerenue ee en eene ue eunee dunee eeche e co vgoromense nterpoto per nnure rerr deJ m prgon so queo cho deuoPrgn che fnorconod8 rmrrm coe o cogo tte d coret trner Trn rme tortore de oro gut & nte erù e sô n omm quen ch o deuotuttH rncque eendo s generomente ntere t tnto ne m ercertone gutmente merr eer d me rcono Hê eno n queto ch o non cconent m rtorno de uomorNemco Quet moru ono troppo gut per non promerter oroo mpuod tuttme moument Quee rgon ono ttoppo opportune pernon cnmregore nturte e ne routonueo che m ru ds quee p ec o Et o ootroppo routo d chudere hogg mg cch tuttme nmere per non prrg gm d tro che osprnocpo de generotgor de R? o untggo de Peen cpde de ruemprogreo de g fr d quetoseseuo e couotone de Popo&ert̀ Mourchc dtu Frnc"
+            "4",
+            "ermet aux Supplians les faire eupriſonner. Etfait",
+            "deffences aux Commſionnares de ſe leruir de leurs",
+            "Conmiſſions, n fre aueuns exploicts & actes de",
+            "uſtice ſur paeille peine, & de ous deſpens, dom ma",
+            "ges & intereſts, Et en cas de contrauention, permis",
+            "uſſi auſdits Supplians de les conſluer prilonmers:",
+            "Et ſera le preſent A rreſt executé en vertu de l’extraict",
+            "d’iceluy. Faict en Parlement le quarrieſme iour d’",
+            "7",
+            "ouſt mil ſix cens quarantuict. Signé, GVYET.",
+            "Et au baseſteſcrit.",
+            "LE V & pullié e ugenfenan P Cai’du che",
+            "ris l’Aadiance & Preſidil tennr, ce reqaerane de Proeaeur ada",
+            "Roy adit Cbaftelet, pour eſtre exe coié ſeon ſa fome &tauear:",
+            "Le endred ſepieſae aſl mſix os qoaaic. Sg.",
+            "A c . s aa dſons est eſrri.",
+            "E Samedi huictieme iour ’Aouſt miſl ſix cent quatae",
+            "J hair , à lae requeſe des M iſtresla Coiamanaatdes r",
+            "gens rerge u Chaſfelet dePars: L’Arreſfteſui",
+            "eſeé lra &.publié́ à ſo de trompe & crp phic ardes Carrefouts de",
+            "cet lle de Pais, ̀ ee qu’aucun a’en preeude aaaſe d’igooraace.",
+            "Fat par moy Iean Ioſier taré́ Crieur oradinaire du R y, en la rndle",
+            "Pseuoſté́ & r icomé́ de Paris, à ce faire ’auois Trampetts, Iean",
+            "du Bos, Iaques le Frain uré rompete d Eoy, & Clade Iaſte",
+            "Crmsis de Dfaser Ourdin dis Chspage, aui uré Tropeése",
+            "d y. Sigé, IOSS .",
+            "Collationné à l’Original eſtant en parcliemin, par",
+            "es Noraires & Gardenotes du Roy noſtre Sire au",
+            "Chaſtelee de Paris, ſouſſignez: Ce fait rendu le",
+            "our d’Aouſtnmil ſi cens quatante",
+            "huict.",
+            "S",
+            "De ’rmprmerie de t hel Meares, lmprimeus",
+            "o diaire du Roy, en l’Iſle Noſtre Dame."
         ]
     ]
 }

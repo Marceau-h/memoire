@@ -1,42 +1,79 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "subject": [
+            "Saint-Luc, François II d'Espinay marquis de (160.-1670)",
+            "Guyonnet, Jacques (16..-16..)"
+        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-01",
+            "@when": "2022-03-10",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement de Toulouse donné, les\n          chambres assemblées, le 5 octobre 1651, contre la défection de Marsin et ses troupes,\n          faisant défense de briguer ni monopoler les sujets du roi, et à tous gouverneurs,\n          officiers et consuls, de prendre garde à la sûreté des villes.",
+        "titre": "Arrêt de la cour de parlement de Toulouse donné, toutes\n          les chambres assemblées, le 25 novembre 1651, déclarant le sieur Guyonnet, conseiller au\n          parlement de Bordeaux, criminel de lèse majesté; défense, à tous sujets, de le reconnaître\n          ni payer les tailles ni arrérages en conséquence de ses ordonnances, et que le présent\n          arrêt sera remis ès-mains de M. de Saint-Luc, lieutenant du roi en la province de Guyenne,\n          pour exécuter tant le présent arrêt que celui du 23 octobre dernier.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau357_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau358_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement de Tououse donné es chmres ssemées e 5 octore 65 contredéfecton de Mrsn et ses troupes fsnt défense de rguer n monopoer es sujets du ro et à tous gouverneurs offcers et consus de prendre grde àsûreté des ves Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de TououseArrêt decour de prement de Tououse donné es chmres ssemées e 5 octore 65 contredéfecton de Mrsn et ses troupes fsnt défense de rguer n monopoer es sujets du ro et à tous gouverneurs offcers et consus de prendre grde àsûreté des ves PrsSns Nom65 dté du 5 octore 65 Lyon Bothèque muncpe30733TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs357 Arrêt decour de prement de Tououse donné es chmres ssemées e 5 octore 65contredéfecton de Mrsn et ses troupesfsnt défense de rguer n monopoer es sujets du ro et à tous gouverneursoffcers et consus de prendre grde àsûreté des ves Prs 05G pgesprose"
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE TOLOSE.",
+            "Donéné les Chambres aſſemblées le 25. Nouembre 165.",
+            "Declarant le ſieur Guyonnet Conſeiller au Parle",
+            "ment de Bordeaux, criminel de lezajeſté;",
+            "deffenſes à tous les ſujets de le reconnoiſtre, ny",
+            "payer les tailles ny arrerages, en conſequence de",
+            "es Ordonnances; & que le preſent Arreſt ſera",
+            "remis és mains de Monſieur de ſainct Luc, Lieu",
+            "tenant du Roy en la Prouince de Guyenne, &",
+            "celuy du 23. Octobre dernier.",
+            "A PARIS.",
+            "Par les Imprimeurs & Libraires ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſte."
         ],
         [
-            "ARRESTS DE LA COVR DE PARLEMENT DE TOLOSE Donné es Chmres emées e 5 Octore 65 CONTRE LA DEFECTON DE Mrn & es Troupes Fnt deffenes de rguer ny monopoer es Sujets du Roy & à tous Gouuerneurs Offcers & Conus de prendre grde àeureté des Ves A PARS M DC L"
-        ],
-        [
-            "3 EXTRACT DES REGSTRES de Prement SVRRequefte verement fte pr e Procureur gener du Roy D nt que&uduu que hmct cens e rdnne e dudeueut feur Mrh & dutres& emsquneté dn ftere rfńe de Ctgn ont quté eur pote hs petrmhto Roy q& pt dns e pys de Fx fsrrre dêMheé& ns t che du Gouuerneur deProuces pour per en uyennece qu ne peut etre quetrereudc e u eruee uRoye E dutnt qu mpore dy remeder u putt Reéqfett quped Cour fre nhton & defffes à rous Chefroomn dns & gens de gueredes queque quhoqus oent dentrer dns e eortd h Cque fre e uée de gens de guerre fneésorde de f Me té & en cs dé contrënton onepdreous Gentsormes OtfceHs &ounuto des emer tfohpet &eurecoue fy& terenpe2on u"
-        ],
-        [
-            "ces Leur fre deffenes de eur dmntrer vures & donner retrte ̀ pene de deoeynce & deputer des Commres pout eurer es Ves & Communutez deMeteé & que des con truentons qu eront ftes udtes nh tons en er enqus pour nquton rp porteée etre ordoné ce qu pprtendr LA COVR es Chmres emées ynt égrd udtes requtons du Procureur gener du Roy A ft & ft htons & deffences à̀ touts forte de peronnes de queque qucé quees oent de Strouper rguer ny monopoer es uots du Roy fre ucunes eueées de gens de guerre ny ? ped ny ̀ chu5 ms drmes ny muntons de guerr & à tous Chefs & Commndns troupes dentrer dns e reort deCout ns exprés qrdre du Roy & à tous ujets du Roy de eur drmntrer vures donner retrte & tnce à pene detre decez perturteurs du repos pu & deve Enjont ̀ tous Gouuerneurs Offoers Conus du reort de predre grde àeureté des ves & pces à eux commes empecher qu ne e fe ren conte uthorté euce deMeté & trnquté puque à peme de repondre en eur propre des nconueens qu sen pourroent enuute Et generement enont & enont tnt udts Gouuereursquà tous Gnthommes & utres uets d Roy de soppoer u pge du eur Mrn & troupes qu commnde uque effet"
-        ],
-        [
-            "5 effereur d perms & permet demer es Com munes à on de n pour eur courr us & tor enpeces Ordonne nentmons dte Cour qu er deputé des Cormmres dcee pour e trn poror où eon er pour eurer es ves & p ces dns oeynce deuë àMeté & execu ton du preent Arret eque àdgence dudt Procureur gener du Roy er enuoyé pr toutes es Senechuées Bges & udctures Royes pour y etre procedeé àpucton dceuy Leur enognnt dnformer nemment des contr uentons qu en eront ftes & fre & prfre e procez ux coupes n que de ron & des d gences qus y uront pportées en certferCour Prononcéà Tooe en Prement es Chm es emées e 5 Octore 6̃5 Sgné DensnTEXTRAOT DES REGSTRE3 r E vVer de Prement VR Requete verement fte pr ePro Soureur Generdu Roy dnt queCour et deuëment duerte detrhon & deerton ftepr e eur Mrcn commndnt Armeée du Roy en Ctogne & deon entrée dnsFrnce pour per en Guyenne ns ordre deMeté & con B"
-        ],
-        [
-            "6 cré e en de on eruce &de Aftetpereedoenuen eoende neueeenr enoe eue Sujets du Roydesoppoer u pge dudtMn Et dutt que pour fcter executõ dudt Aret et necere de rompre es ponts & e f de tous es Btreux qu ont rruere de Gromé u deus depreente Ve requert que pr Cout y ot pourueu LA COVR ynt gdrd ne dunueoe e nre e rneee des Ves qu ont urruete de Gronne u de us depreente ve de Tooe es ponts ur dte ruere eront rompus & es Btteux qu e rou ueront ur dte ruere conduts ncement u port depreente ve ux frs & depens de chcune dedtes Communutez uf à̀ eut etré pourueu de remourement n qu pprten dr eur enognnt de ce fre à pene deve & ux Mgtrrs & Offers defes yues de teé nrmn ̀ executon du preent Arret à̀ pene de répondre des nconuenens qu sen poumoent enuure en eur propre & prué nom Prononcé à Tooe en Prement e 5 Octore 65 Sgneé DE MALENFANT"
+            "Gouuerneurs de places, leurs Lieutenans, Gentilommes, Ma",
+            "giſtrats, Conſuls, Preuoſts, & à tous autres Subjets du lRoy,",
+            "d’aſ",
+            "ſembler les Communes au ſon du baain, courir ſus audit Guy",
+            "onnet & à ſes troupes, & les tailler en pieces: Faiſant",
+            "inhibitions",
+            "& deffenſes à tous Conſuls, Villes & Communautez, & autres",
+            "Subiets du Roy de quelque qualite qu’ils ſoient, leur preſter ay",
+            "de, adminiſtrer aucuns viures, deferer aux Ordonnances dudit",
+            "Guyonnet, ny en conſequence d’icelles payer aucunes tailles ny",
+            "rrerages d’icelles à peine de payer deux fos, & d’eſtre procede",
+            "contre eux comme deſobeiſſans au Roy, perturbateurs du repos",
+            "& tranquillite publique, & complices dudit Guyonnet; & neant",
+            "moins qu’à la diligence dudit Procureur General,il ſera inçeſſam",
+            "nent informé des contrauentions qui ſeront faictes au preſerit",
+            "Arreſt, pour l’information rapportée eſtre ordonné contre les",
+            "coupables ainſi qu’il appartiendra: Et que le preſent Arreſt, en",
+            "ſemble celuy du 2;, Octobre dermier, ſeront remis entre les mains",
+            "du ſieur de S. Luc Lieutenant du oy en ladite Prouince, pour",
+            "execution d’iceux, afin que la force en demeure à la Iuſtice Sou",
+            "ueraine du Roy, & que extraict d’iceluy deuë̈ment vidimé &",
+            "collationne, ſera enuoyé par toutes les Seneſchauſſees, Baillages",
+            "& Iudieatures oyalles dudit reſſort, pour eſtre leu & publie à la",
+            "requeſte du Subſtitut dudit Procureur General, qui ſera tenu",
+            "en aduertir la Cour au mois. Prononce à Toloſe en Parlement le",
+            "25. Nouembre 1651."
         ]
     ]
 }

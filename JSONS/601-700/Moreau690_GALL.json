@@ -1,62 +1,176 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
-        ],
+        "form": "prose",
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-04-16",
+        "creation": "1652-09-26",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-08",
-            "@who": "AB"
+            "@when": "2022-04-04",
+            "@who": "ZC"
         },
-        "titre": "La chasse aux satyres du temps. Vers\n          burlesques.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-19",
-                "#text": "19 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-04-20",
-                "#text": "20 avril 2021"
-            }
-        ],
+        "titre": "La chasse furieuse donnée à la garnison de Corbeil, où il\n          est demeuré plus de deux cent cinquante cavaliers sur la place, et grand nombre de blessés\n          et de prisonniers, par la cavalerie de M. le prince, ensemble le nombre des morts et des\n          prisonniers.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
         "langue": "fra",
-        "fichier": "Moreau690_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau692_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L chsse ux styres du temps Vers uresques Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté9 févrer 202 20 vr 202 L chsse ux styres du temps Vers uresques PrsSns Nom m 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y304TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès Céestn Moreu mtton uresque de\"Censure genere de tous es ees dffmtores mprmez depusconcuson depx u préjudce de cét Estt\" (Moreu n° 673)yété répondu pr \"Antyre du temps oujustfcton des utheurs\" (Moreu n°96) Pge 5 gne 20\"ces rusez\" (étt A)\"ces ruses\" (étt B) Dprès Huert Crrer texte pru déut m 649 (Bothèque Mzrne Ms 468 f 55 v) 690 Chsse () ux styres du temps en vers u esques Prs 649 8 pges Luteur des Souprs frnços est ernéqunt à ceu deR quéête cve Coups de pong coups de ped u cu Buffeschquenudesnzrdes Lu soent donnés quon e rde Dépnges dgues et de cousete » Luteur deFérté cchée (Pure verté etc) est hchéceu du Pot à psser (Pot de chmre) est husséceu des vers u PrnceCursseenvoyé ux gères ceu des Généreux sentments dun Frnços vérte mrqué defeur de ysenfn ceu de 2 Bre u premer présdent enfermé àConcergere Cest une mtton uresque deCersure génére des ees dffmtores yété répondu pr Antstyre etc À son tour uteurrépqué prRéponse & Antstyre du tempsvers poése uresque strque Arrvée du prnce de Condé à Prs 64"
+            "LA",
+            "CHASSE",
+            "FVRIEVSE.",
+            "DONNEE A LA GAR",
+            "niſon de Corbeil: où il eſt de",
+            "meuré plus de deux cens cin",
+            "quante Caualiers ſur la place, & grand",
+            "nombre de bleſſez & priſonniers, par",
+            "Caualerie de Mr le Prince.",
+            "ENSEMBLE LE NOMBRE",
+            "des morts & priſonniers.",
+            "A PARIS,",
+            "Chez SAMVEL DE LARRY, prés S. Eſtienne.",
+            "M. DC. LII.",
+            "Auec Permißion."
         ],
         [
-            "A CHASSE AVX SATYRES DV TEMPSVERS BVRLESQVESA PARS M DC XLX"
+            "L CASSE FVRIEVSE.",
+            "donnée à la Garniſon de Corbeil: où il",
+            "t demeuré́ plus de deux cens cinquan",
+            "le Caualiers ſur la place, & grand",
+            "ombre de bleſſez & priſonniers, par la",
+            "Caualerie de Monſieur le Prince:",
+            "ec le nombre des morts & priſon",
+            "ies.",
+            "J ne faut point trouuer eſtrange, ſi les",
+            "onſeils Mazarins ne pouuans quitter",
+            "haine quils ont touſiours euë corre la",
+            "Ville de Paris, continuent leurs efforts pour",
+            "rduire a la neceſité: & ne layans ſcea",
+            "reil y atrois ans, quoy qu’ils euſſent des",
+            "foces & des moyens aſſez puiſſans, & Pa",
+            "n’ayant que ſes Habitans pourſa deffen",
+            "ſe: ils ont fait cette anné́e Ieuri poſſible pour",
+            "venir aux effets: mais nous voyons ou",
+            "ment que par des reſſorts incogaus"
         ],
         [
-            "3 LA CHASSE AVX SATYRES du temps  OV on ces dres ouquns  Ces Poëtes gueux ces fquns  De qu es Styrques pumes  Fgottent deots voumes  Pens dnjures à tuër chen  Et dont e meeur ne vut ren  Ces effrontez de qu udce  Oe en crcher àfce  Depus utre vertu  Dont on pue etre reuetu  Ronger ur honneur comme vn chncre  Et norcr uecques de ncre  nnocence &Verté  Tout e monde en et rrté  Cet trop ouffrr eur noence fut ver de voence  Contre ces nfmes Autheurs  Ces mercenres mpoteurs  Qu deshonorentPrne  Ce net ps tout quemene fut quoy qus oent en cchez  Leur fre peurer eurs pechez  Et es punr de tnt de rmes  Que on peut dre utnt de crmes  Où ont s nchez ces coreux  Dont es chnts entent es tomeux  Qu ne nous prechent que mere  Qu ne e pent quà m fre  Ces Autheurs de edtons  Ces futeurs de duons  Ces ntroducteurs de dcorde A"
+            "6",
+            "Ville de Paris ne s’eſtpoint veuë reduite",
+            "cette neceſſité; quoy que les ennemis ſe",
+            "oient ſaiſis des paſſages de la Riuiere, tant",
+            "enmontant qu’en deſcendant, pour empeſ",
+            "ehetle viures dy venir. ent’autres la vile",
+            "de Cobeiſ; de laquelle le Sieur du Pe.",
+            "Capitaine de la Chaſſe du Loup, eſt Gou:",
+            "emeur. & eomme il pore le party Mau",
+            "n i ya touſaious reeeu les gens de puene",
+            "que les Maarins y ont enuoyez pour laga",
+            "der & ſe ſaiſir du Pont: comme il a faix de",
+            "puispeau les trouppes du Comte de Paluun,",
+            "eſqueles apes la prſe du Chaſeau de",
+            "Mouron, ſe ſont rendues a Corbeil, pou",
+            "er joindre aà l’armée du Mareſchalde Tu",
+            "renne, ce qu’elles n’ont pûfair.",
+            "De maniere qu’à preſent tout leur deſſein",
+            "et de faire des parties pour courir le paispl",
+            "er, prendre & emmener tout ce qu’ils o",
+            "uerront, s’ils neſont retenus par les trouppi",
+            "e Monſieur le Prince, enuoyées aux enui",
+            "Ions de Coibeil, con dnits par le Sieur dt",
+            "Rauenet: & comme cete Garmiſon laiſfs",
+            "entrer dans Corbeil les Paiſans qui J ppr",
+            "tent"
         ],
         [
-            "4  Ces mechns dgne decorde  Ennems de notre repos  s eront m foy en dpos  Ss e uuent depourutte  Ou pr dree ou prfutte  s uront eu chercher des trous  Se ccher comme des hyous  Ou courr à perte dhene  Leur meure et depene  Qu net pus temps de dfferer  Cet trop cet trop en endurer en fut nettoyer e monde  C ç quvn chcun me econde  Que on metre ces gnds  Quon chptre ces noens  Et qu ny t ny con ny cche  Doù notre mn ne es rrcheMues & vous e Appoon  De qu e chrmnt Voon  Ft tout dncer deus Prne  Venés vn peu donnerche  A ces mpudens ecruns  Qu contre vos Arrets duns  Ont ns crndre ny Deu ny des  Produt des montres effroes  Et prophné votre e Art  Pr vn vry te de pendrt  De pr ces muus exempes  Onpeur dentrer dns vos Tempes  Tous es utheurs ont decrez  Poëtes ont nurez  Lon es t on eur ftmouë  Et on eur ette deouë  On ncgue vous & vos vers  On vous regrde de truers  On che u grtPoëe  Lon uy fttrogne moe"
+            "ent des viutes: trois Paiſans des enuirons",
+            "ournans ayans eſté arreſtez & interroge2",
+            "de ce quefiſoit ceure oarn ſon, l de le",
+            "nt qu’ils ſe diſpoſoient d’enuoyer ſix cens",
+            "uales à la pieoree, du eote deſlomne",
+            "de veoy & dela rete ale e a lusne",
+            "fu pointreloute, il fut pourtant tenu ſecret",
+            "uſquts à l’amuée de quelque Cualerlie de",
+            "rme des eincespontreaforen eur qu",
+            "toent dési au cnuirons de Ccor leil",
+            "raelanà peuprés le coſué de leut matche,",
+            "s déaeheent quarre cens caes & roi",
+            "s Dragons, qu’ils enuoyerent à leurs",
+            "ouſſes, marcherent iuſques à la Ferté Alez,.",
+            "queue d’vn bois oules renans ainſicom",
+            "e enfermez, ſans pouuoirſe retirer, ils fu",
+            "’t contrains de ſe mettre en deffenſe: mais",
+            "od ils ſe trouuerent ſ iuenenr eluar",
+            "S par ces trois cens Dragons ſouſtenus de",
+            "Caualerie de quatre cens Maiſres, que",
+            "tringts y furent tuez ſur le champ, &",
+            "douze du coſté́ des Princes:lesautres ſe vou",
+            "lans ſauuer, mais ’eſtans reunis au deſous"
         ],
         [
-            "5  Et tout e mondemudt  Bref vous netes pus en credt  Grce à cette mudtte engence  Dont vous deués prendre vengence y v de votre nteret fut prononcer eur Arret  Sns pté ny mercorde fut qu dncent ouscorde  Au on duSue Regnont eu freo enn Pont de prdones fut pendre  Cet à ce qus peuuent ttendre  Et tout ce qus ont merté  En choqnt votre uthortéC donc ons à cette che  Perdons cette mudte rce  Qu noustous deonorés ne e ont ps decrez  Ms vous çués en cheres Mues  Aer udeunt de ces ruez  Fuent s encor pus cchez  EFuent s encor meux nchez  Be Appoon qu ns unettes  Nous fs vor es choesnettes  Tu pourrs en es decouurr  Ms cet de trop dcourr  e te vos monté ur Pegze  Et tes Mues uec emphe  En croupe deus eurs gudns  Vont en rmonner ces grednsLchéoy ce mer dttche  en voyquequvn qu e cche  Te voy prs qu que tu os  Cet Autheur des Souprs Frnços DeusPx tenne  Quon me empogne quon e tenne  Ce Perturteur dePx net ps à pour es ets B"
+            "6",
+            "Garenne de Villeroy, pourſuiuis par les J",
+            "quatre cens Maiſtres & les Dragons, qui fi",
+            "ie e i iurenie de lnuneut au",
+            "plus des deux tiers furent tuez & faits pri",
+            "ſonniers: de ſorte que de ſix cens qu’ils",
+            "eſtoient, s’en retournerent enuiron cent,",
+            "cinquante à Corbeil porter les nouuelles de",
+            "eur deffaite.",
+            "Entre les morts, il y eut dix Gentils hom",
+            "mes, deux Pages du Comte de Palluau, l Eſ",
+            "cuyer du baron de Mont Bas, diuit",
+            "Officiers & ſix Guidons.",
+            "Du coſté des Princes, enuiron vingt",
+            "cinq furent tuez en cette deſfaite.",
+            "Ils gaignerent deux cens cheuaux, ſans",
+            "ce qu’ils trouuerent d’or & d’argenten lade:",
+            "pouille des morts.",
+            "Ceét eſchet à bien diminué la Garniſon",
+            "de Corbeil: ce qui y reſte ne peut pas tenmr:",
+            "ong temps ſans ſe ren !re, pour ne pouuoi",
+            "eſperer ſecours du Mareſchal de Turenn.",
+            "ez empeſché en ſon Camp, ou il eſt enfer",
+            "mépar l’Armée de Meſſieurs les Princes:&"
         ],
         [
-            "6  Admrez vn peu tommetreme  Le pendrons nous que vous en eme ne fut pont tnt nterner  Tout u monse fut erner  Cetgrce quon uy peut fre  Pour uor eté temerre  Au ponct que dgrr es eprts  Pr es edteux ecrtsBernon & enuoyons u peutre  On enmené encor vn utre  Ho quee mne de pendu  Que cét Autheur et morfondu  Cet doncRequete Cue  Que vous uez ft puure dre  Vous en etes trop conuncu  Coup de pong coups de ped u cu  Buffes chquenudes nzrdes  Luy oent donnés que on e rde  Depnges degues de cous  Et quon uy fe utnt de trous  Qu en fut pour percer vn cre  Ben que ce tourment ot horre en merte vngt fos pus  Et uquà tnt qu ot percus  Qu nepere quepotnce  Fce fnrpentenceQue utre ee que onprs  Lez uy reor es eprts  Afn qu confee on crme  Hcet vous e feur de rme  nfme mcqugnon de Vers  Hodeux pr tout Vnuers  Se ouqun doque  De qupume Styrque  Norct dopprores cét ett  Et pr vn dmne ttentt  Attque notre utre throne"
+            "on armée manquant de viuxes & de fou",
+            "S ne peut pas durer lonemps.",
+            "estrois Paiſana ont rapporté, que dans",
+            "Cobeil, laplus grande parrie des tlabian.",
+            "uneaenſon ſorms ceur qui yſonr demneun",
+            "E ont eſté deſarmez par les ſoldats de la",
+            "mſon, qui y vuen a dſerenion & font",
+            "Pyet de grandes ſommes pour lesmarchan.",
+            "oes qui paſet ſous les rous, e quie",
+            "uſe dela charréd’icelles quand’eles onmi",
+            "Paris.",
+            "D’auantage, comme cette Garniſon ſort",
+            "us les foirs ilsramenent hommes, femme",
+            "onniesenla Vvle pouren res angon",
+            "Ps auoir pillé & emporté tout ce qu’ils",
+            "ouué aux maiſons ou ils demeuroient.",
+            "Mais depuis deuxiours ces pillards eſdan",
+            "ui, conme ils fſoient, ne ſont poun",
+            "ournez: ce qui ſait croire qu’ils ont eſte",
+            "& emmenet pat les paris des inees",
+            "vonr tous les iours en partie & au four",
+            "Se, tant au deçà, qu’au delà la riuiere, iuſ",
+            "esaux portes de Corbeil, Chelles, Boiſſy,"
         ],
         [
-            "7  Et ceux qu portentCouronne  Apoon tréve de douceur  Contre ce urque offeneur fut quechr ot hchée  ApresVerté Cchée  Produte pr ce crmne  Pr vn dueu en oemne  Le de peut trer echee  Hchés e vous e hché  Et qu nen ot ms préHo que cét utre et deoé  Et que on ncre ent vrne  Afcon e mmgne  Qu à fct e Pot à Per  En tros coupse fut huer  Quoy qu de pourdeffence  Afn dexper on offenceVte à cét utre qu senfut  Courons pres à pett rut  Pendrt rrete ou e te tuë  Enfnforce et tuë  Le vo prsnen peut pus  Q ft pour fre n fux  Des Vers u PrnceCure  Cher Appoon ftes uy grce et ez fort pour rmer  Qu fne es ours ur mer  Adeu quon e mene ux GeresVocy e croy deux de es freres  Oes Genereux Sentmens  Quà ft cet Autheur de Romns  Tu te ds Ernços Verte  Qu toy Frnços? cet en e de  Appquez uyfeur de s  Pour tsfre à es dets  Et e meux fre reconnetre  Pour Frnços commepretend etre"
-        ],
-        [
-            "8Et toy qutu ft mpudent L Bre u Premer Predent  Qu e àConcergere verrcet rere  Et s fton sttquer  Aux gens quvouu pcquerLe rete ne vut pspene  Que on es enuoye àchne  Ms ns mrchndernous fut  Les etrer en chen courtut  Les trtter comme cmrdes  Et eur donner cent tondes  Pour eur pprendre à repecter  Ceux qus ont tché drrter  Et ne e pus meer decrre  Pqun Troet ny Styre  De peur der à Monucon  Dncer e rne du Gcon  FN"
+            "Crecy, Eſtiolles, choiſy, Chaſtillon, Gi",
+            "gny, & autres Bourgs & IParroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "ons.",
+            "FIN."
         ]
     ]
 }

@@ -1,117 +1,270 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
-        "genre": "chanson",
+        "form": "vers",
+        "genre": "non renseigné",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-08-18",
         "change": {
             "@status": "corrected",
             "@when": "2022-05-30",
             "@who": "ZC"
         },
-        "titre": "Le te Deum général de toutes les provinces de France, sur\n          l'heureux retour du roi Louis XIV en sa ville de Paris, le dix-huitième jour d'août\n          1649.",
+        "titre": "Le tempérament amphibologique des testicules de Mazarin,\n          avec sa médecine par maître Jan Chapoli, son médecin ordinaire. Tales fuimus ex quibus\n          nutrimus.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3757_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3758_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le te Deum génér de toutes es provnces de Frnce sur heureux retour du ro Lous XV en s ve de Prs e dutème jour doût 649 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Te Deum (e) génér de toutes es provnces de Frnce sur heureux retour du ro Lous XV en s ve de Prs e dutème jour doût 649 Prs Perre Vrquet 649 menton du 8 oût 649 Lyon Bothèque muncpeSJ F 247/88 70FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3757 Te Deum (e) génér de toutes es provnces de Frncesur heureux retour du ro Lous XV en s ve de Prs e dutème jour doût 649 PrsPerre Vrquet 649 30 pgesse termne pr un sonnet de uteur à s ptre Lnnée suvnte à propos de emprsonnement des prnces un mprmeur reprt ce pmphet en chnge queques dspostons pr exempe rejet àfn ce qu étt u commencementmt dnsouche deGuyenne ce que e Lnguedoc vt dt sup prm ou jout queques phrsesen modf dutressupprm tout à ft e sonnet qu e termneet e pu de nouveu sous e ttre qu précèdevers prose chnson Entrée du ro dns Prs 64"
+            "LE TEMPERAMENT AMPHIBOLOGIQVE",
+            "DES",
+            "TESTICVLES",
+            "DE",
+            "MAZARIN.",
+            "AVEC SA MEDECINE.",
+            "Par Maiſtre IAN CHAPOLI, ſon Medecin",
+            "Ordinaire.",
+            "Tles ſumus ex quibus nutrimur.",
+            "QVi croiroit cette verité,",
+            "Que mon Maiſtre, Meſſire Iules,",
+            "Aye acquis ſon Authorité",
+            "Par l’effet de ſes Teſticules?",
+            "On le doit bien certainement,",
+            "Puis qu’on a veu voſtre Eminence,",
+            "Monter au Trône de la France,",
+            "Pour y commander pleinement;",
+            "préme,",
+            "Certes vous voila bien (cher Maiſtre) dans vn degré ſu",
+            "Si en voulant tout perdre, n’euſſiez perdu vous meſme."
         ],
         [
-            "LE TE DEVM GENERAL de touTes es Prounces de Frnce Sur heureux Retour du Roy Lous XV enVe de Prs e ducteme our dAout m x cens qurnte neuf LE LANGVEDOC Te Deuns udnus te Domnunms confemur é Ovs vous ouüons comne Deu Adohe Snefetrue de nos me de J nous uor ft des grces que noustendons uec des mptenes qu Eee ue e enunroe en e e e eee de es Gdtes eurs freres uoet pereueré & dns vntre crnte & ds voftre etuce Anne vous o en de ne e vor pus tere Somon vous o S2 on de vor que vous oy uez eoncede es nmoyens oys 3 de vous deder vn Tempe Dud ou en vtreengnre pres es trutons & pres uor veu  7 quepromee du Mes uy uot etée fte Les"
+            "vouë que ce grand boeur,",
+            "Vous venoit d’vne bonne ſource,",
+            "Puiſque pour vuider voſtre humeur,",
+            "Vous rempliſſiez treieux la bource;",
+            "L’on croit pour article de foy,",
+            "Que par la vertu de ce baûme,",
+            "Vous poſſediez dans le Royaume",
+            "Tant d’authorité que le Roy:",
+            "C’eſt vn prodige ſans pareil, que cete huille miraculeuſe",
+            "Vous aye fait regir ce Corps, par vne partie ſi honteuſe.",
+            "Voſtre Orvietan par ſon renom,",
+            "S’étendant par toute la France,",
+            "Vous fit acquerir le ſurnom",
+            "De Granaiſtre de la cheuance;",
+            "En quoy vous reuſſites ſi bien,",
+            "Tant pour la baſſe qu’haute ligne,",
+            "Que de vous envoir ſi inſigne,",
+            "J faux tiltres",
+            "L’on vous a crû Magicien:",
+            "Mais on c’eſt trompé lourdement de vous tacher de ces",
+            "Qu’on avoulu vous impoſer, pour vo’eſtre ſerui de filtres",
+            "L’on a veu que par vos parfums,",
+            "Paſtiles, eaux, & confitures,",
+            "Auez fait ſortir les deffuns",
+            "Du profond de leurs ſepultures:",
+            "Car ſans ſingler en haute mer,",
+            "Par l’art de peſcheur trenſigne,",
+            "Vous acrochiez à voſtre ligne",
+            "Les perles qu’on n’oſe nommer:",
+            "Ha! quel art, quel ſecret, quel meſtier eſt le voſtre,",
+            "Qu’on vous juge plutoſt faux Prophete qu’Apoſtre.",
+            "e99"
         ],
         [
-            "Apotres vous oüerent en en ttendnt vqQeS Eprt Le poupe vous oü en voyãt eLue 443 4 ces que vous uez fts en eur preence â ce ne vous oü̈erot ps de uy uor redoâvnSout uer que vous uy uez de dohé oqu y penot e mons pr vn effect ncomprehene à torteNtore cree Oüy Segneur pdus voûouerons eterneement uor Jpeoe notre Deu donné r Pdéfous freve Px queMjeté venotepp donner et eurée Ouy Segneur nous vous oüerons à ms uec toutes es cretures vfes & nues ronn es & poutes qudot Ce ûecre & ouserre urn de fos qg ddudus ennruré de nous uot rendu e us dgeSut rn que vos yez ms pts pr de ee u monde Loe Courtns ceetes oüe Eprts Angeques ouez e toutes es Punces oüe Troupes Aftrées ouez e demeure eter nee oue pupes tetotrés & qutques de nous uor rems prftenent en dns eprt de ceuy à qu nos deuons toute ort doence Ouüy Souuern Prncpe de tout etre creé nous vousofons conn ger ege&mde pendt qu peu toue e qudy pt e fuendẽ es ctetures de nos uorrouduce DoGnné que noushjttons de rer uecdes pons n croyeNqus vous confeenons deot cétre cœutptque vousduzüyespotoos de nûtre ouch &prce gtnouô ouu enedufpu tes es uotresNous chnterons ddudt engût nous ddorerons en vottdnct Tempe &t noâco feferos votre uoupce q uousez roéuppcronsqué s vouds fsfs ye sgneur nos ous conferohsde toue notes u done encgegtûûdes touno uez"
+            "3",
+            "Chacun veut ſçauoirce Secret,",
+            "Chacun m’en demande la cauſe,",
+            "Mais comme Medecin diſcret,",
+            "Sans voſtre authorité, ie n’oſe;",
+            "Mais puiſque c’eſt le bien de Tous,",
+            "Et qu’ardamment on le deſire,",
+            "e trouue à propos de le dire,",
+            "Chimiques,",
+            "Pour mieux faire parler de vous:",
+            "L’on voit bien ſans difficulté, que tous vos huiles ſont",
+            "Puiſque toutvoſtre or vient du feu, de vos vaiſſeaux ſper",
+            "Pour tout declarer hautement,",
+            "matiques.",
+            "eſt beſoin que ie commance,",
+            "Par l’illuſtre temperament",
+            "Que vous auez eu de naiſſance;",
+            "Et ſans longue digreſſion:",
+            "Vous auez tiré de Nature",
+            "Vne chaude temperature,",
+            "Et treole complexion;",
+            "J Iules,",
+            "Cela fut vn grand préjugé de voſtre vertu (Mon cher",
+            "Que ſi vous n’en auiez au Chef, vous en auiez aux Teſti",
+            "Pendant cette tendre leuneſſe,",
+            "L’on vous mit chez vn Cardinal,",
+            "Quivous voyant plein de moleſſe,",
+            "Vous choiſit pour ſon vrinal:",
+            "Or vous y ſceutes ſi bien eſtre,",
+            "Que dans peu de temps l’on vous vit,",
+            "D’vne ſimple Gouge de lit,",
+            "Jeules.",
+            "Plus excellent quevoſtre Maiſtre:",
+            "Jexereice,",
+            "L’on ne ſçauroit aſſez loüer voſtre humeur en tout",
+            "Puis qu’on vous voyoit à tous coups accommoder à tout",
+            "ſeruice.",
+            "7"
         ],
         [
-            "uez ft de grndes choes pour vn peupe à qu vous uez redouné on Prnce Conf on & mgnfcen ce e trouueront en ce en ft uques àfn des eces Au eteous contre e entment des m pes & des omnes ceuy que es hommes & es Anges confeent etre ns commencement & ns fn & qus ne çuroent prftement en comprendrer r LA GVYENNE Te eternuns Ptrems Omns err enertur Non euement touteFrnce ms touteterre hte vous honorer àcufe des grces que votre Dune Bonte nouscommunquées comme Pere Eterne de touteNture creée Au ne ftes vous ren pour homme que pour en etre honoré toutes vos ctons vent à notre proft & à votre gore ms ce qu et pus à votre honmeur dot etre ft e premer & preferé à toute utre choe Cet pourquoy vous uez vouu uettr out ce qu e à̀ votre Fs sCs fn que tout ce u et vous peut honorer en peronne nyrem dns e monde qu ne preche es fueurs qu vouspeu de fre à̀ chque etre Le Ce dt que vous uez ft te qu et e Soe nous pprend que vous uez ms u mondeLune montre u en ece denuct quee et votre cretore Le rete ds Atres font en vor que vous es uez formez es epces de r nous prechent votre mmenteterre ft en protre que vous etes on DeuMer on prncpe es ymes eur utheur & toue e monde eneme mrque qu et ouurge de vos mns crées Les Ceux dt Dud rcontent uote gore pour vous honorez ces ceres tou B"
+            "4",
+            "Aprés, entrant en Puberté,",
+            "Le titillement du Priape,",
+            "Vous fit ouurir la charité,",
+            "Pour fermer voſtre fauſſe trape;",
+            "De façon qu’on ne vid jamais,",
+            "Dans toute la ville de Rome,",
+            "Vn plus habille à la Sodôme,",
+            "Que vous y fûtes deſormais:",
+            "de guerre,",
+            "Voſtre artillerie nous fit voir que vous ſeriez Champion",
+            "Puiſque vous l’a dreſſiez plutoſt au cul d’vn garçon que",
+            "Pendant voſtre trentieſme année, J d’vn verre.",
+            "L’on ſçait que vous eſtiez tout feu,",
+            "Et que voſtre humeur Hymenée,",
+            "S’augmentoit toujours peu a peu:",
+            "Vous prîtes bien le vent en poupe,",
+            "Puiſque tant Garces que Garçons,",
+            "Vous cherchiez de toutes façons,",
+            "Afin de de nauiger en croupe:",
+            "faut avoüer que vous fûtes trexpert à la marine,",
+            "Puiſque ſans Arbre ny Trinquet, vous marchiez bien de",
+            "Mais en voſtre Virilité,",
+            "Vous auez tant fait de merueilles,",
+            "Que pendant vne erernité,",
+            "L’on n’en feroit pas de pareilles;",
+            "Car eſtant Miniſtre d’Eſtat,",
+            "Par voſtre grand concupiſcence,",
+            "Vous auez Nauigé la France,",
+            "la Borine.",
+            "Qu’elle eſt dans vn piteux eſtat:",
+            "guſtes,",
+            "Vous auez certes ſi bien fait, par ces quinſſences au",
+            "Que tous les méchans ontregné, pour mieux en écarter",
+            "J les Iuſtes."
         ],
         [
-            "jours rouns puent ncemment vos merees De orte qu nyren qu ne vous reuere ou qu ne vous doue reuerer comme Pere Eterne de toutes choes ce etntme ene que nous ommes du uomre & que nous ommes u pr cone quent ogez de nous cqurer dgnement de hon neur qu vouspeu nousfre en nousredonun notre Prnce LA PROVENCE T omns Ange t C & nuere poà ete T Cerums & Serphnm mee voce procmnt Snctus Sntus Snctus Do mns Deus So Oüy Segneur non euement toutes es Herr ches Ceetes qu ont es Anges Archnges es Prncputez es Punces es Vertus es Domn tons es Thrônes es Serphns & es Cheruns vous douent ppeer trosfos Snt Ms encore tous es pus ncredues htns de cette Monrche Frnçoecs et qu y en t quequesvns qu oent tchez dvn vceonneOü̈y Se gneur vous etes e eu Snct des Sncts voune poe 5 etre doré pur ce &ne pouunt ps oufrr quon rende ce qu vous pprtent quà vouemeo 2 Au eteous ce Deu joux qu ne veut ps que nodogore ot mnfetée quàpropre peronneOüy Segneur vous etes ce Deu qu contre e entment de queques mpes nous uez redonné notre Deonné fn detr vne px vnuer ee entre es peupes O ncte crée & nduf e Trnté ftes nousgrce de nous e coner uer encore vn coupe de eces vous ez en dns uos cœurs Pere Fs Snct Eprt es voœux que"
+            "5",
+            "Pour vous maintenir l’embonpoint",
+            "De cetre humeur ltaliene,",
+            "Vous n’auez manqué de tout point,",
+            "De viure à l’Epicuriene;",
+            "Puiſque parmy voſtre boiſſon",
+            "Vous meſliez force Camedides,",
+            "Duema, Eſpices, Cantarides,",
+            "dinaires,",
+            "Pour auoir de ſperme à foiſon:",
+            "Mais à quel propos tous ces fards, ſes ſaûces, fort extror",
+            "Sinon pour fournir de l’empois à vos Bourgeoiſes &",
+            "Lingeres.",
+            "(Cher Maiſtre Berlic & Berloc,",
+            "Diſtilateur en Quint eſſence,!",
+            "Allez enſeignervoſtre Hoc",
+            "En lieux fort loin de noſtre France;",
+            "Car par vos jeux, & vos reſſors,",
+            "Vos Paſtilles, & vos eaux paſles,",
+            "Vous nous auez tant fait de râfles,",
+            "Que tous nos Loüis en ſont dehors:",
+            "chûre,",
+            "Croyeoy, n’y reuenez plus, & craignez d’y faire re",
+            "Car vous rendriez toſt au tambour, ce qu’auez gagné",
+            "Voſtre bource plus qu’hydropique, par la flûte.",
+            "Par l’excés des ſes coictions,",
+            "A rendu noſtre France etyque,",
+            "Pour aſſouuir ſes paſſions;",
+            "A preſent chacun fait des vœus,",
+            "Que voſtre humeur Sardanapale,",
+            "Paſſe la ligne Equinoxiale,",
+            "Et qu’elle n’y retourne plus:",
+            "Autrement ſivous y venez (chere Eminence Mazariney",
+            "Aſſûrez vous d’y receuoir les honneurs qu’on fit à Con",
+            "BJ chine"
         ],
         [
-            "nons fons pour on ut &ponuec que e nous ttchons de es pouer uques dns e ejn de voftre generton eternee Oüy Producton n ne cet vne uppcto qu prt de nos cœurs ueeo zee ncompreLE DAVPHNE y Pen unt ce & terr efôts gore tu Les Ceux &terre ont pens deMjeté de votregore Souuern Segneur de touteNtu re creêe Ee et ennuéoque nous pprendEos Ce dgne conducteur des Legons Herques Eeet enMontgne de Sn comme vn feu tre dent ee et ur e toét de Ance ux réëtes Nomee rempt e Tempe & e Ternce qu vous ont eté concrez & mntennt touteFPrnce sen vod reement cõée pr e retour de onDeon ué qu net re u monde de eme Vous nos uez redonné Segneur fn que toutegore vous en ot ttruee pus qu ne e peut ren fre ns vote grce gore vous en ot donc renduë grnd Deu uques à fn des eces Les Ceot dt Dud nmnfeftensgore du Sgneur & etenduë denhut montre que et ouurge de cet Ouurer mte Nous pouuons en dre à Pmtton de ce grnd Prophete que e retour du oy dns Prs nemnfetent ps mons pu que eet vnecton do dependot tout e fut de cette Morche Sus portes de cetee grnde ve ne veus fermez pus e Roy de gore et entré chez vous pour vous ffter de es enedtons & de es gr ces Que ee Roy de gore? cet ce Deonné eœnuoyé du Ce unx feruentes uppcrtons que touternce uy enftes Cet vntreche &"
+            "Ce temperament de Moneau,",
+            "Eſt ſi fort aimé dans la France,",
+            "Qu’on en voudroit auoir lapeau,",
+            "Pour en garnir vne potance;",
+            "Et le reſte de voſtre côrs,",
+            "Seroit en pompes honorables",
+            "Encévely a tous les diables,",
+            "Comme vous auez nos Treſors:",
+            "à plaindre,",
+            "Ce magnifique Enterrement, plus à ſouhaiter qu’il n’eſt",
+            "Réjoüiroit tous les François, d’vn retour qu’ils pour",
+            "roient bien craindre.",
+            "7",
+            "7",
+            "MEDECINE POVR MESSIRE IVLE",
+            "MAAARIN, Ordonnée par Maiſtre IAN CHAPoL1",
+            "on Medecin ordinaire, ce 4. May i651.",
+            "ON TRESCHERMAISTRE,",
+            "T",
+            "Ayant eu l’honneur d’auoireſté depuis Mil ſix cens",
+            "Dix, voſtre Medecin ordinaire; ll ne m’eſt pas à preſent",
+            "difficile (par la longue experiéce que i’ay de voſtre Te",
+            "peramen de connoiſtre la cauſe de voſtre maladie; que",
+            "y jugéne pouuoir proceder d’autre part, que de l’ex",
+            "ceſſiue inflammation de vos proſtrates, & paraſtrates,",
+            "pour n’auoir pas eu leur libre & liberale ejaculation de",
+            "puis voſtre ſortie de France, comme elles auoient accou",
+            "tumé pendant voſtre demeure à Paris. Cette abon",
+            "une de ereiene l e ſeneunr"
         ],
         [
-            "P 69 S retre preent qu uousgrtuteent e uoyé pour uuer e peupe & Ett detyrnne etrngere Cet vn ntsre Snct Lous qu dotpor teres rmes du coté du Lent & forer R oy des Trtres non euenent àuy enuoyer des Amh deuts ms encore à e reconnore Cet ceuy qu dot eneuer mette ux Mmeus prendre e grnd Cre uettt Berte forcer Contntno pe & edure to e py3 des ndees àono nce Enfn teet ceuy qu dot pnterCro pr touteterre hte LA BRESSETe gorous Apotoorum ChorusTe Propherrms udds numerusTe ryrm cnddts uds exerceus Quegoteue compgne des Apores vous ouë Deu dvne onteé nfne de nous uot co fere tnt de grces pus que notre nuffnce ne nous permet ps de nous en cqutter dgnement commenous e fudrot fre Que e oüenou re des Prophetes vous en reuere pus que toute ndutre de notre eprt e touue pe dvndgne ofe Que uous es repenns exercces des Mrtyrs vous en gorfent pus que notre en tendement ne çurot rruet à vne reconnoncegeereue que cee quon vous deurot fre Nentmons Ségneur nos evres ne eront psde vous ouer de ce dgne en ft e meux qu nous er poe Le Roy seour en vous grnj Pne eer neoenone eenn n ee ent m er coetous es peupes vous en ouërot r vos ugez esgeu eequte drez es os"
+            "te intem perie, pair ſon trop long ſejour, vous pourroient",
+            "̀ l’avenir engendrer quelque qualité deleſilique, qui",
+            "par ſa virulante malignité, vous ſphacelleroit çette ve",
+            "nerable partie, au grand regret de laSegpora Fouraqui",
+            "na, & de mille autres, qui en mourroient de faſcherie, ſi",
+            "ce funeſte accident arriuoit; quoy que la principale per",
+            "te fuſt la voſtre; car eſtant mutilé dela ſorte, vous ſeriez",
+            "̀jamais fruſtré de voſtre grande eſperãce, ſçauoir qu’on",
+            "vous reconoiſtroit indigne de pouuoir occuper la Chai",
+            "re de Sainct Pierre faute d’auoir les témoins requis pour",
+            "uoir ſeance en cette dignité, depuis la fourberie que",
+            "on dit de la PapeſſeIeanne.! La douleur de l’vn & de.",
+            "utre, vous pourroit ſi puiſſammét demoater les roues",
+            "de voſtre eſprit, crainte de ſes inconueniens, qu’eſtant",
+            "priué de l’éguille & de ſes deux cotrepoids, voſtre mon",
+            "tre ſe trouueroit inutile, tant au Soleil qu’à la Lune; ce",
+            "qui ſeroit l’entier acheuement de voſtre diſgrace. Pré",
+            "voyant à tout cela, i’ay trouué à propos de vous faire la",
+            "preſente Ordonnance, par laquelle, comme par l’aide",
+            "de Dieu, ie pretens vous preſeruer de tous ces maux, &",
+            "de plaſieurs autres.",
+            "fol. titimali, Iarri, mandragorœ ana. pug. viii Rad.",
+            "rafani, ſilueſtris, cucumeris agreſti, ana. lib iv. bulliant",
+            "n ſufficienti quantitate aque, in euius decocto diſſolue,",
+            "catholici arſenicati, vne. vi diaphenici cum aconito co",
+            "poſiti drag elebori recentis opii, & reagali ſcrup. vi.",
+            "fiat potio clarificetur & aromatizetur trium generum,",
+            "toxicorum recentium."
         ],
         [
-            "5 Mons deterre Loüuez cette dore Bonté̂ des gces qu uypeu de nous fre Eps en hen rex quvuez dãs vne fect épt fte Loü̈e Ce Terc Mer & tout ce qu ydetres enNtue desemece donet é euuers es puures creru re S gore et pr deus e Ce & es grces ont ncomprehenhes Loons e nous utres en es P50 ncts eux g en etendue de notre force Loüods e ett ences & oon on xpré́me grndeur Loüoneon dcrompe de pteron de hçpe demour de hus devoes dorgues & e cymes d utons de ce qu nousredonné notre Pce Loons e Segneur Deu drë de nous uor deure4 de nos ennems & de mjn de toosceux quous vouoen perdre fn que nous s eruonsdrene ns crnte Loüons e Deu de cocrmercorde et ondute ur nous &verd demeurer de ce en ece Depus e commencemene des temps uques à fn quon ne çusot comprendre Le nom du Segueur et dgne de ouoge duor emucé es preres queon puure upe uy ftes LA NORMANDE Te per em err ncs confterr Ecs f Ouy Segneurnûte Ege vous confee & vous confeer pr toute rondeur deterre d uor tourne es yeus de votre mercorde ur ete depore où toutePrecee vor nntennt re dutte Ouy Segneur evous eonfeery uec ee de rout mon cœusr u Cone & enCongregto des utes Ouy Segoeur e vous confeery de tour mon cœur cvous uez ouy es uppcrom qpe e vousyfteutnt que e me voyos àve C"
-        ],
-        [
-            "e detre redute en ve extréme mnere e chnte ry vos ngnes fueurs deuntes Anges e vous dorery en votre nct Terpe & e confeety hutement pr toutgrndeur de votre Menmcot de En qeque our que e vousnuoquery etu cez moy mon Dencr y pus eon de vos grces que ps vne de coutes es Prounces de Frnce Vous me vuferez Segneure chemne duntge u meu de nes trutons & vous etendrëz Vvotrs m ur mes ennems pour eur mortre que e us en voftte uurde é ery fermemene Segnr que vous ne etez ps de fre pour nous ce que vous fces cous es ours pour des Peupesngrtspoûr des mes perfdes Vous nous uee donné votre cher Fs pour nofte Sdut vonous donne rez donc en encorex pour notre tepos pus que cet vne fueur de mondre mportnce Vous en2oe9 uez dt qu ne fot que crore pour etre enheu r es reux & pour uor de votre dusne Mjeté cout ce onuou quon çurot derer de vos grces So& Men 7 29nous eure que toutes choes eront potesà ceux qu uront utnt de Foy que peut contenr de gro eur vn grn de moutrde S ce et commenen fut pont douter e veux vure eu reps & crore fermement que Px que e Roy ventde nous don uener dvneongueduréequeque frenferp e ne e met à truerer nos ffres u en veut on que nous croyons queouree de nos meres ne venc que deource de toutes nos crntes LA PCARDE Psrens smene metts Venerndum truums verums & vneum fns Snctum quoque Prtrum Sprtum Pete de Mjeté mmene vry venere & v"
-        ],
-        [
-            "que Fe de eeTouunt &e vous Sn Epre Cooteur des onnes mes ftes nousgrce de rendre cette Px u te quedurée des eces Nous uons ouffert tnt de mux depus qucque temps que e treme encore u eu ouuenr de ces penées Loünges nnes vous oent pourtnt ren duës Deu de Px & de mercorde duor ms cet Etc dns vne trnquté puque y eté preque toours e refuge des egons etrngeres & doet ques Tous mo Peupe et runé tous mes Autes ont demos & toutes mes uons rées f eu que e us ux osvous uuez pté de cetre pu ure ffgée mns e me coof e votre rmercorde egneur & enPx que votre onté vént de ou donner & quee v rendre nuoe Que vous çurons uous dõner ouuern Suueur de nos mes e oconnonce dvngrnd enefce O Px qu teups os eprts de douceur O dgne Déee qu ens tout Vnuers dns vne prfte hrmoneO u te effroy des mechns pour eque eus Cttve éetnt de rmes O veneree du Ce qu ç uezdgnemenc ppuyet uthorce du Prnce f es nousgrce de ne nous ndonner ns pus àmerey de ces egons nhumnes Chrté ncreée deurez nous des mns de ces Peupes nfoens & derge de ces rces ferrees Et vous dgne Onct du du Souuern Eterne utre Punce qu ne ree uez que deenne chez on de nous ces cœurs de ét ces mes de ronze & nous vous pr mettons deunt Deu & deunt es hommes de vous enr eterneement & d pret tous es ours ce ou uetcn Suueur de nos mes pour votre nté & pourproperté de vos rmes contre toures es forcesetrngeres"
-        ],
-        [
-            "2 LA CHA MP A GE T Ree gore Chrte u Prs empsernus es F Lu d erndun cepturs hmm nn rot vgns otermsOuy Suueus de nos mes vousetere Roy d gore qu doe uger es vunts & es mets & qu do rendte à chcun ce qu uy ppstent uec ut ee Ouy dgne Reprteur de toureNure hm ne uousetes e Fs Eterns d Pore qu deeue ooutédonné etre à outes es choes Ouy ver e se vous nuez pont eus en horrer de vous ncrnerdns e venrre dvne Verge qu ert deref ge à toutes es mes pecherees f de neus deurer de eouge où̀ nous etons oums pr fute de notre promer pere Cet porquoy nous vous up pon dore Redemteur de tout etre mntte & ronne de ntenr tons es Peupes de Frnce dns vne prfte vnon & dns moux qus epe rent r contnueement de eur Prnce Cone Fs du Pere Eterne & comoe DMeu conutnse à ce Souuerncompreene routeschofes vods ont ées puque e pouuor ne çurot etre ep re de etre ndependent & que vn & otre ont vne mene choe en votre peronne Ne oous dénez donc ps cetre gece e vos en uppe Le defordre où e me trouue encore à preent moge à vous f ne cette demnde du meeur de mon me uec ds empreemens ocroyes Votre onté & votre uercorde ont dvne nrure nfe De ortre querequete que e vous fs uec vne pon tres eée ne çurot etre quee ne vous ot en ée pus quee et compre de ceuy qu comprend toutes choes"
-        ],
-        [
-            "4 choes Quoy Segneur ne ftes vous ps tout e qu vous et poe pout votre gre? L grce que nous demndons en ft vne prte Suueur de nos mes &cet à quoy nous vonsde tout notre cœur pour voustsfre Rendeonc s vous pt mon DeuPx que e Roy vnt de nous donner dvne nture nuoe f que tous es Peupes de Frn ce vous oüent contueement uques àfu des eces LA BREduß morts cuo pert eredots re go ceoru Vous qu ue vneu guon demort qu uez ouue eoyume des Ceux ux roynsd re Suueœur de nos ms ftes nousgrce de vncre e ttes& es menées deceseprts de d cordeyqu ne ogent quà ermser de znoeœntr e Pnce Peup Ouureouse ede votre mercorde fn quePx qu vouspû nous deu nr pr entresede notre dgneMonrque oc dne erernee durée Chez de ceés Etrt toutes ces fures fernesqe hescent uec es funetes meux de eur eruee mton quà mettrs vne ncende genere ux qutre cons de eedt Enpte Punez ces enreux Aectns du mme upp cequs nous ont pus durnt ces derners deordres & toute notrepofterté vous oü̈er uques àf des eces ousnous uez def doné Px vous uez rems notte Deudonné en on throne & voos nous ftes eureue cete fectôerde ongue duréemsvotse Dune Meté ne nnces en gences Putoques de oree de notre or que nous oourrons cque e rechor ̀ duonr dns ememe ptecpee o eur ge pous uot pongez"
-        ],
-        [
-            "4 ns ueune epernce de mercorde En conten pnt votre etre Segeur vous y voyez comme dns vn mror vnuere toures eurs ntentons pus que vous y voyez non euement ce quefté ce qm et & ce qu er ms encore tout ce qu pourrot etre Vous y voyez eurs ouhts & eurs mgntons pr vne cence entcpée Or pus quece et Suueur de nos mes & que votre pufnce etnt dvne nture nfne e peut etendre ur toutes cho es ne nous refuez donc ps Segneurgrce queon vous demnde Votre utce etcompnteà votre Morcorde quee fer oterneement v nteé de uy ceder tout ce qu uy r pde Ee con ecendr touours ux entmens que vous u rez pout tuere des honmes Fres doue so vos pt que notre Prnce ot vn Prnce de Px por nous & vn Monrque conquernt ur ttees u res Ntons deterte fn que nous oous puffns oter comme Deu & vous rr çotomon Pere pen dmour & de chrté peut es puure Ctecu Tes LE BERRYr Tu d dexterm De edosgor Prrs udex creders ee venurus Vous etes s àdextre de Deu egore du Pere & nous croyons que vous etes e ge à venr à qu hcun er oge de rendre conte de toutes es tons pées O Deu de Meté nfne que ne fe rez vous ps en cette quté contre ceux qu ne v uent que du ng du Peupe? Vous rmerez votre mn vengeree de crreux & de foudres pour pun ces omnes eprts dedns eternté des eces Ce er ors que vous vterez es nqutez de cette mudte rce uques àtrofee & qutrene"
-        ],
-        [
-            "gnerton de eurs frmes Ce er ors qu e ter r&e es Ceoux fremront de crnte deunt vne ut esredoute qüevotre Ce eroe queter eur r es pus utes de e vor cez de cn dnjotces e teome Segneu qund epeà cote épouente vox qudecendc du Ce ur otcfce de cstte frge demere pout oo der ux motsreptendre umee & der peonpeesene úy deut Aret epeuî de ̀ ouche dvn uge qu opr uqosà dopdcœ de os penees Ms en ttendnt vefunete xecutouur desmes f repfouuées tes nous A gce Se gner de nous conerues que ous œnons de eeeuer de vos ets & deendee uff dure ge es eces Nouété ps uû gtnd ou d ter notre Ro dvn en one de e mnrenr cent oufx vngts ns dns vn pefte nté & de e rendre toreu&e tropndeus es enus &e deeoot e Peup nfdece fn que vos omges & es eoôgé&éés ene dvne ps grde ttdué Ce er d́sdors que touee ̀er vos onorer teumme Pere eterne quon confoeoftre on pr tour que eoutes es Herrches ceetes urot vne pus geners fcocon & quoEge Mrnte er puos rese s quee tps pour vous uet & pour vous efrt vn ps gtnd nomte de Cntqdes de goreLE LMOSN Te erg& queumus fmus ue uuen quos preod ngune redemtCet à ce coup Segneur que nous vous uppons de uhunr ux necetez de vos eruteurs eques vos uez rchetez de votre preceux Sng quoy que res ndgne de ces grces Votre pouuor & votre"
-        ],
-        [
-            "oncéone dvne Nrure trenueree & tref e Comme ouuern Segneur de tout etre creé coutes choes vous ont poes Et com nf rment on chtte & ercotdeux vous ne te fuerez ps ms de nous ter & de uuenr à toutes nos uecetez ous quon vous çur peu ment oger à nous etre prope Appquez done à notre proe oee hontée cetce punce dope vous etes duneent pourueu dore Pcotecteur des mes fgées dutt que nous rous en uppos uec toute hurmté & toureferueur qu nuset pofefu que e rtour du Roy dnsve de P rs ne os o ps nuto Ce e fervous entre prenez puque votre euo voenté uft pour dôn ner etre À toutes hoes S voftre voncé et nf nefut neereent uffque votre pouuor e ot veuque es deucutez ou pour meutre ces deux strues ne ot quve meme che en otre perone Vous çuezes mux qus nous uos oufferts dns ces dernets Toue & vousvoye encore ceux quous ouffronseous es ouprmuue ntegence qu set gée ente des mo tes que Deu ee uos peruertspour ppn tonde nos ctnes Ayezdonc comopff de nosferes chrte Reprteur detous os deordres fn que e Roy moufe couours vure en Px&e meme fn que nous oyeons toufours en ett de chnter hutement vosgces Dõne nous moyen Segneur de uter dns vn psfffgé detous es urs du ece & vous nous ogeez à ent vos ontez ns pprehenon queconque dnsdrée dvne eterté́ ncomprehene LAVVER"
-        ],
-        [
-            "7 LAVVERGNE7 Ater fc cus Snts tus n gor nme rr Suum fc popuunm tunm Domne & enede hredt tue Ftes Segneur que nous oyons dns uecvos Sncts engore eternee Suuez Segneur vo tre Peupe & enez votre herrge Ne nousndonnez ps àpon de nos Ennerms coner ueous e Roy & nous donnez vne Px deongue durée Aprés ce Segneur nous vous oü̈erons éter ueement comme Deu & nous vous honorerons eomme Pere & comme Segneur de toutes choes S votre Dune Meté neut eté uec nous pendnt ces derners Trouesfureur de nos Aduerfres ourot peutre engouts tous vfs s uroét peutre pé nos Autes mã̃cré nos Enfns & redut tout e ps en cendre Loüe ot e Segneur u oosredonneeoy oué oe e Deuden co qu nousms en Px & ouée otDune Meté qu ne nous ps donnez en proye à ce Peupe rre Notre ve et echppée des cs qus nous tendoent comme cee des pereux sechp pe quequefos des nns de ces Oeeurs qu ne v ent quà eur perte Loüé ot eSegneur qu ne nousps ndonuez àmercy de ces fureux exterm nteur qu nouuuez de eurs trts hom des Leurs deens e ont eunoüs & eurs conpr tons e ont dfpé́es pr e retour du Roy dns Prs & prPx dont eurs Metez nous one eurée Notre de set ft u Nom du Segneur qu ft e Ce&Terre pour homme Cet mntennt? ouueEene dens nes ue vous uez e E"
-        ],
-        [
-            "n3j 8vtre eruteur enpx eon votre ncte promée Vous uez prepé notre ut deuntfce de Vnuers pour donner umere ux foruoyez & gore à votre puure peupe Bene rceTroyenne de vous uor trez du mheur où tout Ett e voyot pongeé & dou toutepudence humne ne nous urot ceu gurntr en fçon que conque Benez votre hertge Segneur fn qu pue uter en px eon votre ncte M ercorde Bene troupe Ceete enez e cous es eemens ene Vertus detoute punce vous tres moyns puye roée ru nes cheur & frodure umeres & teneres mon tgnes & cones cs & fontnes nmux terr e tres & qutques & vous mes utes & ronn esenez e Segneur qu nousredonné e Roy &px & qu nousft fueur de nous re grder de on œ de MercordeDune Bonté uuee que ce contnuë uques àfn des eces ?2 LANO VEt rege eos & etoe os vque o eterGouuernez Segneur votre peupe & es ce uez en rte queguerre nytyrnne ne es ue jms rtendre Quoy que ye honneur detre ppnge des fs de Frce e nen us ps pour ce meux trtée Lon me déchre es entr es on me pe on me voe & on me trte com me vneterre conque prfonce des rmes Ms epere que e retour du Rtoy dns ve de Prs nous donner pus derepos & qu nous eurerspour ong temps dvne px treerée Cet pour quoy Segneur presnous or ft grce de couter nos pretes epere que vous neus ferez en"
-        ],
-        [
-            "T9 core ce doger notre Prnce à nous trtter conme vn Peupe que vous uez deen de gouuer ner queque temps cy s & deeuer vn ourhut dns vne ettude eternee O Deu dvne onté nfne nous crons à vous du profond de notre cœur fn que vous pretez oree à nos demn de Dus grde du mrn uques ̀ gurde deu utre mtn nous eperons contueement en vo tre mercorde Ecoutez notre prere receuez n tre uppcton en votre verté & nous eu p 4 cez en votre utce Nentrez pont en ugement uee nous Segneurs prce que nu vunt ne er ms utfé deunt votrefce Lennemy nousperecutez & noustus uques en terre ms uourdhuy Segneur à cue des onteeno tre Prnce vous retrerez notreme de truton & pr votre grce vous detrurez tous nos duer res Cr nous uons ft vœu detre vos eruteurs tnt qu vous pr de nous mntenr u nomre des choes Vous hetes ps mons mercordeuxque vous etez du temps de nos premers Peres Cet pourquoy nous euons es mns vers vous fn dmporer votre ftnce & fn que vous nous coneruez es grces que vous venez preentements de nous fre LA XA NTONGE Per ngus des ene dcms te Es udmus nomen tuum n ecuum &ecuum ecu Nous vous enons tonus es ours Suueur de os mes & nous oüerons votre n Nom de ece en ece de nous uor donnépx que ousuonstnt defrée Cet vn mrce Segnot"
-        ],
-        [
-            "37 2 que vous uez ft contre toutes nos epernces em fueur de votre puure peupe Ce ont des grce que nous ne çurons ms dgnement en re connotre quoy que nous puons fre pour vo tte eruce O que nous vous ommnes redeues dore Reprteur de toutenture humne dvne erté extrordnreque cee que nous uenons receuor de vos grceue toutes es u tnces mterees & mterees vous en oüent uge vnuere de touteure cree Que es Snts & es Anges vous en enet dgne Vox de routepunce Qu es Ceux & es Eemens vous en rendengrces dgne Soe de utce Que es nmux terretres & qutques vous en ch tent des cntques de reounce Sgee Eterne e Que es végetux & es mnerux vous engor ent Archetype touours eme à oeme Enf que ce c verte qu setmmoépoure u de toutenture humne vous en remerce pous nous de peur que nore ngrttude neur nõtegrce qu vous peu de nous fre Loüons & enons cet etre ncomptchene crft des choes merueeues en fueur de on puure eupe set cqus e ut du monde pr dextre & pr à forceousft connotre on u & nousreueeutce deut touteterreet ouuenude hontée & des cmtez de ctte mere Prouncs Toute notre poterte çur es ens qu nousfts & nos enfâns pue rnt es grces uques àfn des ecescrmercorde et ondute ur uou &veé er duue eternee durteEA"
-        ],
-        [
-            "LA BRETAGNE Dgmre Domne dte to ne pece nos e odre  erene nr Dmne merere noo Segueurvous pr nous grde en ce ourns peche Ayenrcy de nous Segneur yez ercy de nouscàrerretour d Roy dns Prs neuregpqueon vent d nous donner e us en ett dtre f poye dvn nomre nfny de Legons etrngeres & domeûgus moquepourstuexouz foyné ps o me mes nos propres euems & nous ne truons ps à notre perte A mons que de nous oppoer à te jen & meme à s que de nous rendre ydonreuenr compcs de pes mfeurs e neue ne fecte pue etre troúe de çgu djgce Sgpeu vus vous rendeez fuor à uppctons & uous nous mettrez ouours à couuert des trts de mton & des ges detynme Vous perez votre cour s e rooue dmee nue uren ou uodtre e u de ote fce O Dcude otre uxretrez votre ndgnton de oous & yeztouou propceuxuppctons de votre puure peupe e fut de ceux qu vous crgnonor eterne & votre gore deneuter dnsnotre Prounce otre onté & uo re verteé ont ueprdesvore utce mrcferdeuspous & nous rons à vou pr es uoyes er e rcounos monnquté pur profter dores entde toutess grcesren dez moy mon pre nmer oeur & me teure dns cette trnqu ué puque De de mon ut deur moy des cotqs des mecns &ungue hs"
-        ],
-        [
-            "22 cerutemé́t votre mercor de S vous ouhttee queque orte de crfce Segneur e vous en of ros ms vous ne vous éouez pont en hoo utes Ftes en pn vote onte à ces puures cœurs cc nrts & remetces dus eur premeétre fn qus puent pus feehent ncet vos onges t q LE pE 5SnnVnF nercrd tu Donde eßsquedod perujnous eDoxe perus u eoofuno tepn2 23n t JVotre nercorde oé fte rhus n qe nous uons toujous epere Segeut Segeot tt qefô os ous ne erons ms cone ptouours epé n vote efeoe tyjgrhemere en moy egneut qts eseeeos gnnt es ennems de cét t & ognntpus nupportte nron deterré Cet ce qo fegee eue ouuent mes yeux vers e reporvordfù vendr mon e cdors & pot Vof vôre Bonêerendt exore à mes es Ms vousnospreerueez Segnesr & vous nous couurfez de vo tre mn dexrre Vous ferezthregreut qu fureur de ces etrngers enous offenferps ue px de notre Deonéne er mstrôeCeéux qu e fent ed ous Segner me eroneofht efrnez non pus quees tontsqu nou? éro nent & vous ne erez ps tegnerdomfntén des Ty ns ur hertge des utes vos erez grce ux hons ms vous pddrez ceux q epdcentà tfmerdton epeuéêstte e vous"
-        ],
-        [
-            "etedt deâstoueses ods & pre que vo tre goresy tronue ntereee Vousreeuez e pu edûers oeetes dg de nere L t ddsofns uonéesfjêfeot 2otre fét por odpenouoûefûeûo õfuon de nos duetrés por detrudres tneydu Pâce & d Peupe Vous efâs otre voefpge ote oesoe teors nte es dueefezusu enntPee e rü s espeds quees pus Aetetgnrsorû ?ene qse oted neuret en o etg ddr dre ouosuons ren à endre vpuopenze on de ous proteger & dé os e poûre pPu 5 eudsegudeQeees ntooet soûdégs guse t edeû qdeeDe osofpguetre et eeeoe eomso es vos es urtreses uoeeps esregeot enendts oent des ttos vnurr euscngnons e ds cedpourueq̂e oue9ope nts Peuccteuro Petnop e oõet q qe note eodonédonmpe ou oote Moye L Segnour dsroées 3ee ous e Deu de co et noûre hutere trte eez & eofdsts urs du Susorn Gteê dft deéoespedgees put e peâ Rneetdfgerudrucodeeette Mordhe e escs &gop es de ostes & redutenenMdees rgoë& eschs de eo qunousdeheô egneur dos dtéeoet ugc e eu de uooes omumnuo oeetnttenn u t pe e uue ennee e e n"
-        ],
-        [
-            "Pe LA VLLEDE PsSur e gonque cuquoe dsquenscoposuqespo &qeJpropnûrp nos po e y e os nes yeus vrseCeout pot d vendrot on pur tgs voynt choe quecoue qà neruà ue pLouogd Segur gufs ee 6 Tse quetouuevtçuodc pusy e qurm dfe e epo odgu es ftõnrs ncporeer ps d e4tq onpus tnouée ny emenerpfuems puspecupy mococd Le Segoout e preruer qnggeqoqdsde q 5ms oSeger oe cgprrçonnoeeef deste Le ruordepnemsngptont psnucne fçon & œ de mon Deoné neomoer pus pour m grde SuySegnue p pte Sct N &negrptsoepne QDey nûpsnee âêee ux poes q ortet ds mpgeys t tus eu qu setoene eeuecptrgnevou uoentuéuemu deunt es yex tns t etontofede drgosmnnçoçeuejees doe dege e pus ou mes Enûeees detroezfe foyy es otrpso e vus ctfrty pre d tous omgt&j oüetey votte Sn Npnquesàn dessesVous mne denéde s cg & deupr gueone Sgneus e de soo qumgnoetedte fceeps endreCt ponrquoy e enry votre nfne oncé e vousf crfery deunt es Anges & e vous dorery en vo tre nctTempe Vous muez trée de on o etos & vous mue eucéeen m utec L umered vtce vge entens gnée ur"
-        ],
-        [
-            "25J nous & vousuez donné vne et ernee ee à notre me e dormry donc en Px Segneur pus qu vous pt & e me repoery ur votre promee cr vous etes m force & monrefuge & pour mour de vous memes vous ne me dénere zps m utãte Vous me couurrez de vos epues & vous me c cherez de vos es Votre vetrté nous enuronner p o de on oucer pour nous fre vure heureuemnen dns votre crnte Nous ne redouterons pus es trts des mteux nycruuté des nguës Tous ces Tyrns cherront à vos peds & ces Demons ncr nez e trouueront confus prés de votre utce O chers Enfns qu mhtez oüez e Segneur cr fortfé es gonds de mes poresen nous renuoynt g4 notre Deonné pour etr vne Px vnuere e dns toute etenduë de on Empre ms e c me dns tous es Etts &v comet touteP tre dvne extremeondncenous v grtfer de es en fts uec vne profuon ncroyenous v honorer de es otez me fos pus quon ne çurot eperer de es grces nnoeéPx à tous es Etts proms on mour à tous es Su jets &utce à tous ceux qu trmeront queque choe contre on eruce LA FRANCE Loüez Deu mes chers Enfns de rous uor dé urez du per oumce de mes ngüs vous uoe precptez fns ucun epor de mercorde Ne vous p se fez pont ux Prces ny ux enfns des hommes u quesny pont de Sut pou peronne Leur e prt e duer & tetouruer enterte & meme en ce ou toutes eurs entrepres e reduxone en fu mée Beeureux onte ceux uques e Deu deco et pour de & deques utente et en EtespP 2s P 5 26 ne quft e Ce &Terre Leques grdent ve nté eterneement & eques font ugenent à ceux à qu onft njute & qu donnentnourrture à ceux qu ont fm Le Segneur dée ceux qu ont ez & e Segneur donne umere ux ueuges Le Se gneur redree ceux qu ont froez & e Segneurt yme es utes Le Segneur preferue es ettngersprend en mn orphen &veufue & detrut es voyes des mechnts Le Segneur regner à ms de generton en generton en fueur ne es Peu pes Cet pourquoy Souuern Eterne ource des pus ncts ders orgne des pus utes cones prncpe de toute orte de Bettudes ftes nousgrce de nous dounerPx que nous derns uec des pons ncroyes fn que nos cœurs oent ddonnez à oerunce de vos commndemens & quecrnte des ennems de Ett & dePrre etnt otée nous puons per certe ve uec que que epece de trnquté ous votre ncte Suue grdee 5 r c TOVS LES PEVPLES ERSEMBLE Etnt en des extremes cmrez nous uons ecré́ à vous Segneur du profond de notre cœur fn de de vous upper treumement dexucer nos pntes & fn que vos orees fuent treneues àvox de nos preres Qund votre Dune Meté r men e Roy dns Prs nous fumes tous conoez commee pé neut eté quvn onge Lors notre ouche fut rempe de oye & note ngue de e e Lors toutes es Ntons deerre doent que vous fez de grndes choes pour cet Ett & pour vos puures cretures Segneur reduez notre c ptute comme vous uez redut es torrens ux pys des grndes echerefes Ceux qu ont utres fos"
-        ],
-        [
-            "27 eméen peurs moonnent msnrennt en ee & ce eté fr n pr votre mercorde fn que ceox qu font toutes choes conme ss ne crdyoent ps en vous oyent confus pr e moyen des grces qu vouspeu d nous fre Lesnucres ont des ouurges fts des mns des hormmes s ont ouce & ne prent pont s oveuë & ne voyent pont s ont orees & nenten dent pont s ont nrnes & nodorent pont s out mus & ne ttent pont s ont peds & ne mxchent pont & s ont gorge &ne crent pont Que cex qu nous vendrot perecuter dores n uot oent fts emes à ces does & tous ceux qu e conferont en eur vertu & en eur pu nce Le peupe de RPrncetouours eperé u Segneur &Dune Bontétouours u eté eur gote & eur defene Le Segneur Deu tou jours en memodre &prs on de nous enr depropre ouche Nous ommes ents du Ségneur qucreé toutes choes & qudonné́terre ux fs des hommes Segneur Deu es morts ne vous oüeront ps & mons encore ceux qu decendront ux Enfers ms hous qu vuons & qu vous uons tt dogtons dePx que vous nous uez donmnée nous vous enrons uques àfn des eces LA REYNEMonemgnfe e Segneur3 & mon eprt sé jouye u Deu de mon t qu ft ece &ter ere cr eu efgrd à ee deerunte & pncecous fees me dont dorenunt en heu reue Le Segneourtoutpont d ft de grndes choesesmy6e onjnet vde nte té ncopeenf Snefcode e contnutr degnée exgnéevssceu qu e crgnent & qu?"
-        ],
-        [
-            "28 e reuerent montréforce de on rs & dfpe es peneées & es cones des orgueeux de mes duerres rems e Roy dns on thrô ne à̀confuon des ertns & des mpes comé toutEtt de enedctons & humé ceux qu ne truoent quàperte pts no tre Deudonne on eruteur eprotecton & eu ouuennce de es promees & de es mercor des n qu uos ft eperer à Louys e ute deternee memote Retrez vous done de moy vous tous qu fres ett dnqute cr e Segneusexucévox de mes peurs e Segneurouy m ptere e Segneurreceu mon oron Que tous mes ennems yent honte & oent grndement trouez pus qu men tée de es grces Le Segneur regne que couteFrnce sen éjouy e & que tous es peupes en menent ee Ses grdes ont utour de uy &utce & equté onc e fondement de on trô̂ne Le feu r deuntfce pour redure tous es ennems en cendre es foudres ont ecré urterre & e peupeveu & entremé Vous utesé jouyez vous u Segneur des meruees quftes en fueur du fs né dé on Ege Oy mon Deonné vous etes e pus eu entre es hommes utes grces fon epn duës en vos evres prce que Eterne vousdonnfueur &enedcton eteree Cegnez vo tre epee à votre coté cher ojet de toutes mes e pernces & pouruuez vos ntreprfes uec toute properteé Regnez heureuement ur votre peu pe en proes de verteé de cemence & de utce & notre Deu vous condur à des choes dm es Vos efces guës penetreront uques u cœur de vos ennems & es peupes shonmeront deunt votre fce Ayuez uce & fyez n qutpg que Deu vouscé due de effe pu4"
-        ],
-        [
-            "29 pus exceemnent que tout e rete des utres Pn ces Les fes & es femmes des Roys ont es eux pus honores de votre Ps Roy & e s à otre dextre pour veer u ut de votre peron ne Deu vous fergrce duor vn our des en fns que vous etrez Prnces pr touteterre & votre nom er reconnu de generton en gener ton fn que toutes ortes de peupes vous en ent comme vn Monrque chery de Deu & des hommes LE ROYe ne fus ms pus tsft que qund on me dt que nous rons à Prs L oye que cette nou uee me donn ne e çurot exprmer tn ee etot extreme Mes ens furent tous rus de vot ccue que on my ft contre opnon que que ques muus eprts men uoent donnteme ry dorenunt ces peupes veu qus me cher et uec tnt de pon & qus one zeoz pou mon eruce Ce er à où etry pour rs es ences de m uce e thrôe de mes decen dns &fecte de mon Regne Prez pourrnquoté de Prs fn que Deu veue etendre es propertez ur eonsx qu tnent L px ot en es forterefes & one en es Ps Et à cue qus me ont dees e eur ouhte route orte de trnquté en ce monde cy & vne ve eterueement heureue en utre FN"
-        ],
-        [
-            "dodd dde  teeete?  LAVTHEVR A SA PATRE  SONNET Ends grces ̀ Deu eu de tuor redonné Vn Monrqueeuon venere  L Frnce neut eté qvn omeu dépore  S Ererne en eut utremens ordonné me eme e vor dOuers couronné  En fueur des mortes grndement exore  Agr en Roy de px dvn ortmemore  Que en us sout ruy & Mrs en etonné Fnons doc nos crs ne verons pus de rmes  Ses ngnes vertus & es vnques chrmes  Treopheront e ot & d monde d semps nfnqueque Enfnt qu proe ur terre  mpoe fence ux Demôns deguere  Que ne fe ps ̀ ge de vngt ns?"
-        ],
-        [
-            "ANruoe Cutr de G Gne Sucrn de dches ce Roy deueCond y en es onne de centmmer ms dordocrMured Zrnceoreornet eceud ue Pgnr"
+            "8",
+            "Si l’intemperie ne cede par la potion ſúcrite, on pourr",
+            "ppliquer le Cataplaſme ſuiuant.",
+            "E. Pulueris calcis viue lib. ii. auripig.g. ii. ſtercoris",
+            "felis pug. i. pulueris ſublimati, vitrioli ana. onc. vi. can",
+            "taridarum allatarum drag. ix gummi pinilib vi ſem. fer",
+            "mentiacidi, ſcrup viii. miſſeantur; ita omnia inſuffieien",
+            "ti quantitate aque ſecundæ, fiat cataplaſma applicetur.",
+            "F I N.",
+            "A COLOGNE.",
+            "M. DC. LI."
         ]
     ]
 }

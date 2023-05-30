@@ -1,48 +1,118 @@
 {
     "entête": {
         "form": "vers",
-        "genre": [
-            "stances",
-            "chanson"
-        ],
-        "subject": [
-            "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
-            "Paris (France), Bois de Vincennes"
-        ],
+        "genre": "non renseigné",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-13",
+        "creation": "1650-01-18",
         "change": {
             "@status": "corrected",
             "@when": "2022-06-03",
             "@who": "ZC"
         },
-        "titre": "La sortie de monseigneur le duc de Beaufort du bois de\n          Vincennes. Stances.",
+        "titre": "Le soufflet de la fortune, donué au prince de\n          Condé.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3695_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3698_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L sorte de monsegneur e duc de Beufort du os de Vncennes Stnces Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Somon de Prezc Sorte () de monsegneur e duc de Beufort du os de Vncennes Stnces Prs Ron de L Hye 649 Texte prutrosème semne de jnver 649 dprès H Crrer Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y467TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En versstnces sept dzns doctosyes suf e derner vers qu est un exndrn Autre édtonvec p de ttre même dresse 649 4 p(BM00626) Ttre de déprt Pr Somon de Prezc dprès Cornescu confrmé pr Huert Crrer (Bothèque Mzrne Ms 468 f 273v) Texte prutrosème semne de jnver 649 dprès H Crrer 3695 Sorte () de monsegneur e duc de Beufort du os de Vncennes Stnces Prs Ron de L y Hye (649) 4 pges VdF* £ 3»97 (2*vers stnces chnson Beufort Frnços de Bouroendôme duc de 669 Prs (Frnce) Bos de VncennesArrvée du duc de Beufort à Prs 64"
+            "LE",
+            "SOVFLET",
+            "DE LA",
+            "FORTVNE,",
+            "Donné au Prince de Condé.",
+            "M. DC. L."
         ],
         [
-            "LA SORTE  DE MONSEGNEVR  LE DVC  DE BEAVFORT  DV BOS DE VNCENNES  STANCES  DEMEVRE ffreue & formde Sejour où prede horreur  fé Chteu dont e eu nom ft peur  A nnocent comme u coupe  Supere ms trte pron  Quon eut ds peu de ron  De trmer de Tours effroyes  e e re ee er Nempechẽt ps quvn Duc néchppe de ton en  A  4"
+            "LE",
+            "SOVFLET",
+            "DE LA",
+            "FORTVNE,",
+            "Donné au Prince de Condé.",
+            "JA! Prince de Condé, vous eſtes vn Factieux,",
+            "IU Vous vouliez Furibond preſque eſcheller les",
+            "Cieux,",
+            "C’eurquoy ous aue n reuers deForne,",
+            "Touarant qu’eſtiez haut vous voila abaiſſé,",
+            "nei eun eon eue l no e en rna",
+            "Sé3",
+            "Vous auez laiſſé Dieu, eſtant pis qu’vn Ath́e,",
+            "Et vous auez veſcu d’vne vie hebetée,",
+            "Viuant en Ihreſtien, bien plus mal que les Iuifs,",
+            "Souffrant des cruautez, & les faiſant conmettre,",
+            "Que de faire eſeorcher, & de bruſler tous vifs",
+            "Des pauures Innocens, des Vieillards, & des Preſtres.",
+            "8.",
+            "L , saaas a",
+            "A i"
         ],
         [
-            "e5  Ce Donjon qu morgueTerre  Et dont e ffte mpereux  Séeunt uques dns es Ceu  Mépre es coups de Tonnerre  Ce eu qu te ert dornement ps veu dns vn momen  Renuerer ̀ s on udce  Lrtfceurmonté  Et ces murs ont cedépce  Aus urprenns efforts deutté  8  Ouy grnd &genereux courge  e us dns dmrton  De vor pr quee nuenton  Tu tes grenty du nufrgee  Ton esprtuué ton corps ftré du rng des morts  Pr vn moyen épouuente  Auß te voynt hors des fors  Joe tenr pour vente  Que nons pouuons forcer es ochots des nfers  s"
+            "4",
+            "Venant à y penſer mon iugement S’eſgare,",
+            "Voir qu’ín prince Erançois aie elſté ſi Batbadre",
+            "Que de faire des maux indignes à recitere",
+            "Combien de filles ’onviolées, maſſacrées?",
+            "Combienluy & ſes gens ont ils oſé porter",
+            "Leurs ſacrileges mains ſur les chopſes ſacrées.",
+            "oee",
+            "Ha! combien de lieux faincts, & d’Eſouillées,",
+            "Dans icelles on voyoit les filles violées",
+            "Par le commandement de ce voluptueux,",
+            "Qui faiſoient de grands maux de minutes en minutes,",
+            "Les Turcs auroient eſté bien plus reſpectueux,",
+            "Et n’auroient iamais fait ce que faiſoient ces brutes.",
+            "e4",
+            "Vous braues Orateuirs dõnt la langue faconde",
+            "L’auez tant autrefois vanté par tout le monde,",
+            "Et aux plus grnds Heros vous l’auez comPal",
+            "Ne l’eſtimaſit pas moins qu’Hereules & Alexfre;",
+            "Que de palmes & lauriers luy ’on preparé,",
+            "Mais il faut à preſent bien le faire deſcendre.",
+            "ée.",
+            "Qu’il ſonge à Bazajet, Richard & Ptolomée,",
+            "Dont autrefois eſt dit grande la renommée,",
+            "Dé combien de malheurs ne furent palonnez,",
+            "Et plus que Balthanar il a fait d’inſolences;",
+            "Car lesvaſes ſacrez il a tant prophanez,",
+            "Et fait faire par tout de grandes violences.",
+            "Ha!"
         ],
         [
-            "3  & e  Certes qund e te condere  Decendre ̀ yde de tes rs  Et fondre comme vne dge en u  Mon cœur pre & ne e peut tre  De cet effroye dnger  Vn cordeu t eu deggor 0  Et toter des mns de Enue  E on Dueuque trnge ort  8  e qu rut fouuentve  Te uue heureuement du gue demot  3  A cette ute voence  Vn Eempt vouut soppoer  Que uy erut de reter  Ton rs e mt hors de defenee  En vn & ̀ dueres fo  J tchot déeuervox  Lngoe e force ̀ e trs  Quon te oue uec ron  Pus quu pus fort de t coere  Vu e fs euement rder comme vn Oyon ?    2 ?"
-        ],
-        [
-            "8  5  Enfn uunt t deftnée  Tu te coues dns e fofßé  Et ton corps ̀ demy froßé  Sent t vertu dmnuée  Les forces mnquerent ̀ ton cœur  Nentmons ton me nst peur  Trrche du Bos de Vncennes  Heus grnd Prnce qu ft o  Per ur es fots deSene  Putot que ur es fots du funete Acheron  Adeu fcheue otude  Douu regrdnt ces Tours  Adeu Portes qu tous s ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes ps  Adeu deoéRmée  Peurez m perte ns exce  Cmez votre rge nmée  Vous ue mon Chpeu ftes uy on rocez  F N  A PARS Chez Ro D A HV ptés e Puts Cer"
+            "5",
+            "4a! Prnee malheureux, plain d’vn eſpritinique,",
+            "Vousous eſtes monſtré cruel & tyrannique,",
+            "Car vous auez bien fait pis que ce Roy Payen,",
+            "Dauoir tant enduré d’execrables malices,",
+            "D’autant que l’on a veu par voſtre ſeul moyen",
+            "Soüiller pa tant de fois nos precieux Calices.",
+            "ti4e",
+            "Qui auroit iamais eru qu’vn Prince Catholique",
+            "Eaſſe eſté le Chef d’vne Armée ſninique,",
+            "Qui ont en pluſieurs lieu tant de maux effectuel,",
+            "Tuant & violanttant de Religieuſes,",
+            "Et en diuers endroits les Temples pnlus,",
+            "Enfin faiſanit patous des choſes odieuſes,.",
+            "ee",
+            "Vous penſiez bien Condé ruiner noſtre ville,",
+            "Mais on voit à preſent voſtre enuie inutile,",
+            "Et le deſſein qu’auiez meſchamment conſpiré,",
+            "Vous penſiez tout gaigner par vne haute lute:;",
+            "Songez a Abiron, Dathan & à Choré,",
+            "Qui pour trop s’eſleuer firent vne grande cheute",
+            "es",
+            "Veneoneoeoe r ane ne e l on eti",
+            "Et qu’il ſ̧ait du meſchant le deſſein renuerſer:",
+            "Vous voila bien trompé l’affaire eſt eſuentée,",
+            "C’eſt pourquoy il vous faut de beaucoup rabaiſſer,,",
+            "Vous voulez faire vn vol de trop haute portée."
         ]
     ]
 }

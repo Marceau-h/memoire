@@ -2,61 +2,176 @@
     "entête": {
         "form": "vers",
         "genre": [
-            "poésie",
-            "burlesque",
-            "satirique"
+            "requête",
+            "rhétorique délibérative",
+            "burlesque"
         ],
-        "subject": null,
+        "subject": [
+            "Scarron",
+            "Le Mans (Sarthe)",
+            "France -- 1648-1653 (Fronde)"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1648-04",
+        "creation": "1649-03-04",
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-08",
+            "@when": "2022-02-17",
             "@who": "AB"
         },
-        "titre": "Requête burlesque des partisans au Parlement.",
-        "dates": [
-            {
-                "@type": "file_creation",
-                "@when": "2021-02-11",
-                "#text": "11 février 2021"
-            },
-            {
-                "@type": "correction",
-                "@when": "2021-03-25",
-                "#text": "25 mars 2021"
-            }
-        ],
+        "titre": "Requête burlesque présentée à la reine par les chapons du\n          Mans, députés des Manceaux, sur les désordres faits par les gens de guerre en leur\n          province.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
         "langue": "fra",
-        "fichier": "Moreau3466_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3467_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Requête uresque des prtsns u Prement Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy Jeptste Hp AméeVctreProjet ANTONOMAZ / Soronne Unversté févrer 202 25 mrs 202 Requête uresque des prtsns u Prement Prs Jcques Guery 649 Prs Bothèque ntone de Frnce Déprtement Lttérture et rt Y75TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3466 Requête uresque des prtsns u Prement> ) Prs Jcques Guery 649 8 pges Surchmre de justce Luteur dt à messeurs des enquêtes« Du ce nttrezcoèreEn fsnt mourr vostre mère ( Mtôte)Et sns déérer suvez L ve à qu vousdevez » Jcques Guery endonné une utre édton sous e ttre de • Requête des prtsns etcvers poése uresque strque Avr 648 644"
+            "REQVESTE",
+            "BVRLESQVE",
+            "PRESENTEE A LA",
+            "REINE",
+            "PAR LES",
+            "CHAPONS DU MANS",
+            "DEPVTEZ DES MANSEAVX",
+            "SVR LES DESORDRES FAITS",
+            "Par les Gens de Guerre",
+            "en leur Prouince."
         ],
         [
-            "REQVESTE BVRLESQVE DES PARTSANS AV PARLEMENTA PARS Chez ACQVES GVLLERY ruë des Sept Voyes deunt e Coege de Fortet proche de Mongu M DC XLX"
+            "REQVESTE",
+            "BVRLESQVES",
+            "PRESENTE A LA REINE",
+            "PAR LES CHAPONS",
+            "DV MAINE.",
+            "DEPVTEZ DES MANS EAVX",
+            "SVR LS DESORDRES FAIT6",
+            "Par les Gens de uerre,",
+            "en leur Province.,",
+            "Heiepe e ediene l leue.",
+            "Que les Manſoaunont deput",
+            "Aupres de votre Majeſteé,",
+            "Saebant bien, que dams voue Chambre.",
+            "Où rout autre Deputeé tremble,",
+            "Nous parlerons plus hautement,",
+            "Que ceun qui palen molement.",
+            "Ayant eu accez favorable,",
+            "Ayant eu place à̀ votre Table,"
         ],
         [
-            "REQVESTE BVRLESQVES DES PARTSANS AV PARLEMENT SVPPLE uec humté  Le Scndcq & Communuté  De Agent qu drgent de peupe  Au en es grnds que e peupe  Mtoters utrement nommez  Mordns comme Loups ffmez  Exgens ur toutes denrées  Drots de ortes ou en dentrées  Prenns force decoctons  Dmpots ou de Suuentons  Mngens en ques ou meettes  Du puure peupeCete  Prenns tous es ours vn oüon  Dydes de Tes & de Ton  Aynt eux ogs eux Crroes  Et cheuux qu ne ont ps roes  Meuez comme gros Fnncers  Et vetus en me ouders  Fns grnd feu & onne te  Ms u depens du mere  oüns àprme & grnd fux  Les drots & gges des Eeuz  Mntenntgueue rce  Qus nont ps vn ht qu ve  Et es femmes à tous es ours  Mettent eurs ntques rours  A fute de trouuer des dupes  Qu eur ent nouuees upes  Dont certes cet mout grnd pté  Pour eux & eur chere moté  Qu v gues & joyux vendre  Pour demm deffendre"
+            "Oi maſme le Pnos d Sang",
+            "eon unui peui n de euns",
+            "Diſant, que la Paix eant faite,",
+            "e ele dſl uee qeon miire,",
+            "r elaſe peut, t ce Trait6?",
+            "A té daux is arfeae;",
+            "Et neant moins au prejudice,",
+            "Comme ſt l’o etoit eomplice",
+            "e odn e i lu ſlnie quini aueai",
+            "C mlhe ſ dou doi,le,r,",
+            "On la traue camme coupables,",
+            "On y defonce, pipe de diables,",
+            "Ae qu’on die, pour avoir pns",
+            "Vn peu de ſel à trop bon pris,",
+            "Dvn Geeral, qu’vn chaicun nomme,",
+            "La oulaye trea honneſtehomme,",
+            "Et digme do l’aſtetion",
+            "De la Manſelle naion.",
+            "hacun. di, quo c’eſ le crime,",
+            "SQa lens nes da houuuſe eune",
+            "Et qui fait rompe le Tairte,",
+            "e voueſme avez arreſte:",
+            "S c’eſt phus avoir pris les armes,",
+            "oqus l’on lea it aur alnme,",
+            "Seonr dſbunidt ant ’lemns",
+            "Pour aſfligez la pauvre Manms,",
+            "aus dune que toue lu Pmane",
+            "Faſſe la meſime petence,",
+            "Etan"
         ],
         [
-            "S genture & on mry  Qu de ce et tres fort mrry  Ms fut pperfure  De Moneur e ventre qu cre  Et voudrot en tnt etre gouu  Qu ne fut pont ventre dvn Eeu  Et de tee mgtrture  Ne trer ucune nourrture  Se voynt trtter en coqun  Quoy qus portent oye & tn  Et urnt s n dequoy ptre  Denuoyer u De on Mtre  Qu nynt me ny dener  Tout on ou e e crer  ds foent en utre chere  Qund y uot mondre mere  Cr mnnt qund chez eux ot  Sous ure porter ouot  Pour etre rué de te  Gre oye ou en queque voe  Dutre fos perdrx ou Lpn  Achepté de on nct Crepn  Tee vnde etot chere  Pus que cee de ouchere  Que mntos on deot  Pur e Chppon qu rotot  Ms à preent que nu npporte  Et que neceté tres forte  Retent e Pyn chez oy  Pour fre deners pour e Roy  Et vendnt cheuux & chruë  Pour uuenr àgrnd cruë  Noznt sen venr u mrché  De crnte dy etre ccroché  Pr ttetes quon ppote  Pour e fre decendre en pote  Dns vn Repre de Crpux  A fute de pyer on tux  Dedette du Vge  Se ent en eur puure menge Pus"
+            "Etant criminelle auſſi bien,",
+            "D’avoir mal commis vn rien,",
+            "Vn rien pourtant, qui eſt la cauſe,",
+            "Qe gregue à bas, & ſur la chaude,",
+            "On ſangle Manceaux diligens",
+            "A ſecourir certaines gens,",
+            "Qi ſe ſont mis dedans la preſſe,",
+            "Et le pis eſt qu’on les y laſſe,",
+            "Pendant que des loups acham,.",
+            "Pires que des anges damnez,",
+            "Mettent au ac & au pillage,",
+            "Et meſme au feu ville & village,",
+            "De maniere que tout s’en ſent,",
+            "Noueſmes qui ſommes preſens,",
+            "Nous avons part à la querelle,",
+            "On nous livre guerre mortelle,",
+            "Et tout ainſi qu’au Carnaval,",
+            "On nous fait ſouffrir bien du mal:",
+            "Vous avez ordonneé, Madame,",
+            "ue tout paſſeroit par la lamne,",
+            "Par le fer, & par la priſon,",
+            "Et qu’on pren droit tout à rançon,",
+            "Sans avoir donné ſauvegarde",
+            "Aux Chapons, dignes de la barde,",
+            "Q meritons avoir employ",
+            "A la table de notre Roy;",
+            "Et nonobſtant notre merite,",
+            "On nous met dans vne marmite",
+            "E",
+            "?"
         ],
         [
-            "5  Pus tous eurs gges retrnchez  Font qus ont m enhrnchez  Et quen eurs Cunes & Cues  Nyque du Cdre & des rues  Encore cet choe cre à tous  Qus nen mãgent ps tous eur ous  Leur te en puureté upere  Fct quon dt en commun prouere net ren demorfondu  QueCune dvn Eeu  Sns que de te dre on excepte  Predens ou fns recepte  Qu nont urtrte troupeu  Quvne vox pus & vn ureu  Ms en nt à eur me  Etproxe prenthee  Vous remontrent es Prtns  De toutes epeces DSANS  Qus ont pprs àeure  Que Mjeté quoy que mneure  Sns reféchr pr ee ez  Deus eurs eruces pez  A creé Chmre de utce  Pour que Fnncers on pune  Ms pourtnt cet vn à çuor  Sy Regenteeu e pouuor  De fumner des ues tees  A es ons Suectsmortees  Cr cet en purs termes de drot  Tout ce que Mjeur pourrot  Ne tennt eu que de Tutrce  Et de mpe dmntrtrce  Qu ne peut ren ns nuté  Chnger durnt mnorté  Or ce fntonne Reyne  Sns doute e fondz ene  Du Roy notre Mtre on Fs  Quon çt etre u rng des pups  Et qu et dns on ndgence  Secouru de notre fnnce B"
+            "Sans nous plumer, aà demorts",
+            "On enſevelit là nos corps;",
+            "Ainſi l’on nous coupe, on nous taille,",
+            "Et cette brutale canaille,",
+            "Sans reſpect d’vn manger de Roy,",
+            "Si fort priſé dans ſon convoy,",
+            "Tant que la pance laur en creve,",
+            "Ne nous donne ny paix, ny tréve,",
+            "Non plus qu’à ces triſtes Manceaux,",
+            "Q’à ces deſolez Provenceaux,",
+            "Qui ſont pour lors en grande peine.",
+            "CE CONSIDERE, grande Reine,",
+            "u’au préjudice d’vn Traitré,",
+            "Qe Voueſme avez arreté,",
+            "On expoſe tout au pillage,",
+            "Et biens. & vie, & pucelage,",
+            "Sans que rien en ſoit excepté.",
+            "plaiſe aà votre Majeſté,",
+            "De rappeller toute cohorte,",
+            "Qqui le maeur avec ſoy porte,",
+            "Laſſer en paix la nation,",
+            "Qi n’eut jamais d’intention",
+            "De s’armer contre notre Prince,",
+            "Laiſſer en paix cette Province,",
+            "Qe l’on maraite vn peu trop fort,",
+            "Non pas à droit, mais blea à rort;",
+            "Et peemettre que notre Troupe,",
+            "Digne d’eſtre dans votre ſoupe,"
         ],
         [
-            "Sy que ns notre credt prompt  LEtt eut receu mnt ffront  Cependnt nous donnntche  Comme à queque mudte rce  De nous outrger on permet  Et pr te Edt on nous met  Nous dont rgent outetFrnce  Dns e dnger dePotence  A Noegneurs ce conderé vous pe de votre gré  Nous receuor pr ces preentes  Appens de tees ptentes  Tnt comme dus en contnt  Quuy de juge ncompetnt  Ms dncompet ez notore  An quen uons on memore  Et de te enregtrement  Comme ft precptément  Sns pece veuë àvoée  Sns prtes ouyes ou ppeees  Sur des deffuts m otenus  Et dres de nouueux venus  De peu dge & dexperence  Dns es mteres de Fnnces  Qu ne peuuent encore çuor  Comenft on uor  A ttre de on Penonnre  Ou en en queque utre mnere  Tnt yque nous outenons  Que nos moyens dppe ont ons  Et ot u fondz ot enforme  Yvce en tee reforme  Enforme s utcers  Ne ont uges de Fnncers  Or Prement (cet votre grce)  A euement utce e  Etchternous fut  Ce dot etre Chmre dEut  Au fonds voer Prnce & Ptre  Net ps vn crme quon chte"
-        ],
-        [
-            "On e ouffre pour fre court  Aux Prounces comme àCour  Et ong de e punr en Frnce  Au contrre on e recompene  Encore dutres moyens uons  Que en coneez reeruons  Pus que ceuy on dedgne  Aux es dvn utre regne  Où connotr poterté  Quen ce trop vte oneté  Et quon ft chmre de utce  Pour mnger nouueu pEpce  Et non pont pour ucuns uectz  Vtes à Prnces & ujectz  An comme tout chcun conte  Qu et pourtnt vn grnd meconte  Donc ur notre ppe drot fnt  Fut Noegneurs dés à preent  Decrer cette ee Bue  Vteue uue & nue  Pour es cs touchés ceus  Et en dutres qu ne ont ceus  Du mons nous donner unce  Ou putot de onnes deffences  Fnt ur pene dttentt  Demeurer choes en ett  Quepr vn coup qu nous outre  Nonotnt ppe on putre  Sns nuement y deferer  Affn de nous deeperer  Non pus que Requete Cue  De chcne derner zye  Ou propoton derreur  Voyes de drot & de douceur  Du mons yns egrd ux offres  Que fons de vuder nos coffres  Defnnce quuons prs  En vertu de egons dEdtz  Pns de Cre de mnte orte  Ms non ps pourtnt ez forte"
-        ],
-        [
-            "8  Aynt pour durer onguement  Beon du ceu du Prement  Et de ces pumes ouuernes  Qu rendent ptentes certnes  Et ns quoy nyeureté  Dduncer àMjeté  Donnez vne ordonnnce prompte  Que prtes vendront à compte  S deuons vouons en ce cs  Pyer comptnt es requs  Que utce qu nous nterne  Contre eue ource decerne  Vent ou pre de Corps  S en que corde en ot dehors  Aez ce nous et dnfortune  De donner toute notre pecune  Sns etre encore comme oetz  Pendnt dorees de getz  Et vous Noegneurs des Enquetes  Qu grondez comme des Tempetes  Songez ns ruer pus grnds coups  Que ommes hommes comme vous  Que votre corps quhut cme  Cee de chnter notre gme  Suunt exempe du Segneur  Qu ne veutmort du pecheur  Ayes compon de toute  L fme deMtoute  Aucuns de vous en pffns  Ont honneur detre es Enfns  Du Ce nttrezcoere  En fnt mourr votre Mere  Et ns deerer uuez  L ve à qu vousdeuez  Pour votre ng fermezouche  Et quutre nteret ne vous touche  Fnt n vous ferez en  Et meux encore nen fnt ren  FN"
+            "Avec tous ceux qui ſont reſtex",
+            "Par les deſordres, écartez,",
+            "Qui ont eu part aà la diſgrace,",
+            "Puſſe renrer en votre gace,",
+            "Et en chaſſer l’Italien:",
+            "Faite done, & ferez bien.",
+            "QOQIT fuit anſt qu’il ſt rqui",
+            "Et que de Gerzé le Marqu i,",
+            "Avec certe brutale bande,",
+            "Sorte du Maine, ou qu’on le pende;",
+            "Defence à luy, faire degas,",
+            "Si ce n’eſt par le Pais. Bas;",
+            "Aau Payas toute licence,",
+            "Pendanms & apres ma egence.",
+            "FIN."
         ]
     ]
 }

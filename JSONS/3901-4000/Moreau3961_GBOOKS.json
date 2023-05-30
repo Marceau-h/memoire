@@ -1,75 +1,108 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "narration",
-            "réponse"
-        ],
-        "subject": "Parlement de Paris",
-        "handwritten_note": false,
+        "genre": "réponse",
+        "handwritten_note": true,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1650-09-02",
+        "creation": "1652-01-24",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-20",
+            "@when": "2022-02-17",
             "@who": "AB"
         },
-        "titre": "La véritable réponse faite par les dames du Parlement de\n          Paris à la lettre qui leur a été écrite par les dames du Parlement de Bordeaux, pour les\n          remercier de la paix, suivant l'extrait tiré de leurs registres, contenant un agréable\n          récit de ce qui s'est passé à Bordeaux durant que la cour y a demeuré.",
+        "titre": "La véritable réponse que M. le garde des sceaux a faite à\n          messieurs les députés du Parlement, de la part de Sa Majesté.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-20",
-            "#text": "26 avril 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3961_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3962_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L vérte réponse fte pr es dmes du Prement de Prs àettre qu eurété écrte pr es dmes du Prement de Bordeux pour es remercer depx suvnt extrt tré de eurs regstres contennt un grée réct de ce qu sest pssé à Bordeux durnt quecour ydemeuré Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Vérte () réponse fte pr es dmes du Prement de Prs àettre qu eurété écrte pr es dmes du Prement de Bordeux pour es remercer depx suvnt extrt tré de eurs regstres contennt un grée réct de ce qu sest pssé à Bordeux durnt quecour ydemeuré Sns LeuSns Nom650 octore 650 Londres The Brtsh Lrry Gener Reference Coecton DRT Dgt Store 8050g38(48)TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs396 Vérte () réponse fte pr es dmes du Prement de Prs àettre qu eurété écrte pr es dmes du Prement de Bordeux pour es remer cer depx suvnt extrt tré de eurs regstres contennt un grée réct de ce qu sest pssé à Bor deux durnt quecour ydemeuré (S ) 650 4 pges Rre Sgnédme Du Tet VorCope deréponse etcprose nrrton réponse Prement de PrsOuvertures de px pr rchduc Léopod 652"
+            "LA VERITABLE",
+            "RESPONSE",
+            "QVE MONSIEVR",
+            "LE GARDE DES SCEAVX",
+            "fait à Meſſieurs les Deputez du",
+            "Parlement, de la part de Sa Ma",
+            "jeſté.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinaires du Roy.",
+            "Auec Priuilege de ſa Majeſté.",
+            "e 25. janvier"
         ],
         [
-            "LA VERTABLE RESPONSE PAR LES DAMES DV PARLEMENT DE PARS ALetre qu eureté ecte PAR LES DAMES DV PARLEMENT DE BORDEAUX Pour es remercer depx uunt extrct tré de eurs Regtres Contennt vn gre rect de ce qu sef pé ̀ Bordeux durnt e temps queCour ydemeuré M DC L"
+            "ecles paſſez, le Parlement a touſioursren",
+            "du des preuues de ſon affection enuers l’E",
+            "ſtat, comme les actions ſe ſuiuent; & que le",
+            "meſme eſprit les anime: Auſſi ſa Majeſté",
+            "S’aſſeur’elle qu’il témoignera touſiours",
+            "on inuiolable fidelité.",
+            "Il eſt bien iuſte que cette premiere Com",
+            "pagnie du Royaume donne toû̂jours exem",
+            "ple de ſouſmiſſion & d’obeiſſance à tous les",
+            "Peuples. Elle n’a pas ſçeu que M le Cardinal",
+            "Mazarin a receu les ordres de ſa Majeſté́,",
+            "pour faire des leuées de Gensdt guerre; &",
+            "uſſi, ſi elle a exercé à̀ l’encontre d luy l",
+            "eureté des Loix, comme contre ceux qu",
+            "violent les ordres publics: Elle n’a pas",
+            "çeu auſſi qu’il luy euſt eſté commandé",
+            "d’entrer en France, & d’amaner ſes trou",
+            "pes afin’ des’en’ ſeruir, fortifier les Aiḿes",
+            "du Roy, & aller plus promptement çom",
+            "battre les rebelles.",
+            "Ecoies que d’expoſer ſà vie n proyé, &",
+            "de petmettfe de e prendre vif ou lmort,",
+            "oit vn procedé du tout extraordinaite ſans",
+            "exemple, & dont vous iugez aſſez les con",
+            "ſequences"
         ],
         [
-            "ADVERTSSEMENT AV LECTEVR LEs Dmes du Premsent de Bordeux ynt ecrt Aux Dmes du Prement de Prs vnme Lettre de remercemet depx quees eur uoent procurée commecuhté́ et nepre de ce e exees Dmes de Prs eur ont ftRepome que vos ez vor qu et fdeement extrcte de eurs Regres Ceft dus vous ef donné fn que vous ne croyez ps quvne pece qucouru pus queques ours osver ste Repone de ces Dmes"
+            "equences;Mais maintenant qu’elle appren 3s7.",
+            "drapar vous, Meſſieurs, les ordres qu’il a",
+            "receus, & tout ce qui s’eſt paſſé; on ſe",
+            "peut promettre qu’elle diminuera beau",
+            "coup de cette premiere rigueur, & qu’el",
+            "le joindra ſes forces auec celles de ſa Ma",
+            "jeſté, pour diſpoſer toutes choſes au cal",
+            "me ſi deſiré d’vn chacun, & ſi neceſſaire",
+            "à tous.",
+            "Il demande inſtamment de ſe iuſtifier;",
+            "urquoy le Roy prendra ſes reſolutions,",
+            "qu’il fera bieoſt ſçauoir à la Compagnie;",
+            "utrement reſteroit à̀ ſa Majeſté́ & à",
+            "vous auſſi ſans doute, vn extréme regret,",
+            "que le meſme eſprit ne ſe trouuaſt pas en",
+            "celuy qui commande, & en ceux qui doi",
+            "uent obeir.",
+            "Elle ſçait bien que ce n’eſt pas aſſez que",
+            "es Loix ſoient iuſtes, ſi la iuſtice d’icelles",
+            "n’eſt reconnue par ceux qui y doiuent eſtre",
+            "ouſmis, & qui les doiuent executer.",
+            "Mais il importe de ne ſe meſconter pas, &",
+            "que ceux qui doiuent en fin ceder n’entre",
+            "prennent pas de l’emporter par vne fermeté",
+            "B"
         ],
         [
-            "3 L verte Repone fte pr es Dmes du Prement de Prs ̀Lettre qu eur eté ecrte pr es Dmes duPrement de Bordeux pour es renmercer depx u unt extrt tré de eurs Regtres ESDAMES Le eruce que nous uons eu e onheur de vous rendte en contrunt tous nos ons à vous donnerpx ne mertot ps deeux Remercemens que ceux que vous nous uez fts puque vos nterets & s notres netnt quvne meme choe nous ne pou uons ns vouor nous memes yder à nous detrure nous empecher dgr pour rreter e cours des voen ces que votre Gouuerneur poué & protegé pr no tre Ennemy commun vous fot reentr Nous urons pprehendé ns doute es derners efforts derge & es cruees vengences qu medtot contre vousnous neuons reconnu qupres nous uor ttquées es premeres uec utnt de honte que de temertécourot àrune en vount entrepren dre de urmonter vne ntonrue quevotrevouut nou vncre prfm & à vous prforceuou ferm epge des vures &à voufutvous"
-        ],
-        [
-            "3 teequ uques dns vos fuuxourgs Ce e nge neur dee ege de Prs & eeuy de Bordeux ur vn p deme qu ne tendot pourtut qu vne meme fn qu etot dtfermrtynte ur es ru nes de ces deux grndes ves m e Ceset ry de esdeens &ft uorter es funetes peneées es pro jets temerres nont ft quugmenterhonte & ccrotregore des tromphes que Meeurs vos Mrs & vos rues Bourgeos ont cqus ur ce nou ueu Guerrer venu comme vous dttes dte Vous nous uez repreenté Medmes deonne grceveur de vos Htns & nous en uons veu de deçà des Retons en des termeseux(que vos Courers Bordeos nous ont ouuent ft vor) quen hnt des pecesen ftes nous uons etme qu fot de orms pour prendre à en prer Frn ç̧os qutter es ords deSene & du Lote & ser etr urceux dOone On ne nousps euement de crteuteé de vos chrmns vges ms encore vo tre veur votre geueroteé́ &grndeur de votre courgeTntot on vousrepreentées occupées à tr uer uec vos ees mns à vos fortfctons tntot à repouer vos ennems du ped de vos mures& tn rot à nmer vos mrs u comt Nous eurns uec regret veu fnr cette guerre pus quee vous donnort tous es ours de noüuees occõs dquerr dego re vous ne nous uéz temogneé duor quequetsf ct̃ de px que vous etmez uor orenüpr no etremes ms nous urons en ouhté́ quee vous"
-        ],
-        [
-            "vous eut eté encore ps goreue & que vos Com mres euent econdévguer que nos deux u tres Deputez Meeurs de Lrtge & Btut ont tous jours ft protre pour nteret de Bordeux & hon neur de votre Prement Vous nous permettrez en Medmes de vous dre ur ce ujet uecerté qu dot etre perme entre des peronnes qu nont quvn meme nteret que nous uons pprs que dns es Conferences quonftes à Bourg tous vos Com mres(àreerue dvn) ont eucoupreché& qu n ps tenu ux deux Medteurs que e Gouuer nement de votre Prounce nt eté́ rempy dvne per onne quns doute vous erot u gree que e Duc dEpernon set rendu odeux Nous nuons ps ppts ques motfs s ont eu pour ne sttcher ps for temet à̀ des choes qu eur uoent eté promes p r M e Duc dOrens & que nos mrs eur uoent eurées ny pourquoy s nont ps nté queDec rto fut ddreeée à notte Prement pour y etre vertésde meme quen ceux de Thooze & Bordeux Mset en fce de uger que es grnds dunt ges quever de vos rues Bourgeos uoent c qus ur vos ennens eur deuoent fre eperer effet de toutes eurs demndes On noustemogné qus setoent excuez urpree que eur donnoent que quens de vos Htns der fre vendnges & que eete cn erton es uot ogez de concuere à hte es rtces de px Certnemente des e vendnger euts v gnes es fot preezfut d B"
-        ],
-        [
-            "6 re que Bcchus ̀ fny votre guerre que Ceres ut ft commencer ors que e Duc dEpernon nono tnt es cmeurs de vos peupes donnot des pe ports pourtrtte des eds Ms on̂ Me dmes tous ces petts reprochesvous etes conten es nous es ommes u & nous ne doutons ps queoye que vous uez euë de vor dns votre ve e pus eu e pus yme & e pus ccompy des Roys qu fut ms ne vous t ceement trnportées que vous nen yez ement oué tous es mux de vos guerres pées Nous vouons pourtnt crore queveüe mportune de ce fcheux Mntre qu e ut en tous eux ur eucoup trouéoye qup portotpreence de ce Prnce gree duque mge uot tousjours eté́vuement gruée dns e fonds de vos cœurs & uous ngnorons ps que cette omre & ocure nûeée & pus rouge pr es n gns mouuemens de on cœur que prtenture depourpre nt ouuent deroe à vos yeuxu mere de cet Atre dmre & de ce eu Sot qu dns on Orent nous repnd deduces nfunces & nous ft eperer dns es utes des ours devues crtez Vous nuez ps peutre encores ceu Me dmes e Tromphe pompeux que ce grnd Conque rnt uot prepré́ s fut entré vctoreux à Bordeux Nous en uons pprs queques prtcurtez des ou urers de Prs qu uot empoyez pour en dreer p pre &pompe Ce grnd ues à exempe des Fmpereurs Romns dontporte e nom & dont"
-        ],
-        [
-            "etu (éofmfme vous euez ) en gne crconfexe de uot en entrnt à Bordeux u eu dvn croe ord nre monter dns vn upere chr de tromphe dont tous es ornemens dorez de or de nos Lous repre entoent es utres decendns derce Mzrne t etre tré pr qutre de es yn ges tteez de front qu uot ft venr expreement des udes es pus grnds que on t ms veus & qutre mtoters redns ̀ Bordeux qu uot d uerts de on deen (cr vous çuez que Mzrntousjours fort ymeé cette orte de gens) deuoent por ter ur ce chr vn ds mgnfque ft dvne epece de roderepus zrre qu e ot ms fte on y eut veu pueurs prts nouueuxgee e o pourure e tozé des mons & me utres emes m totes Ces qutre peronnges vous ont ez connus pus qus ont demeurns à̀ Bordeux vn et de vo tre ve utre et Guepn e troeme et vn ten ruzeé & e qutreme vn perfde Mnceu Ce chr deuot etre precedé de f Cotte ( que vous dtes Medmes etre ujette à toutes es croteques n fuences ) porteé́e pr vn de es etfers tout u oue dvne pcque cetpece mytereue que vous de uez e pus crndre à Bordeuxuot ft erment ( tenntcotte àmn ors qu etot à Djon prnt à vos Deputez) der en Guyenne pour de trure Bordux qu protet uy etre u fce que doter & remettre cette ee cotte urtetepus creue qu ms etésetot mgné quveue"
-        ],
-        [
-            "de cete mrcueue reque vos mures e renuere roent deeemes comme utresfos nos Predc teurs nous ont rconté quetomerent cees dvne f meue ve du temps de ouü̈é Ms deunt tout & er premer eu deuoent mrcher de rn ntons dte outenns des pentures & des teux dvne prodgeue grndeur eques repreentoent dmr ement en es pus remrques ctons de ones mntere On y eut veu depentes es rrcdes de P rs empronnement de ce goreux pere du peupe M de Btoue & de notre utre Predent M du Bnen e ege de Prs ccuy de Cmry e pourprer depx genere rompuouuent à Munter pr rtfce de on cher fuoryperte dY pre de Courtry de Pomno de Portoongone &e tnt dutres meruees que ce grnd hommeft Apres on chr deuoent mrcher en utte vne ttere à tenne ò es tros Prncees nepces Medmo ees Mncn deuoent etre porté́es & e Prnce Mn cn on neueu deuot etre monté ur vn muet de Sce crorequement rdé Et fn que ren ne mnqut de tout ce qu eû̂t peu rendre ce tromphe memore à̀potertévouot sépuet à force de vous fre des rgeesvouot vous ccer de es enftts cet à dre de tes de udes & dmpots & unt que de prrtr contture vne onne ctdee qudt qu mnquot prmy es ouurges pucs à ornement devotre ee ve Ms pourquoy nous rretons ouonemps à vous deenre ppre &pom pe"
-        ],
-        [
-            "pe dvn tromphe mx gnre? puque e onheur de vos rmes & votre courgeue retnce ont empeché de fre cette entrée tromphnte à̀ Eor deu et pourtnt entreé́ ms en vneu &non ps en vnqueur Vous uez vouu vor Medmes ceuy que vous uezouuent ttu qu ne pouunt djutermgnfcence de on tromphe rdcue uecdeffute set contenté dexger pr des ettres de cchet & pr me n uentons des preens & des vres que vos urts uyont rendus forcez pr es ordres expres de no tre Augute Prnce Son nmton uy fot e perer que Meeurs vos Mrs uroent u pour uymeme compnce Ms nous uons p prs que votre Prement uot outenu en ce ponct honneur de es Artets pr e refus quft denuoyer des Deputez à on Ennemy decreé & quepropoton en ynt ete fre pr vn de vos Predens ppuyeé́ pr quequens des Fron deurs cerrompus ee fut rejett ée uec meprs pour e Propont & pus encore pour ceuy qu pre tendot receuor cet honneur Et nous uons ceu uec etonnement que Enuoyé de Son Atee Royeuot ft es efforts pour oger votre Augute Sent à fre vne rdcue démrche o ctnt de porte en porte & memes ur es degrez du Ps vt n mà propos de uthorté & u nom de on Mtreen vouut venger urC"
-        ],
-        [
-            "0 vous Medmes du meprs quont ft de on Emnence vos utres mrs refuns de e vor & de uy fre hrngue ucté contre vous e ue de queques Dmes deCour que nous ç uons uor me Mzrne qu joues de vor eurs eutez ecpees pr es votres ont ft me dcours de rere & ont memes ecrt à que quvne de nous que vous uez e ten june & vn peu outre que vous uezdemrche vn peu ente & qu reentot Epgnoe ees ont memnes vouu fre des goes uques ur vos re uerences & ur vos compmenes ms ces peces de Cour nont trouué ucune croynce prnmy nous En effet nous çuons e contrre & que es Dmes de Bordeux urpent en euté en eprt & en gntere tout ce qu yde pus pr ft & de pus ccompy prmy tout notre exe Votre ccentgenty votre entretendoux & ce e ne çy quoy quon remrque chez vous vous ont ft dmrer de rous ceux qu ms ont eu e onheur de spprcher de vousydesj onemps Medmes queRenom mée nouspprs que Bordeux poedot vne meruee de notre ece votre ncompre premere Predente de Gourgue honneur de notreexegore & ornement de toute votre ve & tnt dutres mrces en eprt en euté quon peut dre en vn mot que Bordeux et e"
-        ],
-        [
-            "ejour des Grces Au nous on dt que es perfectons dont vous etes ornées uoent ft ouprer mgré e Mzrn es Segneurs es meux fts deCour de orte que nous uons eu dequoy nous etonner que e Duc dEpernon qu trouuot dns Bordeux tout ce queNture peut produre de eu ot é chercher vne N non à Agen ms cet ns doute que ps vne de vous n vouu receuor es vœux dvn Amntetrnge Exeuez nous Medmespr me grde nous venons de prer dvne peronne que vous uezgrnde ron de hr nous pre nons trop de tsfcton à̀ vous pre pour nous mettre u hzrd de vous fcher en vous renou uent e ouuenr de utheur de vos muxt Au nous ommes tres contentes de e er à Loches & qutter deorms vnfcheux uet pour veus dre que nous uons eu vn extreme pr de ç uor e meprs que vous uez ft de ce eu Crd ors que dns equ e dnç en preence du Roy oùCout fut rue de votre gentee vous ne e vouutes ms fuorer dvn eu de vos regrds quoy qu ft ce qu put pour vous pre e pour fre e eu en rdouent on v ge deroze Le Sermon qu ft freà Eueque e Do vous donn ns doute dequoy vous d uertr de on mpertnence Ce Pret qu n dutre trouppeu mntennt à condure que es"
-        ],
-        [
-            "nges du Crdn decm uec tnt de cheur contreFronde en fueur du Mzrnme que prophnntChre dege u eu dvn er monft vne tyre Le retour des procrts qu setns ouez des ogtons qus ont à eur tre uoent uuy e prty Mz rn eurs conte nnces tuë̈s & eurs rtes dé́mrches ne vous donnerẽt ps vne mondre occon de vous joüer de eurs extrugnces Ce grnd homme dettcreu pres uor rety dns eurs chrges ces mheureux qu setoent euemes exez qu es uot ez dgnement tsfts des deprs qus ont oufferts pour nteret decue & nynt pus utre choe à fre dns Bordeuxsen et enfuy Cet n quon dot ppeerorte etnt prty comme nous uons çeu de grnd mtn onemps unt e our à pett rut ns ttendre e Roy qu prtt en pen mdy & semrqu dns vne mgnfque Ge re que vos urts uy uoent prepreé uuy dvne foue ncroye de peupe de qu ce Prnce y me emport tous es cœurs Nous ttendons cy uec utnt dmptence on retour que nous pprehendons ceuy de ce fcheux Mntr Ms nos mrs nous ont proms tout de on presSnct Mrtn emeée des Chmres pour prononcer contre uy Arret qu fut donné pr urs predeceeurs contre e Mrech dAncreVoue"
-        ],
-        [
-            "Vous pouuez en Medmes uger pr e pou uor que vous uez ur Meeurs vos mrs que nos utres Epoux ne nous refuerontms vn Arret que nous eur demsndons pour e en de Ett uec tnt dntnce Msqueques condertons que nous ne pouuons ps preuor es retenoent encorqueque temps nous uos reou de uure vos dus & fnt reuure ce eu ece peé uque pour ver de vos termes es Dmes de ntquté pronon çoent e onner en tete &pourpre ur es epues es decrers deutce nous nousemerons pour donner cet Arret ddrent u totCommon à nos femmes des h es pour executer en toute dgence & vous pouuez vous eurer Mednmes quees nont grde dy mnquer & que prpremere de nos Gzettes vous pprendrez que nes Hrngeres ont u en trtté ce Mntre ten que esDmes de Trce frent utres fos ce eu Chnteur dOrphé́e Apres cete executon nous uonsreou de nnr de Prs tous es tens cette nton mudtedonné́ nuenton de tous es prts des mpots & u des qu font depus ong temps gemr touteFrnce En utte nous e crrons ux Dmes des utres Prements vne Lettre Crure ur e meme ujet pour es ex horer de nnr d́s à̀ preene tous es teeD 8 2"
-        ],
-        [
-            "4 des mttes de eur reort A quoy nous vous exhortons pr dunce vous uppnts de crore que nous ne nous deprtrons ms de vnon & decorrepondnce qu dot ette entre nous o?&que nous erons touours MESDAMES Les Dnmes du Prtement de PrsV5 œurs & onnes mes SgnéeDme Dv TLLT Ers de Prs es cres des mes femées e dtote s Ee u dos etecrt A Med mesMedmes d Prement de Bordeux A Bordeux"
+            "pparente & extraordinaire, puis qu’en ce",
+            "rencontre ſa Maieſté ſeroit violé́e, & tous",
+            "es liens de ſouſmiſſion rompus.",
+            "Vous continuerez donc d’honorer voſtre",
+            "Souuerain, non ſeulement en paroles,",
+            "mais en effec, cemme vous auez accou",
+            "ſtumé. Toutes les parties demeureront",
+            "jointes à leur tout, puis que c’eſt le moyen",
+            "e plus aſſeuré pour maintenir l’authorité",
+            "Royalle en ſon entier; ſes bons Offieiers",
+            "comme vous auront part à ſa gloire, &",
+            "leur teſmoignera en toute occaſion les",
+            "marques de ſa bienueillance?"
         ]
     ]
 }

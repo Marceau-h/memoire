@@ -1,51 +1,98 @@
 {
     "entête": {
-        "form": "vers",
+        "form": "prose",
         "genre": [
-            "chanson",
-            "satirique"
+            "placard",
+            "discours adressé",
+            "plainte",
+            "rhétorique délibérative"
         ],
-        "subject": null,
+        "subject": [
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+            "Lorraine, Charles II de (1596-1657 ; duc d'Elbeuf)",
+            "La Rochefoucauld, François de (1588-1650 ; prince de\n            Marcillac)",
+            "Bouillon, Frédéric-Maurice de La Tour d'Auvergne (1605-1652 ; duc\n            de)",
+            "La Mothe-Houdancourt, Philippe (1558-1652)",
+            "La Trémoille, Louis de (1612-1666 ; duc de Noirmoutiers)",
+            "Concini, Concino (1569-1617)",
+            "France. Parlement de Paris",
+            "Prévoté des marchands (Paris)"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
-        "illustration": false,
-        "creation": "1649-04-01",
+        "illustration": true,
+        "creation": "1649-03-01",
         "change": {
             "@status": "corrected",
-            "@when": "2022-11-02",
+            "@when": "2022-11-03",
             "@who": "KA"
         },
-        "titre": "Le salut aux courtisans.",
+        "titre": "Le salut de la France dans les armes de la ville de\n          Paris.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-09-14",
             "#text": "14 septembre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3575_GALL.xml",
+        "fichier": "Moreau3576_MAZ.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Le sut ux courtsns Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté4 septemre 2022 Sut (e) ux courtsns Sns LeuSns Nom649 Prs Bothèque ntone de Frnce déprtement Lttérture et rt Y336TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Lnttué \"Stnces\" msque en ft une chnson Ces coupets se chntent sur r des \"Roches\" (on es retrouve dns e Chnsonner dt de Mureps BnF Ms f fr 2638 vo 23 p 4) Comme eucoup de coupets deFronde sgt dutnt de trts strques drgés contre des personntés en vue notmment c es générux qu vent sségé Prs et penent à concurepx 0 szns doctosyes CondéGston DHrcourt Veroy sont fustgés et rdcusés pour eur condute pendnt e sège de Prs etconférence de Snermye 3575 Sut (e) ux courtsns (S | 649) 7 pges / r mAs)vers chnson strque Aprèspx 64"
-        ],
-        [
-            "p 4 A A T te  S AA  D AV A V X  COVRTSANS  T  e  MDC XLX  4"
-        ],
-        [
-            "E  3  A AdA & d8 A  2 SA  AV X  T   N tC  COVRTSANS   STANCES  A edut ugrnd Ducdoens  Et ̀ Meseurs es dherns  Qu ont orts prruere  s qund n vous ortrez  etne ee onre eene  8  Sut u Prnce de Condé  ous ueZ fort ong temps rodé"
-        ],
-        [
-            "4  Et moeté e de Frnce Que tre cy vous condut  Pe ton prConference  Aus en de our que de nuct  Sut ̀ nunce Hrcourt  Qu eu etez orty de our  Pour urprendreNormnde  Suuez e chemn deCourt  Cr en fnt tee orte  Vous y demeurereZ en court  dt  Bondy Segnor Precpn  Grnd erutor de cr  Fus ez vous encore ̀ Cremone  Pourtnt vous eteshomme de es  A ce que dt Dme Smone  r vous ne preneZ ms ren  Deu"
-        ],
-        [
-            "5  Deu grd e Mrcch Lmpon  Deu rd e etre du cnn  Que vous nous uez ms en pene  Auez vous en pu rétrouuer  Le chemn du Cours ̀Reyne?  Cr cet pr ̀ qu fut rentrer  4  Sut ̀ tous ces grnds guerrers  A tous es chercheurs de urers  Grnds conquerns de togne  Prenns Prs pour Lrd  Vous ueZ eu deeongne  Qu etencore votre gend  epgs  L conquete de hrento  De Bre S Cou & eMeudon  B"
-        ],
-        [
-            "6  Et deS Densouffrncos  Ce e en compron  Deperte que f Frnce  Perdnt e rue Chton es  cy gt votre pont dhonneur  Lcoutee us menteur  L choe et ez dmportnce  S nous eusons vouu oucher  L porte deConference  Vous neusez ceu pr oùrentrer  M  Que que prt que ot rn  Deu e preerue du frcn  Que ne fuf dedns Vene  Du mons s ny et Crdn  Et nymefnente  pourn ee Meeh"
-        ],
-        [
-            "7  2 de8  on on Segneur de Veroy  S vous nous rmenez e Roy  ous erons dns nos egrees  Comme vertes Frnços ous uy erons me crees  Vuns & mourns ous es ox  FN"
+            "LE SALV",
+            "DAN LES ARMFES DE LA VIIIE DE PARIS.",
+            "A Le lon Gene de l Hrnce, conduiſam ſa Meſte en ſ ſloe Ryle.",
+            "bef, & de Beaufort, Generaux de l’rmee, de Pinr",
+            "C Les Ducs de oillon & de l Motr’eudncour, Generex,",
+            "e",
+            "ee",
+            "de",
+            "?",
+            "e o",
+            "Son Alteſſe le ’Prince de Conty, Gencraliſiime de l’armee du Ry. en le",
+            "General de larmee.",
+            "ee?",
+            "erelree e",
+            "PA.",
+            "V",
+            "D Le Corps du Parlement, accompagné de Mees de Vle",
+            "E Le Mazarin, accompagne de ſes Monopolers, seffcnr le renſr .que Ireeſ, p s ven",
+            "coneries",
+            "proſperiee.",
+            "F Le Marquis d’Anere ſe noy nt, en taſchan: de coaler le Viſſu ̀ fond, fſant ſigne rn",
+            "main dans ſa premiere entrepriſe.",
+            "e ly el",
+            "S e eire lenue e ereue es ſ eo en eneilne ne leie eruen e lenu leen",
+            "t",
+            "generale de l’Eſtat, Paris, le chef de ce grand cuorps de la Monarchie Françoſe, ſi",
+            "rdoutable à rous ſes cnne",
+            "êé mis, & qui ne peut eſtre atterré que par la propre",
+            "peſanteur. Si Prs ne s’eſtoit le remer arme pour la deſſenſe",
+            "de cetre Couronne, & la conſeruation de ſos authoriteé: les arnes de Paris, cette",
+            "Nfplus renommee que celle",
+            "d’Argos, ſous la conduitte d’vn autrc Iaſon, dine ſang de nos Roys, aſliſte des Polux",
+            "& des Caſtor, utres dluſtres Angnottes",
+            "dont l’experience & la valeur nous promettentdéia vn port aſſeurcé en commançant",
+            "à deſplier les voiles. Inuincibles l Ierauts,",
+            "que l’obier du peril ne peut arreſter, vous n’auez cmbartre en cettc celcbre conqueſte",
+            "qu’vn Dragon, gardien de tus le",
+            "threſors de la France, vne harpie orgueilleuſe des deſpoiiilles & de ricneſſe de ce",
+            "loriſſant Royaume, vn ſerpent qi le emplit",
+            "depuis rante l’annees du ſanges peuples, & que noſtre foibleſſe laiſſe laſchement",
+            "acrifier tous les iours à ſon inſatiae conuoi.",
+            "e,à la honrte de l’Eſtat, au deantage de noſtre eune Monarque, & au meſpris",
+            "des Loix &e de la Iſtce;& qu’apreſent taut",
+            "de ſages Nectors s’efforcenr de faire reuure aux deſpens de leur propres vies & de",
+            "rous leur bie. Mis le nl eſt i grane e",
+            "prclent, que l’effur du remede conſiſte i la diligenice Porrons donc nos arme vers",
+            "cer ennem comman de rous les Eſtats",
+            "randis que noſtre Prelat ſiſté de ſou Clegeé porte les bra, vers le Cel enne vn autre",
+            "Moiſe, combatrons en vris Ioiuer, &",
+            "urant arésde foy que de ſer croyons noſtrevitore ecertane que l’ais meritera de porter",
+            "yn iour le rom e eleneur d.",
+            "L’EST AT & duſalut de laFRANCE."
         ]
     ]
 }

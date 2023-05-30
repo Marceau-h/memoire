@@ -1,853 +1,222 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "prosopopée",
+            "discours adressé"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Du Bosc de Montandré",
-            "Anne d'Autriche (1601-1666 ; reine de France)",
-            "Majorité (droit civil)",
-            "France -- 1643-1661 (Régence)"
-        ],
-        "creation": "1652-07-20",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-17",
-            "@who": "AB"
+            "@when": "2022-05-10",
+            "@who": "ZC"
         },
-        "titre": "La tutelle des rois mineurs en France, avec des\n          réflexions politiques sur le gouvernement de l'Etat de chaque roi mineur, premièrement:\n          que tous les rois qui ont été dans la minorité, ont eu des tuteurs jusqu'à l'âge de 25\n          ans, soit par choix ou par usurpation, mais toujours par nécessité; II. que Charles V n'a\n          réglé la majorité à 14 ans que pour changer de régente, et non pas pour abolir la régence;\n          III. Que la reine contrevient formellement à la constitution de ce sage roi et à la loi\n          salique, faisant un tort irréparable à l'autorité royale; IV. qu'elle ne tient le pouvoir\n          qu'elle a, que par usurpation, et le veut maintenir par la force des armes du roi,\n          desquelle elle fait un mauvais usage, et est tenue d'en rendre compte à l'État; V.\n          qu'enfin il s'ensuit que sa puissance et tyrannique, puisqu'elle subsiste contre toute\n          sorte de lois, et que toute la France est obligée de s'y opposer pour l'intérêt de la\n          couronne.",
+        "titre": "Le tymbre de l'Hôtel de Ville parlant au cardinal Mazarin\n          sur les assemblées des Princes.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3901_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3902_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L tutee des ros mneurs en Frnce vec des réfexons potques sur e gouvernement de Ett de chque ro mneur premèrement que tous es ros qu ont été dnsmnorté ont eu des tuteurs jusquà âge de 25 ns sot pr chox ou pr usurpton ms toujours pr nécesstéque Chres V n régémjorté à 4 ns que pour chnger de régente et non ps pour orrégenceQuerene contrevent formeement àconsttuton de ce sge ro et ào sque fsnt un tort rrépre à utorté roye V quee ne tent e pouvor queeque pr usurpton et e veut mntenr prforce des rmes du ro desquee ee ft un muvs usge et est tenue den rendre compte à Étt V quenfnsensut que s pussnce et tyrnnque pusquee susste contre toute sorte de os et que touteFrnce est ogée de sy opposer pour ntérêt decouronne Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022Cude Du Bosc de Montndré L tutee des roys mneurs en Frnce Avec es refexons potques sur e gouvernement de Estt de chque roy mneur Premerement Que tous es roys qu ont esté dnsmnorté ont eu des tuteurs jusquà ge de 25 ns sot pr chox ou pr usurpton ms tousjours pr necesstéQue Chres V n regémjorté à 4 ns que pour chnger de regents & non ps pour orregenceQueReyne contrevent formeement àconsttuton de ce sge roy et àoy sque fsnt un tort rrepre à uthorté roye V Quee ne tent e pouvor queeque pr usurpton & e veut mntenr prforce des rmes du Roy desquees ee ft muvs usge & est tenuë den rendre compte à Estt V Quenfnsensut que s pussnce est tyrnnque pus quee susste contre toute sorte de ox & que touteFrnce est ogée de sy opposer pour nterest decouronne Sns LeuSns Nom652 entre oût et octore 652 Prs Bothèque MzrneM339TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Notes mrgnes en tn frnçs et grec Dprès Céestn Moreu confrmé pr H Crrer texte composé en 3 prtes premère nttuée \"L tutee des roys mneurs\" 2e qu est une récupérton vec des ornements dfférents des p []0 dexempres de \"Le roy mneur ou pnegyrque\" de Frnços de Bretgne pué chez Jen Hénut en 65 àfn de quee (p 80) oncoé un ppon sur e texte prmtf \"FN\" portnt e texte\"Cependnt nous expermentons ujourdhuy e dre\" et en récme \"du sge\" qu ntrodutdernère prte e pmphet de Du Bosc de Montndré Pr Cude Du Bosc de Montndré dprès Huert Crrer (Bothèque Mzrne Ms 468 f 360v) Dprès H Crrer texte pru entre oût et octore 652 ms pus proement pendnt été 652 390 Tutee () des ros mneurs en Frnce vec des 7 réfexons potques sur e gouvernement de Ett de chque ro mneur premèrementque tous es ros qu ont été dnsmnorté ont eu des tuteurs jus quà âge de 25 ns sot pr chox ou pr usurpton ms toujours pr nécesstéque Chres V n régémjorté à 4 ns que pour chnger de ré gente et non ps pour orrégence querene contrevent formeement àconsttuton de ce sge ro et ào sque fsnt un tort rrépre à utorté royeV quee ne tent e pouvor queeque pr usurpton et e veut mntenr prforce des rmes du ro desquees ee ft un muvs usgeet est tenue den rendre compte à ÉttV quenfnsensut que s pussnce est tyrnnque pusquee susste contre toute sorte de os et que touteFrnce est ogée de sy opposer pour ntérêt decouronne (S ) 652 64 pges RreproseDu Bosc de Montndré Anne dAutrche (666rene de Frnce) Mjorté (drot cv) Frnce646 (Régence) Leutennce génére du duc dOréns 650"
-        ],
-        [
-            "LA TVTELLE EN FRANCE Auec es Refexons Potques ur e Gouuernement de Ett de chque Roy Mneur PREMEREMENT Que tous es Roys qu ont eté dnsMnorté ont eu des Tuteurs uqù ge de 25 ns ot pr chox ou pr vurpton ms touours pr necetéQue Chres V n regéMorté à 4 nsque pour chnger es Regents & non ps pour o rRegenceQueReyne contreuent formeement àConttuton de ce ge Roy & ̀Loy Sque fnt vn tort rrepre ̀ Authorté Roye V Quee ne tent e pouuor queeque pr vurpton & e veut mntenr prforce desmes du Roy dequees ee ft muus vge & et tenuë den rendre compte à Ett V Quenfnsenut quePunce et tyrn nque pus quee ute contre toute orte de Lox & que touteFrnce et ogée de sy oppo er pour nteret deCouronne M DC L"
-        ],
-        [
-            "gsggs LA TVTELLE DES ROTS Mneurs en Frnce Auec des Refeons Poques ur e Gouuernement de Ett de chque oy MneurEt vn ordre qu vent denture que e pus foe ot outenu pr A e pus fort uquà ce quynt prs vn ute ccroementpue tout eu e defendre contre tout ce qu et cpe de uy nure Vne pnte decre et fce ment tuë on ppuye de queque tronc ec & ferme fn dempechercheute ms depus quee set ccruë en vn gros Arre & queeeeuecme en unt dns es Ars ee e outent vgoureue menr dee meme contre es pus rudes rtques des vents & de tous utres efforts nynt pus eon dvn ppuy qu et de orms pus foe quee Prmy es nmux & prtcuerement entre es hommes nous remrquons à tout moment comme e pus foesppuyen4 A j"
-        ],
-        [
-            "LA TvT ELLE rureement du pusfort doù nent com me de eur ource nturee es mtez es nces &Souuerneteé De à e pene qu et trece de conçure que e drot de regneret nture entre es hommes & qus ne peuuent uter en oceté cue ns queque epece de commndements S nous venons du prtcuer u gener nous remrquerons dnsPotque que es petts Etts & es mondres Souuerne tez ne utent & ne sccroent que pr es ttchements qus ont ux grnds Em pres u ne mnquen ps de recher cher uec grnd on eur ppuy & eurs e cours qunt s e voyent expoez ux vo ences dvn pus punt ou en qund s pretendent de fre queque progrez & de proonger eurs mtes pr e moyen de queque confederton Les Roys qu ont u deus de tour ce & qu ont es mtres de tous es utres ne ent ps en de certnes cononctures duor eon de eurs uets qu en qus oent mondres en dgnté ont queque fos eucoup de ees prtes qu es rend comme Supereurs de eur SouuernCes"
-        ],
-        [
-            "Des Roys Mrne vs Ces hommes chos où nez pour oute nr es utres ont ouuent eon detre outenus eux memes Cet pourquoy fu des Regenseurs Mnortez & des Tuteurs ̀ eus Mjortés commencées eur enfu meme pendnt eurs ences où eurs mdes non ps tnt à eux quà Ett & uSceptre poure mnment de ques on à̀ touours eu eon des pus forts & des pus vertueux Souuent ondonnéces eunes Prnces des Mntres chos pour eurs exceentes qutez & cpcté u ft dePot que qu ont condut es ffres de eurs Royume uec eucoup de prudence & de gee eucoup ont vur pé ce rng pr mton &neceté n dpene de Tuteurs ou Regens dns eur s gerendu que que fos cette vurpton roere Quoy que touours nute & egtme Toutefosentouours funos Roys Mneurs du mons uqù ge de 25 ns & ux fnents durnt toute eut ve L premere &econde rce ne ouf fre pont de dffcuté pourdurée deRegence où tutee des Souuerns on"
-        ],
-        [
-            "LA TVTELLE çt en quee ne ceot pont qù ge de 22 ns & quon eur donnot vn Mn tre dEtt uqù ge de 5 quentre tenot quequefos en pus ong temps qund à̀ cét ge s netoent pont encore cpes de gouuerner pr eux memesnyque depusdecrton de Chres V quregéMjorté des Roys4 ns qu fut çuores Roys nont pus eté gouuerné́s pr es Regents & ss ont gouuerné pr eux meme depus cé́t â ge ns uor eon de eur tncenyucun exempe qu nos pprenne que cet etémsnous en exceptons e S ge Somonqucence de Regner fut donnéecét ̀ge pr vne grce toute prt cuere de Deu qurefueetous es u tres peut etre à cue que ce premer en uot usé́ & que ceuy nuroent ps ceu sen erur uec pus duntge Cette ncpcté de commnder et vne preuue ez forte pour demontrer uc toute orte deudence ce que nous pre tendons outre que c eté touours e uet quftr donner ̀ nos Roys des Regents des Tuteurs & des Mntres"
-        ],
-        [
-            "DEs RoYs MnE VRS 7 Cr pus qus ne ont pont encore c pes de nous gouuernerenut pr vne neceté ouë qu fut que que que utre qu en ot cpe ou qu s mgne de etre duntge e ot tou jours ngere dns e mnment des ffres deMonrche Nentmons comme H tore donne encore eucoup de our à cette verténe fut que re ce que en rpporte cy pres pour nen pus douter & concure que tous es Roys qu ont eté dnsMnorté ont eu des Tuteurs uqùge de 5 ns ot pr chox ou pr vurp ton ms touours pr neceté Depus quetrop ongue domnton des Regents eût ouuent donné eu à des vurptons nques de uthorté Roye & quoutre e pernceux exempe qu donnot ujet ux entrepres des pus hrds & ud ceux es deordres es troues & es fctons eurent ouuent dué ce eureuxRoyu me oncomenç̧ à̀ reconnotre quvn pouuoronemps contnué ̀ vne eue peronne trnot prés oy de trop dgereues uttes ms uqù Chres e Sge peronne ne se tot encor hzrdé dy pporter queque re B j"
-        ],
-        [
-            "LA TVTELLE mede ce Prnce fut e premer qu vouu pouruor à̀ cét us & pour ne e pont en treprendre nutementconut toutePotque es Lox e Droct & es Coutu mes pour sen tenr ̀ ce qu en ugerot de meeur & uthorer dns vn temps u que peronne neut oé́ contrrer ouuerte ment vn ttutequtereconnut gement queRegence etot vn m necere ms qu fot du mons reger à̀ fute de e pouuor tout à ft détrure & enfn pour e rendre encor eu coup mondre qu fot e prtger pour e mons ̀ deux dfferentes peronnes fn que e peu de temps que chcun tendrot cette uthorté ouuerne ne donn ps e or ux eprts mteux de sen preuor pourretenr contre toute orte de utce e pus onemps qu eur etot poe Cette ute moderton pportée ̀ ce pouuor ex cef prtot de eprt dvn Sge ee ne pouuot etre que trop egtme & e prtge uec tnt dégté nee pouuot fre ccu er ducun defut deprt dechoe ny ducun mnquement de on cotéft donc vne Decrton uthentque de cette"
-        ],
-        [
-            "Des ROYs MVRs cetre Loy qu fut receuë en Frnce & re connue pour tres udceue & tres vte à Ett & ux Roys Mneurs qu ft cmn cper ̀ ge de4 ns en ynt donné́ e empe enperonne de on fs Chres e en ymé AnRegence fut duée utement comme ee e deuot etre cet à̀ dre en deux prtes éges dontpremere fut putot vne Regence urperonne Roye qu et queton deeuer & de former pr vne educ ton qu uppée ux defuts de ge en uy donnnt es premetes eçons decondute que dot uor vn on Prnce ce qu e dot fre depus ge de ept ns uqù ceuy de qutorze Lutre prte deRegence eme pu tot regrdercondute de Ett de que e on dor donnerconnonce u eune Mjeur qu et de cené cpe de ce commencement de regner & de mettre en prtque es ons enegnements que e pre mer Regent comms à on educton uydeu donner pendnt e temps de on pouuor urperonne deMjeté Cette premere Regence conuent ez en ux meres qu 4"
-        ],
-        [
-            "L TvrEEL E ont vne ffecton nturee à éeuer eur en fns uec toutes es tendrees & es mgnr des qu ont deuë ̀ ce premer ge Mseconde Regence ne eur fut ms ttruée que pr vne mnfete nutce ttendu ncpcté du Sexe ̀ scqutter de ce hut empoy qu net propre que depus ge &pus noe tete du Royume tnt pour ntrure e Roy pr de udceues mxmes que pour e porter ̀ de genereues cCtons dontNoee et commeource feconde & nepueMsfn prncpe de cette ee égté & de ce prtge deRegence où e portot coute ntenton de ce ge Pohtque etot es ornes qu vouot mettre u pouuor des Regents fn de donner vne punte rde àforte mton de tous ceux qu eroent nuets de cette domnton qu net que trop chrmnte pour corrompre eur pus e uere equté Cetot ̀ ns doute tout e ut de Chres qu uot tres gement reconnu que ns cette Loy qu erurot comme de frn ̀ mteue udté de regner es Roys Pupes & Mneurs eroent encor expo ez ux memes vurptons qu eursuoent"
-        ],
-        [
-            "Ds Roys Mrvsetépreudces pr e pene vouot donc pus quedomnton dvn eu Re gent fut de f ongue dureé́efotre rncher &orner à n 4 & ne pont ouffrr quee setendt duntge u preu dce du Prnce dontMjorteé & e eune ge donnecence doer tout &fcté dexecuter ce quonentreprs Quequvn ne mnquer ps de moppoer que touoursRegẽce fnt ̀4 nńe u untConttuton de Chres V ms que ce nempeche ps quememe peronne ne prenne e on des ffres de Ett ous vn utre ttre dependmment du Roy qu et ceneé gr pr uy meme à cue deMjo rté An que ft Ctherne de Medcsquee présRegence e ft nommerur ntendnte des ffres du Roy & encor u ourdhuyReynemere du Roy quprsquté de Chef du Cone deM jete Que mtondngeneues mces pour erur de pretextes ̀ es vtes deens etpoe que one ot perudé que cee peut ns nfrcton deLoy deMjo rté à quee on crot uor uffmment"
-        ],
-        [
-            "2 LA T vTLLE 2 tsft en fnt chnger de nom u pouuor quon veut vurper & cependnt on fe p r cege Legteur pour vn mpertnent & pour vn homme de vetes Cr enfnReyne smgne donc que ce Sge n pont eu dutre ut que de chnger e nom de Re gent en ceuy de Chef du Cone & qu n pont pretendu reger on pouuor u proft du Mneur uque on e rut en uy otnt touteconnonce des ffres Vovne hute Potque pour vn grnd Roy ou vne ee mpoture pour ppuyer vn deen noement mteux Lndgnton de tous ceu x qu uront e ens commun vngerez ce Sge Prnce du trop mdgne trt tement que on ft àprudence toute Roye Msfut queA Reyne uouë quee con treuent formeement àcontturon de ce grnd Monrque & quee ne peutjut fer on procedé quee ne e rende encore pus crmne ot en vount n detrure es Lox es pus fondmentes de cét Ett ot en vount mntenr on njute dom nton prvoence du fer & du eu àdeoton entere demere FrnceQue"
-        ],
-        [
-            "Des Rovs MvRs 3Que ce Royume nfortuné uot de grnds ujets dexcure es Femmes de on GouuernementLoy ceere qu port contre ees désnnce netot quvn verte preentment des mux & des ru ges quees y deuoent vnjour pporter He s qu urot jms creu queReyne e fut portée à cette extremté de rgueur ̀ en contre de ceux qu ont utrefos tnt ft de vœux enfueurdomnton ne em ot nous promettre que dheureux jours chcun contruot à enue àfre regner dns epernce dvn ort meeur quefente douceur nous promettot O que nous uons eté en trompez dns nos ttentes & que nous uons epreuué de euerté de cee que nous tenons ouuernement onne Cee que nous treuuonsjutevó ce que nous uons de pus cré Apres ce f tes fondement urvertu des Femmes L Reyne n ps euement enfrnt cet te Decrtonuthentque de Chres ee Set pre ̀Loy Sque queefouée ux peds ce que ps vn de nos Roys n j ms oeéfre ne uyren couté à executer e pene queeft gore en ce de es ur D"
-        ],
-        [
-            "3LTvE per ms cét untge ne uy er ps eu coup honnore qundpoterté dr queevouu per es mtes dvne Fem me moderée & queecrfeé toutever tu ̀vnte Ee n ps ns doute meurement con deré e tort quee e ft en perdntre nommée ceuy quee ft à on Fs dont ee vurpe uthorté & ert dexempe u premer qu nur ps mons dmton quee ns prendre grde quee e rend n cpe de regner quequefos prmu ue Educton quee uy donne Enfn e e n pont regrdeé́ e tort rrepre quee ft à Ett dont e Sceptre et prés de tom er en Quenoue uthornt ce deordre toutepremere Vne utre du meme exe nynt ps mons de drot quee à preten dre e Gouuernement qudeReyne retent prdeuers ee en dépt de toutes es Lox qu ont oument contrres à rouûtes es pr tques Ms venons u pont dedffcuteéReyne pretend de retenr uthorte dvn jeune Mjeur qu uy uot eté ecordée preue fueur des Grnds pourmnorré Cr e Roy defunt uy uot ms defort etrô"
-        ],
-        [
-            "Des Roys Mevns 5 tes ornes dns on Tetment ee sy veut mntenr pres e temps expré́ deRegen ce SA A pretend que ce rng uy et deu Sur cette pretenonet crmne L Reyne et donc u en rerennt cette pce Cr quees rons peu ee donner pour con uncre S A R de queque crme Ee dr peutre qu e veut ttruer tout e pou uor en Frnce pendnt e jeune ̀̂ge du Roy Ms eemevurpé? Et que çenous nymons pontdomnton Frn çoe duntge que Epgnoe ee et en pus nturee Nton & pus con forme à̀ es ncennes Coutumes Et pus ne ps fs de Frnce &ps tout n teret àconeruton dvn en quee d pe dvne Couronne quee expoe & dvn Roy quee eeue u gré de es pons & dnshyne de es Sujets qu ont tres nnocens du m qu e commet & qu en portent tout e chthment Ne ero ps eucoup meeur que S AR eut e po uor quee retent Que peronne en Frnce neuy pourrot dpurer & qu mnten drot ns troues & ns deordres que de e vor entre es ons dvne Femm ccom"
-        ],
-        [
-            "L TvTELLE pgné de tnt de mux & de dentons cu es Tous es vertes zeteurs du eruce du Roy & du en de Ett eront cy de mon Prty Dee quee et Mere du Roy & que cette quteédot mntenr dns e rng quee occupe Hes que ous ce nomFrnceeu de trueres & de dngereux ym ptomes Veu de Buere etotMere du Roy Chres V ee ft deerter pour tnt ce egtme herter deCouronne qu etot on fs & ft per e Sceptre en des mns etrngeres u prejudce de ceuy dont ee etot pourtntMere mspus nju te qu fut jms Et ns er chercher Bru nehut qu ft mourr dx Teteouronnees quee uot mes u monde & tout ce pour on horre mton de regner No tre Htore ne oupç̧onne ps Cther ne de Medcs duor ft mourr es enfns vn pres utre poure coneruer pus ong temps uthorteé Le ttre de Mere de Roy net pont tout ce qu fut uor pour merter e Gouuer nement deMonrche Frnçoefu drot encore quee futMere de tous es Sujets"
-        ],
-        [
-            "DEs Roys M evs 7 Sujets qufut trter comme enfns & en cretures res non ps en ecues en e tesuuges & en ouprous quon pour ut uec des rmes & que on pree deprés que quequens sccuent & comme des Sngers fureux déchrent à̀ ees dents tout ce à̀ quoy s peuuent sttcher du tres pus doux e voyns reduts u deepor den echpper jettent des rmes ur es mux qus endurent & peurent mere ment eur ort ft duque eur nnocence ne es peut preeruer Vn homme pr on jugement éuterotengouuernnt ces funetes extremtez mspon dvne Femme et ueuge ee ne es vot ps ee ne es éute pont Ee veut re gner quoy qu coute & prce quon sy oppoe on et crmne cette tyrnne et nupporte Ms SAR net ps Once du Roy ne ps Fs de Frnce ne ps e pus proche dung Roy Ne ps ez mo deré ez jute ez punt Enfn ez dgne & ez cpe pour tenr e tmon des ffres deFrnce &pour mntenr meux queReyne uthorté Roye Tout e"
-        ],
-        [
-            "L TreLLe monde en et dccord uec moy toutes es Lox du Royume ont pour uynyqueReyne qu uy et contrre Ee en veut donc ̀ tous ee en veut àutce ee veut or coutes es Lox & es pus regeueJ Coutumes de Frnce Ce ne sppeepont etre crmne dEtt & ennemy du repos & du ut de tout e monde Toutes es Femmes qu ont vouu vurper e drot de commnder ux Peupes ont toû̂ jours etécue dedetructon des Em pres où du mons ont cué deffroyes de ordrës dns ces Monrches L Reyne dAyre qu regn epce de 42 ns ous ht dvn homme qu couuroc on exe & on vurpton du tout O rent en des fctons nnomres Ee r uge en ute Ethope & es ndes qu jount pour ors dvne ferme trnquté nuoent grde de smgner quvne Fem me en deut nterrompre e cours Cette mteue Semrms pour contnuër ong tempson vurpton ft eeuer on fs dns es deces & dns es vouptez pour e ren dre tout à ft ncpe de regner pr uy meme Ee reüt en ce deen pus que"
-        ],
-        [
-            "DEs Rovs Mvrs 9 e en ft vn homme ns courge & ns c pcteé ucune de mner e Sceptre dvnredoute Empre ee en ft vn ̂che à es dépens ynt receu e coup morte de ce fsdéntureé qu uunt es muuesncn tons queMere uy uot ft prendrepy des ons quee uct prs deon Edu cton & decondute & vecut depus dns cete ee & dns cette oyueté dns quee cette mteue uot ft ee uer à on eur & pourperte Tous es Succeeurs à on mtton de meurerent dns vne ve moe & honteue juquà̀ ce quee fut mépre à̀ tout e monde qu ne pouunt pus toerer eurs nfmes es pruerent du Sceptre & deve Semrms futpremere cue decheute de ce prodgeux Empre tntet vry que es Femmes mteues ne ont nées que pourdecdence &rune des Monrches Et ns ortr hors de chez nous nuons nous ps veu notre Monrche detrute prche mton & pr nmoté otnée dvne Reyne ez enneme deon propre fs pour e deerter de egtme Succeon"
-        ],
-        [
-            "20 LA TVTELLE uy rrcherCouronne de deustete uy oter e Sceptre des mns en fueur dvne Punce etrngere & enneme Apres ce quee confnce peun uor ̀ vne femme à quperte de on fs net ren u prx de contenter on mton &fureur Cette Mere cruëe ne e content ps duor oté ̀ Chres e Duphn on hertge ee vou ut pour tsfre àpon cffrenée fre vorà̀ touteFrnce on ncen Ennemy re ceuorCouronne &Royuté Acton quee produt u meu de Prs à̀pus grnde honte des Frnços ms encore pus à̀ eur eur pus qus vrent en ure es Angos deoer toutes eurs terres & ńpr gner ucun endrot de ce Royume où s ne portent e fer & e feuen qu en cou t preque tout e ng des Peupes ns e pouuor etendre Et tout ce ruge rru pr es mechncerez epouuentes dYeu de Buere & pourhyne rreconc e quee eut pour on fs & pour on Royume Vne nfnté de prees qu ont utnt dexempes dhorreur àpoterté fourn roent ez de crmes pour en compoer vn 2  gros"
-        ],
-        [
-            "DES ROYs MEVRs gros Voume ms ceè uffront pour toutes es utres & eur Htore et ez cpe de nous montrer quee tyrnne et cee dvne Femme qu dom ne comen e gouuernement en et njute quee dgence & que on on dot ppor ter à̀ preuenr es mheurs qu cue & comen enfnmemore de eurs crmes dot etre odeue ux Etts en pocez pus qus nont pont detementferme que mron dvne Femme nerne pont de rcheesmmenes quee ne dpe pont deforntes Prounces que e ne rune & pont duntgesconderes quee nnente es horres Fctons qu de tout temps ont prouenué̈s de certe ource eureue es deotons depor es qu e ont e pnduës en tous es cons du monde pr e moyen de Femmes mteu es ont des mouuemens trop tunetes de eur fureurqu n pont de ornes depus que eur pon prs vne fos e deus de eur r on qu net touours que trop foe pour retet à rnt de voence LEtt meme du Peupe de Deu n pont eté́ exempt de ces fures es njutes peruons de eze per"
-        ],
-        [
-            "3 22 LA T VELE drent on Mry es Etts &pus grnde prte de es Sujets qu en furent exterm nez & e jute vengeur des crmes de toutes es eretures ynt eu en ueron es pern ceux cones de cette mceue Reyne vou ut que on corps fut deuoreé pr des chens quee reçeut vn chtment pre u pecheé ree n nr noe re ne e ououn e courge & de on otnton ̀ fre tete àtoutes es forces de Empre Romn Tou tecondute pourtnt jonte àveurex trordnre dns ce exe ne erut qù per dre es Pmrenens & à uy oterve à e e meme pour montrer quepus hute Potque dvne Femme net touours que tre pernceue à Ett où ee sngere de vouor commnder S pus grnde Pu nce netnt touours quemens & que foee Ron que Phrmond p port dns nttuton deLoy Sque CependntReyne sopntre ̀ oute nr vn pouuor quee ne tent pus que pr vurpton dns notre Ett Ee empoye e fer & e feu & toutevoence de es pus fortes pfons pour mntenrreouton"
-        ],
-        [
-            "Des RoOYS MEevs 23 quee pre de perdre putot tout que de re cher e mons du monde S ee gnore o gton queeden rendre compte vnjourLoy uy pprendr que toute petonne qu e chrge du en dvn Mneur uyet compt e outre que es Etts du Royume ont e pouuor de uy demnder ron de tnt de muertons qu e commettent ous on u thorteé́ qu ne fut jms donnée à peronne que ous condton de procurer u Puc tout e en poe & qu deuent egtme des ors quee et toute empoyée ruyne & u ccgement de ceux ur eques ee et ete Afn quee ne e fgure pont que ce ot ns exempes Htore nous en four nr detrngers & de dometques Lm teue mpertrce rene qu uot eu tou re uthorré de Empre dOrent durnteunee de Ncephore eut en tnt de vnteé que de pretendre à Empre de tout e monde u preudce de ce eune Empe reur nynt pont dutre moyen dy pr uenr que uthort́ ouë quee poe dot uec trop dnutce & u preudce de on propre fs à̀ qu ee pprtenot e"
-        ],
-        [
-            "L TVTELE 24 gtmement Pour venr à out de on de en ee enuoye des AmdeursChr emgne qu tromphot pour ors dns Europe pr es conquetes oûrneres qu y fot ces enuoyez prttquoent ecrete ment e Mrge de mpertrce uec ce Prnce ̀ condton quee uy remettot entre es mns Empre dOrent qu de uot ondreceuy dOccdent qu tenot pour ors utnt de on Epée & devertu que deRoye nnce ur e ponct que ffre sot concure Ncephore en et uertyreconnot uec etonementmuue voonté deMere uy demnde vn compte ext demuue dmntr ton quee uot fte de on Empre pen dnt on eune ge & ynt ft rerconfn pour e rete de es ours dns vn Cotre uunt nCouronne quemere uy ot oter de deuscete Peronne ngnore e Compte exct que Lothre ft rendreBrunehutpropre tnte queeneps de condmner u derner uppce pour es mux & es de ordres quee uot cuez dns tous es endrots de on Royume Ms"
-        ],
-        [
-            "DEs5 Ros MNEVRs 25 Ms dns vn temps oùne e trouue peronne cpe dexger cette utce n ton ps touours veu queeeté dem̃d́e pr vn oueuement gener de tous es peu pes qund s e ont veus reduts ̀ extre mté́ e çy en que ces mouuements des uets ont des crmes enuers eurs Souue rns & des futes dEtt qu ont touours punes eonrgueur des ox ms ors que e muus gouuernement & op preon trop ve es y contrnt ce ont des ftes uttes des mnquements de ceux qu gouuernent dont s ont es premers coupes n qund s sotnent à es chter & que es uers demndent utce de eurs deregementnypus de forme dEtt ce net pus quvne mere con fuon ou es pus forts ont es pus uthor ez queques futes qus commettentcue qu nypus de utce & que ch cun eveut fre oy meme Pour ouer ̀ des mheurspreudc es à uthorté du Souuern qu dot etre nuoe & u en puc qu dot etrerege de toutes es Cons des Prnces & des uetsfut queque fos que tout A"
-        ],
-        [
-            "L TVTELLE 26 e monde snteree à̀coneruton des drots de Ett qu mntenne utho rté entre es mns de ceuy ̀ qu ee dot etre fn qu ne mnque ms de uge qu rege tous es dfferents qu en prouennent & de vngeur qu fe utce ux mheu reux peupes ffgés pr mton mud te des vurptons dontfut vne pun ton exempre utrement dequoy eru roent es ox fondmentesees etoent enfrntes mpunement ̀ quoy on tnt de ees & deutes conttu tons dEttu eu de ren etr pour on en ees nuoent ps memeforce de détourner vne nfnté de mheurs que eur nfrcton urot cué́e Les Lox e roent trop ftes ux Etts ̀ ce prx & e rot deorms pus necere de es détrure que den fre Remede u voent que e m et cpe de fre perr egement es Etts & renuerer touteoceté cuefut donc que chcun exmne en con cence & dns vn eprt de px & de con corde ce qu et de meeur dns Ett pre ent des ffres deFrnce & pour e mnten de uthorté Roye & pour e"
-        ],
-        [
-            "DEs RoYs MNEVRS 27 repos des peupes ngunts qupresuor reconnuemre vgoureuement ns nteret & ns pon es ox es coutumes es ongues guerres que es fem mes ont ft ntre en Frnce & es ons deens de ceux qu voudront y pporter du remede uy feront ez connotre ce qu et ogé de uure que prtydot emrer & ce qu dot fre pour c compement dvnprft ouurge qu etpx generenecere u Roy pour rfermr on uthorté & pour rem pr es coffres de on Eprgne epuez pr es guerres cues àReyne pour e repos deconcence ux grnds du Royume pour e remettre en ett de tenr eur rng uec honneur en Frnce & enfn ̀ tous es peupes pour etre deurez de eurs meres & e remettre de eurs pertes mmenes qu eur feront utrement ndonner es cnps ns cuureon ne es e que que peu reprer en trnqutéE"
-        ],
-        [
-            "L TVT ELLE sss s & REMARQVES D RNE CESSARES SVR LA Mnorteé des Roys de FrnceA Mnorté des Roys et cetrte upen on de eur Authorté ors qus ont encor en vn ge ncpe de vquer u Gouuerment des fres puques Ee commence u our du treéps de eur Pere & fnt à̀ entréede n qutorzéme de eur ge uunt Ordonnnce du Roy Chr es V verfé́e en Prement de Prs en n née m tros cent oxnte & qunzeEnpremere rce de nos Roys es C dets prtgeoent égement e Royume uec eur Ané́ & s prenoent rous ndfferemmentquté de Roys de Frnce en qus ne e fuent que dOrens ou de Bourgongne dAutre ou de Soonss5et trouué meme des Btrds eques u defut des enfns egtmes ont uccedé u Royume de eur Pere TABLE"
-        ],
-        [
-            "TABLE DE TOVS LES NOMSdes Roys Mneurs en Frnce rTVHus Gontre & Codode ChdeertCotre Second V Theodeert g&y The V Sgeert Chdeert Core & Meröée V Cous Secon V Chres e Smpe V Lous dOutremer X Phppe Premer X Phppe Seconmd dt Augute X Snct Lous X en Premer X Chres Sxéme XV Chres Hutéme XV Chres Meufeme XV Lous Trezeme XV Lous QutorémeH"
-        ],
-        [
-            "JL TvTELLE A& 3 eeee9eeeepoçeee4e 4e22 é&&&& LES ROYS MNEVRS EN FRANCETHBAVLT GONTARE ET CLODOALDEHut Gontre & Cododeetoent fs de Codmre RoydOrens & petts fs du Grnd Cous & deReyne Cod s furent éeuez ousTutee de eur Grnere presmort de eur Pere Cdomre tué́ en guerre pr Gondemr Roy de Bourgon gne Mscruee mton de Chdeert & de Corre Roy de Prs & de Soons es pru eot enemement du Roy ume & deve Ces onces denturez ynt ttrez en eur Ps ces troseune Prnces ous coueur de e duertr uec eux àch e s es retnrent & en eur pce s en uoyerent ̀Regente vn Ceu & vn pognrd Ee qu connût ot eur de"
-        ],
-        [
-            "J Des ROYs MEVRs 3 en pernceux de es enfns contreve de es petts fs ptefernt ̀ eur égrd vne mort honnete à vne ve mépre ŕpon dt toute en coere Au tot morts que Moy nes A cette répone Cotre poedeé́ dvn eprt de fureur prend Thut né de ces eunes Prnces & ynt porté pr terre e perc u tot de on epée Le Pett Gontre qu etot e econd rroué du ng de on frere e erte ux genoux de on Once Chdeert uy demndntve &eut otenué ns doute neut eté́ que Cotre fureux & eeumnt de rge e menc de es percer tous deux dvn meme coup Anuy ur crueement cette n nocente vctme qu crf uy meme àfureurfut u tot egorgé pr cé́tOn ce denturé ur e corps encore ouprnt de on frere Le troeme échpp de eurs mns & quttntCour uec e monde emr ett Eccetque oùreutprftement que dvn Royft vn Snt & cet e nct Coud que nous honnorons upres de Prs Exempe fmeux à̀poterté́ de mton des Onces &s du mheur des Neeu"
-        ],
-        [
-            "J  AE LA TVTELLE Reexons urve de Thut Gontre & Codode A foee dvne femme donn eu à T Lcette vurpton es ynt rrtez preuerté otnéeee eut pû ouffrr vn Cone en ety pourdrecton des Etts de ces Pupes ou quee eut eté ez Potque pour eur en chor vn ee meme ee eut preuenu toute cetre voen ce dutnt que pr ce moyen ces Onces neuent oé entreprendre ur es ens &ve de eurs Neueux ynt des gens en tete cpes de eurs reter & uroent jeté ogez pr certe onne condute de rendre de ons offces à ces Mneurs du mons pr mxme dEtt ou ss uoent eté ez temerres pour fre queque choe à eur preudce s euent rencontré eucoup pus de dopporons dns des hommesges & vgoureux que non ps dns e foe eprt dvne Regente J"
-        ],
-        [
-            "DEs Roys Mre vrs 33 TD L L D L Hdeert fut fs de Sgeert RoydAutre & deReyne Brune hut Son pere Sgeert ynt eté cruee ment né u ege de Tourny pr es r tfces de Fredegondefut preerué du pe r prcondute deMere quee e ft decendre de nuct des mures de Prs dns vne Coree doer entre es mns de Gondeut on é qu uy fut fdee uquu ponct de uy coneruer on Ett &ve Dé̀ setnt ft couronner à Mets conmsme Roy dAutrerme u ot contre Chperc & Fredegonde es meurtrers de on pere uec vn uccez u peu heureux quecue etot utefut pus heureuxvngermort de on Once Chpere tué pr Fredegonderedu nt u ponct ou de reconnotre Gonde ut qu e portot pour fs du Grnd Co tre comme ucceeur du Royume enpce de Cotre econd on fs ou de uy"
-        ],
-        [
-            "t 4LA TELLE 34 ceder e Royume dOrens dontuot eteé ft herter pr e Tetment de Gon trn on Oncene uruequt gueresà es Conquetes etnt mort peu de temps pres qu fut decré Meur nt ̀ tous vn ute doute s etot mort de regret ou depoon & s etot putot opprmé pr e courge de Fredegonde que prmce de Brunchut Refexons urve de Chperc TNEt ordnre dvne femme qu re Agne de re courr en tot àfureur & ux rtfces mceux prce quePo tque uy mnque touoursron et quee et ntureement foe deprt & qu fut quee ppee en totponàon ecours quee outre quee et ueu ge dee meme ee ocurct encor e peude ron qu prede dns ce Sexe de m nere que nynt pus de dcernement du en & du m ee mee vn uec Putre pr vne etrnge confuon n que Bru nehut qu set trouuée que quefos on ne & e pus ouuent tres mechnte ou eneprt femnn reconnot encorce"
-        ],
-        [
-            "Des Roys Mnevs 35 qu et on & ute pour ne çuor ps es voyes & e chemn qu fut tenr pour y rruerempoye & met en vge toutes es rues & toutes es mces pour rruer àfn comme Fredegonde & tout ce ux dépens des Couronnes des Roys Mneurs de eurs propres enfns des grnds du Roy ume & des peupes qu etnt uets ̀ eur domnton deuennent ecuecs de eurs c prcesLOTARE SECON D Lorre econd nqut de Chperc& de Fredegonde Son erceu fur couronné douement en ce qu ggn vne fmeue vctore etnt encore dns es nges & mmmee deMere Ee e portot n en tete de es ecdrons rmés contre Chdeert e Fs de Brunehut qu pr vne meme ttente oot en ttquerve du Fs & honneur deMere Ms nnocence de vn &condute de utre es reduent eot u pont de demn der eux memespx qus uoent reet"
-        ],
-        [
-            "L T VTBLL E teée & dduoü̈er pour prent ceuy qus ne vouoent pont reconnotre uor pour my Ce Prnce fut eeu en prte ous ge condute de Gontrn on once Roy dOrens & en prte ous es ons deMere Fredegonde ̀ queeet ncertn S deuor pus dmour que de hne &s uy etot pus enement ogé deuor ms u monde que utement offensé den uor oteé Chper on Pere donttenot e Royume &ve Reexons urve de Cotre Second T A onne condutte de Gontrn Roy LL dOrens qu gouuern en px es dx premeres nnées demnorté de Cotre ft ez vor untge du com mndement des hommes pr deus ceuy des femmes cr Fredegonde neut ps pu rot vurpeé́ ce pouuor pr on mton deregée qu fut e mntenr prguerre u grnd preudce du repos de E t & u mecontentement de tout e mon de qu ç̧uot en quee nuot en tete quevngence contre Brunehut quee vouot executer u depends meme de tout"
-        ],
-        [
-            "DEs Roys MnEv 37 e Royume quee expoot pour cette p on Mheureue fo ee qu net ms ppuyée que pr des méchncetes execr es L  V THEODEBERT ET THERR YHeodeert & Therry furent Fs deChdeert Roy dAutre & de Feme Apresmort de eur PereRey ne Brunehut fut eur Tutrce & du en trux es deux Royumes dAutre & de Bourgongne que Chdeert uot eu poedé́s Ces deux freres ouscondute & pr e cone de eur yeue frent vne guer re rrecone à Fredegonde &Cotre econd Roy de Prs vount punr vne du meurtre de eur grnd Once e Roy Chperc & decrer utre fs egtme de Fredegonde & n ncpe deuc ceon du Royume de Frnce Ms cette femme rtfceue rchetvexton que e crgnot de ces deux Prnces prce X"
-        ],
-        [
-            "LA TvELLE on quee eur ft dvne prte des Royu mes d Orens & de Soons Depus enco re tnds que Theodeert regnot pe ment à Mets & Terry en Bourgongne Fre degond& Brunehut uns deM norté́ de eurs enfns e frent vne guerre dutnt pus cruee que vne comtotpour honneur & utre pourve Au dnsute de tnt deuenemens dont eur ve fut emré́e mton de vne ne peut etre dgnement pune que derune &cruuteé de utre utement vengée que demort &mce de toures es deux uue dedeoron entere de eurs Royumes Reexons uve Theodeert Q& Therry Ette Htore me eme e pus nfteu decruuté des femmes qu repreente ez en eur pernceue con dutte Deeffroyes mnquements e preenrntouuent ux yeux des Frnços deuoent en eur uor ft trouuer de quoy es corrger cr e ne cys commentet poes qus e oent touours def fendus des vurptons des pus punts du"
-        ],
-        [
-            "DEs Roys Mevs 39 monde & qus nont pû̂ e grentr de cees des femmes mteues s font tete àveur & meprent des chetés qu eur ont pus preudces V c e JT SGEBERT CHLDEBER CORBE ET MEROVEE Ogeert Chdeert Core & Merouéeetot fs de Terry Roy de Bourgon gne & dAutre qu es eut de dueres femmes & pr vn exempe remrque ̀poterté dnspremere rce de nos Roys s uv uccederent en es Royumes en qus fuent né́s de mrge egt mes Encore uourdhuy en Portug en Suoyé & dns tous es Etts qu ont Fefs de Empre ce e prrque s furent e eues ouscondute de Brunehut euryeues presmort de eur pere Terry tué en guerre pr Cotre econd Roy de Prs Ms peu pres pr vn exempe de cheté qu treuue peu de pres dns H tore s furent trhs pr eurs Mres Vr"
-        ],
-        [
-            "LA TVTELLE 40 ner & Aon & urés uec eur yeueReyne Brunehut ̀ ncen ennemy de eur mon e Roy Cotre eque nynt pont encore du tout tsft à̀coere duor ft upper ndgnementReyne Brunehutport encorerge uquu pont de es pruer eux meme du Royume & deve Reexons urve de Sgeert Chdeert Core & MeroueO e mheur que cue vne femme mteuement enrgée ee y me meux tout perdre que de prendre de onnes reoutons qu ne fttent pontez on humeur ponnéefut tout per dre pour regner eon es cprcesve des Roys & e ut des Etts ne uy ont ren u prx de es otntons ms touours ee treuue chtment pre ̀ es crmes quconduent nfementvne fn m heureue ce qu et de pus fcheux cet quee ny rrue qupresperte de eu coup de peronnes V"
-        ],
-        [
-            "Des Roys Mrvrs 42 VCLOVS SE CON D L ovs econd fut fs de Dgoert & de Nntde Pr vn exempe remr que enucceon de nos Roysfut prefereé́ à on né dns e drot deuccederu Royume de Frnce ot prron de on merte ou pr ncnton de on Pere qu e prefer en ce chox à Sgeert uquedonnCouronne dAutre Apresmort de Dgoert e jeune Cous fut eeuéous es ons demere Nntde decrée Re gente pr e Tetment de on Mry Au on pus grnd on & on premer Eoge fut de mntenr ces deux Freres en vnon & en px dns vnegrnde négté de fortune & dns vnenote dproporton de vo ontez Ce Prnce regn uec eucoup de douceur nynt u urpus ren sé de me more non de nuor ren sé de oy qufut dgne de memoreA"
-        ],
-        [
-            "48 L TvTELL ERefexons urve de Cous econd TEy erot ezoüeee nese tot ft vor denturée pr vn exempe de euerte nouye uprunt n qupres ee Cette Femme dnsprod geue udté quee uot de gouuerner E tt ft chtrer es utres enfns qu sy vou oent oppoer Fureue foee dvn eprt noement mteux qu veut regner en dépt deNture qu uyrefusé toutes es quhtez & tous es untges pour vngo reux empoy fn de fre vor quee ne uypont donné etre ̀ cette ntenton V CHARLES LE SMPLE TET Hres e Smpe fut fs de Louys e cond dt e Begue & de Adede ou Axnqut presmort deon Pere & fut ué́ des Frnços comme eur Roy me me dés deunt e jour dennce S M norté fut fort truereée pr mton des Regens qu vurperent en Frnce ut rté́"
-        ],
-        [
-            "DEs Roys MvRs 43 Souuerne de commnder Louys & Cro mn es freres Btrds duerent premere ment Ett pr eurs rgues Apres eur mort Chres e Gros fut couronné Roy de Frnce pr es Etts Eudes Roy de Bourgo gne en ute choy pr e Tetment du feu Roy & pr es Etts comme Regent du Royume durnt cette Mnortéft du rer uqu vngr & deux ns dns deetr ges confuons dffres quees ne peurent etre demeées dns tout e regne du Smpe & ne permrent ps qu fut jms pe poeeur de on Royume ynt etétou joursu eureux en on regne que dnsMnorté Refexons ur ve de Chres e Smpe E deregement des Regentes uec mpu nte donn dehrdee ux Prnces qufurent ppeez u mnment des ffres dempeter ur uthorté Roye & comme s uoent vn peu pus de condute que ces fu es s porterent u eur mton pus ou uertement juqùRoyuteé́ Les Femmes qu es uoent precedeés uoent donneé eu à̀ cette temerté qu ne fot que uure es"
-        ],
-        [
-            "JL TvELLE 44 voyes que ces mteues eur uoenten trcées V7 r rE L V L VLV L OvS urnommé dOutrer n Lqut de Chres e Smpe & dOgne edEdourd Roy dAngeterre Cecte Prn cee ynt ceu que on Mry uot eté ur prs & rrete pronner ̀ S Quentn pr He ert Comte de Vermndos on é & on ujet & que Rou Duc de Bourgogne uot eté procmé́ Roy de Frnce enp ce Ee prt ot on fs Louys encore fort jeune & uec uy e retr eurement en Angeterre vers on frere Adetn eque y regnot ors cednt n u eur defortune & àforce de es Ennems Ms en fn tous ces troues etns heureuément d pez ee fut rppeée en Frnce pr es Etts neuf ns pres quee en etot orte & on fs rety en ute dns e thrône de on Pe re eque etot mort durntpron putot du entment demere que devoence dueune"
-        ],
-        [
-            "DEs RoyYs MEvRS 45 ducune mde Ce fs ucced u Royume de on Pere uec urnt de eur & u peu de vertu Reexons urvede Louys dOutrer T A Regence eutpeu de credt en cette LL Reyne quee neut pont e pouuor de frrc eomme es utres Ee ft pourtntezjuger quee nurot ps meux gouuer ne ynt eu neuf ns vn pouuor ou ur on fs ns uy uor donné́ ucune Educ ton dgne dvn grnd Monrque Vò pr où ees commencent ̀ m gouuerner cr demuue ntructon de eurs enfns & de ncpcté quees fomentent dns eprt de ces jeunes Prnces ventneceté quonde quequvn qu prenne eon de es ff res dequees ees e ent ot cou rnt ou eur mton es ppee & nonps eur propre merte Xp AT LE E MER Ty Hppe premer fut fs de Henry pre L mer & de Anne fe de Georges E M"
-        ],
-        [
-            "2L T vrELLR 46 cuon Roy des Ruens Son Pere e ft cou ronner Roy de Frnce dés on vunt uuntcoutume de ce temps ̀ etnt ors eu ement âgeé de ept ns & pour dreerjeu nee à tous es exercces des Lettres & des Ar mesuy donn pour Tuteur & Regent du Royume Budoün Comte de Fndres Ce Prnce uruecut de fort peu e couronne ment de on fs equeht à cue de on ndpoton & presmort uunt on ordre Budon prt e gouuerne ment de Ett ueccondute dujeune Roy Cette Mnorteé fut fort heureue & nynt eu à̀ comttre que queques Gcons reuotez ee e pfort doucement prge mode rton du Regent eque uecfueur de tous es Prnces & Segneurs Frnços condu t on Pupe juqù ̂ge de qunze ns oùuyen cerre on Royume pe temporeement tnds qujoür de de cee qu et dns e Ce erernee & en heureuefut vnuereement regretté dvn chcun ynt eé vn exempe utre dvn on Tuteur de Roy & dvn ge Regent du Royume"
-        ],
-        [
-            "DEs RovYs Mnevrs 37 Refecons urve de Phppes PremerOỳ vn exempe ez fmeux de onne condute & deegtme Edu cton dvn Roy de Frnce qu deuot erur à toutepoterté dns etement deRegence pour e on ordre du Royume PHLPPES SECOND DT AVGVSTE THppe econdurnommeé́ Augute fut 2fs de Louys epteme dt e jeune &Adee fe de Thut Comte de Chm pgnefut cré & couronneé à Rhems du vunt de on Pere dns vne ceerteéAu gute qu enretenu e nomy dout de pus cee de Conquernt & de Vctoreux pour es heureux ucces de es rmes contre es nfdees deTerrnte que contre es ennems de Ett en Angeterre & en Fndres S Mnorte qu fut gement gou uernée pr AdeeMere & pr on Once Guume Archeueque de Rhemscom"
-        ],
-        [
-            "4s L T T ELL E menç eureuement pr e regement Cu & Potque de on Royumennt deCour e jeu &comede & ndmt u prés de oy que des hommes cpes & ver uexsoc énjeunee de Rchrd Duc de uyenne uec equeft depus e voyge deTerr Snte & p uec uy dns vn ̀̂ge pus uncé́ dvne confdence ex trême ̀ vne rreconce mté Prnce utnt recommende pour uor eteé condecendnt en toutes choes à f Mere pen dntMnorte comme pour uor com mndé oument ux Etrngers & ux HFnos dutnt on rege Pr touthereux horms enMo Reexons urve de Phppedt Augute E prtge de uthorté qu fut entreVee donee pendnteuneoe de ce Prnee & cetrte concorde & vnon de vo ontez u eruee du Roy & de Ett et vn prodge dé moderton dmre dns vn & dns utre qudepus eté dereé́ en de prees conjontures ms qu ne set pour tnt ps pû̂ rencontrer de notre temps cet V umree quvne temmeforte&fonneree et dvn prx netmeX"
-        ],
-        [
-            "Des Roys Mevs 49 J r T c SANCT LOVS Anct Louys fut fs de Louys hute A me & de Bnche de Cte L preté́&vertu de ce cune Prnce furent deors es preges eurés du onheur de on re gne L duceur demnorte qu e p ouscondute deReyne ncheme re fut vn preruge certn depx qu deuot etre dure en touteve Apres on Couronnenent ̀ RhensReyne qu uot ft confrmerRegence pr es Etts Ge erux soppo courgeuement ux Prn ces guez qu sefforç̧oent detrouer & es ynt premerement epreés vn de u trepr e Cone ee es defft encore pus vgoureuement prforce de es res Déj e eune Roy receut hommge du Duché de Bretgne qu uy fut reedr pr? Perre de Dreux urnomme pour ce uetMucerpres uor ft vne vte gene re des ves prncpes de on Royume en queereceut px tout es hommges"
-        ],
-        [
-            "T JL TvrEeLLe 50 & es vœus de es uets ouretnt dns e deuor es peupes oums ouredut es reuoteéson oeynce Enutentro dutpeté uecpx en on Royume & y ft forr pr toututce uec on dnce uec tnt de douceur de modertõ & de ge condute dns cét ̀ge que toutes es vertus enemement vnes uy frent deors merterquté de mct Refexons urve de nct LouysLerot dffce de mer mton de cette Regente pus quee etoten ppuyée deperé ee et pourtnt ccu ee duor excedé́ en es deens ms e reü̈ quee eneu excue eucoup outre quee uot vne condutte ntement ge nereue & queee ffectot de regner ee setudot pr tous moyens de sen rendre cpe Cet uor ez ft pour e exe duor ft vn Roy nct pr es onnesntructons"
-        ],
-        [
-            "DEs Rors Mvs rrXnL EAN PRETE RtTEn premer nqut de Louys dxeme Lurnommé Hutn & deRyne Çon tnce qu f encente mõrt outeFrnce etot enrente&en der de tece uor vn Roy ors queReyne ceouchf dvn fs pothum qu ft urnommé eh u Bptem Ms cette oyefuteot nterrompuë prmort de ce eune rn ce eque nynt vecu que hut ours ne treuue preque pone de nom ny de pte ds Htorefut pourtnt entetrée S Dens uec toutepompé que on âà cou tume de grder ux funeres des Roys & prmort on once Phppes dt e Long cngequté de Regent qu porrot en cee deRoy de Frnce qu uy etot eg tmement cque pr e drot dennceReeons urve de n PemerA mnorté de ce Roy futpus he reue pus qu deunt tout dncoupA"
-        ],
-        [
-            "52 L VteMjeut & fut ms en poeon er tge que es fctons des mteux ne uy peuuent ms fe perdre7 e XL 3Z V e c r e4ee?2AE 20 Hres xere fut fts de Chres cn queme dte Sge & de enne fe de errucde Bouron S Mnorté́ fue forterurése prumton d es onces qu e porterent poût Regens en Frne vn pres utre ou tous eneme Louys Duc dAju on Duc duBerpy Phrppe Duc de Burgongnm cqernt en ce ece detngs roueres drs Et pr eur ntegence & per eurs querees prtcue e s sAceouderent pourtt tousfre 3eres & CouronnérRoyR hens u otpres e deces de ̂n pere&donnerchrgede Conne te ̀ Ouuer de C on vn des Heros de ce ece chopoureét s empoy pr e feu oy dns on TetmentEn ee téps es tteesde s enns crnds que es enotonscrus Vt d urq hçustuut pcf́e"
-        ],
-        [
-            "DEs Rovs MEVRs 53 pcfée prprudence du Roy & du Re gent qu etot cques Duc de Bouron fre re deReyne uee queeprtgeot tout e Gouuernement de Ett Depus ynt Chté es reuotés de Prs & de queques utres Ves reees ce eune Prnce mntent on Royume en vne pro fonde px nt à̀poterté vn utre document quvn Royume dué et mons quvne eue mon en px Refexons urve de Chres Sxe me J Authorté egement prtgée & Lchngé́e de mnduers temps eonconttuton de Chres e Sge Roy ve rtement Potque ne nous prend que trop pr e on ordre qu en et prouenu comen Regeuement cette oy deuot etre oeruée & ns doute ee erot en core uourdhuy dnsvgueurm ton trop deregée des femmes ne uot preque ncnteneceteé & e eon quon en ur dot cuer on rete ment"
-        ],
-        [
-            "534 LA TvELLE  XV CHARLES HVCTESME NHres Huctéme etot fs de LouysOnzéme & de Chrotte de Suoye Lmton & urce de es Onces pu tot quefoee de on corps ou me cte de on eprt ft proongerMnor té pr de à e terme de qutorze ns ce Prn ce nynt eté decré Meur qupres dx huct ns pez Cependnt Anne de Frn ceœur Duchee de Beujeu eut en mn toute uchorté de commnder nt com me Gouuernnte deperonne du Roy que comme Regente du Royumefut Scré à̀ Rhems uec vne pompe du tout ex trordnre comme pt vn preoge euré deGrndeur future tnt es Etts Ge nerux à Tours & dp es Lgues des Prnces contreRegente uecmeme fcté qu es uot veus ntre Le Duc de Bretgne neprouu ps vn meeur or dnsreuote que e Duc dOrens dns"
-        ],
-        [
-            "DEs RoYs MNvsretrtte de Prs Lvn et prué pour vn temps de on Ett & utre eogné de ̀ preence deCour & tous deux décheus des onnes grces du Roy Leque pr vnege nttuton deunt en peu de temps vn des grnds Prnces qu yent msetéen cette Monrche & uque en verté ren n emé mnquer quvne pus ongue ve Refexjons urve de Chres HuctémeE temps de cette Mnorté ne fut ps LDpus heureux que es utres Ou m ron e nee e deordre &confuonfuuent neprement Vne eue femme eogne tous es Prnces dupres du Monr que & ene toutes es onnes voontez qu pourrot ur poureux Deen es ̀ctons & es guerres Cues qu de ce tëmrp̀ npporterent ps peu de troues ns cée Ett &e Monrque eut muy touses voents Cones quon uy donnoteut porté es ffros à̀ de dngereues extremte ms eprdon qu donn u Duc dOrens pres uor prs pronnder remt e çme en Frnce"
-        ],
-        [
-            "3 2L TvTLL E quvne femme uot troueé ncondere ment XV CHARLES NEVFESMEHres Neuféme ncqut de Henry Se Acond & de Ctherne de Medcsucced u Royume ̀ on frere ń Frn ç̧os Second du nom DurntMnortéReyneMere fut decrée Regẽte du Roy ume pr es Etts Generux tenus à Or enscommenç on Regne pr er gement de Louys Prnce de Condé hors depron où̀etot rrete Cette cton de douceur fut uue dvn exempe remr que de utce enperonne de que ques Segneurs guez contre e eruce du Roy Ms e regne de ce eune Prnce qu promettot vn ece dvnon & de px fut merement dué́ endeux fctõs dHu guenots & de Cthoques des Prnces deMon de Gue contre Amr qu d uerentFrnce dee meme &mrent en proye ̀ es propresenfns Ce fut ors que"
-        ],
-        [
-            "Des Roys MnEVRS que on vt en Frnce e Pere rmé contre e fs es freres entre eux & es proches vn Acontre utre Sece dhorreur & de confu on où on ne dcerne pus e prent d uec vn Etnger ny vn mechnt hommeduec vn homme vertueux Lextremté de ce mheuruquu ponct que ce de ordre ne peut etre ppé que pr vn utreet remrque que es Lettres deM jorté du Roy furent verfées u Prement de Roüen contreCoutume &preten ton de ceuy de Prs qu e dt etre e Pr ement des Prs & du Roy meme Refexons urve de Chres Neuféme E Regnofut rempy de perfdes do Amntons & de mheurs épouunt es Vne femme qu uot pout deue & pour roure mxme due fn que tu regne ynt prtquée exctement tout e temps deve emdcorde &duon dns ce mere Etr pour pus de cnqunte ns es meurtres es gnts es perf des es empoonnemens & toutes escherez mgnes furent es degrez prsoùmudte mton mont ur e Trô"
-        ],
-        [
-            "L T vEE 5sne pour y fre ectter de pus hut es n utces ns mercorde fnt entr tout ce quvne femmede fureur qund eetoute uthortéXVTc r7Tc LOVS TREZESMEOuys Trezéme fut fs de Henry Qu Ltréme urnommé e Grnd & de M re de Medcsncqut uec e ece u quepport e oeur &px L Tu tee deMnorté &Regence du Roy ume fut deferée àReyneMere pr e conentement vnuere de tous es Ordres du Eoyume & confrmée en ute pr e Cone & pr e Prement Peu pres e Scre du Roy à̀ Rhems on trtt de on mrge uec Anne dAutrche nfte dE pgne qu fur ceeré cnq ns pres enve de Bourdeux & conommeé depus ̀ Prs En utepunton de queques Se gneurs coupes u en que dunce ment Cour des peronnes de condrton & de merre cqurent u eune Roy e ur"
-        ],
-        [
-            "DEs Roys MNEvRe 59 nom de ute quoutenu goreuemet durnt tout e cours deve pr équtéde es rmes & prproté́ de ve u temps depx L Lgue des Prnces vns contre uthorté deRegente & pour e drot du Mneur ne ft que demã̃der oer uton des Lox du Royume ms nynt pû otenr ee tru en vn ̀ vne ffremportnte Ce Prncedonné de pus ̀Frnce vn ece de Tromphes & de Vctores qu nerendent ps euement nunee ̀ es ennems ms qufont encore formde ̀ ee meme Reexons urve de Louys TreémeJ A Regente uot me onne & ns ALdmuton ms ee uot vne mer ueeue enue de regner tee quee e trou ue ntureement dns ce Sexe Ee etotccompgnée depus grnde foee du monde Comme on peut uger prfoe crence quee uot ux Deuns & Atroo gues Les pernceux Cones de Conchne & defemme qu unt defcté de cette onne Prncee setoent rendus es Mtres de tout Ett oent umer vn"
-        ],
-        [
-            "L TvtLLE 6ncende effroye en Frncee Roy me me encor eune Meur neut preuenu ce mheureux deen en fnt tuer ceuy qu en etot utheur prncp & neut eognéReyne de es Cones uy otnt vn fct trop pent à̀foee du Sexe qu nentre ms dns e mnment des f fres dEtt qùrune du Monrque & deMonrcheuO r Ler 7rD DSCOVRS AV LECTE VR ur e egne de Louys VMY Lecteur e vous donne ce Regne f eucoup pus etendu que tous es utres prce qu et treportnt de ç uor tout ce qu e pe de notre temps ̀memore goreue de notre jeune Mjeuret vry que es commencemens deMno rteé ont eteé treeureux cet ce qu muot porté à̀ encherr pr deus tous es utres & de ouer exce uementee Educton du Prnceonne condute de Ett pr es Prnces & es Mntres & e ge gouuerne nent"
-        ],
-        [
-            "Des Roys MrE vs 6 ment de Moneur de Veroy urperon ne & e jeune ̀ge de notre Monrque Msm en fu chnger de reou ton dnsconfuon & e renuerement ge ner dvne ordre qu emot deuor durer touours uos prs vn grnd vo uec eucoup de tsfcton e voudros etre en ett de e contnuër ce que e feros ns dou tees choes uoent uuy de meme ped & ns nterrupton Hes jpprehende que de ong temps e ne pue retreuuertr montne que jy perdue & que e f de mon htore ne ot rompu pour jms pr es eureues menées qu e prttquent uec tnt de voence quon en oerot pus dre à preentverteé de peur den choquer ceux meme qu font vertement tous es m heurs ou de donner tnt dhorreur àpo terté quee ot m receue dms eprt des Sges & du vugre Quoy qu en pue rruer e prery touours comme s feront & e dry tou jours mes entmens uec tnr de ncere & de frnche queen us depprouu pn ceux qu ne veuent ps quon mette u jour eurs mnquemens ury du mons cét d Q"
-        ],
-        [
-            "JL TvVTELLE 62 untge de nuor pont fy e premer ouù putot duor dt rement qus nont nenft qu ve y donc trtté dvne utre orteut te de ce Regne de Louys XV & e me us ccommod́ ux chngemens deCour qu ont etéfrequens &fcheux pour nous e ne es degue pont cret en perms de oü̈er exceuement es onnes choes ms non ps de dmnuer es mu ues dutnt que ce qu et m ne peut ms per pour vn en tnt pett pue t etre Mon entment et ppuyé de cette r on que es oü̈nges exceues ux onnes ctons ont touours vn moyen cpe dexcter ̀ de meeures & de pus utres Au contrres des muues quon ne peut ms doucr quen trompnt eprt de ceuy qu es commet & cetque e mets outefrtere e ne ery ms che ̀ ce pont dp prouuer ce queron condmne tcte ment e e puery touours tout hut & fery vne verte deducton quoy que en dfferente depremere de tout ce qu"
-        ],
-        [
-            "DS RoYS MEvRs 63 Set pe depusMorté & tout ce qu e dot percy pres dvne fcçon decrre que tu trouuers ncorrupte e te pre Mon cher Lecteur dexmner e tout ns prcoceupton deprt S tu me vos tout chngé urfn de ce Pne gyrque de ce que jetos u commence ment ne ten etonne pont Regrde eue ment es chngemens de Ett & pour ors tu uouers uec moy que jy ron de netre pus moeme Tu verrs pourtnt toute cette ute dnspus nfue repreentton de tout ce qu set pé &tu me demndes pr quee Potque tout ce e gouuerne e te dry hrdment que cet fute dy en uor S en que qund e me pndry du mu us Gouuernement e e fery vor à me me temps & tu ten pourrs en reou uenr toeme fn quon çche que ce net ps ns ron que e regrette e temps pe & que e donne de pprehenon de uenrNe cherche pont dns cét Ecrt comen nos mux dureront encore e te e decre en cét rtce Ce er Mon cher Lecteur 2"
-        ],
-        [
-            "364 L TVTELLE DES RoYs M juques ̀ ce que e Roy prenne connondes muetons de ceux qu e gou uernent & qu runent on Ett que esynt en reconnuses chter de eurs voontez ponnees & vendr enor à regner comme vn eon ur es eux dns V grnd cme pres vue efroye tem pete e td E L eou e ESpen e SEe PANE GY"
-        ],
-        [
-            "grrrnPANEGYRQVE SVR LA PERSONNE LOVS XV DEONN E ET DE N v ARRE s ov TEs ee Jft tures ont du rpport eoune ee onne eue en et mge A 0"
-        ],
-        [
-            "32 LE ROY MNEVR Et cette noe dfference qu éogne deee des u tresfct pprocher degrndeur de on Prncpe Dns ce Pruege commune rencontre encore vn un tge prtcuer qu de tous es hommes ne peut pprtenr qù ceux que e premer des Souuernsvouu dtnguer decommunuté de eur r on pr es Crcteres de on pouuor L fçon dvn Monrque ne coute ps pus ̀ Deu que ce e dvn V prce quePunce setend ̀ fre tou tes choes uec fctégt"
-        ],
-        [
-            "PANEG YRQVE 3 pourtnt en ce pont dvne m nere utnt extrordnre quee et meurée ̀ mpor tnce du ujetCet en céteor te douurge qucoutume dexceer cet ors qu v puer u fond de es Treors es rches ornements qu peuuent prer vn effet des eutez decue Et quoy qu oerue touours deproporton en tre es moyens &fnp rot cy pus etudé & prend ce eme pus de ong du ter on chox ux crcontn ces qu e détermnent L Frnce tent e premer rng prmy es Monrches A j"
-        ],
-        [
-            "4 LE ROY MNEVR Chretennes es Roys ont es nez entre es enfns de Ege Et e Ce qu es éeue ̀ ce degré dHonneur eurfct des nfereurs de tous es Porentts deTerre Ce Pere Vnuere de qu e monde et fme jouxden mntenr éct ccompgne touours de es enedctons ce droct dnee qu eur et A re cqus Etrosée du Ce & Cœ & de t ondnce dererre qu en S compoent es effets contr uënt égement ̀ es rendre es pus vertueux comme es pus punts Cette vertécontnte qu pru"
-        ],
-        [
-            "PANEGYRQVE 5 pru ene ̀ nos ncetres & qu eme ez ete pr experence de tnt de eces trouue encore vne ee confrmton dnsnouuee epreuue que nous en fons prnnce & pr educton du pus pr ft de tous es Prnces S nsnce ne tene ps du mrce ou putot ne peun ps dre quee fut vn mrce enter ot quon exmne e temps & ett du Royume ot quon repe enmemorecrnte que pus de vngt nnées du Mrge du Roy3"
-        ],
-        [
-            "3 2 6 LE ROY MNEVR nous foent conceuor deterté deReyne? Vn Ett en px ne peut ps onemps etre ns guerre es corps es pus ns ne ont ps exempts detre mdes nous trouuons e pus ouuen nos ennems prmy nos dometques & nos fmers ref nous ne çuons pont de reges dont oeruncepus excte nous pue grntr de ces ccdents Et quoy que tout ce ne ot ps hors du nom re des choes poes on peut en fre vne ctegore uecperre des Chymtes"
-        ],
-        [
-            "PANEG YRQVE 7 &poudre de proecton nconuenent en detrut touours e ucceés Et com me e muus vge des r chees ft euporer e tr u de ceuy qu pr on Art e rendrot eot rtre defortune u oueté & e trop grnd ttchement ux choes deterre trou e e reposnté & es etrotes vnons de ceux quetrop ongue jouynce de ces prs pourrot écrter de eur dépendnce egtme S nous ronnons en ur ces euenements nOus trouuerons ns doute que"
-        ],
-        [
-            "8 LE Roy MnEvR ce ont es moyens dont e ertSgee eternee pour nous tenr dns e deuor & qù peu prés pour de pres motfs ee uot perms en tre es deux premeres Mo nrches de Europe vne guerre dont on ne vod en core uë qù truers nos ouhts de depus que ques nnées ce feu deu tce eur fot entr on courroux ors que prmy es mrques decoere ee en donn vne ̀Frnce de on mour pr cette nsnce utnt gree que derée Ceè etoent generes &"
-        ],
-        [
-            "PANEGYRQVE 9 &coere emot etre commune à ces deux Royu mes rmés cey toute prtcuere & on mour e decr pour ppnge de es fuorsnet ps necere ̀Frnce de reuor toute on Htore pour e reouuenr de tnt de merueeux ef fets qu uy ont rendu v eprotecton du Cememore uy en fournt engrnd nomre quon peut dre queutte des temps enputot contnué que renouueé es preuues mspremere &prn 3"
-        ],
-        [
-            "2 0 LE RoY MEvR cpe epece de toutes es grces quee en reçot et e don de es Roys qucede rre que comme s ont toûjours é́eus pr vnque uffrge deDunté eur prtcpton en et dutnt pus epurée quee et m medte & qus ne ontps redeues de eur Couron ne à des eecteurs corrom pus ou ntereezCet duntge des Lox fondmentes de Ett qu reeruent à̀ Deu eu vn droct de ptronge ur cet te Monrche & qu exem ptent n des erreurs de é"
-        ],
-        [
-            "PANEGYRQVEecton comme defoe e du gouuernement en ce quees ne ouffrent ps quon fce ndfferemment vn Sceptre du os dvne quenoüe ou de ceuy dvn jueot L nnce de notre Prnce enchert ur toutes es utres u eegnée pr e ttre quu ue Cét Augute urnom de DEONNE qu com prend uec untge ceux de ute de Grnd & tous es pus utres quyentms porté es deuncerses reünt eneue peronne"
-        ],
-        [
-            "2 LE ROY MNEVR & mportnce du Preent e mnfete ez prde gnton demn qu nousftFrnce tu etos donc r méeterre portot tes e gons &Mertes veux n enfnt vent ̀ ton ecours pour seurer tes vctores que de pus foe ms que de pus fort pour toy? Sur vn de ces éementsrenuere tes ennems ur u trees épouunte vne n gne vctore ggnée pr tes Geres enMer de Gen nes et vn gn devenuë & e ruct quee ft u monde"
-        ],
-        [
-            "PANEGYRQVE 3 monde porte pr toutoye ou effroyne fut quvne nuct ̀ Ange pour e u extermnerpunte r mée de Senncher vn our ufft ̀ ton Duphn pour vncre ou pour etonner es grndes forces de Epgne prce que tous deux etoent enuoyez deprt de Deu Le eon que nous uons dvne grce nousft de rer uec rdeur nous en ouf frons e retrdement ueec mptence & nous ote nons nec joyeongueur de vn ftgrndeur de utre & e pr qu utD3 3"
-        ],
-        [
-            "24 LE ROyY MNEVR joünce sugmente pr e nnen oepnutn oupreced́e L Nnce de Louys e ute ft éprou uer cette verté cee de on DEONNEconfrme L premere donnot ̀ nos Frncos ftguez de eurs mouuements cus vn Fs dHenry e Grnd pour etre herter de es vertus & de on Sceptredernere ft encore vure ce Heros & montre que e Ce uy ft utce en conerunt àpo terté vne Couronne quon pouuot mons dre on her tge queconquete"
-        ],
-        [
-            "3 5 t PANEGYRQVE 5 L Frnce qu uot veu fnrrce des Vos prés tros freres Couronnés ynt nguy pus de oxnte ns dnsvne epernce dvn Duphn sen voyot encore frutréepr emheurdeeur nce qu rendot tere e mrge deHenryeGrnd n vous euez dt que pr vne ftté tnt de fos re connuëucceon de ce Royume netot pus det née qù des Corerux mMs ces pprehenons mou rurent uec e uet qu es uot ft ntre Louys e ute ne vt ps putot"
-        ],
-        [
-            "6 LE ROY MNEVR umere qu fut e Soe de PEtt & e premer de es ryons fut ez vgoureux pour dper tous es nuges qu uoent troué Ce pett Hercue Frnç̧os ne ft ps on ey ur des erpentsécr dés oner ceu vn hydre qu uqu ors uot touours eu que ques tetes enfngue d prut &ve de ce mon tre fnt ou cee de notre Monrque commenç Heu reue gnée de nos Roys qu preerue es Peupes de tnt de mheurs qu nont em é nous mencer que pour gner"
-        ],
-        [
-            "s 9 s S s e PANEGYRQVE 7 gner & nous rendre pus dorevenuë de ce DEv DONNE qu termne nos m eres pr ccompement de nos vœuxLes grndes choes ne e produent ps ̀mnere des communesmere des etrescoutume de e tenr queque temps en reerue qund ee veut enfnter des prodges es eux ccou chements ont eur on & eurs preges comme es funetes detructons Et on ne dot pus setonnerpour vne econde fosterté dAnne euncé E3"
-        ],
-        [
-            "Reg8 LE ROY MNEvR nnce de Smuë etot ute que Louys qu e fut en toutes es ctõs ̂t ̀ on Empre vn ute protecteur deutce & de es Lox msfot u pour ccompr cét Cte de utce qu dépendot mons devoonté que de es veux mporer vne ute m ercordefot quvne Reyne ver̂t des rmes pour econderpeté dvn Roy Et que rdeur deprere enfnmm̂t eurmour pour en donner à̀ eurs u jets vn gge preceux qu fuût mons vn enfntement de"
-        ],
-        [
-            "PANEGYRQVE 9Nture quvne dopton degrce Lvnque pon de deux cœurS eétrotement cononts deuot crotre pr e refus unt que detre tsftee e vœu de deux cetes Cou ronnées dvn eu Dde me deuot emprunterper euernce de ce qu emot e rendre nute oect de tnt de oû̂prs éncez pt ces deux peronnes Royes deuot etre pus etmé prdffcuté deConquetevox dvn Peupe onte à̀ cee de es Souuerns hum ez deuot enfn pr es re"
-        ],
-        [
-            "2e LE RoY MNEvR douements penetrer tous es Ceux pour y porter vne meme pnte & tout ce ns doute deuot predre ̀ notre Louys que uy( qu en etot enfnt) erot e Pere dvn mrce Mstnt de ders ont préuenu cette nnce eu coup pus de contentements ont uue excez de ce oeur en urpe es e pernces &nture me ne trouue tnt de urntu re en on ouurge quee sy méconnot e deen deproducton netot quvn em fnt ce queeft uy em e"
-        ],
-        [
-            "sS t PANEGYRQVE 2 e pus quvn homme uque ̀ quee crot vor vn gene dns e erceu & vne nte gence ̀mmmee ee en rete nterdte & e deffefort de queque rtfce étrnger quee ccuerot voonters dvne ee up poton tous es temons qu pourroentconuncre de tre eue coupecet vn crme duor trop en ft Tnt de grces font on er reur & es memes eutezdeuent Ee reuent de on etonnement & prmy tnt dttrts reconnont"
-        ],
-        [
-            "4 22 LE ROY MNEVR es perfectons du pus grnd homme dns on pus pett regé ee e reouuent n contnent que toutes es r res notons qu ont ms rempy on dée ont entré pr deen dnscompo ton de ce cheœuure & que ns e tromper eepeu e prendre pour vn gene & pour ntegence qu erot deormsmotrce de cét Ett En effect SREet con tnt que cét Artn de qu ndutre ft vn Nure cou uert de e dvn mouche ron neut ms tnt ddre"
-        ],
-        [
-            "st t PAEGYRQVE 23 e ̀ rmer en peu dep ce vngrnd nomre de ees proportons Et que tout ce qu et de rre u monde ne pourrot ren f re dmrer dccompy com me votre enfnceces me mes perfectons qu vous c compgnoent dns e er ceu ne crooent uecvouS pour fre éctter ur e trô ne vne Mjeté que ge fortfe ms qu netot pont puere dns vn Roy de qu tre ou cnq ns An notre Duphn n nt ne trouue ren dég en Vnuers & pour netre S"
-        ],
-        [
-            "24 LE ROY MNE vVR compre qù uemene peut etre urpé que pr vn Roy en qu es pro pres gréments proent uec pus déct ous es rnts dvne Couronne qu es couure ns es ccher Le refechement qu nt de pproche de ces deux u tres dfferents donne de é ouement ux yeux qu ne eur permet ps den d tnguerforce An on peut douter que des deux et e pus pusntces ryons mutues sentrechoquent ns Soffuquer u contrre s sSent dns eur oppoton n"
-        ],
-        [
-            "S PANEGYRQVE 25 ńmẽ̃t pourron dre ques ont es pus vfs toutesfos ceux dePeron e ement dutnt pus en cherr ur ceux du Ddéme que ceuy séeue à̀ meu re que ce crotMs nons psvte à̀ fre vn Roy qu e er trop tot ne pouunt ps mnquer de etre conderons vn peu notre pett Duphn qu n pru qupres de fcheues tempetes trouuons en uy deMeté unt que de e mettre ur e Trône Pour e mons ons ̀Frnce e or &erté de rendre T"
-        ],
-        [
-            "226 LE ROY MNEVR grces urout punt qufuorśe & ne confondons ps des crfces de recon nonce pour vn uet de oye ̀nnce ds uec des regrets & des pn tes pour vne occon de doueur àmort de on Pere Frnce téu en cqu tée des deuors quvn en ft de tee mportnce ex geot de tes entments ? As tu en tsft ux vœux & ux promees qu ccomp gnoent tes demndes? Leur effet ne cu pont ton ouy & eur uccez ton n"
-        ],
-        [
-            "PANEGYRQVE 27 grttude? Non non cecrme et éogné de toy e ten croy ncpepreence de ton oet te fer ns cese do rer ce qu ten conerueposeon & e deffut de t memore ne er ms com pte uec excez de es chrmes Au ce pompeux pp re & toutes ces eutez dont e reut urot pré Ancenne Rome dnsoemnté de es jeux & de es tromphes Ces feux qu ren doentnuct pus écrée que e meu du our & tnt dAtres rtfces qu u"
-        ],
-        [
-            "4 28 LE ROY MNEVR roent ft honte u oe ne toent que des etncees deoye puque & des ege res mrques de mour que fot écter dns Cpte du Royume e cœur des C toyens Cette noe prte de homme uot reerué tous es prncpux mouuements pour nen montrervehe mence qù Autheur de nos fectez enfn tous es Frn ços etoent rus & prmy ces rusemens on voyot des pprences dnen té ees ne prouenoent que dexteDonc ce Duphn ceete pront"
-        ],
-        [
-            "PANEGYRQVE 29 prosnt u pus eu c mt deTerre en chrm tous es htns & es eues eutez ves prtgerent dord es cœurs & es yeux dnsvenerton de ou urer & de ouurge ms ders que prmy ces un tges corpores on pperçeut queque choe qu urpsot e entf & que eprt dvnhomme commenç tnt ot peu den nmerfgure quee fut notre dmrton? que fut e entment vnuer e ̀premere oeruton de peronne & dees getes? que nous mrquot on ton 3"
-        ],
-        [
-            "4 30 LE RoY MNEvR de vox on rdémrche on eurnce &ce vge e reux ur vn corps enfntn qu dnspettee fot déj repectergrndeur? Lors chcun ne concu ps dvn commun uffrge que e Ce setot epusé ̀ nous comer de es fueurs en vernt ur ce pett Prnce ondnce de es end cCtons Toutes nos mes ont de meme trempe tousnoscorps ont de chr & dos pourtnt eprt des hommes net ps toûjours pre ny eur v gueur eme Ame gt"
-        ],
-        [
-            "PnEcYvE 3 pus prftement où ee et meux orgnsée Et dns es ouurges denture com me dns ceux de rt quoy que dememe mtere & du meme deen vn uor te & utre excee Que voyons nous dns cét yme rejetton de nos Lys qu ne prouue on exceen ce? que découur ̀ nos yeux qu ne ot tres prft? H t ns doute extereur dvneu ve ft juger de ce qu enferme & Art n qu mt en œuure cette perre preteue nousdequoy comprer on orne"
-        ],
-        [
-            "2 32 LE ROY MNEVR ment uec on prx Bref cet ns contredt que ce Prnceeu dentu re tout ce quee uot ̀ don ner & que ms ee ne futere dnsdtru ton de es grces ̀ es Fuo rs queeeté cureue de es rmer pour fre en ceuy vn prft sem ge de toutes es prtes dont chcune en prtcuer eut eté uffnte pour freeurs vne meruee Ms quoy?proudence ne nous fe cePreent que pour noyer dns notre joyedoueur qudeuot u ure?"
-        ],
-        [
-            "PANEGYRQVE 33 ure? nuons nous otenu ce Fs que pour nous vor rur e Pere? encore qu fût né pour ucceder ̀ on Empre fotqu en prttotpoeon? Ces deux Atres onfort ncomptes que Orent de vn ot e Couchnt de utre? Ouy grnd Roy cette crcontn ce mnquot encore ̀ votre mour pour e rendre prft enuers vos peupesfot quvn fcheux éuenement en ft vorncerté dns votre propre perte & que ne jount ps du frut de vVoS demndes on nen deût"
-        ],
-        [
-            "2 44 LE ROY MNE vR enternement qù vne ver tu détereée Vous ne de mndez ps pourvous cene tot que pour votre Ett & peutre que crfnt pour on repos vous uez ouhtté detre vous me mevctme e der degore qu ne mrchot en vous qupréspéré ne d gnot pus ervos pesées àconquete deTerrees ́euot toutes u Ce Et ce Thetre pus émñt(quoy que mons ve) uot pour vous en pus dpps que ceuy de Europe où votre rs vctoreux ot en"
-        ],
-        [
-            "PANEGYRQVE 35 tot fre peurer ce pett Aexndre S es hommes netoent creés que pour e monde es Roys pr deus tous es u tres uroent ron den y mer e séjour Ms pus qus y meurent comme s y n ent es Ros pus que tous utres sen douent deé́tcher fn de netre ps pus éo gnez du vry oeur dns vne fecté pprente que ceux qu sy peuuent e mons tromper dnsouf frnce dvne mereverte LoYS e ute qu por tot gruez dns on cœur es"
-        ],
-        [
-            "36 LE ROY MNEVR entments qumprmevertu çuot ez mpor tnce de ce dcernement &queque choe uot pû̂ uy fre ouhtter vne pus ongue ve ce ne pouuot etre que e der dcheuer en notre Duphn pr on éducton ce que e Ce uotheureuement com e mencé prnnce ee Luy qu uot regné com ro qu en me s eût vouu redureeee poterté dns mpoe de eostrouuer on eme eût uun pourtnt ft es efforts pourue e rendre encore pus prfte & urot creu ne pouuor n meux"
-        ],
-        [
-            "PANEGYRQVE 37 meux mmortervertu quen nous nt vn ucce eur cpe den couurr é ct pr e nouueu utre deenne Toutesfosçuot u & pr experence que e rs qu t e Pere dnsfor ce oûtent e Fs dnsfo ee que e coup qu met vn pr terre nndonne ps utre u deepor Et que cét œ toûjours ouuert àcondute de Vnuers ée ue meux vn Roy Mneur que es ons Pternes ne e rendent dgne de etre n ns vouor de pus prés ex"
-        ],
-        [
-            "4 38 LE ROY MNEVR mner quees ont es mx mesttendot toûjoursuec repect cequetot pret de ouffrr ns murmure E nfnmort (cette ueu ge coupe qu détrut négté de nos ves pr é gté de notre fn) redut e premer des Monrques u meme pont que e derner des hommesHeureux queutce &peté en yent ftdfference en nous f nt juger uecque pus de certtude quux veux Ro mns qu et vn de nos tu teres ns ugmenter e nomre de nos Deux"
-        ],
-        [
-            "PANEGYRQVE 39 Conoez ous Frnços votre doueur offene on oetconent que vous é́touffez dns mour de on ucceeur Et queme e vox qu vent de vous nnoncerperte ne fce que chnger de ton pour pro cmer e nouueu Roy Ms quoy? ne connoez on me vous ps que cet uy mmfu me qu rent enperonne nuenen de on Fs? qu veut etre Mneur vne econde fos pour recommencer detre e Tuteur de on peupe vne eue vnté djoutée ur e premer nomre nous dtn"
-        ],
-        [
-            "40 LE ROY MNE vVR gue ces deux LOVYs vne meme vctore qu ftfn dvn Regne & e commen cement dvn utre ft trou uer ̀Frnce dns e chn gement defortunecon tnce de on oeurCet mntennt que nous pouuons conderer notre pett Monrque deous e dz de es yeuset temps qu nous fce vor deus e trun deutce de on Pere vn pett Souuern qu ne cognot quvne eue pu nce u deus deenne ftes vous porter ur e Tr̂ ne (SRE) vous ny çurez monter"
-        ],
-        [
-            "PANEGYRQVE4 monterdectee de vos memres ne econde ps en corevgueur de votre courge votre rs ne pont trop foe pour vn ceptrepent? vne couron ne qu urot chnceé urtete des Cers peue re poer uec eurnce urvotre? Quoy déj vous pr ez en Roy Et e decret du Ce qu vous ett sexe cute pr votre ouche qu e prononce prvox du peupe qu nterprete & pr es uffrges de votre Prement qu e confrme Ms pendnt que vous L 2"
-        ],
-        [
-            "42 LE ROY MNEvVR etes dns e Sent Frnços oeroe ntrodure ce grnd Orteur qu fût utres fos ornement duSent Ro mn pour vous dre que homme et doüé dvne v ucté deprt dont es ens Tnn font pour n dre) es gr rt des & es émres & dvneegu fgure de corps conuene à es mouuements tous ceux qu peuuent regrder fxe ment V M trouueront p pcton de cette pensée tres fuore enperonne Et Set vry que e vge ot e mror de Ame s verront rer dns es yeux es"
-        ],
-        [
-            "PANEGYRQVE 43 ryons nnts dvne vertu ode & protre ur on front es gnes eudents dv ne gee qu preuent on ge s remrqueront que on jugement forme es ge tes & cognotrontmode rton dnsgrce decontennces jugeront que on eprt commnde à̀ es ens comme ̀ des grdes de veer àeureté comme à des émres de porter es ordres pr tout & qu ft n es ecues de es tyrns ordnre des hommes et den fre eurs mtres & quequesfos eurs Deux vn"
-        ],
-        [
-            "44 LE Roy MevR enfnt es gourmnde & sc coû̂tume ̀ es domteret vry qu et Touusnt & meme urvoontémpoe e joug ̀ cette ueu ge ouuerne qu veut été dredomnton juque ur es pusnces écrées L methode de en re gner et de ssujettr oy meme vous drez que no tre pett Prnceconçot déjprftement qu srme & qu e fortfe con tre des pons qu ne ont ps encore nées comme s vouot enegner unt que duor pprs quvn Roy dot"
-        ],
-        [
-            "PANECYRQVE 45 dot e rendre pus ou ur eme uy meme que ur es pe pes Lons e crotre & voyons cutuer pr vne u tre éducton es pus no es ncntons & es pus eux tens qu yent j ms pré eTrône Ce net ps ez detre né pour Emprefut e mer ter e merte scquert prvertuvertu e perfe ctonne pr ntructon &onne ntructon du Prn ce ftprncpe epern ce dvn on Regneet en vry quevertu e tus quo prunte queques mouue u M"
-        ],
-        [
-            "46 LE ROY MNEvR uont ments denture ms cet fend ̀ rt de es regerfut en er trouuer e ecret ̀ force deons Et cet dns cette étue de que e Prudent rencontre pent e vn urcrot de gee eCone quernt de courge & e u ue Prnce de utee eurChez es Ethopens & dns quem eodue es ndes u rpport de que rns ques Comogrphes on é os ot ntennement e pus vt eu prce que euté fym pthe uecvertu commedeur uec e vce Au jourdhuydns es Royumes éectfs on cõdere e pusver tueuxprce que de ce chox"
-        ],
-        [
-            "PANEGYRQVE 47 dépendonne oumu ue fortune dvn Ett Ms Qn o deen dns es uccefsfut u que éducton uppée ce u edo pene que éecton recherche p urce que cette orte de Prnc puté net etméeme eure qu cue quee peut uor tous es untges des utres ns prtcper ̀ eurs defuts et tres necere de en commencer & de jetter dés e erceu es premeres e mences qu pourront uec que e temps dvn Prnce f re vn Demeu eprt et pus fce ̀ préuenr dns"
-        ],
-        [
-            "48 LE ROY MEVR foee qù moderer dnsfougue memore et pusferme qund e jugement et mohs frmné & comme es premeres mpreons ont ouuent es pus fortesm porte quees oent on nes L temps e pus propre ̀ ee ttuctodu Prnce et ce mnd e ete uy qu préuentcogno Prnecp nou nce dé ce qu et dée de ene e oepunce ouë qu sem n pre sément de eprt dvn e n eune Monrque y e peu de pce poun vn ujette ent vootre rrement ouffeeorrecton qund"
-        ],
-        [
-            "PANEGYRQVE 49conçot en uy ce pouuor de tout fre uec mpunté rrement pret oree u Pnégyrque devertu ou ̀tyre du vce qund on cœur uy uggere qu peu fre vne mode duqueuy pr Le notre que e Ce vou ot excepter de cette mx me enreceu des grces qufont ceerne pouuot ps etre ntrut unt qu fût Roy prce qu et pre que né ur e Trône mset né uec es qutez dvn Roy du mons uecque es dpotons propres pour es"
-        ],
-        [
-            "50 LE ROY MNEVR cquerr e vt chrgé dvne Couronne deunt qu pût çuor commentfotporter prce que cette cen ce ne veut pont de tempsmté & que ce net ps trop dvne ve pour vne etudenecere Ms quoy quepremere de es cogno nces yt eté cee deSou uerneté es ncntons té mognent que e pus grnd de es ders er toûjours dpprendre ̀ nen pont uer Vne docté ncompr e (vrye ource des on nes mœurs ft en uypre"
-        ],
-        [
-            "PANEGYRQVE 5 mere couche ur quee e peut trcer uec peu de pene & eucoup de frut e trt hrdy dvn eu precepte Cet ̀ qu rencontre on jour cet ̀ qu ft tout on effet Et quvn eprt quon peut dre fort ns ren uor de rude & doux ns etre fo e court u deunt pr vne vue concepton qu reeue dnsmondre prtquepus prfte theore Au emo SRE ̀ vor vos premeres ctons que e precepte djoûtot mons ̀perfecton de vo tre eprt que votre eprt"
-        ],
-        [
-            "52 LE ROY MNEVR éct du precepte Et que vous etnt enegné pr vo edee tre Gouuernnterece ceuot en pus de utre qu nen donnot V M qu entoû̂jours ft vn exempe dutnt pus dm ré que votre ̀ge & on exe contruoent ̀ e rendre n croye Vne femme pour ordnre net ps reputée fort cpe dnprer de eux entments ny vn en fnt den eucoup profter ms notre Prnce etot do ce &Gouuernnte gene reue Qund urez vous vn Gou uerneur J"
-        ],
-        [
-            "PANEGYRQVE 53 uerneur SRE? netps temps que vos vertus de uennent m̂es ? vous uez ez ft dhonneur ux D mes qu uqucy vous ont enuronné vount en quon yt creu queesvous en donnoent es premeres tentures pour peu que vous demeurez encore entre eurs mns vous rurez vne on ne prte degore ̀ ce He ros quvous en dot éter es prncpes Et toute o expe rence nur deorms ren à deter qu ne ot u de ous de vos umeresVn exceent utheur de"
-        ],
-        [
-            "54 LEROY MNEvR ntuton du Prnce Chre ten ft vne de es prncp es mxmes du on quon dot prendrede uy chor u vn Gouuermeur & dt qu pee fut y pporter utnt depr ee de erconpecton quen pour oenru rot derer éecton du Prn eee ce meme fEn efrer comme pne ce eu ft toute mpor tnce dvregnefut en prendre grde ̀ qu e peut confer cette grnde ffre u oe dEtt L force de nos vœux neep peut donner e on nture odue u ucceeur de notre Em ent pre ms qu ne e corrom degeneret n t p pe pont ou qu e perfe"
-        ],
-        [
-            "PANEGYRQVE 55 ctonne ce dépend des ons ne & devgnce de ceuy n nne qu pr es onnes ou m uh ues eçons peut en fre opprore ou ornement de vnuers Lempoy dvn homme qu entreprend de gouuerner vn Prnce net ps dem e ̀ offce de nte gence qu donne e mouue ment u Soe ces deux con duttes ont du rpport entre ees ot ̀ ron de eur u jet exposé ̀veü de tout vn monde otpourcone quence de eursdéregemens Pus vn ojet et éeué pus"
-        ],
-        [
-            "6 LE ROY MNEVR huteur e rend ve ms puset ve pusdot montrer dgrémens ̀ nos yeux prce que s ne es r retees détourne Le Prn ce & e Soe douent tous deux rer dvne ee u mere qu écrnt toutes eurs ctons es fce dmrer u tot que connotre u trementces Atres ven nent ̀ socurcr ss ség rent ou ss secypẽ̃t e ̂ me en rejt ur ces nte gences quon ccue ord nrement( & uec queque orte de jutce) detre es cues de eurs defuts"
-        ],
-        [
-            "PANECYRQVE 57net ren dedngereux ds ny dvne conequence pus eeer certne que es vces du eour meuo n Mtre pent ̀Ecoer ud & cet pour ce ujet que ee dns e Gouuerneur dvn jePrnce on ne dot ps mons rechercher es onnes meurs que experence Senequefut rppeé de on ex pour eéeuer Neron &pus gen ou re des reges depotque duoe veut que es ges gouuer nent es Roys Au ne ren ̀ vryq re de pus dun ny qu meous te duntge doceuper es qeen ons pternes que ednneP"
-        ],
-        [
-            "2 48 LE ROY MNEVRcton des enfns Les Roys depent de Pere eur donnoent qu e tre Gouuerneurs vn ge vn jute vn moderé & vn vnt Le premer deuot enegnerpeté enuers es Deux e econdverté prmy es hommes e tro éme vne Potque nte reure pour comtreconuote & es Pons Et e derner deuot nnrcrnte dvne me Roye pour empécher detre er ue Ces grndes qutez e trouuent rrement dnsmeme peronne du monset dffce quvn homme"
-        ],
-        [
-            "PANEGYRQVE 59 excee en toutes égement AnFrnce et heureu e de rencontrer dns vn eu ce quePere etmot ne pouuor etre quenpueurs Ce fut uec utnt de pru dence que de oeur queFrnce commtcondu te de on eune Prnce ̀ Mon eur de Veroyydes Gouuernements quon don ne nnce & ux eru ces ceuy ne peut etre deu quu merte & ux on nes qutez Toutes ces cho es contrüent à̀ fre que ce chox pe ns contredt pour vne cton des pus ju8"
-        ],
-        [
-            "60 LE ROY MNEVR dceues deRegence Et ce Royume e pus ferte en ges & en genereux ne pou uot ps fournr vn hom me en qu tous ces grnds untges e rencontr ent meux vns ny qu es poed̂t en vn degre pus émnent e dros voonters cy queque choe des deux pre mers unt que de meten dre dns e denomrement des utres qu proent v ement dns toutes esctons dvn Roy commecue en on effet ms y peur que cette dgreon ne choque"
-        ],
-        [
-            "PANEG YRQVE 6 choque ceuy que mon de en veut oger y preten du de uy pre en prnt de on Mtre e crns de e f̂chere pre de uy qund e dry qu et ver tueux e dos me ouuenr qu etmodete & que cette vertu rougt dvne onge mertée comme dvn njute reproche Toutesfos y u jet dpprehender vn utre nconuenent & que vount trop éprgner vne modete prtcuere e noffene vne jutce puque L votre SRE pourrot me repro cher duor trhy es nte Q"
-        ],
-        [
-            "62 LE ROY MNEvR retsomettos de dre à V M ce que peut etre ee n ps encore pprs e çy que votre Gouuerneur ne vousps ft vn precep te de exgerton de es er uces ny du dét deGe neoge & que ceux qu uroent eu deen de vous en fre e rect ne ynt peu quenpreence ( pu queet toûjours ̀ vos co tez) e ont teus ou pr com pnce ou prmeme crnte qu me retenot En fn SRE e ne veux ps etre compce dvne fute qu crot uor drot de"
-        ],
-        [
-            "PANEGYRQVE 63 commettre mpunément ce qu e jutfe ferot mon cr me Et s sen tt uec hon neur e ne pourros ps men dpener ns ̂me entre prendry donc SRE ms ous ueu de V M de uy fre cognotre ce grnd homme qu vount cheuer en vousmeruee de no tre temps ne vous uppr me ren de toutes es ees verrez que cees qu e tou chent Seue nfnce ne ft ps touteNoee ee en ppuye e fondementgenerofté nt queques"
-        ],
-        [
-            "64 LE RoY MNEVR fos dns es Cnes &ee dns es Ps ms cequ ft excepton ne de trut psrege & con tmment vne grnde ute dyeus net ps vn pett r gument du merte dvn Gen omme Le Nom de Neue sc corderot m uec ncen neté́ demone temps qu djoute eucoup ̀ on etme dmnuot tnt ot peu de on premer éctet du nomre de ces choes qu e renouueent en ve nt ou du mons on peut dre que tnt de genereux que"
-        ],
-        [
-            "PANEGYRQVE 65 que cette fmedonnez ̀Frnce ( setnts toûjours pcquezdencherr urgo re de eurs Peres) ont cõerué́nouueuteé́ dnsvee e de eur orgne Ms qund ce premer nom nurot de énerge que pour on prn cpe ceuy de Veroy enpour on ccroementmrque ez precsément & es empoys & es eruces de ceux qu ont porté pus quetnt composé du nom du Prnceexprme com en s furent tojourstt chez ux nterets deCou roneR"
-        ],
-        [
-            "66 LE ROY MNEVR Moneur e Mrech de Veroy et e neufuéme rejetron de cette noe tge Et cet ez pour me dpen er de fre vn grnd voume ̀ quoy menggerot eten due de es rnches oure cherche excte de ncen es ouche de Neue don es rcnes ont uunu profondes que es rmeux fontéeuezme ufft encone de dre que prmy tnt de goreux Ancetres Ncos de Neuf veTreu de notre M reoh vt omerton p ree uec es empoysqu"
-        ],
-        [
-            "PANEGYRQVE 67 honor utnt qu en fut ho noré ous es regnes de Louys Douzéme & de Frnços Premer & meme durnt queFrnce etot cptue uec on Royougepenteur de es fers prdouceur decondute dns dmntrton des ffres de Ett dontpouuot fe dre vn des Prncpux Memres pus qu en etot reconnu pour vne des me eures Tetesdueres m des uues de ons uccez &concuon dePx udecque Henry Huctéme dAngeterre enont eté des"
-        ],
-        [
-            "68 LE ROY MNEvR preuues uthentques Ces untges ont here dtrestoutefme comme honneur qu es re eue &vertu qu es oû tent chcun de nos Monr ques ne crot ps on Scep tre euré s ne ppuye urprudence &fdeté de eurs Cones vn eu Mon eur de Veroy dontme more et toute entere) er uy qutre Ros & e chnge ment des Regnes qu entr ne ordnrementncontn ce defueur ne e ft pont déchor dereputtonms homme ne e coneru pus"
-        ],
-        [
-            "PANEGYRQVE 69 pus ong temps ny pus heu reuementconfnce de tous es Mtresu ms peronne ne sen montr pus dgne dnsdrecton de eurs ffresEt on peut dre qu prtge égement entre deux Mons Royes rs des eruces qu uot voüez tous enters ̀Frnce pus qu es commenç ous Chre X & ne es fnt quen mournt ous e Regne de Louys X e me trompene es f nt ps es ucceeurs es contnüent Moneur dH ncour eeué demn dvnS"
-        ],
-        [
-            "E 20 LE ROY MNEVR te Pere uot pprs durntve ̀ former toutes esctons ur vneu modee & témogn depus qu ç uot en mettre en vge eseç̧ons que on exempe uy uot ftes Ce grnd Homme eut pus de on de scquerr es r res qutez de tous es De uncers que de der de po eder es ens de touteMon dontfut e euhe rter u en etoenesrcheee rendt nf nment cpe de toute or te dempoys ceux de eprt ou demn uy emoent"
-        ],
-        [
-            "PANEYRQVE 7 tre ndfferents toutesfos e cone ux vns & exe cuton dns es utres mr quoent en uy des vertus df ferentesfut dueres fos Amdeur ente &ous dueres qutezy trt t e Mrge de Henry e Grnd qu ̀ donné tnt de Potentts ̀ Europemé ngereconcton des Ventens uee e Ppe Et pueurs utres Negot tons utnt heureus que en concert́es uy cqu rent encore pus dotme que de recompene ref e eome degrndeur &"
-        ],
-        [
-            "72 LE ROY MNEVR mmortté degore etduor eté e Pere de notre Mrech Sge Fs qu cFus e crot honneur de ceuydont tentveLe Lt deNourrce con truëtemperment de Enfnt & e ng deMere ̀ es ncntons L pruden ce dotreger e chox de toutes es deux & e on heureéh fuore éuenemet Ceny de Moneur dHn courtfut u grnd en on Mrge queutteft vor dnsfécondté& e ftencore dmrer dnsmturté de es fruts on nce"
-        ],
-        [
-            "PANEGYRQVE 73 ncgnt pr e ng deux mons qu etoent déj de entments & e er uce de nos Ros qu etot ojet de eur zée fut e mo tf de eur AmourLrenommée net ps n grte àmemore de Mon eur de Sncy dvn ecours mportnt dontougepus grnde neceté de Henrypr vn renfrt de douze me Sues & d deux me cheuue mns que ce rue Coo ne uot euez ̀ es propres depens & qu conerù propos ̀ Henry V pou"
-        ],
-        [
-            "74 LE RoY MEvR on uenement àCouron ne que ces forces y econde rent pumment e courge dvngrnd Roy Prdon SR E e trnchecourt tnt de ftsHeroques &e dspeu de Ayeu Mterne de Votre Gouuer neur e ny ft quéffeurer esves de es utres Prede ceeurs & ne veux ps me tendre urenne puque pr dcreton e dos putot tter e der de V M dns cet regé́ de eurs merue es que ftguer on tten ton dns e vte chmp de eur gore"
-        ],
-        [
-            "PAEGYRQVE 75 Vocy endrot ou m crn te redoue prdffcuté dexprmer en peu de mots eucoup de grndes choes e e dos pourtnt à mons que de vouor me contred re & y pene ̀ e fre pu quvn eu corps net pus prfton uy ote que que memre & quon gteteonrcourct e ery fre pour e mons tout on éoge ̀ es ctons & ne donnery pont ̀ve dutre ornement que eur propre éct u es ees vertez douent protretou tes nuës & rtfce et e"
-        ],
-        [
-            "6LE Roy MNvVR mque dedeurMoneur e Mrechqu uot tous es untges dene eut tous ceux de édutonfut nourry Enfnt dhonneur du Roy & dpproche dePeron netr̀ç̧onnosnce des vertus Royes qu trn et ̀ on ucceeurc copg depus en toutes es guerres oùdmrcon dute dontft des reges dmtton ̀ on Fsfut oûjours preent ̀ fes com ts ce veut dre ̀ es V ctoressfumeé dns es trdmphes & e ft toûjoursremrquer"
-        ],
-        [
-            "PANEGYRQVE 7 remrquer prmy es prnc pux ntrumẽ̃ts deGore dontnterprete es Lox ̀ notre eune Prnce p Sé pr tous es degrez de Honneur pour ttendre u pus hut de ceux où on merte pouuot utter eruy toutes es cmpgnes pour ne pont perdre docc onsn pont neggé de rencontres pour gner pr tout on grnd courge çeu méprer tous es dn gers & jms dennems2 ceu vncre & ménger es untges Enfn es ver rus Mtres ne cederent j V"
-        ],
-        [
-            "78 LE ROY MNEVR ms ux Potquesytrente ns que es er uces furent putot recon nus quhonorez prchrge de Mrech de Cmp & depus pr e commndemẽt des troupes en te pen dnt pueurs nńesfut é ̀ Sue préspre &coneru commnd A unrde ors que notre Armée sũç dns e Mont Ferrt & eut tres grnde prt ̀ es progrés pus u ege de Pgnero & nen eut ps mons ̀Conquetey fut renuoyé pour y commnder durntgrnde pete Et ce"
-        ],
-        [
-            "PANEGYRQVE 29 derner feu deDunté ne pût ren ur ceuy qu pou uot tout ur es deux utres dontemot dpoer ̀on gré pourperecuton des ennems de on Mtreen fut rppeé pour ttque du Fort qus uoent éeué u out du Pont de Crgnn Ceere pour uor eté e Monument de es deffen eurs & Occon dvn grã̃d comt ou nos rmes frent creuer eur retnce qu pouuot meux quvn gene reux Frncos eneuer or gue des Epgnos dnsrune de eurs ouurges? En"
-        ],
-        [
-            "80 LE ROY MNEvR uttefut pendnt tros ns Chef de Armée du Roy de ̀ es Monts oùpurt de nos heureues entrepres furent es uccez de es ordrescommnd vn corps ep ré u Sege de Turn L Bourgogne qu uot déj veu dns es ons deprote cton e receut en quté de LeutenntGener deprn cpe de nos rmées en quoy Louys e ute qu honor de ceét empoy vn peu deuntmort) ft en uy vn des derners ctes deutce &y demeur uéc vn corps dns e prtge de nos trou pes"
-        ],
-        [
-            "PNEGYRQVEpes pour te & pour Ro croy ne fut ps mons occupé dns e commencement du NouueuRegnefut ftGe ner de Armce que e Roy enuoy en Xntonge & dns Angoumos pus men en Ctogne pour y uner nos mtes Enfn e Sege deMotte où̀ne ft quAer & Vncre et vne choe trop connuë pourtre cy exgerée outre que ymeux quePoter té me onfrontnt uec H tore jugedutortque e uy fs & mceue putot de"
-        ],
-        [
-            "4 es 82 LE ROY MNEVR connuence pourretenuë que de fttere pour on m ton mon tence mee m utfcton uec ennene er pont mteux ny moy ftteur dns eprt de Coux q connotront que pour uy pre ou putot pour e mons fcher e ny ft que uter ur es rn ches du esLurers ns er ger ̀veur es Troph́es dvneoünge egtmeMs SRE pourro en uor de pus Augutes que ceuxdont V M ft pp re? L oondute qu uy fus donnée de votre Peronne"
-        ],
-        [
-            "PANEGYRQVE 8 honneur qude vous p prendre ̀ Regner e pr de cutuer envous es emen çes nturees ms nfues qu font germer es pus eux fruts deRoyuteé & éonceuor ̀ nos epen cesdouceur de eur gout Ces untges d quvous preprent des Trõ̃phesdns es cœurs de vos peupes uy prometten psgore dy prtcper? Lmour de vos ujets qu tr des Tempes ̀memore de vo tre Regne uy donner p c uprés de vos Autes on verr deus eurs Frontp"
-        ],
-        [
-            "84 LE ROY MNEvR cesSttuë de V M éeuée ur Ecu de onGouuerneur vos Armes neufues & un tes entées ur es ennes fuées & toutes ternes depouere des Comts votre Couronne oûtenuë de on Cque votre Scep tre croś deusLnce vo tre Mn de utce ur on ton de Mrech des eurs de Lys prmy des Crox ncrées Et tous cesOr nements Pompeux eme ront pr de Mytereux Em emesdorure de eurs onne mrs L Ptre dot tout et ptr os u u on Prnce & dot e on cp t Prnce"
-        ],
-        [
-            "PANEGYRQVE 85 Poe ̀ on Gouuermeur ee Que peun djouter ̀ ce ese hut come dHonneure non que ontres jutement donné prt dns e Mntere ̀ ceuy qu Gouuerne e T mon de Ett Et que Mon eur de Veroy n eté ft Mrech de Frnce qu prés que Approton de Courmontré pr e pus mportnt de es chox qu ne deuot pus ren ttendre deFueur ms tout epe rer deon Merte Pons mntennt ux ex ceentes qutez qu pue de on en pour es répndre Y"
-        ],
-        [
-            "86 LE RoY Mev ur on Nourron & ren trons dns notre ujet pr vn chemn où es onnes prtes dvn Genomme e vont meer uec es Attruts deRoyute Les vertus dvn Heros écteront meux dns vn Prnce Emnen ce du Troô̂ne es mettr dns vn pus eu jour Et y u jet de crore en cette ren contre que ne es confde rnt pus que pr e pont de eur operton dnseue Peronne du Roy honore pus & dge mons Homme du Monde qu ponne duntge e uc"
-        ],
-        [
-            "PANEGYRQVE 87 cez de es ons dnsperfe cton du pus e Ouurge de Vnuers e remonte àource pour uure on cours & e vy re trouuer mon Prnce dnsDocté qu fot en uy deeux effets ous e Gou uernement des Dmes pour es rehuer dns eurs uttes & fre vor uec comen de frut vne Exceente Mn true ur dheureux E uchements L Mtere en dposée donne pr ̀ Ouurer qufçonne & qũd vn Eprt et Doce on prendgoute"
-        ],
-        [
-            "88 LE ROY MNEvR cutuerpene et gree qund notre eur net pont ngrt nous trouuons du repos dns exercce e pus voentchemne ment de notre deen sc se Corde uec nos eperneœesvnmoment de rêche ftgues ft entrer dnspensée e deepor de on uë Nous portons toû̂joursguerre uecque nous nosmes ouffrentcontnueemẽ̃t des edtons ntetnes &comt ne cee jms entre es Pons &Ron Ces rutes ont noentes u qù vouor e pus ouuent vurper"
-        ],
-        [
-            "PANEGYRQVE 89 vurper on Empre prreuote des Sens ms es Hommes ne eruent ps tous égement de Thetres ̀ ces Trgedes On en vot demoderez qu eme que eurs ctons tennent tout deGrce & ren deN ture pour e mons on peut dre qu y rete peu de vet ges denture corrompuë eurs ncntons qu nont pont de rcnes dns e corps ne prtgent pont A me entre es opertons de Eprt & es prs du Sens eurs cœurs ne pouent que des entm̃s épurez Et com 3"
-        ],
-        [
-            "90 LE ROyY MNEvR me s e rendent toû̂jours u ceptes dntructon s ne e ont jms derreur FANços te et votre Mo nrqueft cree uxons enegnements n ren nentre en on etme que ce qumerte n de pons quece qu en fut pour y der ou pour erur ̀ron enp Ete crorot ndgne dexce de pœd er enPunce pr deus es7 ujets s ne pretendot de es urper enVertuQundon uy repreente vn Arechtecte qu dot reger Artotpo tous es ouurges de es Art fns & fre entre eux e dé"
-        ],
-        [
-            "PANEGYRQVEprtement de on dée fn quvn upere edfce en ot executon Ce Prnce con çot ̀ ntnt qu et Ar chtecte de on Royume & quvne fecté potque dot etrefn de es ordres & e uccés decondute Qund on uy fgure vr e veu que es vgues &t Pne tempete menceut du nœu frgedree dvn on P ote ne e dérourne des e cuescomprend utot qu et e Pore de on Etr & quevgnce edot g réntt des orges f prude cé ne pot expoefot"
-        ],
-        [
-            "9 LE RY MrvR dvne mer ourroucée & on experoncuy fre éuterrencontre des ncs & des rochers ne Leder dpprendre & cee uy denegner font vnee p ee e émuton entre e Mtre Vrg & e Dcpe cet à e premerfondemeht deperfecton de vn & degore de utre Et oet où e rencon trédequoy dmrer vn on heur recproque u Roy de tre éeué pr vr hommec compy à n Gouuerneur duor vn Prnce ̀ éeuer en ques dpotons nturees preuonentpus es un tges"
-        ],
-        [
-            "P vnvetes de Art en y trop ̀ dre pour etre creu de ceux qu uqu cy nont veu notre DEv DONNE quen penture queque en mtez que pu ent etre es trts deon v ge s ne eront jms ez fdees pour expoer u n ture es qutez de onprt & jduoüe pr experen ce que pproche dePer onne e reerue dequoy montrer quecope et en éognée des grces de on OrgnMsen y trop ̀ dre encore pour ne ps fre A"
-        ],
-        [
-            "4 LERoY MNEvR des compces de ncredu té dont e confee uor eté coupepour es dé́er e nempoyos es memes moyens qu ont feruy ̀ me conuncre Ce n eront ps euement es eémognges pucs de tou té Cour ny erut confus vnereement epnch́ pr é rpport de ceux qu fre qdentent en y en des prouues pus uthentques Ete ne ery pus de p ce u oupçon ny u doute pour tout e rete de mes e rtezen ppuye cren ce( comme e my ens o"
-        ],
-        [
-            "PANEGYRQVE 95 ge)ur uthorté dvn Pret rf Me nes dontouche &propreeqe de mn me es ont ppres Qu tepreur d pourrot prer pus certne o ment des Qutez & de E prt du Roy que ceuy me me qu en méngeportée & de qu es enegnements dnsconnonce qu uy donne des onnes ettres e mettront vn jour dns no tre Htore u premer rng de es Prnces ç̧unts Le merte de ce grnd Peron nge et ez connu prChrge ou éeué & prDgnté où ft ttendreerot dffce de monter ̀"
-        ],
-        [
-            "96 LE ROY MNEVR Honneur pr de pus noes degrez Ethute profe on qu en ft dot fre uoüertouteFrnce que es choes que y ̀ dre ne pouuoent uor vn Au theur mons upect Dord ne rur ps es yeux qu vont cy vor vn Prnce oent vn Souue rn ous vn Monr que ujetty oesnt d ms ns contrnte ous ns repugnnce suetty ns honte tout ce voon trement & pourtnt ns foeseS grndeur de cou rge ute dns es defe rences"
-        ],
-        [
-            "PANEGYRQVE 97 rences puset hume monset é & toutes es oûmons ont es en fnts egtmes dvne gee Ss eneore quee etet te punce qu rend vn Roy on trutre? Que et ce vent mpetueux qu peut f re courer nos Lys? L Frn ce net ee pus nunce? Ee qu n jms trouué dennems ndomtes peut ee en trouuer de Vn queurs? Ren mons ee fer toûjours tremer touteTerre neut ee que des Ros emmottez Et tou B"
-        ],
-        [
-            "38 LE ROY MEvR tesfos on Prnce qu net mpunt quen ce qu ne peut e donner vn Mtre qu ne ot on ujet e re connot pour on Supereur honore e reuere ut es ox & reçot es duerte mens deonne grce que non euementprotete d uor horreur pour omre dvne fute ms qu sen detourne toûjours présuor vne fos pperceuë BronLEmpereur Theodoe t trouunt vn our Arcdus s en preence dArenus qu demeurot deout témogn de ndgnton &"
-        ],
-        [
-            "PANEGYRQVE9 ft reproche ̀ ceuy qu oeruot tres men ence de on Mntere puscoere vennt ̀ sgrr pr es excues dont Arenus t̂ chot de ppere fteor ur e Trône Et dépou nt on Fs des Ornements mperux vouut qu e t̂nt découuert & commn d qu fût toûjours dnspoture decoutnt uprés deperonne qu deuot enegner Cet vne mxme du ftemps & cet ez pour dre quee et pernceue ou du mons orrompuë queonté &"
-        ],
-        [
-            "e0 LEROY MNEVRfrnche ont es œurs germnes detupdté vn fece qums en voguefoure & rtfce comme nny du commercen certé &onne foy enen ntrodut de pus dnge reuesOn ne condere pour hes gens que ceux qu çuent déguer es vces & es crmes ous vn mnteu de gentese & de utté deprt es enfnts meme à̀ qu õ̃ ft uccer ce muus ct pent pour groerseurs premeres ctons ne montrent queque trt de mcennmocence net pus en"
-        ],
-        [
-            "PANEG YRQVE o0 eneux quvne mperfecton on en ft vne nure ou vn terme de rere Et ouuent ceux qu en ont ceuez(ne tns creus ons qù etre Mones ont condmnez pr eurs propres prens à̀pron perpetuee dvn Co tre comme ssetoentcou pes pour netre ps cr mnes Ms cet on gne qund vn ustrouué on excés s ne peut crotre dunt gefut qu dmnuë e Ben ft ̀ on tourreuou ton du m Et ns doute e Ce reeruot ̀ on D v Cc"
-        ],
-        [
-            "o2 LE Roy MNEvR DONNEgore de purgerTerre de tnt de montres qudeoent Tous es de portemens en ont des ugu res certns es qutez des moyens nfes &pu nce vn ouuern remede L deonnreté &force deprt ont en uynture ement vnes quees e don nent vne tnce recpro que Et ement e pretermn pour detrure vne er reur qu er deorms re uté́e du vugre comme eetôjours eté des per onnes ronnesQu erot ez otné"
-        ],
-        [
-            "PANEGYRQVE 3 pour crore que ces deuxPr tes eentees dvn grnd Monrque fuent ncom pdtes? puque e notre es poede Et que vne nécte ps mons dns e dcerne ment qu çtfre des on nes & des muues choes que utre dns ccue qu ftux enegnemens qu uyouurent esmoyensLes gr̃ds eprts ont puse fondntructon que es me dcres ̀ cufequ et pusà̀ erndne queeur utté ne uepred dégenere en mee s efont ueu ue utnt pus méchnts qus u reo etoent cpes detre eet o"
-        ],
-        [
-            "o4 LE RoY MNEVR ons ss euent ete n ée uez Et ce defut déduc ton e erger des Autes u Vce dns des T empes qu deuoent etre Concrez àVertuQue peun eperer dvn Roy qu n ren dunt geux que on pouuor & qu mettnt toutegore ̀ commnder e precpre pr mptẽce dns vne uthorté quequesfos mons cqu quvurpée? Ms que ne doton ps trendredvn Prnce qu ft tréveuec Punce pourômetruxrges de seh en eru L Souuerneté"
-        ],
-        [
-            "PANEGYRQVE o5 Souuerneté eue ft des Tyrnsonté et on tem perment & toutes es deux eneme nous fournent des Roys Putrque dns ce ent ment compre e on Prnce à̀Dunté dontBõ̃té et nfne commePunce & dt que pour en etre vne vunte mgefut queBonté uy donne e der de fre generement du en à̀ tout e monde & quePu nce uy erue ̀ e fre qunde veuterot ez nute de tr cer cyfgure dvn montre Dd"
-        ],
-        [
-            "06 LE ROY MNEVR qu ne pourrot per que pour vn cprce de mg nton puquetyrnne en Frnce net quvne ch mere & qu ytrop ong temps quee y et nconnuë & des Prnces & de eurs u jets Deurs notre LOV Ys ne veut etre excté ̀pr tque des vertus que pr eurs pps & es mouuementstrouue pus de gore ̀ sy porter pr deeux motfs & trop de foee & de hon te de nuor pour ojet que horreur du vce LAmour et en pus noe qundet enfnt de mour & de"
-        ],
-        [
-            "PANEGYRQVE o7eue euté qu e cue que qundnt en prte dehne ou dedeur de on contrre Etes p ons comme es qutez éementres sugmentent pr e vofnge de eurs en nemes eesnont pus eon de cét ccroement qund ees ont extrémes Suuons donc e cours nture de nos ncntons Royes ns duntge dn terrompre pr ueron du m neugent ps dgne detre cy pcée prmy des entmens pus reeuez & qu prtent dvn cœur qu ne re"
-        ],
-        [
-            "o8 LE Roy MNEvR pre que e ennet pont dhomme qu ne ot ogé detre ver tueux prce que chcun dot utter ou e vce ne condut ps ms cette ogton re doue dns es Roys qu ne douent ps etre pour eux euement prce que eur exempe etrege du Mon de Les ujets ont comme ces pntes qu tournent e on e Soe & es Prnces comme ces grnds mrors ou on e vot dehuteur nous formons notre conte nnce ur es potures qus nous montrent Les eus t trts"
-        ],
-        [
-            "t e r e S5PANEGYRQVE o9 trts devertu ontuffts pour engger es grndes A mes à̀uure & notre eu ne Hercue ne çurotncer dns e chox des che mns ynt vnon GudeDeux choes prncpe ment rendent vn concert gree exceẽce des vox &methode de es condu re dns cette jutee de tons & de meures qu compoe hrmone de eur duerté fut quvne terre ot onoco ne & quee ot en cu ueon e e uée pour etre ondnte vn n e rre dot etre de on pnt& en entretenu pour po e Ee"
-        ],
-        [
-            "nro0 LE ROY MNEvR ter de ons fruts Et pr tout où es ons trouuent e ntue re en concurrence nos epe rnces peuuent etre que quesfos urpées ms vnesSe peu vor vne corre pondnce pus prfte vne nce pus ége vne re ton meux fondée que cee où Art &Nture conte tent à qu nous chrmer e pus dnsprofuon de eurs meruees? Pouuons nous sez dmrer vne dns vn Monrque queerenducheué qu em e netre ps poe de ren"
-        ],
-        [
-            "PAE GRQEdjoû̂ter à̀perfectõ̃ & u tre dns vn homme dont n dutre erot cpe de up péetpr tout ce queNr e urot mnqué dy mettre Quee pus grnde preuue du premer quvn jugemenr ode qu çt donner d ordou e me ou ppro ton eonrencontre des choes? Quee pusgrn de mrque du econdquv ne prudence excte ̀ mén ger es occons de uggerer à notre Prnce tntot et me pour e merte des ees ctons & tntot e méprs pouree des cõmunes?"
-        ],
-        [
-            "r2 LERoY MNEVRe ne çy ren qu nne duntgegeneroté dvn eune cœur qu commence detremoureux degoe quvne oünge judceue & en ppquéevot pr̀ tomenen pprocemeune u preent e pr dvnjoüynce future & e pcomet fcement e prfut uccés dvndeen dont rouue toutes es entrepresfuores Letnme et e ut dehonneur ms vn co mencement detmeunce fort es progrés de honneur pour e fre eot tten dre u ponctoù rous deux ne puent"
-        ],
-        [
-            "e nes te re nt Pnoyqv n3 puent pus crotre&pour peu quon en yt cqus cet vn grnd chemnement à ce quon en veut cquerr cet en ce que notre Mréch reut treeureuement u prés dvn eune Prnce dns equene trouue ren que de oüe & qu pour pre uenr e dntge du ̂ me nttend ps meme ce uy de ndfference croynt qu urot eucoup recué uvn dns e chemn devertu pet s uot tnt ot peu retrdeé́ e cours dvn ppude o o e oun Ff"
-        ],
-        [
-            "LE Ro ME VR ptend & cette rre modete qu pent e vge de V Mdepene de sccoûtu ner ̀ des ounges quege nereue mton recherche que toutes es ctons mer tent Et qu uy ontjute ment donnećes que tous es endrots deTerre douent eot erur dEcho pour fre retentr pr vne nfnté dgrees redouemens ce quepume &voxsefforceront den puer Que oeurcette n tegence qu ft mouuor pour n dre enPeronne de VMe Soe deFrnce"
-        ],
-        [
-            "PANEGYRQVE 5 eot de Europe & peutetre du monde ? Que oeur de ̀ ce Grnd Homme de e vor écré pr e refechement de tnt de eux ryons? Quoy qu nt ps eucoup de pene ̀ contruer u mouue ment dvn Atre qu séeue ez de uemeneer ps duor prt ux do rtons des peupes qu re entront deorms es dou ces nfuences &fertté decheur Et vryementet jute que ceuy ur qu rejrothne dvn Royumee Monrque"
-        ],
-        [
-            "n6 L Roy NvrR e ttrot prpropre m gnté profte de Amour que e Prnce peut meme scquerr preue onté nturee Cet ez ouuent queonne fortune prtge hon neur des Comts e gn des Vctores &gore des Tromphes ee en reeue pourtnt e merte & ne e ternt psLvn ns utre p rot deffectueux ms tous es deux eneme font vor vn eu meu entre deux extremtez dfferentes On peut donc ppeer heu reux e Gouuerneur dvn Prnce"
-        ],
-        [
-            "PANEGYRQVE 7 Prnce de qu es ncntons echuffent & netouffent ps es emences deVertu cet ce qu esft germer pus promptement & devent honneur deperonne qu es jettesu eu que on mer te reterot ns éct s etot ns oeur Moneur e Mrech en ft vne gre e épreuue dns es ons qu e donne de cutuer uecque toute on ppc ton vne pnte qu vot crotre heureuement & dns queene rencontre pont dotce qu soppoe u deen deperfecton Gg"
-        ],
-        [
-            "8 LE ROY MNEv y dequoy cõ̃frmer ce que y dt deforce deprt & deonté nturee du Roy pr des remrques prtcu eres que touteCour con notr en netre ps up poé́es Ms e ne çuros mempecher de mnterrom pre & dduouer en cét en drot quemuttude des o jets ftconfuon de mes penmsées tnt de ujets dd mrton tnt de meruees dfferentes vennent en fou e e preenter ̀ mon eprt que y pene ̀ es démeer & ̀ rnger pr ordre ces vertus mptentes qu me"
-        ],
-        [
-            "PANEGYRQVE 9 contrgnent de es pcer cy uec en mons de chox que de hzrd Pourtnt e ne mécrtery ps tropprmy es remrques deforce de on eprt en rp porte vne ee defermeté de on ugement Chcun connot que LE R oY prot tres moderé dns es ctons ne et ps mons dns es proes & peu de gens gnorent que prer eus peu ot vne mrque degee puque ouuent on contrre pe pour vne ef pece de foc Vn Ancen dt n Rep4 quvn Prnce dot prer"
-        ],
-        [
-            "20 LEROY MNEVR comme vn Roy de Thetre cet ̀ dre qu fut que tou tes es proes oyent etu dées pour netre ps ujet tes àcenure de ceux qu es douent repecter comme Sueonn des Orces Tere prut ens ge ̀ ne prer que rre pper ment toutes es reponces euenr eeee etoent concertées & me ds mene ouffrot pont quon uy ft ucune demnde que n pr ecrt Ams Roy dE ne e e gyptee eruot de cét rtf pef re ce pour ne ren uor de vu gre en on ngge non pus quencondton Et Ar tote en ft vne mxme ugrnd"
-        ],
-        [
-            "SPANEGYRQVE 2 grnd Aexndre prce que es proes des Roys sécr uent ur e mrre & que e eunm on cognot e Prnce ̀ouun Prnceps gee de on dcours comme pu rtn preuté de on oouurge Pouruuons mntennt & retournons ̀ ces oeru tons queCour conde re comme des preges cer tns ou putot des preuues enes dvne Cemence Roye & pus quheredt re Les prncpes ont qu ne çurot ouffrr quon f ce du m ̀ peronne enpreence ny ous on dueu Hh"
-        ],
-        [
-            "22 LE ROY MNEvR5 & que qunddécouure vn deffut ce qu ne peut j ms échper ̀cogno ncee tte dmu e & nen permet ps memerere Vò en ez de mte re pour nous engger à de grndes refexonsms pour ne es ps etendre & ne ps er notre Prnce dns exgerton de es Vertus htonous duouer que cet vn untge ̀Frn ce duor vn Roycr uoynt qu ny yt pont docurté ̀ épreuue de es umeres ms que cen et"
-        ],
-        [
-            "3 PANEGYRQVE o9 vn en pus grnd & pour meux dre ncompre duor vn Pere dns on Prnce donttendree &engnté répndent vnuer eementes grces ns met re jms ren en reerue que ce qu pourrot nure ou f cher L Cemence et vrye mentReyne des Vertus pus quee etvertu des Roys & que comme ee preuppoe depunce ee ne çurot etre pus conuen e quux Souue rns Ee et tôjoursmr que dvn grnd cœur prce"
-        ],
-        [
-            "24 LE ROY MNEvR quon ne peut exercer ns generoté u es mes es pus rres ne eroẽt pont crueesees netoent ̂ oune chesfut que es Roys nn (dt Seneque oyent em Prncpus couuun es ux Deux & qus e Cuous te montrent tes enuers es ques f S e hommes qus veuent que eem es Deux oent enuers eux en effet ss ont des mges de eur punce s en do Annun uent etre de eur onté C vneere en ceron dot que vncre on eohjere ue courge moderercoere ne & en ver deVctore oeunu cetot tenr deDunté uue e putot que reemer ux ro grA hommes"
-        ],
-        [
-            "PANEGYRQVE 25 hommes utres L onté o de Cer uy dre des Au de oper tescemence dAugute uy ft des dorteurs & cette Vertu couronneée peupot ncennement es Ceux dutnt de Detez nouuees que dEmpereurs quuoent poedéeet cert m que ren nttre tnt eprt des peupes quedouceur des Souuerns cet ee qu ménge vn ccord perpetue entreerté des vns&domnton des utres Et qu de queques hommges con trnts ft vne nfnté de repectueues deffereneës"
-        ],
-        [
-            "26 LE RoY MnNEvR On ndore jms pr forcevctme égorgée ne ft quenngnter Autefut que e Cœur concre Offrnde & e vry Scrf ce dot etre voontreLes ujets etment enfnts uprés dvn on Prnce Les Ctoyens e nomment eur PereP tre on LerteurEttCoomneMonrche on Appuy & Empre on Ture fee ureVn Roy de Sprte refu Agfe n des grdes prce qu vou ot( do) commnder àfes peupes n quvn Pere à̀ es Enfnts u es forte"
-        ],
-        [
-            "PANEGYRQVE 27 rees es pus regueres pour eneeeureté dvn Monrque nn ont es cœurs de es ujets Ce Conu Romn qu en treprt de ouer Trjn uec utnt de verté que dEquence dt qu etotfort p mé que pueurs et moent uor ez vecu pus qus uoent eu hon neur de vor vnon Prn cependnt que dutres oû tenoent qu fot ouh ter de vure pour jouür vn pus onemps du pr de e vor Enfn vò Eo ge dvn Prnce ent & ren ne nous rete pus ̀ de"
-        ],
-        [
-            "28 LE ROY MNEVR u e rer en uy cemence et e per en udeen fmeu decondute eeeen Heureux Monrquevotreus grnd Courge sccoûtume àprtquer heureux ds jeVosrRE MAESTEregetoûjours es voontés pr v tté de es Cones & ne donne jms dArrets ns uor écoutée Cet ee prncpement qu vous dot rendre pus eme u premer Autheur de vo tre nnce & qu v conferer ( pour n dre) ̀ VMgrce dvn nouueu Screment prConfrm ton du Nom mytereux quee"
-        ],
-        [
-            "PANEG YRQVE 29 quee receut ̀ on Bpte me Non non cher DE v DONNEne crgneés ps queCemence ffoe en vousutce de votre Pe re e pretends que ces deux vertus eront dntegence ms euement quevne punt quequesfos pre uerté du cĥtment utre e contente ouuent de cor rger prdouceur du pr don uqucy nous ne mn quons ps de fortes ppren ces pour en fonder epor Et quoy que nous en yons veu eucoup pus de onte que de rgueur Votre u"
-        ],
-        [
-            "Xenoph 30 LE ROY MNEvR tce n ps é de e mn feter en tnt doccons ouù ee set hutement decrée enneme de njure & de op preonLe pett Cyrus vount meure utce pr es pxo portons dvne roe uecte de ceuy qupreten dot donn ujet ̀ on Pre cepteur de prendre e prty contrre & de soppoer ̀ on ugement en uy repre entnt que ns contreuenr u Loxnen pouuot dé poeder e verte Mtre Lntenton de Cyrus etot pourtnt oue & on er"
-        ],
-        [
-            "PAEGYRQVE 3 reur pouuot etre excuée pr équté qucuot encore qu eût confondu e jute uec e conuene u mons nuotps grnd tort pourpremere fos) den erore ̀ on gene Ce tot eucoup de pouuor remrquer des ryons de ju tce dns vne enfnce Cou ronnée ms SRE cet en duntge den vor des ef fets tout formez dns es ctons de V M qu e mon tre déj cpe den ron ner uec ntendnt de es mœurs quee rut dvne joye ndce en uy don"
-        ],
-        [
-            "32 LE ROY MEVR nnt à̀ connotre comen ee enchert ur es ntru ctons ntn Oncomprs dns vn eu ee re econn vers tout enchnement des Vertus en dnt queutce en et vn prftTumunm emge & vn grnd Pho n on eude opherend nepreuu tce deCemence qund cenne j dt qu yutnt dnju tce & de cruuté de fre grce ̀ tout e monde qù ne prdonner à̀ peronne dou e tre deux conequen ces L premere queCe mence dotfur mpunté qu et vne pete dEtt & pour ce"
-        ],
-        [
-            "PANEGYRQVE 33 ce toûjours conuteru tce fn queee en reçot vn peu duterté ee uy donne pr échnge eu coup de douceur L econde que nous pourrons cy com prendre toutes es rres qu tez du Roy dns e eu Ch ptre de ces deux Meres Ver tus qrennent force enperonne & que non eue ment nous voyons crotre touS es ours ms encore enfnter de contnues prod ges de meruees & ddm rton Ĥ ce erot trop déroer ̀gore de ce Prnce venu L"
-        ],
-        [
-            "34 LE ROY MNEvR du Ce que den demeurer àze de ces Monuments Eternes que e commence de uy érgerfut donc de neceté es éeuer pus hut & poer ur dutres fonde ments des ouurges mgnf ques puqu me eme dvn coté que touteCour moerue pour vore nomettry ren de ce que e connot de propre ̀ mon deen & de utre que e mttreros e ̂me depoterté qu dot dreer es Trophées deveen os e commence ment mprft"
-        ],
-        [
-            "PANEGYRQVE 35Vocy dorderté du Roy qu soffre ̀ fredépene de mon Edfce & qu pretend de pus dy fre poerSttuë prmy es r ches ornements de cette pompeue tructure Ms ee veut uor en mn pour mrque de reconnonce vn Bton de Mrech qu fce vor comme ee sen ppuye & comenert ̀ouû̂tenret certn que ceMonrque donne tout & qu ne crnt pspro pre ndgence pour ougerneceté dutruyd uertt e fond de es menus"
-        ],
-        [
-            "36 LE ROY MNEVR prs pour empoyer ̀ es pus grndes deces qu ren contre ouuent dns e eu exercce de cette vertu Et S ugmente ̀ proporton de on pouuor nous ver rons deorms que es pus grnds Treors eront dns Amour de es peupes pus que dns es Coffres de on Eprgne Mset tres cer tn encore & cĥcun çyt que Moneur de Veroytoûours excté pr on exem rue hom peuy dt tous es ours em dequemoderton et vne n u nuen vertu pruee qu nps grnd ee éct ur e Trône Et que es"
-        ],
-        [
-            "3PANEGYRQVE 37 es vertes oünges dvn ee Monrque ont detre ppune fcum L é fort jute grue euere pn z une mgnnme ednt & eou er ref uy ft coe ee notre que prmy es vertus u Royesertée pus déct quee etœur demgnfcence & que ns eespuprt des utres vertus demeurerot dns es teneres Vn Prnceeu etre prftne e prot ps s n dequoy e fre ymer & s ne çt pr de certns chrmes cchez ( pour sttrer es yeux ) ggner ecœur de es uets M m"
-        ],
-        [
-            "3 38 LE ROy MNEVR Cet proprement offce de ces dunes œurs de chtoü er vn & décrer es u tresumere de ces fm eux ceetes ft tout r er dvn meme temps u ques ux mondres conte tons ot qu et e rprot mgnfque emmgnfqueet connu pour genereux Dvn grnd nomre de xempes que notre Prnce nous fournt e croy du mons nen deuor ps up prmer vn qu mrque tout eneme deerté dns cton & deprudence"
-        ],
-        [
-            "PANEGYRQVE 39 dns e dcernement de on oet L necete e pus prent de tous nos enns ms contrnt vn puure Gen omme ̀ demnder e cours u Roy contre es mux qu e perecutent LE RoY en ordonne ot e ougement & e ft ppor ter queques ptoes Ms commeeut pprsqu té du mndnt pronté qu eut de en nterrogerredouchrté & mon tr qu fot trter vnGen omme tout utrement que e commun des puures fnt n pr vne epece"
-        ],
-        [
-            "40 LE ROY MNEVR de Mrce) queNoee qu ne prot que dns e uxe ot encore conderée dns extremté dem ere Qu ne erot chrmé pr des trtsdgnes dmour? Qu peut ez oüer de e es ncntons? Ms en pourron ouhtter de pus ymes ou(e oe dre)de pus dunes? uoü cy que mon me et toute nterdte & quu eu de pouruure e ne connos que e ence qu pue exprmer mes trnports ou s et df fce de es mgneret encore"
-        ],
-        [
-            "PANEGYRQvE 4 ncore pus de es dre Ques rermes eroent onst Quees proes uffntes pour exprmer fdeemenu me ctes de prudence que ce eune Prncerendu fre quents qus urprennent u peu quecrt́ du Hour & que es mondres mnquements dns esctons ont pus rres que es Ecypes defon AtreL tendree & mour qupourt ReoMe re ooncee& e repec qu rend ̀ certe dore Pnsefe ncheuents ps defoevor vne fgee co N n"
-        ],
-        [
-            "42 LE ROY MNEVR ommé & ffecton qu témogne ux peronnes qu pprochent & qu e er uent de montrer que cette Sgee pfede ̀condu te? Comen de fos n ouy proteter qu nurot pont dorees pour tere ny pourfufe com pnce?qu en urotdeux en coutes es ffres & quentre tous ceux qu é couteroteue verté uy ferot dtnguer espus fde es Seruteurs Ce dot etre en effet cette perredou che qu fce reconnotre ux Roys e on oenue es"
-        ],
-        [
-            "PANEGYRQVE 43 metux ffes Et s p u nent ceux qucorrompent u pnt eur fgure pr mpureté de uuereque rtementee douemrrs fre ̀vtes petes rn ee dé Cour qu t̂chent de urs p prendreeur eprt pr vne douoe & mceued rt́L prudence que e véux confondre uecnfgpfe vehtd tros ourses dffes rentes enture peen ce & doctrn Lpfemt engendre v enhdecrot & trofone ch ue e ny pus re ̀ dr dvnntudre dont espreto8"
-        ],
-        [
-            "n44 LE Roy Mevgtueorfez etes &mns conuës prce queen y dt que prce quon e fc Poun exprencemotre Prnce omfntnue à puen dnmsecture deé htore ttendnt que v geen rende nmtre pxconnonce des ffrés&Doctrne snnut dej heunt dns oneprt p eprogrez qu f ux ot trs Counge utre Nour rfson d Mnerue & des Mues une cét neomp re Apon qu vous gu dn us cdmn des cences &fouffez qu nmenge en vouS"
-        ],
-        [
-            "PANEGYRQVE 45 vous es preteux tents dont e Pere de Sgeeenrchy votre ee Amene tent pus qù vous den cquerr utnt qu vousft cp e den uor Vous etes pr ft pr nture contnuez de etre pr vos ons Et que V M e ouuenne que ren ne çurot etre pr deus on eprt que ce qu neg ger dttendre Conde rez GRAND RoY que e Ce vousft ntre e pus c compy comme e pus Pu nt des Monrques duMon de ms que rt de regner veut de grndes ppctons O0"
-        ],
-        [
-            "46 LE ROyY MrNEvR que peronne net tnt o gé de veer quvn Prnce de qu dépend e ut des peupes & quevgnce du erger dot etre utnt excte que œ du Mtre Ceuy qu vousconfé es troupeux( & de qu e Scep tre reeue ̀ meme ttre quehouette)veut que vous uy oyez eme en ctuté de meme quen pouuor Et que pr vn dmnutf depreence vnuereeV M çche exmne & connoe tout Cet pr ̀ que expe rence dot e jondre ̀ votre prudence nturee Et que"
-        ],
-        [
-            "PANEGYRQVE 47 dés mntennt exerucdctue dvn etude voon tre uy peut prometre e renfort quee dot eperer dvne cence déjen uncéeLes Repuques ont heu Eep reues qund es Phoophes ont Roys ou qund es Roys ont Phoophes ct pour ce que es grnds Em pereurs ont toûjours eté cureux de e fre ntrure pr es premers Hommes de eurs eces Theodore de Gdre fût Precepteur de T ere Apoodore de Perg me e fut dAugute & Ar e"
-        ],
-        [
-            "48 LE RoY MNEvR tote dAexndre Ce Con quernt de touteTerre eut nt detme pour es on n nesettres qu fot gore uns decence pus que denudee grndeur dvn Empre ̀ qu er on Amton ne donnot de ornes que es Lmtes de Vnuers uf fo tnt dett des Homnes Doctes & de eurs œuures qu ne dormot que urde & ouhttot detre Dogene s neut pont eté exndre ne mettnt pont de dfference entre e méprs dumonde &conqueteou Chres V eut regret de e vor"
-        ],
-        [
-            "PANEGYRQVE 49 vor redut à̀neceté dvn truchement qund ̀ Gennes on e hrnguot en tn & ces proes furent ors és n terpretes de on repentr? H cette ngue ne met nconnue que pour uor neggeé es Cones de mon Precepteun Hdrn Oppoons encore u dépr detre prué de tnt de ees con noncestsfcton de es uor cques & un tge quen tre vn Autheur end d OGree qunddt que ho eue me çunt vot douement u & que es yeux ont des trts pus vfs qu vont uqùutnce de Choes ns Pp"
-        ],
-        [
-            "2 50 LE Roy MnEvR Srreter ̀ des pprences trompeuesre me ey ps V M voudr en me permettre ddjouter cy vn trt qu du dcours de on etude me condut àconderon dvne quté des pus dgnes dvn Roy Luy ouuen pont S RE quvnour Mon eur Eueque de Rodez (qu ne peut derer en vous que de ttenton pour es choes dont votre eu Ge ne eme pouuor ez prendre de connonce & meme en e joûnt) contrepcton qu uot fté"
-        ],
-        [
-            "PAnNEGYRvE 5 uec V M de retrncher e temps de es Leçons moyen nnt vne ppcton pus entere e proongeot u eu de ccourcr tntetot chrmé de vor effet de vos promees dnsvu cté de vos Conceptons Sur quoy V M e urprt pr e pus eu reproche quj peût receuor de ouche Com ment Moneur uy dtes vous)qu peut etre pus o gé de tenrproe quvn Pret ou vn Genom me? Croyéous que pour etre tous es deux enem e vous deuez mons à"
-        ],
-        [
-            "z LE RoY Mnev cette foy qu dot etre to jours utnt nepre de votre Crctere que de vo tre Nnce Au contrre e mmgne querencon tre de ces deux condtons vous y engge douement & ee ens pour mxme quoutre que peronne n droct dydéroger ns honte pusdgnté nous éeue pus ce mnquement nous ePenée vryement Roy e & trerte ̀Cn deur de nos Lys qu ont es vrsSymoes defrnche & deerté qu regne pr my"
-        ],
-        [
-            "PANEGYRQVE 53 my nousnet pont de Peupe pus re ny toute fos de Roys pus ous quen Frnce prce que nos mxmes en entenduës rendent ceuy dgnes dA mour & ceù Cpe den uor u netpont dEmpre prefere à̀ ceuy des cœursEt pour peu qus oent uceptes de cette ponne fut que es excter pour fre en vn ntnt pus de cptfs vo ontres que es pus tyrn nques Domntons nont jms eu decues ench nez Q"
-        ],
-        [
-            "254 LE ROY MNE vR Quee joye ̀ tous nos Frnços & prncpement ̀ cét exceent Precepteur qu mons pr defut de me more que pr e pr ex cefde ronner uec vn te Dcpe uy uot donneé́ eu décorre vn eu entment? Que contentement de ̀ nous den vor produre de pres à̀ vn Monrque de douze ns? Et que ne don ps ttendre dvn Roy dontproe nuoe promet n de ne jms tromper nos epernces Les Ancẽ̃nes Repuques ont enéprou ué que Foy et e pus grnd"
-        ],
-        [
-            "PANEGYRVE 55 en deSoceté Cue & ceux qu ont vouupreren dre ̀gore de es en gou uerner( outre eur more & eur Potque) oht toû jours creu que es Deux uoent des foudres pour es ermens voez u et contnt queonnoy tent eucoup deutce & dePeté puque vne nous oge ux effets dés qus ont nnoncez pr or gne de nos promees & que utre nous engge u repect enuers vne Dunpé dont eence repugne u menonge & qu srrte pu"
-        ],
-        [
-            "56 LE RoOY MNevR mment qund ee et p peée pour uthorer vne foure ous vn mque de VertéCet donc cy quon peut dre que notre DvNNE e decre egtme Herter deutce de on Pere & dePeté de es Ayéus trehret̃s qund A montrecrement qu veut etre eéqute en tou tes choes exct uquux ndfferentes Approteur des onnes & Ceneur des muueset encore e Vvry prtecteur des crées chcun vot tous es ours que"
-        ],
-        [
-            "PANEXQVE 57 quevenerton uy ert de gude qundsppro che des Autes Etngno re ps que ns fre tort ̀jREYNREGENTEfut qu reconnoe Ege pourMereL properté de nos Roys Chretens neut jms du tre fondement que eur Re gon es Contntns es Cous es Chremgnes & tnt dures nont etendu eur Punce quurnt qus toent ouû̂tenus dePeté́ eet dns on p puy que tous es Monroques du Monde onttrouué et R"
-        ],
-        [
-            "2 nrn 8LE R MEv ement de eur grndeur De treze Lodvxs queFrn cécondpté prmy e nom re de fes Roys vn et de cré Snct pr Ege es utres ont Cnonez pr eur propre Vertu Le der ner dentreux fut etonne ment deTerre prPe té comme pr on Courge & e premer demos Chres fut urnommé e Grnd u tntpr Sncteté́ue pr v eur Les Romhnsmefme ont toûjours creudeuorCute des doe Gtndeunde eur Monrche jque us oquvn cettn doue"
-        ],
-        [
-            "ePEGYRQYE r9 es Deux etoent fuor4 hes à̀Peré& ̀Foy qu uoen éeué e Peupe Romn prdeus toutes es Ntons Au qund ces Vertds e trouuent dns es Roys oence redoue pe dns es Sujets prce qus n p oroyent d Artote que Sesun es Pufnces Ceetes v̀ neen ount es nures quoftnere des Prnces qu es reueor rent2Ceft en vous oô̂ Monr que Euory du Ce qeRegon de tnt de Roys peux dot prendre de e es rcnes pour séeuer pus"
-        ],
-        [
-            "6 LE Roy MnE vR hut quee ne fut jns & put etendre es Rmeuxtot votre Royume dontthcore queques en drots retent ndonnez ̀ Herereconnonceenrs Deu vous doît doner ce zee vous ne mnquez ps pour ce dexempes denegnements nyhefhe dncnton Et eGouuerneur de V M n ps oué de uy dre ce ern qun grnd Peronnge dt Empereur utnn Pen s penes grd Roy pr ques moyjens vdsApuourrés vous rndre gree ̀ cét et pendnt de qu"
-        ],
-        [
-            "PANEGYRQVE 6 qut vous tenez e Sceptre & pu qu vous ̀ preferé u rete des hu mns htez vous de honorer pr deus tous es hommes uros muue grce SRE ̀ prer duntge de tnt dutres eçons quece Heros vous ft prés uor cy trcépus mpor tnte Ms en y déj mon tré es effets dns vos depor tements y quequesfos t̂ ché de fre voron de vos Vertus uec es ennes Et preuppont es Precep tes( pour ne ps ccer dns excés des oünges qu merte)y fent dun S"
-        ],
-        [
-            "3 62 LE ROY MNEVR cer de mon Chef ce que empruntos de es ent ments Enfn grnd Prnce e cy en quoutrepetévous npreCemence en vous dnt que ren nppro che pus de Deu quvn on Monrquevous enegneutce en fnt dtnguerV M que e Regne chez es Chretens et e Gouued nement & non ps e Do mne deRepuquefortfeFoy dns vos pro es en vous repreentnt que ce ont peupes res ̀ qu vous commndezconfr me votre Prudenceug"
-        ],
-        [
-            "PANEGYRQVE 63 mente votre Sgeeper fectonne vos mœurs qundeure V M que es Scep tres & es Couronnes ont des mrques de Souuerne té quennce peut don ner & queeue vertu mntentexcte encore en votre Cœur Amour dePtre e rendnt nter prete de ceuy de vos Peu pes dns tous es témogn ges qu peuuent e fre éc terrege toutes vos ctons qundvous ft connotre que votre condton vous oge ̀ ne reprer que e ougement de vos uets"
-        ],
-        [
-            "264 LE ROY MNEVRvous éogne du commer ces des vces qundnnt duprés de vousmedn rtt ce & es fterescondut u qun tous es mouuements de vo eum tre Ame qund vous don ouoe ne dehyne pour es ffe gen n Pn s ctons deregées & de hor r reur pourcoeremeu re toutes vos fueurs qund t mpeevous perude que esChrEe ges que vous donnez douent etre putot es recompen es du Merte que des rre cns deFortune Bref n me votre courge qundvous fçonne ̀guerre & qu vous engge u tru ms"
-        ],
-        [
-            "PANEGYRQVE 65 msen modere es rdeurs qund ft uoüer ̀ V M pr des remontrnces repe ctueues quee ne dot ps tnt utter ̀ etenduë̈ de on Royume qùcon eruton de es ProuncesMs quoy mon Prnce vous vous pquez déj de rue & de guerrer vous vouez quefermeté ot me u nomre de vos un tgesEt qu cette eurnce quon remrque en votre potureors que vous ftesreueuë de vos troupes venne y tenr on ge Pue en vous decrre fr Tt"
-        ],
-        [
-            "66 LE ROY MNEvR me comme vn Rocher ou putot comme vous etez ors que VosTRE MAESTE vouut vter en peronne tous es qurters du cmp de Beegrde? Pue dre ̀ que pont on fut ruy dy vorcontennce & com en on y dmr dns vn meme vgemne dvn enfnt de Mrs prmy tous es ttrts des GrcesQuoy? e rut des mouquetdes odeur du petre e trcs emrrs & ce tntmrre drmeé́e ne vous urprennent pont? Votre Ame et Ge nereue ms ee ez"
-        ],
-        [
-            "PAEGYRQVE 67 gnerre pour ny ren trou uer dncommode? e po e que es Cnons dvne Ve egée nyent ps pus deffroy pour vous que ceux quon tre dns Prs en ré́jouyfnce de vos V ctores? Vnyement vousn çurez mnquer detre n unce ynt dôj tnt de force votre ̀ge du mons otre Corps nenuff fmmet votre Ame en et odmment pourueuë Aez Monrque Goreux ezdrot ̀ vos ennems pr ehemnque vos Ance tnes vons ont fryé Hs ot"
-        ],
-        [
-            "28 LERoY MevR toûjours djoûté e repentr ̀ udce de es ttquer Ftes comme eux ttchez à̀ œur exmpe)Fortune à votre SntteVctore à vos Cotts Et montrez que e Ce ut teeué à votre mnchtment des temerres Pdut tut droen vfdotrtedetr de ûourgeceu eM prqdgeux ms de hutes qutez qufn éootre pr touttrsod gnede portepus nde pednte eds Couronmdsc Cequef Rnommédéjpú u extremtez de"
-        ],
-        [
-            "PANEGYRQVE 9 deTerre Et es nouueux ujets que vous uy donnez tous es jours dy fre de nou uees coures chrment e dépr queede trouuer e monde trop reerré pour vnempe reputton uqucy queques tour ons qu setoent éeuez u meu de Ett ont gté r deFrnce ms nont peu e trouer Lmpureté de queques prtes corrom puës & es vpeurs mgnes quont excté dns ce Royu me es ennems deprope rté ont épnché queques roü̈rds ururfce de Vnu"
-        ],
-        [
-            "7o0 LE ROY MNE VR nos Terres pendnt que eur Soe emot etre en Eecy pe ou qu ne proot que ous des ryons empruntez ms dés ors qu commen cer décrer de on Chef de ure dgr & déchuffer pr es prncpes ntures deLumere de on Actuté & deCheur quee or te doecurté uy pourr fre otce? Ques nuges tendront deunt uy? Etss ont dpez pr e premer rnt de on Aurore com ment ttendroen r deur de on Mdy? Courgese e montrer déj"
-        ],
-        [
-            "PANEG yRY 7 notre Orzone réjout devenuë & e ommet de nos montgnes e dore ̀ onpect Fuyez teneres nuées écrteous ezen dutres Regons ou rerournez dns ces Cmrs ennems où vous uez eteé formées Etvous ez chor cy que que rete de vos humdtez qu ny enyt que pouron fondre ces tetes creges de qu es ouches mons en uenmées que es cœurs ont fomenté pr eurs henes denores exhons Reuenez Sece dOr vousuez cheué e temps de vo"
-        ],
-        [
-            "2 LE RoY MNEvR tre ex L Px que prep re vous rppee Et quoy que ce ot vn Ouurge qu eme dererMn du Touuntnet ps u deus des forces de Ange tutere queomms pour entreprendre pour en etre Artre pourconcurre & pour executerCetvous ô tres Augute DEONNE qureeuez n nos epern ces tuës Cet vous que nous conderons comme vn vry Don du Ce & com me vn Atre umneux dont pect fuore nous v rendre e cme &erenté pour"
-        ],
-        [
-            "PANEGYRQVE 73 pour nous remettre dns e port de nos fectés pées Ms vous netes ps ̀Frnce vn Atre euement vous uy etes vn Ce enter tnt de grces & de vertus que nous venons de recon notre en vous ne ones ps utnt de Pnetes &dE toes qu vous enuronnent & qu vous renuoyent pr vn reféchement contnue éct Mjetueux dont vous es ftes rer? Chere Ptre comen dos tuprendre de on de mén ger cette ondnce de f ueurs qu v répndre dns X x"
-        ],
-        [
-            "3 4 LE ROY MNEv ton en pour en commun querrchee ̀ toutes tes Prtes? Pene en ̀ es mer ter Et pour tcquter de e tme que tu dos fre dvn Preent dont e prx et net me meureveur à̀ t neceté condere qu te e donne & confee hute ment que ces tros choes ont nconceues En effetet contnt queFrnce ne vt jms vnGrnd Roy dns vnPett Prnce que jms vn Duphn ne uy fut ny pus necere ny tnt ouhtté & que e Ce qu e ft n"
-        ],
-        [
-            "PANEGYRQVE 75 tre dns des conjoncturesprentes uy ft vn Trône de on Berceu fn que tout uqùpettee y d̂t u Mrce deGrn deur Mset encore tres certn que jms vngrnd Ouurge ne fut meux condut ̀perfecton que jms Mrech de Frnce ne rendt vn meeur eruce ̀ Ett que jms Regen te ne reüt meux dns vn chox de cette nture & que ms Mere & Tutrce ne deut etre pus tste de educton de on M heur"
-        ],
-        [
-            "76 LE ROY MNEVRGrnde Reynene me rete pus qù vous fre pr tcper ̀ nos joyes ou vous demndercence de pr tger es votres Ce net ps vn nouueu oeur ̀ V M de e vor Couron néePourpre etot des Ornements de on Berceu Ce netot ps ̀ ee vn on heur extrordnre de e vor e ur nos Feurs de Lys Epgne nousuot déj donné des Rey nes Ce nen et ps vn urpre nnt de vous vorRegen te du pus fornt des Royumes dutres Reynes ont"
-        ],
-        [
-            "PANEGYRQVEont tenu e Sceptre durntMnorté de nos Roys Ms cen fut vn neperé de vous vor Mere ors que tous nos vœux ftguez dvnong refus nooent pus e pretendre & cen et vn qu n pont de pre de vous vorMere dvn Roy qu deurot etre pr Mer te s ne etot ps pr Nnce Bref untge detre Reyne de etre en Frnce & dy etre Re gente ( quoy qu em e tout furper) et nfn ment u deons du on heur qumouxft Mere Y y"
-        ],
-        [
-            "78 LE ROY MNEVR du pus ccompy des Mo nrques Le reconnoez vous MADAME dns e Portrct que y tâché́ den fre e Coors en e ez vf? Ĥ y grnd peur que e nye ps reufot vne mn pus hrde pour en rencontrer en vneu deen Toutesfosmporte peu de he ment pourueuquefgure ot fdee & quee yt du rpport ux proportons de on orgn En tout csexceence du pentre ne repond ps ̀ cee du u jete ny peu trer u n"
-        ],
-        [
-            "PANEGYRQVE 79 ure tous es trts ny eur rendre e meme éct dont es grces ont emey mon mpunce & m confuon yderont putot ̀ e rehu er qu e ternr De pus tous es Frnços qu mu thorent dns es vertez que e pue témognent qus en ont trop perudez ch cundeux uy ft en on Ame vn PANEGYRQVE ecret A mour des Peupes e confrme pr es ccmtons qu u uent pr toutpreence de votreFs Etes cœurspou uoẽ̃t utrement sexpquer vous y verrez MADAME"
-        ],
-        [
-            "8o LE Roy MnEv heucouppus dEoquence quen m pume e concus donc mes entments pr es vœux que poue mon zee pourproperté de Vos MAESTEZ & de Ett s ne peuuent etre meux exu cés que prdurée dvn Re gne qu urper tous es utres en Fecté Puque e Ce(qu emot nous uor fermé e Treor de es Gr ces) nous donn L A CLEFE de es Fueurs qund ft ntre en Frnce vn LOV Y se eene eene du ge"
-        ],
-        [
-            "PANECYRQVE 8 du ge Soon u Roy Creus quefecté des hommes ne e dot uger que prfn Lhtore ncenne dont Herodote et e Pere nous ex poe que ce punt Roy e pus rche qufut ms ynt ft en orte dttrer Soon àCour fn de vorperon ne &gee repondoent ̀renommeée qu etot épn duë pr tout de uy otnt en fn cette vte de ce grnd Le gteur Vn our dns eur en treten e Roy de Lyde uy propo cette queton que etot ̀ on entment e pus heureux de tous es hommessetot perudé qu uy re Z2V8"
-        ],
-        [
-            "82 LE ROY MNEvR pondrot ot que cetot uy ̀ cue de es rchees m menes qu uy uot ft vor à on rrueée ms ce Sge Ph oophe qu ne e ot pont urprendre ̀ pprence & à̀ ect de or uy ft vne re pone en eognée depre tenton y remrqué d vn mpe Bourgeos en votre Ve qumé ez de en pour etement dvne pe rte Fme pr des voyes honnetes & ctes eu e temps de ouyr de es poe fons mré tous es enfnts & enfn et mort dnsrepu tton dhomme de en & d honneur uec es regrets &"
-        ],
-        [
-            "PANEGYRQVE 63 es ounges de tous ceux de quesetot connu ceuyetmon us e pus heureux de tous es hommes e Roy ne ft ps grnd conte de cette répone nen reconnont pont orsforce &verté Ms peu de temps pres Cy rus e conquernt setnt em preé de tout on Royume & Setnt rendu mtre de tou tes es rchees ̀ cue qu nuot pont vouu e oumet tre ̀ es voontez de on gré uy en vouut fre porterpene & donner vne exempe ux utres tetes Couronnées du monde de fechr ouspunceft donc umer"
-        ],
-        [
-            "84 LE RoY MEv vn grnd ucher ur equeft monter Creus pour y etre hrueé tout vf eque ors e reouuennt de ce que uy uot dt Soonsécr pu eurs fos Soon Soon ô quetu ms en dnverté Cy ruS vouut fçuor ce qu vou ot dre p cesexcmtons & Creus uy ynt rconté on entreueuë uec oon ce q uy uot répondu e peu detm qu en uo ft & commereconnootque ce qu uy uot dt etot en vertey donnve en fueur de ceSge qu uot nuoqué ce rche onrque yntpour ors en pprs que"
-        ],
-        [
-            "P ANE CYRQVE 5 e onheur des hommes & des Etts e dot etmer pr eur fn dcours qu nous pprend encor uourdhuy que tnt de fectez ̀Frnce que nous vVenons de rconter dns ce voume etoent peu de choes durée venoten etre n terrompues Les m heureufe guerre C ues onten detourneé toutes nos ees epernces & nter rompuee educton de notre Meur uque on p prend pus ren qù fre du m ̀ es uets uque on n preVngence contre eux ntrus̃tregner pr des p ons egtmes mxmes tres AF"
-        ],
-        [
-            "2 86 LE ROY MNEVR pernceues dns eprt dvn Meur à qu on donne des premeres mpreons qu peu uent etre fteuy & à tous es peupes cependnt on e fortfe dns cette eureu e condute & on cre quon ttente ̀ on Athorté ors quon soppoe genereuement u tort rrepre que on uy ft u en qù touteFrnce Ce qu et de pus etrnge entout cecy cet queme me Reyne quprs e on deMnorté qu fot eperer pr vne douceur quon peut en ppeer & fente & d muée vne ongue px pour e"
-        ],
-        [
-            "PANECYRQVE 8 en de on Fs & de on E tt etpus otnce ̀ e trouer &procurerder nere runeen quen ve nnt de fre on Pnegyrque e us ogé demer en meme tempsvertu ynt ete uue depres pr vnnote mnquement Ms hes doù prouent ce chngement en notre Reynepreudce ̀ cét Ett en trouue tros cues prncpes qu ont comme es tros our ces nepues de nos m heurs L premere & qu donne e rne à̀ toutes es utres et nte mton de re"
-        ],
-        [
-            "8 LE ROY MEvn gner qu depus quee set empree de eprt dvne fem me ne trouue pont de moyẽ̃s qu ethent on pouuor qu ne uy oent ons & tres propres pour egtmes qus puent etre cet ez que cette ponmtre ee uy ft tout entreprendrefut quee fe voence ̀ tout ce qu yde pus uteon uy oppoe & quee rompe es pus fortes dgues des ox ̀ mtton dvn tor rent mpetueux qu force tout ce qu uy rete pus forte ment & qu pe pr deus tout ce qu reche fcement deuntrpdté Nous"
-        ],
-        [
-            "PANE GYRQVE 89 Nous reentons es v goureux effects de cette pre mere cue ns çuor où e termner e cours de cette m petueue pon qude produt tnt de ruges & qu nous mence de notre derne re deoton L econde cue de ce chn gement en eprt deReyne etprodgeue & trop peu ronne ffecton queepre pour e C M oe en ppeer ntre pres es muues nfuences qu en ont prouenuë̈s &conon cton eureue de ces deux tres ne nous predent que trop dnfortunesnotre trB"
-        ],
-        [
-            "4 90 LE ROY MNEVR te ort net rendu pus fuo re deorms prvoen te eprton pour ms de ces deux ennems denos ens & de nos vesyencore vne troéme cue qu ft nos dgrces cethyne rreconce queReyneconceu contre e Prnce de Condé cette p on qu nndonne ms e exe uy ft prendre de trnges reoutons qu éct tent pr pres en dépouun tes coups de foudre Ce Prnce n pourtnt ren de he en uy quvne trop grnde fermeré en toutes cho es & trop de vertu pour des"
-        ],
-        [
-            "PANEGYRQVE 9 gens ponnez cete croy tout ce quon trouue de pus muus en uy ms qum porte quevertu ot enuée pourueu quee ne uccome pont ee ne fut ms ns enueux & ns ennems msfut que es yns reconnus ee preuenne tous es rtfces qupourroent urprendre Notre eune Meur dont Educton et fondée ur ces tros prncpes et ntrut de onne heure de tous es re orts dont ees e eruentet de e Spectteur de tous eurs mouuements & eur donne quequesfos erne uy meme prcompn"
-        ],
-        [
-            "92 LE ROY MNE VR ce qupourMere & pour rout ce quee yme? vo vn Prnce en formé dnsd cpne des reentments qu ont es pus perfdes Cone ers dvne me Roye & qu ont touours eruy ̀detru cton de tous es Empres Tout e mon de çt que mour et vne pon fte ̀ tous es Etts &on veut prcourr toute Htore on nen trouuer pont qu nen yent quequesfosreenty es funetes effects ceuy desrens trouufn dns eses & cues ffectons de Srdn qu pot touteve dnscompgne des fem mes"
-        ],
-        [
-            "PANEGYvE 933 mes uec equeessmu ot ̀ fer pon mépre dns vn homme qu commn de ̀ tous es utres Mrc Anthone tout grnd Cptne qu etot e perdt uec Empre pttrop grn de fecton qu portot ee Ceoptrepon uy ot vge du ugement u quu ponct de e tuer uy me me ur vn fux rut demort de cette Reyne Vn Chderc dns notre Monrche fut honteuement ché de es Etts pour es f fectons egtmes & fes mo ees nupportes outre vne nfnté dutres que cette hon Ccc"
-        ],
-        [
-            "94 LE RY MvR teue ponms ̀ deux dogts de eurs runes Entre eques e remrque vn Chr es Vqu fut pres ppeé e vctoreux ̀ cue de es mer ueeux fts drmes qu f rent cher pre ux Angos ors meme qus etoent en poeon de touteFrnce Ce rue Prnce etot redut à̀ Bourges ou pour ouger es ennuyscherchot tous es duertements poesv uot ̀ dépoûé de on Roy nme prmy vn grnd corte ge de femmes courtnes qu sefforçoẽ̃t ̀ qu meux meux de uy fre per e temps e retennt pr eurs chrmes"
-        ],
-        [
-            "PANECYRQVE 5 dns vne ve vouptueue & ndgne dvngrnd cour ge Vn our qu e dpoot ̀ vor ur e or vn B e pus mgnfque quon eut enoer ft protrerru de on rmée vn Genthõme qu ve not uertr du dnger où ee etot & uy demnder du e cours dont ee etot fort pre ée e Roy u eu de re es depeches dy fre répone ur heure & de pouruor à̀ vne ffre de tee mportnee ne gge meme de e renuoyer uy commndnt dttendre u endemn qu duerot à uy donner queques ordres Le or venu & heure du d"
-        ],
-        [
-            "96 LE RoOY MNEvR ertement spprochntcommnd à ce Genthomme de e uure ynt mené u eou de Aemée & uy ỹt ftvor tnt de peutezen utées regrde uy d vos tu ren deeu ̀ rmée? que ds tu de cette mgnfcen ce e ds Sre reprtt ce Gen thomme quon ne vt ms Royprendre tnt de pr à perdreon Royumeque vous Le Roy qu nttendot ren onsque cette répone e entt pcqué dtrd decette hrdee ms ynt repénuct e on eprtertd de ce Sodt uy dre envertdzft teement touché de ces mOtS"
-        ],
-        [
-            "PANEGYRQVE 97 motsen penez &hrd ment exprmez que deunt qu fut ourprtt uec uy pour er ecourr en peron ne es troupes chncentes touteCour ynt dmré vn deprtpeu medté & reou uec tnt de precpttonuu pr ce moyenCou ronne qu ne pouuot pus onemps e outenr & qu ot nfement uy tom er de deustete s eut contnué duntge dns cette oyueté honteue oùp on moureue uot redut uec vn dngereudent de on e ne ues ut denou Ddd"
-        ],
-        [
-            "4 98 LE ROY MNEVR dres deordres que mour cette pon ueuge & ru teexcté des mouuements dns e monde cpes de e fre perr enterement ee port vn Roy des Medes à fre tuer e Fs vnque de on Fuory & ̀ e decoupper en morceux pour en utre e fre erur te ̀ on propre Pere cette fureur en ttr vne utre dns me de offensé qu dmunt fortement doueur mnge de on pro pre squ reconnoot en entre es utres mets pus ynt ft Lgue uec Cyrus & uy ynt uré toutes es fores de cét Empre dont"
-        ],
-        [
-            "PANEG YRQVE 99 dpote vnge de ce Prnce nhumn en uy f nt perdreCouronne Les hynes rreconces de Sy & de Mrus ne rune rent ees psRepuque Romne &otte hyne que Cgue uot contre es Romns uquesne ou htrot quvne tete pour es perdre tous enfnt cou per ne e ft ee ps perr des e commencement de on Re gne Enfn tous es Tyrns qu ont gy pr es mouuements de cette pon rute ne on ps pers eureu ement & nont s ps entr né uec eur cheute es ren"
-        ],
-        [
-            "2o0 LE ROY MNEvR uerements dvne nfnté de Monrches S nous en ve nons ̀ mton ô comenee ft rer de Sceptres? Comen tomer de Couron nes? Comen perdu dEtts es meux pocez du monde Que deuntRoyuté de Ro me ous Trqun e Supere? Que deunt cee dAe ous mteux Bjzet cee des Goths ous Tot cee deD ud ous sõpett Fs Room? Comen cette ponees eté fte ̀ toutes es mes m teues mton de Oyrus uy ft coupertete pr vne femme cee dAexndre e ft empoonner cee de Ce r"
-        ],
-        [
-            "S S PANECYRQVE 2o r e ft mcrer en pen Se nt cee du derner Duc de Bourgogne qu etot nt e e perdt uec tous es E tts nsrune qu cu à tous es vons & ez cõmeppert pr es proes du on Duc de Lorrne de ce temps ̀ qu ynt ft pporter on corps ̀ Nncyne put sem pecher de uy dre h mon Coun vous nous uez mout ft de m temognge ez uffnt des deordres de cette mudte pon uot com munquez à tous es endrots ou ee uot pû penetrer O qu et donc mportnt dn trure es eunes Roys ̀ com Eee"
-        ],
-        [
-            "2 o2 LE RY MEvR ttre es tros montres qu eurseuent tnt dux & epeuent redurè des extreftezetrnges que es pons ont de muues H̃jttees pour conddreehee dv Roy & qu m porte eucoup pour eux & udeurs peupes& eneore our eurs vonso Chent mtrer prron es mperetes qu semprent eeuscœurs pour y excter memouuêments mpetueux & toours de dngereues tteTontefos hus voyons u ourdhdy ̀ nõtre pus grndA efPAe thté de 2L"
-        ],
-        [
-            "PANECYRQVE 2o3 notre eune Monrque qu ert comme dntrument ux reentments deregez de ces tros fures ueuges qu epn chent pr touteFrnce e ng & horreur ns que on cche en encore quee re mede on y pourr pporter de orms L Reyne veut e C Mqueque prx que ce ot tout e monde nen veut pont oument qu er e pus fort tout vn Royume entreprend contre vne Rey ne ms e Royume qu set deuré utresfos detyrn ne Romne quft tete ̀ tous es Roys de Europe qu n pu quequesfos ouffrr es"
-        ],
-        [
-            "2 2o4 LE ROY MEvR propres Roys qund s e ont r̃dus nupportes pr eurs muus deportements que peut vn Ettpunt u ourdhuy e euy memevor ce qu et oge de fre pour fon propre untge L Reyne ht e Prnce de Condé tout e monde ert d puy ̀vertu on e reconnot pour frnc pour re pour vnt pour nnocentet en ronne de uure vn prtyute ms erotpo e que tnt de vertuen ppuyée &generement reconnuë vnt à̀ uccomer àvoẽce dvne poncrue ement nmée chcun dotexm"
-        ],
-        [
-            "PANEGYRQVE 2o5 exmner on pouuorde us & y contruer ̀deffen ce tout ce qu uy er poe L Reyne veut retenr tout e pouuor & tout Empre de cét Ett entre es mnsnyren quee ne fe pour ce uetfut quee perde tout ou quee en venneout çee peu equtemente deen et nute & es moyens pour y pruenr c tes offenon Deu e Roy ouutceonoppoe vgoureuement horms vn Cordeer ̀ gge en fs u ges tous ceux qu çuent es cs de concenceVo nentmons ̀ quoy FfF"
-        ],
-        [
-            "4 086 LE RY MNEVR on ntrut e Roy on uy donne de ffecton pour e Mzrn dehyne pour e Prnce de Condé & de m ton pour monter u deus de toutes choes utes & ron nes en orte quon uy ft crore que ce erot ser pr trop que de deferer que que choe ux treumes Remontrnces de es Pre ments que ne uy enegne ou putot qu ne dot ren fre dmportnt ns en prendre eurs dus ̀ mtton de es Predeceeurs qu ne dot ren fre que pr e Cone & quepon et vn ndgne emportement dvn Souuern"
-        ],
-        [
-            "S e e S t Z e PANEGYRQVE 207 MsReyne ̀ ce quee dt nen veut ps fre vn Docteur de Soronne Moneur Eue que de Rhodes e çt en pus quee uy defendt vn our de fre des eçons de Po tque ̀ ce puure pett Prn ce à qu on veut ceer ong tempsverté prce quon eveut gouuerner Concuons ̀ deus & d ons hrdment queReynegrnd tort de e pndre quon oeyt ps exctement ux ordres du Roy pus quee ne veut ps meme uy donner connonce de on pouuor comment e peu exercer quee uouë ce quee ft"
-        ],
-        [
-            "4 208 LE ROY MNE VR ez protre que toutes ces vo ontez uppoées du Monr que tennent dee & du C M uquees on et pont ogé doeyr prncpemeẽt qund ees ontnutes &Tyrnnques Hét quoy ee fer regner e C M en de pt de tout e monde ee me me domner & ur e Prnce & ur es ujets & quconque ne voudr pont e oumettre ̀ ee er vn crmne vn ree e vn reuoté ur que drot peue fonder cette uthor téouë que e Roy def funt uy dene dns on Tet ment meme pendntM norté ee et regée ̀ deux vox"
-        ],
-        [
-            "PANEGYRQVE 2o9 vox dns e Cone ce quee pretend duntge et vurp ton ee e ft dõ̃c vor nute & pr conequẽ̃t tout ce que e ftuec cette punce o uë̈ et vne nutce pus que e ne e peut ps egtmement on ps ron deop poeron ne veut gr u nutement quee qu vou drot y proceder de fçon e rot mene fut pont outenr nquté à mons que detre nque Vn on Frncos horrer touours ces nores prtques upo nt vgoureuement à v urpton ve de utho rté de on Roy & nuoü̈er Gg"
-        ],
-        [
-            "2 LE Roy MnE vrR msReyne de ce quee ft prce qu erot trtre à on Prnce uqueeu eteg mement oums oure qu erot vn tort rrepre à̀ptre queeet nturee ment ogé de proteger pr deus toute choe FN"
+            "Le",
+            "TYMBRE",
+            "DE",
+            "L’HOSTEL DE VILLE,",
+            "PARLANT AV",
+            "CARDINAL MAZARIN.",
+            "SVR LES ASSEMBLEES DES",
+            "PRINCES.",
+            "A PARIS,",
+            "Ruë d'Eſcoſſe aux trois Cremailleres."
+        ],
+        [
+            "LE TTMBRE DE L’OSTEE",
+            "er r",
+            "de Ville parlant au Cardinal aſaarin",
+            "ur les aſſemblées des Princes.",
+            "C’ vous et iamai ariú, chet amy, dete",
+            "raiſonnable, & ſi vous auez quelquefois eu",
+            "deſſein de ſuiure les bons auis de ceux qui vous en",
+            "ont pù donner; c’eſt au jourd’huy qu’il vous faut ro",
+            "oudre de ne point meſpriſer ceux que ie vous pre",
+            "ente: ie ſçay bien qu’il s’en eſtren contreé quelques",
+            "vns qui ſous vne fauſſe charité qu’ils maſquoient",
+            "du nom de Chreſtienne, & ſuiuant les intereſts",
+            "qu’ils pouuoient auoir aà̀ voſtre bien ou à voſtre per",
+            "te, n’ont pas manqueé de vous remonſtrer ce que",
+            "vous auiezà ſuiure ou à euiter, mais ils pouuoient",
+            "bien en quelque ſorte vrous eſtre ſuſpects, puis qu’il",
+            "eſtoit comme impoſfible, ſuiuant les maximes",
+            "d’Eſtat que vous eſtiez obligé de ſuiure pour vous",
+            "maintenir, que vous peuſfiés diſcerner ceux qui vous",
+            "parloientſans feintiſe, d’auec ceux qui ne taſchoient",
+            "qu’à̀ vous debuſquer de voſtre fortune, comme il ſe",
+            "erouueaſſez d’enuieux dans le monde. Pour ce qui",
+            "eſt demo, vousne pouuez aucunement refuſer de",
+            "m’ouyc patle; toxcuſemoyſiie me ſert de cemot,",
+            "qui a mon regard et aſſés impropre; ) car bien que",
+            "A ij"
+        ],
+        [
+            "4.",
+            "L L..VS..2",
+            "e ne ſois rien qu’n Tymbre, eſleué au haut du pi",
+            "naacle d’vn Hoſtel de Ville, ſi eſe que i’ay mille",
+            "excellentes proprietés que ie ne diray point aà cette",
+            "eu dau’eleſeoiens iauilesau ſuet que",
+            "e e ſu popole, leulemene veu ie bien vous",
+            "re que l’ayjcétte prlopritté ſur toutes les autres, que",
+            "e meſure le temps, & quo vay vn heſme pas",
+            "ue luy, & pour cette raiſon les hommes m’ont",
+            "ueré; ionſedeinant poui eur marquer les",
+            "ouürs & les lieures, haaîS auſſi pour lesaduertis à cha",
+            "que momeſt que ’leut vi s’auance touſiours, &",
+            "l’ils ’apprdehmt’ ilſenſbilement de la mort. Sic",
+            "ri ii d molde Dpis quelques jours c’eſt pour",
+            "vous prſheipalemen’que iay ontinué de ſonner",
+            "hres heures. & pout le moifs àce qu’il me ſemble,",
+            "que ie me ſuis eforeé le me faireentendre plus loin,",
+            "afin, s’il m’eſtoit p6 ible de pamaenir iuſques à vos",
+            "oreilles, puis que &ous approchiéde moy tous les",
+            "ours. Mais ie vousadurtis (pauure Cardinal que",
+            "vous eſtes, & digne veritablement de compaſſion,",
+            "ſi l’on doit auoir des meſtladns, que vous n’ayez",
+            "pas cette temerité effrontéede tontinuer dauantage",
+            "de vous appocher de Paris, ſi tant eſt que vous de",
+            "ſitiez de conſeruer voſtre vie, & ſivoſtrthonneur",
+            "vous eſt cher en quelque façon. Mais peuſtte que",
+            "e vay perdre mon te mps, & que ce que i’eſtime vouas",
+            "pouuoir ſeruir de leçon, ne ſera qu’vn ſoinutile &",
+            "ns aucun effet, puis que c’eſt n Poucrbe aſſez",
+            "commun parmy les Franuçoais, qplanbeaupreſcher",
+            "qui",
+            "A..",
+            "J"
+        ],
+        [
+            "qui n’a cure de bien fairc, car vousauez aſſeés teſimoi",
+            "gneéparvos action quevahsn’y aiauounemdat",
+            "natuce; & file temps que ie fals profeſſibn de ſui",
+            "ure apprend quaelque choſele cœrtain par le conti",
+            "nuel exercice, & par les ubſermations iournlieres;",
+            "fautauoirbiem peu d’eſpectene pou ne psoon",
+            "noiſtre que ce ne ſra pas encore aiod’huy qu",
+            "vous commencerez de faire du bien, veu que vpus",
+            "uz vne trop longue hbabitude au mal, Prenez ie",
+            "vous prie, vn peude loiſir, parmy teuteà les in",
+            "quieues qui peuuene troubler yeſtre, ſpit, 9",
+            "conſiderez en vous meſme de quoy Vous ſont rede4",
+            "uables ces pauues peuples de France, aà les eſpluchen",
+            "depuis vn boult du Royaume iuſques à l’autre, de",
+            "quolque coſtéquevous le preniez! ces panures peu",
+            "ples, die que vous auez payez auec. tant d’ingra",
+            "titude, qu’apres anoir receu d’eux vne fortune que",
+            "voſtremiſerable naiſſance n’auroit iamais oſé eſ",
+            "peret, apres les auoinépuiſez, s’l faut ainſi dire, de",
+            "toutes ſorteade biens & do faculrez, vous leur auez",
+            "miſerablement ſouſtrait ce qui leur reſtoit de plus",
+            "cher & de plus aimable ; vous leur auez enleueé leur",
+            "Roy, & vouseſtes ſeruy dece ieune Priace comme",
+            "d’vne couuerture à vos perfides, & d’yn bouclier plus",
+            "fort que celuy d’Aiay, pour éuiter les ſupplices que.",
+            "vous méritez Mais ce meſchant( car la patience me",
+            "ienod’eſchapper,) ie vois bieſt ariuer le ſou",
+            "haitable moment., qu’il ous faut: perir Depuiv",
+            "duelques iours dans les teruales: que ie n’eſtois",
+            "B",
+            "LLA"
+        ],
+        [
+            "point oceuppeé, i’ay veu ce queie ne veux point vous",
+            "caler, i’ay veu ces grands Princes arriuer pluſieurs",
+            "fois dant l’Hoſtel de Ville, où ie ſuis ſur le grand",
+            "portail, ſe venir plaindre de vos actions, depofer",
+            "tant& tant de crimes dont ils ſouſtiennent iuſte",
+            "nent, que vous vous eſtes noirey, que moeſm̂",
+            "op ydoiuté́mueten les écoutant: Rien dauaûta",
+            "gt, ils ſont tellement picquez contre vous, que ny",
+            "e reſpeét de leur condition Royale, ny celuy qu’ils",
+            "ont touſiours fait paroiſtede porcerauScepefran",
+            "ois, & & celuy qui l’a ſurle chef, ne ſeronrpoin",
+            "fans doute capables de les empefcher de vous perdne;",
+            "e tremblols pout vous en attendant leurs menaces,",
+            "& ie vous iure que ſii’euſſe eſtécapable de lau indi",
+            "gnation; & que de tellers diſgrares oſſent pû̂s’ade",
+            "dreſſer A moy, tout laſenſble queis uis, i’euſſa bien",
+            "roſt ſorty de ra place, & me fuſſe reſolu de m’allen",
+            "embarquer ſur quelque vaiſſcnu pou l’Amerque,",
+            "oi ie vous conſeillerois voloniars dalle:: Mais",
+            "on, ie me reprens ie vous conſeill pluſtotde",
+            "eà en repos ces pauurtes peuſes nouueaux, car",
+            "voſtre humeur turbulante ne leur apprteroi que",
+            "du rrouble, ioint que voſtre deſtiné́e he ous permer",
+            "pas ’eſchaper da fupplic qur vous attend, commeé",
+            "eſpere aſſés présde roy, car iepenſe que la Iuſtinl",
+            "diuine vous garde le meſme chaſtnmeént qu’à vnd",
+            "vos creanciers, que i’ay veu ſe perdren la hefims",
+            "Ville ou vous eſpereimpudemment de venir, & parl",
+            "es mains du meſme peupl que vous auez ofenu;",
+            ".L L:aae1"
+        ],
+        [
+            "Etce qui eſt de plus remarquable & de plus funeſte",
+            "por vous, dans le temps meſme, & au bour de",
+            "pluſieursannees que ce miſerable perit, vous faites",
+            "tous vos efforts de venir prendre part aux reucla",
+            "tions de ſon mauuais ſort. Attendez vn peu la, ie",
+            "vousprie, & prenez de loiſir de penſer à vous, ce",
+            "pendant que ie vay ſonner à mon ordinaire.....",
+            "M’aueous bien entendu, ce n’eſt pas encor là le",
+            "moment qui vous doit eſtrefatal, mais à ce que ie",
+            "vois vous y courez à bride abbatuë; Reçulez, reculez",
+            "d’icy, & vous en retirez viſtement, car ſans doute",
+            "qu’il n’y fait pas bon pour vous. La ſainct Marc eſt",
+            "funeſte à detels galands, comme vous laiſſez reuenir",
+            "e Roy, & vous ſauuez bien pluſtoſt, & le plus de",
+            "diligence que vous pourrez apporter à voſtre retrai",
+            "teſera le meilleur pourvous, croyeoy, l’on crie",
+            "par tout dans aris, & dans tous les autres endroits",
+            "de France, Viue le Roy; point de azarin. Ce ſont là",
+            "des paroles qui parlent à mon aduis bon François,",
+            "& iamais ie n’en ay ouy de plus propres, on n’y",
+            "çauroit trouuer d’ambiguiteé́, ny de double ſens, &",
+            "ceux qui les prononcent, le proferent du cœur com",
+            "me de la bouche, car ils aiment autant leur Roy,",
+            "qu’ils portent de haine au Mazarin qui abuſe de ſa",
+            "Majeſté. Attendez, voiey ma troiſieſme heure que",
+            "Ie friſonne tout pour l’amour",
+            "e vay ſonner....",
+            "de vous, parce que ſeruant de meſure au temps, ie",
+            "vois bien que ie luis auſſi pour meſurer voſtre ſort,",
+            "que ie pouuois en quelque faç̧on que ce fuſt vous",
+            ".aa..."
+        ],
+        [
+            "8",
+            "LLa y",
+            "deſtourner de l’opinion où vous eſtes de vous pre",
+            "cipiter dans vmdanger apparent comme celuy que",
+            "vous recherchez, ie vous aſſeureé que ie leé ferois vol",
+            "ontiers; mais puis que vous ne voulez pas, par vne",
+            "opiniaſtreteé maeureuſe, acquieſcer aux bons auis",
+            "que ie vous ay donnés charitablement,; ie ne’puis",
+            "que vous ſouhaiter la meſme choſe quevous vouil",
+            "deſirezà voueſme, & dire pour dérler fefſort,",
+            "Arue bieſt le domeni",
+            "Que ie deuray ſonner mon heure,",
+            "Qu’il faile que Mazarin meure,",
+            "Er qu’on le potte au monument."
         ]
     ]
 }

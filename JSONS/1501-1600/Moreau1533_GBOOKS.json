@@ -1,78 +1,198 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
-        "subject": [
-            "Cour et courtisans",
-            "Impôts"
+        "form": "vers",
+        "genre": [
+            "apologie",
+            "rhétorique judiciaire"
         ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-01",
+        "creation": "1651-02-06",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-07",
-            "@who": "MF"
+            "@who": "MF",
+            "@when": "2022-04-11"
         },
-        "titre": "La gueuserie de la cour.",
+        "titre": "Le guide de Mazarin sortant hors de France et leurs\n          entretiens en sortant de Paris.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1533_GBOOKS.xml",
+        "fichier": "Moreau1535_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L gueusere decour Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Gueusere () decour Sns LeuSns Nom649 févrers 649 Lyon Bothèque muncpeSJ F 247/7 38FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs 2 étts A/Bp 78 \"s nc\" / \"c\" Texte pru en févrers 649 dprès Huert Crrer (Bothèque Mzrne Ms 468 fo 25v) 533 Gueusere () decourSns Leu 649 6 pges Teu psnt demsère des courtsns et consdértons trèensées sur mpôtprose non rensegné Cour et courtsns mpôtsAvntpx 64"
+            "LE GVIDE",
+            "DE",
+            "MAZARIN",
+            "ortant hors de France",
+            "Et leurs entretiens en ſortant de Paris.",
+            "M. DC. LI."
         ],
         [
-            "LA GVEVSERE DE LA COVR M DC XLX"
+            "3",
+            "Aeteeeeſgeeeeeedf",
+            "e eomoe po e eli e lune edo",
+            "en ſortant de Paris.",
+            "Le Guide.",
+            "LNfin l faut partir, ſans faire reſiſtance.",
+            "Mazari.",
+            "Guide ne faites pas icy de violance",
+            "e me perſeeutez dans la Maiſon du Roy,",
+            "Traiſtre retirez vous.",
+            "e guide.",
+            "Nous n’en voulons qu’a toy,",
+            "Ne nous obiete plus ce lieu que l’on reuere,",
+            "faut partir d’iey. aain.",
+            "Que vous eſtes ſeuere,",
+            "Laiſſez moy reſpirer pour vnpetit moment,",
+            "Ha, vous me tourmentez plus que le Parlement.",
+            "Vous ſç̧auez que ie dois dans peurendre mescoptes",
+            "le gaide.",
+            "Voleur, tu me ſurprend, mais ſeraà ta honte,.",
+            "Vos comptes mal heureux, ô mandit Renegat,",
+            "Nont que tro abusé cetilluſtre Senat,",
+            "Mais tu n’en parle plus auec tant d’audace,",
+            "Depuis qu’ils t’ont iugé́ ces iours par couſtumace.",
+            "La crainte de la mort qui troubleton eſprit,",
+            "A ii"
         ],
         [
-            "3 LA GVEVSERB deCour T E S mdes popures ont u dffces L guerr quees ont fces à connotre Quequens ont creu quees netoent pontdãgereues que pour es peronnes de e con dton & ç eté́ vn Prouere dnsouche du premer Predent du 2 Prement de Frnce que ceu deuoent crndrepete qu n uoent ps e moyen de chnger tous es huct ours de cheme Ms uemeeté con trnt duoü̈er que ceux qu chngent dhts tous es ours e trouuent frppés de on venn etnt mort de contgon ynt é vnt oooooe ures L PuuretéGueuere ou fute drgent ont des mdes te e ment con tgeues cette nnée que de popures es ont deuenuës pour n dre Royes Le treocte & trent reur Medecn Chnceer de Vnuerté de Montpeeren remrqueé dns on Amnch perpetue quemde qu nomme fute drgent u rot cours cette nnee c ẽ que pueurs cuées pr eucoup dEcypes de Soe & de"
+            "Te reduit en fantoſme affreux & decrepit,",
+            "La grandeur d’vn ſupplice eſt affreux à t’on aAme",
+            "Quand tu te repreſente & le feu& la flamme,",
+            "Ces terreurs qui penetre en l’imaginatif,",
+            "Ruine ton iugement & te rende craintif.",
+            "Mais traiſtre ie voy bien & connois à ta mine",
+            "Que tu ſouhaitte encor l’eſclat de ta machine:",
+            "paris eſtoitl’endroit où ces beaux mouuemens",
+            "Ont rauy ton eſprit par mes enchantemens,",
+            "e t’ay rendu ſç̧auant dans l’art de la Magie,",
+            "e tay rendu parfait dans la filouterie",
+            "e t’ay donné le don d’eſtre bon partiſant,",
+            "Vnrezun’a iamais poſſedé́tantd’argent,",
+            "Rome c’eſt eſtonné de ta haute puiſſance",
+            "Voyant entrer che luy les threſors de la France,",
+            "Le Pape ne c’eſt peu tenir de t’honoré",
+            "Du tiltre ſomptueux de Cardinal doré",
+            "Et bien te plaindratu, du cours de ton deſtins",
+            "Reſpons moy hardiment parle done Mazarin.",
+            "Maarin.",
+            "Le temps de mon deſtin ne peut eſtre acheué,",
+            "Pourquoy differe tu de me vouloir ſauué,",
+            "Ne m’as tu pas promis, O Demon infidelle",
+            "Que ie ne ſouſfrirois qu’vne mort natunelle,",
+            "eſç̧ay ee que contiens ee funeſte traicté",
+            "Pourquoy me trouble tu dans ma feliciteé.",
+            "e guide.",
+            "e te veux faire voir & comment toute à l’heure,"
         ],
         [
-            "une & que eucoup de peonnes fute de groes peces e trouueroent uo pont de monoye Msne mence que e menu peupe & on prognotc ne setend ps uques ux degrés du throne Ceux qu ront ds cét ecrtde pore Cttrophe deCour eront en etonnés dpprendre que ceux qu poe doent toutes es rchefes de Frnce ont deue nus Geux comme rts dEge qus ont peur de ceux ̀ qu s setoent rendus effroy es pr eur punce & e verront eot con trnts de mnder eur pr àporte de ceux qu s ont vouu fre mourr de fm Où certes on peut remrquer es utes ugemens de Deu eque ft eunoür es ens nutemẽt cqus & permet que ceux qu ont tout dpent tout & yent fute de vures pres uor s des m pots ur toutes es necetés deve L gorepunce & es rchees ont es ppnges dvneCourõne ors quee et poedée pr des pe ronhes qu e rendent pr eurs Emnentes vertus dgnes de commnder Msceux qu ont ur e thrône nõ̃t ren deg à eur grdeur que e vce cette gore ettérne oumémfe chã̀ gée en nfme cette punce npporte quehyne de ceux quredouent & toutes ces r choes"
+            "qu’il te conuient ſortirhors de eette demeure,",
+            "Regarde ce papier, ces lettres de ton ſang,",
+            "Peuue bien te reſoudre en noſtre differant,",
+            "nae faut point iey ioindre au nez tes lunettes,",
+            "Les choſes que tu voy ſont aſſez manifeſtes.",
+            "e guide.",
+            "Ce diſcours te plaiſt il, parle grand Gardinal.",
+            "Le Mauarin.",
+            "Oſte toy à mesyeux, ennemy Capital,",
+            "e ſuis accouſtumé à voir de beaux viſages,",
+            "Entendre des diſcoursornez de beaux lang ages,",
+            "Mais ie ne puis ſouffrir ce vieux Boue plein d’horeur",
+            "Qui me fait enrager dans mon dernier maal heusr",
+            "Cet oyſeau empeſté́ pire que n’eſt Lorfraye,",
+            "Vient touſiours m’attriſter au milieu dema ioye,",
+            "Retire toy d’icy laiſſe moy enropos.",
+            "le gmida",
+            "Quelqu’vn eſt a ta porte.",
+            "Le Maari.",
+            "A que c’eſt apropos.",
+            "Vn Page.",
+            "Monſieur l’on vous attend, vneaffaire preſſée",
+            "Met vn Prince en grand peine au bout de cette allée,",
+            "vous prie de venir, il eſt comme en fureur.",
+            "Le Magari.",
+            "em’en vois apres toy, iecreus de bon cœur.",
+            "e guid.",
+            "Tu charche le repos aua milieu de la guerre",
+            "Tuu’en peux eſperr niſumrniſurrerre,"
         ],
         [
-            "3 chees ont ues de ndgence pr vne muue condute Aors e verfe e dre du Poëte quon ne çt que deuenr ny que fre ynt ccoutuméonne chre & e voynt ns fnnce recente gu & decrecenmte crumen Qud fces? y veucune dvn grnd teement r fro e depus nos troues que en ou uent on pouuot dre en entrnt qu nyuot ren defrod que tre Le Cuners & es Nrmtons preproent des vndes qu ne foent pont de m ne pouut etre pres que pr ecoutes & de regrdeux e ds ̀ Ecuerde Cune qu uot on temps &me repondt qu en etot en fché es Mrmtons etoẽt pus occupeés ̀ rter des rues qù preprer des rdores ou tournerroche Le Mtre dHote & e Controoeur meurent qus uoent utrefos vecu demprunts ns deuor ren à peronneMs que depus que es emprunts & utres tee ortes de udes ne vot pus s ont contrnts den fre de nouueux & es pyer de temps en temps du mons vne prte pour entretenr e Credt Tous es"
+            "Ceé Prince qui t’attend, tu le croy ton amy",
+            "Tu n’as point en ce monde vn plus grand enuémy,",
+            "vient dedans ce lieu pour vn eſtrange affaire",
+            "Laiſſe paſſer vn peu l’excez de ta colere,",
+            "Ce Prince genereux eſt fortimpatient,",
+            "faut mais a ce coup luy donner de l’argent,",
+            "Mazarin.",
+            "Que me d’y tu demon, helas ie pers courage.",
+            "e guide.",
+            "Donne luy ta Groix our appaiſer ſa rage.",
+            "Mazarin.",
+            "Le preſent eſt petrit il n’aura point d’effeét,",
+            "Moins de quatre millions, il n’eſt pas ſatisfait",
+            "e ne puis plus fournir à ces ſommes immenſes",
+            "A moins que d’eſpuiſer le fons de mes finances.",
+            "O maudite entrepriſe, O le maudit deſſein",
+            "Qui me plonge à tout coup la ore dedans leſein,",
+            "Piri rous mal heureux, vaurour impitoyable",
+            "Qui me ronge lecœurau lict & à la table,",
+            "Megére ou courez vous oſtez vous à mes yeux",
+            "e ne ſerois ſouffrir tous ces fantoſmes aflreux,",
+            "Ces foudres que ie voy’vont tomber ſur ma tefte",
+            "e ne puis eſuiter l’eſclat de la tempeſte.",
+            "Le genie de la France.",
+            "Eſcoute malheureux oesmeres en la Cireé́",
+            "Qui ſerue d’Holocauſtea ton impieteé,",
+            "N’entends tu pas crier ces ames enfantine",
+            "Qui tranſperce le Ciel dans ces voutes pourprine",
+            "Tune peux expierla gander de ee mal"
         ],
         [
-            "dometques depuprt des Courtns mrmurent de ce quon eur retent eurs g ges quu eu des deux pres dhts qus uoent pr n s potent e meme ht en Hyuer & Ete Ce qu deroge fort den Et qu pus et on euroté́moté de eurs vures memes es qus ou vers de ped ont uet de e pndre de es fre tro ter tous es ours cormme des utns & ne eur er u eu de pnte ou troschopnes que deux petts domy epters pr our & tros petts pns qu ne vudroéẽt ps deux rdses Boungers etoent gens de en e fus cureux dpprendrecue dvn te chngement & pour me tsfre e vouus çuor du Sommeer & du Bounger pr s ordres de qu s uoent dmnueé ord ne Le premer me ft reponce que cetot pr es ordres denecet́ que depusdgrce deMtotecue ne sermpot qù demy Et que pour e recompener des utres pertesfot vure de ménge qu prtquot toutes es reges dArthmetque pour trouuer on compte ddton outr cton mutpcton & prtton Que d dton e fot pr e menge de queurs"
+            "Amoins que d’abiſmer dans le goufſre infe rnal",
+            "Peuple quilanguiſſez dans vos triſtes murailles",
+            "Venez l’oſter du monde, arrachezces entrailles",
+            "Vosarmes ſont trop noble, hé venez ſanstarder,",
+            "Venez bons Citoyens, venez le lapider.",
+            "Venez ae tardez plus, eſtouffez ce perfidé,",
+            "Puis que de vos enfas il eſt ſeulhomicijde,",
+            "e guide.",
+            "e me fient aux filoux, mais non à Mazarin,",
+            "Ta Cedule en ta main ſeroit coſt deſchirée,",
+            "Comme cette grand Paix des peuples deſirée,",
+            "Qu’vn Prince genereux apporta de Munſter",
+            "Tulas ieté́ aufeu trenchant de 1upiter",
+            "Sans craindre Malheureux d’offanſer ce grandPrince",
+            "Maarin.",
+            "s que u m’eſtourdisaueec concaquer,",
+            "Finiſſons ce diſcours faut changer de Prouince",
+            "e guide.",
+            "s t’auront toſt ou tard, mais bien aſleurement",
+            "Situ tombe vne fois es mains du Parlement.",
+            "e Demon.",
+            "enepeus ’eemprer de ce rudepeeret,",
+            "out valet qui deſrobe eſt ſuiet au gibet,",
+            "Ta cauſe ne peut pas, auoir deſubſiſtance",
+            "Tayant trop declaré ennemy de la Franee,",
+            "Pour prolonger ton mal iay fait tout mon eſfosrt,",
+            "Mais tun’as pas preueu, cet illuſtre Beaufort,",
+            "ene te celle pointi’ay peur que ea pratique",
+            "Ne ſoit que irop connuë a cet homme heroique,"
         ],
         [
-            "L outrcton en dmnunt ordnre demoté Lprtton en dtrunt ege ment dont reutot à ̀ tous mutpcon de on gn ou du mons quempechot pr ce moyen detre pus pett que ceuy des u tres nneées ynt pprs d dvn Mtre de Mthemtque quEucde dt ds vne de es p opotons quedes choes eges vos en otés vn nomreeg ees reteront eg es qus qu dens retnteququn ne receunt dnscue quemoteé des peces de vn quon uot ccou tumé́ dy mettreuot etrnchémoteé de ordnre pour coneruer on gn tout enter ou é́g à̀ ceuy desr utres nnees Pour e Mtre Bounger uque on se tot pnt duor rpeteé e pn & de n porter que du pn s nc & e pus ouuent rs u eu qu uot ccoutumé de eur fournr des mouftets tendres & en dectsrepqu quon uot u ccou tumé de e en pyer qu es nourot de pus tntot cnq mos ns uor receu e oqu uot ft de grndes pertes pour entre tenr eur chnde que pour e recompen er du dommgs queuy cuot e retrde"
-        ],
-        [
-            "ment de on pyementne eroyot pont chrgerconcence de tsfre ̀ eur gotoone cfnde Le Doucher e Ftuer Con fturer & u tres tees peronnes qu trfquent uec e hrnos de gueue e rencontroent en ou uent dns e ogs pour rreter eus com Ptes demder de rgẽr & moy e my us rouue quequefos uec eux Et comme nous uons ccoutumeé́ der vter en t tendntcommodté de Moneur Argen ter ou Cõtrooeur der fre vn pett tour àdepence ou à hoffce ou nous rencontrõ̃s ouours queques rogtons uec des ou tees de vn nousetnt trnportés en on ne compgne dns offce & nynt renouué nous fumes contrnts der oüercoton oue ne pouunt nous de coutumer de ore eneme unt que de nous decprtr Le pus mportun de tous es erencers e tot e T eur qu e dot etre rnéon ne y rretot en tot es prtes Et com eeut reconnu que on eut vouu e de fre e uy ouoger ̀ ttedre encore õg temps ̀ ron du grnd gn qu uot ft pr"
-        ],
-        [
-            "9 pr e pé & qu setot pyeé́ & urp yé de fçon ynt urundu es etoffes e peu fort & ferme qu etot en procezuec e Mrchnd eque entẽdot etre pyé pr çeuy qu uot eué es etoffes Et qu ne pretendot pont e fre pyer à ceux u nom deques ees uoent eté euées Que s fot qu pyt e Mrchnd quétout on enne pourrot e guredtr depronou denqueoute qu etot homme dhonneur qu ne vouot ffronter ny etre ffrouté de perohneéLe Cordonner e contentot denuoyer outes es Fetes & e Dmnchos quequun de es grç̧ons ue dernt pont pedrepromende uf neu ps ggné pus que ces gés uques on ft drepr quoque qus ptes qus ntttehu deux ou tros heures dns cous reuennent dns ept ou hu ours Cependntet en pene de toufouts fourn msõ crgnt de perdrece qu uy et deu s refue de erce quon uy demnde onrecours àcccrotre es prtos & e deff en memetemps deon mechne çur nsquõ̃ e p gnèuy de peuudemnde de rgent"
-        ],
-        [
-            "e en de pno neeus enn u du0 uec pus dmportuncé re etr deCour Cet quepus prt des Courtns ne douent qù deux ̀ Deu & u monde Meme es gens du Roy e ds es propres domet ques off ent des nece tez honteuesCGueuere ytprspce du uxe de õdnce & deprofuonQue vous derez çuorcue de ce ochngementfut conderer que e é m cqus ne proft jms eon e dre de cet ncen Me prt me duntur Ce quvent defute sen v u tmourn Mrc Anthone tot touours dns ndgencedt Cceron emeu eut ermpote à Romees depoües de Orent & ruy pr es extorons es rchees de toutes es Proucesms douffre n engout pus de ens que cettuy queque otenduë quee t ou queque rugo quee t msft n umergé que queque eux ou Aqueques es où queque pettes Prounces Mscettuyvn ventre teenrent goudtonqudeuoe des yumes & des Emp és Nous vus pgnet Romsdece queuos fncos ouuess Anthono es"
-        ],
-        [
-            "2dpées Vous vous pgnez de ce quevos rmees ont eté deftes Anthone esper duës prmuue condute Vous vous pgnez queRepuque et perduë & detrute Mrc AnthonedetruteNous pouuons dre uec pus de ron que ceuy qu mne Ett ynt ué deuthorté Roye & chãgé on gouuerne ment en tyrnncdpe pr vne muu e condute tous es ens du Roy & du pu c Choe etrnge qu e eue urpu ure Frnce u nom & ous uthorté́ duRoy pus de Fnnce qu ne e eue ur tou te Europe eneme ce qu vous eré à comprendrevous conderez que e Grnd Segneur eque entretent des rmées decent m hommes en A en Afr que en Europe ne eue ur tous es Etts que qurnte mons dor n qu et ecrt dns es Empres du monde Nentmonsuee çcette omme mene de de nerson ne peutfournr à̀eue depen ce demon Roye es Offcors dentqus ne ont pont pyés de eurs ggese Reggent deprdes ft on compte quuy et deupus de dx montres & ouy d"
-        ],
-        [
-            "re ̀ vn Cptne qums du en pour e eruce du Roy pus de dx m frns Les Sues eroent en mrrs que eur pco uere fut touours verte pont dr gent pont de Sues Cr e etot comme ontouours creuyong temps que nous nen vernons pusfut ns doute que Eprgne ot queque c percé ou comme ces cruches des Dnudes qu reç̧ouent touours & ne ont ms remphes Ceuy qudt que e fc et em e àrte quee senfe à meure que es utres prtes smgrent n ren pre feré qu ne ot du tout verte à quoy doutery que comme ce Vcere e trouunt chrgé de muues humeurs re cot à o tourmeme mdueecué ux uttes deuennt ec & extenué́ pr queque fus de ng ou dntere eque et cué pr ces muueshumeurs equeesccumué de meme ceux qumnent es Fnnces & senrchent dung du peupe ss vennent à e ucer de tee orte qu ot redut à̀ extremteé pour ors e ft vne reuduon ds E tt & on vot trr en vn ntnt es ourcesqu"
-        ],
-        [
-            "que on croot nepues ne receunt pus es deners qu eur etoent portez de toutesprts S ceux qu ont e gouuernement ou dntrton du Royume e conten toent de nous tondre s nouchor cher s seh ttouueroent meux & notsuss ne foent tort ̀ peronne tou tes es nnées fornroent ondm ment ce qu erot neçere & pour us & pour eux Les Prounces enuoyereehe ce que eur Ce nourrt ce que nnée eur pporte & es poupes netnt pont foués des mpotons xceues cqu eoot ns ncomneodté erus &es ordndres Londnce erot p uoute Royume ueu dedette & de pupreté tout erot à os prx e ven deur & theteur sccotderoent e ment du prx demrchndees t es netoẽt psgrndes& tout regor geoe ̀ Cour & pr tout ns que n dgece fut en ucun euMs de rur tout & ne er nen cenot ps eoyen deufter ongemps D"
-        ],
-        [
-            "nys vnsny es utres e mettre pus de tes quees terres npportẽ̃t de reuenu & pour sen fre pyer prendre es che uux &cheruë du ourge cet e moyen de mettre tout en fche & do ger es uets du Roy dndonner eur pys& r tout à ndon Les mpo0 tons txes & moopoes ermpechent e cmmerce & n pour uor ce qu et jnuteon veǹ perdre ce qu et deu egtmement Depus que es Prounces ont prs es rmes ̀ ex empe deprncpe ve du Royume quon uot reou de perdre pre gue pr e feu & prfmf nce decrot tous es purset rruéeCour ce qu rrue dns Egypte qund e N mnque de e déorder & quhe reerre dns on t Ce pys set tou ours vnté de ne pont mẽder e ecours du Ce & depuye pour mutper es emes & cuer vne ee moon cr ns etre rroueé que de on feuue ny engrfé dutr eux que de cees qu chrreonde de tee fgpm"
-        ],
-        [
-            "23 te orte de grne qu dpute uec es tereses pus fertes Ms ee fe vor re dute u pone dvne terteéennueue pt vne echeree nopnee ors que e N e t preeux ̀ ortr de on ct Cr ors vne grnde etenduë̈ de pys ccoutumée detenondée pr e deordement de ce feuue deuent rde & toute poudreue Autnt de Prounces qu ydns e Royume de Frnce ont utt de feuues qu e vont rendre à̀ Prs ou u eu du e our du Roy cet ̀ drèCour que e e reent uour dhuy dvne grnde d ette qurend honteue e voynt àvee detre preée defmceux qus ont mencez & memes ffgez de fmne ne eur donnent du pn Quee pprenne donc & croye pr experence quee ne ous peut freguerre quen e detrunt de meme que qund s gouuerneront Ett eon es ox s nuront ren ny à ouhtter ny à crn dre quon donnnt tout & notnt ren àperonne s regorgeront de toutes ho es Toutmnque à ceux qu ruent tout"
-        ],
-        [
-            "enreor u rnnce n et ms pus grnd nyuuenton trouuée pus promptement que ors qu e tout en tre es mns de es uets F N"
+            "C’eſt le cher protecteur, l’ami du pariſien,",
+            "Et l’ennemy mortel de tous les Mazarins",
+            "Traiſtre ie pers le cemps, i’enrage & deſeſpere",
+            "Dene pouuoir manger cet infame Corſaire,",
+            "e m’en vais de ce pas au profond de l’Enfer",
+            "Demander du ſecours au Diable Lucifer.",
+            "FIN."
         ]
     ]
 }

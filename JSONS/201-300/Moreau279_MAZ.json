@@ -1,38 +1,99 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "arrêt",
-            "texte officiel"
-        ],
-        "handwritten_note": true,
+        "handwritten_note": false,
         "table_of_content": false,
-        "illustration": false,
-        "subject": "Joly, Guy (16..-1678)",
+        "illustration": true,
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-10",
+            "@when": "2022-03-30",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement donné en faveur de Monsieur\n          Joly.",
+        "titre": "Arrêt de nosseigneurs de la cour de parlement, toutes les\n          chambres assemblées, portant remontrance être faite au roi et à la reine sur\n          l’emprisonnement et liberté de messieurs les princes de Condé, de Conty et duc de\n          Longueville.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau279_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau284_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement donné en fveur de Monseur Joy Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Prement de PrsArrest decour de Prement Donné en fveur de monseur Joy Prs Jen Brunet 650 2 févrer 650 Prs Bothèque MzrneM4503TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Autre édton en 7 p puéemême nnée chez Dens Lngos sous e ttre \"Arrest dsouton de Me Guy Joy conseer du Roy u Chsteet Avecpermsson de contnuer son nformton En Prement efévrer 650\" (BM00892) Dns cette utre édton es \"conseers à ce comms\" et \"conseers comms\" sont rempcés pr \"commssres à ce comms\" et \"commssres comms\" suf p 62 Sgné \"Le Tenneur\" Acte dté du er févrer 650 Dprès Huert Crrer texte pru e 2 févrer 650 (Bothèque Mzrne Ms 468 f 34v) 279 Arrêt decour de prement donné en fveur de Monseur Joy Prs Jen Brunet 650 4 pges Dté dufévrer 650prose rrêt texte offceJoy Guy (78)"
+            "ARREST",
+            "DE",
+            "NOSSEIGNEVRS",
+            "DE",
+            "LA COVR",
+            "DE PARLEMENT.",
+            "TOVTES LES CHAMBRES ASSEM",
+            "blé́es, Portant remonſtrance eſtre faite au Roy",
+            "& à la Royne ſur l’Empriſonnement & li",
+            "berte de Meſſieurs les Princes de Con",
+            "dé, de Conty, & Duc de Longuevile.",
+            "Du Vendedy trantieſme Decembre, 1650.",
+            "A PARIS.",
+            "Chez lacob Cheuallier, ruë̈ Sainct Iean de Latran",
+            "deuant le College Royal.",
+            "M. DC. LI."
         ],
         [
-            "ARREST DE LA COVR DE PARLEMENT Donné en fueur de Moneur oyA PARS Chez EAN BRVNET ruë neuve nct Louys u Cnon Roy proche e Ps M DC L"
+            "3",
+            "ARREST DE NOSSEIGNEVRS",
+            "de la Cour de Parlement toures les Chambres",
+            "emblees portant remonſtrance eſlre faiteau Roy",
+            "& à la Royne ſur l’Empriſonnement & liberté",
+            "de Meſfieurs les Princes, de Condé, de Conty,",
+            "& Duc de Longueuille.",
+            "Du Vendredy trentieſme Decembre, 1650.",
+            "CE iour la Cour, toutes les Cham",
+            "bres aſſemblées, apres auoir veu",
+            "es deus equeſſes, l’ne par",
+            "Dame Clere Clemenee de",
+            "Maillé, Princeſſe de Condé, à",
+            "ce qu’il fuſt pourueu à la liberté du ſieur Prin",
+            "ce de Condé ſon mary, & des ſieurs Prince de",
+            "Conty & Longueville; L’autre par Damoi",
+            "ſelle Marie d’Orleans, fille dudit Duc de Lon",
+            "gueville, tendante à̀ meſme fins; Et cepen",
+            "dant qui luy fuſt permis de deme urer en ecrre",
+            "ville, pourrendre aà ſon pere les ſeruices & aſ",
+            "ſiſtancesaà̀ quoy la narure & ſa naiſſance l’o",
+            "bligent: veu auſſi la lettre miſſiue deſdits",
+            "Princes & Duc de Longueville, auec le recit",
+            "a oue eſienr enſnnoenun ene lele ne",
+            "contenu aux regiſtres, des ſept & dix de ce",
+            "A ii"
         ],
         [
-            "4 ouV t dudt mos de Deeemre & s nu demer ARequete dudt Procureur Gene pour ronenoton rmuec u Pss & enes fes en cee drs Ve edr our vene Deeemre Are de dre Cour d vVugteme d t os de Decemre pr eque entre utres u erurot ete or donne que e nomme Rocqmont cy deut Leu ennt e Ceonmpnne du Seut dedoure ernt ouy n terrogé ur e contenu edtes nformtons cependnt demeure rot pronne enConcergere du Ps nterrogtores uy fts pr edts Coneers comms edt our vngtemecemeAutres nterrogtores pr eux fs es 7nmuet derner ̀ Mte Mteu Demrtoe ux Aduoct enm de Cou& ched Peot d duoetu Cone prue du oy uunt Arret dudt our dx epteme nuer contenns eurs Cojfe ons Denegtons Requetes preentées̀Cour prer y ee que pout es cues y contenutsuy fut perms cont nuer on oformtoncette fn otenr monton memeenuoyer deecuton contre uy ntetée Concuons dd Procureur Gener du Roy Tout condere T AESTE QV dte Courreuuoyé & renuoye edt oy de ccurton eon y tentée uy permet contnuer on nfotrmton pr edt oouo eonoeue u vtent montou en formne d drot Ejont à tous Curez Vcres & utres Pretres ecee puer & fumner A ce fre contrts pr e de eu T pore pour e tout communque udt Procureur Gener veu etre ft droct n qu pprtendr Fct en Prement e premer Fevrer 650 Sgné LE TENNEVR"
+            "4",
+            "mois & n la matiere miſe en deliberatioi",
+            "par pluſieurs matinées.",
+            "A arreſté & ordonne, que tre humbles",
+            "remonftrances ſeront faittes au Roy & à la",
+            "Reyne Regente, ſur lempriſonnement de.",
+            "ditsPrinces du lang & Duc de Longue ville,",
+            "pour demander leur liberté, & ſuppllier ledit",
+            "Seigneur Roy & ladite Dame Reyne, de per",
+            "mettre à ladite Damoiſelle de Longueville de",
+            "demeures à Parrs; Et que Monſieur le Duc",
+            "d’Orleans oncle du Roy, ſera prie de la part",
+            "de ladite Cour d’employer ſon credit & au",
+            "thorite, pour obtenir ce que l’on demande",
+            "uec tant deiuſticc: & qu’a cette fin vn des",
+            "Priſidents & deux Conſeillers de ladite Cour",
+            "eront de putes vers luy.",
+            "Et outre a eſté arreſté de s’aſſembler ſur la re",
+            "ponce, & à̀ l’inſtant les gens du Roy man",
+            "dez. Monſieur le premier Preſident leur a",
+            "fait eutendre leurs ſuſdits arreſte, & ont eſté",
+            "chargées de ſçauoir le iour & heure que ledit",
+            "Seigneur Roy & ladite Dame Reyne, au",
+            "ront la commodicé d’entendre eſdites remo",
+            "ſtrances. Fait en Parlement le 30. Decembre",
+            "650.",
+            "Signé́ Guyet."
         ]
     ]
 }

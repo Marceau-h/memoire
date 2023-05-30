@@ -1,67 +1,93 @@
 {
     "entête": {
         "form": "vers",
+        "genre": [
+            "discours adressé",
+            "prosopopée"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-30",
+        "subject": "Orléans, Gaston (1608-1660 ; duc d')",
+        "creation": "1649-03-01",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-01",
+            "@when": "2022-03-14",
             "@who": "AB"
         },
-        "titre": "La france paisible, ou la Paix miraculeuse. Odc.",
+        "titre": "La france parlant à monsieur le duc d’Orléans\n          endormi.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1434_GBOOKS.xml",
+        "fichier": "Moreau1435_MAZ.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L frnce pse ouPx mrcueuse Odc Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Frnce () pse ouPx mrcueuse Odc PrsSns Nom649 Venne Bothèque ntone dAutrche2763FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs434 Frnce () pse ouPx mrcueuse Ode Prs 649 4 pges «(Deu) n° pont décré s hne ÀA un pus quà utre prt Tous deux ont eu e dément Pr une vctore ncertne »versPx de Snermn 640"
+            "LA",
+            "FRANCE",
+            "A MONSIEVR",
+            "LE DVC",
+            "D'ORLEANS.",
+            "ENDORMY.",
+            "A PARIS."
         ],
         [
-            "LA FRANCE PASBLE OV LA PAX MRACVLEVSE ODEA PARS M DC XLX"
+            "3",
+            "LA FRANCE",
+            "parlant à Monſieur le Duc",
+            "d’Orleans, endormy.",
+            "GASTON, GASToN, reſueilloy,",
+            "Entends mes cris, aßiſtoy,",
+            "Contre ces trois Tyraos, dont ie ſuis deſchirée:",
+            "es trois Monſtres cruels ont ma perte urée;",
+            "Fay pour m’en garentir de ſemblables efforts.",
+            "Je dort.",
+            "Fils d’vn Pere ſi glorieux,",
+            "Qui, par des onſeils genereux,",
+            "Me gouurna vingt ann ſan compagon nyajſtre1",
+            "Doue pas eſperer que tu feras paroſfre,",
+            "Des ſentimens parels à ceux qu’il eut pour lors,",
+            "Je dors.",
+            "Soi toucbé des ers dauloureue,",
+            "De tant de peuples malheureux,",
+            "Le pillage, le fer, le feu, la faim, ls rage!",
+            "Changent tous en deſerts, ſouffro cee outrage?",
+            "euu point arreſter ces barbares eforts.",
+            "Je dors.",
+            "A ij"
         ],
         [
-            "FRANCED PASBLE OV LA PAX MRACVLEVSE ODE  NYmphes u chtes que ees  Qu chque our nou ftes vor  Pr des nuentons nouuees  Vous cuez en que e repect  Qu ne peut vous renmdre upect  ee e ee A j"
-        ],
-        [
-            "e9 9  Qund prmy es mx que ur terre  Vumotrge dEnfer  Les pumes enoent u fer  Le meer de freguerre  Lon de prer m ̀ propos  De qu trouot notre pos  Auec ez de voence  J uuy e cone dont e fu duerty  Qu etot en pus eur de grder e ence  ue de vous emggr v ms prty 8e  e fs de vous trop grnde etme  Pour me ror de vos coueurs pendre es trtes eurs  Dvne guerre peu egtme  t pus e ugey e deors  Que chcun cchot es threors  Pour es grntr du pge  Que comme vous ureZ cché votre pus eu  Quconque dns ce temps produrot queque ouurge  Semerot croer en nftre coreu  Den"
-        ],
-        [
-            "5  e  A Deurs e frod & og & ude  Pus que dns n du grnd hyuer  Ne permettot ps de reuer  Lon du feu dnsfotue  efos etoury des tmout  EFt comme e commun dcous  Mous ofot e pn deouc  Au eon que uou de efre cooé  2  yquus du Mns ò onp quee couche Jnen ft pont mennr uqs e e geé  Ms ̀ preent quetre  Sur vos deux ommets goreux  Rchement u gre de mes yeux  Efteverte petre  Que tot rt ux chps denspx  Que de euts fueges eps  2  Les rres en fn e hent  Que es feurs & es rucs e monftrenox veger  Que e our &nut es ches qu ent  R epondent ux hnons des moureux Bergers  B"
-        ],
-        [
-            "?6   8 preenm quterée  De es poumons r de chter  Phomee ne peut dompte?  Le dept conceu de Terée  Je mecoeu fond deon os  O fe ecter mvox  Jt veux domer ereéve ̀ s enne  Ms en tee fon quen tnt es ches  Dequoyqus nmons eprt uourd huy sentrete nne  Te ne temoge pont me pdndre des mechns  e  3 Non ous queque dre ouffncej  Que on t veu gemr Ett  Pruege & norttentt  De Fnnce contreFrnce  e nen us pus cndsé  Tout v en tout etppsé  Puque Deu e veut pourgore L px que nous uons neprt que de ms  Et ce qu setpe ert ̀ mefre core  Queyot Prs ymot Snct Germn ej"
-        ],
-        [
-            "ts  n pont decréhne  A vnpus qù utre pny  Tous deux out e e demety  Prme vctore ncertne  Tous deux e ont ncommodez  Tous deux e ont depoedez De uthorté qus pretendent  Tous deux e ont donnez &ve & morr  Et upporeez tous dex de Prnces qusentenden  Tous deux uoent rnon & tous deux uoene tot  t  Deu eu tromphe en cette ce  Et vent d̀ out de es deens  Les utres ny utes ny ncs  Sont confondus pr utce  Les trompeurre trouuent trompe  Pr uy es fus ont trpe  ux emuches qus ont dreees  Epres doue reorts où ome connojt ren Tout et cme ureours des humnmes penmré es  Qu pregent du m ou onn que du en"
-        ],
-        [
-            "829 Qu ne croyot que fumne  Nonotnt que on eut dequoy  Deufre ps que de effroy  Auecpe & eche mne  Tout e on dvn eprt troué  Etot de e grmr de ed  Pour pouuor ̀mon cure  on end omdrdnepo us  Et tous ndutreux eu memes ̀ e vre foentchereé dedms es Mgzns  e  Et cependnt foe prudence  Quuevous tmt ̀ redouter  totperms de douter  Dedune proudence  Aez Meeurs es empechez  tesr vn peu es Mrchez    Pour yor ce que e pn coûte  qnd pou urR ompne e en n fp  Qe nooere voups quevous nue o guue  Dns vos prouons ny dns vore cuon  Qu"
-        ],
-        [
-            "p &  Quu euâ dt qe us s fdes  Les grros preue ous us hps  onm des gnes nh  Aoent er vefsr es fs  On fot nquerote e s  Por corr ̀ ceuy de Mrs  Do semfe tmtnmonmme  Lons ce)ec ffects  Deuod̀u pd od o  e pros eZ f y hoe n é8 &  Et tosesfos nre prodge  Ms d cup de ce oué  Q dsgnde exnemté  s ed rs  S ds hreto egé  Oà pfeurs e out ngeZ  Me ors ds e ourée  Cson & Cnsev eueneres ng  Nou nons peque égerre emée  Pr etrecree noqe pont de g  c"
-        ],
-        [
-            "0 e  Ce net ps que prge  Sur e mtn od  On ne t comer ̀ dt  D hrds nuun dmne  Ms e premdpeu de og  De gems qu me ont ps 5  Qu vennment y fre oge  Que e ny ps o de coudr e cee  Lepen nuet fey h Lgrss  S dgue eenuede Nre pt5 e  t qu e me re  A prer de ce grnd ppy  Que Prs dore uoudhgy  Dns vne pus feconde vere  Nous verrons f tous es Ces  One utt frmchy de hs Durmt tout e cors de eur me  Que e genereux Dc qe om ng  Creßé goreu trompht de eue  Nous ene fncr nns de qne s"
-        ],
-        [
-            "A& e  L e ee eer sre  et psr des mptmes puns  Lerrur e fut enty nye  Sçuez vous doù vme m guer  e crgnos que c gdd ueur  Nut vne ogue dde  s pZ u oe ̀ toffr e s  Apres ce que e esfque e d  Queu e moodnr pêqu vror et n ge2  De out e ret ppno Prms poforfn dnme  Ne do ps que Ps  Perdor on Ange tutenseDes fcux omt mefnme oupnsé  Que ou ne eut npfnmhé s Pr vne nore perfddes  u puoe ̀fer e fs  Apesesquet df qu e ug de Que ë veuxrrpqu snvnd ô"
-        ],
-        [
-            "2 9 e9   ourge Frce rchesée  Lors que or & gent te ft fut e reeuer pus hnt  Decheute comme n thée  Necoute pont ces ns ocs  Qve tes mxne t qudont?  Non ps trchez prrc  Cp ue neo de po  Prfe gueron pr ne medene Qus corue on gout queqs cho dme  e9   Et roy ̀ prms des éc  Pour enfermer ds onspoups  Qer dunmns  Des mes fnces & c  O rs pour e fre eop 3  Thrre où tout e ondccou  our es contemper es merups  S e ry qus R oy ee fe r  utsf vefm mrs  e vy e feuéroé r oye  0"
-        ],
-        [
-            "O ee As dche Prueee  Pr qu vt ceét j et dmour  Qud vouez ps on rtotn  Que notre deffnce cee  Oeu oue un pueu  Venne en on My ompr  S  Dper nos mondres omrges  &ede ue e ds pu een Lors que nous ouons toute orte doutrget  On grder touours queque nté  e  Prdon m Reyne e vous ee  Et e me montre deoy  De crore vn cœur rment Roy  Cpe de eee foee  et pour cue & pr vn eon  Que vous nous reteeZon  Ce Prnce pour qu pon foupre  Ouy nous urons hnmeur de vos vos Mete  Deés que e perettr e en de cét Empre  Pyr e cn de vos yeux vos me e permettez  D"
-        ],
-        [
-            "Sus done ô Frnce dee  Frnce mouree de on Roy  Et qu vux fre deoy  De tes ons e modee  Qcoute pnt ces ns ouos  Que tes nmux ne on qdocs  Mon ps heZ pn rdene  rooy coun & ts dos preùmer  Prfte guenon pr e medecjne  Qu coneue ̀ to gout queque choe dmer FN"
+            "4",
+            "sl mon anereſt eſt le pieis",
+            "Nous nons preſtonis ſal ſouſtiei;",
+            "Ja eandeur ſe pendh, ſs l’an me peur deſtruire.",
+            "Peile u ped lh yeuirer ſoilage mon mnrre,",
+            "Ou ie vy ſucomber ſous de ’gtands orr",
+            "fe dors.",
+            "JIn Prince ndighe de ceRau.",
+            "eut par le fer &’par le ſang,",
+            "Seſleuer au ſommet où ſon orgueil pire",
+            "ons obſfaule eſt ſaſdeoux a ui ueut un enmple",
+            "ny ſmuruit naoner ſan re neure diT",
+            "Je dors.",
+            "Ces raiſons ne te touchent pas,",
+            "Quoyl s’il me edui au treſpas,",
+            "Qs duiendra ton nom, ta grander, ta puiſſance?",
+            "e ten reſtera qu’vne vaune apparente.:",
+            "Tu ſeras ſon jouet, que deuundrae u ar?",
+            "A",
+            "Je dors.",
+            "P’a, Frane, lhin de moy gemir. ſpe",
+            "Luy dit Gas roN, ie veuz dormir:",
+            "eſrns ee adbmmt, y vue paſer ma ie,",
+            "mais de m’eſueidler il ne me prit euie;",
+            "Toy, ma Femme, & ma File y perdez vor efonts.",
+            "e dors.",
+            "FIN"
         ]
     ]
 }

@@ -1,51 +1,160 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "narration",
-            "récit"
-        ],
-        "subject": "Parlement de Paris",
+        "genre": "récit",
+        "subject": "Parlement de Normandie",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-07-11",
+        "creation": "1649-03-04",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-30",
+            "@when": "2022-06-28",
             "@who": "AB"
         },
-        "titre": "Récit véritable contenant tout ce qui s'est fait et passé\n          en la dernière assemblée du Parlement, tenue en présence de messieurs les princes, le\n          samedi XIII juillet 1652, avec l'union et la généreuse résolution prise en ladite\n          assemblée de lever des troupes, pour composer une puissante armée pour délivrer le roy de\n          captivité et chasser tous les Mazarins.",
+        "titre": "Récit véritable de ce qui fut dit à l'arrivée de\n          messieurs les députés du Parlement de Normandie (à Ruel).",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-20",
-            "#text": "26 avril 2021"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3000_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3002_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Réct vérte contennt tout ce qu sest ft et pssé endernère ssemée du Prement tenue en présence de messeurs es prnces e smed X juet 652 vec unon etgénéreuse résouton prse en dte ssemée de ever des troupes pour composer une pussnte rmée pour dévrer e roy de cptvté et chsser tous es Mzrns Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Réct vérte contennt tout ce qu sest ft et pssé endernère ssemée du Prement tenue en présence de messeurs es prnces e smed X juet 652 vec unon etgénéreuse résouton prse en dte ssemée de ever des troupes pour composer une pussnte rmée pour dévrer e roy de cptvté et chsser tous es Mzrns Prs Somon de L Fosse 652 ps vnt juet 652 Lyon Bothèque muncpe de Lyon So ncen SJ F 247/73 8FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçsAutre(s) vrnte(s) du ttreRéct vérte contennt tout ce qu sest ft et pssé endernère ssemée du Prement tenue en présence de MM es Prnces e smed 3 juet 652 Avec unon etgénéreuse résouton prse en dte ssemée de ever des troupes pour composer une pussnte rmée pour dévrer e Ro de cptvté et chsser tous es Mzrns 3000 Réct vérte contennt tout ce qu sest ft et pssé endernère ssemée du Prement tenue en présence de messeurs es prnces e smed xn ju et 652 vec unon etgénéreuse résouton prse en dte ssemée de ever des troupes pour com poser une pussnte rmée pour dévrer e roy de cptvté et chsser tous es Mzrns Prs Somon deFosse 652 7 pgesprose nrrton réct Prement de PrsLe ro décre ux députés du prement qu consent à éogner e crdn Mzrn 65"
+            "RECIT",
+            "VERITABLE",
+            "DE CEQVI FVT DICT",
+            "A L’ARRIVEE",
+            "DE",
+            "MESSIEVRS",
+            "LES DEPVTEZ DV",
+            "Parlement de Normandie.",
+            "A PARIS,",
+            "Chez I. DEDIN, ruë Sainct Iean de Beauvais.",
+            "M. DC. XLIX."
         ],
         [
-            "RECT VERTABLE Contennt tout ce qu set ft & pse endernere semée du Prement tenuë en preen ce de Meseurs es Prnces e Smedy X uet 652 Auec Vnon &Genereue Reouton pre en dte Aemée de euer des Trouppes pour Compoer vne punte Armée pour deurer e Roy de cputé & cher tous es MzrnsA PARS Chez SALOMON DE LA FOSSE ur e quy de Gevres vers e Pont Mrchnds M DC LAuec permon de on Atee Roye"
+            "RECIT VERITABLE",
+            "DE CE QVI FVT DICT",
+            "A L’ARRIVEE",
+            "DE",
+            "MESSIEVRS",
+            "LES DEPVTEZ DV",
+            "Parlement de Normandie.",
+            "ON alla direà la Reyne que Me",
+            "a ieueie ſiereneneuer",
+            "Lors le Sieur de Sainctot, Maiſre",
+            "eCeemomiea rode de lne",
+            "ne delesaller reeuoir & les faireentrer.",
+            "En ſuitte il eut pareil Ordre d’auertir le Sieur",
+            "Chancellier de leur ariuée: Enſemble aux De",
+            "putez tant du Parlement de Paris, que des Sieurs",
+            "eneraux. aà̀ fin de proceder aux termes de la",
+            "Conference.",
+            "Aij"
         ],
         [
-            "3 RECT VERTABLE CONTENANTTout ce qu set ft & pé ondernereAemée du Prement tenuë enpreencede Meeurs es Pruees eSmedy treze me uet 632Aue Von &Cenmereue Reouten pre enddus eme de eer des Trouppes pour deurer e oy de Cpce & cher tous es Mrns E Smedyuet uunt ce quLLuot eté rreté e eudy precedent que Po semerot edt our Son Atee Roye ccompgnée de Meuts es Prnce de Condeé Duecs de Beufort de Rohn de Suy du Comte de Tunnes & utres Segneurs e rendy u Ps ur es ut à neufheures dutn où ee fur receuës dente Chppee pr des Deputez deCour enmnere ccouftumé́e & condue"
+            "4",
+            "Le Sieur Chancellier,s’adreſſant auſdits Sieurs",
+            "Deputez de Normadie, leur fiſt hautement",
+            "ectue des Articles accordés & ſignes par les",
+            "Sieurs Depurez de Paris requerans, & leur dit,",
+            "Qu’il faloit ſe porter à la ratification d’iceux,",
+            "comme eſtant la volonté deſa Majeſté, pourle",
+            "en du repos publicqaux fins de traicter vne",
+            "paix fſerme entr’eux.",
+            "Et alor l’vn des Deputez de Normandie, dit",
+            "qu’il trouuoit grandement ridicule, & eftrange",
+            "qu’apres vn Arreſt juridique, & rendu auec",
+            "gren de connoiſſance de cauſe contre le Cadi",
+            "nal Marin, declareé́ & veritablement con",
+            "uincu perturbateur du repos publicq& de l’E",
+            "ſat, & meſme confirmé par le Parlement de",
+            "Roü̈on: Et luy auoir ſans raiſon ny apparence",
+            "quelconque permis & receu ſigner leſdits Ar",
+            "ticles, meſme en qualité à ce qu’il pretend de",
+            "premier Miniſtrod’Eſtat.",
+            "Qu’auparauant de proceder auſdits Articles,",
+            "& à la Cbnferance requeroient, & ſupplioient",
+            "nſtamment la Reyne, que ledit Arreſt rendu",
+            "contre ledit Cardinal Mazarin, fuſt obſerué́ &",
+            "executé́ en tons ces points, & que iuſques a ce,",
+            "qu’ils ne pouuoient paſſer outreau faiét de leur",
+            "de putaticn",
+            "De"
         ],
         [
-            "enGrnde Chmre ou chcun ynt prspce on commenc à deerer urder ere Repone que e Royfte r Depu tez pr quee en utncetemogne ne defrer rentnt quex& qe o deen et deogner e Crdn Mzrn Etns venus ux opnonses vnes dentnuôyer de Nouueux Deputez dutres né etrou uoent ps à propos ttendu que ceux qu y etoent enuoyez etoent uffns pour fre entendre u Roy & on Cpne s rons des Prnces & du Premer Enfn ttuy cy fut e pns fort qu fot eecrre u Predent de Nemond chef des Depurez qu ont prés du Roy de remercerMjeté deprt de Meeurs es Prnces du Pr ement & deVe dePrs deprote Roye pour eognement d C Mzrn & e prer que cét eognement u fs dn Lundy ns fente & pourout deyynon que edt Temps pe & ut ce qe edt Crdn erot encores prés du Roy que medrs Seurs es Prnces eroenr & demeu roent vns cô me s ont des prent uecCour dePremẽt & Ve dePrs pourdvn commun effort fre vn corps dArmee con dere"
+            "De plus, qu’iceux Articles ne pouuants",
+            "der, ny eſtre accordez, eſtans pleins de",
+            "defectuoſitéz en tout leur contenu, à la",
+            "foule, oppreſfion & ruinc entiere de tout",
+            "le Royaume & des peuples: En ce qui con",
+            "cerne la liberteé des Preſts, que ce ſeroit",
+            "faire reuiure des loups rauifſans, & gens",
+            "nſatiables de partiſans pour mertre, &",
+            "teduire le publicq àvn deſeſpoir, à vne",
+            "mandieré́; deſordre, ſedlition, mentelli",
+            "gence irreparable, diſſipation du com",
+            "merce, & mettre par ceſte maudite en",
+            "geanee de Gens le Royanume en proye &",
+            "uine iſuportable. Suppliant ’la Royne de",
+            "refbrmer & caſſer cét Article tant preju",
+            "diciable à ſon Eſtat.",
+            "Que; l’oiu ne pouuoit meſme douter le",
+            "mauuais peoceddé dudlt ſieur Mazarin,",
+            "yant fauſſement, comme impoſteur ſi",
+            "niſtre voulu perſuader à ſa Majeſté qu’on",
+            "vouloit artenter à ſa perſonne, à fin de",
+            "hbſenter de ſa bonne Ville de Parls., &",
+            "mettre les habitans d’icelle en mauuaiſe",
+            "deur pres de ſa Majeſté...",
+            "Qu’il a eſpaiſé par le miniſtere des",
+            "B"
         ],
         [
-            "der cpe de rer e Roy de cpruté & depuer es Mzrns que ces Deputez uroent ong de trer repene de tce dns edt our de Lundy & ette de retour Mr dy eptheures du ntn à Prs pou terAemee toutetonpgne pprouu ceétdus qu p deorte& pr onA re Roye vuor e çhrger decrre u dts Predent de Nemond econtenu de cet te reoutonpour sre çuor à eté ce que Sdtte Atee Roye pront fre u jourdhuy pres quoy eme ce cun erer eome hocheuot dee rsonyeut queques Es de Pouce qe etoentns e Ps ndns duë de cete Aeḿequ ynt prs que on ut romsLundy & croyns qu ny eut ren dutre choe rreté urenj cogner rude menp porte dd Prquet desheps pr oon etre dnsgrnde Cnfre d ht qu vouoent o& en ute cfe rent hut ement Vno s on Atee eur enuoys r d ne ps fdre erupd un tg &q uejett fte Coq es pp& e retrerent on Atee Roye or B"
+            "6",
+            "Traictez, impoſitions & executions hor",
+            "ribles des ſommes immenſes de toutes: les",
+            "prouinces du Royaumo ſous le pretente",
+            "& autorité du Roy: leſquels deniers il a,",
+            "comme ſcelerat, faict tranſporter hors le.",
+            "Royaume, apovry & mis à vne mandicité",
+            "France, & principalement la Prouince",
+            "de Normandie: les habitans d’icelle ayant",
+            "pour ce ſuiet quitté ladicte prmuince;",
+            "reduict a la beſace, & à vne mandicité",
+            "deplorable.",
+            "En fin, qu’auparauant d’entrer a da di",
+            "cution deſdits Areicles, & conferetr d’i",
+            "ceu, que leur preſence que la Royne à",
+            "deſirée d’eux, ils fe pneſentent auec tres",
+            "humbles ſoumiſſions & proteſttions d’o",
+            "beiſſfance & de fideliceé de leun ompagnie,",
+            "& des Peuples de la Prouince, qui deſiremt",
+            "enſemble viure, & mourir pout le ſeuite",
+            "du Roy leur Souuorain. Au ſurplus ſupr",
+            "plient inſtamment la Royne de faire com",
+            "naandement andit Cardinal Mazarin d́",
+            "e retirer, comme hommelſuſpect, cons",
+            "uaineu, reprimé́, & condamné par ledit",
+            "Arteſt hors de Franqe: Qe ſduoipar"
         ],
         [
-            "r nt dt queques qu puoet ut n enr eu e rnon uee ou ee e e eene po e e en een eneu ueuroe qne ron eruneneee tous ne & que dus un dunn ogrs decour uee e n oe epne que nrnrnuuune un eurot dee ds qe u oore gpe n oe s en e pe e epue enunenorneee e uon uoureun e ne e d ee nee eree ne n eneueen n ee e doenoenene eeueeeune dr u un enene ooe nenrepn unene n ue oes e e oenre ne e s ene one nu on s enues qenous nenen e onn e t u e e ponne e un ne e e nte pour npout e dnfoe e nmo enreun de u deeC enene e enoe t ere ees us u e en e e p e er o oe ene ueee qne e oee e e s ns duu redoe de un"
-        ],
-        [
-            "eune Monrque qu recognotr àfn que ceux qu ont oge de cher e v rn uy uront ft vn gné eruce pus quepreence ne peut produre queruyne de on Ett FN"
+            "e moien de ſon éuaſion eſtablir les Peu",
+            "ples dans vn ordre, vnion & obſeruation",
+            "nfaillible des Loix de ſa Majeſté, & le re",
+            "pos vniucrſel d’iceux.",
+            "Les Deputez du Parlement de Paris, que",
+            "ceux de Meſſieurs les Generaux, firent la",
+            "meſme inſtance à la Royne.",
+            "A I’inſtant la Royne leur dit qu’elle y",
+            "duiſeroit, & demanda pour autres trois",
+            "ours la continuation de la Conferenee;",
+            "ccordant cependant la liberté & ouuer",
+            "ture des paſſages."
         ]
     ]
 }

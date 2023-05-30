@@ -1,54 +1,168 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "prose",
+            "récit"
+        ],
         "genre": [
-            "récit",
+            "narration",
             "relation"
         ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-        "creation": "1652-02-27",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-18",
+            "@when": "2022-09-20",
             "@who": "AB"
         },
-        "titre": "La véritable relation de la défaite de l'armée de M. le\n          marquis de Saint-Luc par les troupes de MM. les princes, envoyée par M. le prince de Conty\n          à Son Altesse Royale.",
+        "titre": "La véritable relation de tout ce qui s'est fait et passé\n          au Parlement, toutes les chambres assemblées, en présence de Son Altesse Royale et de\n          messieurs les les princes, le mardi 25? jour de juin 1652, ensemble la teneur de l'arrêt\n          dudit jour.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3948_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3950_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L vérte reton dedéfte de rmée de M e mrqus de Snuc pr es troupes de MM es prnces envoyée pr M e prnce de Conty à Son Atesse Roye Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 L verte reton dedeffte de rmée du mrqus de S Luc pr es troupes de messeurs es Prnces Envoyee pr monseur e prnce de Conty à son Atesse roye Prs Veuve de Jen Guemot 652 5 mrs 652 Prs Bothèque MzrneM405TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Dprès Huert Crrer texte pru e 5 mrs 652 (Bothèque Mzrne Ms 438 f 377v)3948 Vérte () reton dedéfte de rmée de M e mrqus de Snuc pr es troupes de MM es prnces envoyée pr M e prnce de Conty à Son Atesse Roye Prsveuve J Guemot652 8 pgesprose réct retonCondé Lous de Bouron (686prnce de) Sège de Mrdoux 657"
+            "LA VERITABLE",
+            "RELATION",
+            "DE TOVT CE QVI",
+            "s’eſt fait & paſſé au Parlement",
+            "toutes les Chambres aſſem",
+            "blées, en preſence de ſon Al",
+            "reſſe Royale & de Meſsieurs",
+            "es Princes, le Mardy 25. iour",
+            "de Iuin 1652. Enſemble la te",
+            "neur de l’Arreſt dudit iour.",
+            "A PARIS,",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, Impri",
+            "meuſe ordinaire de ſon Alteſſe Royale, ruë des Mar",
+            "mouzets, proche l'Egliſe de la Magdeleine.",
+            "M. DC. LII."
         ],
         [
-            "LA VERTALE RELATON DE LA DEFFATE DE Armée du Mrqus de S Luc pr es Troupes de Meseurs es Prnces ENVOYEE PAR MONSEVR LE Prnce de Conty ̀ on Atee RoyeA PARS De mprmere deVeufueGVLLEMOT ruë des Mrmouzets proche Ege deMgdeene M DC LAuec Permßon"
+            "3",
+            "LA VERITABLE",
+            "RELATION",
+            "DE TOVT CE QVI",
+            "s’eſt fait & paſſé au Parlement",
+            "toutes les Chambres aſſem",
+            "blées, en preſence de ſon Al",
+            "reſſe Royale & de Meſsieurs",
+            "es Princes, le Mardy 25. iour",
+            "de Iuin 1652. Enſemble la te",
+            "neur de l’Arreſt dudit iour.",
+            "AV commencœment de l’Aſſembleé́e on a",
+            "nreſeneleene",
+            "culierement des deſordres arriuez Ven",
+            "à dredy lenier,à quoy Meſſieursles Pre",
+            "ſidens ont voulu adiouſter ce qui s’eſtoit",
+            "ſeau Fauourg S. Germain, c’eſt à dire en la per",
+            "lnede Monſieur le Preſidentde Longueil, ſurquoy",
+            "A ij."
         ],
         [
-            "3 LA VERTABLE RELATON dedefte de Armee du Crqus de S Luc pr es Troupes de Meßeurs es Prnces nuoyée pr Moneur e Prnce de Conty ̀ on Atee Roye E Mercredy5 our de Fevrer Monenr e Prnce de Coty ynt LLeu dus que Arḿe que commndot Moneus de S Luc setot emée & mrchot à Stfort où vne prte des Ttoupesdeon Are toent en qurter enuroy en dgence vn odre à rous e utres Troupes de e rendre àPume poù̀e trouu e eudy ̀ Mdy De àmrch vers Stfors & ntCnere dns des cnes vonesmt toute on nfntere dnsVe Le or memetnt cone d guerre oàreout que veuforce des Ennems qus uoent prés de qutre m hommes u en que escroupes ne fent que x cens hom mes dnfntere & x cens cheuux enuoyerot etoute dgence à Moneur e Prnce pour e pper de ny donner que cens cheuu d8 es vees troupes uec equespretendort pouuor ttreArméee pepe dontpncpe force cotot en ros n ommes de ped er Cuere ett foe & n rmée Pour ce ujet dés e for memf prtr e Seur Guyonnet Coneer u Prement & ntendnt de on Amée & reour en rtendut ce ecours e mengent de toneru es Troupes & e pote d Etfore àfuer derune du Gers quu y pe & dvn pont deftenu pr vn moun & prVe proche duqu enuct meme ynt eu vne rmereercuere dns vne p ee e poue & enuoy u nouuees e eur de Muehe uee on Regmenr e Vendtedy ceur que es ennems etoene touours u Ctr Letoure ce qu og dergr es rroupes & de mettreCute Leyre HeSnedy es ennemts etns venns oger ̀ Semperre qu net qu medeme eue dEtforr Moneur e Prnce de Conty fe reuenrC ere e Dmpehe ynt eu dus quvn py de x vngts Cheox eodetcé de rmee enmeme & qu etor en eu o on e pou ecouppe & e defremont cheo & put queques Regmens pour ercger AMs comme coumençot à ntçhr t du A j"
+            "4",
+            "Monſieur le Due d’Orleans s’eſt leue, & a dit à laCo",
+            "pagnie qu’il n’approuuoit point tous ces deſordes,",
+            "uſquels ta Cour pouuoit pouruoir, mais qu’il y auoit",
+            "des choſes plus pceſſantes pour leſquelles il veroit, qul!",
+            "eſtoit pour deliberet ſurla Reſponſe du Roy faite aut",
+            "Deputez du Parlement, laquelle deliberation auois",
+            "eſté deſia conmencée au derhier iour.",
+            "Surquay Monſieurs’le Peſident le Baiſleul apfis",
+            "parole, & continuant les aduis du dernier iour, a fait",
+            "relire les dpinions de ceux qui auoient deſia opineé, qui",
+            "eſtoient au nombre de cinq ou ſix au plus, & entr’au",
+            "tres vn de Meſleuirs, teſpond̂nt à l’Eſcrit donnéà",
+            "Meſſieurs les Deputez dui Palement, par lequel l’on",
+            "eſtoir en peine de trouuer vn employ honorable &",
+            "conſiderble aù Cardinal Mazarin, a dit que la Reine",
+            "de Suede auoit eſciit au Parlement ſur le fujet des a.",
+            "faires preſcntes, & que l’oneſtoit en peine d’vn poſſil.",
+            "on pour luy porrer la reſponſe, que l’on ne pouuoit",
+            "trouuer vne peſonne plus capable de cét employ que",
+            "e Cardinal Mzarin, quieſt de famille de Courier &",
+            "Cheuaucheuren tiltre d’Office; & que pout latifaire",
+            "à̀ la Cour de luy donner vn employ lonorable, on pou:",
+            "uoit luy donner la Commiſſion de porter laReſponſe",
+            "du Parlement à la Reine de Suede.:",
+            "Et dans les opinions beancop de Meſſieurs feſont",
+            "plaint de l’Eſcrit donné aà Meſſieurs les Deputez de la",
+            "part du Roy, comme eſtant iniurieux, & ſemblant les",
+            "rer"
         ],
         [
-            "4 que toute tmé́e des enéns orte d Sempertte seftot e en rt e & tournot drot à Stfort Sur cereout de couurtVe de tou teCuerte pour oetue eut deen teou deretrer ss v oent pourcomtre Et en effet es voyns mrcher drot u ene e coecde fre ectmoucher pendnt queCere p ot u de du Pont à̀reerue de cent Cheuux quproche deVe pour outenr es mouquetres qu grdoent es potes du Pont & u Mon dpo enuto ou nfnrere dhs tous e pos de dnc oxnte mouquetres deuers queues rdns qu ont en treve & es ennems Moneur de S Lnc ydnt es ehoesd poees e retr ns etre trop pproche & retourn cmper ̀ Smpere Le Lumdy 9 es Ennems vnt quté ce pote erent oger à Gt rede à deendyper Lure ux & on Atee fn de es eurer & es oger dedpendns ue qurrer euoy f Cuere àPun&s Momjoye grdnepes de uy e Cuone Mrche & on Regmene put enuyergere Ce meme or eeur de GSuyonnet ent r tné c es vn eures rpport que M e rnce euoyetornon ens emnt es qutre cens cheuux quouy dendoe ms qu vendro u ene &queuuement roueot e Mecredy en effeétdon noheuue ome ode A der ceux Cheuux des Gendrmes& à deu eshédon duoorps des grdes d mrcher nuft &on ns g & des tondre àhgep où s çuroent de d e P deonty e quéuroent àfre e uyo ds prs rpporterent ̀ M ep &e Conty ques n nmems prespe urouxGmorede etoent ez cper Mrdox à do de per Lrs u Pont de S tone & deco tnre Aourpoue y perencoroSone Queques uû duu ort ons proent qu s nencoent Dunes e ege & qus ontrountten epourner ̀ urdout vnour ou dou ereedse Pnce de Conty ppnt queesoens dmeu ecrdoetttnez àAgen &que Moneuronrereydeuot etre e es dx heuresprtt uec vne ecorte pour es er renoontr ́ vueeynt pes pt nm utre the mnstou renduSfot pes o he epeque d e nrnrede Cony en ormu rt ou un ose dy eoner eeut que e Pne qu eos rouu etounue peoue qymordme Pneeet dde de onmgoer ue pu e ndy etoue rendo etrdyu orguon mo u pdnt mrehe ds Comppnes du enens de opnqu n n urmon rnde & quornodoCnenot nà u uecod Comppgnes de Thehon qu etormouonmgn eeuepoux foreton mfnteQue e Merredy tepy uguon &e pnts posdAgen ns y erer uoedon dre A"
+            "5",
+            "rerde rebellion, en ee qu’il dit quie l’on ſe ioint à des",
+            "eles quiont les armes à la main, pour l’expulſiorn",
+            "d Cardinal Mazarin, n’imitant pas en cela le Parle",
+            "nmert deRennes, que l’on ſuppoſe auoir donné́ vn",
+            "Arreſt par lequel ils ont ſurcis à deliberer ſur les Re",
+            "monſeances pour l’expulſon du Cardinal Mazarin,",
+            "uſques à̀ ce que les trouppes eſtrangeres fuſfent hors",
+            "e Royaume, à quoy pluſieurs de Meſſieurs dans leurs",
+            "opnonsont dit que ſi Meſſieurs du Parlement de",
+            "ennes auoint eu à leurs portes, comme Paris, deux",
+            "rtroisarmeées, ils ne tien lroient pas vn langage Ma",
+            "2in.",
+            "Enfin l’affaire ayant eſté bien examinée par la diuer",
+            "ſí des opinions, qui a eſté grande, Il a eſté ordo",
+            "que les meſmes Deputez du Parlement retourne",
+            "ient pardeuers le Roy, pour inſiſter encores à̀ l’ex",
+            "plſon du Cardinal Mazarin, & porter à la Majeſté",
+            "s Declarations deſon Alreſſe R oyale & de Monſieur",
+            "ePrince, quiſont queſi toſt que le Cardinal Maza",
+            "nſeta eſloigné de la perſonne drRoy, & ſorty du",
+            "Royaume, tuiuant & conformément à la Declaration",
+            "6 Septembre dernier, ils poſeront les armes, & exe.",
+            "teront ponctuellement tous les Articles de l’Eſcrit",
+            "né aux eputez du Parlemaeno de la part du Roy;",
+            "r la difficolré quia eſté meu dans la diuerſité des",
+            "s,oque le Cardial Mararini ne pouuane ſortir du",
+            "Royaume en peu de ious pendant leſqiaels la recolte"
         ],
         [
-            "dre àgendrmerje de perGronne à oüé & de mrche à̀ Ley rc où ee rruot Leurs Atees nrent à heure meme Cone de guerre & ur e chmpfut reou queGendrmere & es Grdes uec e Regment de Mrches roent ncemment à Gmrede pour e r du pont & pour empecher que es Ennems ne mrchent & que e rete des troupes semerot àStfort poure rendre uf à Gmrede M e Prnce mrch ot à̀ Leyrc fn der couppes ueme ce pge de Luroux & M e Prnce de Contyenuoy dns tous es qur ters pour fre venr es Troupes Le eudy 2z M e Prnce etntrrueé à my nuct u Pont de Gmre de dé́tch qunze de es Grdes commndez pr e eur de Lonchnp Exempt à deen doceuper e Ponty trouu vne petregrde des En nems qu pou & ft vn pronner M e Prnce ceurt pr oy qus nnoent pont eu rme qus etoent eprez dns duers qurers & qu y en uot vn proche du pnt qu etot e pus fort & qu eroe éde eneuer Ce oge S A à per e Pont ̀ mrher ns t tendreà ce qurtery trouu es Enncms en te ur rme que eur grde pouee eur uot donnee s y etoent rengez setns ms e ttos gros ecrdrons uec vn pus pett qus uoent uncé compooz des Regmensde Vec de S Mgrn Therry deVetere & deCompgne dOrdonnnce du eur de S Luc M e Prrce donn o dr u eur de Mrche de pouet cét ecdron uncé ce quyn ft uec eucoup de vgueur & voynt es rros ecdrons qu uy tomoët ur es rse r à heure meme & es chrge uec rnt de on heur ( etnt outenu des Gerdes) qu es rompty fut eé de deue coups de ptoetrs vn u rs & utre ̀ epue tous deux fuor es Cron Cptne de on Regment y fut tué comttnt vmméẽtr Cependnt M e Prnce uec es Gendrmes & es Grdes donnche ux Ennems e ong du s du coteu uques ̀mure de Mrdous doù̀ voynt ottr nfnteree rer nt vne grde uncee proche de queques mons qu e rencontrent urmuct Les Troupes etns nueces à Stfort M e Prnce de Conty e rendr à Gmrede à tros heures du mrn & pres en uor pé e Pont jo gnt es roupes à cees de Moneur on frere On es mt toutes ente & vn peu presponte du our on vt es Ennems qusy met toent u de eur coteé Tout e mtn fut empoyé prt M e Prnce à re mrquer oùpourrot trquer es ennems dont e pote etot fort untgeux Mtdous etnt otué ur vne montgne rode & prequeccee de rous es cotez non de ceuy qu mene à Fmmrn ouhueur contnunt rend ccez eg ont pourtnt ord et def fendu pr vne vgne enuronnee de foz& de hyes & nynt quvn  p g 4 e"
+            "s",
+            "preſſante cauſeroit de grands deſordees, fhaute d’eſts",
+            "promprement faite;il eſté aduiſé́ qu’aduſſi toſt quele",
+            "Cardinal Mazarin auroit quitteé la perſonne du Roy,",
+            "& ſeroit eſloigné de la Cour, ſon Alteſſe Ryale &",
+            "Monſieur le Prince enuoyetoient lers Deputed par",
+            "deuers le Roy, pour aſſeurez ſa Majeſt́ de leur obeyl",
+            "ſance, & conferer ſur l’eſſoignement des deux armées",
+            "du voiſinage de Paris, iuſques à̀ ce que le CadnlMa",
+            "zrin fuſt entierement fortry du Royaume ; aux termes",
+            "de la Declaration, auquel temps ſon Alteſſe Royale",
+            "& Monfieur le Prince onts promis d’executer po",
+            "cuellement le contenu à la Reſponſe du Roy, &",
+            "joindre leurs Troupes aà celles du Roy s’il plaift à ſa M",
+            "jeſté.",
+            "A la leueé́e de la Cour, ſo Alteſſe Royale, Mon",
+            "eur le Prinee & tous Meſſieurs du Parlement ont",
+            "eſté arreſtez & renuoyez dans la grand’Chame pat",
+            "es Bourgeois qui eſtoient ſous les arnms, prepolez",
+            "pour leur garde, qui diſoient. hautement que c’eſtit",
+            "ez conferer & nzarinet, & qu’ils vouſoientv",
+            "Arreſt difinirif, portant vnior aues les Princes le",
+            "peuple pour l’expuſſion dd Macarin; ce quiauoit",
+            "deſia eſté propoſé́ dans les opinions par quelques",
+            "de Meſſieurs, & remis nednthoins à Samed ro",
+            "ehain, apres la Reponfe qi ſerarfie aux Dtpute",
+            "poun l’expulſiom du rMazxi, en cornſequence de l",
+            "Declaratidas Princ, dioù l’aun peut inferer en"
         ],
         [
-            "chemn fort fngeux pr o ft deéer ourer à ttque ee e pourtnt reoue pr cet endrot ̀ & vne dueon pr vnutre qu ete mn guche devgne en vennt deVe Pout cet effect ynt ft mrcher toutes es trehpesen toutnnt u tour de Mrdouse mt en hte vs à vs de ces deux Potes & commenç on ttque pr ceuy de mn guche fnoecuper pr des peotons dnfnrere queques nes & queques rdeux ou es Ennems uoent oge des Mouque tres de utre cotéft nuncer e eur de Bourgongne Mrec de Cmp uec qune Cuers degment de Theoon outenu pr tout e Regment fn de connotre meux e Pote docçuperhu teut qu et vs à vs devgne & de pouer vne grnde grde de Cu ertsque es Ennems y uoent Le eur de Bourgongne me ces qunce Mtces & ft en ute chrger e Regment uec tnt de vgeur quen coroquegrde des ennems fut outenuë & fFuonee des Mouque tres gus uoent ogez dnsvgne & foent vn grnd fe ch &fr rentrer dns e qurter M e Prnce y ft ot monter denfntere pout ecrmoucher & pour outenr e pote Cependnt com netrtendot es compgnes de Gpn & de Theo o qu deuoent rtuer u Cmp ceor& qu nrruerett qupres ecomt & e Cnon qu uo t enuoyé querr à Agenreout de ne? ren tenet dudtge pout ce or & de dpoer en orte es choes que e mtn uunt peut emporter es ennems u pont duour Ce or rr ueent u Cmp es eurs de Vency Leutennt Gener de Ctemo ron & de Theoon pere & fs Sur es hut heures du or Moneur e Psnce quuot uncé des Corps de grde proche des ennems & det hé pufeurs prts voynt que es feux que es ennems uoent umez etoent trop regez & qu ne proot peronne upres creut qus sen oeno & ur heure meme ynt dćtché vn prt de es grdes & de os gendrmes & commndé u eur de Chonpes Leutennt Gener de donner rme pour es reconnotreceut quen effet es Ennems e reroent cequyne ogé de fre monter à cheusuncç uec e Régmene de Montepn qu uoetete de tout outenu des Reg ns de Mtehe & dé Theoonsett ms dent uec Monfeur e PHnce de Coney Moneur de Montepn es feurs de Gpn & de P ec Merechux de Cmp e Comte de Lugne Cheuer de Fox Gu tud Depgnet de Rymond & Guyonnet Coneers u Prement de Lde vger Vr du Meny DngeruedeBuere de Leeuyer & do Cpne des Grdes de Moneut de Moncepn & de quequeseresmrchpour rejondre es ennerms & ynt pfe e ongdemu re deVeò on ft vn feu contnuetronu u deà eRegf ment de Lorrne qu etot en te dns vnevgne à mr drote du cmnchrge ot ce Regmenr uee Moneur e Prnce de s s"
-        ],
-        [
-            "eConty & ̀pres en uor euye tõutedechre entrne dedns epee àmn uuy de Moneur de Montepn & de ceux qu es ccomp gnoent à tete du Regment de Monefpn s e terent en peces desunç̧nt versVe & Moneur e rnce crnt à ceux que u voent de pouer & dentrer pee mee dnsVe s trounerentdns é fo ec ron de Cuere & e Regmept de Chmpgne qus chrgerene encore Meneur e Prnce Moueur e Pnce de Conuty Moueur de ontepn & esotres uec e egmentde Motep que e eu de Gpn men u comt set jettez u hneu de cct cdron & de ce Regment es deffrent eterenmontreerue de que ques prs des Ofhc ers & odts du Regmen de Chmpgne que uurrn dsVe proche des pores de queo eur de Lpgn e Cheu pu& receus d es hs teos mouquetdon f pess eu Meneuts es Pcdnes uonsv dore upre uod̃ à droct & à guche deCuere qu deft queques gens que vou oent er ur es cotez pouerent es enneros juques vn Pont qu et ur Luroux vers e chemn de Le cCtoure oùû es Prnces trouuerent es Regmens de S Luc deBoere& e rete de nfntere enneme uec e Metrte d Cmp du Regment de Cuere deS Luc qu ynt rr cdé e Pont de deux Chrcettes temognerent e vouor dputer ms pres queques de hres s furent enterement rormpus pr es Prn ces qu cherent e rete des uyrds juques ux portes de Lectoure où on ne pene ps qu en ot rué y nt eté tous preque tuez ou fs pronners Peudnt que eurs Atees cheuoent de vncre ees enuoyerent e eur de Chouppes utennt gener pour eger Mrdous ou e eur de Mrn Mreeh de Cmp ce qu rete des Offcers & des odts du Regment de Chmpgne & de Lorrne ont enfermez on ne pen ps qus ennent pres que e cnon qu dot venr ce or dAgen e crué Lon ne çuro ez erpgererveur de M eure es Prnees u one touours chrgé àees &on e peut dre dert preque eus es Ennems Monoun de Montepn ne espont ndonmen Moneur e Due deRochefoucut Meeurs es Pnces d Mre e de Veney e Come deSere qu ur es ordes d fon ee ore et endu uprés de Moneor e Prnece pour erur upres de uy de Ctemoron e Cheuer de Fox de gnc de Bzos & e us oontre ont dgnemen euy u en que es domeques de Meeurs es Prnces & e eut Nerger Leutenmnt Crmn S u y e toutft gné & es egmens de Montepn com mndé pr e er de Beuue de Theoon & de Mrche ont ft oute exeeuton Les offee ont comtu genereuement e eur d d che en prucuer yfort en ft deperonnes ne fut p nou ps"
-        ],
-        [
-            "deéroerà nfpere ce quee merte pes Rgmens de Montmorency &c de Gpn ont entreprs & comttu comme es pus fmeues Trou pes deEurope 3 ur tou e feurt Dnc Metre de mp de Montmo rency d Mouue Leutennt Coone de Gondrn & deCgnoe Cpte dns Gpn merten fort quon es ouë Lesennems one pdrtout eurgge & es dex es drpeux qus uoent nus ue euons ps ncoé esnons des pronners qu ont en trernd no t tnt preque pon uué ous yuons perdu de notc é6 outretefeur Cro Sde &uere qu ont ete tuez eroît nut ede freremr quer cy mportnce de cett déffte qu re toutrehute Guyenne u eruce du Roy ote vne Arme de qutre m homhoes u Crdn ern&e r tont e Regment de Shumpgus de ormnent eoguedoe ce pmys &t ehemnePx geere qut eeu ut qos e prpoent es Anmes de Me fues Pnee"
+            "dereffus d’eſloigher le Cardinal Mazarin, qe l’vnion",
+            "t tacitement faite;, le peuple eſtant bien reſolu de",
+            "ne le point ſouffrjr, ny de plus eſcouter auecune re",
+            "nle.",
+            "FIN."
         ]
     ]
 }

@@ -1,52 +1,134 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
         "genre": [
             "requête",
-            "rhétorique délibérative"
+            "justification",
+            "rhétorique délibérative",
+            "discours adressé"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
-            "Longueville, Henri II (1595-1663 ; duc de)"
-        ],
-        "creation": "1650-11-15",
+        "creation": "1650-03-05",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-18",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Requête de madame la princesse de Condé à messieurs du\n          Parlement pour la justification de messieurs les princes, le 2 décembre 1650.",
+        "titre": "Requête de madame la princesse douairière de Condé pour\n          sa sûreté dans la ville de Paris et pour la justification de messieurs les princes, ses\n          enfants, présentée à nos seigneurs du Parlement (le 27 avril).",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3475_MAZ.xml",
+        "fichier": "Moreau3477_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Requête de mdmeprncesse de Condé à messeurs du Prement pourjustfcton de messeurs es prnces e 2 décemre 650 Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022Crémence de Mrézé prncesse de Condé Requeste de mdmeprncesse de Condémesseurs du Prement pourjustfcton de meßeurs es Prnces Le deuxéme decemre m sx cens cnqunte PrsSns Nom650 dté du 2 décemre 650 Prs Bothèque MzrneM890FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Certns exempres présentent un ccdent dmpresson u ttre entre e \"Q\" et e \"V\" de \"Reqveste\" et surmrge extéreure Dprès Huert Crrer utre édton portnt u ttre \" Nossegneurs de Prement\" (Bothèque Mzrne Ms 468 f 202v) Ttre de déprt 3475 Requête de mdmeprncesse de Condé àç /(755 messeurs du Prement pourjustfcton de mes seurs es prnces e 2 décemre 650 Prs 650 6 pges Ee est dns e Journ du prement On t dns es Mémores deprncesse ptne p 67 que e projet en fut dressé chez ee et sous ses yeux Appremment uteur des Mémores vt emprunté cette cr constnce u crdn de Retz qu dt (p 229 de ses Mém co Mchud)« Ce qu fut ssez psnt à égrd de cette requête fut quee fut concertée vnee chez mdmePtne entre Crossy Voe et mo et quee fut mnutéevee chez e pre mer présdent qu dsot ux deux utresVoà servr monseur e prnce dns es formes et en gens de ens et non ps comme des fcteux »vers prose requête rhétorque déértveCondé Lous de Bouron (686prnce de) Cont Armnd de Bouron (6266prnce de) Longueve Henr(5963duc de) Trnston des prnces u Hvre 65"
+            "REQVESTE",
+            "DE MADAME",
+            "E l CESSE.",
+            "eee",
+            "eoe",
+            "&s",
+            "M. DC L"
         ],
         [
-            "REQVESTE DE MADAME LA PRNCESSE DE CONDÉ A Meseurs du Prement POVR LA VSTFCATON de Meßeurs Le deuxéme Décemre m x cens cnqunte A PARS M DC L"
+            "ne",
+            "ceSla",
+            "4!",
+            "CTe",
+            "2l y ade49",
+            "r",
+            "uudee ſes",
+            "EEà",
+            "er",
+            "ei",
+            "eéi",
+            "eër",
+            "i",
+            "REOVES T FE",
+            "T F",
+            "T LV EO 1 I",
+            "A S A",
+            "MADAME L’A PRICES",
+            "D",
+            "H",
+            "SE DOVAVRIERE DE CONDE,",
+            "pourſa ſeuree dans la Vlle de Pis. &",
+            "pour la iuſtification dc Mcſſieurs les",
+            "Princes ſes t nfans.",
+            "Preſentécs à Noſſeigneu:s de",
+            "Parlement.",
+            "Vpplie hurmblenent Charlotte Marguerit",
+            "de ontmorency, Prine ſſe louairiere de",
+            "Condé. Diſant, qu’encores qu’elle ait veu",
+            "uec tous les ſentimens de douleur dont vne",
+            "merc eſt capable, l’e mriſonnement de ſes",
+            "enſans fait ſans auc une forme de iſtice, ſans ſuier, &",
+            "meſme ſans aucun pretexte legitime;q’encore qu’elle",
+            "t ſcçeu le traittement indigne qu’il leur a eſté fairt, qu’",
+            "eœlle ait apris l, extreme maladie & les frequentes recheu",
+            "te du Prince de Conty, elle ſeroit toutefois deme urée",
+            "dans le ſilence & auroir donné des marques du plus pro",
+            "fondreſpect, que iamaie ſuiet aye rendu a ſon Souuerain.",
+            "Elle s’eſt tenue dans la ſelitude que la Reyne luy auoit",
+            "ordonnée pounr y verſer des pleurs, ſans autre conſolatiõ",
+            "que celle de l’eſperance qui ne la iamais abandonnée,"
         ],
         [
-            "2 rte de Y C pepe eou ttque odePteee eres Vne eter s pe d& uy pree equ te us fjns dptenr eureté pourpeonne & tedpor Meesuresndsps te qu et vue ougrmen qu rete ux meres ußPej oduy ft con notre queorte hors de Prs uy etot nece r f e e yonortrterqdpep4 r guerr pn umesuppccd C poedé etrrre & es opee éué qusft co u mmoot Afry & qpuuo vouud d pdesonuedeSu4 pntéde ue ed ucdEhguy e o s dns opfge h frnt peoeotmn deD herhnt o nofeé dnsexeemedu RNomeE tr usvd Bou dedo e Pno dn eoeuë&fqe ousprot et ordrRffoereodemeté juun oé́r Qhredœfuerd qud emnpeRd jcs ds umuonns eftr pp &t hoo nté deuy pnnmmtne s ertfueeds d oy & duen punde m deeurs M jeftez comtt ee ftexrmuouxreu qs geoumteneheerhd dM onteufn m r&ds feuà es Bnà d onty o e de L ngueoe s c qu oe ort deuor epre çu e u fue cue& ds pdrdeqg eurent"
+            "que leurs Maieſtés, à la treumble ſbpp lication que",
+            "pluſieurs perſonnes de pualité & merite e faſoient de",
+            "part,ouuriroient les yeux ſur l’innocence de ſes en.",
+            "tans, & les perlecutions violetes que le Cardinal a.",
+            "z arin fair fouffrir à teute ſa Famille, qui fſait vne Branche",
+            "de la maiſon oyalle: mais bie que cette psofſoadeſou.",
+            "nſſion ait paru au deſſus de ce que l’on pouuoitraiſou",
+            "nablement atteûre d’vne Princeſſe de ſa condition, qui",
+            "voit tous ſes enfans prſoniers ou bannis, elle n’a peu",
+            "toutefois arreſter la petſecution, n’y garatlr de ſes ou",
+            "trages, la perſonne de la Suppliante: Elleaveu parl’ap",
+            "proe he des gens qe guerre, poſtez à Chantilly ; trouble",
+            "e peu de pax qui luy reſtoit, les ex ceds & les rauage",
+            "Commis à ſa veu par ces trouppes autoiſ́es daus leuriu",
+            "ſolence, & la deſolauon de ce pays luy ont eſté vnnou.",
+            "ueau ſurcroy de douleur, & iuy ont fait apprehenderiu",
+            "ſtement de ſe voir enfin abandonncé, aucc la Priaceſſe",
+            "ſille & ſes petits enfans, à̀ la violence des gens degue",
+            "re, dont le Carlinal Maz arin a fait enuironnerſs maiſon",
+            "qui luy auoit eſteé donnte pour vn lieu d’aſſeuranceEt",
+            "de fait, la Suppliante ſe vid menaceé́ par le ſieur devoul",
+            "dy enuoyé vers elle, d eſtre forcé à̀ ſortir hanteuſement",
+            "de Chanlly pour aller chercher vne autre retraiue, en!",
+            "peril d’eſtre pouſſée hors le Royaume, comme icee",
+            "ſtoit pas aſſes au Cardinal Mazarin en la priuant delhõ l",
+            "neur de la preſence de leurs Maicſtés, de l’auoir miſeen",
+            "eſtat de ne pouuoir demander iuſtice, s’il ne l’eſloigmi!",
+            "encore du dernier retuge qu l luy reſte, quieſtlapou",
+            "ction de la Cour; la Suppliante ’a pas creu deuoidle",
+            "rer d auanrage dé la venir implorer, tant por moameſ",
+            "perſonne en ſeureté, que pour demander luſtieepduſe",
+            "enfans faics priſonniers coutre toutes les formes, &",
+            "tenus encores plus iniauſtment de puis trois moisaunl"
         ],
         [
-            "5 eurent grees uy donner que demeurnt dnsoumon & dns e repect ee tendror deutce du Roy ce que es mouemensexe tez ̀ cette occon uoent empeché uqù ors Ms u heu de receuor effet de es proes & e uccez des epernces quon uy uot ft con ceuor ee vent dpprendre que depus peu de ours pour rendre oppreon cheuée pr es pus nureux de tous es outrges Mefeurs es Pnces de Condé de Conty & Due de Longue ue ont eté trnsferez u Hvre de Grce pce cruée ur e ord deMr oùm gnté de rfcré detre trnportez hors du Royume &punce ouéë que enrs ennems decrez ont dedns uy donnent ues de tout crndre s ny et promptement pour ueu Cet ce qu ogeSupjnce dporer uthorté des Lox &proteton de ut ce durnt pus que fcton ynt redut M dmePrnceeeere ux derneres extremtez deve ee deue en puuce dedemnder C cS DE No  seGnNs & qu vous pprt que depus e d huctéme nver derner Moneur e Proeureur Gener du Roy n prs ucnes Con cuons contre edts Moneur e Ptnc de Con deé on mry Moneur e Prnce de Conty & Moneur e Duc de Longueue dont empr"
-        ],
-        [
-            "onueent ne vouseté́ connu juqù prefent? u pn vne Lettre de Cchet qu et vne orme non encore prtqueée non euemen dnndeenton des Prnees du Sng me memes des prccuers que pr es Odonnn ces & notmment prdernere Decr rn du mos dOctore nm r eens qurenfe u&tt dt quuouns Suees d de queque quté & condon qus fent he eront trttez ̀ duenr ermneement qe eon es formes précrptes pr es ox d Roy ume v ovs e o Do r rn Que edt eur Procureur Genet er̀ preente ment mndé pour decrer sucune hofe à propoer contre edrs Moneur e Prnce de Condé Moneur e Prnee de Conty & Due de Lnguoue & d fute de ce fre qu er n cemndene pourueu ̀ eut erté enmne re queCour e uger ̀ propos pour e en du Royume oeruton des Odonnnces & notmmene deDecrton du huctéme Otore nm x ces qudreAe huct Ert cepen dnt poureeté des perfonnes dedts Mon eur e Prnce de Condé Meeurs e Prnce de Conty & Ducde Longueue qus eront con duto& menez u Louure & grdez pr vn e thomme oneer deho u Roy et Vous ferez en"
+            "pris de toutes les Loix de l’Eſtot, & notomment de la",
+            "declareton du vu gt deuxieme Octobrc Is4 8.",
+            "Ce Conſideré, NOSSi INEVRS, attendu que la",
+            "vie du Prince de ory ſn Fls ſt n peril imment, par",
+            "e rapport dct us les Mececns,e le vus ſiupplie dy pour",
+            "ueor, & mettre lau phia te n la ſauue arde & por",
+            "tection du Roy & de la Cour, contre l’opp eſſion viſible",
+            "du Cardinal Maz arn, luy donner tel heu qu il vous plai",
+            "ra dans raris pour ſa ſeurcte; fin qu elle aye la liberté de",
+            "demander Iluſtice pour les lPrnees de C nde & de Cõty",
+            "es nfans, & du Duc ec Lnguculle fon ſon Gecndre;",
+            "offtant ſe mertte en la Concergee, au cas quc Mon.",
+            "eurs le Prureur General, ou autre, ait quelque plain",
+            "te à faire contr’elle, Et vous ferez bien."
         ]
     ]
 }

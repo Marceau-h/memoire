@@ -1,10 +1,7 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "factum",
-            "rhétorique judiciaire"
-        ],
+        "genre": "lettre",
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -14,46 +11,90 @@
             "@when": "2022-08-09",
             "@who": "MF"
         },
-        "titre": "Factum pour Monsieur le Duc de Vandôme. Contre les\n          Prétentions de Monsieur et Madame d’Elbeuf.",
+        "titre": "Lettre à la Reine pour la cause publique, comme elle doit\n          chasser Mazarin",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Socard41_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Socard48_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Fctum pour Monseur e Duc de Vndôme Contre es Prétentons de Monseur et Mdme dEeuf Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Fctum pour Monseur e Duc de Vndôme Contre es Prétentons de Monseur et Mdme dEeuf Sns LeuSns NomSns Dte 65 Lyon Bothèque muncpeRés 354TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs4 Fctvm pour Monseur e Duc de Vndosme Contre es Prétentons de Monseur et Mdme dEeuf Sns ttre ° deet 47 pges L seconde prte Recue des pèces à ppu content° Sentence de offc dAmnens surnuté du Mrge deDuchesse de Beufort vec M Dmerv de Lncourt 2o Légtmon du Duc de Beufort 3° Arrêt denreg des ettres de Légtmton 4 Décrton du roy pour rendre e Duc de Vendosme etDuchesse de Beufort récproquement hérters un de utre 5o Consentement deDuchesse de Beufort à ce que e Duc de Vendôme u succède 6° Erecton du Comté de Beufort en Duchre ° Contrt de Mrge du Duc de Vendôme et de Frnçose de Lorrne 8o Commsson du KRoy pour dmnstrton des ens de M et M* de Vendôme 9o Prtge des ens desuccesson deDuchesse de Beufortprose fctum rhétorque judcre"
+            "Lettre à la Reyne pour la cauſe",
+            "publique, comme elle doit",
+            "chaſſer Mazarin.",
+            "MADAME,",
+            "Ile voudrois icy eſpargner vos oreilles, mais",
+            "fdeliteé que i’ay voué́e à V.M. pour voſtre ſeu",
+            "reté, & pour l’honneur de voſtre conduite dans",
+            "Eſtat, me fait dire que vousſçauez auſſi bien",
+            "que moy, que la voix publique dit, qu’vn ſeul",
+            "homme eſt la cauſe de tous les malheurs qui",
+            "ont arriuez, & bien d’autre qui nous menacent",
+            "d’vne entiere diſſipation, & qu’il faut acheuer",
+            "e reſte.",
+            "Madame, ie veux icy eſpargner ma plume,",
+            "pour ne vous point dé́peindre les rigueurs de la",
+            "guerre, pauure fFrance qui a couſté́ tant de pei",
+            "nes, & de millions d’hommes à ce grand Hen:",
+            "ry IV. pour ta reparation, & maintenant il t’en",
+            "couſte bien d’autrer auec l’argent, pour le plai",
+            "ſir d’vn Miniſtre eſtranger, ce bon reigne n’eſt",
+            "plus, nous ſommes tous en ſeruitude & eſclaua",
+            "ge, ie veux, Madame, ſi le croyez queſoit vn"
         ],
         [
-            "FACTVM Pour Moneur e Duc de Vndome Contre es Pretentons de Moneur & Mdme dEeuf L sgt deucceon de euë Mdme Duchee de Beufort Gree dEtréesMere de Moneur e Duc de Vndome &de MdmeDuchee dEeuf tous deuxenfns ntures & egtmez du feu Roy Henry e Grnd & rendus cpes pr Lettres Ptentes deMeté deuëment venrfées de receuor & recuer tou tes es dpotons ftes ̀ eur proftCette ucceon ouuerte pr e decés de dte Dme Du chee de Beufort rrué en Aur 599 fut tecuee pr Moneur de Vndome & MdmeSœur & dm n trée pr eur s âge pr vn cone de peronnes de hute conderton que e Roy pr vn on pterne & vne on té toute prtcuere vouut chor dns es Cours Souue rnes eur donnnt common ̀ cet effet qu furent verfeées en PrementL Morté pprochnt uec e Mrge de Mdme dEeuf ors Mdemoee de Vndome ̀gée dej ns"
+            "parfait Miniſtre d’Eſtat, vous deuez pourtant",
+            "pres les plaintes de tant de perſonnes de toutes",
+            "façons, voir les fourbes & le chaſſer comme vn",
+            "traiſtre. qui euſt imais mis le pied en France",
+            "ce n’euſt eſté par ſes trahiſons: finiſſez auſi",
+            "genereuſement v. Regence comme vous l’auez",
+            "cõ̃menceé́, pluſtoſt que de ternir voſtre gloire,",
+            "& celle duRoy voſtre fils, ceDieu donné́, à qui",
+            "vous deuez laiſſer pluſtoſt l’amour dos euples,",
+            "que la vengeance d’vn Miniſtre eſtrãgee Faitrs",
+            "remonter voſtrevertu ſut le Throſne, & pre",
+            "nez vn œur de mere, car ce Minſſtre pourra vu",
+            "our faire( ſi vous ne prenez gardes aà̀ vous)",
+            "eommefit le Tyran Philomele, qui fit preſent",
+            "à ſ’a baladine d’vne bellecourbnne d’or: mais ce",
+            "n’eſtoit pas pour le bien qui luy vouloit, mai",
+            "pour la haine qu’il luy portoit, afin qu’elle fuſ!",
+            "enuiée de tout le monde, elle arriue de Meto",
+            "pont en Italie, & ſe moe à̀ danſer dans le temple",
+            "d’Appollon. Les ieunes gens l’euuironnent, ſe",
+            "ettent deſſus ſa Couronne, s’animent les vn",
+            "es autres, iuſques aà̀ ce qu’ils dechirent en pieces",
+            "pauure baladine, e crains qu’vn iour la meſ",
+            "me choſa ne vous arriue: & que ce Miniſtre",
+            "que vout aymé tant, ne ſoit la cauſe de voſtre",
+            "mal’heur, & que la meſme Couronne qui eſt",
+            "ur voſtre ceſte, ne ſoit miſe aà̀ vos pieds.",
+            "MADAME, c’eſt vne rerrible choſe qu’vn"
         ],
         [
-            "es ens de cette ucceon furent prtgez pres dcuton fte de tous es drots de vne & de utre des prtes pr tgentes & en fut ft Contrct de trncton pr d us de eurs pus proches prens & de x des pus ceeres Aduocts du Prement Les Meues etmez ̀ cnq cens vngeuf m tros cens qutre ures prprée que e Roy qu es uot retenus en uot ft fre furent prtgez egement & es mmeues eonCoutume des eux ou s etoent ctuez & pour eques Moneur de Vndome donn à MdmeSœur uques à Qutre cens m ures en Terres Scgneures e chrgent de toutes es detes pues qu etoent fort grndes pus que uy meme en etot crencer nfcndn de pus de tros cens m ures eheufre Cette trncton fut uue du Contrct de Mrge de e ucce Moneur & de Mdme dEeuf uec cue rete u e dmeu d prtge qu uot eté ft e dx epteme nuer 9 ̂ ort Depus ce tempsset pé trenteux ns pendnt e tre m p ques Moneur & M dme dEeuf tsfrs deporton pe dede eur heredté ont pé nomre nfny dActes ppro s ver desvuuufs dudt prtge fes Le remourcement ft pr Moneur de Vndome à e Moneur & Mdme dEeuf de prte du prx de en L eufdevedus ggement de Crecy uunt qu uot eté conuenu pr Acte epré & ont udt prtge e prft pyement dudt prx dont uot eté peé contcuton de rente contnué́e pueurs fnées & depus morte es Contrcts de vente des Terres dećes pr edt prtge es Arrets du Cone donnez ur es pouruttes & requetes de Moneur & de Mdme dEeuf pour e pyement deprt des Meues & gues retenues pr e Roy utfent ez qusnont pont douté pendnt trenteux nnées deeg té dudt prtge contre eque s e ont duez de re cmer pres qus sen ont veuû̂s enterement depfroprez pr e prx qus en ont receu & conommé L pretenton de ezon de prtge contre equté qu y uot eté grdée & vnegrnde utrte dActes ppro tfs & contnuez pendnt tnt dnnées etot trop foe pour pruenr à vn uppément de prtge qu deurs ne pouuot ps produre vn grud frut L demnde de heredté entere etot dvn en pus grnd hzrd & vne entrepre pus ectnte ns per & de cees pus conuenntes à eprt de Moneur dEeuf qu ous e pernce dedepoü̈e dvne nouuee ucceonfce ment donné dnschmere & commencé es ttques prRequete qu ut A Noegneurs de Prement 8 2 V P humement Chres de Lorrne Duc dEeuf S r e en e Ce dee re eue e e Frnce on Epoue Dnt que dte Dme et eue hertere vnuer ee de tons es ens meues &mmeues qu ot ppr tenu ̀ deffunteDme Duchee de BeufortMere deques pr comequent ee et e de dror & nentmons Moeur e Duc de Vndome set pres e decé́s de dte Dme Duchee de Beufortde tous es ens meues & ms en poeson de tous es mmeues de quee poeßone pourrot preu or s ny etot pourueû pr e Suppnt Ce conderé Nee gneursvous pe ordonner edt feur Duc de Vndome etre ßgné enCour pour e vor condmnmer rendre u upmt ous es ens meues dontsetpres e decés de dtej"
-        ],
-        [
-            "4 Dme Duchee de Beufort de e deter & deprtr depro preté de tous es mmeues uec rettuton de fruts & depens & ferez en Cet pour e outen de cette Requete que Mdme dEeuf tt dre que Moneur on Frere et ne en doue dutere pendnt e Mrge de Mdme Gree dEtrées uec Moneur de Lncourt Dmeru & du feu Roy Henry e Grnd uecRene Mrguerte pource que ors denncenuté de vn ny de utre des Mrges netot ps encore ugée & pretend prtrer es rons der gueur des Lox pour e rendre ncpe de toute ucce on & redure e Fs de Henry e Grnd à vne mpe pen on mentre & vgere S Moneur dEeuf qu ur vnehute entrepreconuté e eon de es ffres putot que es ttres deMon de Vndone eut conderé ce que Mdmefemme dot de repect àmemore deMere ux voon tez du feu Roy & à̀ honneur deMonne urot ps enggée ̀ vne mpeté qu offence & vne & utre & encores ur de fux moyens pus que touteprerenton et fondée ur vn Mrge prerendu entre MdmeDu chee de Beufort & Moneur de Lncourt Dmer u Or ce Mrge n ms eté pus que pr Sentence de Offc dAmens du epteme nuer 95dt Pre tenum Mrrmonum nter dtos Dmeru & dEtrées contr eges & Sttur Ecceæ ttenttumnto nuum & deo rr tum decrmus & decrumus vtrumque condemnntes hnc nde que contemptone dt preten Mtrmonj nomne rrrum de derunt reddere Cette Sentenceeteé donneée pour tros cues voence"
-        ],
-        [
-            "5 exercé́e pr Moneur dEtrées contreFe fn duor on conentement u mrgeprenté u troeme degré & mpunce du eur Dmeru Cette dernere et pus forte & donn eu à vne utre Sentence de Off c de Prs contre e meme Dmeru eque ynt depus epoué Dmoee Mrguerte dAuthun de Poynnes fut condmné pour meme cue dmpunce & on M rge decré́ nu n on ne peut ps douter que cette Sentence de Offc dAmens ne fut urdque ee et u thoree dvn Arret du Prement où ee et enoncé́e urverfcron des Lettres de Legtmton ccordées pr e Roy Henry e Grnd à Moneur de Vndome &pres cnqunt ns Mdme dEeufqueques moyens à propoer contre ee ne e peut fre quen preuppo ntvdté du Mrge vdnt eque cet e redure dee meme ousrgucur dememe Loy quee egue contre Moneur on Frere pus quee et née unt e de cés de Moneur Dmeru & prtntfut quee de meure dccord devdteé deSentence & que pourrendre vte à ee eue ee de que cette Sentence n pont deffet retroctf & que Moneur on Frere et né untdecrton de nuté & pendnt quppremment e Mrge utot & prtnt dutern Sconcuon et onne ouù e redut ee?nypont de oy qu fce dtncton du doue ou du mpe dutere Mdme dEeufet née untdouton du Mrge de Henry e Grnd & prtnt ee et compre dnsmeme Loy quee cteCetre Loy pourtnt ne peut etre entenduë ou expquée u preu dce de Moneur de Vndome qu net pont né en dutere pus qu nypot eu de Mrge entre M 2"
-        ],
-        [
-            "dmeDuchee de Beufort & Moneur Dmeru e ques nont ms hté eneme cr s y eut eu Mr ge qu eut uté vn eu momentnurot ps eté u pouuor ny de Offc dAmens ny de quequutre hom me que ce ot de e rompre e Mrge et vn pont ndu e qu ne e peut eprerceuy pretendu entre Mon eur Dmeru & MdmeDuchee de Beuforteté nu potereurement ̀Sentence de Offc eteé dés on orgne & s nypone de nuté en on orgnedot uor uté uques u decés de vn des deux con onts & prtnt e meme defut quee uppoe enn nce de Moneur on Frere erot en ee meme Ms ce net ps ez de démontrer que Mdme dE euf net ps pus cpe que Moneur on Frere deucceon de MdmeDuchee de Beuforton ne utfe que ce quee yde drot ne uy et venu quen con equence de ceuy donné à̀ Moneur e Duc de Vndome& ns preudce des duntges dnee Pour preuue on met en ft &et certn queMdme dEeufqueques Ttres prtcuers qurendent he à cette ucceon ot Commons ex pedées pour dmntrton des ens deez pr feuë Mdme de Beufort uon ur cees ou utres Lettres s ont communs ou conermes & retfs à ceux premere ment expedez à Moneur e Duc de Vndome & ne font que pourprrt & porton qu peut prtenr à M dme dEeuf eonCoutume des eux ou es ens ont tuez ce qu et vne reerue en fueur de né pour e drot & precput qu uy et cqus & qu uytou jours eté detné Et de ftpus condere Terre que MdmeDuchee de Beufort t poedéeeté cee"
-        ],
-        [
-            "J7 de Beufort qu de Comté fut ergeé́e en Ducheé & Pre pour & en fueur de Moneur de Vndome uque deés ors ce Duche fut comme ffecté & ne futdgnté me urtete deMere que pr e trop s ge du Fs u proft duque prot vne detntonexpree ̀ucce on de tous es ens que es Lettres derecton de ce Du ché verfées comme ees ont u Prement ont uff ntes eues qundny urot utres Ttres de mnte nr Moneur e Duc de Vndome en tout ce qu enrecuey Moneut dEeuf nen peut ps dconuenr pus quen vertu de ces memes Lettres & dedemon de Moneut de Vndome Moneur e Duc de Beufort duourdhuyeteé reçeu u Prement enpreence ns ucune con tetton ou oppoton de prt que deprecnce ce qu ert encore dcte pprotf du Contrct de prtge des ens dont edt Duché de eufort ft prte Ms qund tous ces Ttres nyeroent ps & que Mon eur e Duc de Vndome nurot à e deffendre & pren dre drot que ur es Ttres memes de Mdme dEeufcue erot ndute & fut que Mdme dEeuf on demeure dccord ee veut sder deegtmton qu n utre fondement que cee ccordée à Moneur de Vndome en vocy es termes Henry & ynt peû ̀ Deu depus ngueres nous donner enperonne de notre chere & en méeMrque de Monçeux Gree dEtrees notre Fe turee Henrette etnt en r onne quee ot decorée & honorée du tre & honmneur de egtmton conme nous uons ceunt donné ̀ Cer nmotre Fs nure on Frere tnt pour etre de memé ex rton & due Dme Mrque de MonceuxMepe e"
-        ],
-        [
-            "3 meme condton de oue & non mrće que pour e comporter touours dte Dme enuers nous uec tnt de reuerence de on & dfecton que &cMdme dEeuf ne peut prendre untge dev dté de ces Lettres quee ne reconnoe expoeé vert e & pr conequent MdmeMere uot eté en con dton de oue & non mrée ors dennce de Mon eur on Frere né Msypus ces Lettres de egtmton quren dent cpe de recuer & pprehender tous dons en fts & grtfctons ne font ucune menton du drot de uccederne e trouuer ny cue ny mot de ucce on en touteLettre ce peut uor eté́ pource que es Enfns ntures nyns ps e drot de ucceder à Pere & Mere ns eur cçonentement & ceuy des prens preomptfs hertersucceon qu vent pr ce moyen e peut dre et & grtfcton An dns ces ter mes generux Mdme dEeuf peus vertement com prendreucceon de MdmeMereeeon conentement & ceuy de Meeurs dEtrees Moneur de Vndome espour uy & pr Actesoemnes & uthentques qu fudrot renuerer touteeureté des Lox dunes & humnes & prendre es Arrets du Pre ment pour uonsett deMon fondé ur ceux netot certn Les Lettres Ptentes de egtmton ccordées pr e Roy Henry e Grnd à̀ Moneur e Duc de Vndome u mos de nuer 595 donnent vn ttre ez punt pus qu et verfé́ dns e Prement &Chmre des Compres vn des prncpux effets deegtmton etot de rendre Moneur de Vndome he de ucce der"
-        ],
-        [
-            "der à MdmeMere e conentement de quee etot necere Le Roy pour ncter à e donner dutnt pus voonters que untge erot recproque uy ccord pr Lettres Ptentesgrdoe de on Fs uec e drot de uy pouuor recproquement ucceder Ces Lettres ont eté verfees u Prement & en conequence dcees MdmeDuchee de Beufort p Acte u Greffe du Prement du 26 Feurer j96 portnt on conentement pour rendre Moneur e Duc de Vndome on fs he & cpe de uy ucceder Sur que ttre pus peceux peun ets vne quté́ dherter preomptf? en vocy nentmons vn qu eme pus fort Le Roy Henry e Grnd trttnt dePx de Bretgne uec Moneur de Mercœur ft dvn meme temps e trtté de Mrge de Mdemoee de Mercœur pour Moneur e Due de Vndome on fs nture qu de cr uor egtmeé pr es Lettres Ptentes verfées u Prement & Chmre des Comptes e Contrct en fut pé à Angers e cnqueme Aur j98 en preence des Prnces & pus grnds Segneurs deCour prtcuere ment de Moneur dEtree & pr ceuy MdmeDu chee de Beufort dt & decr tenr Monfeur de Vn dome on Fs pour on vry & prncp herrer Cet urfoy &proe du pus ge & du pus Au gute Roy deTerre que Moneur & Mdme de Mer cœur ont trtté de ce Mrge & qus ont euré e tt de eur Fe & de eur poterté dns es condtons dvne quteé ete dherter prncp pr ceux qu uoent drot & uthorté dedonnercnqunte ns"
-        ],
-        [
-            "o pres on peut pr vne pretenton chmerque y donnermondre ttcnte où̀ eteuteté des pus noes F mes & où tomént e pouuor &reputton de nos RosEtrnger peut renuerer eurs dpotons pr tcueres & conteter ett de eurs enfns"
+            "o..",
+            "peuple mutiné́ le ſubiect en eſt aſſez grand, ils",
+            "ont pris les ar mes, il eſt vray: mais pluſtoſt pour",
+            "yoſtre deffence, & pour empeſcher vn nombre",
+            "factieux de Mercenaires, que de les porter con",
+            "tre vous. Ces peupls qui vous ont tãt chery, &",
+            "qui vous tendent encore les bras, & implorent",
+            "voſtre aſſiſtance, faites donc pour ce peuple, ce",
+            "que Dieu a fait pour vous & pour nous, de par",
+            "donner àſes plus grands ennemis, & ne voulez",
+            "pas pardonner à tant d’innocens? en quoy vous",
+            "oat ils offenſées, faites donc maintenant ce que",
+            "vous voudriez auoir fait deuant le Tribunal de",
+            "uſtice, eſtant deſpouilleé́e de voſtre Couronne,",
+            "n’ayant plus deuant les yeux, que le bien & le",
+            "mal que vous aurez faict? Pardonnez done",
+            "grande Reyne, comme vous deſirez eſtre par",
+            "aúede Dieu."
         ]
     ]
 }

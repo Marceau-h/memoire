@@ -1,36 +1,53 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-30",
+            "@when": "2022-02-07",
             "@who": "AB"
         },
-        "titre": "Arrêt de la cour de parlement, sur l'avis que monseigneur\n          le prince de Conty a donné, de l'entrée de l'archiduc Léopold en France.",
+        "titre": "Arrêt de la cour de parlement, sur la proposition, faite\n          par monseigneur le prince de Conty, pour l’éloignement du cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau257_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau258_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt decour de prement sur vs que monsegneur e prnce de Contydonné de entrée de rchduc Léopod en Frnce Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de PrsArrêt decour de prement sur vs que monsegneur e prnce de Contydonné de entrée de rchduc Léopod en Frnce Prsmprmeurs et rres ordnres du ro649 dté du 22 mrs 649 Munch Bothèque de Étt de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs257 Arrêt decour dc prement sur vs que mo segneur e prnce de Contydonné de entrée de rchduc Léopod en Frnce Du 22 mrs 649 Prspr es mprmeurs ct rres ordnres du ro 649 4 pges y enune utre édton chez Gu Ssser Le ttre co mence nsArrét decour de prement du 22 mrsete Cest toutedfférenceprose"
+            "ARREST",
+            "DE LA COVR",
+            "DV PARLEMENT.",
+            "SVR LA PROPOSITION FAITE",
+            "par Monſeigneur le Prince de CONTY, pour",
+            "éloignement du Cardinal MAZARIN.",
+            "Du 27. Mars 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs & Libraires ordinai",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
         ],
         [
-            "ARREST DE LA COVR DE PARLEMENT SVR LADVS QVE MONSEGNEVR e Prnce de CONTYdonné à entrée de Archduc Léopod en Frnce Du 22 Mrs 649A PARS Pr es mprmeurs & Lrres ordnres du Roy M DC XLXAuec Pruege deMjeté"
-        ],
-        [
-            "3 EXTRACT DES REGSTRES DE PARLEMENT CE OVRCour toutes es Chmre emees e Seur Codjureur ̀ Arch ueché de Prsdt Que Moneur e Prnce de Conty qu et ndpoé uot chrgé de dre àCour Que herreceut nouuee de Archduc qu uy mnde quetnt entré en Frncedere de euer e ouçon que on pourrot prendre demrche & fre cotre à tout e Royume qu y vent cherchesPx & non ps freguerre Pour cét effet offre drreter es rmes pourueu queRy ne donne des Deputez pour termner tous es dfe rends des Couronnes Que edt Seur Prnce de Conty nuot ps ugeé à̀ propos de er per cete occ fongoreue àFrnce f mportnte &fuo re àChretenté Auot pour ce ujet enuoyéux Deputez depre ordre dnter ur cette Propo fton SuppotCompgne den conderer m porrnce & de donner e meme ordre à es Depute Protetnt de ne ren tnt derer u monde & dycrfer tous es nterets prcuers EtArchduc evouot preuon de ett uquee rouue preen ementFErnce decre eds Seur Prnce de Cont"
-        ],
-        [
-            "4 qu et pret de rendre u Roy & u Pue os emognges dfecton de eruce & doenoe que dot vne peronne dennce Et ur ce oüy e Procureur Gener L mtere me en deertonLTe CovRrreteé qu en er ft regstre utnt duque er enuoyé ux Deputez de dte Cour etns à Snct Germn pour e fre çuor u Roy& àReyne pour en dpoer eonvoonté Ft en Prement e vngeuxé́me Mrs m x cens qurenteuf Sgné DV TLLET Cotonné à orgnm pr moy Coeer So? re dus Ry & de es Fnes"
+            "4",
+            "Deputez d’icelle Cour eſtans à Rual, leſquels inſiſte",
+            "ront à ladite propoſition du o. de ce mois pour l’eſ",
+            "loignement dudit Cardinal Mazarin, FAIT en Par",
+            "lement le vingeptiéme Mars mil ſix cens quaren",
+            "teuf",
+            "Signe, DV TILLET.",
+            "Collationné à l’original par moy Conſeillen",
+            "Secretaire du Roy & de ſes Finances."
         ]
     ]
 }

@@ -1,72 +1,197 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
-        "subject": null,
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": "burlesque",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-01-28",
+        "subject": [
+            "Louis XIV (1638-1715 ; roi de France)",
+            "France -- 1648-1653 (Fronde)"
+        ],
+        "creation": "1652-08-19",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-07",
-            "@who": "ZC"
+            "@when": "2022-02-09",
+            "@who": "AB"
         },
-        "titre": "Le busire étranger, démonté par les Alcides de France,\n          sur la résolution généreuse de messieurs les princes pour la ruine du parti Mazarin, où se\n          voient les justes causes du refus de plusieurs villes, fait à ce cardinal, de le\n          recevoir.",
+        "titre": "Le cacus Italien renversé par l’Hercule François, en\n          prose et en vers burlesques, par le sieur D. L. G.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau615_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau616_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le usre étrnger démonté pr es Acdes de Frnce surrésouton généreuse de messeurs es prnces pourrune du prt Mzrn où se voent es justes cuses du refus de puseurs ves ft à ce crdn de e recevor Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Busre (e) étrnger démonté pr es Acdes de Frnce surrésouton généreuse de messeurs es prnces pourrune du prt Mzrn où se voent es justes cuses du refus de puseurs ves ft à ce crdn de e recevor PrsSns Nom652 Lyon Bothèque muncpe309872FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs65 Busre (e) étrnger démonté pr es Acdes de Frnce surrésouton généreuse de messeurs es prnces pourrune du prt Mzrn où se voent es justes cuses du refus de puseurs ves ft à ce crdn de e recevor Prs 652 5 pgesprose non rensegné Arrvée du crdn Mzrn à Poters 658"
+            "LE CACVS",
+            "TALIEN",
+            "RENVERSE PAR",
+            "L'HERCVLE",
+            "FRANCOIS",
+            "EN PROSE ET EN VERS",
+            "Burleſques, par le ſieur D. L. G.",
+            "A PARIS,",
+            "M. DC. LII."
         ],
         [
-            "LE BVSRE ESTRANGER Demonté pr es Acdes de FRANCE SurReouton genereue de Meseurs es Prnces pourruyne du prty Mzrn OV Se voyent es utes cues du Reffus de pueurs Ves ftes à ce Crdn de e ReceuorA PARS M DC L"
+            "ûada a & û a da a 8",
+            "LE CACVS ITALIEN,",
+            "renuerſé par l’Hercule fFrancois.",
+            "ce n’eſtoit pas aà̀ tort que le Sage,",
+            "pres auoir lon temps conſideré, &",
+            "enſeé meurement aux diuerſes paſ",
+            "ſions qui trauerſent la nature humaine,",
+            "& qui comme bourreaux cruels & inhu",
+            "mains, apres que par vne ingenieuſe ma",
+            "lice, ay ant fait éprouuer a l’homme tou",
+            "tes les paſſions dont ſon ame eſt ſuſcepti",
+            "ble; ſi diſ je, ne trouuant choſe aucune aà̀",
+            "quelle il la puiſſe comparer: ll dit qu’il",
+            "eſt plus aiſé de re connoiſtre la trame d’vn",
+            "oyſeau qui vole en l’air, la piſte d’vn ſer",
+            "pent qui rampe ſur la terre, que de con",
+            "noiſtre & comprendre la ſource d’ou pro",
+            "uiennent ces malheureuſes racines: Mais",
+            "moy n’ay ant le moindre rayon des lu",
+            "mieres dont le Sage eftoit é́clairé, que",
+            "dirae n ette occaſion, ou jentre",
+            "prends devous montrer vn homme, qui",
+            "yant reſſenty toutes les paſſions dons",
+            "A ij"
         ],
         [
-            "LE V EH ES TRANGERDemonté r es Acdes de Ernuce Sn e Reoton geereue de Meeurs esre pourrpne du pr MrnE net ps dujourdhuy que on vot es Empres Royumes & es Prncputez entrees mns des Roys & des Prn sces jeunes & en s ge erur de uet de troues & de gutrres qu ont pour utteruyne des Peu pes expoent es Etts en proye ̀ cue du Duue tnement d́ttu & mtonne pr es Grnds An Htore produt quntté dexẽm pe de eunesPrnces Regns ns experen Se ny cpcté uor eté cue deduon"
+            ",o ,,l",
+            "4",
+            "vne ame peut eſre nauſée, ayant goûté",
+            "es faueurs & ſupporté les iſgraces de la",
+            "fortune; enſin eſtant reduit aux abois &",
+            "dans vn eſtat auquel il faut, ou que pat",
+            "on inſenſibilité & comme deſeſperé il",
+            "joüe de ſon reſte, & remue les dernieres",
+            "machines, que lueſme & par ſon",
+            "propre aueuglement il fea tomber ſur",
+            "teſte; teſte laquelle que comme celle",
+            "du ſerpent elle pouuoit auoir eſté ́cra",
+            "ſée: ll ne faudroit pas que noſtre inuin",
+            "cible Hercule François employ aſt ſon",
+            "ras pour l écraſer Bras qui plus dange",
+            "reux que le tonnere, reduira bie toſt",
+            "en pouſſiere tous les malheureux deſſeins",
+            "que ce ſerpent exhale de ſa bouche veni",
+            "meuſe tout le poiſon qu il peut vomir, il",
+            "ne pourr a rien faire qui ſe plie & replie, &",
+            "que par vne ſecrette inuention il tà̂che de",
+            "e jetrer; il ne pourra iamais reſiſter; &",
+            "cét Hercule du moindre de ſes regards",
+            "diſſipera les œillades dangereuſes de cét",
+            "Aſpic, ouy il triomphera de cét ennemy,",
+            "conculcabit leonem E draconem, &c.. ll",
+            "triomphera"
         ],
         [
-            "4 de Enpre Teque fut Contntn xeme fs de Empereur Leon qutreme qu ReJ gn fort eune uee reneMere epce de rns Cee Prnee qu eo dh nes exce on ére en prudénce & e uge ment u grnd contentement des Peupes Contntn on fs m coneeé ffn de e yor eu s u Throne mper ch reneMere & reégu eu cnq ns Ms cpmme e Peupe de Contntnope e me proent pour es ons ndgnes dvPrnce ne pouünt oûffrr es vces nfmes & hon teux rppe reneMere pour reprendrepreméue dgnte & comme ee e pouuot ouet ffront que Contntn on fs uy uot ft e peunt de Empre ee y ft creuder es yeu out e rendre ncp e de comnder &te regn eue tos ns Lmecté́ de ce eune Prnce &ve doue fut cue deduon de Empre Romn prtgé e déux çuo enEmpre dOrent & en Empre dOce dent uque ut ppeeé Chremgne pr e Cone du Ppe Leon&ntnte pour utte du Peupe qu ne pouunt pus en durer Enpre de ceeune Prnce qu ne re guot que eone cprce &voonte de es fr"
+            "foulera aux pieds ce dragon, & apres",
+            "uoir ſuffoqué ce Lion il rept imera ſa",
+            "furie auſſi temeraire qu’inſolente. l le",
+            "fera le jouet & le ſpectacle d’n peuple",
+            "ur qui ce Lion enragé auoit autrefois tà!",
+            "ché d’exercer ſon injuſte col re: Mais il",
+            "me ſcmble qu’eſtant vn peu égaré du",
+            "droit chemin que j’auois voulu prendre;",
+            "e te veux fruſtrer de l’attente que ie te’a",
+            "uois fait auoir dé t’expoſericymoſtre in",
+            "uincible Hercule glorieux & triom",
+            "phant de cét infame Cacus, qui par ſos",
+            "fumeux & noirs artifices tâchoit d’é",
+            "blouir ſa veuë pour le détourner de luy.",
+            "er le coup, que juſtement il auoit",
+            "merité: non ie ne te le veux pas icy ex",
+            "pimer, mais pluſtoſt te faire voir au naif",
+            "es vices de l’execrable Cacus, & l’enor",
+            "mité́ de ſes actions, non pas de ce ſtile",
+            "trop retenu pour ce ſujet, mais bien par",
+            "ma muſe burlefque toûjours joyauſe,",
+            "qui te les décrit par les ſuiuans.",
+            "B"
         ],
         [
-            "rs & Mnre pufprt des Roys de Frnce dee nde rece pourfoee de eur ge & ugemẽt ot eé es Mres du Psentre prendre ur eur uthorté Souuerne e chez prdengon du Gouernemen o Ms notre Htore n pot rermrqué́ guvn Etrnger né de s u & dee du Peupe t monté à te excés dnoece queurprenntfmpcté duPrce regnnt &Suntgent de on s âge t vurpé́ u thorté Souuernme pour gouueruere nTyrn commeft ue Mrn dns e s ge du Roy eprs dMos Roye & des Prncesdu Sng pour perdreequesnpoyéperfde &trhone es per heu rtfces ordnres àntonde ere quprvn grnde pence qusMeeurs es Prnces do Sng nteus & qu eureté prejudee pour prenermuue nteon &éurer eur rune e ons veus ogez de prédse vne reouton me ourgeue & generee de cher ce y n du untere psvoye des rmes & ome on dmntron tyrnnque et co uãpr toute Europe voynt que e B"
+            "8",
+            "6.",
+            "Ce grenier a tant de mépris",
+            "ſe verra, à la ſin pris,",
+            "Coae vn Renad dans ſa taniere",
+            "u comme vn Rat à la chatiere,",
+            "Que diſ je renard i’ay menty",
+            "foy, car il n’a paint d’eſprit.",
+            "Aſyant ſoulé ſon Eminence",
+            "Causé la perte de la France,",
+            "Par ſes maux & conſeils peruers",
+            "Voulanas mettre tout à l’enuers.",
+            "Mais ſi ie l’appelle icy lules",
+            "C’eſt pour rimer à ridicule,",
+            "es donc, puiſque tu le veux",
+            "e te prie eſcoure maes vœaux,",
+            "Afin que meon ame ingrate",
+            "Mntre les vices ou tu eclatre,",
+            "Et qu’ell a. eu grande raiſon",
+            "En faiſais la romparaiſon",
+            "Des avices de Cacus aux tiens",
+            "En te motrant exempt de biens;",
+            "Enfin pour com mencar la rime",
+            "Afin que perſonne ne m’eſtime,",
+            "D parler de toy comme aucun",
+            "Et ſuire vn ſentiment commn."
         ],
         [
-            "5 eurs es Prnces uec touteFrnce co proent à e défre de ce teert oú du mons à fre éognerperoune hors d Royumesetreu contrnt de e reoudr à e rerrer & comneetot es yeux d on eprtut es pys & eux etrngers oàretrcte pourrot etre eurée de prme orduor creu sener à Rome ou Ve ne rms cndern qu uot grndemétdegé́ e Ppe nnocẽt àpreent enr qu y unot pont de eureté pour uy à Rome & enoore mons à Venfe dontSe gneuretouours eté́ enneme destrtres & ne es peut ouffrjrchnge de deûenft venr e Pce Thoms en Cour de pus ept o hut nos urteouron d chorrerrte à C ouà Pgnoro o8 Augnon ugent cs Prnce uy etre ece re pou ecorer uoc es cuhers qu choros fn deurerperonne pr es chenns qu uy conuendros tenr pour e rendre en vn de ces troseuxPour C e Crdn n ps ugé cette pce etre pour uy ffurée dutnt qu çuot que e Mrqus de Crrncenes Gou uermeur de Mn pour e Roy dEpgne pendt nos trous cus fot de grnd"
+            "7",
+            "Ma muſe éleuant mes penſees",
+            "T’eſeue pardeſſus l’Empirée,",
+            "L’empiré́e des plus vicieux",
+            "Ou tu tiendras les premiers lieux,",
+            "Et pour dire ou tu auraus place",
+            "Tau ſeras auec les gauaches",
+            "Mas ou eſt ma comparaiſon",
+            "Ne ſuie pas hors de raiſon;",
+            "Ou eſt ce Cacus ſi infame",
+            "Qni vomit fumé fumeée & flame.",
+            "on cher lecteur reprend eſpoir",
+            "Ce Cacus ie te feray voir,",
+            "Non pas noircy de la fumée",
+            "Qu’il exhale vers l’ Empirée.,",
+            "s charbonné de ces couleurs",
+            "Dont il a noircy ſon honneur;",
+            "Mais il eſt temps de conamencer,",
+            "e te prie de m’écouter.",
+            "O grand faquin:! o ſoul d’bonneur;",
+            "O ty canſe de os malheurs!",
+            "Dy moy ou ſont tes eſperances",
+            "Croiu deeurer dans la France?",
+            "T as de grandes intentions",
+            "Cherchen l’execution;"
         ],
         [
-            "s c eee er ee en n endeuee chnt que e Crdn ztn sy erot retré́ perdrot efpernce dy pouuor ren rer & e Verrot ogé de sen ceomo der uec Epgno pr n echnge dutres pces & pys pour C & é Duehé de Monferrt comme de prendre Cremone & dutres eux en dependns & pus proches de Mntouẽë eon es propôons qu sen ont ftes depus queques nnées Ces condertons frent perdre enue u Crdn de er enfermer dns C qu etot ur e pontt detr egéAu regr de Pgnero qu etu Royhe croyot ps ypouuor demeurer entoure eérté & fPnehemous que y eon moer enqué de ooueeur poutd Mjeté ne dunt pht uorde Supretrer upres de uy cde qu erotque t gtrnon Frrtoe qury et ur opon quee u ot duyehngement quy Ferot ench rrpour y mértre sRens (ufquesy tror pus de eomfue qx Prnçosy ne &roetpneoft Reghon ve de oeyrmte dù Ppe etdroye que Snete à re"
-        ],
-        [
-            "J eomendton de eursMjetez Trehre e eeer reereeee n e nene e ue de e e oenedéfnce enuers esetrngers qu ydemeu rent y vennent & yrequentent ç̧chnt ez es mecouteuremens que e Ppe d preenteüs contre é Crd zrn pouxes muus ffces qu uy rendus en duer es occonsez cogneuë̈s & netnrpone gnornt de on nture perfde & cecoutu né à trmer destrhons cpudernt o tes es ons uroeu tous Courers qu y eroent enuoyez de Fruee pousr u pets pprehndne queque entrepre ur e Con dAugnon çhnt qu uoe Due de Mereœur ougernet de Prouenee quepoe ne de es Nepces & eu dEpernq Gouuerneur de Bourgongnequ oeyroent vooners à es ordres s uy prenot enue deneprendte ur Augnou dont e Contt et conme ecué dns e Prouence & tent e hnt & e s der uere du Rhone u Pone S Eprt&à Ares tentre equees Agnon et céée)L pourempecher ocoqmeee ur cettererednere"
-        ],
-        [
-            "9 nere que ees défnces perpeuees des rns &toures es on épee&con erees rendroen on eprt empe esqueudes nm ucneposny er e eenene eonudrous ed ponrny Augno nefot pserpour uydemee epernee etontneeou o Chreuoye on tpendre uout de ou u cnme cdyjquy uomepe du fe &e Tfuee qus en eo Souumut Cet ponrquoye pouuote un de o deure pout r one ne oSng de erend ece detqn quee Crot qu puyotdontdeFonee edtretre Brfc oetoeeuuddrenreennrque Croeeomnderor msgtnon etnt efomtehgence uee uycchnt en qntneoe dns cere pee que pour eeeu er es muus deens d Crdneue ent eut penee ur e Comte de Hrcour qu s cgooen que cormhne Prmeeureux & de grnd cœur ne oodrot t vtpendre de ce Crdn s uy fs endre eur reoo de ppeer ffe pout eceher Chneuo pe do des enes d gouueneent dp"
-        ],
-        [
-            "e pour e Roy Le Comte ocepre prometsy rendre en ref es eure de on tnce & pour pus grnde eureté́ de proey en uoyeComtefefemme & es enfns Ce gtnd deen du Crdn Mzrn nynt euutteny e uccez qu eperotretrte netnt reouë que pour er à Bee etnt deà rrué à Rhems uec n enton de pet pr Troye & e rendre prBourgonge en ée eu de Bre ppren que e Comte de Hrcourt ut preuenu & uy uot eprgne pene dy er y etn rrué uy cnqueme Cét dus uy pref eement e cour de e vor nf en eo gné́ de jouyr dvn Gouuernement de tee m ortnce qu comprend toute Ate & he rend gueres mons de douze vecseures pr n à ceuy qu en et Gouuerer qu e reoue de reprendre encoreé vne fos e chemn de Sedn prt dnc de Rhems peàRdete & çchnt que e Duc de Lorrne netot ps eucoup ́ogné de àuy euoye vn en Secretre e prer uy nommer e eu oùe pourrot vor ce que e Duc ft & e Crd n Mzrn sy etnt cheémné & etré endcour uee uyremohtre u Duc de"
-        ],
-        [
-            "Lorrne quynt prs reouton de ortr de Frnce pour doner contentement à Meeurs es Prncesny uot pus eu dy en tretenrguetre puque Monfeur e DucdOrens & Moneur e Prnce uoent fcteur Decrton venfé́e u Prenent de P rs promettnt u Ry que tot qus ç̧uroent qu erot hos de Frnce ns epernce dy reuenr s poeroeut es rmes que ur cee retrot & prtnt dt u Dc de Lorrne qu netot eon de fre unceron rmée pour e jondre à cee de eeurs es Prnces pus quePx sotfre & qus peroent es rmesLe Due de Lorrneé ynt ecouteé uy deMoneur e Crdn e cognos ez vosfoureres e us tren nttut dé́ ̀ ve onté de onfeur e Due dOens mon eufrere de Monfeur e Prnee cõmé u que et votre deen qu et de me peruder ànduneerduntge uec mon Armée fndndonner n es Prnces du ng à dcreton de eur tnnems y vn Ordretout cõtte que e pfetend uure ns mrreter vos rons qu mont touours etépreudces"
-        ],
-        [
-            "22 Le Crd zrn ns repque prt congeé du Duc de Lorrne & pouruuy on chemn vers Sedn pour de e retrer à Boüon en tot qu pprtent u Prnce de LegeAũnt que prtr deCour & pr esCones e Prnce Thoms fut ft Mutre dEtt & eut Offce de Grnd Eeuyer de Frnce pr e Comte de Hrcourt qu ne de uot ps uy etre ote cr etnt v des premere Offcers deCournone cõme ceux de Conneteé & Coone Gener de n fntere de Frnce de grnd Chmen &grnd Mtre de Aruere de grnd Fuconner de mrech de Frnce de grnd Mtre deés Eux & Forets de Chnceerede grnd Aumoer de grsnd Preuot deHote de grnd Echncqn de grpd Veneur de grd Mtre dos Cerermones dontceux qu en ont pouruous nen peuuent etre dépoedez quon eur fnt perdreteteNentmons ns uos egrd à e eComte de Hrcourteté dépoedeé de Chrge de grnd Ecuyen ns uor vouuny receuor on fs né à uruuneeEn meme temps dgy Angos fut ums à̀Chrge deCptnere du Ch teu"
-        ],
-        [
-            "3 fteu de nct Germn en Lye prduf on quen uot fte Moneur e Predent Mfon uque ee pprtenot De orte que e Roy et ujourd huy gou uerné pr vn Suoyrd & deux ngos e tout pr e cone du Crdn Mzrn fn de nourrrjeté uec es Etrngers & ne prendre utre cone que ceuy de eurt cpr ce & du pretendu Prement de PontoeMeeurs es Prnces ne pouunt dun ge ouffrr e Roy etre pus onmps cptf entre es mns de es ennems & de on Etr ont rmé pufmment pour ruyner & detrure ce prty Mzrn entreeenu pr ceCrdn verte Bure u TyrndeFrnce que Bure etot dEgypteue nhumn execte fs de Neptune & de ye de nureernge & rre qu erfor es hommes etrngers ou es f ot deuorer à es cheuux ce qu fut cueue Hercue e tu & prmortpurgé Egypte de cette pete Frnce eperetne àgeneroeé́ de Mefeurs nos Prnces vertes Hreues &courgeux Acedes qun que céte ncon D"
-        ],
-        [
-            "4 Hercue & Acde fs de uprer & dAe mene qus runeront Hydre mzrne eõme Hercue dompt ce montrueux Serpent Hy dre à ept tetes u Lc de Lerne Cét Hydre Mrn à̀ ept tetes ept erpens petes deFrnce qu nfectent & corropens e on nture du Roy pr e venn petfere de eurs cones mettent Ett en grnd dnger de e perdre Ces epr tetes ont Ser unt e Teer & Lyonne e Suoyrdes deux Angos & e Chef du pretendu Pre ment de Pontoe qu ont cue du grnd troue qu deoe uourd huy cette pre mere monrhe du mondeCe ont es ept tetes de cét Hydre Mz rn qu e verront tuës pr es rmes de nos Aedes Frnços qu ne ont rmez que pour purgerFrnce de ces Buzres Tyrns qu eront e ujet du tromphe & degore de Meeurs es Prnces dgnes enfns dHer ue pres uor dompté ces Montres eur ntenton etnt en utte de poer es rmes de porter e Roy àPx genere & de uy fre e eruce & oence qu u et deuë pr tous es ons & fdees ujets & fre 3"
-        ],
-        [
-            "pr eurs ons eones feurr e regne de Mjeté en toutes ortes de propertez & on Ett en gore grndeur & en tee reput ton qu er pus que msterreur de es enems & e uject ddmrton ux Etrn gers FEN"
+            "8",
+            "Cette eſperance impertinente",
+            "Flatte ton eſprit dans l’attente,",
+            "Rejette ces tentations",
+            "Ces diaholiques illuſions,",
+            "e dis mal ſont bonnes penſéer",
+            "Qui finiront ta deſtinée,",
+            "Reſtabliſſant ton Eminence",
+            "Tes affaires & ta preſence,",
+            "Preſence qu’vn chacun regrette",
+            "Mau c’eſt pour en auoir la teſte,",
+            "Teſte qui n’a autre pratique",
+            "Qu’infernale & diaboldique,",
+            "ules enfin ie te dis adieu",
+            "Attends d colere de Dieu.",
+            "FIN."
         ]
     ]
 }

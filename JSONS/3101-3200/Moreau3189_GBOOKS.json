@@ -2,53 +2,152 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "narration",
-            "récit"
+            "récit",
+            "relation"
         ],
-        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1650-10-01",
+        "subject": [
+            "Tarente, Henri-Charles de La Trémoille (1620-1672 ; prince de)",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Bordeaux",
+            "Soubise (Charente-Maritime)"
+        ],
+        "creation": "1652-03-16",
         "change": {
             "@status": "corrected",
-            "@when": "2022-09-27",
+            "@when": "2022-03-18",
             "@who": "AB"
         },
-        "titre": "Relation véritable contenant les articles accordés à\n          madame la Princesse et à monsieur le duc d'Anguien, sous le bon vouloir et plaisir du roi,\n          en conséquence de la paix de Bordeaux, publiée le 13 octobre 1650, en présence des sieurs\n          de Saint-Août, comte de Charteaumeillan et d'Alvimare, sous-gouverneur de mon seigneur le\n          duc d'Anjou, envoyés par Leurs Majestés, et le sieur Laisné (Lenet), conseiller ordinaire\n          du roi en ses conseils d'Etat et privé, envoyé par madame la Princesse en exécution\n          desdits articles, avec amnistie aux sieurs deChambois , comte de Bussy Rabutin, Montatère,\n          Delignon, Degamille et autres, fait à Montrond le 23 octobre 1650.",
+        "titre": "Relation véritable contenant tout ce qui s'est fait et\n          passé à Bordeaux, ensemble la défaite des troupes mazarines par l'armée de monseigneur le\n          PrinCe, avec la prise de Soubise par M. le prince de Tarente.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2026-04-20",
-            "#text": "26 avril 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau3189_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3190_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Reton vérte contennt es rtces ccordés à mdmePrncesse et à monseur e duc dAnguen sous e on vouor et psr du ro en conséquence depx de Bordeux puée e 3 octore 650 en présence des seurs de Snoût comte de Chrteumen et dAvmre sououverneur de mon segneur e duc dAnjou envoyés pr Leurs Mjestés et e seur Lsné (Lenet) conseer ordnre du ro en ses conses dEtt et prvé envoyé pr mdmePrncesse en exécuton desdts rtces vec mnste ux seurs deChmoscomte de Bussy Rutn Monttère Degnon Degme et utres ft à Montrond e 23 octore 650 Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté26 vr 202 Reton vérte contennt es rtces ccordés à mdmePrncesse et à monseur e duc dAnguen sous e on vouor et psr du ro en conséquence depx de Bordeux puée e 3 octore 650 en présence des seurs de Snoût comte de Chrteumen et dAvmre sououverneur de mon segneur e duc dAnjou envoyés pr Leurs Mjestés et e seur Lsné (Lenet) conseer ordnre du ro en ses conses dEtt et prvé envoyé pr mdmePrncesse en exécuton desdts rtces vec mnste ux seurs deChmos (sc) comte de Bussy Rutn Monttère Degnon Degme et utres ft à Montrond e 23 octore 650 Prs Guume Ssser 650 dtée du 23 octotre 650 Lyon Bothèque muncpe de Lyon Réserve Rés 30555TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs389 Reton vérte contennt es rtces ccordés à mdmePrncesse et à monseur e duc dAnguen sous e on vouor et psr du ro en conséquence depx de Bordeux puée e 7 octore 650 en présence des seurs de Snoût comte de Chr teumen et dAvmre sououverneur de mon segneur e duc dAnjou envoyés pr Leurs Mjestés et e seur Lsné (Lenet) conseer ordnre du ro en ses conses dEtt et prvé envoyé pr mdmePrncesse en exécuton desdts rtces vec mnste ux seurs deChmos (sc) comte de Bussy Rutn Monttère Degnon Degme et utres ft à Montrond e 23 octore 65 Prs Gu Ssser Sns Dte 7 pgesnyque e trté prtcuer pourpcfcton du Berr et évcuton de Montrondprose nrrton réct Px de Bordeux 65"
+            "RELATION",
+            "VERITABLE",
+            "CONTENANT TOVT CE QVI",
+            "S’EST PAIT ET PASSE’ A BORDEAVX.",
+            "Enſemble la defaite des Trouppes Mazarines par",
+            "Armée de Monſeigneur le Prince.",
+            "Auec la Priſe de Soubiſe par Mr le Prince de Tarente.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER ruë Saint Iean",
+            "de Latran.",
+            "M. DC. LII."
         ],
         [
-            "RELATON VERTABLE CONTENANT LES Arcces ccordezMdmePrncee & à Moneur e Duc dAnguen ous e on vou or & pr du Roy en conequence dePx de Bordeux pué́e e 3 Octore 650 en preence des eurs de S Aout Comte de Ch teumen & dAuymre ous Gouuerneur de Monegneur e Duc dAnjou enuoyez pr eurs Mjetez Et e feur Lné Coneer or dnre du Roy en es Cones dEtr & Pr ueé́ enuoyé pr MdmePrncee pour executon dedts Artces Auec Amnte u eur de Chmos Comte de Bußy Rutn de Montterre Deguon Degme & utres Ft ̀ Monond e 23 Octore 650 A PARS M DC L"
+            "3",
+            "RELATION",
+            "VERITABLE",
+            "Contenant tout ce qui s’eſt",
+            "fait & paſſé a Bordeaux.",
+            "Enſemble la defaite des Trouppes Mazarines.",
+            "par l’Armée de Monſeigneur lel’rince.",
+            "Auee la Prſe de Soubiſepar",
+            "e Prince Tarente.",
+            "r ouueles ſont iops que E",
+            "Vp Pne Tronre a fan aue",
+            "e cer es Trouppes prés de la",
+            "s",
+            "Rochelle apres auoir prins",
+            "s Soubile, quil a colerue",
+            "moynnant 5oo. liures que",
+            "es habitans luy ont donneé, & à fait bru",
+            "lr tout le bouig de Moiſe qui auoit reſdts:",
+            "A ij"
         ],
         [
-            "3 RELATON VERTABLE CONTENANT LESARTCLES ACcordez à MdmePrncee & à Moneur e Due dAnguen ous e on vouor & pr du Roy n cone quence dePx de Bor deux pué́e eOctoe oo en preence des eurs de S Aout Comte de Chteu men & dAuymre ous Gouuerneur de Monegneure Duc d Aojou enuoyez pr eor Mjetez Ee eeur Lné Coneer ordnrs du Roy en es Cones dEtt & Prué enuoyé pr dmePrneee poun erecuton dedts Artces Amec Amnte u eur d Chmos Comte de By Rtn de Monmtterre Deguon Degme&ures PEu e ueV E tous Offeers Gentommes nreuerne r eeneeChteux ys prs prty u ujet de dts derners mouuements dns es Prounces d A"
+            "̀ ſes trouppes. Ledit Prince a eu aduis que",
+            "e’Comte d’Hafourt s’approche de Xain",
+            "tes paur l’aſſieget, il a fait retourner ſes",
+            "Trouppes auſſ: toſt vers Taillebourg. Les",
+            "eux Regimens du Cômte Daugnon fſont",
+            "jointes auec luy. Le Conte d’Harcour",
+            "uoit fait auancer ſon armée contre Peri",
+            "gueux, & n’a pas oſé y me ttre le ſiege",
+            "cpignat y perdre l’honneur & ſon armée,",
+            "caule q’il y auoit des gens, qui l’atten",
+            "doient́ delors & dedans adplaeee & que",
+            "cette ville eſt mal ailée à aſſieger, à eauſe",
+            "des petites montaignes où il faur paſſer le",
+            "canon, & en des lieux fort eſtroit, il",
+            "s’eſt adyiſé d’allea à Xaintes, on croit qu’il",
+            "mis e ſiege deuant auec cent cinquante",
+            "cheuaux, & deux mille honmes de pied.",
+            "y a dans la place deux mille cinq cens",
+            "ommes d’infanrerie cômandezpar Mo.",
+            "eur de Iambon, qui ne leur rendra pas",
+            "place qu’à l’extremiteé, elle peut auoir",
+            "ecus par l’armée du Prihce Tarente",
+            "ueccelle de lon Alteſſe qu’on y enuoye",
+            "ra par montagne du coſté de la riuiere de",
+            "Garonne, Monſieur le Prince apres auoi",
+            "fait ftifier ergerac, eſt rou à Libounl",
+            "ne"
         ],
         [
-            "4 Berry Bouronnos & utres eux djcenrs joü̈yront de Amnte genere en conequenc de dte Decrton du premer de ce mos & ce fnt eront rems en eurs ens chrges d gntez penons &c memes e eur Mrqus de Pern enfoncton & joü̈ynce de on Reg ment dnfntere comme uf tous es Offcers dceuy dns eurs ch rges memeés ceux qu etoent à Beegrde e nmeme forme & m ere qus etoent u nt e 8 nver derner Quà eét eetM er uppée dteorder Lettres drefntes u Gener de Armé́e & Gou uerneur deProuce ou des pces ou e corps dudt Regment er pour eun Hétementen eurdtes chrges S Mjeté er preement uppée de corder vne route à̀ tous Offcérs & Sodts etns hors dudt Regment pour er jondre e corps V 2Que tus os Chteux occupez pr edres troppes e prt & dutrecommeceuxdeBu yy S Forenr Boumoes Cun e Chteer es Brres"
+            "nes. Depuis deux ou trois iours Mada",
+            "me la Princeſſe & Madame de Longue",
+            "uille ſa ſœur le ſont allez voir. Il a enuoyé́",
+            "à Arſon vn de ſes Gentilhommes, auquel",
+            "baillé ordre de tacher à entrer dans Xain",
+            "tes. Il ne s’eſt rien paſſé depuis la priſe de",
+            "Codecoſte. Monſieur le Prince de Conti",
+            "fait mettre touts ſes gens en quartier",
+            "d’hyuer.",
+            "On a fait iey pour Monſieur le Prince",
+            "quarante Compagnies de bons ſoldats qui",
+            "ont en garniſon dans les terres du Duc",
+            "d’Eſpernon, & font là̀ leur quartier d’hy",
+            "Il eſt arriué icy cinq Nauires Anglois",
+            "chargéea de bonnes aaauehanm di. entre",
+            "urres de beurres, bas, draps, plomb e.",
+            "rain, bleds, & quantité de ardines &",
+            "harans.",
+            "Ona trauaille inceſſammentaux Forts & aux",
+            "Tours de cette ville. Le Fort de la Baſtide",
+            "eſt en eſtat comme il eſtoit auant, & plus",
+            "fort.",
+            "Les Eſpagnols ont donneé aoooooo.",
+            "de pieces de 58. ſols des fines à la mon",
+            "noye, pour conuertir en louys blancs,"
         ],
         [
-            "Brres &tres dns edtes Prounces erone rems entre es mns de ceux qu en uoentgrde uprunt & es grnonsrerées de prt & dntre v Que tous es pronners ns nu excepter deprt & dure eront ms en erté vV Qund à Monond Artce deDecrton de Bordeux er exeeuté eonforme & teneur &Mjeté́ upé́e dgreeer que es oo hommes de ped oent eprez en qutre compgnesQue e fonds pourutnce dedts oe hommes & Offeers eneme de 5o cheuuxre tenus udt Mon rond pr MdmePrncee e montnràomme demos er é pr chcun n ur es receptesgeer es de Berry & de Bouronnos & rmemes ur Eecton de S Amnd pr preference à toute utre chrge & nto enre es mns du eur dA our Comufre & pyeurde de grnon"
-        ],
-        [
-            "e y Que pepôrts erontexpedez à tous edts Offeers Gentommes & utres yns pés prty dns edrs mouuements etns dns e dts Chteux Ves & Prounces memes u eur de Chmos Comte de Buy Rutn de Montterre Deguon Degme & utres yns emé deCuere en Normnde en Gt nos & ux enurons de Prs pr M deS Agnn premer Gent homme deChmre du Roy & commndnt er Prounce de Bery eques tous jouyrnt de dte Amnteyns ft e er ment de fde teé qus douenuàMjetéX Pour Moneur e Mtqus de Pern comme jms eu ucun nteret prtcuer ny utre quéceuy deconeruer e Chtu de Monnd MdmePrncee qu uy uot confé u nvoûu fte ucutrtépouron regrd & eteé euementccordé quoetr du dt Chteu deMon rondX2S Ledt eur Mrqs deé Peortr dudt C teu de Men rond ntdrtene pres trtue"
-        ],
-        [
-            "de MdmePrncee & de M e De dAn guen udt eu en cs qus y rruent dns 5o o ours non mdte Dme en verr es ordres neceres udt eur de Pern pour er dte pce àgrde degrmon eeus de eoo hommes de ped & de 5o cheuux uques edr eur Mrqus de Perntsfer ns ucune d fcuté XToute nfntere er ncemment centeée àreerue de oo hommes cy deus & touteCuere àreerue du Regment de Cuere dudt eur de Pern demeurer dns S Amnd y vunt ns exon & ns demnder ucune utnce ux peupes juqù nouue ordre dus Roy pour e centement dceuy Ft à Mont rond eOctore65o SgnéDE SAOVST DALVY MARE & LASNE Chez Gunme Sfer mprmeur & Lrre ordrre du Roy & de M e Mrech de Hopt Gou uernetr de Prs rue des Cordcrs nrocheSoronne ux deux Tourrerees"
-        ],
-        [
-            "e 2 n e ee e notGooge"
+            "pour faire monſtre à l’Armée de Mon",
+            "ſieur le Prince. On attend auiourd’huy",
+            "vnion de Thoulouze auec ceux de Bor",
+            "deaux, ouy ou non, bien qu’il ſe charge",
+            "touſiours des marchandiſes pour ces",
+            "quartiers, & il en vient icy. On tient",
+            "pour aſſeuré que Niſmes & Montpellier",
+            "e ſont declarés pour Meſſieurs les Prin",
+            "ces, & ont chaſſe quelques Religieux",
+            "que l’on ſoupçonnoit eſtre du parti de",
+            "Mazarin. Les ſieurs de Marſen & Balta",
+            "zard ſont allez ioindre les Trouppes de",
+            "Monſieur le Prince de Conty, ayant eu",
+            "duis que lIe ſieur de Pouyane Gouuer",
+            "neur de Dax venoit ioindre le ſieur de",
+            "Sainct Luc, Oa oi qu ’ils ſaront mal",
+            "traictez à la Garonne & à la Soauebœuf,",
+            "s’ils ne tourne les, talons.",
+            "On vient de dire qu’il y a eu combat à",
+            "Eſtafort prés de Cadocoſte: on ne ſçait",
+            "qui en a eu du bon. A l’autre ordinaire",
+            "vous ſçaurez toutes choſes.",
+            "On tient auſsi que dans les approches",
+            "de Xaintes il en eſt bien demeuté ſur la",
+            "place d’vn coſteé́ & d’aurre. Nous n’en",
+            "ç̧auons pas encores les particularitez."
         ]
     ]
 }

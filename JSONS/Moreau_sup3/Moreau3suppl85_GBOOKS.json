@@ -1,14 +1,11 @@
 {
     "entête": {
-        "form": "vers",
+        "form": "prose",
         "genre": [
-            "stances",
-            "chanson"
+            "texte officiel",
+            "arrêt"
         ],
-        "subject": [
-            "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
-            "Paris (France), Bois de Vincennes"
-        ],
+        "subject": "Louis, roi de France, XIV, 1638-1715",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -17,70 +14,230 @@
             "@when": "2022-08-09",
             "@who": "ZC"
         },
-        "titre": "La sortie de monseigneur le duc de Beaufort du bois de\n          Vincennes.",
+        "titre": "Arrêt de la cour de Parlement de Bordeaux, donné, les\n          chambres assemblées, contre la déclaration du roy publiée à Blaye le huitiesme du présent\n          mois, et déclare le cardinal Mazarin et sesadhérents criminels de lèze majesté, ensemble\n          la lettre dudit Parlement escrite à monseigneur le duc d'Orléans.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3suppl85_GBOOKS.xml",
+        "fichier": "Moreau3suppl8_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "L sorte de monsegneur e duc de Beufort du os de Vncennes Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Somon de Prezc Sorte () de monsegneur e duc de Beufort du os de Vncennes Prs Ron de L Hye 649 Texte prutrosème semne de jnver 649 dprès H Crrer Munch Bothèque de Étt de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En versstnces sept dzns doctosyes suf e derner vers qu est un exndrn Autre édtonsns p de ttre même dresse sns dte 4 p(BM00627) Pr Somon de Prezc dprès Cornescu confrmé pr Huert Crrer (Bothèque Mzrne Ms 468 f 273v) Texte prutrosème semne de jnver 649 dprès H CrrerMême édton que e Moreu 3695 édton dfférente de BM00626 (Bogrphe des Mzrndes) 85 Sorte () de monsegneur e duc de Beufort du os de Vncennes Prs Ron deHye 649 4 pges Dns édton notée sous e n° 3695 deBogrphe des Mzrndes e nom de mprmeur est àfn cest sur e fux ttre qu ftprncpe dfférence entre es deuxvers stnces chnson Beufort Frnços de Bouroendôme duc de 669 Prs (Frnce) Bos de Vncennes"
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX,",
+            "Donné les Chambres aſſemblées contre la Decla",
+            "ration du Roy publiée à Blaye le huictieſme",
+            "du preſent mois.",
+            "Et declare le Cardinal Mazarin & ſes adherans",
+            "criminels de leze Majeſté.",
+            "Enſemble la Lettre dudit Parlement eſcrite à",
+            "Monſeigneur le Duc d’Orleans.",
+            "A PARIS,",
+            "De L'IMPRIMERIE de la Veufue I. GVUILLEMOT, ruë",
+            "des Marmouzets, proche l'Egliſe de la Magdeleine.",
+            "M. DC. LII."
         ],
         [
-            "LA SORTE  DE MONSEGNEVR  LE DVC  DE BEAVFORT  DV BOS DE VNCENNES  STANCES  en e ee e  oedece en du e e upn  e nnocent comme u coupe  upere ms trte pron  Quon eut ds peu de ron  P rmer de Tours effroy  Puque nt de Portes dr  Et tnt dArgus mptoyes  Nempechét ps quvn Duc neehppe de ton en"
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "QA5 VR ce qoi aeâe repnedemé à la Cour pasr les",
+            "Gens du Roy , 4a’lleor a eſe porte copie de",
+            "Q œrraina Dedaiation publueoes la vie de",
+            "Blaye, la haioſne daui pdeas aaois, & qſil",
+            "et oanifeâe qaœoeate pioce, uoy qu’elle por",
+            "ar e lsaogſte da Majeſté eſ l’ouurage",
+            "domeuomemai, ſa onnle d puiſ noſoondire s",
+            "graces, & ne fe elater fon ndignaion. fi elle n’eſtpouſſée",
+            "par ’les bauemensdu daaore les mauaéiſes anpreſſions de",
+            "comle qui ſurprend los aans les pls fies & la Sageſe",
+            "plos eſclaisêe des Prinć: Cet eolarala Odaaue la",
+            "efſation de la luſtàce Souueeaiue & ine ditous les Ordnes de",
+            "a Proiace, eqalpouvo y cuſer du deſrdre per l’imp",
+            "ûité deserimes, da lcsncedeogums doste, & la confu on",
+            "as ie eillle, La aſtioe t le lian la osrce des Eſtas",
+            "L’ôtet d’ne Ptouince., et iadaodoire le violene & le brigan:",
+            "dasge que les Lolx oat polnie de repeier, ceſt par ſa luſtice",
+            "hé f’Meſtéreg & par la heſtceyaoſebs poedeceſſeaus oat",
+            "eaiſûtourenaœt,amefne Decliableſſo,tn les",
+            "eſetsde lai Curaqu’auineaaa la partiela plaes ſenſble & la",
+            "fus dicte, qui aſt bonoaur; le epoche qſi leux eſt fait",
+            "fideiré, ſoeocapable d’effacerde l’eſpnis des infeieurs",
+            "érefpet e àloss uges aroels ,i dans çt. aarglhie",
+            "pporteuequerubleEſtx, e oſablangager lef peu",
+            "ples à, deseioteteœdtargeecadaAHe deplas onſietable",
+            "cte Dedaaoasayataalaoique lasRmqoau"
         ],
         [
-            "Ce Donjon qu morgueTerre  Et dont e fste mpereux  Seent uques dns es Ceux  Mépre es coups de Tonnerre  Ce eu qu te ert dornement pus veu dns vn moment  Renuerer ̀ s fon udce  Lrtfceurmonté  Et ces murs ont cedépce  Aux urprenns effors deute  Ouy grnd & genereue courge  e us ds dmrton  De vor pr quee nuenton Ts es grenty du nufrge  2  Ton esprtuueé ton corps  Jtré du rng des morts  Pr vn oyen eépouuente  Auß te voynt hors des fers  Joe tenr pour verte  Que nous pouuons foreer es ecots des Cnfers"
+            "4",
+            "ees o donnée pa la Cous, ſur l’enregiſtremant d’uoe Deola",
+            "ration precedente contre Moſſieurs les. Princes de Condé e",
+            "dé Conty, c’eſt faire violence à la Iuſtice, & luy oſter la hberté",
+            "d’appuyer l’innocencer Qupu’ienſoit LA COVR, qui",
+            "uroit vn extrê̂ne régret ſé vôr ſa Marjeſté indignée eontre",
+            "elle, a cetce conſolation, que ceux qui ont taſché de dé́crier ſa",
+            "condaite ne l’aceuſent que d’auoir ſouhaitté la revnſon de la",
+            "Maiſon Royale & le bien de l’Eſtat, Il eſt encore eſtrange, que",
+            "par vne ſeole Declaratioa oa decide la deſtinée de tant de Fa.",
+            "milles & de taat de Villes, qu’on nterdiſe vna Parleent lans",
+            "connoiſſance de cauſe, qu’on condamne toutes les Compa",
+            "gnles Subalteenes, & oblige tous les habitans des Villes de la",
+            "Prouince de ſe rendre à la ſulte du Roy, finalement l’limpoſſi.",
+            "é́ de l’execution. La datte de cette Declaratlon, conceu",
+            "dés le dixieſme Deceuabe, auant que la Cour euoſt ordonne",
+            "es Remonſtrances, qul ont ſeroy de pretexte poue l’ensoye;",
+            "La publication faice à Blaye coatre les fornases font autant de",
+            "marques de la preoccupatlon ds eluy qui l’a ſugge ée, &.ſe.",
+            "ront à l’aduenir autant de flerriſſares à ſa memoire:Sa Maijeſté",
+            "ggrra qu’vn iour on luy potce ces plaintes, & que, la Cpur",
+            "uy teade ſes ſoubmiſſions’auee tout le reſpect & taute l’hi",
+            "liation que luy doiuent de tre fideles Subjects. Lecture faite",
+            "de ladite Declaration, & leſdits Gens d Roy ouys en leurs",
+            "concluſions: LA COVR, les Chambres aſſemblées, a ordo",
+            "né & or donne que treunbles Remonſtrances ſeroat fais",
+            "u Roy par eſcrit ſur llas portance de ladite Declaration , e",
+            "cependant que ſous le bon plaiſir de ſa Majeſteé, ous les Offi",
+            "ciers de la ville & du Roſſort de ladite Cour contlnuërone l’g",
+            "xercice de leurs charges, & e conſequence de la Declaratiqn",
+            "du Roy du mois de’Seprembre milſix cens cinquane;vn, r",
+            "reſts ſur ce interuenus & contrauention, tant à ladite, Decla",
+            "ton qu’auſdits Arreſts, L a nrt C o n a declar; deola.",
+            "re le Cardinal Ma zarin & ſes adherans criminele de leze M",
+            "jeſté & pertutbateurs du repos publi. Enjbint aux Comn",
+            "nes de leur eourir ſus. ces fins leur perret de s’aſſemble au",
+            "on du Baffroy, & que la Nobleſſe &tous ceu qui font prjfe",
+            "âon des armes ſeront ehorez de oppoſet u paſſage dudje",
+            "Cardinl,"
         ],
         [
-            "fr    &  Certes qund e te confdere  Decendre ̀ yde de tes rus  Et fondre comme vne Age en Mon cœur pre & ne e peut tre  De cet effroye dnger  Vn cordeu t ce degger   E ofter ds mns deEue on Deu que eftrnge ort  e qu rut ouuentve  Te uue eureuement du gue demort cette ute voenee  n Erempt vuut oppor  Que y erut de rejter  Ton rs e mt hors de defene  En vn & ̀ dueres fou  Jchot d́euervox  Lngoe e force ̀ e tre  Quon te oue uec ron  n quu pus fort de t eoere  u e fs euement rder comme vn Oyon"
+            "Cardlnal & de ſes Troupes. Ordonne auſi ladite Cour que ſur",
+            "es plas clairs deniers des reuenus des Benefices & autres effet;",
+            "dudit Cardinal, il ſera prins la ſomme de cent cinquante nil Ii",
+            "ures par preferance, poar eſtre baillée à celuy ou ceut qul le",
+            "repreſencetont à Iuſtice mort ou vif, ou à̀ leurs hericiers. Auſ",
+            "quels le Roy ſera tres humblement ſupplié de faire expedier",
+            "des Lertres de pardon s’ils eſtoient preuenus de critae, antre",
+            "eantmoins que de leze Majeſté:Declare les Officiers du Roy,",
+            "Gouuerneurs de places & tous autres qui aurôt fauoriſé le pal",
+            "ſage dudis Cardinal, & l’auront eſcorté de leurs perſonnes ou",
+            "de leursTroupes, pareillement crimiuels de leze Majeſté, &",
+            "décheus de touates charges & Gouuernemens, meſme du priui.",
+            "ege de Nobleſſe. Ordonone en outre ladire Cour que le Sieur",
+            "Duc d’Otleans ſera prié d’appuyer de l’authorité du Roy & de",
+            "ſienne la Iuſtice du preſent Arreſt, lequel aux fins qu’il ſoit",
+            "otoire à tous, ſera leu, publié & affiché par tout ou beſoin ſe",
+            "a, & enuoyé dans toures les Seneſchauſſées & Bailliages du",
+            "Reſſort de ladire Cour, pour y eſtre fait ſemblable lecture &",
+            "publicatioo. Faita Bourdeaux en Parlement,toutes les Chan.",
+            "bres Aſsemblées, le . Ianaier 6j2.",
+            "Signé, SvAV.",
+            "Collation par aoy Conſeiller Seeretaire da Ro;y, Maiſo",
+            "Courooe de race & de ſes Fiaces."
         ],
         [
-            "4  S  Enfn uunt t deftnée  T te coues dns e foßé  Et ton corps ̀ demy froßé  3  Sent t vertus dmnuee  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  TArrche du Bos de Vncennes  Hes grnd Prnce qu ft on  Per r es fots deSeme  Putot que r es fots du funete Acheron    2 Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes ps  Adeu deoéRmée  Peure m perte ns exce  Cmez votre rge nmée  Vous uez mon Chpeu ftes uy on procez  E N A PARS Chez RoLn EHye pres e Puts Certn"
+            "p e 2.oI.!l.ih",
+            "..",
+            "22..s:..2 i. 2ili el al",
+            "l i:.:1..",
+            "h",
+            "A. 8",
+            "2",
+            "! 2.... ..L",
+            "’2. ’::. il2Li 2i",
+            "3.",
+            "2",
+            "e",
+            "i’e",
+            "o:2",
+            ".",
+            "2 .,:",
+            ".2 ..iih e",
+            "2.",
+            "2!",
+            "ni:12 2n! i.",
+            "D 2 ’ tno :i",
+            "2..",
+            "l1 !e",
+            "2r:!.D.",
+            "l.",
+            ". l: el ii nlen:i el",
+            "n ihe: lie , l l.: éoioon",
+            "l2.ieri.n a2e2! es ouno3,",
+            "ie1:.a1 O oi.i h2.",
+            "r",
+            ". .",
+            "ud e izl..iaelid:q",
+            "Li.2::l",
+            "e Aiunel .s ol. edmoeiA aod",
+            "V2. Su",
+            "e a’",
+            ".L",
+            "n CGoole"
         ],
         [
-            "ru  prou  ce  o n"
+            "da,.",
+            "LETTE 3& DT rrr",
+            "AE V ’ALEMEN",
+            "2.",
+            "d R auv",
+            "A. MD SEl E V .",
+            "E Vy pEepuS",
+            "’",
+            "RLLPeR E B",
+            "TREONORE",
+            "ẽ lt R! Nous",
+            "voyons bien que l’intereſt que",
+            "vou preneZ au bien de l’Eftas",
+            "par vore rang & voſtre naiſſance, ne vous fait",
+            "point connoire de temps plus cher que celuy que",
+            "vos employez pour ſa conſeruation: voftfr",
+            "exemple qi doit animer tout le Royaume,",
+            "estémoignagst particuliers que vousnous faires",
+            "voir de qosſefhpeiy, ppdr fſair que les",
+            "eſtl qui uit dife dhlſ contre le cdardina!",
+            "CQaniu he ueea pas ſans eſfe, noau",
+            "eoient des oifs aiſſez paaiſans pouraninmer",
+            "le Zele que cette Compagie à toafiours eſmoi",
+            "ge pour le ſeruice du Roy dans ce rencontre,",
+            "qi nous oblige de donnmer de nouuelles aſeurances",
+            "voe ALTESSE ROTALE, ae"
         ],
         [
-            "4  Enfn uunt t deftnée  Tu te coues dns e foßé  Et ton corps ̀ demy froeé  Sent t verts dmnuee  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trche du BPos de Vncennes  Heus grnd Prnce qu ft on  Per ur es fots deSene  Putot que or es fots du funete Acheron  Adeu fcheue otude  Dou regrdnt ces Tours  Adeus Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes ps  Aeu deoéRmée  Peurez m perte ns excez  Cme votre rge nmée  Vous uez mon Chpes ftes uy on procez  F N A PARS Chez Ron e L Hye prés e Puts Certn"
-        ],
-        [
-            "o  roc  c  uooge"
-        ],
-        [
-            "4  Enfn uuntdeffnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßeé  Sent t vertu dmnueée  Les forces mnquerent ̀ ton cœur  Nentmons ton me ons peur  Trrche du os de Vncennes  Heus grnd Prnce qu ft on  Per ur es fots deSene  Putot que r es fots ds funete Acheron  S  Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  ous qu ccuez tous mes ps  Aeu deoéRmée  Peure m perte ns excez  Cmez votre rge nmée  Vous uez mon Chpeu ftes uy on proce  E N  2 A PARS Chez Ro e A HYe prés e Puts Certn"
-        ],
-        [
-            "4  Enfn uunt t deftnée  T te coues dns e foßé  Et ton corps ̀ demy froßeé  Sent t vertu dmnueée  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du BPos de Vncennes  Heu grnd Prnce qu ft hon  Per r es fots deSene  Putot que or es fots du funete Acheron    Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Angmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes ps  Adeu deoéRmée  Peurez m perte ns excez  Cmez votre rge nmée  Vous uez mon Chpes ftes uy on procez  F N A PARS Chez Ron oE LA Hve preés e Puts Certn"
-        ],
-        [
-            "4  Enfn uunt t deftnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßeé  Sent t vertu dmnuee  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du os de Vncennes  Heus grnd Prnce qu ft on  Per ur es fots deSene  Putot que r es fots du funete Acheron    Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccue tous mes ps  Adeu deoéRmée  Peure m perte ns exce  Cmcz votre rge rmée  Vous uez mon Chpeu ftes uy on proce  E N A PARS Chez Ro EeHyE preés e Puts Certn"
-        ],
-        [
-            "4  Enfn uunt t deftnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßeé  Sent t vertus dmnuee  Les forces mnquerent ̀ ton cœur  Nentmons ton me ons peur  Trrche du os de Vncennes  Heus grnd Prnce qu ft on  Per ur es fots deSene  Putot que r es ots du funete Acheron  4  Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes ps  Aeu deoéRmee  Peurez m perte ns exce  Cmez votre rge rmée  Vous uez mon Chpeus ftes uy on procez  EN A PARS Chez Ro Ee LA HAYe pres e Puts Certn"
-        ],
-        [
-            "4  Enfn uunt t deftnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßé  Sent t vertus dmnuee  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du os de Vncennes  Hes grnd Prnce qu ft on  Per r es fots deSene  Puftot que ur es fots du fnete Acheron  Adeu fcheue otude  Dou regrdnt ces Tours  Adeu Portes qu tous es ours  Anugmentez mon nquetude  Adeus trop vgns Sodts  Vous qu ccuez tous mes ps  Adeu deoéRmée  Peure m perte ns excez  Cme votre rge nmée  Vous uez mon Chpes ftes y on procez  FN A PARS Chez Ron e LA HAve prés e Puts Certn"
-        ],
-        [
-            "ro  roc  c?  e"
-        ],
-        [
-            "4  Enfn uunt t deftnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßeé  Sent t vertu dmnueée  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du Bos de Vncennes  Heus grnd Prnce qu ft on  Per ur es fots deSene  Putot que r es fots du funete Acheron  Adeu fcheue otude  Dou regrdnt ces Tours  Adeus Portes qu tous es ours  Augmentez mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes p  Aeu deoéRmée  Peure m perte ns excez  Cmez votre rge mée  Vous uez mon Chpeu ftes uy on procez  EN A PARS Chez Ro pe LA HAYE pres e Puts Certn"
-        ],
-        [
-            "ron  pro  c"
-        ],
-        [
-            "4  Enfn uunt t deffnée  Tu te coues dns e foßé  Et ton corps ̀ demy froßé  Sent t vertu dmnueée  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du Bos de Vncennes  Heus grnd Prnce qu ft on  Per r es ots deSene  Putot que ur es fots du funete Acheron    Adeu fcheue otude  Dou regrdnt ces Tonurs  Adeu Portes qu tous es ours  Augmente mon nquetude  Adeu trop vgns Sodts  Vous qu ccuez tous mes pt  Aeu deoéRmée  Peure m perte ns exce  Cme votre rge mée  Vous uez mon Chpes ftes uy on procez  EN A PARS Chez Ro e LA HYE pres e Puts Certn"
-        ],
-        [
-            "4  Enfn uunt t deftnée  T te coues dns e foßé  Et ton corps ̀ demy froßé  Sent t vertu dmnueée  Les forces mnquerent ̀ ton cœur  Nentmons ton me ns peur  Trrche du BPos de Vncennes  Hes grnd Prnce qu ft on  Per ur es fots deSene  Putot que ur es fots du funete Acheron    S Adeu fcheue otude  Dou regrdnt ces Tours  Adeus Portes qu tous es ours  Augmente mon nquetude  Adeus trop vgns Sodts  Vous qu ccue tous mes pt  Adeu deoéRmée  Peure m perte ns excez  Cmez votre rge mée  Vous uez mon Chpeus ftes y on procez  EN  2 A PARS Chez Ron e HYEe prês e Puts Certn"
+            "s",
+            "r’l pouis reeeudr d’uumatos co ’éet",
+            "objet de la haynme. vnineee, naasle rado",
+            "blerions paur nous conformer aux ſetimens",
+            "de vofre ETCS’EROLE, la",
+            "r r 7",
+            "quaelle nous prnions encur de volair fortifcr de",
+            "sathorité dé ſes ernié, lé Iaitedeos Avefts",
+            "contre cetta puiſfaee gitineu ar rance",
+            "n’a que trop loniemps ſoufferte, de croire",
+            ".",
+            "qs noaus ſommex,",
+            "A",
+            "Tres Illuſtre & treshonoreé Seigneur,",
+            "r",
+            "o",
+            "Vos rerhumbles xtebeiſ.",
+            "Eénit à Bouir.",
+            "Ians ſeriteursles Genis tenans",
+            "enParlement,le",
+            "Chambres aſ",
+            "? la couit de Parlemendeour.",
+            "cebleta le deaux Sigé;s Vy. 1",
+            "anuieté.",
+            "fta h",
+            "S",
+            "o",
+            "2 .2",
+            "v",
+            "A O ’’ e."
         ]
     ]
 }

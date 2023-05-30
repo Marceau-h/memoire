@@ -1,54 +1,181 @@
 {
     "entête": {
-        "form": "prose",
+        "form": "vers",
         "genre": [
-            "requête",
             "rhétorique délibérative",
-            "discours adressé",
-            "lettre"
+            "requête"
         ],
+        "subject": "Librairie",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
+        "creation": "1650-09-02",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
+            "@when": "2022-08-23",
             "@who": "AB"
         },
-        "titre": "Requête des intéressés aux prêts et avances, présentée au\n          roi.",
+        "titre": "Requête des marchands libraires du Pont-Neuf, présentée à\n          nos seigneurs de la basoche, en vers bur lesques.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3487_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3488_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Requête des ntéressés ux prêts et vnces présentée u ro Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Requête des ntéressés ux prêts et vnces présentée u ro Sns LeuSns Nom650 Lyon Bothèque muncpe de LyonRés 3242TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3487 Requête des ntéressés ux prêts et vncespré sentée u ro (S650) 5 pges On yjont des extrts des ettres du crdn dOsst et des procèerux des Étts de Bos 576 Les ntéressés demndent exécuton de rrêt du Conse en dte du 7 novemre 649 Les extrts (ettres et procèerux) qu suvent ne sont ps présents dns cette numérstonprose requête rhétorque déértve dscours dressé ettre"
+            "REQVESTE",
+            "DES",
+            "MARCHANDS LIBRAIRES",
+            "DV PONEVF,",
+            "Preſentée à Noſſeigneurs de la",
+            "Bazoche.",
+            "EN VERS BVRLESQVES.",
+            "M. DC L."
         ],
         [
-            "3 RE QVESTE DES NTERESSEZ AVX PRESTS ET ADVANCES PRESENTEE AV ROYM DC L"
+            "REQVESTE",
+            "DV PONT NEVF.",
+            "A Noſſeigneurs de la DBazoche,",
+            "Reboutteurs lurez d’hanicroche,",
+            "Hautuſticiers en Mardras,",
+            "uges des douanglants combats,",
+            "De Themis illuſtres fantoſmes,",
+            "Des Magiſtrats, Singes & Momes,",
+            "Dont puiſſe regnerle renom",
+            "n ſaecula ſeculorunm.",
+            "Duſque res bumbement ſupplie,",
+            "Pon neufdeſtructureaccomplie,",
+            "Promenoir de ous faineants,",
+            "Vauriens & meſmevauneants,",
+            "A",
+            "A.?"
         ],
         [
-            "t&t A? eje eeo e e oe seo ogép tt tte e7 7D AVROY V ET ETT A NOSSEGNEVRS de on Cone uLes ynetereez ux prets & dunces ceumt ftes ̀ Vftre Mjefté uy remontrent tres umemenmt Que e muus ett uquee onms es fortnes prues de tnt de fnes reuo qunt pr vn cte de punce toutes es gnton qu eur uoent eteé ées eur donne eu rce dppeer votre onté ̀ eur ecours & dempoyer dns vn eonprent e dcours &ron porexcter otre Mjeté ̀ eur ren dre utce J net ps necere dexpquer ques deordres cetre reuoctonprduts es msses utes ent ez coegnuës de tout e monde Le pu c certnemnt enouffert &ne erurot de A j"
+            "Rendeous à toute perſonne",
+            "Mauuaſ, toyenre & oonne,",
+            "ea tre commun en tout temps",
+            "Aux balidins &l charlatans,",
+            "Chanteusrs de diuerſes ſornettes,",
+            "Et ioueurs de marionneltes,",
+            "Lieu de retraite à bandolliers,",
+            "Soldats des Gardes, Eſcollers,",
+            "Laquais chaſſez, traiſneurs d’espées,",
+            "Et che. cheurs de franchs lippés:",
+            "Paſſage où iamaison nefut:",
+            "Sans q’außoſt onn’apperceut",
+            "Dieu me preſerue de méfdir,",
+            "Cocus, oines, ou fille arire;",
+            "Mais encor plus que toot cel,",
+            "Pont neufayan cet honneurlà",
+            "D’eſtre la deeure qcienne.",
+            "De ſa Majeſtébronienne.:",
+            "Dſant que lonemps ceuant",
+            "Et meſme encor uparauanl",
+            "eft oiten pleine puiſſance,",
+            "Poſſefßion & iou yſſance",
+            "De receoir deſſus ſon dos,",
+            "Tous reuendeurs petits &gros,",
+            "Quelaque que fuſtleur aarchandiſe,",
+            "Sas",
+            "24"
         ],
         [
-            "4 ren de e dmuer pus que cet vne verteé qu t puscches ̀ peronne Lon uot cre qe ces tot vn remede conuene uc fres preentes msen quequeos qu ont pres que es muxnypont de temps oùuftce ne ot deue &ne e peut que Ett cneruereputton &dgntéon y mnque de foy ̀ ceux qu ont fté de eurs ens commenypus de foyes detes ne e pyent pont &ceux ̀ quet deu ont reduts ̀ ce mheur de perdre efpernce de retrer ce qus ont preté ̀ V M Quee en de Etteté eé pr ce mnquement de foy quft perdre e credt & deftrus es fndements dereputton e peu dre comen es prtc ers en ouffrent? s ont ft eurs prets & dun ces ̀ V&ont uuy s foy quo euresté due nee prReyne Regente votre Mere & pr vos Mnftres s ont empoye tout eur credt pourtros er es ommes de deners que voftre Co eurdemndees Les ources de vos Sujets es ont for nes utnt pr ffecfon que pr nteret pourgore de cette Couronne Quee uftce epresce duor reuoqué eurs gnrons & rerre es fonds detnez ̀ eur remourementVen q s perent & que tnt dutres fmes qu e trou uent enggées dns es prefts & dunces qus onst tes & eurs crencers en nomre nfny tomoens ec"
+            "Sans eſgard de Maiſlre ou Maiſtriſe:",
+            "Mais entr’autres certans quidans",
+            "Souuent amuſeurs de’Pedans",
+            "Aui bien que d’aure perſonne,",
+            "Dieu leur doint vie longue & bonne:",
+            "Ces pauures gens chaque matin",
+            "Sur l’espoir d’vn pett butin,2",
+            "Auecque toute leurs familles,",
+            "Garçons, apprentifs, femmes, filles,",
+            "Chargez leurs cols & plein leurs bras",
+            "D’vn ſcientifique fatras,",
+            "Venoient dreſſer vn eſtalage",
+            "Qui rendoit plus beau le paſſage,",
+            "Au grand bien de tout repoſant,",
+            "Et honneur dudit expoſant,",
+            "Qu tous les iours deſus ſes hanches",
+            "ExcepteZ Feſtes & Dimanches,",
+            "Temps de vaccance a tout traffic,",
+            "Faiſoit debiter au puhlic,",
+            "Denrée à produre doctrine",
+            "Dans laſubſtance cerebrne,",
+            "Et ce durant long laps de temps,",
+            "Par dix, vingt, trente & quarante ans,",
+            "oire par temps dont la meoire",
+            "Eſt plus vieille que le Grimoire,"
         ],
         [
-            "3 uec euc pouruor ft ce que des ujets fdees ffectonnez douent re dns es eons de Etr? Certnement cedeen erot etrnge & peu dgns dus nom & dgore deFrnce Lon vo des exempes dnsoce de ncenne R omepue ge qu fut ms ò e Prnceouffenufoy2 chncente des prtcuers desdeners de on E prgne eur prestnt envne eue fos ept nons cn cens m ures pour mntenr e creds &reputton & pourempecherperte des ens &rune des fmes de cette grn de Ve Ce ft vnecton genereue qu e p ous Empereur Tere &qu dns vne mefe occoneste mte pr e feu Roy en nney5 ynt efe rré n r gne notes omomes de deners por otenr e credt deMjefté & de cex qu oent ccoutumé de ternet ps mntennt qe eon que V M ve dve erté enuers es Sujets pour ppuyer e credt & fre ufe euortu es prtcueres On ne y demnde quvre con de ftce VMnt e demr vos ujers jont es créncerss uyo preté r en s ppent uec tout e repefqs uydouent d pourur ̀ eur remourement & de guenx tette mheuuee p yequs reucro de eurs gntonstesfoypuque Ceuos ms ete prtqué dns ce Royume u contrre on çr q en n B"
+            "6",
+            "Breftemps qui que trop ne ſaffit,",
+            "Pour poſſeder auec proſit",
+            "Et conſeruer ſans aucun doute",
+            "Poſſeßion de choſe toute,",
+            "Meſme par les trcis derniers ans",
+            "Au veu & ſceu de tous paſſans,",
+            "oire des parties aduerſes",
+            "Qui par fois maintes & diuerſes,",
+            "Ainſi que che tifs regrattiers",
+            "Venoient roder tous ces quartiers,",
+            "Eſcumant par fine pratique",
+            "Tout le meilleur de la boutique:",
+            "Car pour peu tel y a tondn",
+            "Soucquin cherement reu ndu;",
+            "Et Palais & ruë ſainct Iacques",
+            "ont ſouuent bien fait leurs Paſques:",
+            "Neantmons depuis quelques mois,",
+            "Qui tout au plus font trois fois trois",
+            "Palais & conſors par mlce",
+            "Pochant les yeux a la luſiice",
+            "Par la vrtae d’vn parchemin",
+            "Qn n’eſt pas plus grand que la main,",
+            "s ien mieux ſauy qu’Euangile",
+            "Ont tout ſoudan fait faire gille",
+            "Au ſaſdits pauures mercelots,"
         ],
         [
-            "6 neée r6 u temps des tts de Bos on dqumd toutes es detes que es Roys FrnçousHenryFrnç̧osChres X & Henryqu regnot ors uoent creees qu montoent ̀ cent vn m ons x cons m uress & que o grdfoyoux crencers uqus es remouremens de d omme furent fts Cet exempes eft utre & goreux & VM fnt encerte ocourronce vne cton de utee fer ce queté ft utresfos dns on R oQyume en pree rencontre & dns des necee u prentes Qundny urot que cette conder ton que cet vne cton honnete es Supns uroẽt tout ujet de eperer ms de pus ee et ve V prce que pouruoynt̀ eur pyement vous re tezfoy& e credt qu ont es fondemés es pus mportns ̀utnce deEftt Le de ordre queupenon des pyemens cu ux ff res dEpgne en n yp6 peut eftre cy repreenté ̀ V Mcomme vne conderton puque Lvn des pust grnds Mntres que e Roy Henry e Grnd vore yeu t eu e Jte s remrqueé que ce mquement de foy fut honteux ̀cette ouronǹ Qu uy ft perdre e credt &mt dns des df cutez extremes Ct effet ordnre de emes reoutons qu ont touours dngereues s qu ont u contrres ̀equts prncpemẽt qund e Prnce et deteur ̀ es Sujts qu douent t"
+            "Et ſerrer leurs doctes ballots,",
+            "Si que l’expoſant pour cette heure",
+            "N’eſt plus que ſterile demeure:",
+            "Et de ceux que l’on dit tiltrez,",
+            "Gens ignares & non lettrez,",
+            "Puiſque ſi crue lle a enture",
+            "Luy rauit ſa lierature.",
+            "CE CONSIDERE, NOSEIGNEVRS.",
+            "Peaux reiettons de chicaneurs,",
+            "Attendu que depuis peu meſme",
+            "Tallonne pardiſette extrem",
+            "Ces pau vres Libraires chaſſeZ,",
+            "Deuant Sorbonne eſtans place",
+            "N’y reçoiuent pas dequoy viure,",
+            "Faute d’yvendre vn meſchant liure:",
+            "Et tel ſans denier y toucher",
+            "S’eſt bien ſouuet allé coucher.",
+            "Ordonner ſoudain il vous plaiſé,",
+            "Nonobſtant ce qu’en diſe Blaiſe,",
+            "ramoſy, lean Petit, Macé,",
+            "Sommauille & tout ramſſé,",
+            "Qu’en tout repos. pai, aſjeurance,",
+            "Toſſßtron & iouſſance,",
+            "Auromne, lyuer, tſté, Printemps,"
         ],
         [
-            "tendre de uyutce &protecton Que pres uor conderé e m que cette ctonprodut dns Ett du pus punt de nos vofns on veut uurr es yeux ur e en queconeruton deproe defoycué dns e pets Ett des Prounces Vnes des P on reconnotr qu net ps dffce de donner ̀ vos Sujets e ou gement qss demndent Cet Eftt qu net quvn pett con de terre ̀ egrd de votre Royme ft enggeé de pus de x vngts mons en prncp & conerue nentmons on credt pr e pyement qu ft regément & poncdtueement des nterets & de prte ds prncp Le onordre que ceux qu e gouuernent y ont etyteement ueu réreputton quon uy offre pus drgent qu nen vet receuor Les dunces ftes ̀ Vne çuroẽt monter ̀ eucoup pres des detes de Eftt desHondous Que on donne es ordres neceres pour e remourcement des prets ur e fonds de vos reuenus que cependnt on pye effectue ment es nterets egtmes du prnp onremee tr e credt ns eque on ne dot pont efperer e retement des ffres n on donner moyenceux q ont ft es prets de contuer eurs er uces ̀M contenter eurs crencers qu ne peuent e tsfre ne receunt ny prncp ny nterefts & qu pr es contrntes qus exercent"
-        ],
-        [
-            "ourneement contre es Suppns es reduront u derner mheur & ̀ vne rune neuteVM ne es outent demn punte & ne eur donne e ougement qu eur etnecere com me ee e peut pr vne ute dpenton des fonds & reuenus de on Eftt A ces cues SR Epe ̀ V M pourueor u remourcement effe ctf de tout ce qu e trouuers deu ux Suppns uunt es qudtons qu en ont ete & erons ftes pr Mefeurs es Commres ̀ ce deputez Et en meme temps eur gner e pyement de eusr deu dns es termes es pus prompts que V M d uer ur es deers de es fermes receptes gene res & utres reuenus eques y demeureront ffectez pour etre edtes gntons pyées con curremment uec es prtes de votre Eprgne ns ucn duertement ny retrnchement pour que qe cue ou occeon que ce ot Et cependunteur fre dés ̀ preent pyer en deners comptns es nterets ̀ commencer u premer Jnuer de preente unmée so & contuer uques ue pr ft pyement dudt prnep Et pour eureté de ce que deus fre expder voftre Decrron pour etre verfee u Prement Chmre des Comptes & Cour des Aydes de Prs Et s con tnueront eurs tremes preres pournt & properté de otre jetéEX 2"
+            "8",
+            "Soit qu’il pleuue ou faſſe beau temps,",
+            "Les ſuſdits Libraires de grace,",
+            "Seront remiusdedans leur place,",
+            "Ct le ſupphiant dans ſes droits",
+            "Gardé tout ainſi qu’autrois:",
+            "Faiſant nhibitins grandes,",
+            "Sur peine de rudes amendes,",
+            "Deſpens, dommages, intereſts,",
+            "De les troubler, Et bien fere",
+            "FIN."
         ]
     ]
 }

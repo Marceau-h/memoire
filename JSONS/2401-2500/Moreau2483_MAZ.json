@@ -1,49 +1,142 @@
 {
     "entête": {
-        "form": "prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-01-18",
+        "creation": "1649-02-11",
         "change": {
             "@status": "corrected",
             "@when": "2022-03-16",
             "@who": "AB"
         },
-        "titre": "La misérable chûte du ministre d'État étranger, son\n          bannissement, sa fuite préméditée et sa retraite en Turquie.",
+        "titre": "La mission des partisans à ce qu'ils méritent.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2483_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2484_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L msére chûte du mnstre dÉtt étrnger son nnssement s fute prémédtée et s retrte en Turque Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 L msere cheute du mnstre dEstt estrnger Et son nnssement s futte premedtée & s retrte en Turque Prs Frnços Noë 649 dernère semne de jnver 649 Prs Bothèque MzrneM352TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Texte prudernère semne de jnver 649 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 62v)2483 Msére () chûte du mnstre dÉtt étrngerson nnssement s fute prémédtée et s retrte en Turque PrsFrnços Noë 649 8 pges Cest encore pus sot que rreproseLettre du prement de Prs ux utres prements du royume 64"
+            "LA MISSION",
+            "DES PARTISANS",
+            "à ce qu ils meritent.",
+            "ALLEZ Monopoleurs, allez maudtie raſſe,",
+            "Que bieoſt le DBourreau vous rompe & vous fracaſſe;",
+            "Et ie ſouhaitterois ſi ie n’eſtois Chreſtien,",
+            "Que vos dmes maudies, comme ne valans rien,",
+            "S’en allaſſent d’icy dans le puys de l’abiſme,",
+            "Pour eſte ourmentez de là peine du crime",
+            "D’auoir pilé la veufue, & volé l’orpbelin;",
+            "Car vous eſtes voleurs & le ſerez ſans fin,",
+            "Si Dieu le Touuiſſant exercant ſa juſtice,",
+            "Bieoſt ne vous enuoye à vn honteux ſupplice",
+            "D’vne roe os gibet, qui ſont des lits d’honneur",
+            "De tous les Partiſans, ces infames voleurs.",
+            "EN effect, quels ſupplices ne meritent pas ces harpies",
+            "nfernalles, qui ont cauſeé tous les maux que nous auons",
+            "ſſenty par ceuant & qui nous accablent mainte",
+            "nant ? adix omniam malorums, dit S. Paul, eſt cupidiras. La ̀ Tim.",
+            "convoitiſe ou l’auarice eſt racine de tous maux, nous le re. s v. 1o.",
+            "cognoiſſons bien veritable, puiſque leur ardent deſir d’auoir",
+            "rgent eſt cauſe de tous les meurtres, tyrannies & diſſentions",
+            "qui ont deſchiré les entrailles de la pauure France, ils ont fait",
+            "& font encore mourir vn miſlion d’Ames par la miſere & pas",
+            "e glaiue. Ce ſont des voleurs publics & des ſangſuéës inſatia",
+            "bles, qui premierement par les impoſitions & les daces ont"
         ],
         [
-            "LA MSERABLE CHEVTE DV MNSTRE DESTAT ESTRANGER ET SON BANNSSEMENT SA FVTTE premedtée &retrte en TurqueA PARS Chez FRANCOS NOEL ruë Snct cques ux Coomnes dHercues M DC XLX"
+            "tiré le ſang & la fubſtance de tout le monde, & en apres celuy",
+            "des Officiers particulierement par des Iaxes, en leur attri",
+            "buant de nonucaux droits aà̀ prendre ſur les peuples, pis par",
+            "vne engeance de miniſtres infernaux ou de ſuzeliers, ont",
+            "tourmcnté & eſcorché ceux qu’ils auoient deſpouillez; &",
+            "enfin par vne derniet einuention d’Ayſez, ont empriſonné &",
+            "eoſcatté tout le reſte, au moyen dequoy les vns & les autres",
+            "reduits aà la neceſſiteé, ne peuuent plus ſecourir les pauures,",
+            "parce qu’ils ſont tous apauuris.",
+            "Ainſi ces Partiſans, Trairtans & Monopoleurs, ſe ſont",
+            "gorgez des biens des pauures François qu’ils ont mis dans la",
+            "pauureté & dans la miſcre, & ont ſeruy d’inſtrument fatal à",
+            "Ambition & pillage des Miniſtres d’Eſtat, qui par leur entre",
+            "miſc ont eſpuiſé les Finances, abuſé de l’Authoriré du Roy,",
+            "eſloigné les Princes, & eſſaye de renverſer les plus ſolides",
+            "fondemens de la Couronne: Car s’il n’y euſt point eu de Par",
+            "tiſans, le Cardinal Mazarin n’auroit eu moyen de piller tant",
+            "de millions, ny ſoubs pretexte de la deſpenſe de la guerre,",
+            "euer des ſommesſi immenſcs qu’il a partagées auec eux, &",
+            "miſes enbourſes ou tranſport́es au lieu de payer les gens de",
+            "guerre, auſquels pour payement on a permis toutes ſortes de",
+            "pilleries & de cruautés: Er pour continuer ſes volleries, il",
+            "n’auroit pas rejetté́ ou ecmpeſché la paix aduantageuſe pour",
+            "nous lors que l’Eſpagne la demandoit a mains jointes.",
+            "C’eſt pourquoy il eſt abſoluiment neceſſaire de ne plus",
+            "upporter cette race maudite, ains les deſtruirec & s’en def",
+            "faire par les voyes de la Iuſtice, les condamnant aux ſupplices",
+            "qu’ilsont merités, & confiſquant leurs biens mal acquisr u",
+            "oy, pere commun des Peuples, auſquels les vols ont é",
+            "faits, pour les cmployer à̀ la choſe publique. Ce ſont des",
+            "monſtres de la nature, vne peſte dans l’Eſtat, qui tuent le",
+            "Corps par la miſere, & bien ſouuent les Ames par la neceſ",
+            "ſité, qui porte les hommes aà faire d’horribles crinmes; ce ſone",
+            "des louparoux qui déuorent leur ſemblable, & des De",
+            "ons incarnee quitourmentent les hommes ſur laterre.",
+            "Sainct Chryſoſtome parlant des Peagers & Publicains qui",
+            "eceuoieut ſeulement les ancieps droits de peages deubsaux"
         ],
         [
-            "3 LA MSERABLE CHETE DV MNSTRE dEtt Etrnger & on nnementfutte pre medtee &retrte en Turque Nn epreuue à̀ mon dommge que ce net ps ns ujet que on compre e vce à vn me dontet eucoup pus é deutercheu te que de sempecher de romer u ques u pus profond pres quonsy et e chor Cet mntennt que pprens que totou trd es mech̃s onr euerement puns de eurs crmes Que ont deuenus mes fteurs qu pour pre ̀ m vn reé portoent nguere mes oünges uques ux Ceux fn que mon vo temerre rendt m cheu te pus dngereue mtnt en ce Age qu pour uor mons de pene à cerToreé eeue e pus hut quee peut &e tomer Ne deuo e ps mmgner que ceux qu e trouuent dod dnse come dvne fecteéen ont putot eo queougez ̀ mtton de ceux qu gce dvne etreme frodure & mshte upres dn grd feu enrecouent pus dncommodté que de u gementyonemps que e me deuos conten rer d vnvomedoere n meeuer hut ms pu que y reeonnuverte & que e ny pu reg derumere ne reeme ps ̀Chuue ou"
+            "Princes, pour les recompenſer par le menu des groſſes deſ.",
+            "penſes faites aux Ponts & Chauſſées, & non pas des nouueaux",
+            "mpoſts & ſubſides inuentés & pris à forfaict par partis &",
+            "& traictez comme les Partiſans d’aujourd’huy, dit ces mots",
+            "en remarquables.",
+            "Quy l de pire qu’vn Publicain? Il profie de la cala",
+            "mié publique, il ſe rend participant des biens d’autruy,",
+            "ns regarder la miſere qu’il cauſe, c’eſt pourquoy le peché du",
+            "Pullicain eſt trerand; certainement ſon ation n’eſt auere",
+            "choſe qu’vne vollerie hardie & honeſte, vn peché permis par la",
+            "oy de ceux qui gounernent, vne rapine plaſtreée, partant rien",
+            "de pire que le Pablcain qui eſt ſur le chemin, & prend de ſes",
+            "prochains ce qui ne luy appartient pas: quand il faut trauailler",
+            "ne ’en ſoucie pas, mais quand le gain qui ſuit le trauail",
+            "vient, il ſe rend participant d’vne choſe où il n’a point",
+            "rauaille. C’eſt on loup en la Bergerie, vne beſte qui a la",
+            "forme humaine. Serm. 8.",
+            "Maeureux Partiſans, ſi ce grand Sainct a dit ce que",
+            "deſſus des Peagers, qu’auroil dit de vous qui eſtes mille fois",
+            "pirese Et ſi l’Eſeriture Saincte appelle les peagers gens de",
+            "mauuaiſe vie, à cauſe de leurs employs qui eſtoient beaucoup",
+            "plus ecquitables que les voſtres, qui ſont de vrayes voleries &",
+            "manifeſtes pillages, que diroille aujourd’huy de vous, qui",
+            "non ſeulement bleſſez, mais deſtruiſez la chariteChreſtienne,",
+            "quelque couleur & faux pretexte que vous puiſſiez donner",
+            "vos monopoles? Laiſſez, laiſſez ces mauuais traſics, quit",
+            "tez ces gains & ces vſures illegitimes contre les loix diuines",
+            "& humaines & celle de nature, qui inſpire meſme aux Bar",
+            "bares, de ne faire a autruy ce que vonus ne voudriez vous eſtre",
+            "fait, ayez regrer d’auoir exerce vn ſi maudit meſtier. Con",
+            "uertiſſeous à̀ Dieu, & reparez autant que vous pourrez le",
+            "tort que vous auez fait à vos prochains, autrement ce meſme",
+            "Dieu auquel les intereſts du prochain ſont plus chers que les",
+            "ens propres, vous priuera du boeur de ſon Paradis, &"
         ],
         [
-            "4 rs qune e peut pre à vor e Soe en quenture uy t donné des yeux pour e dcerner? Qu doe ceuer de mon eur que moy meme? Ne me deuotps uffre de trhr e Roy de trom perReyne de per es Threors du Royume & de fre mourr de fm & de mere es ujets ns en treprẽdre uec trop dudce & de remerté cétAugu te Prement de rs qu pour coneruer uthor té de on Monrque djettr de mTyrnne es puures peupes& empecher prrode rune m dvn eu coup de foudre ft chor ô pus hut de? mon oeur u pus s dedgrce & den fortune Pus quuec ce fmex Sent e voy encore tou teFrnce nmeé de fureur& de vengenooontre moy pour ce que pr mes ngnes rrhons e y me en deoton & en troues ̀ quoy me pe reoudre en cette extreteé́ Mes enores crmes me font ns ceecrndre & redoutere Ceter re eu r & e feu S e pene courr vers e Prds e me repre ente ot que mes mpetez me ynt rendu nccee me ont ft mon morte duerre? S e me dpoè me retrer en queque endrot que ce ot deChretenté y voy tout e monde rmé pour me freguerre? L mer ne dere ren tnt quà me vor fre nufrge dns es ondes Lrvou drot voonters snfecter à cue de moy pour nempoonner pr es vpeurs mortees Le feu n pont de pus ee mtcre pour rûer que dede uorer"
-        ],
-        [
-            "4 orer mon corps pr es fmmes Hes où u don reduttoutes es choes crées ne ont det nes oqu à fre merement perr ues Mzrn qu et en execrron ux Sncts & ux Anges & en vne tre detefte horreur ux hommes & à tourénture De mmgner udceuementque e foe prt qu set rmé pour me uuer me g rnte dupcr cetee que e ne pus ps eperer pr ce que cet nutemet qu protege pusn fme &pus mechnte de routes es oreures Le Prement de rs qu n ft prendre es rmes ux Frços oppreez que pour coneruer uthorteé́ du? Roy quey vurpée pour punn e rpt noturne que eny ft & pour deurer es peupes de op? preon ou y onemps que e es fyvure? trop de punce & de ron pourne vncre ps cœeux qu uec nutce ont epée ̀ mn pour m defene Les utres Premens e ont ontsàuypr vn enndoue toures Prounces qune re prent qupres eur erté ne eroyent ps ms ortr de m tyrnneees nncnent toutes à vouor ce que veuent tous ces Ages tuteres d Royume Cer utre Prnce e DucdOrens ne porte mesnterets quentnt queRuere on Fuory? mon oonfdent y oge e Prnce de Condéet vn Prnce de grnd cœur dexperence& de qu toutes es ctos pent pour des meruees m commeveur et extre me2 on eprt ne pu exceent pour e deu B"
-        ],
-        [
-            "er uy fre vor qu net ps ute à vn Premer Pence du Sng de srmer contre e Royume dontet vn des prncpux Atres en fueur dvn tr tre Etrnger quvoé tous es treors ft mou cr pr f tyrnn h pus grnde prte de es peupes neué on Roy & qu pour pus de crme encore veut eu sttruer on Authorte & rur s peutCouronne?et ndute Meer ues que ces Atees & que ces utres Heros qu e ont ez nenment deceuor à mes fues pprences erons en ot umnez de Deu pour vor cre ment mes mues ntentons que e confee n uor ms eu pour ut ot en Aemgne ot e Crogne ot en Fndres & ot en te que pour enecrCouronne dEpgne du ders de cee de Frnce S ce mytere dnquteé́ et vne fs dé́ couuert comme desjpus grnde prte deCour eh de ortes conectures & comme e Pre menc de Prs & tous es utres nendoutent désj pus ne do ps crore que es memes rmes que e fy gr contre e Royume e tourneront contre moeme pour punr exemprement e orps dont me etcrmnee? eé quoy mechnt & omne perturteur durepos puc ne us e ps condmneé & ny pr vn Arret utentque & oemne? mes ens nont s ps eté eonfquez? es communes ne ones ps commndeé́es de me courrusNon non m perte et eurée & e us utheur de trop de mux pour pouudor jms echpper àvengence deut ce Dune & humne"
-        ],
-        [
-            "Ne fus je pseue cue que tous es crmes que font es gens de guerre que y ttrez de toutes es pces fronteres es nt en proye ̀Ennemy pour freguerre ouuerte u Royume dont n d gnement on m ft e prncp Mntre? ne dos je ps etre puny de tnt de crmes que es odts commettent entnt dendrots deFrnce & me mement ux enurons de Prs quen vn y entte prs dffmer comme ny ynt pont dutre moyen pour e vncre? Cet ns doute que es voences es rgndges es ncendes es voences & tnt dutres ctes dhotté donte us utheur ont ex cté́fureur de Deu contre moy d Mzrn e voy e Ce rmé decrs & de foudre pout te ch ter dvne pree punton qu foudroy utrefos es Gens Hes toutes choes conpreroent à m conuer onuecConfeon genere que y fte de mes pechezuec mnde honore que y u fte tete & peds nuds en chemecorde u co &torche àmnne me fot ps ret tuer es cens mons que y deroez u Royume Msetmpoe que e me pue reoudrefre cette ute rettuton tntet vry que mon me et otnée enmechnceté & quee prefereperte à on ut En vn Omre du grnd Armnd Crdn Due de Roheeu mon contemporn m ft ces utes reproches nutement defr e verre denomrement de mon uxe de monorgue de mes"
-        ],
-        [
-            "8 srhons de mes vos de mes fces & de mesm petez pus que mon me et enduree & otné non peche mpe quee et mnt meux En Fer qué e Pe ds ue on conderey eutms u monde vn pus detete & pus ceert homme que e us entends ncemment ̀ mes ores s ers & es gememens des vefues des orphens & des puures nguns Lespremers n eeuent de more de eurs mrs es econds prennent moy dutreps de eus perens es ures n e ner me conun quent duor eté e eu u rheur de eur mere pus que eres hume emontrnce quee Prement de Prsfte u Roy &Reyne me e connotre qu demnde que m mort eps ous es eecres ermes que y fts ̀Frncee eonmtenmre dem cheute & pour euter mon up e e u ds dneu &e eondun du rndt nnd e qute pout er eourner ours M n que e Contrede poure cfne n denreure pour etre en eurenes pepns e nn eep ne nomme cue de nume Epgnene prduu e m m rhon nyrmon ndeee e n me detedteAngererreSuede e Dn enmreooneHogne & ondeenr mro me mee hnecere pourme donnerrer de ue fent e done ou ne rer e one ne ene u pu rooee ne cduene che oe ne eeet de per ms meehnte ve ̀ Contn nope prmy e nfdees FN"
+            "4",
+            "vous cohdamnara au feu eternel qui oſt proparé au Diable",
+            "àſes ſuppoſts. Reuenez à vous, s’il vous reſte vn peu d’eſprit,",
+            "& ne vous croyant pas plus ſage que le Sauueur du Monde,",
+            "quieſt la ſcience increée, meſpriſez les biens de la terre com",
+            "me il a fait pour plaire à ſon Pere; afin que par la conformite",
+            "de voſtre vie aux ctions de ſa vic voyagere, vous obrentez",
+            "conformité à ſa vie de gloire, qui eſt l’vnique bon eur",
+            "que ie vous ſouhaite."
         ]
     ]
 }

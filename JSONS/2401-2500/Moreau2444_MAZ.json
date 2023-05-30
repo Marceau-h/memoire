@@ -1,54 +1,58 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "mémoire",
+        "genre": [
+            "procès-verbal",
+            "mémoire"
+        ],
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Broussel, Pierre (vers 1576-1654)",
-            "Barricades"
-        ],
-        "creation": "1648-04",
+        "creation": "1650-09-02",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-16",
-            "@who": "AB"
+            "@when": "2022-05-16",
+            "@who": "MF"
         },
-        "titre": "Le mémoire des plus remarquables pièces faites depuis le\n          26 août (1648) jusques à présent, contenant une particulière description de toutes les\n          affaires et négociations de l'État, et des barricades, avec l'emprisonnement de M. de\n          Broussel et son élargissement.",
+        "titre": "Mémoire présenté au conseil du roy par la noblesse du\n          bailliage de Chartres, du 22 septembre 1650.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau2444_MAZ.xml",
+        "fichier": "Moreau2445_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Le mémore des pus remrques pèces ftes depus e 26 oût (648) jusques à présent contennt une prtcuère descrpton de toutes es ffres et négoctons de Étt et des rrcdes vec emprsonnement de M de Brousse et son érgssement Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Le memore des pus remrques peces ftes depus e 26 oust jusques à present Contennt une prtcuere descrpton de toutes es ffres & negoctons de Estt & des rrcdes vec emprsonnement de monseur de Brousse Enseme son esrgssement Prs Cude Morot 649 Prs Bothèque MzrneM3500TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs2444 Mémore (e) des pus remrques pèces ftes depus e 26 oût (648)jusques à présent contennt une prtcuère descrpton de toutes es ffres et négoctons de Étt et des rrcdes vec empr sonnement de M de Brousse et son érgssement Prs Cude Morot 649 8 pges Une des premères pèces deFronde des mons communes ms non des meeures Luteur prétend que es émeuters sétnt portés chez e pre mer présdent ce svnç evnt deux en crnt« Aons mes enfnts ons chercher nos prsonners » Pr à on peut juger de s vércténe dt ps e mondre mot des pmphets qu vent précédé e senprose mémoreBrousse Perre (vers 5754) Brrcdes Avr 648 644"
-        ],
-        [
-            "LE MEMORE DES PVS REMARQVABLES PECES ftes depus e 26 Aout uques ̀ preent Contennt vne prtcuere decrpron de toutes es fres & negoctons de Ett & des Brrcdes uec empronnement de Moneur de Broue Eneme on ergementA PARS Chez CLAVDE MORLOT ruë deBuchere ux Vees Etuues M DC XLXAVEC PERMSSON"
-        ],
-        [
-            "3 Le Mmore des pus remrques peces ftes depus te juqu mnrs C ounnr s pmorr df ounde rourn s rs & neunns de et s Brredes ue emprenrment de Moneur de Broue & on ergement Eeredy e Aou s& L Rene pour oter ou oun que es penuoen eosreu q eeneot oer Ve deoue dtenue en Fnde proehe deve de Lens en ros pt romte duRoy conduue pr uoneus s Sdee erur tmeutopod ntehnuet e re pndnse e ue fne Cnhe dre devne de us unnqn uonn quemuy oo des ourdes deoune Pu Cunu Euu dn e Duus oue pue deuoy e vonnt e pteqee de ceue erenone on ut u oos de ooeu de ooconmednot e ut eneue proqeeue uenuet oeun e eunen qu ne ut hour pouot de e pouoe ous s enunons e dt eut de poue du ome desuest dnee porere du etroe qu cedeunt s poeds Moneur e premer Prefdent msu remspromptemens u n ue crtode dvne Dnme u puo onuenenr ppu eout con dut u Ps Crdn deu oen Mdme Tm Cependn e ougeos ce gro en vn momen e peren vne prte de eun coere ur e des de ce croe queren n eu deerene u ogs de Moneur e pre mer Preen doen de e ter mses preunt vennt u deune deux crnt à hue voxons ons enfnsfut uoe nos pr onners Moneur de Bn Men etot u pronner àB e je menuos u Ps Crdn es demãder vene ues moy ç efetyccompgne de Moneur e Coduteur Ache ueche de Cornthe vetu des hts Pontfcux uuy d vn nom re ofny de toute otte de peupe qu furent rcenuoyee ns nen otenr eme uozudencsnun quon dt à Aonsux e A j"
-        ],
-        [
-            "4 Codtee qute et dé dre on Brerre &que on uo donné on ordre pour empecher es Bourgeos de fre es me chns & que e endemn es pronners pyeroent pour tous Aeme temps on vd ortr e grnd Mtre uuy de cent homme de cuere nt e ong des ruë̈s fns es rues pen nt pr eur rodemontde epounterpopuce Ms vennt pour entrer dnsCour du Ps enruë S Lous on e o dvnegtnde quntteé de coups de perre vne dequees ynt eu effrontere dtendremoutche dudt grnd Mtre fut contrnt de sen fur uec tous es gens Les Bourgeos en vn mo ment tendren es chnes pt tout rs es grdes demeureteépt ut e noneuf & utout du ps Cdm e rete de ogne e pren ee & venue que e Psement ft u rds Crdp ns ren otenrt cependnt e peupe mrchnt en grnde ttoupd8 e ong des rues qu ne proent que tuer ruer & per ur e ot edtes grdes qutterent e nont Neuf & erent uec e rete u rour du rs Crdn Le endemn à x heures du mtn e Chncerer pennt que e Bourgeos ueyetté on feu ennt u ps portet pufeurs etre de cchet pout empetcher ePre ehent de semer & pout exer pueurs vount entrer dns pce Duphnevouut fre ttre vne chne qu uy ut pres pufeurs contetrons refoee pres queque proefut Peonnu d peupe qu drent cet e Chnceere fut ettee sstuere ce quohge de per ontre ggne e quày dee Augtns & etnt vsvs de Hote de Luyne ce voynt pour os de qntté de e ne ç̧y qu & gens de nent qu croentrreté́ e fut tner ce qu oge de ce tetter dns edt Hote e Luyte qu ft en memetemps enfonéj & on e cherch p du e ogs rnse pouot trouuetetor ccé et fe dr enet e pen cette rec herche péedeu hcrcjs t doqueempsdnx compgnts desgrdescuor ene çoe & utte Sne ccompgné du grnd Mtre & detendrmere d Roy y rnuerent qu dod frert etre é Eorgeos q y etoe nstnes pendnt e temsM dé r Cph̀ uR e gtont des grdes d Roy té deé qutre odé FPrnç̧os e r du Choncer &ftent t henmeuô& uore à ped pus ptoqdees chesqu ettqu và vs"
-        ],
-        [
-            "y ps uun ondu uretpourouedes ore n n chnstete eéece que voynt edt grnd Mtre f er u out du Poneuf oe ft des de hrges dé prt & dutre Enfn es grdes cherẽt e ped & serent rerche derrere e cheu BDronze où e Chnceer mot u crroe de Mor ur e eutennt Cu Cependnt es Bourgeos e pouruuoent rous ouss ogerent es grdes de sen fur uec dte cuere & ndonner edt Pout Neu qus grdoent dés e our pece nt Vn Cptne metnt e ped dns e cnoe receut vne mouquetde dootmouut Qrey eut deux grdes à eu ee crroe ou eot ot Chnceer p prdeus e corps Qu fs de oneur Snon Géogrphe du Roy set̃t e om çrpres uor ete ee & ouuut peu de ours ptés & u ueque Sue Pueurs coups furent trez dns e crroe pr es tmu e don vn p ̀ deux dogs de s tete du Chneeet e eupe comme en deepor de uor mnque jetetept pueurs pjerre ux mons & cerent pueurs vtre pour émouuo e Bourgeos à ouurr eur potte qus uoent fermés & prendre es ume ce qus frent Cependnt queque ort de gens m du eu erent dns e ogs de Moneur de Luyne oue Chnceer etot uué e perent Moneur & Mdme de Lnyne furent pnerns de e uuer en cheme che2z Moneur de Bermer Aur von Dees m duez erent chez cerns Mo e rens ppeez es Theuns qus cherent ̀ coups deons hrn de eur Conuent Sur es neuf heures vne compgne de ue vent pr deus e ponmt Rouge pour s r du PonNeu ut ree u ped du puon de e de Neuers pr det n o ourseou quuetent e Cpne Sue voyrt eur Cp Ens en s pren fue e s erent r dudt pont Rougey ns honne grde u deux outs dceuy pont qus uoen our enus ependnt vne e ou emme reue ué dvn couo ugemonte s oroge dePompe du Poneu & onn e puns peuue e meut entendn etoen &voyt cetecs Peme de Sue qu vnot pour semprer dudt Pon Neu orn Jt de eur on rmes&e comencerente rneder dv erte quenmons de deux heureve de œr s fut rr B"
-        ],
-        [
-            "6eueetorepuse pus de uens e poroeos u r oereeou e ue eouoreoe qermne n eune e ueunue der ure deo ue poren edetn e fnr nrde e pne e oneune es eu e oes tene enun pree ens p n pu denen dte ne e uepne dee u eue e nede onne one unon e eeeeone du quy de e ee ugons yuns epr o e e e re e e eouenue d eon eunen oeue e ene snue de de de en nune oseoeon ueoo ns eunnde ee epues dunredes ue ne dpods e u dn eoeespoedne e nsreon no pu de rn e ernees s oureeosdr nt poe des nnres nohe P s dr u ue unu cenees Sues quns neonennue eod etor pr rordre des dourse e nme u es de he e e pn enen eneo psu pn Crdoueurrerts ne e ee n ene e e ere en een onrne eoneee n een eue s rep e upnerpne e pn reue8 pe e ponuo ree r e ooeus deou e nnn e e ene ne en sen reuournu conne s nnnees ee en put oe oueude eoou ens eur nnunds pur nu e n enu ere one eors eoopunn e nnsnene en? ene enreu nre prenore enreone puen on rs ne n edo unneedn e qur epondte es pupee neoerue eunernue deunror e ee ee re ene e enu oue eone roun ue nun ener e e e err enenme oueedeueer ones u de nues e e e renduour de e pne e nenre put eouot u ree oere e ere ue re eens e eneue eoe de e e ee eoe e ununere on ee e ue rnpe es eeeee e ee dnnou or re que espronnen futenremurduere ue os per d e crreone quu y es neueeoe nene e ene noernenee penren ee ere one o eneon een eee e eu ue ue e punene euroes nne vo urerene e nu e oe e e nu ene ene renoret vde eons d fde nee ne e r perne de uoun ut onomeu dre"
-        ],
-        [
-            "qume oton pne d vouen moorr un eP? n non pus denus es ues e que rreeone pos oe oun pemere enuoy quer onu e Conmp reoun uy dtqee r donneros dr mommes d q tn ontes nues de pnseut ee & re mne3 ee e us eopoerouy eoet repone pee out e oou uoy pror comnn des ms que puesop ee sned ue es dr nt homme Ls eoodequ e ouo re forr eRoy de prs Etoeme &e dermerem ouono fot renre es pnoners & queesesero u ouret dyuet u mnene mps on dept ont Puee n Eerempe des gues du cop du e ere de Eo ree dedeuur pou er u on de Vnee ne t omeut de Bne den eque croe p pt deus e onr us oeue urenen due euet unun p unr pdeunte e &e demeure des Cfonnersf ee pr orts Chfonners e Poton receut un grnd coupde perreu coude puenrs coups de peres & cr ues donnme u hneuux us nevouoent er per enn pres pueursrenmonrn es pot eou qu eoen dns edt eroe en our monuntcommon deRene qu tot ponr er querr Moneur de oue x oneut de n Meu e ert pert en meme emps o depeeh vn courer pour enuoyet quert oneur de Sroueoqu eot u den M dme R nces eependnt prde prour pr ordre des eeus de ve qu enuoyerert ut e ureheures duor dn eudy vngeepeme du meme mo e Cpune des qurens pr outes es mons fre commnde ene de prendre edues rmes & et fre onne gdetout e ong denut uhone pr ̀ e Boutgeos qu uoent prs e es ns ordre Le endemn Vendtredy vng huctuéme s e huneuf heures du mtn es pronners rruerent prortedn& drn &e ut e dy pres qu e uront monren opuuee on puh n Are du Prenen pt equeoncommndementtoute orte de petonnes de e retter ee es ehnes &e rompre edte rncdes &tous Mrehnds& Arens douurr eus outque qus uoent fermeée ce qu fu"
-        ],
-        [
-            "5 S nent eeuté ns uoun utoydefde&x chuu eor ques ur es neuf à dx heures du or qu vnt vn grnd ru qu entrot des cuers dnsve chcun e remt dns u potee trouu que cetot deux chrrettes dmontone guerre ortnt de Aren chrgez en pprence de vn ms und s furent u Fu ourg nct Antone s furent pez on dt que cetot pour mener u Ps Crdn es tres den que cetot pour des cuhets que on uout veu pendnt tpus ce eoues reundu utour de cette V e en ce deordreeque en prtquényps eu tnt dvne prt que dutre qurnte ou cn qunte tnt honme que femme & enfns tuez queeez o u TDeus uuy de quntté de De profunds FN"
+            "Memoire preſenté au Conſeil du",
+            "Roy, par la Nobleſſe du Baillage",
+            "de Chartres.",
+            "Du 22 Septembre 1650.",
+            "Le Corps de la nobleſſe dao ilee de cdnut",
+            "e",
+            "A eres, lupplie nes humbiement le Roy de luy",
+            "SA oloi lare reodt ls bonne & bneuenu:",
+            "A iee que la Maeſé loy a fait ’honneur de",
+            "er ;,y promettre, & de conſiderer que depuis le",
+            "violenteraitrement qu’ila reçeudes Officiers & de quel",
+            "aes qunieniius e enre v le ina ſ oninen e ſon",
+            "eouſées ſans qu’l luy en aye eſté fait aucune reparation",
+            "ns que le reſſentiment d’vn ſi eruel afront l’aye peu",
+            "te ſortir, des reſpects qui ſont deubs àſa Majeté.",
+            "Quoy qu’il ne manquaſt pas de moyens pour en irer",
+            "eiere ſa eisfaction, il a touſiours ſouhaitte de donner",
+            "piluſoi des uaqus de ſ puiue boeſlne uo!",
+            "que dudeſ ouiunot de pmendne lanranre, de eun",
+            "ne il eſtoit offencé; ce qui neantmoins pourroit eſtre",
+            "an pejudiciable à la reputation des Genti lshommes",
+            "La plus partde nos cnnemis comnomenyan dimputercere",
+            "Teſoeoueuſe paueee, l i ſenſibiite & baſele de cou",
+            "tare, ſronne leut ſit pe rds ee oonions p lai",
+            "reuſe puniion, dont elle doit eſtre promptement lui",
+            "uie."
         ]
     ]
 }

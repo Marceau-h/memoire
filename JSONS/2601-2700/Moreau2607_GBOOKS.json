@@ -1,120 +1,103 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
+        "form": "prose",
         "genre": [
-            "éloge",
-            "oraison funèbre",
-            "rhétorique épidictique"
+            "texte officiel",
+            "ordonnance"
+        ],
+        "subject": [
+            "Alimentation",
+            "Approvisionnement"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1650-12-18",
+        "creation": "1649-02-19",
         "change": {
             "@status": "corrected",
-            "@when": "2022-05-30",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Oraison funèbre sur la vie et la mort de madame la\n          princesse douairière de Condé, par M. D. L. B. E.",
+        "titre": "Ordonnance de messieurs les prévôt des marchands et\n          échevins de la ville de Paris, par laquelle il est enjoint aux boulangers et pâtissiers de\n          faire dorénavant des pains de deux et trois livres seulement pour la subsistance et\n          soulagement des pauvres gens.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2607_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2609_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Orson funère surve etmort de mdmeprncesse dourère de Condé pr M D L B E Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202D L B E Orson funère surve etmort de mdmeprncesse dourère de Condé pr M D L B E Prs Ncos Jcqurd 650 Lyon Bothèque muncpe30573TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs2607 Orson funère surve etmort de mdmeprncesse dourère de Condé pr M D L B E Prs Ncos Jcqurd 650 27 pges Ee se termne pr un muvs sommet du même uteurvers prose éoge orson funère rhétorque épdctqueBte de Réthe 65"
+            "312859",
+            "ORDONNANCE",
+            "DE MESSIEVRSLES",
+            "PREVOSTDES MARCHANDS ET",
+            "Escn vins Dela ViLL De Pais.",
+            "Par laquelle il eſt enioint aux Boulangers",
+            "Patiſsiers de faire doreſnauant des pains de",
+            "deux & trois liures ſeulemet, pour la ſubſiſtance",
+            "&ſoulagement des pauures gens.",
+            "Du premier rs 16̃49.",
+            "Ceee",
+            "u2 N",
+            "s",
+            "4",
+            "8",
+            "tsls lS",
+            "s",
+            "ns",
+            "u",
+            "A PARIS,",
+            "chez P.Roe oeT Impr. & Libr. ordin. du Roy,",
+            "& de la Maiſon de Ville, au Palais, aux Armes",
+            "du Roy, & dela Ville.",
+            "M DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
         ],
         [
-            "ORASON FVNEBRE SVR LA VE ET LA MORT DE MADAME LA PRNCESSE Doürére de Condé Fcte Pr Mr D L B EA PARS Chez NCOLAS ACQUARD mpr Ordnre de Monegneur Archeueque & Docee de Sens demeurnt ruë Chrtrère prés e Puts Certn àRenommée M D L"
+            "AAAhA A",
+            "P pr les Preuoſt des archands & Eſcheuins",
+            "de la villede Pais.",
+            "é VRla plainte à nous faite",
+            "au Bureaus de la Villes pur",
+            "St les Habitans des Faux.",
+            "ourgs de cette Vijlle, au preiudice",
+            "& contrauention de nos Ordõnan",
+            "ces precedentes, portant injonction",
+            "ux Boulangers & Patiſsiers de cet",
+            "te Ville& deſdits Fauourgs, de",
+            "faire des pains de deux& trois lires,",
+            "eſdits Boulangers & Patiſsiers n’ex",
+            "posẽtenvente que des pains de inq",
+            "& ſix liures, & utresplus peſans, dõt",
+            "es pauures gens n’ont moyen de ſe",
+            "fournir. Requerant y eſtre pour",
+            "ueu. NOVS, faiſant droct ſur lad.",
+            "plainte & requiſitoire, A VONS"
         ],
         [
-            "?r ORASON7 Hv N E S VR r LA VE ET LA MORT ErBE A Ecc LA PRNCESSE Doürére de Condé 22SFes mntennr Segneoe eq ftee vonod Nue Domne & cmmmdez que mo dpreeu en prs prce que met pus expedu d oru que e meum &r pre ooe A e de roue Cptrt 5 rm meum ex EsT me choeoeome redepodt ens odé̀ toutes es grndes Ames de o ot Fohueemrt ud tot ques S outhnús ce pout d peesqonou eure noneeeuve fes mtes & e vod contrnte drreter tous es eux mouycments quee ft ntre dps A j"
-        ],
-        [
-            "m eur qut pur tre effectuement n ce ne e ps detre oûms ̀ cette o ee hunfe que pouuor détendrepus é́cnt umonde Cet véds udes fon̈ dé eur propree d nepeu pns ervr ps erre j ures pr de Ses tons & qunvn prt que vod toût enronné́ &e gore & qu n ren perd& devucté pr unedongueutte dnnéesen des ctons con rnees e treve preque ccé ous nd gne pods duoe mtérens vgueurdere de edépcherd ceyte neue pour do meretre out eu & uec pus de ortéàés noes opertonset vry que pour rendre ce der egtme ne fus que e deefpor e fe nutre dottreformé prvne ronChretenne& dot epropoetdes motfs pus reeué́s queceux quvne ntue mpunte & frgouspeut uggererfut quegrce nme vn eenment & uede e dre à Ame cefee eep u e du d eprue ee ons Chro SunT etetoehê pourooen pus egpme Morns e fut o meéme ohât que Moye exu fe prdejogyeutMontgs déNeo pres queDo Auy ee ft vor Terre prome & Deer ep34 cpemet d sdees L"
-        ],
-        [
-            "Lgénœufe fenme deoone vuut ps re vncgepos uor donnéve à̀ on cher Bénonn ne ecroynt pus etre cpe den poeocnodr vn pre pree quee e re grdot oommeecmpemene d osvs & de es psdge ohnsne y etot ps eucoupdce de e reoudre ̀ mo e one efConontere qu ne yupus rondefuer ope dvne joye ex effoe de fer pros foy es preceux retes déeutce dnt vn ett orte ̀ eur con dton s à on popre merreM eu que cee qu e preente u jourdhuy à nos yeux et en ognée en mournt de cette dermere conoton u necherchee ps pour mounr pus oo ente ee veut trompher dvne on qu cce & pres uorpûouffrrtoute dou eur que eprt e pus me et à pene cp s de upporet vtoreue demort me e eoenrene eneen e generee reoo ee e rege ene rement ̀ Deu fn qu dpoe devs Fes mtmcene Sgmeur es vre omé & coeDemn de que nmempot rooen emps pooqt tr t f t pus edems de monmrr que de vueSNoe regnton dvne Ptncee vrye"
-        ],
-        [
-            "ont hrotennee quft àn or qu e ng de Monermoreney mmenoo dn demeroûps & que cette rdeur netps cror tnte qur futs ntoe oes premos Chetens pnmyNohee s FneMs ce no que tnt de Hereos onrnd fmeux dns nte htore & qu dedegrndeur de onexmto nxpquo po ns pont ez tout ce quoece d Prncee et mgnque &e e pout etrequs tres conuene ̀ cee qu etor votche ment msnexprmeps tousevoerpAu cee grnde Ame qu ne es veue por es que pour es honorer pr des ctons toutft heroques & non pont pour sen gorfr Mes gu S mettnt touegore en euhrt Cruo er Pnn f́ toute prete de qutter ce cotps puce quus ee e ne peut pus oumurtuee de nenpoe ps d Gt Chpgrndeur de on courge qù emrerCrox & qù uy dre uec des ernpores d ROr & des oumons qu prtent dvn eur nmeé pr vne contrton toute pure Fes mnennt Segneureon votre vé &cndezque on eprt oerce en pe Ce fur de cette derere cton quee ou onn toutes es res deve & quee redtmot dgne dee Ce fut n quee mourut en Prncee Chretene prs upr"
-        ],
-        [
-            "7 veçu de mehe & quee rendtmemore preteue deunt Deu & deunt es hommes Q nous ot donc perms utre & ves tueue Prncee de nous reouuenr toors de cette ptfte regnton de votre voonté́ à Deu qu nous ot perms de dmrer toue e refte de nos ours & qu nous ot perms cncor de ou htter den etre es mtteurs J Soufrez quonvotre ve qu ettoute entere en notre memore & que pr es ctons goreues dont ee et toute compo ee on vous repnnoe pourpusgrndepus vertueue &pus Chretenne Prn cee du monde tnt de vertus mertent en vne ounge tnt dffctons ont en d gnes de queques rmes & vne ee mort peut en erur dexempe ̀ ceux qu vou dront mourr Chrectennement deorms Vous ne fez que de ntre qund vous fu ftes ojet de dmrton de tous ceux qu vous uoent pû̂ vor vne fos vous prutes dord comme vne eune meruee uec tnt dect que e rete des eutez deCour en oûfrrent dord queque dmnuton ms à pene futes vous vn peu vncée ur votte ofent que on vous vd rer prmy ees comme e Soe entre es utres Atres Ce noûueu tyun dedungé ue mnqu ps B"
-        ],
-        [
-            "Genee s3 ddtsurs à qudouce crté de vos yex e fot pus de erté & à qumjeté de votte vge nnprot que de profds repects ms comme cette hute ntegen ce qu vous nmor vous fot mépter tou te urre coquete que cee du cœur des Pnn ees & es Roys Monfegneur Henry de out on Prnce de Condé & premer Prncé du Sng Royrecherch votre nce & vous futes à ee Prnce pr es Loudvn cré M rgeLe Rey e entt pts pr vos hrmes & vours vous vftes conquernte de cegrnd courge ns en vouor trompher Vous cherchftes pr votre futte votre erté &enne ce net ps vn crme detre ymee & cet comme vne necefté́ à vne ee me dyne nnocemment ce quee connot etre prf c tement yme L femme dAhm fut ymee du Roy dAEgpte à̀ cue deeuté fufnte & on ncompre vertu ned rendt ps mdgne de cét Amour Ceée dc ne et ps mons d Roy Ameeec &ver ru nen et ps mondre Enfn votre en eé &eur ont ms ft de prees co quetes ns que eur vertu &votre vots yent otenu de emes tromphesDeegeres ttques ne foent que forufer"
-        ],
-        [
-            "tS ore grncge qu rodott oâ jours ncref htres efforts pour rner vn cœurNoe & Chre enu etotrefeuéà deen ps dà fûts qunneeu qu à̀ fre vor quétosn nunces de ores es fons& qo etot pus grnd tot euqueé tous es mut duon de ënemhent venus àfouepouneder e çœur deés espus tedrs nueéde tre euneeEtcét utce rmprtde eon tnceesoutenus fns s uccomer à ourvoce &nms netotefcherde ete néâdefernetéqu e redotuous upererrdtosyuops ronu nhn Qe pn equfut cpe de e eprer de sour de ̀ ehre Deuqu e fosfsdoœgrceogâe e dnoot doûjouss de qqd derdo Cermeu de tnt dmeruset ren qu toucheeesent e curcmme vne equté ffgép pcteûecomposugmente à meur du hqm on ouhtte àpeeone qu endure on treuve toute ee pouecnpcetg tueyp med&e oy euve punp duqudouen ede mheue e & côns uocent ore ecmpte uepenenet ps prequeupporce de vor ne ee nuotenue gée H Pjpfed n C"
-        ],
-        [
-            "cõprdemousmngmey dooœep ence drvoûtrqu tdomphe nousnepou uons vordes nux que ous uepûâuppoter fns uus pnre Vote noedte ot&é ertoe udes ours reux dumnms àd quûourfeme &os nevoyens pos v nuomens fns pene &ns fte uousrs mne poutmtctous os mut & nusue edrhnsàdoueur &du regne qusvns donnehtus douse qu et dne neeûsque vous endurs pou vetre gor & e ne çyfon dot ps vos ddnr quo vous çpodne nosohespontnâs àfrev &ucquy que nos fefnspotntre nedrme s fos epderons qe toutes tesufûces dtseteddes hon&dpûédmrtdnpur gor Deu ntrdt e nus ous remp fnsdoén ttsSe que voyez preoûéedudpf qustoeteesjoyefdrerscppéu t &vousn oe uuoome ouum reouyduffnesroerdee s t d e dopefne ettduertéeu def&éetu &op qudegeoue oueque efe eptrs Ton ug Ftpeûee ser s eur e"
-        ],
-        [
-            "y e dd o peé pffocoo E po eoye u nmere pete deonme LSde meoneeegue rerrpâmr fnsày doner de uees n quodes pes drder centé federé de eef enteemont donnee à̀es premsreentmenset vry que f peooé doudenrfurfe ueuy ett ps pse ppoter ns e pndre ep rdeteProe quo Dtn uy uor donné pouemry dnepuuht eûtœte e voync pfnereœse de tonqune oon fdre uh ds qmnete vdence empr tt cotechere époue pr toutes es ruës de Prs ee hdemnderu Gndes ueto e ho gnéd f ens enfnxtot qdéeeennnûn q oétfntx etdt ute per eerer de te e tppe ào orgts &pr ndptnn dne per fnmeqyme fentenut e e deormnd à e rede voonerement rdmere ue e er époux à̀ deée de pger uec u es ny&esdffdtezde pron q peteddpdr u qehque fn yrede onsfhufée ns condenergtdeues penesquede yporot renco tetnttueprepree es ncre"
-        ],
-        [
-            "2 Ce gemuoux den uy rt u pont quee deror n es deue utreS pnfon ners dns horeur de eur pron troent que quo ogement ded pnence udo utse & ccd nfotuneerPrnceedà dmy conoee duor pdu mons contrer tosquee pouuor àconoo Pce on nryEnfn enortuecuy ogoo ms ce ne fut que pou preprer à ontoe à de nouueux mhéurr espuute Prn ceeç e e çy quoy ds fntgvose nce futcy empoyeh ouzvhîre ge pour fupporter ce dex ccndent fdns mourrpus ee pttee vofre ng er eftot ené́een penfohne de cs gene eux frene qusœups de de ceuy qu vous ddtmve d fut qu meurePrm eé Arret e et donné &fut que vous ouffte &e rop ngnt dpsvotre ofre Mon queque ente que votre eœrren reçoue ny f veur ny voftre counge nyendremté que vous uez pour uy ne uy pêuuenr uuerve H quen cete tts conjoncfure vousrenteshn eond ue gre ce mpfnte pour duy tnuure &fut en que Deuen cette extsemtns e on de conerrer e rete de çegen vous mes"
-        ],
-        [
-            "oqoeemrorrpn suonmtnuos ym ptomes qu urfent dngurdrht e temps decetrte ngre ugedeetorordorsque mohsuezen ujet s vocee mse d drouueo mfnuno oeme mppés ps e usppee my ene pdrô que cre ms J g rseds uouu m rempy dmertumerpet se oLeeûurses ems s pes & es res ugtpur onenrotéete doûeur u2o rent c cher frerernet & pus enfrvertu hreee mpornt prdeus tou es esntetnuretes vous ouffrtes p temnetne orddoProudence dune uque net pdnpefns de reter vous çuez en dorsrefger votre voonté́ ̀ cee de ce gtnequpreprot des cou ronnes mmotees yôsorpees fctons FosenSge trsoVos deués en pprence etre à ry de orgo pes ye frue sempeteé msque ece ddejè dntté pujuyue grudoMepeus ps seu rer vne trnqué qué es x ne puent nterrnmpe vousrete eor queque cho e dn cher que yus ne pouuez perdre fns votrr à mne témpsmoté de vous meme vorepoux Prncee trop nfortunée veus duot etre ruy & yous e D"
-        ],
-        [
-            "4 deueés vo mourr deuntvospoûrco de vos dépfr Hes t depus ce our ftt qu vous redut u veufuge vonuezpus pru vunte qudemy &cucte dvn tr té düje qu cchot vns nodre ve vneeuté gufns & ve qertuns oxenpe vous vous etes reouë courgouednt à emrerCrox de euox d poteruec uy deouffcàonstto couues ces ffctons qu voux urnent à tous meents & mettecoute votre confnceence s e Ds pL dun suueur efe&t merveeux quogoe fmdrn er produt en ce Cœdrgeetetx Coutns du gne dvré Prnceeotts du g de Mns morncy qu poreens es oftncs fntvruutde dgumos m fermete vryenemeo Cetdehes àmdnsdeteds oursvos et ccrdé pour vcquer ereue ment à vo erosd pé oàets portntsufryd té d oeeepsfore deêPmoûopà te doe uu mu durepos&s de hpe fre cdeer tu tes es pus grdes verusôe proûtre dnsntt heroqup àmefr quee spoche Ade ps pés des fenetee mmrtt ren ne out pus troue cett gnde me ptes uur vdncudouseses dgrces qu po"
-        ],
-        [
-            "5 uent ruer à̀ vne crdtre moôrtée eedenx trop pufnts ppus detrnquteé qu ont u es deux puntes coomnes dore gode es peres&e dé Ets de on RoyLo ehft pretë ̀ tromphet e toutes es ourrques pées msmon Deu ne e ouent ee ps queecõmecéheureu ement à ouffrr & qu fnt que cette grn deur deeourge perte uqùfn pour e renderout à ft huncé peronne (dr A potre net couronné qupres e coms Et cet cy qfunfreépouudetourever u qufucvnro & qufutouhter de monrs pes nor portécontnce upus hnt pont de prfectonCutrophedhe ooguute dem hes efterre &s o ne os squevousrehendez eucoup peut etre ne çuc2 vdusps enoorque onvnr drreterprons nes vos dex enfnts & vfte gehdre que votre fe vnqueef eù futoe qu trnoe es er & es terres ftrngeres expée àtous es dngers quvne fuguepeut ecoutr que fre eéfe & Moneur votteé pett fs ont errts pred Pnounces ceme des per ones nconmës & qu vous fut prtr tout mntennt du eu de votre trnquté por er en qudque utre endot rmener vneve"
-        ],
-        [
-            "otre & pen de doueur éogtée d ou tes ces peronnes qu vous ontcheres & f prohes Ce grndeœur srne ànomhee de tnt de dgrces nopnées donmrumer fns mouuement & ns pprence de veuc? comer t à decreesuentes y &tê fermeré́ dme que vousuz toos émos gneée en toutesvos ufottmes sunod d ̀veuë de tnt dé mux ns eyerdes vncre Ftes mpennt gneur en vhûrs vorr coodeqemmoeped f p prre qu ddftp̀ eederdeonns qde dere Noe efgnto devoonté de m Prn cee à cee de Deu dfsunmrffcto pref nte es pduesot dgrc &e nn ps du defepr & cot uec cetre fermethe tenne quoe regrde on deftre hs ndo Cer conn de doeur & quee sécre dns fes pus & unn grnds htehens dde fon ep vous eOes non dp dedgnerez pnt Segnour v cœuu & homdé pr es ehntnmens de votre mour & de or fffctonCette dernerotnemté m edetredut te ne uy donne ps peu de pene ors qu fut e reoudre à prtr & ̀ chor vn eupro pre ̀ f dfgrce de queque coté quee p er ee sefogne de queques vns de es chers"
-        ],
-        [
-            "Go"
-        ],
-        [
-            "dpuxnfnsontdpes en d  ndrotsoppoez es deuxentmens de e upne uer neue ue e pneonoupeon huenu denen e esufnoesdos e v çom o o rcet one reneon quee ft vu ef L fdrdefus denture & que demeun pnrene qun chor tu depeqonuopde pnuns to2 euthens eregrde ecé́t ettdmo hdou eo conot en quee e peus phnttepesése ps quqe ne yot pu eàppehender po&equee forme eetenct nouednourr pres vn enter ccompement d contnce Ftes éte Sgoeemfrp& cmmn tuenpprtot receenpet enoue qupre uor co httu pendnt tous es momnts de ve ee domnde àDeucétce Pmee Px d dor couronner Ame qu ur egqemept edmttce netqupes puurs cores quededemnde ce prx & ce net que demfercode de Dou que e peu pep Ms come ceg ereuy pqguee uhttedmneue net ps de ce mnde3 ft quee ot encorprete ̀ onfftr mort pourmerter E"
-        ],
-        [
-            "L poeode cér ett heereux que es mux né peuuent ms terer y nfpre ez cette Sncte erue de qutter cette dé poüe orteepour e reuefttnœ vnou ueée outre ue opouv pdefoufnpouson Deu pfes pdeee ffton enmpée de eettéve nrtde & doucement dée des pfûdvne deude qu no fnts ecescre uet e PropheueRoy qds mr des os coss dCooe & udorydQuenm e euderepos Et pus teoonnonr qu fut poms us mourr pruntee d ene pgmnuoe m P54 SAhé PQums deoeq dece corps t̀ort prce qteps epodr de orr qus de vureheftpéet tenps devoususr à c eu de px & y porter tôus vospenés he ouuoe fo vous ppo oy & vous deundée encotfcy vnepuus de votre grnd courgey Mdmoes de unos uo re petté e vet de norr & e fno qu vous ordonez eepuers L fot dn ors mPrncee ) qué cette n nooentemou rut pourt tfeo& peur fhtevorque frmdeetoépefeuppeé à deenô fens enpm & eeroy q furquee meure pouren fre vor quee et m dou eur"
-        ],
-        [
-            "2 Mnm for Qu pumrounene fomonu fordne pe n e qu ponrde pouo formeér vne dgnore up 3u outon dnspus gnde conternt on d rouer per ou ee pufe etre Vne fe rphene eur ns frend4 vhe Epoupnue dv ryve merens cnfnsmnmpherde rus ces eurs dont ee nû etre vncuë forceesemenode ture & rnct es rtd efortune of emourœr ferms ene outes es dgresdove & dr ho reurs de nnr roâton dffce detreu uer onoo v pree ee eteue prmy vns nfnté ducsjqu n gone de moun vtoreue deouteses duertoz Lfroe & euté compoent on vetement & ee rr enoh dcrmerour prce que ces deux nudo&d quuednnende nneoy rvese Que nomugeogoue cer quvent deprotrec u mou des ouffrncesxprouer ede ous uyrde hfpodeur dont ede et Cptenuronnhe édtde es vers nousur prndr dhord ms es nâuoeuces en ontdouces quees nnsttreont fencment à dmrton do erspncpes & àvene rron de cee qu en etpremere ourceL douceuret vne ymdequté qu çt gger es curs es pus frouchs & eo m poe des ox qus ont ogez de uure me"
-        ],
-        [
-            "2 Mmmtreeur proprennton ee chrme ne tœuue ponv dofprt quue uyced pourueu qu uy ret ez de rn pour ereeon otreed en à vne peronne de hu e ncqueme ete vne preuuoe uffdredef Noee cneffet cet toujous ve mrque de peenne eeuee u dus du comme & vumuyé defonéûtrees utre dro nçn fôgqfss rocque por etremn dMonde qu Bu de vus e foquetre douooogu rns P Cere versenet quetro e dos per one de tPrnee qurttoàfssors ement tous cex qu oens honneutde ̀hodee quderggnot toujours vnEmpre tres u ur toutes eurs voontez es e prot ueectdutde douceur&e detoscdrtéqee fsdonfmtns dffoueé cote ot ce dns eprt deceux quentendoent e e ogeot deoe grce qun chun etmot tres heurux de poduor eto on redeue & enfn cette grude düceuy etorf nuree qne on poudotepn dre dee que pourropgrnde f teé́ po 2Ss rerez qheononpàdeffs ve nncé e ptsonos t efnd qn n pu4"
-        ],
-        [
-            "A e m Go?"
-        ],
-        [
-            "2 pue pour etre communes etnt encore toutes recentes dnsmemore dvn peupe preque tout enter outesces preteues qutez dvne ntu re en fnterendoent nfnment che re à pueurs & ont ft regretter de ceux qu ont reenty eurs engnes nfuences & de ceux qu nen ont eté que es dmrteurs Ee uot receu ennnce vne me queté́ource de toutes es pus rresvertusgeneroteé́cemenceutcepru dencemoderton nont ms ndon neé cegrnd courge u meu de es ouffrn ces & ont touours ccompgneé́ dns n cnton merueeue qu uot de fre du en à tout e monde Ms que ces qutez denrure ont ees que ces perfectons ont runres & que tnt de vertus ont utres ors quvne fe cnmte cp8 uenre chrté es nme & ert de rege ̀ tous eurs noes mouuemens ce punt mour dvn Deu ne sexpque que pr des prod ges Cete rdeur chrte quvn deuge deux n pû etendre ne e peut meux ex prmer que prprofuon des ens que e ne poedot que pour e ougement des utres Dequoy net pont cpe vn nture ex"
-        ],
-        [
-            "22 eerent quechrté́ eeue u deus den turepeut mer es ennems meme en on de e reentr du tort qu enreceu & depont ux peds deCrox toure n d gnton quvne trop ene njure urot pu fre conceuoroge cette onne Prn cee à prer pour ceux quperecurent à mtton de ceuy quee tent emré Segneur uy dr ee touche eur cœur & eur prdonne pr t nte mercorde & pus e regnnt enterement ̀ f proudence ee uy dt dns vne oumon deprr ns pree ftes mhtennt Segneur eon vo tre voontéfut que e dpoe noore cy à vos peds mon yme Suueur e doux enrments queNture npteà ve mere mhednreu e qune peut ouheres chers enfns en ce derner ntnt de ve qu toouue encore queque tepugne à mourr ns s vor & ns eur dre e deres du tcedos deux es derners deuors qus ont tenus de rendre à vn mere moure e me protu tos qus me fermroees yux &eou che & receuroent mes dernenes proes uec e derner de mes ouprs epetos qus me donner nt vne eputure honnore & qus prendrohe e on demes funeres"
-        ],
-        [
-            "pres m mort ms hesque cet epor etot vn & qu rmpoe greement ne me tropfee à e prometere cette der nere rsfcton e es recommnde à votre dune proudence mon Deu receuez es pntes de ces pronners nfortunez qu t troeetcon tendent de vous deorms toute eur con t ue gemst cotspe dt on Souffrez mon Suueur ce reouuenr o de m dernere nfortune receuez cette prere & pus commndez que mon eprt ot receu en px prce qu met pus expedent de mourr que de vure Enfn m Prncee vous vo vctoeue & vous ne demndez pont durre px de voftre vtore quemoryetreve vouseft enmyeufe toute ute uee t pne q vous me queeme peutps fumr à votre grnd courge dutres uets pus mpes de egnder prouffrnces vn d r vehement vous pree & ce fnr mouue en de gtce vous ft reoudre à qutterterre pour uure es Chrt crucfeénet tendenture à̀ vne grnde mequedprerà mmortté pres sen etre e duë dgne pr des tons qu ne peuuet mourr M Prncee porté́ es enes à ce pent de peecton Chetenne qu uypernmede"
-        ],
-        [
-            "24 demnder mntennt cette prereue Cou ronnefermeté nérne à endurercontnce ns ege à upporter ptermmmene es pus rudes dgrces qu nont pont nrer rompu es exercces connues degene reue vertu mertent en cetre en heureu e pme de px pres quee ee oupre ors quee dt à̀ on Deu commndez que mon eprt ot receu en px Conoeous Prnceeéntortunée votre grndeurrendu vos fctons eucoup Pro pr pus enes ms votre ncompre ver mr nmt fmt tu vousft vor pus nunceet vry f5 que vous uez perdu vos pus proches ms et nvous rete des enfns enpce de cesutres Ancetresdémeurer encos de es ngos ers noe Sng de Montmorncy qu ft ntre des Heros & votre ve er coneruée nous reter meme pres votre mort dns ce ng ncompre Enfn vous etes toute reouë à mourr &votre ve utre soppoe à cette mptrenceque vous temognez de dns ttente du derner de vos ours ee ne peut ouffrr mort dns vn uet queerendu comme mmorre en e rempnt dvne vertu qu ne meurt ms & qu pour etre vunte n dependement de nture e veut pontetre"
-        ],
-        [
-            "5 re ujette à certe pruton durrc prt c vos cete no nj nysefr n nement detendre toute votre gore & do trve à des vertus mmortees nvc &d mort font vn comt en vous me me & vous ues eon de toute votre vertu pour trompher de ces deux rreconces ennemesfut pourtnt de que e meure vne fos fn de vure touours deor ms & e ne veux pus dutre ve que c ee à̀ qumort ne pue pus conteter e drot dvne en heureue mnortté Ms u moment que expre e ens reue nr es deux entments qu mont touours ccompgneée & qu ne peuuent encor e e prer de mon eprt à ntnt meme deeprton duec mon corpsfut mon Deu que e vous retere vne prere que e vous y ddreée tous es ours de m vereceue Segneur uec mon me ce ont es derners entmens quee veutuor pourterre e es dos u Roy comme à mon ouuern Segneuren ce monde e es dos àRene comme à cee qutouours eu vn pouuor treu fur toutes mes vo ontez & e es dos à Ett pour eque e tos née pourequey veeu & u eruce G"
-        ],
-        [
-            "6 duque e fs gore de mourr treurme uette de mon Roy oume enterement àRene & trefetonneée à Ett e ne crns pont de vous upper que vos feches percent e cœur des ennems du Royque Sgnees es omettent u pouuor de cee nunc r e Monrque &e qun uy donmnt vne P px heureue en teus esEspue étrédredomnon ur es peupes pr vne ongu utte dnnées & que on regnen ft qun tromphe contnue dfonce de s en Mers L nems &e du cœur dees uo An m Prnt cee murut pour vn momen & mortnu r deorms pus de puoe funeo FN"
-        ],
-        [
-            "SONNET x uoent prtg ve uec mo cœur Tros en ont emportémeere pt Les tros utres u monde ont retenuer Et moy pour eur er enfn e os orre An toute m pompe e duë set conerte Dnsperte des mens y perdu m vgueur Lpron dvn epoux tnt mon me en ngueur Etort à des peurs uot uette Cet cy m doueur qu fut fre vn effort L moté de m ve ot uuy o ort Et ce qu men retotpronrue e us( pres uor ong temps porté e duë̈j Sns prens ns mry ns enfens ns ve A tnt dfctonsne fut quvn cercuë"
+            "4",
+            "conformement à noſd. Ordonnan",
+            "ces, Enjoint aux Boulangers & Pa",
+            "tiſsiers deſdits Fauxbourgs de faire",
+            "doreſnauant des pains dudt poids",
+            "de deux & trois liures ſeulement,",
+            "fin que les pauures gens en puiſſent",
+            "chepter pour leur ſubſiſtance. Fai",
+            "ſons deffences auſdits Boullangers",
+            "& Patiſsiers de faire & cuir des painms",
+            "de plus grand poids,à peine de la vie.",
+            "Ce qui ſera pubhié & affiché dans",
+            "eſdits Fauourgs & par tout a",
+            "leurs où beſoin ſera, à̀ ce qu’aucun",
+            "n’en ignore. Fait au Bureau de la",
+            "Ville le premier iour deMars 649.",
+            "Signé, LE MAIRE.",
+            "Collaeiooné à I’Originial padr moy Grefier",
+            "de ladue Ville, ſoubs fgné. A",
+            "3"
         ]
     ]
 }

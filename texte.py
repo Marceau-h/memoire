@@ -50,8 +50,8 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile(r"[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
-    crade2 = re.compile(r"[liIba1ſ.,:'’]*\s?[liIba1ſ.,:!;'’]*")
+    crade = re.compile(r"^[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
+    crade2 = re.compile(r"^[liIba1ſ.,:'’]*\s[liIba1ſ.,:!;'’]*")
     toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
@@ -188,16 +188,20 @@ class Texte:
             for e in soup.find_all()
         }
 
-        txt = re.split(r"(?:<pb .*?>)", self.txt)
-        txt = [unescape(e) for e in txt if e.strip()]
-
-        txt = self.clean(txt, self.crade)
-        # txt = self.clean(txt, self.crade2)
-        txt = self.clean(txt, self.toujours_crade)
-
-        txt = self.clean(txt, self.reother)
-        txt = self.clean(txt, self.reother2)
+        txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
+        txt = [unescape(e.strip()) for e in txt if e.strip()]
         txt = [re.split(self.reline, line) for line in txt]
+
+        txt = [self.clean(e, self.crade) for e in txt]
+        txt = [self.clean(e, self.toujours_crade) for e in txt]
+        txt = [self.clean(e, self.reother) for e in txt]
+        txt = [self.clean(e, self.reother2) for e in txt]
+        # txt = self.clean(txt, self.crade2)
+        txt = [[e for e in page if e] for page in txt]
+
+        pages = [' '.join(line for line in page) for page in txt]
+        plain = ' '.join(mot for page in txt for line in page for mot in line.split())
+
         txt = [[line.strip() for line in page if line.strip()] for page in txt]
         txt = [page for page in txt if page]
 
@@ -208,9 +212,6 @@ class Texte:
         # txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
         # txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
         # txt = [[line for line in page if not re.fullmatch(self.toujours_crade, line)] for page in txt]
-
-        pages = ['\n'.join(line for line in page) for page in txt]
-        plain = '\n\n'.join(mot for page in txt for line in page for mot in line.split())
 
         if not plain:
             print(f"Empty file: {self.path = }")
@@ -227,7 +228,7 @@ class Texte:
         self.n_words = len(plain.split())
         self.n_chars = sum(len(line.strip()) for page in self.texte for line in page)
 
-        self.ttrs = [self.mesurer_ttr(page) for page in pages]
+        self.ttrs = [self.mesurer_ttr(page) if page.strip() else 0 for page in pages]
         self.ttr = mean(self.ttrs)
 
         # self.fr_lexicalites = [self.mesurer_lexicalite(page) for page in pages]
@@ -241,7 +242,7 @@ class Texte:
 
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
 
-        self.hapaxes = [self.mesurer_hapax(page) for page in pages]
+        self.hapaxes = [self.mesurer_hapax(page) if page else 0 for page in pages]
         self.hapax = sum(self.hapaxes)
         self.hapax_ratio = self.hapax / self.n_words
 

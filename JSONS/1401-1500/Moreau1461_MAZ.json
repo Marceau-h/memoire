@@ -1,54 +1,152 @@
 {
     "entête": {
-        "form": [
-            "vers",
-            "prose"
-        ],
-        "genre": "burlesque",
+        "form": "prose",
+        "subject": "Beaufort, François de Bourbon-Vendôme, 1616-1669, duc de",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Bourgeois, Jean (16..-1652)",
-            "France -- 1648-1653 (Fronde)"
-        ],
-        "creation": "1652-08-26",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-11",
+            "@when": "2022-03-02",
             "@who": "AB"
         },
-        "titre": "La fureur des juifs, dédié à messieurs de la Synagogue,\n          en vers burlesques, par Claude Veyras.",
+        "titre": "Les gabelles épuisées, à monseigneur le duc de Beaufort,\n          par N. J.T. (Nicolas Jamin, Tourangeau).",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1461_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1462_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L fureur des jufs dédé à messeurs deSyngogue en vers uresques pr Cude Veyrs Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022Cude Veyrs L fureur des Jufs dedeemesseurs deSyngogue En vers uresques Pr Cude Vers Prs Jcques Le Gent 652 eptemre 652 Prs Bothèque MzrneM042FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs À propos de ssssnt de Jen Bourgeos e 26 oût 652 dontrumeur ft un crme rtue comms pr des Jufs (Chrstn Jouhud Mzrndes Fronde des mots Prs 985 p 42) En vers octosyes Épître dédctore de uteur \"A messeurs deSyngogue\" Dprès Huert Crrer texte pru àeptemre 652 (Bothèque Mzrne Ms 468 f 38v) 46 Fureur () des jufs dédé à messeurs deSyngogue en vers uresques pr Cude Veyrs Prs Jcques Le Gent 652 7 pges Vor e Réct ntf et vérte du crue ssssnt… comms… Prcompgne des frpers detonneere etcvers prose uresqueBourgeos Jen (52) Frnce6453 (Fronde) Assssnt de épnger 656"
+            "LES GABELLES",
+            "EPVISEES",
+            "A MONSEIGNEVR",
+            "LE DVC DE",
+            "BEAVFORT",
+            "PAR N. I. T.",
+            "M. DC. XLIX."
         ],
         [
-            "LA FVREVR DES VFS DEDEE A MESSEVRS deSyngogue EN VERS BVRLESQVES PAR CLAVDE VERASA PARS Chez ACQVES LE GENTL M DC L"
+            "LES GABELLES",
+            "ESPVISEES",
+            "A MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT.",
+            "PAR N. I. T.",
+            "DEpuis que la guerre eſt allumée dans vn",
+            "Royaume, il eſt bien diſficile de l’eſteindre,",
+            "& depuis qu’vn peuple s’etvne fois reuolcé, il eſt",
+            "preſque impoſſible de l’appaiſer, eomme on peus:",
+            "cilement voir en e petit Diſcours;que iay iu",
+            "gé ne vous deuoir pas eſtre deſagreable. Depuis",
+            "que la guerre a commencé́ par l’enleuement da",
+            "oy, & que tous les habitans des Bourgs alen",
+            "toar de Paris, ont eſté pillez & ruinez de fond en",
+            "comble, on a veu auſſoſt les meſmas choſes par",
+            "out le Royaame : La guerte à conmmeneé premi",
+            "ement à Paris, & ea ſuittre en toutes lesvillas d",
+            "Royaume, on a leué des gens de guerre, onapris",
+            "&eaeauou la pour tian faire, u’’on"
         ],
         [
-            "T LA HEVREVTVE T E TNYE U T E LO V LL Là Meeurs deSyngogue En vers Burequesr ?A Meeurr deSyngogue R ESSEVRSAynt peù vos Segneures me fournrmtere de ces rmes jy creu etre de mon de uor de vous en fre dedcce & vous temogneppr ees & mon ffecton ̀ votre eruce & quee prt re prens ̀gore dont vous etes re uetus uos creu uques ey qu ny uot des rues quen Guyenne ms certes e usmntennt contrnt dvouer que es Gcons voun en douent de rete & que eus coups demn ne ont ren u prx des votres Ce derner que vous venez de fre enperonne de E"
+            "pas deſcouuert que aous eſtious vendus à hem",
+            "deniers comptans: mais troptard?n’ onpasve",
+            "trahiſon d’vnPriace de Conty, d’vn Loagueuil!",
+            "e, d’vn Delbœuf, d’vn Boüillon, & trois ſeul:",
+            "ont reſtez qui nous ont proegez, qui nous on",
+            "uuez la vie, & nous ont remis d’eſclauage o",
+            "nouseſtions en noſtre premiere liberté.",
+            "Le Parlement n’’il pas fait tous ſes effort",
+            "pour noſtreconſeruatian: mais il ne cognoiſſoi",
+            "pas que quelques vns de ce meſme corps ſi ſplen",
+            "didé, & Auguſte teriſſoit par leurs trahiſons l",
+            "gloired’vn ſi fameux Senat.",
+            "Que n’a point faict vn Due de Beaufort pou",
+            "nous ſoulager, que n’a point fai, die, vn Coad",
+            "uteur ſi lllſtre, qui marchoit le premier à la teîû",
+            "de nos bataillons, ô̂ acios dignes de remarque",
+            "Donut la menoire ne apir aiamais tãt que le mor",
+            "de durora : ear n’eſe pas eſtõner nos deſcendan",
+            "quand ils verront vn iour dans l’hiſtoire quel",
+            "plus famouſe ville de tous l’vniuers, a eſté conſe",
+            "uée &defenduë par vnſeul Prince digne de loüan",
+            "ges immortelles: Mars pou reuénr à mon dil",
+            "cours, ear le papier ne ſuffiroit pas ſi ie vouloi",
+            "eſcrireé tant d’actions heroiqueu’aà faiâ",
+            "vaillant Duc de Beaufort voſtreProtecteur,",
+            "& pouir m’obbier pas Moſieur de Mairquis d&e l",
+            "Boullaye, à quinouauons aiſſivne grande obli",
+            "gatian, nous ayaat forp bienſteouru lors que nou",
+            "eſticn"
         ],
         [
-            "pnger jont à̀ ceuy que frent jds vos n ce tres( ns compron d) ont tous deuxre mrques quepoterté nen perdr msmemore & pr eux votre gore &eur demeurer toûjours dns e pus hut utre où ee eut pu jms monter Vous etes vrye ment dgnes de oünges duor enehery furveur de vos pedeceeurs Ss frent jds mourr e Mee ns cue ny ron egtme ce fut pour e mons en vertu deSentence con tre uy donnée pr execre Pte ms vous Meeurs vous uez eté en pus vns queux pus quen ce temps cy ̀fce de E ge Chretenne vous uez ft mourr eus Chrt en vn de es memres duthorté pr uée & ns forme ny fgure de procez S en quon ne peut dre de vous utre choe non que vous etes de tres hes gens & que e Corpsenter de vote Syngogue dot setmer go reux duor des memres tes que vousChcun v fre deorms des vers à̀ votre ounge & toutes es Mues vont épuer eurs vnes pour chrer vos mertes & drece que vous vez e us fché que queques vns de eurs noutrons myent precedé dns cét honneur & de ce que y eté́trdf à mettre u"
+            "eſtiansen grnd peril, lequel s’en eſtant allé dãs les",
+            "paisdu Maine, Touraine & Anjou, oùuil c’eſt ſai",
+            "ſi detutesles Gabelles, & principalement de cele",
+            "es de Tours, ou toue le enu’ peuple nedaeſireau.",
+            "tre choſe qu’vne reuolte generale, l’a où les Sol.",
+            "dats ne pouuant s’empeſcher de ioüer de la Harpe,",
+            "eur inſtrument ordinaire, ils ont tellement empe",
+            "ché le traficq qu’on he faiſoit aucune choſe dansla",
+            "e de Tours, ee que voyan le menu peuple&r",
+            "ptincipalement les ounriers en ſoya qui ue fai.",
+            "oient aueohe choſe que de ſonger là où ils trou",
+            "eroient dequoy viure, ils s’afſesblerent done",
+            "hſieaers auec des Mariniers iuaſques au nombre",
+            "eaoo. & allerene à Nantes querir du ſel, & en",
+            "nenerent telle quantiteé qui ne valloit que 3oſols",
+            "boiſeau rendu à Tours, ce qui faiſeoit grand",
+            "nas aye, d’aua eue plueurs ont vndus",
+            "ques à leur vaiſſelle pounen acherer, & enfais",
+            "e mgafias. Ce qu’ayant eſtépropoſe auRoy;",
+            "aeine Regnte, &tout le Conſeil, on a faie",
+            "peeſes defenes d’y reooumer dauantage à pei",
+            "ade la sie, & que pour ce faire on comrmererois",
+            "ardes ſar les chemins pour empeſcher e",
+            "es rauxaunies d’allen danantage à Nane:Vo,",
+            "z que l’enuio aſt vne choſe quiſe renconcre",
+            "eſmuuéẽt daus les hômes, & principaleraent dãs",
+            "x quaiu’onepoiatde bion, & comme le bruit da"
         ],
         [
-            "A7 7 u our ce temognge de m onne voonté ms e me conoe pourtnt de m fchere dns eu rnce que jy que vous me tendrez pour exeué pus que e us comme vous pouuez pener MESSEVRS Votre &e C V  âA Aû A A & Aâ  9 VyVv epe rfr5  VSE chetue u nez cmrt L porte deConfernce Qu rmes ns grce & ns rt Aors que pr muue chnce  Et dequ es rmes pus ees  e fdnedund pnngue  pe nen on o enuuens on de unne e ee nne  De grce en cette occon  Quconnoot entrees utres  SQue qmes ns de en es poue  Fons men à profuon  Pour pouuor rconter en omme Srret pour es vor per  Lvnture de ce jeune homme Sns deen de es offener  Qu ces ours pez fur occs  Pr noegneurs es crconcs  Déj cette troupe nfdee  Auot enf évenee  Noegneurs deSynguogue Detë Snt Honoré  Cette rce orgueeue &rogue Ps vn nen etot demeuré  Coeo ene eene enounnen en eoe mener  Comme chcun çt en tout eu Pron mheur e prt à dre  Sus e re ont de Corre ueoques vns de eurs vo  Aux yeux dedoente Mere  L Syngogue qu sen v  Et qu rt encore ujourdhuy  De ceux qu neperent quen uy C commnçons notre crrere  M Mue & chngent de mtere  Dons que ce fur vn eudy  Du mos dAout pres mdy  Que Meenrs deFrppere  Oupuot deufvere  Mrchoent tous u on du tmour  Venns de grder à eur tout  Cette proe etnt oüe  Pr deux de cette Compgne  Ee fut redte ot  Aux ufs eques ns dre mot  Se rent de ce jeune homme  enu ene e ne nenune  Et toutetroupe à ce rut  eoe  Du ujet de cette grre  Enfn pendnt ce tntmrre  5"
+            "cette voiture de ſel fuſt allé iuſques à Orleans:",
+            "Ceux d’Orleans ayant deſſein d’en faire de meſ",
+            "me s’accordent auec ceux de Tours, & font ce",
+            "complot enſemble, leſquels outre les defenſes cy",
+            "deſſus faites, prennent du canon, s’attrouppent,",
+            "foreent vn paſſage qui eſtoit entre Nantes & Sau",
+            "mur, & s’en vont encorc audit Nantes, d’où ils ap",
+            "porterent telle quantité de ſel, qu’il leu en reſta",
+            "encore plus de la moitié n’eſe pas la le moyen",
+            "de mettre tous les Greniers à ſel, & de ruiner le",
+            "Domaine du Roy, n’’on pas vendu le lel de tous",
+            "es Greniers pour payer les gens de guerre,&l",
+            "on ne met ordre à cette confuſion: Ie eroyſer",
+            "mement que le ſel ne vaudra que o. ſols le Boiſ",
+            "eau, dequoy tout le’monde ne ſera pas faſch",
+            "pour lon profit: mais au deſnuantage du o",
+            "puls qu’vn ue paye plua uy ls uy l",
+            "e peuple eſt tellenment reſout qu’il ’en payr",
+            "pount que cet infame etnanger nayt reſtiru",
+            "paris edet Illuſtre Threſor qu’il luy a rauy, & lor",
+            "qu’vnpeuple vera qu’onn’aaucun deſſein de fai",
+            "dauanrage la guerre, alor il ſe mettra en ſon d",
+            "uoir. Ie eroy qu’il ny a perfonne qui ne ſouhai",
+            "re le retour du Royà Paris, & qui ne vouluſt tro",
+            "uer occaſion de luy teſmoigner, puis qu’ils ſo",
+            "preſts de veſer nſque la derniete goure",
+            "eur ſang, pour luy rendre ſes treumble d"
         ],
         [
-            "e Leutnt etnt venu  Ce mheureux fut ms rout nu  Et condut en cette poture  Cu e Cptne demeure  Leque voynt cét fgé  C d qu ot futǵ  Quon e e quon e grotte  Quon e chte quon e frotte  An ut dt n fut ft  Chcun deux uyon ft  Et ce puure corps dnspene  Etot hors de force & dhene  Lors que ces Demons nfer nux  Non sfts de tous ces mux  Pour ccer ce mere  Luy font fremende honore  Et uroent enfn ms en Crox  An que frent utre fos  Leurs utheurs cette rce nmonde  eus Chrt e Suueur du mode  Snscrnte du chtment  Qu es rent dns ce morment  S en qupres vn ong upce  Cette gent pene de mce  De rgueur & de cruuté  Enfn donnerté  A cette puure creture  Qu pour e vnger de njure  V frepnte enecret  Aux Offcers du Chteet  Leques ntruts de cette ffre  Pr e rpport dvn Commre  Pour reprer tous ces exeeds  Sns utre forme de procés  Decrettent contrece  De tous es Frpers deHe  Lvn dequesfut u corps  Pr deux Sergens & tros Records  Et ms u tot dnscge  our y pprendre à etre ge  Dont e rete fut en urprs  Aot qus eurent pprs  Lempronnement de eur frere  Chcun en gronde de coere  Et jure pr on grnd juron  Sot pr Moeou pr Aron re  Qu fut que tout eur Corps pe  Ou en quon eur fe jtce  Dx dentreux dãs ce mouuemét  Sen erent dgemment  Dvne fç̧on fort ncoe  Fre pnte à Hote de Ve  Et remontrer que ns ron  Leur frere etot dnspron  Quen u du on droct on ue  Que e cs duque on ccue  Et toute eur Communuté  Contreuent àverté  Et que sgnt de mce  Cetot ns cue & ns jutce  Que e feur Preuot de Prs  L connonce en uot prs  Là deus Meeurs deve  ugent qu erot dffce  Dpper tous ces grnemens  Apres queques ronnemens  Ordonnerent pr eur Sentence  Quon rot uec dgence  Trer eur frere de pron  Quon y detenot ns ron Cependãt quon prendrot mn  Pour eyer & fre en orte forte  Dee r de Epnger  S en que tout e Corps enter  De cette nton mudte  Qu e moque de eu ente"
-        ],
-        [
-            "Apres ce ft jugement  Sns retrdr dvn eu moment  Se & chcun prend es rmes  Et rout dvn tëps ces õs gẽdrmes  Sen vont chez e puure Epnger  Fort connu dedns on qurter  Se ent deperonne  Et cette nton feonne  Pene de coere & dorgue  Lttche deus vn futeü  Et dns cét ett depore  s conduent ce rmere  Deuers Meeurs es Echeuns  Lors que pueurs de es vons  Etonnez de cette vnture  Se pgnent chcun en murmure  Et det que cet vn ffront  Qu rejr ur eur front  Ss toerent cette entrepre  Qu fut eur re cher pre  Prforce ou prdouceur  Là deus vn homme de cœur  ntrut u meter deguerre  Aynt tré on cmeterre  Leur dt à tous Meeurs à̀ moy  Fons perr ces gens fns foy  Qu ontfous que dentreprendre  Deunt nos y eux de venr prendre  Vn Bourgeos dedns on qurter  s ne ç̧uent ps eur meter  C donnons detoc & de te  Sur e dos de cette cnte  Et eur fons vor pr nos coups  Ce que cet de sen prendre à nous  A ces mots e Bourgeos svnce  Les ufs e mettent en defene  Ms es voynsreous  ous épouuntez & confus  Pour fnr cette comede  Pr vn te de trgede  Lon de pouer eurs ns  En hommes drots & vns  Ces mechns ces omnes  Ces hõmes mons hõmes que des  Pr vn ttentt crmne  Dgne dvn uppce eterne  Tournerent eur rge feonne  Contre cette puure peronne  LEpnger que ces oups grous  Truererent de me coups  Et erent mort urpce  Son corps u frod quegces  Et pus chcun deux ot  Se rerr ns dre mot  Apres vne ctonee  Dgne dvne gore mmortee  An Meeurs es Crconcs  Ont nhumnement occs  Vn on Chreten vn honete hõme  Au grnd cnde de Rome  Et deve de Prs  Oùnnceuot prs  Qu dot pour vnger cét outrge  Mettre toute choe en vfge  Et fre ortr de es murs  Des gens demuues mœurs  Ou en pr ordre du Monrque  Leur fre porter vne mrque  Qu es dtngue des Chretens  Et es mette prmy es chens  Vo ce qu fur que on fe  Ce fnt on eur fer grce  Et Prs qus ont outrgé́  Pr ce moyen er vngé  FN"
+            "oir Et pleuſt à Dieu que nous fuſſions tous en ſe",
+            "eines, afin de le deſabuſer dee qu’vn, Faquin",
+            "Cicilien luy faict accroire tous les iours par ſes",
+            "gies & ſes Characteres.",
+            "FIN."
         ]
     ]
 }

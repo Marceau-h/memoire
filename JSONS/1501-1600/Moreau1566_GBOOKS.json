@@ -2,51 +2,139 @@
     "entête": {
         "form": "prose",
         "genre": [
-            "discours adressé",
             "harangue",
-            "pastiche"
+            "discours adressé"
         ],
-        "subject": "Anne d'Autriche, 1601-1666",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-08-26",
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)"
+        ],
+        "creation": "1651-02-13",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-21",
-            "@who": "MF"
+            "@when": "2022-03-14",
+            "@who": "AB"
         },
-        "titre": "Harangue faite à la reyne par un révérend père cordeliers\n          , sur le sujet de la paix.",
+        "titre": "Harangue faite à madame la duchesse de Longue ville sur\n          la liberté des princes de Condé, de Conty et duc de Longueville, princes du sang de\n          France, prononcée par le sieur de Sommerance, lieutenant général civil et criminel de\n          Stenay, et député des trois estats de la province d'Argonne.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau1566_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1568_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Hrngue fte àreyne pr un révérend père cordeerssur e sujet depx Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Hrngue fte àreyne pr un révérend père cordeers (sc) sur e sujet depx Prs Ncos Lerren 652 trosème semne de m 652 Lyon Bothèque muncpeRés 309983TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Pstche de \"Hrngue fte àReyne pr un reverend pere chrtreux pourpx\" Prs 652 [ ] p (BM00835) Texte prutrosème semne de m 652 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 3v)Ce document est un pstche de \"Hrngue fte àReyne pr un reverend pere chrtreux pourpx\" 566 Hrngue fte àreyne pr un révérend père cordeers (sc) sur e sujet depx Prs Ncos Lerren 652 7 pges Lutre estHrngue dun R P céestn etcprose dscours dressé hrngue pstche Anne dAutrche 666Premer édt dmnste 656"
+            "HARANGVE",
+            "FAITE",
+            "A MADAME",
+            "LA DVCHESSE",
+            "DE",
+            "LONGVEVILLE",
+            "Sur la liberté des Princes de Condé, de Conty, & Duc de",
+            "Longueuille, Princes du Sang de France.",
+            "Prononcée par le ſieur DE SOMMERANCE, Lieutenant",
+            "general, civil & criminel de Sternay, & Deputé des trois",
+            "Eſtats de la Prouince d'Argonne.",
+            "A PARIS,",
+            "Chez N. Beſſin, en l'allée S. Michel.",
+            "M. DC. LI."
         ],
         [
-            "HARANGVE FACTE A LA ROYNE Pr vn Reuerend Pere Cordeers Sur e uet dePxA PARS Chez NCOLAS LER REN prés e Coege dArrs M DC L"
+            "4",
+            "eſprouuant la perfidie & l’ingratirude d Cardinal",
+            "Mazarin, perdirent leut liberté; Er qu’au meſme in",
+            "Itant elle benſt & loue la meſme journée, qui fauo",
+            "tiſa la voſtre pour ſolliciter & obtenir du Roy celle de",
+            "ces trois grands Princes, vos Freres & voſtre Eſpoux.",
+            "Voyla, ADAM, comme la riſteſſe & la joye par",
+            "agent nos ames, qui ne reſpirent que la deliurance de",
+            "nos Princes, & de leur donner dans leur captiuité des",
+            "marques & des preuues d’vne affe ction & d’vne fide",
+            "lité toute entiere. Cette Prouince, MADAME, a",
+            "deſia employé ſes biens pour la ſubſiſtance des troup",
+            "pes enuoyées pour leur deliurance, la voyla encores",
+            "toute preſte à eſpancher & verſer le ſang qui luy reſte",
+            "pour leur liberté́. Cet empriſonnement, ua me,",
+            "donne maticre d’eſtonnement à tout le monde, &",
+            "particulierement aà̀ ceux qui depuis peu one veu ce",
+            "grand Prince de Condé, ou plutoſt cette viuante",
+            "mage d’Alexandre & de Ceſar, gaigner tant de ba",
+            "tailles, & conſeruer le Royaume auec vne ſi incroya",
+            "ble hardieſſe. On l’a veu vainqueur aà Rocroy, fou",
+            "droyant à Ftibourg & Norlinguen, triomphant à",
+            "Lens, & par tout où il a porté ſon Eſpeée. Cela ſur",
+            "prend ceux qui ont veu ce grand Duc de Longueville,",
+            "digne ſucceſſeur, & des vertus, & de la reputation de",
+            "ces grands Oomtes de Dunois, hazarder tant de fois",
+            "vie pour le ſeruice du Roy, & employer ſon bien",
+            "uec vne profuſion ſi granda, pour donner la paix",
+            "gene."
         ],
         [
-            "3 HAANV E FACTE A LA REYNE Pr vn Reuerend Pere CordeersAAE * j e reutos de venr rouuer votte Mjeté etmnt que e ne ery ps meux receu de vous que ces rues hommes deques vous uec mepré es nctes Remontrnces Ms enfn poué de E prt de Deu e me us reou quoy qu men peut rruer de venr vers vous pour vous prer de rentrer dns vous meme & de onger quen detrunt votre Peupe vous vous detruez voueme & per dez Ett de votre Fs & courez grnd rque de votre ut Vous vous etesn ouée qund pour conderer trop vn"
+            "generalle que ce Cardinal arefuſée à toute la Chreſ",
+            "tientré́. Et toutes ces hautes Actions, par la ſeulle",
+            "gloire deſquelles ces grands Princes ſe ſont rendus",
+            "chers & ſi recommandables à l’Hſtat & à la poſte",
+            "rité, ſont payées du prix, & de priſon & d’ingraui",
+            "tude. Mais il ſemble, MADA ME, que le ciel n’ait",
+            "conſenty à voſtre liberté que pour faire cognoiſtre",
+            "à tout le monde que ſi quelqu’vn debuoit affran",
+            "chir ces Grands Piinces de leur captiuité, ils ne le",
+            "deuoient eſperer que de Voſtre Alteſſe; & que cet",
+            "te gloire n’eſtoit deü̈e qu’à voſtre Generoſité. Vs",
+            "ctions toutes heroiques, MADME, font bien",
+            "veoir que vous eſtes la ſœur de ce grand Prince de",
+            "Condé, puis qu’en meſpriſant les auantages que",
+            "voſtre naiſſance vous a donné, & ſurmontant par",
+            "vn courage maſle la foibleſſe & la delicateſſe qui ac",
+            "compagnent ordinairement voſtré ſexe, vous vous",
+            "eſtes expoſeée à̀ l’orage & des vagues & des flots, en",
+            "trauerſant les mers. Vous auez percé les foreſts,",
+            "franchy les montagnes, eſſuyé́ tous les perils & les",
+            "dangers qui ſe ſont oppoſez à vos genereux deſ",
+            "ſeins, & fait teſte comme vn rocher inesbranſlable,",
+            "à toute les atteintes de la mauuaiſe fortune. De ſor.",
+            "te que ſans flatterie ie puis dire, & la poſterité le",
+            "publiera vn iour, que la generoſiteé de la belle, chaſte",
+            "& guerriere Taleſtris Reyne des Amazonnes, tant",
+            "vantee par les Romans, n’a eſteé́ que l’ombre & la",
+            "B"
         ],
         [
-            "4 trngere vous perdez tout vn Royume vous encourezcoere de Deuhne dvn Peupe qu vousutreos tnt y mcc & qutnt ft de vœux pour vous rendre Mere vn Peupe ds je qu vous e tmot comme vne fncte & enrecompene de toutes es onnes voontez vous e trctez uec ndgnté vous qu deurez etreprote&trce vous etesmeurtrere & pour fre trouuêr votre cue onne vous dctes qu et reeeon Roy pou ue vous en dre tee choe ns eer votre me crvous prennttemons e vous demndevous ne ç̧uez ps e cn trre de ce que vous dtes cet vn tre muus pretexte duque vous vous eruez cr ms votre Peupe ne set rceé con tre on Roy ms en contre e Crdn Mzrn equeuré́rune & qu u nt des grndeurs ou vous uez eeueé́vurpé ur e Noe & e Roturer ou eueré́ toute Ftnce & msdcenon entre e Roys Prnces & es Sujets & en core vous e protegez ymnt meuyx vor tout perr que de conentr à on eogne ment qu erot votre repos & ceuy de tout e eupenet pont de ron qu vouS"
-        ],
-        [
-            "vous peuue echr ers dett mee ceus e eroét enouordutté de votre me tnt de pyesumentes ne vonus touce pont tnt vous etés enduree hes uvots etot fee dsnete terds à nos ux dns eur cmnetétj uot encore quvne pette cctree s vous en? uez ft v n nerredequd ms us ourrez guerr Vou s po é e fet &e e feut quoy u pour vn hom ue vou vo redeeene de Deus & detoutos es Nts qune voudtont ps otvns Reyne rueé que ousmet cun Roy rne Pentt dTerre q ne setohe onneet poe quà oeen dv homme deent vous prdz nRoyo qu de eét tre ndes ps pufns de ues tt pou etre Popde qe pour etre hndnt en Sçe & Rchefes do pour ons Trfe & eusé ms ons e voujeendre nderr& eouuevn f eux deert qu m̃s oy pxer dvo enne ques de detrure propre e de d́motMonegorger es es perdre tutece que onde ps ehecon ommor ce e es y ont dep pre B"
-        ],
-        [
-            "ces dquy s u syouupe? unt onffrr quuçun mondr voenee & cetperte de çutes ho es cet où vous vus pe& depe eruee vououe euoueéz peû &ett tout Etz e pons pouuur etg vengees o vo e qu v vpt ynex p q oofen ut &noçue ps qndeervs ueougrn pus qo os eteuezycot qu vusmntnstenousyus qugret s Pupesquent depys & pus per e otrequeepunptStôû Et degrce tdnquoo ceque tsf ereez ete f4 ehez oe peretux Bnoy de E vous fez pdue enues p reux Cnesnedédegpsoo rsfhoohç quep fone eeurs que e de tt dee4 geuqus ns ynus prérsse pur ememegep duque e ousprtôd de qooyts vousetsoquét rout oe ft cs Deu qu suot uoye dus voue dgné d mpns quevus u ftàeseresss sue vous de Dud qu enoỳ desMefgen"
-        ],
-        [
-            "7 N pour e requerr de queques grces nue oen one de e oumr des hueur quuot reeeu de eut mtre es njur es enuornt en e moequent de uy de quoy Dud fut teement courouć qu ur de per u f de epée N & tout ce qu uy pprtenot & venot executeron deen s neut trouué ren contrepudente Agu qu e fecht pr os excu es & pr es preens ms vous udme vous nurez ps ffre ̀ Dud ms u Deu de Dud eque fer ncer es cr reux devngence ur votre tetevous ne venez u deunt de uy nouec des pre ens ms uecvn cœur repentẽt pour es cru utez ftees crerures &vous ne re medez promptement ux meres de votre puure Peupe pr vne onne Pxnfe ment vous entrezcoere du Ce Adeu & prenez y grde FN"
+            "figure de la voſtre, qui ternit auiourd’huy, & ſon",
+            "ue pour ſa luſtre, & ſa gloire. Que nous reſt’il plus, A",
+            "geueroſité, &",
+            "u e DAME, ſinon de faire vne ſupplication tres hum",
+            "ble a Voſtte Alteſſe de receuoir nos excuſes, que",
+            "P? nous eſtabliſſons dans la miſere & dans la calamit́",
+            "Autheus, &",
+            "parieuliere du temps. Si Voſtre Alteſſe n’eſt pas receü̈e auec les",
+            "ment dans la",
+            "cure, ceremonies, les pompes & les appareils qui ſont",
+            "chaſtet é n’e1",
+            "t deus à vn Princeſſe du Sang de France, non moins",
+            "conſiderable",
+            "conſiderable par ſa vertu que par ſa naiſſance, & aà",
+            "que ſa geoe",
+            "roité.",
+            "quelle la nature a ſi liberalement departy tous les",
+            "duantages qu’elle eſtoit capable de luy donner;",
+            "Puis donc, M AD AmME, que nous ſommes reduits",
+            "& mis au nombre de ceux qui ont les mains trop",
+            "courtes pour paruenir aux effets, nous immolerons",
+            "ur l’autel de vos incomparables vertus, non pas vne",
+            "victime materielle, mais les plus pures & les plus ſin",
+            "ceres de nos afections, que nous ſupplions tres",
+            "humblement Voſtre Alteſſe d’accepter d’auſſi bon",
+            "cœur, que nous ſommes ſes treumbles, trei",
+            "dels & tebeiſſans ſeruiteurs."
         ]
     ]
 }

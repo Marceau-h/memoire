@@ -1,42 +1,131 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "dialogue",
+            "satirique"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
-            "Longueville, Henri II (1595-1663 ; duc de)",
-            "Comminges, Gaston Jean Baptiste de (1613-1670)"
-        ],
+        "creation": "1650-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-14",
+            "@when": "2022-04-19",
             "@who": "AB"
         },
-        "titre": "Le jeu de dames que monsieur le prince de Condé joue avec\n          M. Guitault .",
+        "titre": "Le jeu du dé, ou la Rafle de la Cour.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1734_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1735_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Le jeu de dmes que monseur e prnce de Condé joue vec M GututÉdton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Le jeu de dmes que monseur e prnce de Condéjoüé vec monseur Gutut Sns LeuSns Nom65 févrer 650 Prs Bothèque MzrneM308FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Retf à rrestton des prnces de Condé Cont et Longueve pr Gston de Commnges comte de Gutut e 8 jnver 650 En forme de dogue Autre édton repérée pr Huert Crrer vec p de ttre 4 p proement orénse (Huert Crrer Bothèque Mzrne Ms 468 f 8) Ttre de déprt Texte pru en 65 dprès Céestn Moreu en févrer 650 peu près rrestton des prnces dprès H Crrer (Bothèque Mzrne Ms 468 f 7 v) 734 Jeu (e) de dmes que monseur e prnce de Condé joue vec M Gutut (sc) (S65) 3 pges Pmphet trère qu fut tâcher de ne ps comprendRèproseCondé Lous de Bouron (686prnce de) Cont Armnd de Bouron (6266prnce de) Longueve Henr(5963duc de) Commnges Gston Jen Bptste de (670)"
+            "LE IEV",
+            "DV DE",
+            "Ou la Raphle de la Cour."
         ],
         [
-            "LE EV DE DAMES que Moneur e Prnce de Condé ̀ oüé uec Mon eur Gutut Monfeur Gutut prnt à Momeur e Prnce VOus pez vous u eu de Dmes Moneur e Prnce Queque fos e my duerts & e my ps fort qundy e deus & que e pus Dmer Monffeur Guudt Pour moyyonemps que e ny yoü̂é que e croy uor oué́ ejeu Moneur e Prnce Qud y prfteme o e peur ms ouer Moueur Gue e oe oüer uec vous y peur de netre ps ez fort Monfeur e Prnce e ny y ms en oü̈é́ & y çy ueune fne e e ne fs que remuer toutes mes Dmes vnepres utre ns ordre & àfn e men trouse m Moneur Gutut e mhzrdery due de oervne prte msr A"
+            "LE IEV DV DE",
+            "Ou la Raphle de la Cour.",
+            "LE ROY.",
+            "La primauté emporte tout.",
+            "LA REYNE.",
+            "Mpje ’Qleae:",
+            "yiöé à depeſche cmpagſa ,",
+            "Monſieur de Vedoſoaa",
+            "y touſiourcsaineflod roi;",
+            "Muſud Mebana",
+            "e veux ioetieuat pfaaaalaé",
+            "eraoni"
         ],
         [
-            "fut que ye duntge de Tros pons utremens e ne pus oü̈er Moeur e Prnmce Ce que tu pours prendre en ount e te e doue Mosur Gurut e men vs doneeommencer Moneur e Prnce e ne ç̧y de pus que oü̈er Moneur Guue Aunce vous etes en eureteé́Moneur e Prncey Tros Pons qu ont en grnd dnger4 Monfeur Gurur e es prendery e pus Monmeu e Prncefut que e tché ̀ es uuer Mnfeur Gut e vous en empechery ene Tune me donneueun qurep 4 2 foeut Gd Voy eu coup de ros que e vs fre Moneur e Prnce Cet ce qu er ue depere Monfour Gunue Vous tez h joeé vous ne fç̧urez pus er à Dhes Moeut e prnce eer ne ne q t unrr"
+            "e",
+            "Monſieur le Cardinal..",
+            "l’ayout gagnéuſques à preſnt, i’ay fait iis,",
+            "e de quatre.",
+            "i",
+            "J Monſeur de oaufole",
+            "Siie ponaois fairevn point de plus e4 raphle",
+            "mon ieſeroit plus pepu que le otre..",
+            "conſieur le ÇCoadjateu.",
+            "7",
+            "Si ie n’euſſe melnagé́ non ieu, ſ’autoispardi",
+            "uſquesà ma Croſſe.",
+            "e",
+            "i",
+            "onſieurde rouſie",
+            "l",
+            "eu qal penſoinus loueur la pls oui",
+            "moy, ie les fetay ioüer à l’oion..",
+            "Monfiut lP̂aee de ̂ondé́,",
+            "Toute ma chace eſt tournea.",
+            "onſier de Lngaevilleé?",
+            "Voulant piper, li’ay eſtédſ le Ail’’",
+            "Monſieale Priedotonr?",
+            "dua ſes ue pal de dejed",
+            "doaſie"
         ],
         [
-            "3 Mnfeur Gutur Votre eu ne vur pus en Moneur e Prnce y eté trompé e penos fre vn eoup de Tros ms tu menfrvn pus eu Moneur Gututfot ver de preuoyence Monfeur e Prncenet pus temps e ne pus ps reter tu s ms trop on ordre à ton eu Mneur Gutut ne utros vous joü̈rez meux Moeur e Prnce S e me fue déft dvn Pon uos ggné ms e u croos ps que e eu rot defçon Moneur Gututfu que vous quttez Moneur e Pruce S tu netos pontfort e pouros me Suuer ms e us prs e ny pus de Dmes Monfeur Gutut Cet ez jouéet trd e vs errer es Pons de peur qus ne e perdent FN"
+            "3",
+            "ronſieut Perot Preſident.",
+            "py pedu paout , on a faie rafe e du",
+            "hui ſur noſtre ieu.",
+            "Le Atarelehal de Grandmont.",
+            "2 rafle me deſplaiſt, ieu de ſepe & le N",
+            "neſeloit plûs agreable.",
+            "L’Abbé ds la Riuie",
+            "Tout le unde eroit que ie iche!",
+            "mab  a",
+            "Madame d’Oleans",
+            "Moaſier touſioun padu, ii uuei",
+            "nait l a bea ieui.",
+            "Madamoiſelle,",
+            "y a lonps que igpeds a l.",
+            "o..",
+            "aa",
+            "Maaile de Cheurule,",
+            "e oiſie lieus que ie ne iou,",
+            "Madame d Monbagol:",
+            "H piue que e ei ie Eeiy",
+            "E",
+            "gagets"
+        ],
+        [
+            "1",
+            "Monſieur le Comte d’Haureou",
+            ", is gisneny plus au",
+            "die qu’à Paris.",
+            "Meſſieurs de Bouillon , de Turaiae",
+            "& de la Mouſſaie.",
+            "Nous aſpirons cous à vae bonne rafle, o",
+            "oouaſommes contraints de maſſer à la poſte.",
+            "Monſieur le Chancelier.",
+            "e m’entretienscouſiours au hazard du ie",
+            "Monſieur Dauau.",
+            "„ondis qu’ò ramaſſe le ieuiene perds peiue",
+            "de temps.",
+            "Monſieur de Chaſteaeuf.!",
+            "yà ongtemps que le regarde les ioueur:",
+            "Le premier Preſiden.",
+            "nenoie dln e ne ſdſiuaus le nneio, ui",
+            "chenie reuient ouious i ſoa maap",
+            "Monſieur d’Eſmery.",
+            "ee deuois tenirà̀ ongauua, ie nerepû"
+        ],
+        [
+            "uoir t’entté au ieu.",
+            "Monſieur d’Alligre.!",
+            "Machance n’a guere duré.",
+            "Monſieur Thubeuf.",
+            "e me iens de iouer, car ily a fort peude choſe",
+            "ieu.",
+            "M. DC. L."
         ]
     ]
 }

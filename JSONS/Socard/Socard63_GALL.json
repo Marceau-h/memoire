@@ -1,7 +1,10 @@
 {
     "entête": {
         "form": "prose",
-        "genre": "épître",
+        "genre": [
+            "relation",
+            "récit"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -11,64 +14,187 @@
             "@when": "2022-08-08",
             "@who": "MF"
         },
-        "titre": "Piece (La) de Cabinet",
+        "titre": "Relation véritable dv grand Combat naval donné les 8, 9\n          et 10 d’Aoust 1653 entre les Flottes d’Hollandes et d’Angleterre, sur les Costes\n          d’Hollandes ; et de la Victoire signalée demeurée aux Hollandois",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Socard63_GALL.xml",
+        "fichier": "Socard68_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Pece (L) de Cnet Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202Etenne Crneu Pece (L) de Cnet Prs Jen Psé 648 Prs Bothèque numérque déprtement Lttérture et rt Y8FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs63 Pece (L) de Cnet Dedée ux Poëtes du Temps ÀA Prs chez en Psé 648 ° de 6 pges En vers exndrnsLéptre dédctore ÀA Messeurs es Poetes est sgnéeCARNEAV Le sou ttre depèce Sfnces engmtqves ndque e genre dopté pr uteur qu ft prer et rsonner une Boutee mot de Engme ms une outee pene de vn Soxnte qutrîns ssez en tournés céèrent cs huts fts de héroïne cchée sous es voes de éngme On peut dre que e sujet y est presque épuséprose épître"
+            "RELATION",
+            "VERITABLE",
+            "DV GRAND",
+            "COMBAT NAVAL",
+            "Donné les 8, 9, & 10 d’Aouſt 1653",
+            "entre les Flottes d’Hollande &",
+            "d’Angleterre, ſur les Coſtes d’Hol",
+            "lande; Et de la Victoire ſignalée",
+            "demeurée aux Hollandois.",
+            "A PARIS,",
+            "Chez PIERRE DEAYES, rue de la Harpe,",
+            "ux Gands Couronnez.",
+            "M. DC. LIII.",
+            "AVEC PERMISSION."
         ],
         [
-            "LA PECEDE CABNET Dedée ux Poëtes du TempsA PARS Chez EAN PASLE u Ps ̀ entrée deSe Duphne ̀Pomme dOr couronnée M DC XLVAVEC PERMSSON"
+            "RELATION DV GRAND COMBAAT",
+            "Naval, donné les 8. 9. & 1o. d’Aouſt r653.",
+            "entre les Fottes d’Hollande & d’Angleterre",
+            "ur les Coſtes d’Holande; Et de la ictoire",
+            "gnalée demeurée aux Hollandos.",
+            "T",
+            "E CHEVALIER Tromp Admiral d’Hol",
+            "lande avec ſa grande Flotte de quatre",
+            "vingix Navires de guerre ſortit des",
+            "Ports de elande le 6. de ce mois d’Aouſt, pre",
+            "nant ſa route vers l’emboucheure de la Meuſe,",
+            "& le Port de Texel en Hollande, en intention;",
+            "Premierement d’ouvrir ledit Port de Texel par",
+            "retraite des Anglois qui le tenoient fermeé,",
+            "Secondement, afin de pouvoir joindre le Vice.",
+            "Admiral d’Hollande le ſieur Vvitte Vvittens qui",
+            "eſtoit dans ledit Port avec ſon Eſquadre de tren",
+            "te Navires de guerre; & cela fait pour en fin com",
+            "battre leſdits Anglois.",
+            "Le 7 ledit Admiral avec ſa Flotte vint à la",
+            "hauteur de la Meuſe, & en donna advis audit",
+            "Vicdmiral Vvitte: lequel ſortit dudit Port",
+            "de Texel, & voyant la retraitte de la FHotte An",
+            "gloiſe, laquelle avoit ſenti le vent de la venue",
+            "A ij"
         ],
         [
-            "Se A M up TE T D ESSEVRS ESSEVRS3 Cette Pece de Cnet ne setme ps ndgne de entrée des vôtres & pretend queque pce prmy es curotez deprt dont s ont enr chs Cet vne Boutee qu pre & qu ronne etnt pene de ce qu ft fre ron ̀nté des pus grnds Prnces dvne mnere en pus douce que eurs cnons que on nomme eur dernere r on nefont fre ̀ eur punce Et en quee ne pre quen gzoünt ee ne e ps dexpr mer ez drotement on orgne & es effects depus dgne queur qu uy pue cquerr de e tme sen cqutnt nentmons vn peu ocure ment pour ccher es myteres u vugre ndcret qucoutume de es profner Ee merte nguerement detre conderée ors que comme vne utre Semee ee porte dns es fncs ce gent Deu deoye & deerté dont tré on nom ̀"
+            "dudit Admiral Trompſe mit à la voile, & ledit",
+            "Admiral avanç̧ant tousjours vers ledit Texel",
+            "rencontra la Flotte Angloiſe forte (comme on",
+            "dit) de plus de ſiingts voiles, & ſous la fa",
+            "veur d’un combat advantageux joignit heureu",
+            "ſement le ſieur Vice Admiral Vvitte & ſon Eſ",
+            "quadre le9 d’Aouſt, & par là les Ports de Texel",
+            "furent entierement abandonnez parles Anglois",
+            "& tous libres & ouverts pour les Hollandois.",
+            "La Flotte Hollandoiſe ainſi jointe fut incon",
+            "tinent formeée en quatre grads Eſquadres, dont",
+            "edit Admiral prit le premier, & ſe plaça à main",
+            "droitte: Le Vic Admiral de Zelande Iean",
+            "Evertſon avec ſon Eſquadre ſe mit au milieu: Et",
+            "e Commandeur de Ruyter de Zelande avec le",
+            "en à main gauche. Auſſi ordonnn un Gros",
+            "mportant qui ſuivroit de prés, dont le com",
+            "mandement fut donneé audit Vicdmiral de!",
+            "Hollande le ſieur Vvitte.",
+            "Auſſoſt on alla tout droit vers la Flotte",
+            "Angloiſe pour la ſuivre, laquelle fut atteinte le",
+            "o d’Aouſt aà̀ ſept heures du matin, & inconti",
+            "nent attaqueée par les Hollandois. Le choc fut",
+            "fort aſpre, & nonobſtant que le Gros principal",
+            "des Anglois environ de ſeptante grands Navires",
+            "e tenot clos & ſerré́ ſous trois Admiraux: Nean",
+            "moins les Hollandois le percerent & paſſerent",
+            "tout à travers, & ſe trouvans aà̀ l’autre coſté, ils",
+            "e1"
         ],
         [
-            "eseeeeoe4 qu es pus eueres Ctons nont psrefué eurs hom mges qund s vouoent déer eur eprt du on des ffres puques ou du chgrn dvne trop pro fonde medtton Ee n que des chrmes nno cens pour es honetes gens qu en vent de meme & net ps compce des excez que commettent es rutux qund s uent de es dons que oncom pre entre es prnepux entfs des meres hum nes LAuteur de cette pece qu ne vous et ps n connu e promet tnt de vos ontez qu seure que dree qu vous en ft ne vous er ps dé pnte & que vous gréerezvenerton qu voüe ̀ vos ees qutez pr cee qu prend MESSEvRS De votre tres hume & tres oeynt eruteur CARNEAV"
+            "rras a p",
+            "1",
+            "e rejoignrent & tomberent derechef fur lediu",
+            "Gros Anglois, le rompirent, & repaſſerent la",
+            "econde fois avec beaucoup de desbris & dom",
+            "mage auſdits Anglois.",
+            "Mais le malheur voulut que durant cette bel",
+            "le action le Chevalier Tromp Admiral Hollan",
+            "dois y fut atteins d’vn coup de bale qui le tua.",
+            "Ainſi mourut ceét homme de trerand courage",
+            "& valeur, de fort bonne conduitte au faict des",
+            "rmes de la Mer, renommé par pluſieurs grands",
+            "& heureux ſuccez, aimé & regretté de tout le",
+            "monde.",
+            "Ce nonobſtant par le bon ordre que ledit",
+            "Admiral Tromp avoit donné à tout evenement,",
+            "es Eſquadres Hollandois, & le Gros ſe forme",
+            "rent derechef, & ſe jetterent pour la troiſiéme",
+            "fois ſur la Flotte Angloiſe, & la paſſerent, où",
+            "e ſieur Iean Evertſon Vicdmiral de Zelande",
+            "receuten ſon Navire pluſieurs coups fort dange",
+            "reux, qui le neceſſiterent de ſortir de la meſlée, &",
+            "de s’aller rendre vers Goerée, Port d’Hollande,",
+            "tout proche pour ſe refaire, & ledit combat toû̂",
+            "jours fort aſpre & rude fut continue par le Vice",
+            "Admiral Vvitte, le Commandeur Ruyter, &",
+            "Pierre Hloris Contr Admiral d’Hollande juſ",
+            "ques à̀ deux heures apres midy qu’ils attaque",
+            "rent & paſſerent derechef la Flotte Angloiſe",
+            "pour la quatriéme fois, & dura cettemeſlée juſ",
+            "B"
         ],
         [
-            "r25 o eq t Vf de E T L2  L us es 4 Y CABNET HRSTANCES ENGMATQVES A OS qu pr e nectr de vos doctes mer os e uees ee Auereedes pus eurennusPrenez e pemps dentendre qu e us Et prete ̀ ces vers e cœr & es orees 3 e ns dvn fort rer & dvn oufe trteEt jenfnte ns pene vn frut qu tent du feu pe ere e e e ene oe eee 8s y fort peu de euté quoy quon me treuue eeNynt ren que e ventre &ouche & e couToutesfos mon mour rend tnt de monde fou Quux pus pes euxemequeree B"
+            "aaer",
+            "6",
+            "ques à neuf heures du ſoir re d’Aouſt, & alors",
+            "es Anglois tirerent à laMer, quittans le comba,",
+            "& ſe ſauverent à la faveur de la nuict.",
+            "Les Lettres publiques diſent, Que leſdits",
+            "ollandois yont perdu trois Navires, autres di",
+            "ſent quatre. Le Cõmandeur de Ruyter mande de",
+            "la perte desAnglois qu’il a veu perir cinqde leurs",
+            "Navires, trois autres Navires Anglois embaraſſez",
+            "enſemble furent bruſlez par un bruſlot Hollan",
+            "dois, & autres de plus enfoncez ou bruſlez juſ",
+            "ques au nombre de diuict, ou comme di",
+            "ſent quelques uns dieuf Navires de guerre",
+            "en tout. Et entre iceux pluſieurs Navires princi",
+            "paux.",
+            "Le Commandeur de Ruyter Zelandois fut",
+            "mal mené ceſoir là qu’il fut contraint de ſau",
+            "ver ſon Navire dans le Port de Goerée.",
+            "Le Vicdmiral Vvitte & le contre Admi",
+            "Tal Floris apres la fuitte de la flotte Angloiſe,",
+            "r’aſſemblerent leurs Navires durant la nuict, &",
+            "ur l’aube du jour onziéme ne voyans plus les en",
+            "nemis qui eſtoient allez chercher leurs coſtes, ſe",
+            "nmirent à la voile vers le Port de Texel, où ils ar",
+            "1",
+            "riverent le douzieéme au nombre de quatre",
+            "vingts quatroze Navires de guerre, tout le reſte",
+            "de leur flotte ( exceptez les trois ou quatre per",
+            "dus) s’eſt venu rendre ou dans la Meuſe, ou aà",
+            "Goerée, ou en ZCelande."
         ],
         [
-            "6Pour uuer des dngers e treor que e porte Vn rt ndutreux mrme uquu goer Vne ure ou de onc ou doer Compoe mes hts de dfferente orte 6 Lonme vod uquu cœur qund e s toute nué Et œ qu me regrde en moy meme e pent Msdns cet ett quequeetourdy mtent Souuent du mondre chocme re & me tuë e d e me ps nentmons où e us hrceée My voynt ̀fn tout e monde oums Ceux que e ets ̀ s ont mes meeurs ms Et pr fos nous tomons eneme enmeée o Chez eux ouuent e meurs ouuent e reucte Perdnt cent fos mon ng e recouurnt cent fos En me crent trop on e met ux os Et pus e fs de m dutnt pus on mexcte e e çy comme Crcé rt de metmorphoe Pour trnsformer esprt de tous mes Courtns Les rendnt fureux ou rutuxs ou pns Seon que e cmt ou humeur es dpoee nme Eoquence & nen s ps pourueüe S on méntend prer ce net quen vomnt Mes trop frequens ers rendont homme mpunt Et font rrer es ps en egrntveüe"
-        ],
-        [
-            "7 e Dvne humeur ns pree vn Deu mempt even Ee tegnnt tour ̀ tour des mes coueurs tre Déroe & du ys es pus ees des feurs Et e rouge & e nc ont chez moy dns eur centre 2eLe puure me tennt qund e us n pene Ne porte pont denue ux treors de Crœus Et trnnt des ouers & des s decouusmrche uec orgue comme vn grnd Cptne de Auec mon exr e pus che courge Tromphe quequesfos des pus rues Guerrers y des foudres pour nure ux pus dgnes urers Et pour fre vn ffront ̀ eur utre omnge Ee Sns moy ce Deu fougueux qu prede ̀Guerre Verrot es gens ns cœur errns ̀ ndon Et ce doux Aßn quon nomme Cupdon Verrot es trts ns moy pus frees que du verreOnvodfort peuoye ux eux doù emente Et on vodSgee où e nexcedeps e prete ̀ cey quequesfos des pps Anmnt es rons dvne emphe punte&e Cton ̀ ce quon dt recherchntquequeponte Pourttreres cœurs ̀ uure es dcours L fot menx prtre deme & de cours Qund m ouche seftot ̀enne conjote"
-        ],
-        [
-            "8 e me fs eftmerdxeme des Mues Pont es esprts ns eucoup de fcons Et es mondres Bergers font dmrer eurs ons Qund mon enthoume enfe eurs cornemues S e montre ux pus großers vne mté prodgue Mdmettnt ̀ eur te s jouent de moy L̀ e eur fs meer tout ̀onne foy Aux gettes du temps cent contes deLgue e e eur fs eter dvne grce uthentque Les guerres du pe es eges du preent Et eur fs penetrer en es utnt Les deens du futur pr eprt prophetque Ms es ngrts pour moy nont quvne mtéfnte Pus quynt epue mon ng & mes eprs s ne me voyent pus quuecque du meprs Tnt que dvn nouueu fruct e redeuenne encente 39 En effect ns ce fruct e eros peu de choe Et nuros ps ujet de eucoup me vnter Memespourrot en dns més fncs e gter S on ne mordonnot duorouche coe 8e e ne us quegne où ce gue qude Rece eveur & ccheeuté Tnt qu oge chez moy y devnté Lors qu en ort e peure & deuens toute rde"
-        ],
-        [
-            "9 e porte en e portnt poon & medecne Seon que us regne oudcreton Detnt e remede d&corrupton offene & e guenstetepotrne e Cet pr uy quon me oüe & que on me cree Luy eu ft que mon nom et pr tout reueré Et que tnt de mortes dvn ccent teré Mnuoquent u eon comme queque Deee 3e Le Voygeur é Artn hors dhene Et e Sodt recreu sempreent pour muor Sçchns que mon geneexceent pouuor De reueerforce & ddoucrpene e S fut fre vn mrché on veut que e men mée S sgt dvn contrct en condus es reors S prmy es pdeurse ft des ccors Pour es meux ffermrfut que e es eee e3e Le mde en on ct oùfévre e mte Et e tent ttché dvn rgoureux en Souuent pour morder reute Gen Et pre pus mon nom que ceuy dHpocrtee Pueurs pour mccuer me font des crfces De ngues de jmons de fromges pourrs Où on not que mots grs entremee de rs Et es pus doux encens ny ont que des epces C"
-        ],
-        [
-            "9 Tout ce quedéucheprs pour es morces Ces fus deof ces rgouts prfumez Pr qu es ntetns ont enfn conumez Donnent ̀ mes ttrts de merueeues forces e y pr tout du renom horms chez ces nfmes Dont orgue set rmé des cornes du Cront Qu pour me temogner vn cœur meconnont Sont trtres ̀ eurs corps ut en qu eurs mese e tromphe en ces ours qu rmenent es fetes De ce fotre Deu que on fent deux fos né Qu ne portnt quvn drd de pmpre enuronné FEt vor ux Jndens es premeres conquetes e ny ps mons dhonneur ors queCncue Repndnt es rers uquux eux pus ecrets Ft que Dne ue ux pus frches forets Et crnt que Cupdon sy gnt nerûe qe Aors mes ons ms prennent eucoup de penes Pour eogner de moy es ryons du Soe Et penns moger dvn pr nonpre s me font vn eu ct du crt des fontenes e Fotnt utour de moy cet eement mgrée Ms e ouffre ̀ regret qu penetre u dedns Prce qu romptponte ̀ mes ouons rdns Dont vn cœur tu séuee & e recrée"
-        ],
-        [
-            "4 rS frodeur me prunt de cheur nturee Prue mes nourrons de mes rches douceurs Qu ruentgore u rueu des neuf Sœurs En echuffnt eprt dvne fureur pus ee e Ms qund es ntetns dees ou mdes Se entent mence de queques mux ngns Pour moderer e Deu que ue porte en mes fncsOn me contrnt pr fos ddmettre es Nydes 2 e ne çuros pourtnt treuuer on ce menge Amnt meux tenr eu ce Deu qu me chers Et ft quen tnt de eux tout e monde me rt Que tous es fots dorez du Pctoe & du Gnge 6 s Son odeur prefere u doux prfum des roes Sçt donner ̀ m ouche vn ume preceux Pour qu es Deux dOude ndonnent es Ceux Et ont de meeurs tours quen es Metmorphoes Ade Js qutent e nectr que vere Gnymede Pour ceuy que on goute en mes ers chrmns Memes ce Jupter e pus chud des Amns Contre e m dmour cherche en moy du remede 3 Qe Apoon degouté des queurs du Prne Qu neurent quvn cheu pour premer echnon Mppee qundft queque onne chnon Et pour en entonner rdemmentmemre"
-        ],
-        [
-            "2 r e e pe ete Cette eu de Cte où on deueut Poëte Nnpre ̀ es poumons quvn ccent enrumé s qundme courtee ent nmé Dvn r qu rendvox pus dune & pus nette e8e Les mgnons de ce Deu font pr moy des mrces Et me douent honneur de eurs pus eux deens M feconde vertu es produt pr eens Et mon gouement eur dcte des orces E e Cet erreur de pener que dnsPoëe Lon pue reüßr ̀ mons que de mymer Tous ceux que mes pps ne peuuent enfmmer Nont ms quvne vene nferte & moe A e Ce Lyrque exceent deMue Romne Que ecene ppeot e Pndre Ltn Eu pourueu es vers dvnfmeux detn S m douce fureur neut enrchyvene? 8 S tot que on eprt entotptute Offuquer tnt ot peu es noes fonctons ccouros u ecours de es conceptons Dontmttnuotgore & e mertee Fuyntmedecne & es pus çuns Mtres Qu meognoent de uy pour coneruer es yeuxugeot eurs us ots & pernceux De nure u tment pour uuer es fenetres"
-        ],
-        [
-            "e 3 Le copeux Ronrd ndutreux odee Le grue du Bey gree Bf Le trgque Grner & Beeu e nf Me conutoent ouuent comme Orce fdee 3 Defportes mnutot ̀ es mgnrds ouurges entretenos Bertud dns es duns éns Et pour fre des vers pus forts & pus couns Du Perron me mndot pr quequvn de es Pges e Pour oüer vn Vnqueur tout couuert de trophées Pour decrre vn Amnt ngent dns es prs Et pour onder vn cœur uquux mondres ders Mon odeur euement es rendot des Orphées 8 e Mhere fut pres des premers dete De ceux que y pcez prmy es Deeux Ete ne pouos mon chrme dns es yeuxnen voyot ucun dns es yeux de Cte e Rcn Mynrd Gomut S Amn Theophes Cornee Scudery Trtn Merte Rortrou Ont pus pue chez moy de treors pr vn trou Quon nen perdt cent detre vne vee Pr moy Fret Beys Coetet Benerde Derets Mrech nct Aexs du Rer LEtoe tre Adm Ronet Peeter Auonent es Ceux dvn utre r quEncede"
-        ],
-        [
-            "4 Ce Cde pnt dontfotre verue Dpute e urer ux pus ges Autheurs Cet me Scron et de mes mteurs Et pour me courterqutterot Cnerue 3 Lys quoy que Pret & Crneu quoy queone Lors que eur vene cede ̀ queque nfrmté Cherchent putot en moypere de nté Quux oüetes de cené de ce & dntmone e3e Tous ces Heros du temps dont es rres genes Tennent ce que es Arts ont de rche de eu Ne pourroent ps uuer eurs œuures du tomeu S e ne gouuernos eurs doctes hrmones E e us vne des cefs du Tempe de Cemore e ouure ux ons eprts qu mment orement Et e ferme ux utux qu vuent ement Comnt ceuy de honte t es utres de gore 58 e decreguerre ̀mencoe Et fs euer e ege ̀ es uons Pour rempr e cerueu de ees vons Qu donnent de ect ̀ m douce foe e Que e us ogee ̀ cette utre pnte Qu me ft renommer pr on fruct uoureux Et que e veux de en ̀ ce Pote heureux Qu oge tout e onde enmon fotnte"
-        ],
-        [
-            "r 5 Ce Verd fut prudent de e mettre en vge Decouurnt e ecret den fre vne queur Pour e vnger des mux dvn ement vnqueur Et dßper ennuy dvn gener Nufrge 9e Sns ce fruct e eros n quvn corps ns me Quvne me ns eprt quvn eprt ns ron Quvn dee rreu pnté hors de on Et quvn fdee Amnt eogné deDme e Cet pr uy que e regne & regs es punces De Homme qu e dt e Roy des nmux Pr uy e us rtre & des ens & des mux Des noes & des rs des comts & des dnes eee? es 8"
-        ],
-        [
-            "eeus 6?  ve6oAhhhntut t reo L L A A j oVnd prvn doue effort ddree & de courgePromethee eneu du hut du Frmment Ce quuot de pus pur e pus noe Eement Afn de donner ve ̀nouuee mgevd proche dvn mud pen de fort on reuuge Bcchus tout eune encore etendu pmment Aoupy de vpeurs ronfnt profondement Sns oucy des mortes & ns crnte doutrge Ae Luy voynt qu pourrot ns trouer on repos Le pren re drotement emport ur on dos Et pour uy preprer vn ejour qu fut ete efçonn mon corps comme vn Ce porttf Cr poy trnprent n quvn corps ceete Pour y grder chez uy cet utre Cptf PERMSSON DMPRMER JL et perms ̀ en Pe Mreh nd Lrre ̀ Prs dmprmer ou fre mprmer vendre& deer vn Poëme nttué LA PECEDE CABNET compoe pr e eur CARNEA V uec defenes ̀ tous mprmeur Lrres & utres de queques qutez & condtons qus ent de mprmer ny conrefre à pene de tros eens ures dmen de confcton des exempres & de tous depens dommges & nterets F My 648 Sgné DAVBRAX"
+            "3",
+            "1 rpa",
+            "LeditVicdmiral Vvitte donna advis de cet",
+            "te victoire & de ſon retour audit Port de Texel",
+            "̀ Meſſeigneurs les Eſtats generaux, leſquels en",
+            "voyerent auſſi toſt des Commiſſaires de leurs",
+            "Corps dans toutes les Villes Maritimes & Ports",
+            "de leur obeiſſance, comme auſſi quelques Com",
+            "pagnies d’Infanterie pour les embarquer & faire",
+            "ortir en toute diligence avec tous les Navires",
+            "de guerre qui ſe trouveroient preſts eſdites villes",
+            "ouPorts, afin de ſuivre la Flotte Angloiſe:Cepe",
+            "dant que ſous vn grand convoy pluſieurs Navi",
+            "res Marchands qui ſe tenoient preſts ſeroient",
+            "conduits pour continuer leur negoce & trafic,",
+            "tant vers le Nord, le Sond, & la Mer Baltique",
+            "que vers les places du Ponant, leſquels Navires",
+            "ont en trerand nombre.",
+            "L’Eſtat a ordonné que les funerailles & I’en",
+            "terrement du feu ſieur Admiral Tromp ſe fera",
+            "ux deſpens de la Republique avec hohneur &",
+            "pompe convenable & ſelon ſon grand merite,",
+            "nt la memoire de ſes belles actions à la po",
+            "ſterité qui le fera vivre & perpetuer au nombre",
+            "de ceux qui ont montré une valeur heroique",
+            "ux commandemens & exploicts ſur la Mer",
+            "comme il a fait en pluſieurs rencontres tres",
+            "grandes & trempottantes.",
+            "FIN."
         ]
     ]
 }

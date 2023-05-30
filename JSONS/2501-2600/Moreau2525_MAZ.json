@@ -1,56 +1,118 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "burlesque",
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "discours adressé",
+            "sonnet",
+            "poésie à forme fixe"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Le jardin de renard",
-            "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
-            "France -- 1648-1653 (Fronde)",
-            "Paris (France) -- Palais des Tuileries"
-        ],
-        "creation": "1649-06-18",
+        "subject": "Charles I (1600-1649 ; roi d'Angleterre, d'Écosse et\n            d'Irlande)",
+        "creation": "1649-01-30",
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-15",
+            "@when": "2022-03-16",
             "@who": "AB"
         },
-        "titre": "La nappe renversée, chez Renard, en vers\n          burlesques.",
+        "titre": "Les nations barbares à la reine d'Angleterre.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2525_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2526_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L nppe renversée chez Renrd en vers uresques Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 L nppe renversee chez Renrd En vers uresques PrsSns Nom649 dernère semne de jun 649 Prs Bothèque MzrneM659TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes nspré prrxe queu eu en fn de reps e 8 jun 649 dns e resturnt du dénommé Renrd ux Tueres et quopposé es condéens et es prtsns de Mzrn (dprès rtce de Myrm Tsmdy \"Usge des mzrndes dns es Mémores deFronde\" dns \"Hstore et cvston du vre X\" p 228) 2 étts (A/B)p 39 \"genteres\" / \"gnteres\"p 424 \"ge\" / \"ce\"p 83 \"des de\" / \"des termes de\" Dprès Huert Crrer texte prudernère semne de jun 649 (Bothèque Mzrne Ms 468 f 90v) 2525 Nppe () renversée chez Renrd en vers uresques Prs 649 8 pgesvers uresqueLe jrdn de renrd Beufort Frnços de Bouroendôme (669duc de) Frnce6453 (Fronde) Prs (Frnce)Ps des Tueres Affre du jrdn de Renrd 64"
+            "LES",
+            "NATIONS",
+            "BARBARES",
+            "A LA",
+            "REINE D'ANGLETERRE",
+            "A PARIS,",
+            "Chez PIERRE TARGA, Imprimeur ordinaire",
+            "de l'Archeueſché de Paris, ruë sainct Victor,",
+            "u Soleil d'Or.",
+            "M. DC. XLIX."
         ],
         [
-            "LA NAPPE RENVERSEE CHEZ RENARD En vers urequesA PARS M DC XLX"
+            "SVR LA MORT TRAGIQVE",
+            "DV ROY ANGLETERRE.",
+            "SONNET.",
+            "Ecroirezi vous vn jour ſage poſterité,",
+            "L’attentat le plus noir, & le plus deteſtable",
+            "Dont l’extreſme fureur & l’inhumanité",
+            "Puiſſent rendre jamais vn Royaume coupable?",
+            "VnPrince Cieux ! vn Roy dont le trop de bonté",
+            "Fut de ſes qualiteZ, la ſeule reprochable",
+            "Deuenu le jouet d’vn peuple reuolté",
+            "Laiſſe aux mains d’vn bourreau ſa teſte inuiolable.",
+            "Barbare Nation que tu le payras cher!",
+            "Chaque goutte du ſang que tu viens d’épancbher",
+            "Eœigera du ien vn fleuue en récompence:",
+            "Mais que le Cielte ſoit à jamais ennemis",
+            "Et qu’il vſe ſur toy les fleaux de ſa vangence,",
+            "Ce neſera fpuuur lonrime qu’a demi.",
+            "L. L."
         ],
         [
-            "3 LA NAPPE RENVERSEE chez Renrd En vers Bureques  MVse qu mexucez touours  Lors que mpore ton ecours  Pour pouuor dgnement eenre  euee euon2  Vn crte Cton  Qu ne ft ms ce dn ?  Rconte moy cette queree  Qu met tnt de monde en ceruee  Pour uor renueré des prs  Et ft perdre vn fort on reps  A douze modernes Apotres  Qu trnquent en meux que es utres  Et qu ne mrchent ps peds nus  Prce qus ont des reuenus  Vn or dns es Tuyeres  Leu tres propre ux genteres  Vne troupe dhonnefes gens  Reous de per e temps  Dns ett deonne chere  Soupoent chez Renrd e on pere  4"
+            "3",
+            "LES NATIONS BARBARES",
+            "̀ la Reyne d’Angleterre.",
+            "MADAME,",
+            "La conſolation que nous voudrions donner à voſtre",
+            "Majeſté, ne ſe peut exprimer que par nos ſouſpirs, &",
+            "par nos larmes, & par nos gemiſſemens qui ſeront à ia",
+            "mais eternels dans nos ames; Le bruit & la relation eſ",
+            "pouuenrable du ſujet qui vous rend inconfolable, nous",
+            "oolige à vous venir offrir nos ſeruices, pour venger vne",
+            "Mort la plus tyranique & la plus inouyë qui ait paru",
+            "ux yeux des humains, depuis que les Monarchies ont",
+            "eſté eſtablies dans l’Vniuers. La Nature en fremit, &",
+            "nous qui viuons dans le ſang, dans l’horreur & dans",
+            "e carnage, trouuons nos actions ſupportables dans la",
+            "conſiderarion de celle qui vient de faire le maſſacre, par",
+            "des mains inhumaines, de l’vn des plus adorable M.",
+            "narque de la terre. Ouy, MADAME, comme vous",
+            "erez à jamais l’objet de la douleur, vous & voſtre cher",
+            "Epoux ſerez ceux de la ſeurete des teſtes Couronnées;",
+            "Vous ſerez vengée, &nous ſerons les premiers àporter",
+            "s armes & nos bras foudroyans, ſur les chefs des dete",
+            "ftables boureaux d’vne ſi belle vie: nos enfans, nos fem.",
+            "mes, & nos voiſins, ne reſpirent déjaque de ſe raſſaſier de",
+            "eurs corps infames, & de ſe baigner auec plaiſir dans le"
         ],
         [
-            "Sot uec rgent ou credt  Du mons uec grnd ppett  De es ques entmées  Enumoent r de eurs fumées  Et de de tous es cotez  On fot ron des ntez  Aors quvn homme u ond vge  Qu pus quHercuede courge  Et qu e pene et u fort vut utnt dre Beufort  Entrer dedns e Refectore  Sns y vouor mnger ny ore  Au ne ttendon ps  A ce mgnfque reps  Toutetrouppe fut urpre  Se doutnt de queque entrepre  Dord tout ce grndrut cee  Et e ence commenc  Touteoye fut nne  De cette noe compgne  Lon ne ceut pus dre e mot  Lon ne ceut pus vuder e pot  Lnterdcton genere  Sempr de cette ge  Lors que Beufort dvnton de vox  Qu mrquerce des Roys  e voy d des peronnges  Qu ne furent ms fort ges  Et de qu es termes ouffons"
-        ],
-        [
-            "Les font per pour voons  En vo qutre dende  Bon Zns pourSrnde  Qu veuent fre es reurs  Surmce des frondeurs et vry que dvn coup de fronde  tros en ce pett monde  Ms e ny grde den venr  A cette orte de punr  e croy que es pus grnd uppce  Et de es pruer du dece  Qus eperoent dns ce reps  Que eucoup ne mertent ps  Cẽ dnteuenppe  Couuerte comme pour vn Ppe  Et renuere du ons mets  Que Butru mnger ms  Bques chmpgnons & des  Quon nordonne ps ux mdes  Pouets oyons & pgeonnux  Et e croy memes des evrux  Sns conter es rgouts pour ore  A ce que recte htore  Cr pour moy en etos ent  Et du tout us fort nnocent  Quequvn dt que des eres  Qu ne depent ps ux fes  Quequens de ces eux grçon  En uoent tous pens eurs cnons"
-        ],
-        [
-            "6  Dutres dent que es ryettes  Ducuns sen trouuerentnettes  Et que tous ces duers gnts  Qu proenten eurs deunts  Receurent note dommge  Tnt de ue que de potge  Meme dn que es ouons  Penetrerent uquux coüons  Que es outs denture  En furent chuds outre meure  Et es meeurs furent contrnt  Dy porter promptement es mns  Enfn degrde nde  L confuon fut en grnde  Ne ç̧chnt que determner  De rre ou de e mutner  Quequvn vouut prendre epée  Msvnce fut dupeée  En voynt euer e ton  Tout pret den receuor ffront  Queques vns dent quecne  Deus queque epue profne  Ft vne forte mpreon  Ms dutres eurent que non  Et quenpe renuerée fut eruy des pts depée  e neçy ss eur poenten  Ou mons ne eur coutoen ren  Enfn es gens de emée"
-        ],
-        [
-            "7  Voynt eur fete n trouée  Et toute rere ̀ prt  Se voynt prs chez vn Renrd  Dont s neurent psfnee  Pens de coere & de détree  De ne setre ps ens repû̂s  Enrgez detre nterrompus  Pr Meeurs defrondere  Dont s uoent ft rere  Sen erent e ne çy où  A Chot ou ̀ nct Cou  Où meme à Prsgrnd ve  Qu de rues odts fourme  De notre Roy ons eruteurs  QuAmens ppee frondeurs  Reous de fermerporte  Ou duor touours grnde ecorte  Lors qus mngeroent chez Renrd  Fue e mtn ou e trd  Ms pour moy dedns ce ureque  A notre rue odteque  e veux donner vne eçon  Qu fer vor que y ron  Cet de perdre toute memore  Ou de deffte ou de vctore  Pendnt tous nos troues pez  Où nous fons es nenez  De nnr de nos conferences  Tnt de dnes mednces"
-        ],
-        [
-            "8  Et de ne pus premenf  De frondeur ny de Mzrn  Qu ont des de dcorde  Sous pene non ps deoorde  3  Du coutes ny dehrt  Ms de m ouper chez Renrd  FN"
+            "4",
+            "ngdes enfans de leurs enfans Nounſeros les premie",
+            "blaſphemer contre les Porentars & les Souuerains ils",
+            "one le meſme deſſein que nous, à̀ quoy ils ſont obli",
+            "ge, pour empeſeher la chete & le preeipice de leur",
+            "6ſnaes & de leurs ſacrezDiadeſmes, & leur ferons con",
+            "noiſtre que nous auons intereſt pour céte vengeanc;,",
+            "puiſque ces eyrans nous deliurentdu nirre de crueu& de",
+            "rbares, nous oblgeron les Naions les plus eſognées",
+            "à lancer ſur leurs teſtes leurs foudres & leun tonner",
+            "es, & à reduire en cendres les lieux de cét affreux ſpetta",
+            "ede, & qui ne deuront plus ſeruirs que pourt la paſture",
+            "des tigres & des monſtres, deſquels ils ont en prunté",
+            "es furies pour erercer leurs fureurs abominables.",
+            "Conſolez vous donc, MA DAmME, & vous aſſeurez",
+            "qu’auaunt que la Nature fera naiſte des cours aurant",
+            "erormena rei de mauſole & de tombeaut qui ſeront",
+            "nimez à plaindre ccenellement vn ſi gand Prinee.",
+            "quin’a eſte eyraniſe que parce qu’ileſtoi ſeul ne",
+            "ent puaumy ee inpiopibles hnſieaeun le de!",
+            "eous aſſiſfera de ſes lumieros pour voſtre conſo",
+            "ation, & nous donnera les moyens d’executer nos",
+            "onnes intentions."
         ]
     ]
 }

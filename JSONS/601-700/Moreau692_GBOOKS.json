@@ -1,51 +1,179 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
-        "subject": null,
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": "Assassinat de Concini",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-09-26",
+        "creation": "00-00-0000",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-04",
-            "@who": "ZC"
+            "@when": "2021-11-08",
+            "@who": "AB"
         },
-        "titre": "La chasse furieuse donnée à la garnison de Corbeil, où il\n          est demeuré plus de deux cent cinquante cavaliers sur la place, et grand nombre de blessés\n          et de prisonniers, par la cavalerie de M. le prince, ensemble le nombre des morts et des\n          prisonniers.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "La chemise sanglante de Mazarin. En vers\n          burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-19",
+                "#text": "19 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-19",
+                "#text": "19 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau692_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau694_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L chsse fureuse donnée àgrnson de Core oùest demeuré pus de deux cent cnqunte cvers surpce et grnd nomre de essés et de prsonners prcvere de M e prnce enseme e nomre des morts et des prsonners Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Chsse () fureuse donnée àgrnson de Core oùest demeuré pus de deux cent cnqunte cvers surpce et grnd nomre de essés et de prsonners prcvere de M e prnce enseme e nomre des morts et des prsonners Prs Smue de Lrru 652 Munch Bothèque de Ett de BvèreFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs692 Chsse () fureuse donnée àgrnson de Core oùest demeuré pus de deux cent cnqunte c ers surpce et grnd nomre de essés et de prsonners prcvere de M e prnce enseme e nomre des morts et des prsonners Prs Smue de Lrru 652 8 pgesprose non rensegné Députton de sx corps de mrchnds 656"
+            "LA",
+            "CHEMISE",
+            "SANGLANTE",
+            "DE MAZARIN.",
+            "EN VERS BVRLESQVES.",
+            "A PARIS,",
+            "CHEZ N. CHARLES, ruë Sainct Iacques,",
+            "ux trois Couronnes.",
+            "M. DC. XLIX. <pb n=\"2\"",
+            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5675848h/f5.highres\"/>"
         ],
         [
-            "LA CHASSE FVREVSE DONNEE A LA GAR non de Core oùet de meuré pus de deux cens cn qunte Cuers urpce & grndnomre de eez & pronners prCuere de Mr e Prnce ENSEMBLE LE NOMBRE des morts & pronners A PARS Chez SAMVEL DE LARRY prés S Etenne M DC LAuec Permßon"
+            "LA",
+            "CHEMISE",
+            "SANGLANTE",
+            "DE MAZARIN.",
+            "EN VERS BVRLESQVES.",
+            "AH Madame ie ſuis perdu,",
+            "Mon jugement eſt confondu,",
+            "Mon eſprit eſt à la torture,",
+            "Pour vne peine que i'endure.",
+            "Ah triſte & cruel ſouuenir,",
+            "e ne ſuis pas loing de mourir,",
+            "e viens de faire ſans menſonge,",
+            "Le plus eſpouuentable ſonge,",
+            "Plus effroyable en efect,",
+            "Que jamais aucun homme ait fait,",
+            "e le tiens pire en ma manie,",
+            "Que le ſonge de Calpharnie,",
+            "Auſſi j'ay ſorty de mon lict,",
+            "Comme vn homme plein de delict,",
+            "A ij"
         ],
         [
-            "L CASSE FVREVSE donnée ̀Grnon de Core oùt demeuré́ pus de deux cens cnqun e Cuers urpce & grndomre de eez & pronners prCuere de Moneur e Prnce ec e nomre des morts & pron es J ne fut pont trouuer etrngees ones Mzrns ne pouuns qutterhne qus ont touours euë correVe de Prs contnuent eurs efforts pour rdure neceté & ne yns ce re y tros ns quoy qus euent des foces & des moyens ez puns & P nynt que es Htns pour deffen e s ont ft cette nné́e eur poe pourvenr ux effets ms nous voyons ou ment que pr des reorts ncogus"
+            "4",
+            "Et ie viens encore i'en tremble,",
+            "Demander ce qui vous enſemble.",
+            "Ha ma chere Dame j'ay veu,",
+            "e ſuis de ſens tout dépourueu,",
+            "y veu, je n'oſe vous le dire,",
+            "Car ce m'eſt vn trop grand martyre,",
+            "y veu, Dieu ie ne puis parler,",
+            "Tant j'ay peur encor de trembler,",
+            "y veu non pas vn Marnthoine",
+            "Mais j'ay veu mon frere le Moine,",
+            "Le pauure jadis Cardinal,",
+            "Qui m'a fait vn triſte ſignal,",
+            "Me monſtrant d'vne main tremblante",
+            "Ma chemiſe toute ſanglante,",
+            "Et me diſant ces triſtes mots,",
+            "Ah finiſſez voſtre repos,",
+            "Mon treher & treelé frere,",
+            "Puiſque tout vous deuient contraire,",
+            "En vain vous taſchées de dormir,",
+            "faut vous reſoudre à mourir,",
+            "Car la Reyne qui vous protege",
+            "Fera bieôt leuer le ſiege,",
+            "Et retournera dans Paris,",
+            "Pour y faire fleurir les Lys,",
+            "Vous ſerez ſeul dans vos menées,",
+            "Et les cruelles deſtinées:",
+            "Mais plutôt les ſacrés Arreſts,",
+            "De ce luge ſans intereſts,",
+            "Sont"
         ],
         [
-            "6Ve de Prs ne setpont veuë redutecette neceté quoy que es ennems e oent s des pges deRuere tnt enmontnt quen decendnt pour empe ehete vures dy venr entutresve de Coe de quee e Seur du Pe Cptne deChe du Loup et Gou emeur & eommepore e prty Mu ny touous reeeu es gens de puene que es Mrns y ont enuoyez pour g der & e r du Pont comme fx de puspeu es trouppes du Comte de Puun equees pespre du Cheu de Mouron e ont renduesCore pou er jondre à rmée du Mrechde Tu renne ce quees nont pûfr De mnere qù preent tout eur deen et de fre des prtes pour courr e psp er prendre & emmener tout ce qus o uerront ss neont retenus pr es troupp e Moneur e Prnce enuoyées ux enu ons de Coe con dnts pr e Seur dt Ruenet & comme cete Grmon fs entrer dns Core es Pns qu J ppr tent"
+            "5",
+            "Sont prononcez pour voſtre perte,",
+            "Voſtre malice eſt découuerte,",
+            "Et Monſieur le Duc d'Orleans,",
+            "Prenant de meilleurs ſentimens,",
+            "Vous laiſſera dans vos practiques,",
+            "Quoy que bonnes & politiques,",
+            "Gagner quelque azile certain,",
+            "Pour viure du ſoir au matin,",
+            "Mais helas le pouuez vous faire,",
+            "Et que ie vois vn vent contraire,",
+            "S'oppoſer à voſtre chemin,",
+            "Quand vous quitterez S. Germain,",
+            "eſt vray vous aurez eſcorte,",
+            "Et l'on vous preſtera main forte,",
+            "Mais qu'elle eſcorte ah iuſtes Cieux,",
+            "Ce ſera pour vous perdre mieux,",
+            "Quand vous aurez perdu de veuë,",
+            "La Cour que vous auez tenuë",
+            "Vous verrez auſſôt ſur vous,",
+            "Mille tygres & mille loups,",
+            "Qui ſe vangeront de leurs pertes,",
+            "Des miſeres qu'ils ont ſouffertes,",
+            "Comme au Marquis d'Ancre l'on fit,",
+            "Quand le Roy deffunct s'en d'éffit,",
+            "Enfin voila voſtre chemiſe,",
+            "Que le iuſte Ciel m'a commiſe,",
+            "Pour vous dire auec d'éplaiſir,",
+            "Que vous n'aurés pas grand loiſir.",
+            "B"
         ],
         [
-            "ent des vutes tros Pns des enurons ournns yns eté rretez & nterroge2 de ce quefot ceure orn onde e nt qus e dpooent denuoyer x cens ues ̀peoree du eote deomne de veoy & de rete e eusne fu pontreoutefut pourtnt tenu ecret uquts ̀ muée de queque Cuere de rme des encespontreforen eur qu toent dés u cnurons de Ccor e reǹ peuprés e coué de eut mtche s déeheent qurre cens ces & ro s Drgons qus enuoyerent ̀ eurs oues mrcherent uques ̀Ferté Aez queue dvn os oues renns ncom e enfermez ns pouuore retrer s fu t contrns de e mettre en deffene ms od s e trouuerentuenenr eur S pr ces tros cens Drgons outenus deCuere de qutre cens Mres que trngts y furent tuez ur e chmp &douze du coté́ des Prncesesutres e vou ns uuer ms etns reuns u deous"
+            "6",
+            "D'examiner la Conſcience,",
+            "Quand on tirera la vengeance,",
+            "Sur tous vos membres deſchirés,",
+            "Ainſi ſçachés que vous mourrés,",
+            "Voila Madame ma Maiſtreſſes,",
+            "Le vray ſujet de ma triſteſſe,",
+            "Ne ſuie pas tres maeureux,",
+            "Pour auoir eſté trop heureux,",
+            "Vous m'abandonnées donc Madame,",
+            "Comme vn maraud, comme vn infame,",
+            "Et le bien que vous m'auez faict,",
+            "Ne ſert qu'à punir mon foraict,",
+            "eſt vray que i'ay bien faict faute,",
+            "Que dans vne charge ſi haute,",
+            "e ne m'y ſuis pas maintenu,",
+            "Dans vn modique reuenu,",
+            "Ah ! que j'ay regret de ma vie,",
+            "De voir que vous ayant ſeruie,",
+            "Non pas auec fidelité,",
+            "uray ce que j'ay merité,",
+            "Que i'aurois eu plus iuſte titre,",
+            "Si i'euſſe preferé la mître,",
+            "A mon chapeau de Cardinal,",
+            "Puis qu'il ne deuient ſi fatal,",
+            "Vous ne me dites rien Madame,",
+            "Et ce long ſilence me blaſme,",
+            "e cognois voſtre oeil de courroux,",
+            "Madame m'abadonneés vous,"
         ],
         [
-            "6Grenne de Veroy pouruus pr es J qutre cens Mtres & es Drgons qu f e eurene de nuneut u pus des deux ters furent tuez & fts pr onners de orte que de x cens qus etoent sen retournerent enuron cent cnqunte ̀ Core porter es nouuees de eur deffte Entre es mortsy eut dx Gents hom mes deux Pges du Comte de PuuE cuyer du ron de Mont Bs dut Offcers & x GudonsDu coté des Prnces enuron vngt cnq furent tuez en cette deftes ggnerent deux cens cheuux ns ce qus trouuerent dor & drgenten de poue des morts Ceét echet ̀ en dmnuéGrnon de Core ce qu y rete ne peut ps tenmr ong temps ns e ren re pour ne pouuo eperer ecours du Mrech de Turenn ez empeché en on Cmp ouet enfer mépr Armée de Meeurs es Prnces&"
-        ],
-        [
-            "on rmée mnqunt de vuxes & de fou S ne peut ps durer onemps estros Pn ont rpporté que dns Coe pus grnde prre des tn uneenon orms ceur qu yonr demneun E ont eté dermez pr es odts demon qu y vuenderenon & font Pyet de grndes ommes pour esmrchn oes qu pet ous es rous e que ue de chrrédcees qundees onm Prs Duntge comme cette Grnon ort us es fors srmenent hommes femme onnesen Vve pouren res ngon Ps uor pé & emporté tout ce qus ouué ux mons ou s demeuroent Ms depus deuxours ces prds edn u conme s foent ne ont poun ournez ce qu t crore qus ont ete & emmenet pt es prs des neesvonr tous es ours en prte & u four Se tnt u deç̀ quu dèruere u esux portes de Core Chees Boy"
-        ],
-        [
-            "Crecy Etoes choy Chton G gny & utres Bourgs & Prroes dont es Htns dedts eux ndonnent eurs ons FN"
+            "7",
+            "Ah douleur ! ah regret ſenſible,",
+            "Madame ſerl poſſible,",
+            "Que toute la poſterité,",
+            "Apprenne auecque verité,",
+            "Que le Ciel puniſſant mon crime,",
+            "M'obligea d'eſtre la victime,",
+            "De mes plus cruels ennemis,",
+            "Le Ciel le veut i'y ſuis ſoûmis.",
+            "FIN."
         ]
     ]
 }

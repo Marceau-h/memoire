@@ -1,51 +1,158 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "récit",
+        "form": "vers",
+        "genre": [
+            "éloge",
+            "rhétorique épidictique",
+            "ode"
+        ],
+        "subject": "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Innocent X (1574-1655 ; pape)",
-            "Venise (République)"
-        ],
-        "creation": "1649-02-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-17",
+            "@when": "2022-06-28",
             "@who": "AB"
         },
-        "titre": "Récit véritable de ce qui s'est fait et passé à Rome et à\n          Venise par Sa Sainteté et par la république contre Jules Mazarin.",
+        "titre": "La reconnoissance de la France faite à monseigneur le duc\n          de Beaufort.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau3032_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3033_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Réct vérte de ce qu sest ft et pssé à Rome et à Vense pr S Snteté et prrépuque contre Jues Mzrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022 Rects vertes de ce qu sest ft & pssé à Rome & à Vense pr s Snteté & prRepuque contre Jue Mzrn Prs Roert Feugé 649 qutrème semne de févrer 649 Prs Bothèque MzrneM3772FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Texte pruqutrème semne de févrer 649 dprès Huert Crrer (Bothèque Mzrne Ms 468 f 33v)3032 Réct/vérte de ce qu sest ft et pssé à Rome et à Vense pr S Snteté et prrépuque contre Jues Mzrn Prs Roert Feugé 649 8 pgesprose réctnnocent X (5755ppe) Vense (Répuque) Arrestton du chever de L Vette 64"
+            "LA",
+            "RECONNOISSANCE",
+            "DE LA",
+            "FRANCE",
+            "FAITE A",
+            "MONSEIGNEVR",
+            "LE DVC DE",
+            "BEAVFORT.",
+            "A PARIS;",
+            "Chez CLAVDE BOVDEVILLE, ruë des",
+            "Carmes, au Lys Fleuriſſant",
+            "M. DC. L."
         ],
         [
-            "RECTS VERTABLES De ce qu set ft & pé ̀ Rome & ̀ Vene prSnte té & prRepu que contre ue Mzrn A PARS Chez Roert Feugé proche e Putertn M DC XLX"
+            "3",
+            "LA",
+            "RECONNOISSANCE",
+            "de la F’rane fait à hMn",
+            "eigneur le Duc de",
+            "Beaufort.",
+            "OD E",
+            "Vo Rbitres de mes deſtinées",
+            "Seet liſlres nuiſu nou euieo",
+            "& amenes la bele ſaiſon",
+            "v Apres tant de triſtes iournées,",
+            "Qui par des mouuemens puiſſans",
+            "Remets mes eſpris languiſſans,",
+            "Et fais voir que ton influence",
+            "Eſt ſifauorablepour tous,",
+            "Que l’hyuer nous eſt meſme doux",
+            "Par vne inſigne deliurance.",
+            "A i"
         ],
         [
-            "4 qu croyot & de ruerfortune & de don ner des ox ̀ touteterre vot enfnpun ce dmnuée on uthorté nnente es foure res & es mefchncetez reconnuës & nttend quvn reuers enter deroüe poure vor y mé dns es precpces oùetté on noence L Frneeennecopé on oug &uy df connotre quetnt trop fce ̀ endurer eee e ̀fn detyrnne ors que teuteses for ces ont epúes & ceouuern Chef tge prennt nteret de Deu comme on promer Vcre fnt écteronté́ vouu mon trer qu çuot chter es vces de ceux qu dependoent de Snteté coAneen ç̧uot recompener esmertes e veux vous fre prt deonté dne rot & comrme de protegeFrnce uec toutencerté poe Comme pr es oct tons du Roy deffunt dheureue memote e Ppe Vrn hurretne u dheureufe menore octroy t ce Chen dgne vn Chpeu de Ctdn troyut qu nen uerot pont comme prés hroft d Roy cet rognt pr es rees & pr es ur tez uoten ft qu setot ttrue e m nomentde voutes esfftes de Frrte ynt peché"
+            "Ie puis cet autre defier",
+            "Qui par ſa lumiere importune",
+            "Aparu contre ma fortune",
+            "Le plus malin & leplus fier",
+            "Il n’a rien ietté que des ombres",
+            "Pour faire trouuer des encombres",
+            "Tu n’inſpires que le deuoir,",
+            "C’eſt auſſi par là que tu donnes",
+            "A toute ſorte de perſonnes",
+            "Les loix d’vn abſolu pouuoir.",
+            "eé",
+            "Ayant donné toutton eſtude",
+            "Pour ſatisfaire à mes beſoins,",
+            "Ie veux employer tous mes ſoinis",
+            "Pouréuiter l’ingratitude,",
+            "Pour toy les plus ſçauans eſprits",
+            "Se ſentiront touſioursépnis,",
+            "Toutes les filles de memoire",
+            "Trauailleront à qui miteux mieux,",
+            "Pour te mettre parmy les Dieux",
+            "Dreſſant des Autels à ta gloire"
         ],
         [
-            "5 peché en eu trõue & vudé es coffres du Roy pour enuoyer e toutRome & y tr des omptueux PsSncteté d em pech de trce qu oge dcheter vn P s tout t quft emer de toutes ortes de mgnfcences & quremp de temps en temps de nos depoues & de notre rgent ce qu ne e ot pont de frèfn on y eut ms ordre &on ne e fut oppoé ̀ es voen ces & ̀ es exctons EnfnSncteté voynt touteFrnce en deordre & en duon ̀cue de mechnt commedepend dee ot pour e prtue ot por e tempore ynt égrd ux pntes de tout e peupe Frnç̧os & crgnnt de pus grnds deordres voynt toutes es ves ennce pour e oueuer e decre perturteur du repos pucft treter Perre Mzrn on pere pronnerft r on Ps & tou tes es rchees qu etoent dedns ou eurs depen dntes de uy &ft ommerpr on Nonce qu et en Frncedomprote dns ros epmnes ̀ Rome deunt e cré Con tore22 Vo comme ce on Pteur ̀ on de on B"
+            "Elles preparent leur pinceau",
+            "Pour faire eſclater tes merueilles",
+            "Et n’épargneront point leurs veilles",
+            "Pour te retirer du tombeau:",
+            "Mais ce ſeroit trop entreprendre",
+            "D’imiter & ne point comprendre",
+            "Vn obiet parfait comme toy,",
+            "Tu fais ſeul toutes nos delices,",
+            "Auſſi les vœux de nos ſeruices",
+            "Sont pour toy ſeul apres le Roy.",
+            "e ſens vn ardeur qui m’allume,",
+            "Voyant de ſipuiſſans attraits,",
+            "Pour faire quelques petits traits",
+            "Sur ce papier auec ma plume",
+            "Et ne faiſant pas comme il faut,",
+            "Ton bras ſupplee à mon defaut,",
+            "Mon ſtyle eſtant plein de rudeſſe",
+            "Monſtrera ta ciuilité,",
+            "Liſant dans ſa ſimplicité",
+            "Ta grandeur& ma petiteſſe.",
+            "B"
         ],
         [
-            "troupeu & commevee tendrement u en de es fdees en effectç̧t qu nenpont depus ffectnnez pour e nct Sege puque nos Roys ont eté de tout temps es fs nez de onEge & qus ont emré es nte rets uec tnt de ncterte de courge& de zee Rect verte de ce qu cet ft & pé̀ Vene prRepuque contre ue Mrn S Sncteté toute eue nps emré es nterets deFrnce puque tnt dutres ont portez pourconeruton Cer ugute Sent deRepuque de Vene quconerué de tout temps vne ence etrote uecFrn ce ynt çeu des deordres quuot cué no ence de ce ntre uque (pour temogner e repect quee portot u Roy ee uot up runt octroyequé de Noe Venten no ps quee en uge dgne ms croynt doger e Roy & touteFrnce en cetce ren contrereuoqué & c tout ce quee uot ft uprunt e fueurdecre pertur teur ennemy du repos puc de Frnce nd gne de poeder ms ny vy ny on pere (u que o uot usctroye otre grce j ny"
+            "S.",
+            "Tu fais ſi bien qu’à l’aduenir",
+            "La plus infidelle memoire",
+            "Voulant diſcourir de ta gloire",
+            "Ne perdra point le ſouuenir",
+            "Comme Pere de la Patrie",
+            "Chacunroit te deuoir la vie,",
+            "Auſſi dans l’apprehenſion",
+            "Qu’on te fit vn mauuais office,",
+            "euiene eue de un pn e",
+            "4",
+            "eS ffres de cette aſſiſtance",
+            "Diſent en eſpargnant mon ſoi",
+            "Ce qu’on feroit en vn beſoin",
+            "Pour vne vrayé deliurance",
+            "Par des admirables reſſorts",
+            "Tu fais remuer ce grand corps,",
+            "Pais prend & quitte les armes",
+            "Et n’a point d’autres ſentimens",
+            "Que pour ſuiure’les mouuemens",
+            "Qui luyſont cauſez par tes charmes."
         ],
         [
-            "toutepoterté e goreux ttre de Noe Venten ft r tous ces ens ommes ou meues qu uot retreé à̀ Vene pour pres en rendre compte u Roy qund ee e curot en repos uec on peupe Cet n que tout e monde prend prtnos deprs comme s eperent de prendre prt à notre oye qund nous erons deurez detyrnne & nous ne deuons pont doter que ce nrrue eot puque nous uonsu tce pour nous que tnt de genereux Prnces prennent notre prty tnt dugutes Senteurs veent pour notre en & pour notre defence tnt de Prounces e ognent uec nous pour setre veues encore pus rttees que nous pr es voeres & quenfn touteterre de mndenotre repos vore meme nos ennems qu ces ours pez nous ont offerts eurs forces pour nous deffendre & ont vouu repx uec nous vount gouter de es douceurs pres sen etre veu pruez depus tnt dnnces Deu nous vueedonner pus qu et e eu qudpene commefe eée & que et demn eue que nousdeuons tten dre Ce er qund nous nous erons entere"
-        ],
-        [
-            "8 ment reconnus & que e vce nempeter pus ur nous uec tnt dempre comme ft ux eces pez"
+            "t4",
+            "En proeurant ta ſeureté",
+            "Par vne ſpeciale grace",
+            "Le Ciel fait tomber ſa diſgrace",
+            "Sur ceux qui t’ont perſeeuté,",
+            "Voulant attenter ſur ta vie",
+            "s n’ont monſtré que leur enuie:",
+            "Mais combien eugenereux",
+            "De n’auoir aucune rancune",
+            "Et plaindre meſme l’infortune",
+            "De ton ennemy malheureux.",
+            "h",
+            "L’enuie contre ſon deſſein",
+            "Releue l’eſclat de ta gloire",
+            "Et voyant pour toy la victoire",
+            "Deſchire maintenant ſon ſein,",
+            "Le Ciel a fait voir à la France",
+            "Par cette double deliurance",
+            "Que tous nos ſouhaits ſont ouys,",
+            "Ayant conſerué ta perſonne",
+            "Et l’heritier de la Couronne",
+            "Dont nous ſommes ſireſiouys.",
+            "FIN."
         ]
     ]
 }

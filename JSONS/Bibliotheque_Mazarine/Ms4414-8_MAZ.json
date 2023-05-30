@@ -1,74 +1,123 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "relation",
-            "récit"
-        ],
+        "genre": "statuts",
+        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
-            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
-            "Barbézieux-Saint-Hilaire (Charente)",
-            "Ambleville (Charente)",
-            "Saint-André-de-Cubzac (Gironde)"
-        ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-03",
-            "@who": "AB"
+            "@when": "2022-10-31",
+            "@who": "KA"
         },
-        "titre": "Relation de la prise des chasteaux d'Ambleville &\n          de Barbesieux en Angoumois, & de la deroute de l'armée de monsieur le Prince par celle\n          du Roy commãdée par monsieur le comte d'Harcourt.",
+        "titre": "ARTICLES de l'Union de l'Ormée en la Ville de\n          Bordeaux.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-01-31",
-            "#text": "31 janvier 2022"
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
         },
         "langue": "fra",
-        "fichier": "Ms4414-8_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Labadie115_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Reton deprse des chsteux dAmeve & de Breseux en Angoumos & dederoute de rmée de monseur e Prnce pr cee du Roy commãdée pr monseur e comte dHrcourt Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté3 jnver 2022 Reton deprse des chsteux dAmeve & de Breseux en Angoumos & dederoute de rmée de monseur e Prnce pr cee du Roy commãdée pr monseur e comte dHrcourt Sns Leu Antone Mesner 652 9 jnver 652 Prs Bothèque MzrneMs44FseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Reton royste du comt de Snndruzc (6 jnver 652) Reprs dns une édton prsenne8 psous e ttre \"Rect du comt donné entre Mr e prnce de Condé & e comte dHrcourt Avec es noms des morts & prsonners Ensemeprse des chsteux dAmeve & de Breseux en Angoumos\" (BM00954) Texte pru e 9 jnver 652 dprès Huert Crrer (Bothèque Mzrne Ms 468f 84v)prose reton réctHrcourt Henr de Lorrne (666comte d) Condé Lous de Bouron (686prnce de) Brézeunre (Chrente) Ameve (Chrente) Snndruzc (Gronde)"
+            "ARTICLES",
+            "DE L’VNION",
+            "sJ2 D",
+            "E",
+            "L M E",
+            "EN LA VILLE",
+            "DE BORDEAVX.",
+            "OVS Bourgeois, Manans & Ha",
+            "bitans de la Ville de Bourdeaux,",
+            "reconnoiſſans les grandes faueurs",
+            "& aſſiſtãces particulieres que nous",
+            "auons reçeu de Dieu durant les troubles qui",
+            "ne ſont pas encore finis, auons reſolu d’en re",
+            "merie Dieu de rout uoſle pouuoir, & pour",
+            "obtenir la continuation de ſes benedictions",
+            "tâcher d’aimer noſtre prochain de bien en",
+            "mieux, & particulierement ceux qui ſeront",
+            "dans meſme reſolution, laquelle nous allons",
+            "declarer à vn chacun par les ſuiuans Articles,",
+            "neoene lu eoe ue e eine leun",
+            "e.",
+            "?",
+            "pm...",
+            "24"
         ],
         [
-            "RELATON Depre des Chteux dAmeue & de Breeux en Angoumos &dederoute de Armée de Moneur e Prnce pr cee du ROYcom m̃dée pr Moneure Com te dHrcourtA POCTERS Chez ANTONE MESNER mprmeur ordnre du Roy & de Vnuerté demeurnt pres es eutes"
+            "PREMIEREMENT. Nous promettons obeiſ",
+            "nce au Roy, ſeruice à nſtre Gouuerneur, &",
+            "fidelité au bien & auantge de noſtre Patrie,",
+            "pour les Priuileges & Franchiſes de laquelle",
+            "nous ſerons touſiours preſts a expoſer nos vies",
+            "& nos biens: & notammet pour ſoûrenir qu’en",
+            "qualité de Bourgeois nous auons voix delibe",
+            "ratiue & non conſultatiue ſeulement dans les",
+            "Aſſemblées generales de la Maiſon commune",
+            "de cette Ville, & faire rendre compte à ceux",
+            "qui ont manié les deniers publics.",
+            "Comme auſſi promettons de nous aimer ainſi",
+            "que freres, & proteger reciproquement les vns",
+            "es autres, & procurer entre nous vne paix &",
+            "concorde en IESVHRIST;5 pour à quoy par",
+            "uenir, s’il y arriue quelque different entre",
+            "nous, promettons nous accorder d’arbitres ou",
+            "permettre que la Compagnie en choiſiſſe, &",
+            "cquieſcer à la deciſion qu’ils en feront, &",
+            "elon leur conſeil chacun y prendra les aſſeu",
+            "rances neceſſaires, pour que tels accords",
+            "oient fermes & irreuocables.",
+            "Que ſi quelqu’vn de noſtre Compagnie eſt",
+            "4.",
+            "J"
         ],
         [
-            "R o pPE APSEDES cAS TEA ee & de rdeeus e ngunos & deronue de rm de oneurPrnee per d Ro y commndee pr oneur e Comte dHrcoursEs rmes du Roy en Guyenne comttentpour vne cueute ous e commnde F oe e uee e e eee on ne pue pus trendre deprt que des mr ques du on heur qu eccompgnevgnce &Eedeneue e ene euneoner e oe ree rouppes de oneur e Prnces &ous pprendtes pt cey es uttes untgeues de certe dérmere onm Peue etre douterer vous oy ̀ duenrm proe nynt ps mnque ̀ cee que e vous uos donnee d yous fre çuor en tot quque effet condere de pon de nnres Cenerscoruer pr rou es es ons u retement de uthorte Royer enu nens de es fetns uoue orne ss en dot etre vne utte nfe Le meme our que es Regmens dAnguen dAret de Durs & de orge furent eneue pr e Seurde ? s oneur e Comte dHreoure ent Se gone uy e egment de Montoer prendre on Qrter meue ur dus qu eut que ceuy qu econ mendotCrnon ete p Monenr e rnee dn e chteu prerendo e deendre contre e emnce Roy Et ynt donné e commndement de cetre tque A 2 e"
+            "a r",
+            "vexé par procez ou autrement, nous le pro",
+            "tegerons par toutes voyes deuës & raiſonna",
+            "es; &s’il eſt oberé on luy preſtera de l’argent",
+            "ns intereſt pour quelque année, prenant aſ",
+            "eurance des ſommes à luy données pour luy",
+            "der à ſe liberer.",
+            "Dés que quelqu’vn de la Compagnie vien",
+            "dra à eſtre malade, ſes proches voiſins aſſociés",
+            "exhorteront de pouruoir au pluſtoſt à ſa con",
+            "çience, & aprés donner ordre à ſes affaires,",
+            "pour laiſſer ſes ſucceſſeurs en la plus grande",
+            "paix & concorde qu’il luy ſera poſſible; & où il",
+            "rriuera à deceder, ſa vefue & orphelins s’il en",
+            "ſeront protegez & deffendus comme s’il",
+            "eſtoit viuant.",
+            "Si par accident quelqu’vn de la Compagnie",
+            "deuient pauure, on luy procurera quelque em",
+            "ploy honeſte pour le ſecourir, & ſi cela ne ſe",
+            "peut on l’aſſiſtera des choſes neceſſaires ſans",
+            "découurir les incommoditez de ſa famille, ſi",
+            "non à ceux qui auront la charge de la Compa",
+            "gnie de pouruoir à tel cas.",
+            "Que les Eſtrangers qui viendront dans Bour",
+            "A"
         ],
         [
-            "7 4 e u Seur de Hemn Cre quy Mrech de Cmp en our ee fut condutte ucec tnt de vgueur que x heures pres e ogement ft urContr ecrpe du Fo é qu etot fort profond & e Chteu dns vne tu ton fort duntgeue e Commndnt demnd à̀ c ptuer ns uor ouy e Cuon ( et vry quepre ence de Moncur du Peeevre Leutennt Ge ner crut ecxtremement ̀ peruder ce Reee à ren trer dns on deuor) & queque ee reouton qu eut pre dttendre e ecours que Moneur e Prnce uy uot ft eperere reudt Pronner de guerre uectoute grnon qu etot de qutre vngt ou cent hom mes es Seurs de nct Amnt de Crqueue & du Cuzer Mrechux dé te e derner commndnt e Regment de Montuzer erurent fort vtement en cette occon Cette pette conquete nrret ps dvn momentmrche de M e Comte dHrcourt qu uot ft deen de pffer e Né pourspprocher de Armée de MoneurePrnce & etnt prty de Segonzc e mene our depre de ce Chteu vnt cmper ̀ Touc dontft rccoõmoder e pont à Drc que es ennems uoent rõpu ur dte ruere & reprer queques guys pour fcter e pge de es Troupes L nut du 3 de ce moseût nouuees pr des Pronners que e Mrqus de Creuy Cptne u regment dArmgnc uoent fts u guy deMgdene oùetot en grde uec vn prty deo Mtres du meme Regmẽt que Armée de M eé Prnce ne e trouunt ps és couerte derueredu Né uot mrcheé u dè deSeugne & quee pretendot e ret rer uec toutedgence poe du coté́ de Bourg ou e mettre à̀ couuert deruere de e ce qu oge Moneuruderu de que que ers d uee ou ? u Cusonu Au tth J"
-        ],
-        [
-            "t 7 7 7 e t 2?  Moneur e Comte dHrcourt deprtr e 4 dudtToe s ̀ deen de ure doneur e Prnee ns ecommeuot fe dns Breeux ne grnon confdroe cn onpote & cnqure des ocersne uge ps deuor e ce Pote n rrere penduut qu eounue on deenrmu e mene ourBreeux eue duquo receut deseurnces dedete des hnms qu tendoent uee mptence pour uy renmerrree comme s frent uee des tenogn gee prueu ers de eurede u eruce du Roy u moment dene ruéecommnd ̀M du Pes Beéure & ̀ M de Donruers qus uot ont nmee e out upr un Pour y eur de Leutennt Gener de dpoetes ru qus du Chteu fre tcenr es Mneurs en et dy ere ttchez desnuct du quueme L premere ttqueut donnee u Regment des or des commndée pr e Sur de een dreehde Cmp&e Cptene udt egmets L eeonde u Reg ment de Pcrde commndée pr e Seur de eefns u Mrech de Cmp Apeme es Potes frene r donnez que nos Sodts uee vne vgueue ns ége e ogerent ̀ vngtps du Chen ueur de queque mons qu nen etoent ps eognées oute cette nuct e p ̀ frc des ceres pour tt cher des Mneurs ms comme ce Chteu eot deon du pr vn nomre condere de eurs meeurs odsde unté doneers & oenne homnes qus eoert ouuuez enfermez uec e Seur Mrqus de Leuy Mre ch de Cmp quy commndot pour Moneure Pen ces es geres frentuee & vn de nos Mneurs rue Cependmt M e Conte drcourt ynt eudus e5 ̀ponte du out que M e Prnce etot decm  e 8 4 A ee 3 4 3 438J"
-        ],
-        [
-            "epe de Ponts pour prendre e chemn deretrte & quvne prte de es Trouppes uoent pedernere nut à oncprtt dns ce moment uec Armée du Roy pour coupper chemn à cce de M e Prnce ynt euement e e Regment de Pcrde ous es ordres du Seur de Beefons pour cheuer entrepre de Bre eux & setut nforme que on pus cour chemn etotceuy de onguyon à̀ x grndes eués de Breeuxe reout de mrcher ncemment & pour ne ps per dre occon qu dns toutes es pprences uy deuoent etrc fuore on nfntere & es Bgges à̀ vne euë de Breecux & contnumrche uec tou teCuere ur dus qu eur pr e Seur Beure uor Mor de Bye enuoyé pr uõeur e Duc de nct Smon que Armee de Moneur e Prnce uot mrché routenuct du rtu à deux heures unt our eudt montguyon & reprtt àponte du meme our pour er à nct Andreé epernt qu urot dns on chemn des nouuees eurées de ceuy que moneur e ernce urot prs Moneur e Comte dHrcourt commnd u SeurCheuer dAueterre rech de Cmp en our der re e ogement à nct André & dnspenée qu uot qupourrot rencontrer es Trouppes du pr tye ft cconpgner des Cheuugers degrdedu Roy de qurnte Mtres du Regment de Mercœur qu etoent ̀tete de Armée de queques oents hommes voontres qu chorent e Seur Conte de Brc pour eur commnder & de tous es rechux des ogs qu foent vn on equdron Commefut à vue eue de Arméeeut dus pr vn pyn que moneur e prnce uot prs on Qurter u meme eu que ne e q ut t n Au n don eneee udtes pde eetce(u t gS eAunhue J"
-        ],
-        [
-            "5e ue utede ut s de u8 fu q6 e M e Comte dHrcourt contnuntmrche uques à ce que es coureurs ynt prs queques Cuersfut eure pus prtcuerement que e Qurter de Btr & des Trouppes que Mrn uot menées de Ctogne etot à nct Antone ̀ vne pette eue denct Andreque nous uons detné pour e notre dontft prt 2 S Au moment queconfrmton de cette nouuee fut entré́e denuct du 6 Onvt protre dns toute Ar mee vne gyeteprfte qu emot quee nuot pus eon du repos queftgue dvne mrche extr ordnre dns vn temps & des chemns trecheux uy deuoent ronnement fre ouhtter Et notre ener ynt donne tous es Ordres qu uge necere pour fre reur untgeuement e deen qu uotde tomer ur es Qurters dee rnce mrchue4 toutedgéëce mgne & enuoy ordre udt Seus Cheuer dAueterre de ne e pont uncer que Ar mée ne eut ont ms ceuy qu fut chrgé de uy por ter cet Ordre ne ynt peu trouuere Comte dHr court eut dus dnsmrche que ce mrech de Cmp uec es Trouppes qu uot e voynt outenu pr vne Brgde de Cuere qu setot unće ous es Ordres du Seur de Dougy u rech de Cmp commndãtcuere setot reou de chrger es Trouppes quetoent dns e Qurter de nct Antone & uot ft donnée à Moneur e Comte dnrcourt qureceut à̀heureuement qu es eut eneuez unt rruée de Armée Cependnte Prnce preuoynt que s donnot e temps ̀ u e Comte dHrcourt de mettre on Armée en teuy erot fort dffce deuter orge qu e 3"
-        ],
-        [
-            "7 22s 3S preprot de uy tomer ur es rs enemetoutes es Troupes reoutrctrtte pendnt que queque Ec drons qu uot enuoyez u ecours de ce Qurter eneuéfuoreroent pr e moyen du Defé du vge àtete duque s setoent potez ms comme s pre hendoent quvn ong eour eur produrot des effectsusu e qfutnecnnt ee tts u nCdngereux prrent e meme Prty que eur Gencr ce ne fut pourtnt ps uee ez de dgence pour eutér que J ee ereme es premers Ecdrons de notre unrde nncom modent fort eur retrte qu e ft uec tnt de preces ddeter ptton quoutreperte demeeure prte des Re ements de Btr deMrcoue de Gudez &t de d euy de Cuere de Moneoun qu furent eneuez uf dns e Qurter uec tous eurs ecqupges nous uons S& rg eu que prmyes Troupes du Prty s uouent eur per J ne eeu te etre dopus de douze cens CheuxHe Mrqus de Guder Coonne dvn Regment de Cuere du Prty y ete ee & et demeure & oe u de5 e uomre des Offcers de son Regment tuez &grnde quntté de Pronners prmy nos Troupes quonn peu eee de encore en pprendre es noms On neçourot ez etmervgnce uecc quee monfeur du Peecregy en cettc occon non pus que cee du eur de Bougy qu d extremcment e eur Cheuer dAuetrerre à̀ on cxecuton ny vous freremrquer ez uec comen de veur e eur de Foe ve premerMrech de Cmp y eruy Les eurs Comte de rnc & de Forgucs Mrechux de Cmp y ont u fort vrement eruy & ont tous ren du vn temognge rreproche quecompgne des Cheuugers deGrde dun Roy ne ft ps euemen dés meruees encette occon ms qu ne edét̂ch ps uere nme deded re n utddd n Set T"
-        ],
-        [
-            "s nepre s e queps vn eu des Cheuugers pour er u utn Ce qu ft en vor que horneur eu es oge à erur uec tnt de zee & de veurLe Regment de Mercœur query à̀ ces deux ren Stres uec vne vgueur prtcuere perdu e eur de Vn Cptne queté tué & e eur du V Cor nette ee Tous es Offcers de ce Regment & prtcuerement e eur de Gfon sy ont gnez Les Offcers des Regments Depeds de Vuor & dAueterre qu etoet dergde uee quee edt eus de pnupy s eon nuee ur quene s denoenue t ont u e ou e que pounnr nre ndre de eoenoeue vooureudornet oynr perdu vn Cdpeunnomme vVe dus Ern qu et deneurepnonneer e Meeurs deRoche du Myne du FouFerté Gou tt de ne de Soe More de es de Couoon pe de s reren de edeure n cdonres e on eoede Chre de ornge duPue Lngere de oe d ere de Feure Morgne Teon de omon de vneuue de Grndnef Frneu Pet Luree de Vrnnes des Guerennes du Ponger du Pert Fontenes Te n t oonuon oueron Cteu Chene Crn n oe chere deCheronnere Brere Bre Denus Pe e du V & utres Gents hommes voontres yns tyn eedron des meeurs deArmée dont moneureComte dHrcourt donn e commndement à moneur de Trcy & ous uy ueur de Le e ont rencontrez pt out uee vne réouron merueeue n LArméenynt peuû uure cee de moneur e Prnceu dè de S André qu etot on qurter cue d t oeurté de nuct ee demeur en te ̀tete d Au dfé juques u our que moneue Comte dHr 2LLeL2LA 3"
-        ],
-        [
-            "6courtyntroconnu e Pysenuoy du coté de Lour ne vn prty de on Regment de cuere donuron qurnte mtres commndé pr e Cheuer de Fourre qu trouu vn ecdron eucoup pus fort en nomre msfoe en courge qu rmen pus de cnqunte pronners Toute ̀ ournée du dx epteme e p de orte qu chque moment on menot de tous cotez de ouueux proners & des gges Queques Cheuux egers pporterentCornette des Cheuux egers de Me PHnce vne du Regment de Gude& vn Drm S peu dont vn Offcer qu eté tue e trouu chrgé âou prens e neme our que eere deroue& rruée deM e Prnce à Bourdex y font vne etrnge ruouton que e qune ot ps es couuert de Je es mures & deruere de Dordogne Nous eperõspourtnt deprotecton que e Ce donne ux rmes du e Roy de es porter eot u dè de cetteruere& ee ogere prnce ̀ e remettre ousoence qu e dotS Mjeté & e meure qupres es mrques en que vous voyezouuent du zee & devgnce de noeur tre Gener vous ne douterez ps qu ne profte ueecon du on ett ou ms en peu de temps es ffres du Roy en ce pys Mon ouurge e trouuerot mprftouos ̀ vous dre que e Chteu de Breeux e rendt e ende mn du d́prt de M e Comte dHrcour uuntCptuton qu ut & quepremere nuct de tt que e Seur dAmer Cptne ux grdes & es u es Offcers commndez dudt Regment frent mer uces es Offcetrs de Pcrde prtcuerement e Leurennt Coou ue front que ce qus ont ccou umé prtout&u eu dexpoer eurs Sodts ̀ porter J"
-        ],
-        [
-            "nqunre une d uJ uu s de D 2 ee edr en4 pe no ee cequ qu deo eéendr tJ s u rn et o oes pnches & es mdrers qu eruoent ux Geres 7 s eur en otoent honneur pour en courr e dnger ms ur tout nous deuonsprompte executon de cet te entrepre veur du Seur de Beons qucom mãdot & qu e ouec fort des tnces q receues du Seur deChenye Mrech de Bte que Mon eur e Comte dHrcourt uy uot é e pretendos uor cheueé cette Reton qundet rrué nouuee à Moneur c Comte dHrcourt que e Seur Cheuer dAret mrech de cmp ynt eu dus que Moneur e Prnce uoqt é Grnon dns e Chteu de Ponts qu uy pprtent em es ms prmy eques e Seur Sugnéft remrquer vn ee tout prtcuer u eruce du Roy & teé des h tns dudt Ponts qu ont eucoup de fdetéft rendre edt chteu &ornon Epgnoe qu y uot eté ete & qu etot compoec dvn coone de qu ge cptnes dutnt de Leutenns & pres de deux cens Sodts ont tous rretez pronners uec tous eurs equpges prmy equesset trouué queque vee drgent  A"
-        ],
-        [
-            "v 5 2 RTCLES EFT CO NDTONS ACCOR DE2 pr Moneur de Befons ree de Cmp esrmées d Roy ̀ Moeur de Ley Comste de Chus Letent de f Myjeteou Gouernemens de Berry & Commdnr ere & Chteu de reex ous e on pr de MoegnerComse drcourt Gener des rees deMjete en Gyenne & Prounces crconuonesE Seur de Leuy urve uue uec es Offcers odts & voontres qu ont dns dte Pce ouschrge eques demeureront pronners de guerre des noms dequesdonner vn ett u eur MtreTreorer de Armée qu entre preentement dns dte Pce pour fre gner es preens rtces Ledt Seur de Leuy promet de remettre edt chteu demn 6 de nuer à̀ x heures du mtn uee es r mes gges meues équpges & es muntons deguerre & de ouche qu y ont entre es mns de ce uy qu er nommé pr Moneur e Comte dHrcourt Et pour eurnce de dte cptuton edt Seur de Leuy urer des ̀ preent e Ruen qu et deuntporte du Chteuer donné udt eur de Leuy cnqou x de es dometques pour e erur dnspron ouer condut Ft à Breeux e qunzéme nuer m x cens Cnqunteux Sgné BeLronds & LEvy Cmvs Noms s d 0 neseupun n de oedeom dts rnerd(Loe de nrt p ted us pte es ne e e n"
-        ],
-        [
-            "e n s 2 3 oms des pronners de guerre qu ont et prs s Chften de Br̂efeux A JOneurde Leuy Comte de Chus Leutennt de Roy en Berry commndntOffcers du Regment de Rcheeu Les eurs de Bouchetere Leutennt CooneCote Cptne & Mjor de Bourneuf Cptne de Bogue rn de Grndpré Heun né Heun e jeune deCote du Vuer u Cptnes Les eurs des Roche de Montgry deLy de Vé Smonner Montforton des Grennes de Broc & Brré Leutenns du Regment ds Cuoupes es eurs derpe dor de don2 3 s 54 2S neuue Leutennt deGrnge Enegne du Regment u de Guyenne es eurs deBrde & de Beync Cptnes de Grze Leutennt de Cmpé Enegne e eur Hynrt comms des vures du Regment de cuere dAnguyen e eur deMotte Vroer Leutennt deetre de Cmp & du Renger Cornetre udt Regment Gents hommes dudt eur de Leuyes eurs de Sncte Hpote de Lchezc cheuer de Pouy de Serre de Chrré & x Grdes Gentommes de uoncur de cheeu es eurs dePtodcre & deGnerye & es curs deDourve Gentommes de moneur e Prnce de Conty & deVchc cton Gencs honmmes du Puys & tros à̀ qutre cens tnt Sodts que Cuecrs 3  Le eur de Trcy en qu notre Gencrvne confn ce prtcuere & qu dns ces occonstrete ment cruy de on cœur & deteteeté depeché vers eurs Mjtez poureur pporter cette gree nouuee"
+            "aa..",
+            "deaux & voudront eſtre vnis à cette Com",
+            "pagnie y ſeront admis & traitez de meſme",
+            "que les autres aſſociez.",
+            "Qu’au cas ( ce qu’à Dieu ne plaiſe) quel",
+            "qu’vn vint à mener vne vie ſcandaleuſe & in",
+            "corrigible, ou refractaire à l’obſeruation des",
+            "Articles accordez, ilſera banny comme indi",
+            "gne de telle ſocieté, & reputé traiſtre à ſon hon",
+            "neur & au bien public.",
+            "FIN. o2",
+            "eli",
+            "e",
+            "mprimeA PARIS,",
+            "Sur vn autre imprime à Bordeaux."
         ]
     ]
 }

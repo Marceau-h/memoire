@@ -1,55 +1,147 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "narration",
+            "relation"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "subject": [
-            "Tavannes, Jacques de Saulx (1620-1683 ; comte de)",
-            "Turenne, Henri de La Tour d'Auvergne (1611-1675 ; vicomte de)",
-            "Clinchamp (15..?-1652 ; Charles de Mailly ; baron de)",
-            "Étampes (Essonne) – 1652 (Siège)"
-        ],
-        "creation": "1652-05-25",
+        "creation": "1650-05-09",
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-17",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Les particularités du second combat donné entre l'armée\n          de Son Altesse Royale, commandée par messieurs le comte de Tavannes et le baron de\n          Clinchamp, et l'armée commandée par le maréchal de Turenne, devant la ville d'Etampes, le\n          29ᵉ mai 1652, avec la prise de leurs drapeaux, canons et bagages, et le neveu du cardinal\n          Mazarin blessé, et autres.",
+        "titre": "Les particularités du siége et de la prise du château de\n          Vayres, ensemble les combat et prise de l'Ile Saint-Georges, avec ce qui s'est passé de\n          plus remarquable à Bordeaux.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2022-03-02",
-            "#text": "2 mars 2022"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2718_MAZ.xml",
+        "fichier": "Moreau2719_GBOOKS.xml",
         "langue_detectee": "tlfi"
     },
     "texte": [
         [
-            "Les prtcurtés du second comt donné entre rmée de Son Atesse Roye commndée pr messeurs e comte de Tvnnes et e ron de Cnchmp et rmée commndée pr e mréch de Turenne devntve dEtmpes e 29ᵉ m 652 vecprse de eurs drpeux cnons et gges et e neveu du crdn Mzrn essé et utres Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 mrs 2022Jcques Le Gent Les prtcurtez du second comt donné entre rmée de son Atesse Roye commndée pr messeurs es comtes de Tvnnes & ron de Cnchmp & rmée commndée pr e mresch de Turenne devntve dEstmpes e vngeuféme my 652 Avecprse de eurs drpeux cnons & gge & e neveu du crdn Mzrn essé & utres Prs Jcques Le Gent 652 déut jun 652 Prs Bothèque MzrneM747TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Autre édton repérée pr H Crrer (Bothèque Mzrne Ms 468 f 75v) vec \"e nomre des morts\" àpce de \" e neveu du crdn Mzrn essé & utres\" u ttre Pr Jcques Le Gent dprès Huert Crrer (Bothèque Mzrne Ms 468 f 75v) Texte pru déut jun 652 dprès HCrrer 278 Prtcurtés (es) du second comt donné en tre rmée de Son Atesse Roye commndée pr messeurs e comte de Tvnnes et e ron de Cnchmp et rmée commndée pr e mréch de Turenne devntve dEtmpes e 29° m 652 vecprse de eurs drpeux cnons et gges et e neveu du crdn Mzrn essé et utres Prs Jcques Lè Gent 6528 pges Mensonges utnt que es Prtcurtés du derner comt etc et es Prtcurtés du grnd comt etcproseTvnnes Jcques de Sux (6283comte de) Turenne Henr de L Tour dAuvergne (75vcomte de) Cnchmp (5?52Chres de Myron de) Étmpes (Essonne) – 652 (Sège) Sège dÉtmpes 655"
+            "7",
+            "D r7",
+            "PARTICVLARITEZ",
+            "du ſiege & de la priſe",
+            "DV CHASTEAV DE VAYRES",
+            "nsBLl",
+            "Liconbas &e piſe dele ep lnue e qu a",
+            "paſé de plus eaurqube odeaur.",
+            "e",
+            "u",
+            "M. DC. L."
         ],
         [
-            "LES PARTCVLARTEZ DV SECOND COMBAT donné entre rmée de Son Atee Roye commndée pr Meeurs es Comtes de Tunnes & Bron de Cnchmp & rmée commn dée pr e Mrech de Turenne deuntve dEtmpes e vngt neuféme My 26̃52 Auecpre de eurs drpeux cnons & gge & e Neueu du Crdn Mzrn eßé & utresA PARS Chez ACQVES LE GENTL ruë dEcoe à enegne S erome prés Snt Hre M DC L"
+            "9",
+            "?",
+            "AhhA6",
+            "A",
+            "LesParticulariteZ du ſiege & de la priſe du chaſ",
+            "peau de Vayres, enſembl les combats priſe de",
+            "s S. argas auee cequis’nſt paſé de plus re",
+            "marqgeableà ordeax.",
+            "a ehaſéeas de Vayres eſitué ſu l riniere de Dordogne à deux perits",
+            "Iieuës au deſſous de Libourne, & à quaere lieus du bec. d’Ambez,o",
+            "Doidogne ſend dans la Garonne; ileſt baſty ſut vn roher qui le",
+            "u eoaé de la ruiere & par le derriere d’vn accez uſſez diſfiele, d coté de",
+            "da trre la l bourg & l’Eg’lle par o l’abord eſt reiſeé, & c’et en ce lieu où",
+            "epais qaele Due de Bouillon s’eſtit ſaiſ de ecetre place il auoit fait faire quel",
+            "quddaâ aaec desretianchemens, & auoit ’mis pour la garde de ce chaſteos",
+            "hommes a garniſo comnandez par le ieur Richon fatf da liea de Goy",
+            "ress bourgeoile de orde.",
+            "Ee Mareſchal de laMelleraye, parce que ce poſte pouuoit intomimoder l",
+            "marche de ſon armé́e dans le deſein qu’l auoit de la ſaire paſſer dans le pay",
+            "d’entre deux mes. c’ainſi qu’on apelle le pays qui eſt enfermné de ees deux",
+            "eaux leuueoGaronne & Dordogne ayan reſola de l’aſſieger, fit paſſer",
+            "touteſon rmée’le gjé. & r. deIuilletut le pont de atteax qu’il auoit fait faire",
+            "s port de Brune, &s’aûtan aduaneé à la potée du canon de Vayres, il ſe campa",
+            "en vn lieu aſee aduoageux.",
+            "Le lendemain premier d’Aouft ee Mareſhal apres auoir fait ſommẽr par vn",
+            "rormpette la garniſon, fie donner par ſesnfans perdus dans les retranche mes",
+            "d boug de Viyies 3 nmais ’ils furene bien’aecaque, ils furone auſſi bien deſen",
+            "dus: eout oe iou le ſiaant ſe’paſſsne en contlnuelles eſcarmbaches,",
+            "ceux",
+            "quis ſoutenoies les feranchemens eſtoto de tormps en te mps’rifriſchs padt",
+            "ceux quieſtoient reſtez pour la garde du chaſteau, qui ſaiſolens inceſſammeds",
+            "les déſoharge tceux du party contraire auec cinq petites pieces de canpa",
+            "gnoindës ſur la muraille du chaſteau, & auec vn eſ aduanige",
+            "qu’l e",
+            "ain’i arué le la’ pare des afſailliema plus de 4bO: homnes &",
+            "nlfe autes",
+            "es peeſoinnes ne lluſtees niſanee, ptufies braues &entls lorh aes5 qai",
+            "pouaiee edre de grans ſerees à ai ioce, i ſſentee employe",
+            "eoncre les eninémis de ſEſtit, & non cntre les âideliesi ſubjets du Roy:1",
+            "Le Mereredy roifieſme ’ouſt eiafaiuadn; ſe Mapeſehal de la Melleraye",
+            "yant obtenu du Commandant vré trévepour ſait rléêuer ſes ote, pen",
+            "dane la tréve le Marquis de Biron beau frere de ce Mareſchal, &",
+            "vn des Mareſ",
+            "chaux de eamp de ſon arnaée & le ſieur Theobon, s’eſtans",
+            "aboûchez auec vn",
+            "aolamé Theeniay couſin germain de Richon, Capitaine & Majar de la ga"
         ],
         [
-            "3 LES PARTCVARTEZ dufecond comt donné de nt v dfetmpus en My entre rtfeé de Sn Atee Roye & cee com mndée pr e Mtefeh de Turenne Aueepre de eurs crons &gge CEux dont es rmes ont oüées poun Amn tenruthorte Roye de de es peupe opptnme & d́durerep ne dn prn uoy ont nt de juo de eus cee & eut deen e d egume que e Ceet comme foree de e edeenr reremponre uunt de uemoen dne uus enr eomu eur urnt de enonu Ce deoquon nous ert de peuur e e frehement pé deunt Etmpes"
-        ],
-        [
-            "dou A penoûs dos receunoue dedeffte de ungrde des troupes Mztnes que e Courer enuoyé ̀ on Atee Roye nus donnedus dvne e conde vctore dutnt pus goreue & condere que e nomre des morts & du utn ot grnd & queeeté rempor té ̀re & mgrévgoureue re tnce des deux Chefs du prty Mzrn en vocy e dét Le Mrech de Turenne detnt rep rer ̀ perte qu ft e 2 de ece mos dvne prte de on untgrde tée en pece ̀ ttque dEtmpes y nt ft éte des pus etes & meux reous de rmé́e qu commnde en compo vn Corps de deux men4 cens Cérux des egmens de PHerde Chnpgne Nure des Suf es & e rete du Regent des Grdes e tout nt enq à̀ x m hommes uee equ sent uncé ̀ vne deme ee de dte e de quee Monfeur epB ron de Cnchn eft or eogné enuronpott́e du non uec vn Corps compoé dos Regmes de Vos de Cndé & dEn guen decouy de Mdemoee & de tros utres"
-        ],
-        [
-            "5 utres tre2z des trouppes de Monur e Duc de Nemours e tout fnt u pus ros m hommes Enuron es deux à tros heures du mtn du 9 ftdethrgedes Mouqetons deCuere ut des no tres qu demeurns fermes & dnsp0 ture de gers qu vouoent vendre eur peu en chere ftent reoudre oMte ch ̀ es entourer ce qu eperot fre dutnt pus ment que es troupes des notres etoet preées & eur nome de mote mondreque es ennés & ce qu urot ft nfement ns e ecours du Comte de Tune q ynt oeuépotut̂ & e deede ce Mreh ottt e Ve à f tote de qutne m hommes qu jognrent depres edt Mrech u e uneme enuromé Cefut ors quesdeuxz prts śchufferene u omt & frent deuor de en ttquer &en deffdre s notres nepernt u cun ecoursquenfore de eurs rs & geneede éur courge & es Mzrns prnecetêde mourr ou de souuer pr e fer vn pge pourfute Ce qu ft enfnpres cnq heures enteres de comt"
-        ],
-        [
-            "mdns v te deordre que rruée des pus htez dns rmée du Mreh dHoquncourt qu etot à deux eüs de ̀ ft u prendrefute ̀ cette mée done e Crdn Mzrn etnt duerty & eoyns uor note Cuene ̀ es roues e retr vers Montehery Notre nfnters ynt eté ée &Cuere etnt reuenuë deche qus yenoent de dôner ux fuyrds qus suoedttoû jours menez t tns deux eus enteres e ftreueü pr quee e trou u que nous nupns perdu dns e comr que cnqunte ou oxnte hommes u pus u eu qu en denmeuré urpce du cotéduprty contrre pus de qunze à oze censsterre en et nt jonchée de toues prts oodepode dequs ont eruy de utǹ os Sodtsqu ont prs de onne guerre ̀ ceyce qus ont peé& rgnde ux enuronsde Prs pr tous es eux ou ént mrche setdonnóo r Ané e orts & e utdt deM rech de Turonne qu et trouué en gd dngrdeperonne ynt etét os he u es rtere dnseépehqutrs"
-        ],
-        [
-            "7 peces de cnon de fonte verte qu etoent es eues qu uot de cette etoffe treee drpeux & dxept Cornettes qu ont eté porées dnsve dEtmpes dedns & deunt quee nos odts ont dutrt pus reous de e deffendre & de fure por terpene de eur cheté ̀ ceux qu expo ent eut ve pour nteret du Mn que ceuye trouuehorsdett de pouuor pus ren tenter contre euxerot nute dexgerer cy e courge de Meeurs de Tu nne& de Cnchp vn duor oûtenu vne heure enere uec tros m hommes upus &puprt n fnrterenute de touteCGuete de Turenne ns e rompre en udne fçon ny donmner e mondoour à deeC ue re & utre duor en medté e temps de orte quee etuy non eutement pour outenr edt eur de Cnhp ms encore den ronmer e Mrech de Turen 3 & deurere vctore qu potu ette poutee ue pete utr terPe ̂ o ptty e Cheues de Sue és Comtes de Reux & de Ps pnjren her pour er f A"
-        ],
-        [
-            "re uncer es troupes de Archduc qu ot u corps drmée du Duc de Lorrne & mrcher ̀ eur tete Ledtes troupes e montent ̀ tros m Cheuux & 5o Fn tns qu jonts uec cnq me Legeos feront vn corps reondere nec es troupes qu ontPrs Les troupes euées ̀ Prs donereueuë eft e vnguctéme de ce mos dns es Prez ux Cercs & qu e montent ̀ cnq censCheuux & qunze cens Fntns do uene prtr en ref ouscondute de Mon eur e Duc de Beufort pour e renfort de rmée de Son Atee Roye qu et toû jours à Etmpes ce qu ne donne ps peu à onger u Crdn Mzrn tous es projets uque e treuuent uus dvne medcton u mnfete quecue pour quees ontprnd etnjute & dgne dehne poqueDns es deux comts qu eont donnez voc es noms des peronnes de remfque du prty con trre qu ont eté tuez & eez x Cprnes tuez e Cheuer deVeuue eé à mort e Comte de Grnré tué e neveu du Crdn Mzrn nommeé Mnchny eé u rs dvn coup de ptoet Le Roy et u Me Couon ̀ deux euës dEtmpes FN"
+            "4",
+            "diſon de Vaytes, lequel cormmandoit vn poſte afſez aduineé hors",
+            "chalſtes,",
+            "qui reſpondoit aeantmoins à vne fauſſe pte par laquelle on deſcend du chaſ",
+            "eau auiardin; corrorrpirent ca maſheateux pat nile vaines",
+            "eſperances, done",
+            "s le flatterent, & par la peoneſle qu’ils luy firan dele falre Capitaiue, &",
+            "d’i",
+            "corporer ſa compagaie dans le reginenc de la Meilleraye.",
+            "Ce perſfide s’etant laiſſé ſeduie donna l’enré aux eanels pa ete féaaſſe",
+            "porte auane meſme que le temps de la tréve fuſt expire. Richon ſe voyant ſ",
+            "mallieuareuſe ment trahy ne perdit pas eœur, il ſe retrancha auec ce qui lay reſtoit",
+            "de ſoldats deſon party; mais le nombre de ceux de dehors groſſiſſant toufiours,",
+            "fusanfia conrrns de ſe randreaptes que les ſieuns dolhiron de Theo",
+            "uy eureu donné aſſeugance de ſa vie.",
+            "La place ainſi rendue ſur les vnze heures du mani( &e au mueſmnpemps preſe",
+            "que le Come de Meillo s’duançoit pour y jetter du ſecours qu’l menoi da",
+            "Boureau Richon fut coaduite au Mareſçhal de la Meilleraye, le quel l’enaoy",
+            "à Liboure au Card. Mazſuiuat l’ordre qu’l en receus de la Cour auec ceu",
+            "dcs ſoldats deſs garniſon qui s’etient reads auee luy; s pour le regad du",
+            "raſtre Teueniny il fuecoome onluy auoit promis reeau Capiaime au raegi",
+            "ment du grand Maſtre auec ſa compagnie, maius la pluſpart des",
+            "ſolass, pls fi",
+            "deles qe luy, ont quitté ce pary, &e ſe ſont venus rendre dans",
+            "les erouppes. du",
+            "Duc d’Enguien, deteſtans la laſcheté de laur chef,",
+            "Le Ducde oüillon aduerty par le retour du Comte de MAeillo de la reddiio",
+            "e lplace, & de la piſe du Comandane. enuoya e dlageacevn.tpece",
+            "u grand Maiſtre pour le prier de le vouloir tratrer en pnſonar de guer.",
+            "eurant qu’il feroit le meſme raiteement aux priſonniers quail aoit que e",
+            "luy qu il faeroit à Riehon & à ſes ſoldats: Il fie reſpoaſe que",
+            "Ricaon eſtois plus",
+            "en ſoa pouuoir, & qu’il l’auoiz enuoyé à la Cour.",
+            "Cependane les Deputez du Parlemn & de la vile qui eoiene allez rendee",
+            "eurs reſpects, & aſſeurer la Roy & la Reyns de leur obeaſſance, reuindren,à",
+            "ordeanx, & y arriuereut le Ieudy 4. d’Aouſt à dix heures du ſoir; le lend",
+            "ain ils fieent leur rela; ion au Patleent du bo aceulqui leur auoit",
+            "eſté fait à",
+            "ur & des paroles toutes ploines de boné auec leſquelles la Reyae les auoit",
+            "çeceus: ils n’oublierene pas derapporter à la Compagnie coame quoy pendapt",
+            "que le P?raeſdene Pichoa prnpnçoit ſa harangue il euuiſagea bien ſouue le",
+            "ayd Maz. gjui eſtoi dçeriee a chaiſe du Roy ſans leſaluér, en le regardaat",
+            "oue, graadnelpris. Enfix ils jeppoepen; à leus Qompagoie les Propoſieiona",
+            "quele ſieut la Vritiere eur aoie iſes maiapres les anoir leuẽs e preſenca",
+            "de leurbMajeſtez, ſur leſqueles la Rayo auoit teſmoigné vouloir eſtre bien",
+            ", oſt eſdaisri Et an qu’o puiſſe ſsmoeir en quey eoaſioias ea",
+            "Popofie",
+            "eaatm deaioifuepstau pub",
+            "ie e ....",
+            "3",
+            ",.",
+            "e ſe ne uns",
+            "2.1",
+            "S",
+            "Qu2"
         ]
     ]
 }

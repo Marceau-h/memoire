@@ -1,57 +1,189 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "réfutation",
-        "subject": null,
-        "handwritten_note": true,
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": [
+            null,
+            "Scarron"
+        ],
+        "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-03-30",
+        "creation": "1651-03-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-04",
-            "@who": "ZC"
+            "@when": "2021-11-08",
+            "@who": "AB"
         },
-        "titre": "Censure ou Réfutation du libelle intitulé : Soupirs\n          francois sur la paix italienne.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Cent quatre vers contre ceux qui font passer leurs\n          libelles diffamatoires sous le nom d'autrui, par M. Scaron.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-11",
+                "#text": "11 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-14",
+                "#text": "14 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau674_GALL.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau675_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Censure ou Réfutton du ee nttuéSouprs frncos surpx tenne Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202Frnços Dvenne Censure ou Réfutton du ee nttuéSouprs frncos surpx tenne Prs Perre Du Pont 649 Dprès H Crrer texte prudeuxème semne de m 649Prs Bothèque ntone de Frnce déprtement Réserve des vres rres REB360 (3)TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs Cttons tnes p 3 et 0vers exndrns p 6 et 9 Édton composte4 étts du cher A ornement surp de ttrefeuron (étts A à A3) cpe (étt A4)dresse\"snt\" (A et A2) / \"Snt\" (A3 et A4)\"M DC LXX\" (A et A2) / \"M DC XLX\" (A3 et A4)snsmenton \"Avec permßon\" (A) / vecmenton (A2 à A4)p 43/4 \"qund me/\" (A et A2) /3 \"quād mesme\" (A3 et A4)2 étts du cher Cpge 9 sgnture B corrgée C en surchrge (C) / sgnture C (C2) Fussement ttrué à Frnços Dvenne dprès H Crrer \"L Presse deFronde (6453)es Mzrndes\"Genève 99 p 72 note 405 Dprès H Crrer texte prudeuxème semne de m 649 (Bothèque Mzrne Ms 468 f 46v)674 Censure ou Réfutton du ee nttuéSouprs frncos surpx tenne Prs Perre Du Pont 649 2 pges J rencontré un exempre de ce pmphet sur e ttre duque un contemporn vt écrt« Cette pèce n été mse en umère quun mos prèsvente des Sqæprs et fte pr ceux de Sn Germn » Luteur deCensere me prît queque peu pédntest r mrque qu reproche u poête dvor déterré es termesres de désstreux et rmorer Î Sntot nnonce dns une ettre ctée pge 64 des Mémores du crdm de Retz co Mchud une Réponse ux Souprs frncços qu ne peut ps êtreCensure et que je ne conns psprose réfutton Px de Snermn 640"
+            "CENT QVATRE",
+            "CONTRE CEVX",
+            "qui font paſſer leurs libelles diffa",
+            "matoires ſous le nom d'autruy.",
+            "Par Monſieur SCARRON.",
+            "A PARIS,",
+            "Chez TOVSSAINCT QVINET, au",
+            "Palais, ſous la montée de la Cour des Aydes.",
+            "M. DC. LI.",
+            "AVEC PERMISSION."
         ],
         [
-            "CENSVRE OV REFVTATON DV LBELLE NTTVLE SOVPRS FRANCOS SVR LA PAX TALENNEA PARS Chez PERRE DV PONT u Mont nt Hre ruë dEcoe M DC LXXAuec Permßon"
+            "CENT QVATRE VERS",
+            "Contre ceux qui font paſſer leurs",
+            "elles diffamatoires ſous le",
+            "nom d'autruy.",
+            "BEaux Eſprits du Poneuf, Inſectes de",
+            "Parnaſſe,",
+            "Dont les productions außi froides que",
+            "glace",
+            "Font naiſtre la triſteße au lieu de diuertir,",
+            "Vous verrae toûjours à mes dépens mentir ?",
+            "Et mon nom ſuppoſé dans vos oeuures de bale",
+            "Me ſeril toûjours matiere de ſcandale ?",
+            "Trop long temps malgré moy par vn indigne ſort",
+            "Mes vers à vos Placarts ſeruent de Paſſort:",
+            "A ij"
         ],
         [
-            "CENSVRE OV RE FVTTON du Lee nttué Souprs Frnços urPx tenne V E me doute en que Autheur des SouprsFrnços urpx tenne voudr trer dePd nnre e e oufne e een ouen e eter cet ouurge smgnnt peutre qufut que cette pece t eu pproton gene re & que enue qu sttche prncpement ̀vertu et e eu motf de cette Refutton pr queepre tendr donner vn nouue éct ̀ cette producton deprt Ces rons mogent dord de dre e ujet verte qu m mspume ̀mn pour e deuer de cette crence & utfer des motfs de mon procedé Pour detrure enterement on opnon qu ne ferotquugmenter e nomre des futes qu e rencontrent dns on ouurge e us en e qu çche que cet vne pure chrté qu moge ̀ prendre cetre penc pour uy eu prce qu et tre eudent que on eprtpus eon detre guery que tous ceux qu pourot uor ne ctez pr es Ecrts edteux s ont enpett nomre &peu conderes que en qus demeurent otnez dns eurs entmens tous es honnetes gens qu ont e contrres ux mxmes de cét Autheur ne sen deuroent nuement mcttre en penc L popuce et proprcmet vne Srouette qu tourne ̀ toutes ortes de vents vn mrouer qu chnge de fce eon es oets que on uy preente & omme vne cre moe qu reçot me dfferé tes mpre ons utnt de tetes utut ddus & dns ff emons donteue Scndtur ncertum tud n contrr vugus A j"
+            "4",
+            "Ils s'en veulent vanger Grenoüilles enroüées,",
+            "Et, laiſſant pour vn temps leurs rimes enjoüées,",
+            "Par des termes trenchans comme des coutelas",
+            "Ils vont vous deſcouper juſqu'en vos galetas.",
+            "Vous qui peuſtre vn jour en bonne compagnie",
+            "Atteints & conuaincus de male Poeſie",
+            "Eſtendus ſur la roüe en ſales caleçons",
+            "Abjurerez trop tard vos profanes chanſons.",
+            "Mais n'eſl pas permis à chacun de ſe taire ?",
+            "Et voſtre Poeſie eſe vn mal neceſſaire ?",
+            "Rimailleurs affamez produits par le Blocus,",
+            "Qui meriteriez bien l'accident de Malcus,",
+            "Quel plaiſir prenez vous à vous faire maudire ?",
+            "Eſe gloire, eſe gain qui vous fait tant écrire ?",
+            "Ou bien fatiguez vous de gayeté de coeur",
+            "Le ſiecle dont vos vers eſt le plus grand malheur ?",
+            "Quãd vous prenez mon nom, ſi c'eſt par quelque eſtime,",
+            "Pour quoy vous en ſeruir à la noirceur d'vn crime ?",
+            "Et ne m'eſtimant point, inueterez, Pendards,",
+            "Pour quoy le ſuppoſer à vos méchants Brocards ?",
+            "Laißez le tel qu'il eſt, s'il vous eſt inutile,",
+            "Et publiez ſans luy vos fautes par la ville.",
+            "Mais Baſtards d'Apollon, Rimeurs de Belzebut,",
+            "De qui l'eſprit malade à pis que le ſcorbut,",
+            "Ennemis"
         ],
         [
-            "Qu netme ps u queoue de vor dmrer cette pece fmeue me t epudre de necre pourternr forn ect on ouurge net psdgne denue & qund mecrnte de corde ne uy urot ps empeché dy mettre on nom e croy que pour on honneur (toutes fosen et cureux)e deurot ccher de honte & deuoer cét enfnt montrueux qu n pour toute perfecton que ef frontere Non e ne us pont oux degore qu net pontrnte quee me pue éur & mempecher de re mrquer es futes mfnes de cette pece ees ont trop pprentes & tout utre eprt que e en ugerot queecs eroent dgnes du fouet dns es pettes echoes u en que on mpudence e merterot dns es Crrefourseme ̀verté que e contrede pr ce trt de p on ̀chrté que e me us propoée pour motf ms ̀ des mdesprenteset eon de remedes voens & comme e çy en qu e ftte dnsonne opnon qude on gene fut detrure tout ft & nepont ftteron pretend dy donner duremede Pour comttre dord cét etme deprt qu e donne ̀ uemeet necerc de fre vor ̀ tout e monde qu net ps cpe du meter decrre dontset vou utemerrement ecrmer S ce netot que es gnes ont ̀ peu présmeurées on urot depene ̀ dcernet sSvouufre des Vers ou deProe es meuresm oeruées tnt de fues rmes comme de gue ̀ vefue dAyes ̀ yes excez ̀ Frnços &c ces endrotst en doute & u eu dAutes & u eu dctons &c qu ont des ccophones nupportes ces termes deterrés & rres de detreux rmoyer &c & quntté de phres & fçons de prer ndecentes e conunquent e cerement de netre ps on Frnços commee vn e pus qu nen çr ps e ngge Quepourrcpquevouot eguer cctte entence true qu en é de reprendre & ́ de meux"
+            "5",
+            "Ennemis du bon ſens, corrupteurs du langage;",
+            "Ecriuez, imprimez, ouurage ſur ouurage;",
+            "Decriez ſans reſpect Princes & Magistrats,",
+            "Comme ſi vous eſtiez reformateurs d'Eſtats;",
+            "Nuiſez aux Innocens; attaquez les puiſſances,",
+            "Inuentez tous les iours de nouuelles offenſes;",
+            "Faites bien enrager les hommes de bon ſens;",
+            "Abuſez laſchement de mon nom, i'y conſens;",
+            "Si la comparaiſon le merite releue,",
+            "Vos deplorables chants, Roßignols de la Greue,",
+            "Oppoſez à mes vers tous malheureux qu'ils ſont,",
+            "Decouuriront bien toſt la baſſeſſe qu'ils ont,",
+            "Seront bien toſt au rang des ſottiſes paßées,",
+            "Et papiers déchirez ſous les chaiZes percées,",
+            "Laiſſant à leurs autheurs, outre mille remors,",
+            "Vne eternelle peur des Sergens & Recors.",
+            "Ne pretendez donc plus par vos chanſons malignes,",
+            "Malencontreux Hiboux, vous eriger en Cygnes,",
+            "Et puis qu'a rimailler vous reüßiſſez mal,",
+            "Et pendu pour pendu que le ſort eſt égal,",
+            "Ne faites plus de vers, aller tirer la laine,",
+            "Vous y gagnerez plus auecque moins de peine,",
+            "Vn liure de vos vers ne vaut pas vn manteau:",
+            "Ne nous alleguez point la crainte du cordeau,",
+            "B"
         ],
         [
-            "meux fre & que dns e deen de refuter on Ouurge e deuos me erur du meme genre decrrc & non ps oppo er de proe ̀ des vers dontcontrnte &meure up poe pus de dfeuté e n y ren ̀ uy dre non que e çy meux chor e tye eon es uets & quvne de es pus grndes futes que e ne veux pont mter et duor trtté cette mtere dns vn genrepeu propre ̀ on uet qu me ft crore que quoy qu ot tres muus Pöteet encor pus muus Orteur Pour mon egrd quoy que e os ez medocre dns vn & utre queques vcrs que on veu de m fçon feront yément reconnotre que gnornce depoëe net pscue pourquoy y choproe pour uy repondre Pour fre vor qu set ecruy tres m ̀ propos des vers pour on uet es mons veres dns cette cence n gnorent ps quee net propre quux fctons & pour fre ecter duntge es nuentons & es penecs de eprt ms dns vne ouurge creux dns equeet queton de fre vorverté & peruder prorcc des rons es eprts ̀ queque crence comme ns doute notre Auteursetot mgné pourquoy vouor mportu ner es Mues & es trerpour n dre pr es cheueux e ds en duntge quencor en que ce uet e put trtter enversne fot ps contredrc comme ft ̀ on ttre qu ne pre que de ouprs pr de petts eux de mots & de rdcues uons dont mpertnencec ft r re e ecteureme qu veut etre vn ereme & dns e meu dvne trte menttonqutte tout dvn coup e peronnge dHercte pour prendre ceuy de Democrteft e ceneur Potque & met en utte vne ponte rd cue ur uon de fux Lous ou de utes & dns e zee e pus enftmmé dontfumne contre des Eue quesv chercher des pednteres Schotques & e oüe ur des noms de Do Dr eur de Cordeer & de Corde qu ne peuuent etre permes que dns vn ty e cxtremé ment ueque deguer pour ron qu set eruy decet rtfce fn de ne ps nommer ouuertement ces Pre ts ne pourron ps uy demnder pourquoy doncennommez de pus conderes en d utres endrots qu deuot tre uec pus de ron & de utce Ms venons u prncp de notre uet uques cy nous nuons ft que conderer queques ges qu ne font queuperfces de cette dngereue potume dns queeet necere dppquer e fer & pour venr ̀conno nce decuefut exmner ntenton de cet Au theur &fn quset pu propoer en commnçnt ce pernceux ouurge decouurr en utte es qutez vceu es & uy freen conceuor horreur defute pr de chrtes dus quee otdernere qu commettems duoüe que e us en empeché dnsrecherche de on decn puque e zee pourPtre dontveut fu ement couurrmuue voonté nen et nuement e uct Arrcherpx des Preounces Agrr es peupes & es ProuncesTxer vn ugute Sent Et comme vne horre fure Boueuerer tout vn Ett Ee ̀ erurPtre Ce ne peut etre prcement e deen de e mettre en f ueur puque on noente tyre ttque teement tous es deux prts qu eme qu en veut ̀ tout e monde & que comme vn utre myntropeyt vne hne gene re contre toutes ortes de peronnes e reuens donc ̀crence que y quvn ouurge de cette nture net ps pro dut pr vn rncos ou du mons que cœur Etrnger pus qu true uec tnt drdeur ̀ remettre e troue &duon dns cette Monrche quvne px de tnt de ueurs & de ftgues vent ̀ pene de nnr & de de e confrmer cette opnon nous nuons qù con"
+            "6",
+            "Elle ne quitte point les mediſans Poëtes",
+            "De qui fort rarement les affaires ſont nettes,",
+            "Et des voleurs de nuit comme de tels Rimeurs",
+            "On fait également & pendus & rameurs;",
+            "Si bien qu'en tous les deux eſtant hommes pendables,",
+            "Plus ou moins de profit vous rendrõt moins blaſmables.",
+            "Que ſi trop adonnez à gaſter du papier",
+            "Vous ne pouuez quitter voſtre maudit métier,",
+            "Au moins faites des vers que chacun puiſſe lire,",
+            "Et ſeruez le Poneuf, pluſtoſt que de medire.",
+            "D'vn ennemy Public, Eſtranger ou François",
+            "Par zele ou par dépit on ſe plaint quelque fois:",
+            "Mais offenſer en vers ſes Maiſtres legitimes,",
+            "Faire ſeruir en mal l'innocence des rimes,",
+            "Et pour les debiter y ſuppoſer vn nom,",
+            "C'eſt estre pour le moins faux teſmoin ſur larron.",
+            "Ie veux bien que vos vers ſoiẽt autãt de Che'oeuures,",
+            "Mais eſtant venimeux autant que des couleuures,",
+            "Méchans c'eſt peruertir l'vſage des bons vers;",
+            "Ne vous y trompe plus, cachez ou découuers,",
+            "Bien ou maaits ils ſont de treauuaiſe garde,",
+            "Et l'eſtime n'eſt pas tout ce qu'on y hazarde;",
+            "Vne faute cachée, ou dans l'impunité",
+            "Ne peut cautionner vne remerité."
         ],
         [
-            "derer on Ouurge de prés & non ps uperfceement à̀ exempe de queques eprts vugures qu urmpe ecture du ttre ont dmré comme vne meruce Ms ces peronnes ont ̀ en dre des enfns quvne pommetsft & quvne gtee mue putot quepus ee pece du monde ce net ps tout quvne oëtte ot pente & en enjouéece qu et dedns nenchert ur cette extereure euté & ns txer ce ttre dextrugnce quoy que merte ez utement voyons pece re pond ̀ cette pprnce nttue es ouprs Frnços & on ny remrque que des rges des deepors des nures & des fumntons horresvoudrot d quepx fut te & pr de edteues exhorttonsérnevuement qu eme qu t prs ̀ tche dedetrure Bref pou euter vn m mgnreen ntrodut vn me fos pus ̀ crndre & donteue penée mprme de hor reur dns eprt des honnetes gens Toutesfos ce net ps ez de cette cenure generefut venr ̀dcuton prtcuere & refuter chquo tnce vne pres utre Les tros premeres decment hutement contre ceux qu nous ont procurépx es txe duor et́ corrompus duor qutté nteret deptre pour ceuy de es e nne ms & duor trtté ns honneur ns gun & nseurnceBen quevox commune utfe ez ces per onnes ncorruptescontrdcton qu e rencontre entre uor eteé corrompus & duor trtté ns gun renuere de oeme cette nureue comne ms reeruépus forte ronpourtroeme en ce qu eur reproche qupres uor condmné e Crdn com me vn perturteur du repos puc s e retent dns onpremer Ett en cnt es Arrets qus uoent don né contre uy Ce net ps vn deffut de memore comme preume ce edteux ms vne ron en punte qu esft condecendre ̀ ces condtons S Mct́ e oû mettnt ̀ cer es Decrtons & es Arrets qu durnt"
+            "7",
+            "Quittez donc vn métier qui fait pendre ſes Maiftres;",
+            "Repreſentez, vous bien des Poſteaux, des Cheueſtres;",
+            "Songez non ſans frayeur que les chants reprouueZ",
+            "Sont veus degenerer quelques fois en Saluez;",
+            "Songez non ſans frayeur que ſemblables ramages",
+            "A ſemblables oyſeaux ſont de mauuais preſages;",
+            "Songez non ſans frayeur qu'vn Gibet eſt de bois,",
+            "Que les faux Amphions l'attirent quelque fois;",
+            "Qu'abuſant du métier du malheureux Orphée.",
+            "Vn bourreau peut autant qu'vne Trouppe enragée;",
+            "Enfin, ſur le ſujet vous pouuez mediter,",
+            "Regarder les objets dont l'on peut profiter,",
+            "Songer au grand repos qu'apporte l'Innocence;",
+            "Qu'on n'eſt point à couuert de ceux que l'on offence,",
+            "Qu'on peut vous découurir gagnant vos Gazetiers,",
+            "Et vous aller chercher juſque dans vos greniers;",
+            "Vous auez trop d'eſprit pour ignorer le reste,",
+            "Et qu'outre les fleaux, Famine, Guerre, Peste,",
+            "Il en eſt encore vn fatal aux Rimailleurs",
+            "Fort connu de tout temps en France comme ailleurs,",
+            "C'eſt vn mal qui ſe prend d'ordinaire aux épaules",
+            "Cauſé par des baſtons, quelques fois par des gaules,",
+            "Son nom eſt, Baſtonnade, ou bien, coups de baſton:",
+            "Qui vous en donneroit, Meßieurs, qu'en diroin ?",
+            "FIN."
         ],
         [
-            "es deordres uoent nterdt e Prement neto ps pus que ronne qu ft e recproque de on cotépuque toutes nos emotõs ne pouuoent etre utrement pcfées fo commedt uy porter e pognrd ousgorge & que e uet contrgnt e Souuern ̀ ut es cprces & uure es voontez nconderées L qutreme et vn gmts enoué duons & dntthees ndgnes detre refutées Dnscnqueme comme vn Prophete de eurmence Prs de mux epouuntes qu set forgé dns on mgnton ns ucune pprence de fonde ment veu que qund meme e Crdn Mzrn urot deen de e vnger de cette Venen ur ms es occons qué per dns vn temps uqueetot pus ogé de sen erur tche de confrmer cette Prophete dnsxeme pr vne muue penture qu ft vor dedeoton des vges & decmpgne runées Ms ces m cres neproent que dns es vers & reerué queques de gts cuez prSodteque qu ne ont ps rrepres nous deuons rendre grces ̀ Deu du peu de ng qu set repndu prmy ces deordres qu deuoent en pprence uor vn uccez eucoup pus funete & pus voentcheue pr vne nure rute qu ne ft qugrr vn Prn ce genereux dont mté e dot cquerr prdou ceur Les ept huct neuf & dxeme pprennent des cre ges nous qu ne ont ms tomés dns mgnton des pus omnes en on duor eté comms commedt pr des Etrngers qu ccue de ces cr mes & pour en trer vngencemet e fer & e feu dnsmn des Frnços &rge dns e cœur dcptre Ms es cheueux me dreent dhorreur ̀ecture dedxeme & e croy commedt que e De et utheur de cette tnce qu content vn epouunte crege qu reno vnomme coupe pour uot eourhe pr crt"
-        ],
-        [
-            "9 crt puqueeue penée en et tout ̀ ft crmnee & uppoé meme qu ne fut ps de nuenton de notre Je e Peet cqucy quy t en de pprnce ̀ que deen puer ces omntons qu ne font qurrter de pus en pusutce de Deu devuement offenée &c Pr ces detetes exempes Enegner ̀ ces ntons De nouuees nuentos Afn de profner es Tempes Lvnzeme net quvne nuectue contre queques Gene rux qu ont uprés du Roy pr queees txe detre Etrngers & de netre ps Frnços quoy qùreerue de ces derners troues (ou nteret de eur chrge escontrnts de nous etre contrres) s en yent donné tou tes es preuues mgneses coffe urfn deme me Epthete qude donnée u Prnce ce qu et vne mrque deterté de on eprt Dnsr2 3 & 4trnche du Predcteur ms u eu de redureRene dns es termes dedouceurtche deetter dns e deepor pr mpoté de donner remede ux deordres qu exgere extrordn rement &mence noemment deutce dune ns que on pue uger ce qu pretend pr cette re montrnce pus qu e pnt des mux qu ont de pez & qu urot tort den derer e remede pus qu es uge rremedes Qunt ̀ ce qu touche e Crdn Mzrn on vot ppertement que cet putothns quechrté qu nme on zee en vount ttrerven 8Sence dune urtete u eu dmporer pour uymercorde Les5 6 7 8 & 9 ont des decmtons penes dnures & dnuectues contre queques Prets & Preq cteurs de eurs Metez qu ccue denegner de fu es doctrnes & dnmer contre nous eprt deRene & des Prnces pour en otenr des Benefces & des recom penes Ce qu me ft mgner qu set peutre utre L"
-        ],
-        [
-            "0 fos vouu erur de ces mxmes pus qu en pre com me cunt & que e dépt de nuor ft reur es de ens et e uet depon qu emporte à ces ndcre tes comnes entremeées de protettons detre on Fr nços & de contrdctons rdcues conent ̀ ces pre dcteurs dexhorterReyne ̀ repndre des rmes ur des emrzemens que des peurs de m ns ne pouroent ps etendre net ce ps derer vne choe mpoe L vngteme sddree ux Confeeurs qu pretend creges dccorder e nt Screment ux Segneurs deCour ns conderer qupres vne reconcton fte uec es hommes ren ne es empeche de fre eur Px uec Deu msne peut per que pour vn Cute gnornt en vount oger es pentens ̀ rettuer & reprer es vos es crnges & es deordres qus ont comms durntGuerre veu que Ad mpoe nemo tenetur Et querettuton net enonte quentnt quee et dns notre poemercorde de Deu uppent u deffut de notre puncente encore dns cét opnon &dernere tnce et rmée de rdcues rons pr equeespretend prouuer que ns cette rettutonPx et pre queGuerre & pr des uttez neptes & des duertemens hors de onft vne dtncton de cee de Frnce d uec tenne pour etter es eprts foes dns vne def fnce perpetuee & es empecher pr ce moyen de gou terdouceur du repos pres deongues cmtezme eme que y uffmment ft reconnotre es pernceues ntentons de notre Autheur qu ne tendent eudemment qù etrer cét Ett dns de nouucux deor drespr e vent de duon qu oue dns es eprts o dteux & es dngereues mxmes queutcede cenurées comme contrres ̀trnquté puque en upprmnt vn ouurgepreudce u repos de Ettnet queton mntennt qù concurre pr vn dus"
-        ],
-        [
-            "g uo chrte ̀ tous ceux qu e meent decrre qus yent ehor meux eurs uets & qus ne commencents vnuurge qus nyent condere quefn nen e e ee oere e oeneoe ene e ne re deStyre pourueu quee ne ot pont endeue & quee ne trepugne en ren ̀chrté qu dot repren dtens pon & ns nteret Queconequence des ecrts de cette nture et en dngereue pus quen vou nt remeder ̀ queque deordre prtcuer on en ntro dut vn gener Enn qus tennent cét xomes pr e que e ns pour vn prncpe res euŕ quePxSus puure &pus dechrée et preere ̀Guerreous goreue &pus mgnfque & que nousdeuons en coneruer qunt nouspouuons otenr commepus precuchoe que nous çurons derer ny poe FN"
+            "L eſt permis à Touſſainct Quinet Marchand Libraire",
+            "d'imprimer ou faire imprimer les Cent quatre vers contre",
+            "ceux qui font paſſer leurs libelles diffamatoires ſous le nom d'au",
+            "truy. Et defenſes à tous autres de l'imprimer, ou faire im",
+            "prrmer, à peine de cinq cens liures d'amende. Fait ce 16.",
+            "May 1651."
         ]
     ]
 }

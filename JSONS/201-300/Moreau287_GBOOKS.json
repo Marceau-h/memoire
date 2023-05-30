@@ -1,36 +1,94 @@
 {
     "entête": {
         "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt",
+            "contrefaçon"
+        ],
+        "subject": [
+            "Condé, Louis de Bourbon, prince de, 1621-1686",
+            "Conti, Armand de Bourbon, prince de, 1629-1666",
+            "Longueville, Henri, duc de, II d'Orléans, 1595-1663",
+            "Étrangers (droit)"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-03-30",
+            "@when": "2022-10-25",
             "@who": "AB"
         },
-        "titre": "Arrêt dela cour de parlement, toutes les chambres\n          assemblées, portant que le roi et la reine régente seront très-humblement suppliés, de la\n          part de ladite cour, d’envoyer, au plutôt, lettre de cachet pour mettre en liberté\n          messieurs les princes et duc de Longueville, et éloigner de la personne de Sa Majesté le\n          cardinal Mazarin.",
+        "titre": "Arrêt de nos seigneurs du parlement, portant\n          l'éloignement du cardinal Mazarin et sortie hors du royaume, et Leurs Majestés\n          très-humblement suppliées de mettre en liberté messieurs les princes et duc de\n          Longueville, et d’envoyer une déclaration, pour exclure d’entrer ès conseils du roi tous\n          étrangers, même les naturalisés, et qui auront serment à un autre prince que le\n          roi.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau287_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau288_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Arrêt de cour de prement toutes es chmres ssemées portnt que e ro etrene régente seront trèumement suppés deprt de dte cour denvoyer u putôt ettre de cchet pour mettre en erté messeurs es prnces et duc de Longueve et éogner depersonne de S Mjesté e crdn Mzrn Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Prement de PrsArrêt de cour de prement toutes es chmres ssemées portnt que e ro etrene régente seront trèumement suppés deprt de dte cour denvoyer u putôt ettre de cchet pour mettre en erté messeurs es prnces et duc de Longueve et éogner depersonne de S Mjesté e crdn Mzrn Prs Jco Chever 65 dté du 4 févrer 65 Lyon Bothèque muncpe30594TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs287 Arrêt de cour de prement toutes es chmres sseméesportnt que e ro etrene régente s ront trèumement suppés deprt de dte cour denvoyer u putôt ettre de cchet pour mettre en erté messeurs es prnces et duc de Longueve et éogner depersonne de S Mjesté e crdn Mzrn Du 4 févrer 65 Prs Jco Chever 65 4 pges 5y enune édton de Rouen chez Étenne Vereujouxtecope mprméeetc 4 pges Ee content égement rrét du 7 févrer qu sutprose"
+            "D D D",
+            "4",
+            "I I L 2",
+            "DE’NOSSEIGNEVRS DE",
+            "Parlement, portant l’́loignement du",
+            "Cardinal Mazarin, & ſortie hors du",
+            "Royaume; & leurs Majeſtez treum",
+            "blement ſupplíes de mettre en liberté",
+            "Meſſieurs les Princes & Duc de Lon",
+            "gueville: & d’enuoyer vne Declaration",
+            "pour exclured’entrer és Conſeils du Roy",
+            "tous Eſtrangers, meſmes les naturaliſez,",
+            "& qui aurontſerment à autre Prince que",
+            "e Roy.",
+            "D ſeptieſne Feurier I6.",
+            "cps",
+            "A PARIS,",
+            "Chez Iaos C n v a i, deuant",
+            "e College Royal.",
+            "M. DG. LI."
         ],
         [
-            "ARREST DE LA COVR DE PARLEMENT TOVTES LES CHAMBRES emeé́es portnt que e Roy &Reyne Regente eront teum ement uppez deprt de dte Cour denuoyer u putot Lettre de Cchet pour mettre en erté Meeurs es Prnces & Duc de Longueve & eogner dupresperfonne deMjeté e Crd n Mzrn Du 4 Feurer 65 A PARS Chez ACOB CHEVALERdeunt e Coege Roy M DC L"
+            "deee",
+            "EXTRICT DES RECISTRES",
+            "de Parleoent.",
+            "E Iour la Cour, toutes les",
+            "Chambres aſſemblées ayant",
+            "& delſiberé ſur ce que Mon",
+            "Feurſe Due dOrleans a dit, preſens les",
+            "Gens du Roy, que le Roy & la Reyne",
+            "Regente auoient eloigné le Cardina",
+            "Mazarin, lequel eſtoit ſorty de cette",
+            "ville la nuict derniere; Et ouy ſur ce",
+            "eſdits Gens du Roy, a arreſté & or",
+            "donné, que par les Deputez de ladite",
+            "Cour, le Roy & la Reyne Regente",
+            "eront ce iourd’huy treumblement",
+            "uppliez mettre en liberté Meſsieurs les",
+            "Princes & Duc de Longueville, inceſ",
+            "A"
         ],
         [
-            "3 EXTRACT DES REGSTRES DE PARLEMENT CE ourCour toutes es Chmres em ées ynt deeré ur e rect ft pr Moneur e premer Predent contenu u egtre du our dher & de Ce our concernnt erté de Meseurs es Prn ces & Duc de Longueveets u Hvre & utres cho"
-        ],
-        [
-            "4 es contenüs udt Regtre & urceouys es Gens du Royrreté Que e noy &Reyne Regente eronc tres humement uppés deprt de d Cour denuoye u putot ettre de Cchet pour mettre en erté Me eutr es Prnćes & Due de Longueve & pres enuoyer vne Decrton de eur nno cence & déogner dupresperonne du Roy & de es Cones e Crdn Mz rn & de semer Lundy urrepone Ften Pre ment e 4 Fevrer 65 Sgné GUYET"
+            "4",
+            "mment, & en faire expedier tous or",
+            "dres neceſſaires preſentement. En ou",
+            "tre ſeront ledit Seigneur Roy. & ladite",
+            "Dame Reyne Regente remerciez de",
+            "éloignement dudit Cardinal Maza",
+            "rin, & priez de luy commander qu’il",
+            "orte le Royaume, & d’enuoyer vne",
+            "Declaration au Parlement, pour exclu",
+            "re aà l’aduenir d’entrer es Conſeils du",
+            "Roy tous Eſtrangers, meſmes les na",
+            "turaliſez ou autres, qui auroient ſer",
+            "ment à autres Princes, que le Roy.",
+            "Fait en Parlement le 7. Fevrier i6̃.",
+            "Signe, GVYET. Ve8"
         ]
     ]
 }

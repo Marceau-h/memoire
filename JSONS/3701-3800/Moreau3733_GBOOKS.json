@@ -1,51 +1,100 @@
 {
     "entête": {
-        "form": "prose",
+        "form": "vers",
         "genre": [
-            "requête",
-            "rhétorique délibérative",
-            "discours adressé"
+            "chanson",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": [
+            null,
+            "Scarron"
         ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1652-06-16",
+        "creation": "1649-03-11",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-25",
-            "@who": "AB"
+            "@when": "2022-03-18",
+            "@who": "KA"
         },
-        "titre": "Supplication, ou Requête présentée à Son Altesse Royale,\n          samedi dernier, par les bourgeois qui s'étoient assemblés, le vendredi 21 juin 1652, à la\n          place Royale, pour y résoudre ce qu'on avoit à faire sur le sujet des affaires du\n          temps.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2022-10-25",
-            "#text": "25 octobre 2022"
-        },
+        "titre": "Sur la conférence de Ruel en mars, vers burlesques du\n          sieur S.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-11",
+                "#text": "11 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-23",
+                "#text": "23 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau3733_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3734_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Suppcton ou Requête présentée à Son Atesse Roye smed derner pr es ourgeos qu sétoent ssemés e vendred 2 jun 652 àpce Roye pour y résoudre ce quon vot à fre sur e sujet des ffres du temps Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz AexndreProjet ANTONOMAZ / Soronne Unversté25 octore 2022 Suppcton ou Requête présentée à Son Atesse Roye smed derner pr es ourgeos qu sétoent ssemés e vendred 2 jun 652 àpce Roye pour y résoudre ce quon vot à fre sur e sujet des ffres du temps PrsSns Nom652 jun 652 Lyon Bothèque muncpe de LyonRés 309395TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3733 Suppcton ou Requête présentée à Son Atesse Roye smed derner pr es ourgeos qu sétoent ssemés e vendred 2 jun 652 àpce Roye pour y résoudre ce quon vot à fre sur e sujet des ffres du temps Prs 6527 pges Rre et cureuse SjLprose requête rhétorque déértve dscours dresséRetrte du duc de Lorrne 65"
+            "SVR LA CONFERENCE",
+            "DE RVEL",
+            "EN MARS.",
+            "VERS BVRLESQVES",
+            "du ſieur S.",
+            "M. DC. XLIX."
         ],
         [
-            "SVPPLCATON OV REVESTE PRESENTEEASAR SAMEDY DERNER Pr es Bourgeos qu setoent em ez e Vendredy 2 un 652 ̀Pce Roye pour y reoudre ce quon uot ̀ fre ur e ujet des ffres du teups Ru A PARS M DC L"
+            "3",
+            "SVR LA CONFERENCE DE RVEL",
+            "en Mars. En Vers Burleſques du ſieur S.",
+            "MA foy nous en auons dans l'aile,",
+            "Les frondeurs nous la baillent belle,",
+            "Male peſte de l'Vnion:",
+            "Le Bled ne vient plus qu'en charette,",
+            "Confeſſion, Communion,",
+            "Nous allons mourir de diſette.",
+            "Qu'en dites vous, troupe Frondeuſe,",
+            "Moitié chauue, moitié morueuſe,",
+            "Où ſont donc tous vos gens demain ?",
+            "Auec vos quatree cens mille hommes,",
+            "A peine trouuons nous du pain,",
+            "Pauures affamez que nous ſommes.",
+            "Dans toute la France on s'eſtonne,",
+            "Que voſtre intention ſi bonne",
+            "Vous ſuccede ſi pauurement:",
+            "On y trouue beaucoup à mordre;",
+            "Six ſemaines de Reglement",
+            "Font pis que vingt ans de deſordre.",
+            "Dés les premieres Baricades,",
+            "Sans recommencer les Frondades,"
         ],
         [
-            "eeSZ rPeuerro or neover peme ̀ S A R Sedy deer pr s ogq efons ee eVe8e u djt Pre Ee pupeeos or ufeun res d tepMongneut e Duc doe F VPLeNT nes hmoemem Rvore Areeops uo oun A geon& rns de Vte gourgs de Prds Dns q Eoe ereuprueeeerte s oufmmee vn pee eud qus e poguspgons dohrdep eoeux edodren quepenme du SduMnu c peonreoumu umodnmcreVemeedotqdpeoo dsedepez o pnfomeégqs qpo etoehrremon deos eppenodeneoueœns pooodeopedeśd ehnotçers p so"
-        ],
-        [
-            "eHe quvncheun e prepre dfre rodndes Ans nteon de VLA neqrs e rnee eurreepe Mes n éées pou e tepos ee toû ueppuon dCrd nn ns ep nete de e oores oo euet hg ous oe ht eout epnededen eSAsuetr Vegneur quemnousom mes tous prets dexpoer nosens &nosves p c dqu pous uons dy contruer de vn & de utrefppddt dtcepœr ertefos pudernere detoutes es offes que housuyfons dvue rte ôu ped doen qe os nete pour f &et porns e Eeo Ettuge e putoq ouserpohe nftnspone dutoutenre opcdddeouff qupu ous mone puspreuces onguo queem npen oemdtdns tdus ex de honsuofn e jopuoquesẽt queton desfenhfotoxecucerpcompemene pufqus ednuos de outreuepednde ous onsts deuoupftehe dvnndeunousnue desmãftqà mrchexs eruus méàueso eupsde moqregtgeette à̀ropos drcoded Moegrur deRtmep out notreen nemy"
-        ],
-        [
-            "neny pourp e refuger fn de e perdrs u? prunt qu cheue e degt enter de toutempgfe Et nynts pont vouu ven tous en tonfuon en mportuner V A R dnschmre nous uons ugépropos de upper Monegneur e Due de Beufort d otd ontré de uy preenter hoftre Requete que nous eufonstousvoonrers gnde de notre ng s eut eté́ eonon ne nous eut ft perer que V A R prendrotpene deeetretete àfenetre pour receuo nos protettne uy offrns dvne mn nos ens & de utre nos epé́es pour execter ueugoment esordres pourueu que dns ref o nous duredesmeres quo nous ouf rons ur e pernceque ous uons detre défts poums de notre ennemy com m ets dns mptéce den vor vne fnoutreon y pecfnt une vnqunt puqucne nous uons dés dt nous eprouuons uet tn de doueur queongueur nenous f qur pem peu pour nous oterenomoyende pomuorpus reteràx pesndpues entroprfes de notre Tyrn Et fn de meuxreuü̈r dns ce deen nous upposumomt vtre Atee Roye dentenuercmtn u Prement nonees B"
-        ],
-        [
-            "6 & nos reoutons netns ps on etc de ttendre euenement que pr vn oon Arret dvnon fn que es Prtnts mes du C5 dn Mzrn ne puent sxempter de con truer u en à̀perte de eur Mts qus concourent tous erettemenc uecuy ̀notre protetnts deunt Dee & VA R queMeeurs du Prement nous refuent ette vnonnecefre pour pruenr u de en que nous uons prés quee ur prspene de eur rconter dos entmens ou ommes tous reous defermer nosotques de prendre es rmes & de ne és pont qutter que nous nyons ms mur rous ceux qu sy opperont ny ynt ren qu nous t retenu uques ̀ preent que e eurepectque mous uons touours eu pour V AR ̀ qu hous uons etmé deuor decreo os ent ents upru de ren entreprede vg dnts ument en ortr ce mcn pr cetee voye ou nous dé́fre de tout ce qu y erut doftce fous queque pretete que ce fot dnsreouron que noumsuonspr de fç uor que pty s veuent tnr ut per outre CE CONSBERE Monegneus qu pe à votre Acee Roye de ne pusponefuer den prer njordhuy u Pre"
-        ],
-        [
-            "5o o7 ment fn quon ne nous e ps tomer dns e derner deepor pr des despreudc es u en puc qu pourroent enfn fre refrodr es pus echuffez ffor notre pr ty & renforcer ceuy de notre ennemy Nous ttendons doncce mtnreouton du Pr ement fur ce ujet protetãs derechefà V AR que voynt es pprences eudentes dvne prompte executon nous neprgnerons ny nos ens ny nos ves pour ceompement de ce deen ne tennt pont à nous quon ne fe eot dns Prs des forces & dhom mes & drgenrt uffntes pour nous deurer de notre Tyrn Dns epernce que nous uons qucceptnt nos preres & nos offtes on nous en donner ce jourdhuy vne onne uë nous nous ons dpoer à temogner à V A R que dns cette rencontre & dns tou te utre nous ommes uec toure orte de re peét & de oûmon Monegneur de V A RLes treues treeîs tret us fde e repenueSrre s Hrs sV t ue rx no Pu"
+            "4",
+            "falloit mieux prendre ſon temps,",
+            "Et non pas comme des iocriſſes,",
+            "En ſoudrilles & Capitans,",
+            "Deſpenſer toutes vos eſpices.",
+            "Tandis que le Prince nous bloque,",
+            "Et prend bicoque ſur bicoque,",
+            "Et la Riuiere haut & bas,",
+            "Nous ne nous occupons qu'à faire,",
+            "Au lieu de ſieges & combats,",
+            "Des chanſons ſur Iere lanlere.",
+            "Nos Chefs & nos braues Cohortes",
+            "N'ont pas plutoſt paſſé les portes,",
+            "Qu'ils les repaſſent viſtement,",
+            "Nous mettons nos gens en bataille,",
+            "Le Polonois, & l'Allemand",
+            "Croquent cependant la volaille.",
+            "Vſons bien de la Conference,",
+            "Remettons la Paix dans la France",
+            "Où tout eſt, vous m'entendés bien:",
+            "Finiſſons la guerre Ciuile,",
+            "Et que le pain quotidien",
+            "Reuienne à Paris la grand Ville.",
+            "FIN."
         ]
     ]
 }

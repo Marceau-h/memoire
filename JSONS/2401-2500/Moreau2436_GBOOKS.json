@@ -1,78 +1,176 @@
 {
     "entête": {
-        "form": "vers",
-        "genre": "burlesque",
-        "subject": [
-            "Mazarin",
-            "Scarron"
-        ],
+        "form": "prose",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1651-03-11",
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+        "creation": "1650-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-10-03",
+            "@when": "2022-03-16",
             "@who": "AB"
         },
-        "titre": "La mazarinade",
+        "titre": "La médaille , ou la Chance retournée.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "langue": "fra",
-        "fichier": "Moreau2436_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau2437_MAZ.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L mzrnde Édton AntonomzChîne de trtement Ron CmeStgre Lech MéneStgre Aven Krne Lejeune Gë Tnguy JeptsteProjet ANTONOMAZ / Soronne Unversté25 m 202Pu Scrron L mzrnde PrsSns Nom65 Venne Bothèque ntone dAutrche2766 ALT MAGFseCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs En vers octosyes Autre édton (BM00799)composton dep de ttre ndeu dfférent pont u ttre de déprt p 3 \"déordez\"/\"desordez\" p 4 \"vn rt\"/\"vu rt\" \"trnte à qurnte\"/\"trente & qurnte\" \"dormr\"/\"dormt\"p /5 \"rquedemre\"/rquedemze\" \"semee\"/\"semée\" \"Pnteon\"/\"Pnton\" \"frnɔ\"/\"frnc\" \"dessus\"/\"dessur\" \"mnstere\"/\"mstere\" \"e cstre\"/\"é cstre\"p 2/6 \"son tesse\"/\"ton tesse\" \"Focoron\"/\"Focron\" \"qu vve\"/\"QU VVE\" \"Mzrn\"/\"MAZARN\" \"ueree\"/\"uerée\" \"grãd sot\"/\"grnd sot\"p 3/7 \"Coon\"/\"Coonn\" \"comme\"/\"cõme\" \"Hmenee\"/\"Hmenée\" \"Truene\"/\"Trune \"dffer\"/\"deffer\"p 4/8 \"veux &\"/\"veux &\" \"ceremone \"/ceremone\" \"nsoens\"/\"nsoens\" \"rmees\"/\"rmmees\" \"ffmees\"/\"ffmées\"p 7 \"mnquée\"/\"mnquee\" \"ttquée\"/\"ttquee\" \"ogé\"/\"ogé\" \"guerre tnds\"/\"guerre tnds\" \"â Brceonne/\"à Brceonne\" \"Bron\"/\"Brron\"p 8 \"notes\"/\"notes\" \"penuent\"/\"peuuent\" \"pendt\"/\"pendt\"p 9 \"pruce\"/\"Prnce\" \"entrepreudre\"/\"entreprendre\" \"o e pus\"/\"ô e pus\" \"ogè\"/\"ogé\"p 20 \"mus\"/\"mns\" \"decrée\"/\"décrée\" \"Reetton du\"/\"rejetton de\" \"dentree\"/\"déntrée\" \"jouet\"/\"joüet\" \"oet\"/\"ojet\" \"Hé en u crdn peé\"/\"Hé en ô crdn peé \" \"pré\"/\"pré ?\" \"mgrè\"/\"mgré\" \"doy\"/\"doy ?\" \" toy\"/\"à toy ?\"p 3 \"Sodomznt\"/\"Sodomsnt\" \"nvestsnt\"/\"nvestssnt\" \"Hõme ux Fẽmes & Fẽme ux Hõmes\"/\"Homme ux Autre édton (BM00799)composton dep de ttre ndeu dfférent pont u ttre de déprt p 3 \"déordez\"/\"desordez\" p 4 \"vu rt\"/\"vn rt\" \"trnte à qurnte\"/\"trente & qurnte\" \"dormr\"/\"dormt\"p /5 \"rquedenre\"/rquedenze\" \"semee\"/\"semée\" \"Pnteon\"/\"Pnton\" \"frnɔ\"/\"frnc\" \"dessus\"/\"dessur\" \"mnstere\"/\"mstere\" \"e Cstre\"/\"é Cstre\"p 2/6 \"son tesse\"/\"ton tesse\" \"Focoron\"/\"Focron\" \"qu vue\"/\"QU VVE\" \"ueree\"/\"uerée\" \"grãd sot\"/\"grnd sot\"p 3/7 \"Coon\"/\"Coonn\" \"comme\"/\"cõme\" \"Hmenee\"/\"Hmenée\" \"Truene\"/\"Trune \"dffer\"/\"deffer\"p 4/8 \"veux &\"/\"veux &\" \"ceremone \"/ceremone\" \"nsoens\"/\"nsoens\" \"rmees\"/\"rmees\" \"ffmees\"/\"ffmées\"p 7 \"mnquée\"/\"mnquee\" \"ttquée\"/\"ttquee\" \"ogé\"/\"ogé\" \"guerre tnds\"/\"guerre tnds\" \"â Brceonne/\"à Brceonne\" \"Bron\"/\"Brron\"p 8 \"notes\"/\"notes\" \"penuent\"/\"peuuent\" \"pendt\"/\"pendt\"p 9 \"pruce\"/\"Prnce\" \"entrepreudre\"/\"entreprendre\" \"o e pus\"/\"ô e pus\" \"ogè\"/\"ogé\"p 20 \"mus\"/\"mns\" \"decrée\"/\"décrée\" \"Reetton du\"/\"Rejetton de\" \"dentree\"/\"déntrée\" \"jouet\"/\"joüet\" \"oet\"/\"ojet\" \"Hé en u Crdn peé \"/\"Hé enô Crdn peé\" \"pré\"/\"pré ?\" \"mgrè\"/\"mgré\" \"dy moy\"/\"doy ?\" \" toy\"/\"à toy ?\"p 3 \"Sodomznt\"/\"Sodomsnt\" \"nuestsnt\"/\"nuestssnt\" \"Hõme ux Fẽmes & Fẽme ux Hõmes\"/\"Homme ux Femmes & Femme ux Hommes\" \"Géns\"/\"gens\" \"és\"/\"es\" \"pus e\"/\"pu\"\"Ou\"/\"Où\" \"chuue &\"/\"chuue &\" \"futeü es\"/\"futeü es\" \"reuer\"/\"reuerr\"p 4 \"pendu\"/\"pendu\" ns que de nomreux empos dfférencés demjuscue nte Pr Pu Scrron dprès es sources contempornesttruton mse en doute pr Moreu ms confrmée pr Huert Crrer (Mzrne Ms 468 f 40 et dns \"Un vent de fronde sest evé ce mtnpoéses dverses ttruées à Pu Scrron (660)\" Prs 202 p 26)2436 Mzrnde () Surcope mprmée à Bruxees 6524 pges Le pus céère des ees écrts contre e crdn Mzrn donné son nom à tous es utres Je ne ss ps pourquo on uft tnt de réputton cr ce nest quun ms de setés et dnjures sns esprt même sns geté Je ne ss ps dvntge pourquo on veut qu sot rre crmenpssé pus de dx exempres pr es mnsnyque deux pmphétres deFronde qu ttruent à ScrronMzrnde Cest uteur deLettre de remercîment envoyée u crdn Mzrn surettre quécrte à une dme decour pour ccommodement de ses ffres et ceu du Mer cure decour Après cefut descendre jusquux Mémores de Guy Joy et u Segrsn Guy Joy dt smpement pge 54 de édton de Rotterdm78« Le seur Scrron ft uss ors s Mzrnde » Aors cest e temps du ocus de Prscest vec pus de précson e mos de févrer 649yà une erreur évdente L Mz rnde est ncontestement de 65 Les souvenrs de Guy Joy mnquent de netteté et pr conséquent de certtude Cest u Segrsn que sont empruntées es necdotes dprès esqueespternté deMzrnde est unverseement ttr uée à Scrron « De tous es écrts quon ft contre e crdn y es dt p 65Mzrnde de Scrron est ceu qu u fut e pus sense prtcuèrement à cuse de endrot oùu fut reproché dvor été chssé dAc pr e crdn Coonn doùfut contrnt der à ped jusquà Brceonne pour semrquer et retourner en te Le sujet decoère de ce crdn contre u fut à oc cson de ses mourettes vec une ouquetère qu vouot épouser » Aeurspge 32« On ne mnqu ps dentretenrrene demort de Scrron en u dsnt qu sétot rendu ndgne depenson que S Mjesté u fsot pendntguerre de Prs cétot pour vor ftMzrnde ms qu ssot une femme sns ucun en une jeune femme fort ee vertueuse et de eucoup desprt quepuvreté pourrot peutre rédure à de grndes extrémtés et que S Mjesté ne pouvot ps fre une pus grnde chrté que de fre rétrpenson quee vot ôtée à son mr L rene demnd usstôt de comen étotpensonee nétot que de cnq cents écusms un des courtsns ynt usstôt prsproe dt quee étot de deux me vres L rene eutonté dordonner suhmp e rétssement depenson sur e ped de deux me vres et dordonner quon u en portât e pre mer puement » Pge 47 enfn« Scrron vot dord été du prt du crd m Mzrnmsndonn du temps deFrondedsot en rnt« Je udédé mon Typhon qu n ps dgné « regrder » Nétoe ps un grnd désordre dns Étt que dns e temps deFronde e crdn de Retz qu ot souvent chez u y ttrot tous ceux de son prt et M e Prnce y envoyot puseurs de ses gens » Ce derner pssge n n excttude nenvence ux quees Segrs étt ogé Ce nest ps seuement dns e temps deFronde que e crdn de Retz t chez Scrroncest en des nnées uprvnt Scrronpu dre vec vérté dnsettre que j ctée eurs qu vt été « connu et honoré du crdn dès s jeunesse » Et cest ssez pour comprendre qu n ps été du prt de Mzrn pour u vor dédé son Typhon Ms e Segrsn nest ps de Segrs Sns rechercher trop ttentvement es erreurs qu renferme en voc une qu montre quu mons pour es personnges deFronde son témognge nest ps toujours certn On t pge 7« Qund e mréch de Grmont qu vot été Frondeur prot u ro de queque chose qu étot rrvé du temps deFrondeu dsotSre cétot du temps que nous servons Votre Mjesté contre e crdn Mzrn »est en mons perms de se tromper sur e mréch de Grmont que sur uteur deMzrnde Et pus e Segrsn qu mre Scrron en 650 àpge 24 se contredt ns àpge 40« Le mrge se ft en 65» de sorte que même en ce qu concerne e poëte uresque m de Segrs ses récts ne peuvent ps être cceptés sns exmen Myentendu e derner pssge du Segrsn en ce sens que Scrron sétt vendu u codjuteur pour se venger de Mzrn Ce nen est pssgnfcton ttére sns doute msfut en que necdote quété recuee pr e compteur t été comprse ns pusque dns e pcet cté à rtce des Cent qutre vers Scrroncru qu devt expquer àrene mère ses re tons vec e crdn de Retz Cette remrque nest ps nutecr ee nfrme une fos de pus utorté du Segrsn Com ment ccepter une necdote qu ne sest répndue que dns gno rnce defmrté dont e prét honort e poëte ?est remrque que Guy Ptn qu dns une ettre du 0 octore 660 tomepge 36 en nnonçnt à M F Cmort de Scrron dt«ne vvot pus que des enfts derene et du crdn Mzrn» que Temnt des Réux quconscré à Scrron queques pges de ses Hstorettesne prononcent ps même e nom deMzrnde Jjoute que des proes de Guy Ptnest perms de concure que Scrron sétt justfé non seuement devntrene mère ms encore devnt e crdn Dns cet étt fu ne tenr ucun compte des protesttons de Scrron je ne ds ps seuement deettre àrene dns quee on peut comprendre une dénégton sns y crore ms des Cent qutre vers qu ont été pués en 65 pendntFronde presque dns e même temps queMzrnde et peutre ors que e crdn Mzrn étt hors du royume ?Je ne e pense ps Un pmphétreeusnguère dée de composer dnsmême nnée 65 une Mzrnde à qutre prtes et defre mettre en musque VorMort funeste du crdn M zrnetcEn 663 deux ns prèsmort du crdnMzrndetout à coup repru sous e ttre deMsrnde ou Eoge du crdn Msrn n vers uresques corect e none ortogrfeMgrérurque de Bruxeesest certn quee n été mprmée quà Prs M Leer dns son Ctogue n°4602 pre dune édton sns dte Ese une erreur ?vers uresque Mzrn ScrronArrêt du prement contre e crdn Mzrn 6"
+            "LA",
+            "MEDAILLE",
+            "OV",
+            "LA CHANCE",
+            "RETOVRNEE."
         ],
         [
-            "LA MAZARNADE Surcope mprmée à Bruxees M DC L"
+            "3",
+            "LA",
+            "MEDAILLE",
+            "OV",
+            "LA CHANCE",
+            "RETOVRNEE",
+            "L faut auoïer ſans feintiſe, que l’état ou voums",
+            "eſtes à p eſenc, verifie euidemment le titre",
+            "que ie donne a cét ouurage, puis que celuy que",
+            "on a quelquefois regardé comme vn grand",
+            "Conquerant & comme vn Hercule, eſt auiour",
+            "d’huy le ioüet des Pygmées. En fin on peut di",
+            "re qu’il en eſt de vous comme de ces Coloſſes,",
+            "qui donnent de l’eſtonnement à rout le mon.",
+            "de lors qu’ils ſont ſur leurs pieds, & que l’on",
+            "foule quand la foudre les a fait choir. Pour moy",
+            "e me figure que voſtre malheur ſeruira de le",
+            "con à la poſterité auſſi bien qu’à̀ noſtre ſiecle, &",
+            "quo l’on metrra Condé auee Sejan. Si vous euſ",
+            "fiez eſté vn peu plus ſage, ſivous euſſiez preſté",
+            "oreille à des conſeils plus moderez que ceux de"
         ],
         [
-            "3 LA MAZARNADE Vs qu pnces nnv OVen à moy de grcnponLeprr qu Ctue upcn ne o Qundentreprt Mmurr ops qon2  en veux u en que Ctupno Lomg nnT Au Tyrn qu sppee us nvnonr no uo T Ms mon ue net ps Csân n nCet vn cprce du hzrdnno L u 9n Qu nqut Grgçon & fut Sodee uonvo 2 Qu netot né que pourfrce neO o é o uT Pour es crtes & pour es dez unpe nup dneq Pout cous es prs desordeu o eqens Et pourperte du Royumeouomotgde T S queque Mtre en GuuoO uv on  Ne nous en deure àfnoh u uosnu n O Et vrymenter en fonnstp ns uu S sen uue e gnt hommoo sd ns e H dns Prs & dns Romeooeo e onA Ou De pour trouuer oe 2 uq oh Vn eu qu e pue àd uouo u sn uod sD Bon e ens echuffer medpgM o qxron uoq u C ne dons ren qu ne eruunoms u Et que chque vers t oonous d v d Pouren cheuer eportroon nm n De ce prodge de Forune ornoq n oe n Sns en ouer choe ucunne Do ennxooT A toy donc Cr s Romqd uo ne Bonped o œ & onne t odo m ou Pre e coup ue e te porteoo qe n puo u Ouque e grnd De tempo rte t A j"
+            "l",
+            "vos laches creatures, vous ne ſeriez pas à Vin",
+            "cenne. Voila certes vn fort beau logement pour",
+            "Vn Prince, qui par ſes crimes enuelope dans ſa",
+            "diſgrace d’autresPrinces quevous entrainés auec",
+            "vous par voſtre chûte. Vous ne ſerez pas moins",
+            "fatal a pluſieurs que ces grands cheſnes qui ne",
+            "peuuent tomber qu’ils ne terraſent les petis",
+            "àrbres qui les enuironnẽt. Hé quoy doncgrand",
+            "Victorieux iadis vous n’auez pû vaincre le de",
+            "mon de l’ambition qui vous tcntoit par l’éclat",
+            "des Couronnes? Quoy donc, il ne vous en faut",
+            "pas moins de deux tour à la fois. On dit que",
+            "vous auez eu deſſein de faire vn bouquet de Lis",
+            "& de Roſes",
+            "Voila ſans doute vn deſſein qui a beaucoup",
+            "d’innocence, mais c’eſt puis quil faus ue ie",
+            "m’explique, que vous auez regardé la Couron",
+            "ne de la France & de l’Angleterre auec des yeux",
+            "de conuoitiſe. Ace conte, ie voy bien que vous",
+            "n’eſtes pas de l’humeur de cét Ancié, qui croyoit",
+            "qu’il y auoit tant d’épines & de ſoucis en vn Dia",
+            "deme, qu’il ne ſe fuſt pas baiſſé pour en ramaſ",
+            "ſer, quand la Fortunc en auroit fait choir à ſos",
+            "pieds. Vous deuiez vous ſouu enir de cét Emblé",
+            "me, ouù l’on repreſente Phœbus qui court en",
+            "on chariot dans ſa carriere lumineuſe, aucc cét",
+            "duertiſſement au deſſus, arte regendus. Ce qui",
+            "eſt dit pour ce cocher lumineux, eſt dit auec bien",
+            "plus iuſte raiſon de la Royauté,"
         ],
         [
-            "t 4roornee Qu pus quucuut e8 As decoché te  Ecoute m Mzrnde ppeps J A3 tteeP n EE vẽnu rouér e ofre Qn rn epne Lors quon te croyr ré Ooeuot ot nm deo Edeoenes e de puqu ne  Tu nes ps vn grd PoqueD p Eou dspennyn mer Dnsmodre re det4Snge du Pret de Soronesed e M foy u nousesesnoeo uren Tu nesà ce Crdn De uoq oupn on Conpre quen quedueoq 2one0  uftre enpre hoteuso q uo Teue rguette et feuenevo un e uo Outre ceue vertu de CnuuOMupp  On teten uemeur dus Hoc n s é es nonM Du esu jeu detonte & qtenotvu ? De certne chze coutt ro ce uus eheuds Pueesoe Et de pus de ce cher Bet o ne u Eo o e Q pur eux prer ce Mooen Puquc deonde y dore o nno on Moy ce eu ef denuzn evpe gnd credson nec moqen n O pût co pertenc onon o d Tes Courcnes s Chftuuoue odduo nen?furet des oeux chpen 2 Ono o A Pour uos ferétes ougs nod s o o o 2 L Agt q ppe Pëto  oq o s uou"
+            "5",
+            "e m’eſtonne de voſtre aueuglement, & que",
+            "vous ayez perdu tout d’vn coup la reputation &",
+            "gloire qu’on donne aurx grandes actions, &",
+            "qui eſt vn bien dont vous pouuez iouyr par a",
+            "uance, par le fauorable iugement que l’on fai",
+            "ſoit de vos conqueſtes. Mais il faut croire que.",
+            "c’eſt vn ſecret de la Prouidence, puis que l’on",
+            "peut dire de vous de ce que l’on a dit aurrefois de",
+            "Guillaume de Naſſau Prince d’Orange, que ſa",
+            "Religion eſtoit douteuſe, ou pluſtoſt qu’iſ n’en",
+            "uoit point. Il me ſouuient encore de ce que i’ay",
+            "eu du meſme chez Strada, lors que l’on fit ſonu",
+            "Horoſcope. Il me ſemble que c’eſt le voſtre, &",
+            "qu’en ce poinct vous eſtes égaux. Voicy donc ce",
+            "que ce rare Eſcriuain en a rapporté, que ſa for,",
+            "tune eſtoit inégale; que premierement les Eſtoi",
+            "les luy promettoient de grands honneurs, qu’en",
+            "uite il entreprendroit de grandes choſes, mais",
+            "qu’en fin il termineroit ſa vie par vne auanture",
+            "malheureuſe. II ne faut pas eſtre à preſent grand",
+            "Aſtrologue pour en dire autant de vous, toutes",
+            "vos actions nous confirment ce que ie viens de",
+            "vous alleguer. Mais c’eſt en vain qu’on penſeroit",
+            "vous inſtruire à cetre heure que voſtre mal eſt",
+            "ns remede, ſice dont on vous aceuſe eſt veri",
+            "table. Sans doute les careſſes de la Fortune vous",
+            "ont perdu, & vous ne vous eſtes pas ſouucnu par",
+            "my le bruit des acclamations publiques qui",
+            "vaus eſtiez. Il me ſouuient d’auoir veu vn Eu",
+            "n"
         ],
         [
-            "S hers u feu rouge onnet Q çuot e m quvn Sonnet Qon m recompené cue Et qu crgnot ur toute choe Que pr ces Duns ffmez Ses eufts fuent dffmez Pour uor de enuers Pegze Eté pr trop rquedenze Nen s u ps en dns e cu Au ou quen donnnt queque cu Ton mmortee renommée Pr Europe eut eté emée Et ne peros ps pr tout Pour vn Frfnte & hye u out Au eu des verus Crdnes Tu ns ren que es Anmes Le Vn orgue dvn Pnton Et tu nes quvn frnc Eteon Vn ve Bougre nté ur rdche Et p deur tout vn Guche Ton Eprt Eprt de coyon Pour queque frode uon Que pr hzrd çeu fre Dont onft vn grnd mtere T ft ms e ne çy comment Succeder à feu Mtre Armnt H ne trnehe pus du Mntte Tu netos né que pour é Ctre MsFortune n onne humeur T ft Prne de Prfumeur Ce t grde de oudres V tén truer en Ptes V ten truer en mn Dgne empoy de t nche mn Et que t tete chuue & onde Se nmette à couuert deFronde B"
+            "6",
+            "eſm qul eſt infailliblement l’irbage de voſtre",
+            "uie. LePeintreauoit repreſenté le combat d’vn",
+            "Elephant auec vn Serpent, & il n’y a perſonne",
+            "qui n’euſt cr̂ que le premier ne fut le Vito",
+            "rieux, cependant la fin fit voir le contraire par ces",
+            "mots, Vctor vincitar: Tel eſt le ſort de ces ſu",
+            "perbes Conquerans; qui s’imaginent que tout",
+            "doit trembler à leur abord.",
+            "Vous apprenez bien à preſent le coatraire",
+            "dns le lieu où vous eſtes reduit. Qui l’euſt iamais",
+            "oſé eroire, & quand on vous en a aduertit, ne",
+            "vous en eſtes vous pas mocqué́ hautement? Qut",
+            "à moy, peu c’en faut que la plume ne me tombe",
+            "d’entre les mains, lors queie penſe à cette auan",
+            "rure: Mais certes on croit qu’elle doit eſtre la?",
+            "ource du bonheur de ce Royaume, & il ſemble",
+            "que les choſes meſmes les plus inſenſibles pren",
+            "nent part à̀ la ioye commune. L’vndit, le Lyo",
+            "eſt enehaiſné; l’autre dit, le Renard eft attraṕ,",
+            "&mille autres choſes de certenature qui font",
+            "en connoiſtre l’alegreſſe publique: Celuy qui",
+            "par des artifices criminels, s’efforçoit de perdre",
+            "des Princes, des Prelats, & des Mdgiſtrats inno",
+            "cens eſttombé dans le piege: Voila de quoy l’o?",
+            "s’entretient à preſent, &dans Paris, & dans tou",
+            "res les Prouinces. On void auiourd’huy verifié",
+            "en voſtre perſonne ce qu’vn bel eſprit d’Italie a",
+            "dit de voſtre ſemblable, ie veux dire de Sejan;",
+            "que chacun cherchoit ſonfalur dahs les outragés"
         ],
         [
-            "A AMASAM 2ooxnd é onnqm oqoo e uM ? AAAAâ Aô depeA J AA V L"
-        ],
-        [
-            "L Ad uu eneE? A D R H  E SeeEtre Vs qu pnces ufn ouVen ̀ moy de grcemupn tpLeprt qu Ctue upcr ou Quodentreprt Mmurr oups q 22  en veux uen que Ctupso Lomy nv quT Au Tyrn qu sppee us nvnon n To o uoT Ms mon ue net ps Crûe n n2Cet vncprce du hzrdnnoe L u od Qu nqut Grçon & fut d euonvo s Qu netot né que pourfrcednm o é sr  Pour es cttes & pour es dez ououpe nup odmequ Pout tous es prs desordeun o sqe n  Et pourperte du Royumeououornde S queque Mtre en Guuno ovon Ne nous en deure àfnooh u uonou no n Et vrymenter en fsnnop n ud u S sen uue e gnt hommono td ns sd H dns Prs & dns Rome o o oA Ou De pour trouuer oe u oh Vn eu qu e pu àd usuosn usd s Bon e ens echuffer meûâggM oo qxuouoq C ne dons ren qu ne eruu g om u op Et que chque vers t osu d u d v zd Pour en cheer eportrton nmn De ce prodge de Fortune onoq nos oe u Sns en ouer choe ucun onnmT A toy donc Cr s Romoq d uos e ne  Bonped o c & one t dem or Pre e coup ue e te porteo uqs nopuogu Ou que e grnd De tempo rte te A j"
-        ],
-        [
-            "6 Fuy es Arrets du Prement Ttoue gge & vtement Que ton Atee Mzrne Crgne e detn de Conchne V v ten dns Rome eter Les ens quon t é voer V v ten Grdn de CreFocron ou Focre V v ten repé es monts V vte & fy rompre es Ponts Cr s fut que quequvn te uue Que on te demnde QV HVE Que tu repondes MAZARN Cet ft de toy cher Trn On te couper puur ue Et vn & utre Tetcue Et ors ô Crdn Peé Crdn detetcué Netnt pus ny femme ny homme Comment protrs tu dns Rome Muté du ft oudn Qu t ft Prnce de Gredn De tes futes dnspoce De tes ordres pourmce e ne te reprochery renMs e te veux homme deen Reprochercruee guerre Que tu fs vure en cette terreOu tu pretens mgré es dens De tnt & tnt de rues gens Tenr contre vent & mree Ton gnornce et ueree Et tu nes pour trnch er e mot Quoy quvn grnd Pret quvngrndot Te ouuens tu en Segneur ue 42 Du ronnement rdcue"
-        ],
-        [
-            "Que tu fs vnour ur des Gns Ce te mt en eux drps ncs DepusNton Frnçoe A mepréCroe Te ouuen en dAc2 Qund Gnmede ou Quno Lnour de certne Fructere Te cu mnt coup detruere Qund e Crdn Coonn De proes te m men Et qu eux peds cõmevn Brcone Tu te uus à Breeone De Brceono eu ggns Ton Pys ou cu eogns S en que tu deunsGouge Dvn utre Bougre à onet rouge O que s teut ndonné Ou en s ne teut ren donnéTon ncroye detnée Pr ce tres orte Hmenée De toy Prnce des Mqugnons Auecvendeue dognons Eut eté ornée en Epgne A reuendre queque chtgne Sns nous fre vn Prnce dvn fou Et nous e mettte ur e cou Ms ton Atee Mzrne Net quvne Atee Trune L fortune e chnger Et on ouurge deffer Pr queque rude coup de fronde Fnt ron à tout e monde O que ueuge reuot en Qund u mheur des gens de en Ee ft du v de Mzre Sortr ce mntrerre 8"
-        ],
-        [
-            "3 De Mzre vent Mz rn Des Cnnes Cnrn Comme on dt e Mnceu duMne Le Tourngeu deTourne Bque Chmpgne ou e Pcrt Ou queque utre nom dutre prt Comme en vent en notre Frnee Les fquns de e nnce Tu nous s ps dree ou non Ecmoté queque renom Moy e croy que cet pr Fortune Ne men porte pont de rncune e deffere àverté Pus quCrdnté V v ten done ou on tenuoye Qucy ms on ne te voye V rFendre compte u Vtcn De tes meues ms à Enn Duvo de nos tperes De euy de nos Perreres Du e crffc d Mondn Autre Gredn fs de Gredn Deces deux cens roes de chmre De tes excez de muque & dmte De tes hts veux & nouueux Du eu Ps de tes cheuux Detre cue que tout e per de De tes cnegçns pens de merde De tous tes mnquemns de foy Denourrture du Roy De mpudente mone Que tu fs ns ceremone Detes conesvoens De tes procedez oens Du deordre de nos rmees De nos Prounces ffmées De"
-        ],
-        [
-            "7 De Courtry doù pr trhuDe4 Tu fs orttgtnon  De Lerd deux fos mnque   Qoy que deux fos en ttqueefruct du grndcomt de es  Perdu pr tes cones trop en DeCtogne redute ueon t  Au deepor prt conduten Du Duc de Gze m ogé Dns Npes quonneggé   Dedzette des Prouncesp 2 Du per que courent nos Prncos222 Qu ont àguerre tnds Quen ton Ps tu téuds  ? Du Duc de Beufort ms en cge9 Dgne effect de ton grnd courge 3 Dvn Mrech de Frnce prsn  Pourrecompene & e Pr Duor en ft à Brceou Du vo du Duchée de Crdonne  Dnor ft prendre vn fux oüûo Au feu Predent Brronn DeReyne perudée  De t neerte frdée 2 Des Angos qu nont pont de pn Qee u es mour de fm Et de eur Rene deoée 2 De es eue pr toy voee Du Venere Prement Trtcé pr toy peu dgnemene Et depuure Frnce Etque Preon urce Hydropque De rgent quondetourné Au nom de Portoongoné Duor Courreter de Prpe Suppré́ e Neveu du Ppe 2   2  2"
-        ],
-        [
-            "Pour pre à ce eu Crdn? A qu tu eruos dvrn DePx que tu pouuos fe A Europenecere Et qu fut pr toy nentmons Refu ee ux yeux de témos Qu comme s ont tos gens nothes Ne peuuent etre reprochese De notre Monrque eneué En quoy ton Ateereué Degrnde Ve oquee  De touteFrnce ttquee Lquee teen rendu Dont e te ten tres confondu Duor ppéGuyenne Seon t methode ncenne Et de Rchon qu fu pendue Pe à Deu qu te ot rend Comme u du puure Cnoo Pufu perdreproe Defçon quperd Qund à Bordeux on e pendt Du or perdu pr gnornceLutorté des Ros de Frnce Duor u Sodt etrnger OffertFrnce à ccger   Ms pr grnd onheur Leopode Set defhe dvn mngode Dontproe & e cchet Ne eruent que de reuchet Et ( deffendeyCe) Qu net quvn Mntre de e Duor ft éogner Seguer Ce grnd ce dgne Chnceer      2"
-        ],
-        [
-            "95 De Gondy dont tu prens omorge Pour on Eprt & on courge Et eent vertus que tu s pont De toy dfferent eu ce pont Quedgnté Crdne Dvn Crdn Srdnpe En tous es prs crmne Recçot vn opprore eterne Et que de ce Pret utre L Pourpre receurot du utre Duor ozé choquer Gton Prnce en gee vn vry Cton En veur vn utre Aexndre Etoe à toy de entreprendre? Puure rt quon vrt utrefos En pett pourpont de chmos Qund de Schett Secretre Honoe empoy pour vn here Tu eruos ux pus déuchez Au Mnteredes pechez De Cremone & de on ot ege DePrncputé de Lege Dont eut ete Codjuteur Le frere de ton Protecteur  S pr me prtques ourdes Ton eprt trop ferte en ourdes Neut trreuement eudé Les deens du Vnt Condé  Qu depus ô e pus grud trtre Ds ceux qu e meent de vere Pour ruoten protegé Se vot dns e Hvre ogé   Luy dont e rs fut ton Egde Qu te tr comme vn Acde e"
-        ],
-        [
-            "Des mns du peupevn utreyd Leque enfu e preuudt Des freurs dontet cpe  Et ors Mntre detete Bugre des Bougresmjeur Des Potques e mneur Pr quFrnce et décree De es ms des ée Pr qu e commerce et perdu Enfn tout Ett confondu Aors ds je e pus ot homme Qu ot ms ort de Rome Rejetton de feu Conchn Pour tout dre Mzrn T crce dentree Prcne tree Enngnter e pué Ton Prpe hut eeue Aperche ur vne gue Dnscpte de Gue Ser e joü̈et des qus Lojet de me orquets De me pentures groteques Et ne Eprphes ureques Hé en Crdn peé Ne ee ps̀ moy en pne? Tu ne çurs ps qu te tre Pr derrere eetre Styre ue ds omnpotent  T voudros n men fre utnu Et tu me voudros en ps fre Prnce mgre toy deonnre Pouunt en fre à tous doy? Pourquoy nu ft e qu toy?Serget"
-        ],
-        [
-            "3 Sergent à verge de Sodome E xpottnt pr tou e Royume Bougre ougrnt ougre ougreé  Et ougre uupreme degré Bougre u po & ougre ̀pume Bougre en grnd & pett voume Bougre Sodormnt Ett Et ougre du pus hu rt nuent e monde en pouppe Cet à dr e nt en crouppe  Poue ̀ehevren oougespn Bougre detoutes fçons  Bougre vent en drote gne D Onm mturpteur ngne Bougre Docteur n vtroqe Pppeur Mgcen quoque Hormme ux Femmes & Femme ux Hommes Pour des pores & pour des pommes Comme deffunt en Fouxn Fs & pent Fs dvn Pqun Qu dffmesCze Vne Pr nce Mzrne Qu de Mrux fs des Aez Aux ures Preeres es Dez A tous es gens deprt es rogue Et pourtnt dvn Roy Pedgogue H que ne pu dvn reuers Accompgner ces pets vers Ou ur t tete chuue & foe Appquer vne crqugnoe Ms e rmps tout mener Etfronde tchener Mntre àtete de Courges En fuu os mes de Bourges On te reuerr dns Prs Et à commeu euchet prs D"
-        ],
-        [
-            "Et dev rpne puque Et de t fue Potque Et deton ot gouuerneent Au redoute Prement 2 Sont offospeu de cone Vtrmonn u rendrs compte Pos pres ton compte rendu Cher ue tu ers pendu oout dvne vee potence n remors & ns epentnce Sns e mondre mot dexmen Conme vn ncorrge AmenFN"
+            "dont on chargeoit ce diſgracié. On court, dil,",
+            "en foule aà̀ la dépoü̈ille d’vn arbre, que le fer ou",
+            "e vent ont renuerſe par terre. Pour moy qui ne",
+            "uis point d’humeur à flatter, ie vous diray inge",
+            "nueëment ce que l’on dit icy de vous, & ie vous",
+            "e diray, dautant que vous eſtes en lieu où vous",
+            "ne pouuez entendre le bruit qui court. Chacun",
+            "dit donc en ſon langage, ce redouté qui croyoit",
+            "tenir la foudre de lupiter entre ſes mains, ou qui",
+            "croyoit eſtre le Iupiter meſme, eſt dans le bois",
+            "de Vincennes en eſtroite priſon. Apres cela on",
+            "diouſte, que Dieu en ſoit beny, il l’a iuſtement",
+            "meriteé́ ce que le Roy a ordonneé de ſa perſonne.",
+            "e ne veux pas ſalir le papier des choſes plus hon",
+            "reuſes à voſtre reputation, dont chacun vous ac",
+            "cuſe, & ie penſe que vous ne pourrez iamais vous",
+            "en iuſtifier. Pour moy qui laiſſe aller les choſes",
+            "comme il plaiſt à la Fortune: le rends graces à",
+            "Dieu de ce que vous eſtes en priſon, & de ce que",
+            "e ſuis en liberté Demeurez où vous eſtes, & moy",
+            "ouù ie ſuis Adieu"
         ]
     ]
 }

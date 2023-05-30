@@ -1,51 +1,140 @@
 {
     "entête": {
         "form": "prose",
-        "genre": [
-            "discours adressé",
-            "harangue"
-        ],
-        "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
-        "creation": "1649-08-18",
+        "creation": "1649-01-18",
         "change": {
             "@status": "corrected",
-            "@when": "2022-04-22",
-            "@who": "MF"
+            "@when": "2022-04-07",
+            "@who": "AB"
         },
-        "titre": "Harangue faite au roi sur son heureux retour en sa ville\n          de Paris, et prononcée dans le Palais-Royal, devant Sa Majesté, le 3 septembre 1649, par\n          maître Jean Gabillaud, avocat en Parlement.",
+        "titre": "Harangue faite par monseigneur le duc de Beaufort aux\n          soldats parisiens.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "langue": "fra",
-        "fichier": "Moreau1600_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau1603_GBOOKS.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "Hrngue fte u ro sur son heureux retour en s ve de Prs et prononcée dns e Poy devnt S Mjesté e 3 septemre 649 pr mître Jen Gud voct en Prement Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Fure MrguxProjet ANTONOMAZ / Soronne Unversté2 novemre 202Jen Gud Hrngue fte u ro sur son heureux retour en s ve de Prs et prononcée dns e Poy devnt S Mjesté e 3 septemre 649 pr mître Jen Gud voct en Prement Prs Perre Vrquet 649 Lyon Bothèque muncpRés 3272TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs600 Hrngue fte u ro sur son heureux retour en s ve de Prs et prononcée dns e Poy devnt S Mjesté e 3 septemre 649 pr mître Jen Gud voct en Prement Prs Perre Vrquet 6497 pges Sgné Jen Gudprose dscours dressé hrngue Entrée du ro dns Prs 64"
+            "HARANGVE",
+            "FAITE",
+            "PAR MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT,",
+            "Aux Soldats Pariſiens.",
+            "A PARIS,",
+            "Chez LOVIS SEVESTRE, ruë",
+            "du Meurier, prés ſainct Nicolas",
+            "du Chardonnet.",
+            "M. DC. XLIX."
         ],
         [
-            "HARANGVE FATE AV ROY SVR SON HEVREVX Retour enVe de Prs ET PRONONCEE DANS LE PALAS ROYAL deuntM jeté e 3 Septemre 649 PAR MASTRE EAN GABLLAVD Aduoct en PrementA PARS Chez PERRE VARQVET ruë S en de Ltrn deunt e Coege Roy M DC XLXAVEC PERMSSON"
+            "3",
+            "HARANGVE FAITE",
+            "par Monſeigneur le Duc",
+            "de Beaufort,",
+            "AVX SOLDATS.",
+            "Pariſiens,",
+            "MES trehers compa",
+            "gnons iuſqes à preſent",
+            "pour de tre grandes",
+            "conſiderations nous n’a",
+            "uions point reſolu de fai",
+            "lre ſortir ſesi genereuſes",
+            "troupenpourfaire aucun",
+            "ege ny atraque de yille,",
+            "poure, que tnutes ſortes",
+            "de choſeanoun le defendoient, lhyuer, legla",
+            "e &: les; eaux ayant ſte ſi grandes qu’lles",
+            "eſtoient phsà redouter que nos annemisi Nous",
+            "n’auons pas laiſſé d’eſprduuerrooſtre oxraondi",
+            "ai lbſluris dantusls çosixqui nant",
+            "A ij"
         ],
         [
-            "3 N OMNE ESV AV ROSRB Votre Retourheu reux & fortupé SLRE en votre onne Ve de Prsecrté es Troues opé es Nuges detrtee & redonné enfn vne joye ndce nnoye comme e So e pr on tetour ur on Oron & ur rout on Emphere dpnt neneenee one"
+            "4",
+            "eſté́ faits en ette ville, de remarquarl’ardeur &",
+            "e courage de ſes braues troupes volontaires qui",
+            "ont voulu donner iuſques dans la glace & dans",
+            "e feu au meſpris de tous leperſs euidens qui",
+            "epouuoient rencontrer; ce quſ futſiremarqué",
+            "meſme dans l’attaque deCharenton, qu’encores",
+            "que les ennemis fuſſent logez en le poſte le plus",
+            "duatageux qu’Il fut poſfible de choiſir, Vous",
+            "mur muriez tous de ce que la ppudence de Meſ",
+            "ſieurs les Generaux vous empeſchoit de don",
+            "ner, & ne pouuaivousſefaire ny d’eux ny de",
+            "voueſme, d’auoir aiſſé peir des troupes",
+            "qu’on ne pouuoit ſetoti!’ Quand au conuoy",
+            "qui vient du coſté d’Eſtampes, ie vous aduouë",
+            "qu ie ne puis me ſouuemir en mon particulier",
+            "decipurqueie ne m’eſtime treeureux de",
+            "oqae çes cauesbrou; ayat ſceu que i’eſtois:",
+            "rquelque peril, domme ſi tout ce que ce grand",
+            "peuplaa de’prooux eut eſté́ expoſé au pillage",
+            "dsanueis, ouir monde ſe mit ſous les ar",
+            "mspouuheſecporjoEoie ne mets pas en doute",
+            "queousdes BPrinces Cheſtiens qui auront ſceu",
+            "oot ccaſione potnt enuie à ma bonne",
+            "dunpne dryani pesqu’ilnuteuacvnipa",
+            "dpo qui aye’alualeago defaarerea",
+            "nillé hbmms dans vpe heute, cômelaurois, i",
+            "n’eſtinolo quque hazatd. Tptes ſoe",
+            "conſieratinsy Ms corpagrdsloblgen"
         ],
         [
-            "re commun de tous vos Sujets et à touseté & er touours fe ment yme & cordement de re prce que prBonté & Cemence ordnre ee net psmons en fnte ur tout ce que e regrde que e retour qu Soe qu nfuë ns e erumere ux Atres ement r dvne gre e crté echuffntterre &rendnt feconde fuore pus pr tcuerement Aurore Conme voûs ftes SRE cette Fuorte &t hfdétu Ce 0 veux dre tette trosfosgrndeRe ne de Frnce MABAAE MA e eroe e ereue neufe &rr p DMeMEÉ ANNE DAVSTRHEpth grce de Deu e ds e Thro ne deSoduétné Regence o me e Se Cos & duRoyume"
+            "5",
+            "s lterſir chers omfhemes qopneayeuuaâ",
+            "fdeſnagér yoſtfe vie ecomhe laimlieh & qel",
+            "joindre auec vous de pareille fortonme. ons ne,",
+            "mettez pas en douteſtes obligations quei’ay à cel",
+            "fae’Senat &r eette grande villeda Paris, j’ay",
+            "él cétaduahitage d’y eſtre plainſops de ma de",
+            "tention, & ie tiens qû leurs vbeuu&lours prie",
+            "res rtfait le grand coup de ma ſortid Et la te",
+            "àdnttoute de Dieu, &d’vn miraple, ie ne mets",
+            "poiht en doute que ſa prouidencene m’aye or",
+            "donné pouivous ſeruir, &vous proteger contre",
+            "esenéemirs du’Roy & d l’Eſtar. Enfin aſſurez",
+            "vous que comme ſa toutepuilſance domandé",
+            "que nous cooperions auec luy, que i’agiray",
+            "maintenant de toutes nAes forces pour vous ſer",
+            "uir, que ie ne tromperay ny vos eſperances ny",
+            "vos deſirs, & que ie ſacrifiray pour le maintien",
+            "& le reſtabliſſement de cet Eſtat tout ce que i’ay",
+            "de fortune & de vie. C’eſt pourquoy mes chers",
+            "compagnons, puiſque la ſaiſon eſt commode",
+            "ttauaillons iour & nuict à reduire en veritables",
+            "effets ce qu’ona eſperé de nous, nous auons la",
+            "cauſe de Dieu & du Roy entre les mains, du",
+            "plus Auguſte Senat, & du plus grand peuple du",
+            "monde, faiſons en ſorte qu’il ne nous ſoit pas",
+            "reproché, que par noſtre nonchalence nous",
+            "yons laiſſée perdre. Nous auons affaire à des",
+            "ennemis foibles, mais temeraires, meſnageons"
         ],
         [
-            "Roytme done ( y onemps prpendeur & ncteté́ de on ng Roy vn utre rnt) non euement à touteFrnce ms emoe à̀ ous es Enpereurs Roys & Monrque de EuropeVotre retour à Prs SE SRE comencenene de Px fs en cé temps pendnt es deux Notre D me & d nct LouysFete des Ternces fnt de votre on e Ve de Prs v utre pett P rds fne de votre onne V e de Prs ut utre Prds p es Dunes Lumeres dont e Ce vousheureuement prtgé uec pus de profuon qu n orne e Soe &Lune de etes quuezAynt honoréFrnce de otre Roye preence & ps fnguere ent vote preémere e du Mon e Prs ou vous uezu toftB"
-        ],
-        [
-            "é pcemer pect dpe es eehs des guerres omme on epereque yousferez encore meux Deu r compenfnt vos vertus Mrte ment Royes & Royemept Mr tes Mrtement Royes & Royemjent Mrtjes dvee px genere dne px gpere de rée de toureChretenté & tres4 greuè chuteMonrohje Ern çoeCe ont es veux Se S d tous vos enfns & ues quf porent votre Royerfuur&pro tecton dns vn tempsfcheux & dffce Cetce qus eperent des effets deonté extreme dn ze es & peté Agque de votre jeté pourgre es erets de De de ge & deoureFrnce peur e npr & verte eruce dvntregetreertueux"
-        ],
-        [
-            "7 & tre punt Monrque comme et votre Mjeté SRE SRE de qu nous ommes tous & pece ment votre tre hume tree nt & tredee eruteur & Suet EAN GABL LA VD Aduoct So Do Honor & CGor"
+            "6",
+            "dreoitemeno npsfortunes: Iecay meſme qve",
+            "pluſpamdon cueſfe&e de leunſoldaun ont",
+            "Cnraints parvne folle obeïſſance de tourner",
+            "es araos conce nous, &e qu’ils recognoiſent",
+            "euideamemt que et̀ oux’aeſmeus quils ſont",
+            "gure, qulà noue premiere aatehe la ſ",
+            "dbanderone oſa rouneront de noſtre coſté.",
+            "Enfin quelque choſe qui en atriue, nou ne pou",
+            "uons eſpererlqu’vme heureuſe victoire, &e",
+            "eeere occeaſion nmda ſupreſme felieité ſera de",
+            "mourir auee vous, & d’auoir vne fortune pa",
+            "relle. Aſſureous, en ce que ie vous dis,& que",
+            "e ne vous abandonneray iamais.",
+            "FIN."
         ]
     ]
 }

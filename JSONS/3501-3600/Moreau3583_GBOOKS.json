@@ -1,62 +1,188 @@
 {
     "entête": {
-        "form": "prose",
-        "genre": "non renseigné",
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2022-06-20",
-            "@who": "ZC"
+            "@when": "2021-11-08",
+            "@who": "AB"
         },
-        "titre": "La sanglante dispute entre le cardinal Mazarin et l'abbé\n          de La Rivière, le Visage de bois au nez du Mazarin et son exclusion de la conférence de\n          Ruel, et la Supplication faite au roi pour avancer le procès des partisans et\n          financiers.",
-        "dates": {
-            "@type": "file_creation",
-            "@when": "2021-11-02",
-            "#text": "2 novembre 2021"
-        },
+        "titre": "Les sanglots de l'Orviétan sur l'absence du cardinal\n          Mazarin et son adieu, en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-17",
+                "#text": "17 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-26",
+                "#text": "26 avril 2021"
+            }
+        ],
         "langue": "fra",
-        "fichier": "Moreau3583_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "fichier": "Moreau3584_GALL.xml",
+        "langue_detectee": "LGERM"
     },
     "texte": [
         [
-            "L sngnte dspute entre e crdn Mzrn et é de L Rvère e Vsge de os u nez du Mzrn et son excuson deconférence de Rue etSuppcton fte u ro pour vncer e procès des prtsns et fnncers Édton AntonomzChîne de trtement Aven Krne Lejeune Gë Tnguy Jeptste Brtz Aexndre Cppe ZoéProjet ANTONOMAZ / Soronne Unversté2 novemre 202 Sngnte () dspute entre e crdn Mzrn et é de L Rvère e Vsge de os u nez du Mzrn et son excuson deconférence de Rue etSuppcton fte u ro pour vncer e procès des prtsns et fnncers Prs Roert Dré 649 Lyon Bothèque muncpeRés 32978TrueCette édtonété résée dns e cdre du projet ANTONOMAZ Son ojectf prncp est de fournr un texte destné à exporton vec des outs éectronques De ce ft ce nest n une édton phoogque n une édton pédgogque ou de redécouverte dun uteur oué Les textes encodés dns e cdre du projet ANTONOMAZ sont ssus de numérstons de othèques numérques puques et de Googe vres Lédton présentée c est ssue dun processus dOCRston résé vec KrkenDocument en frnçs3583 Sngnte () dspute entre e crdn Mzrn et é de L Rvèree Vsge de os u nez du Mzrn et son excuson deconférence de Rue et N» F 8 (*»JySuppcton fte u ro pour vncer e procès des prtsns et fnncers Sur V mprmé à Prs Rouen Roert Dré 649 ^ pges Rémpresson de ces tros pèces comme e ttre ndque d eurs ssezprose non rensegné"
+            "LES SANGLOTS",
+            "DE L'ORVIETAN,",
+            "SVR L'ABSENCE",
+            "DV",
+            "CARDINAL MAZARIN,",
+            "ET SON ADIEV,",
+            "EN VERS BVRLESQVES.",
+            "A PARIS,",
+            "CHEZ N. CHARLES, ruë ſainct Iacques,",
+            "ux trois Couronnes.",
+            "M. DC. XLIX. <pb n=\"2\"",
+            "facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5707977h/f3.item.r=bpt6k5707977h\"/>"
         ],
         [
-            "LA SANGLANTE DSPVTE ENTRE LE CARDNAL Mzrn & Aé deRVERE LE VSAGE DE BOS AV NEZ DV MAZARN & on excuon deConference de Rue ET LA SVPPLCATON FATE AV ROY POVR uncer e procez des Prtns & FnncersSur mprmé à Prs A R0VEN Chez ROBERT DARE dnsCourt du Ps M DC XLXAVEC PERMSSON"
+            "3",
+            "LES SANGLOTS",
+            "DE L'ORVIETAN,",
+            "SVR L'ABSENCE",
+            "DV",
+            "CARDINAL MAZARIN,",
+            "ET SON A DIEV,",
+            "EN VERS BVRLESQVES.",
+            "DIRONS nous rien de Spacamond",
+            "Ce ridicule Rodomond,",
+            "Et de la Signore Clarice,",
+            "Cette braue & ſuperbe Actrice;",
+            "Du Docteur & de Brigantin,",
+            "Polichinelle & Roquentin,",
+            "e diray qu'vn regret les tuë,",
+            "De voir leur machine abbatue,",
+            "L'eminentiſſime bouffon",
+            "Leur cauſe vn extreme friſſon,",
+            "Son abſence les incommode,",
+            "s ne faultent plus à la mode,",
+            "s ne font plus rien de badin,",
+            "Dans le fauxbourg de ſaint Germain.",
+            "A ij"
         ],
         [
-            "LA SANGLANTE DSPVTE ARRVEE ur e eu entre e Crdn Mzrn & Aé deRuere à S Genmn en Lye D Vs que on vot ordnrement es eprts es pus ges & espus poez semporter dnscheur du eu à dernges extre mtez & urdputodvn foe untge en yenr uques à̀ des nuetues ngntes & e pus ouuent vertesnefut ps setonnerdeux hommes qu ont ecues de eurs pons & de eurs vces ont tomez dns cét nconuenentnyperonne qu ne connoe nft e urce du Crdn Mrn &voente mson de Ahé deRuere & qu ne setonne que ces deux peronnges yent poucontrcter queque oceté uff comme es mechãs ne peuuentps scorder enemps enem e & que eurs deens etnt oouent oppoez prcontrreté qu s rencontre entre es choes muues eur vnon n ps eucoupde durée &n ert quà es rendre pus mortes ennemsCesdeux fuors qu ne sccordoent que dnsfn de perdre Ett àmondre crcontnce qu peu duer eurs nrerets ont remognéntpte de eurs ncntons uec utnt dnd reton qus ont de foefe & de cheté &pon du eu qu ttce ordnremen ces ones deprts pr e der du gn & rton devncre esft rompre uec tnt dect & de vo ence qu nypont dpprence qus puent ms etre reunsLe Crdn Mztrn & Aé deRuere uoent pé dn e eu duPquetpus grnde pre denuct ors que queque dpnte emrrnte qu etot rrué́e àdernere mn eur e ouer ordre du eu & es enfonç dns vne pus grnde cotet ton pour çuor eque des deux deuor dooner es crtes e uoé en queques pectters mscrnte de deoger vm es deux reenot egement en nce& ot vn & u ere dns eurnce duorron de on coté vn dot vous uez oǘRne de pque & pr conequent vous eté́s e pre"
+            "4",
+            "s ſont gonnins à gringuenaudes,",
+            "Auec leurs nez à chiquenaudes.",
+            "L'aueugle n'eſt plus vn Docteur,",
+            "Ny Brigantin Complimenteur,",
+            "s ont mieux aimé faire abbattre,",
+            "Leur belle face de theatre.",
+            "Mais parlons de Loruietan,",
+            "n'y a que quelqu'vn qui m'entend,",
+            "Quand ie mets à mon frontiſpice,",
+            "Spacamond auec ſa Clarice,",
+            "Mais à l'enſeigne du Soleil,",
+            "Loruietan eſt ſans pareil.",
+            "Le cheual de bronze eſt le ſigne,",
+            "Pour ce medicament inſigne,",
+            "Car l'on voit de l'autre coſté,",
+            "L'ennemy de l'air empeſté.",
+            "Mais le Seignor qui le diſpenſe,",
+            "A bien diminué ſa panſe,",
+            "Dés que le Seignor Mazarin,",
+            "Quitta Paris pour ſainct Germain.",
+            "Car par ſa ſupreme practique,",
+            "entretenoit la boutique.",
+            "Maintenant pour eſtre à Paris,",
+            "Adieu le rang des fauoris.",
+            "Oruietan tire tes chauſſes,",
+            "Auecque tous tes frippauces,",
+            "Les boufons perdent leur credit,",
+            "Lors que le grand boufon s'enfuit.",
+            "Petits"
         ],
         [
-            "der dure vous uetout prs & nuez é qe ce que vous n nmopouteps otrCet pourquoy voûs me donneroz s vous pt cet vn coup de prte rtepond utre & e ny grde de qutter monuntge enfn e Crdn qu vouot etre oey dnsmon vount foecer utre de eoüer es crtes Aé es t uec fure & uy dt en ecounttete ce net ps duourdhuy Moneur que vous vouez omporter us moy ce nmet ps duourdhuy repond e Mzrn que vous e vouez d putetpmué ecede pour ce coup repque Aé mîsery preter à mõ tour eemportery eneprtte Crdn er e vyrompre e eufut que vous cõtnüez reprt Ruerevous nrvouezperdreprt utge que y ur vousrpõd Mzrn medonne toute ggnée vous nen uez pont dtre doute Aé tout ndgné que ceuyque e vous y donné &e pusqufut ortr des termes du eue ne vous uos procuré fueuuDuc dOrens vous neerez ps àpreent enFnee Coment pett Benefeer ntrromnpt e Crdn ous m pret de cette orte ueous oué ce que vous etes & ce que e us Et ous omre que e vous y ftfuur de rchorcher vo tts mté pretendez vous en trter queque ntgechez que e me moque de votre credt & que oeuy dé vntre thtre met fort dfferent vous ne ptez ps nvee des Ros oepqueRuere ors que vous mogeteoreres & vos pro mes à fre ortr mâgré́ uy e Due dOrens de ve de P rs pour vent à out de votre deenet ry repond eC dn que e eon que uos ors deonA R memportà des uppcons ndgnes de moy & memes à quques promees extrugntés ms e per etnt pé e me moque des vnes des utres Cette mxme doteAeé́ que vous uez prs quéec toueux qu ont eu ffre à vous er fueen uon ndrot & e vous contrndry en de me donnere enppeu que vous muez proms tnt detos &que votee mce og tmps reteuu Les chppeux rouges repque Mzrn ne ont ps ftspour des tetes vertes commevotreme eeor meux qu vous rfro R& e e merte meux u T ous pe et oont uhtnuë e C & contente vous denetrep ogé́ den portervn une comme votre pere e vote reprt tAé ep quen ft de toures ortes fut contrnt de porter vn onnee verd 6 4"
+            "5",
+            "Petits badins tirez vos guetres,",
+            "Car vous ne ſerez pas les maiſtres,",
+            "Si le grand badin ne l'eſt pas,",
+            "faudra qu'il double le pas.",
+            "Et quitte ſon pouuoir ſupreme,",
+            "Les Italiens font de meſme,",
+            "Quand ils voyent qu'ils ne font plus rien,",
+            "Et qu'ils ont gagné bien du bien:",
+            "Nos Compagnons, les ridicules",
+            "Ont laiſſé la le Seignor Iules,",
+            "Et quand ils ont eu bien d'argent,",
+            "s ont fait gille, Adieu Sergent,",
+            "Et laiſſé leur amphytheatre,",
+            "Aux autres qui veulent s'ébatre;",
+            "Non pas dans le petit Bourbon,",
+            "Mais pourtant Seigneur Spacamond,",
+            "Laiſſez nous voſtre onguent de reſte,",
+            "Puis qu'il eſt bon contre la peſte,",
+            "Pleurez le Seignor Mazarin,",
+            "Croyeoy ai ſe l le Rhin.",
+            "Portez voſtre boufonnerie,",
+            "Dans le pays de la Surie,",
+            "Emmenez tout voſtre tracas,",
+            "Mais l'onguent ne l'emportez pas:",
+            "Portez toutes vos ſauonnettes,",
+            "Vos emplaſtres & vos ſornettes,",
+            "Vos pomades & vos chanſons,",
+            "Ne ſont que foibles ameçons.",
+            "B"
         ],
         [
-            "3 vertne vousuvn cpet grs conme e portent es etf fers & vous futes trop heureux de torcher e cu pourry du C de Rcheeu pour etendre dns es excremens dechre perceée Cet en à vous Moncur e Pednt nterromptMzrn à me f re ces reproches vous d qu de pett cutrc etre deuenu Mn tre dEtt & qu pr mes nfmes tons uez cptué́ eprt trop fce de voftre mtre vous qu vous fnt fort defoee uez trhy es nterets utnt de fos qu set gy des no tres qu epnt e teps qu uot eon drgent dns e jeu ptdpton que vous uez fte de on reuenu uez ggné es onnes grces en uy pretnt vne prte de ceuy que vus uy uez uvoé & dont vous vous pyez pres uec nteret quy que vous fez ouuent de mot é uec ceux qus ggnoent vous enfn qu dns cette dernere conjoncture uez chenment trhy ur vne epernce vne & rdcue Et ce pr ces ees ctons que vous croyez merter vn chppeu rouge? Et pretende vous oger pr ces ons eruces votre mtre à vous erur de recours en cette occõ Croyez moy M Aé tenez vous à ce que vous ete vous ne vouez que uy deécouurntsvos trhons e ne dee enteremene on eprt deà demy perudé de vos muues ntentons & quu eu de ppuy que vous pretendez trer de uyne sempoye uy meme à vore rune Aueous uffmment dechrgé votre e reprtRuere pres vn peu de ence vryement Segneur Mzrn votre eoquence et fortndutreue à découurr vos exceentes qutez ous e nom dvn utre Ms on y peut encore eucoup douter & es Copor teurs de Prs çuent é encherr ur cett decrptou eurs ou tques ont toutes penes de vos Pnegyrques Et uros mu ue grce de metendre ur vn ujet ouù es hrngeres font pus ç̧untes que moy ouueneous eucmet de votre utre nnce de vos ctons heroques & de ffecton que vous portent tous es Frnços & genere ment tous es peupes Chre tens ms pour repondrevs menccs e ç ury en vous reuenr & deunt que vous me puez metere n uec on A tee Roye reteroneprt contre vous & uy fre ndonner vn prty qu n prs que prmes cones &e ne me trom peer eot uuy du P de C à qu vous eruez de joüet & qu ne fent dentreprendre votre deffence que pour vous empe cher dequur & retrer ous ce pretexte tout rgent que vous u z ee ge de rncepour vous remettre pres ce entre es"
+            "6",
+            "Peuſtre que Polichinelle,",
+            "Sera receu comme Padelle,",
+            "S'il demeure encore à Paris,",
+            "Car il excite aſſez le ris,",
+            "Mais pour vous tirez vos guenilles,",
+            "Car toutes ſes moindres ſoudrilles,",
+            "Diſent que Clarice au beau né,",
+            "Et vous nous auez trop gagné.",
+            "Mais vous pleurez Seignor groteſque",
+            "Quand vous entendez ce Burleſque,",
+            "Petit Seignor retirez vous,",
+            "Nous ſommes las de tous les foux.",
+            "Mais c'eſt par trop d'honneur vous faire",
+            "Retirez vous Apoticaire,",
+            "vaut mieux donner dans le cû,",
+            "Que de faire Iehan que fais tu.",
+            "Ah le plaiſant badin il pleure,",
+            "Et cette ſuperbe demeure,",
+            "Luy tire de triſtes ſanglots,",
+            "De ce qu'on luy tient ces propos.",
+            "Et ſa femme eſt inconfolable,",
+            "De ne plus faire la capable,",
+            "Adieu donc Pharmacopoleur",
+            "Laſche vilain, Monopoleur,",
+            "Si tu ne vas en Allemagne,",
+            "te faut gagner la Campagne,",
+            "Car ton Nom ſeul eſt odieux,",
+            "Comme ton train facetieux."
         ],
         [
-            "6 mns des Prens vos ons ms dequesreggner pr es moyen ffecton qu uot perduë pr es derneres hottez An Segneur Crdn vos pretentons sen ront en fumée & es eux deens que vous uez de e perdre & de renuerer cettes Monrche pour vous retrer en te uec es pus rches ders perront uec ous pr vn uppce dgne de vos crmes & de uos trhons Aunt que ce ot nterrompt Mzrn en e jettne ur Aé urytsfcton de te fre pendre ou drrches de mes propres mns cette ngue qu me vomt tnt dnuresRuere ne peut repquer pource que e Crdn vennt des proes ux effets e r u goer & urot nfement etrngéutre fnt vn efort ne e fut deggé de es ms & ne uy eut en meme temps cé e nex dvne gourme e Crdnvoynt on ng repnd deuent enrge contre Aé & dvn coup de pong uy ynt poché e umnre eà for ce de corps & pr vn tour de croc en jme ou et ex tremement drot e porte rudement pr terre s e rouent queque temps vn ur utre mgreé e foe effort que foent es tns de es eprer rus de vor ces deux utres Mntres deFrnce dns ce venere ett Afn queques grdes deReyne c courus u rut es rrcherent vn de utre & mrent ces deux ex chpons pens de pouere meurtrs de coups & r oüé de ng en des chmres eprées urns hutement de trer ron de cé́t ffront & de fne decder eur det pr es Prnces euts uppots Nous verrons que uccez ur cette con tenton msyeucoup dpprence quee ne çurot reu r quà notre untge & àcontuon de ces muus Mntres qu eront es premers conumez u feu qus ont umé & qu setendt mtcueuement pres uor deuoréces nfmes vc é"
-        ],
-        [
-            "7 têoôotodoûedtt LE SGE Dt BosS NE DV MAZARN é& o excon deCnfereçe qu e tot een que es vertus qu ont oppoées ux vces es tennen touours oums à eur éctnte uperorteé & que ce c̃ t dt uẽ net ms ncertne fe ncemment tr6 pher es fes du Ce des montres quengendreterre Tou tesfos ces foes & ches ennems degore de Deu es vces ooent en encore rmer des Gens de temerté pour dé thrôner es punces Souuernes Lnoence & effrontere qu depusnnce du monde perecutent ncemmentprudence &retenuë nont pont encore rougy deconfuon qus remportent tous es ours de eurs vns & rdcues efforts Hrennus qu pr es doutons & es deuches enormes per dt es onnes gr ces de Cer Augute o voynt honteuement ché de Ar mée de ce fge Empereur eut encore cz deffrontene pout e pndre de çe ute trttement & demnder de que pre texte couurrothonte de on prompt retour preés de on Pere ds uy repondt Empereur que e ne ty ps eté gree Et Cceron voynt que Lerus enney des ons Senteurs uot encore mpudence de e preenter pour uor ence upresde uy e te receujos de netos pcéà etro Ce Prnce de Eoquence vount témogner pr cet te reponce & e demerte de cét mportun &trop grn de fcté de Cer qu dmettot pour ors trop de monde u Sent ms notre Roy de Fnçe Luys Hutn net perms que on eut ft e proce4 à nguernd de Mrgny Grnhm en de Frnce & Su otondnt des Fnnces en qu fut ccué duor eu ntençe uec es mns ennems de cét Ett s neut eu udc de teponre noemmene à Chr es Cpt de Vos Ocodu oy ors quetn5 ppeé u Cne pur rndr cpjpro de dnntrton des Treors du Royumeur oomnrt que cetot ce Prce qu es uot eneuz Ms qu peut nceuor vne temerté pus nupporte ue cee duor uu ces drnets ours e Mzrn à Rue e preenter pour entrer dnsConference où̀ es Depute de"
-        ],
-        [
-            "ntre ugute Premené e ont trouuez pour truert ux remedes de Ett & u recouurement dePx ? quee r rognce ns exempe que e Crmne qu et de mort c uemene oe pretendre ence uec es uges qu ont con dmné que ce coupe à qutoute Europe déneproto ton oe e preentert deunt ce Trun ouùutce prede uec tntde mjete cherch detre comtu pr eurs p roes pres uor eté vncu prforce de eur ntegrté ou en vcuntrer dns certe Conference comme vn pecheur huméqu veut rendre utnt de rmes de repentr qufs répndre de rueux de ng des me eurs ujets de ce Royume ? Ms qu pourrot etre touché des peurs de ceuy quft verer ns horreur e ng d tnt de ons rnços? Non nonfut en pus de temps à conummerroü̈e dontprtque des crmesde défguré on eprt quoy donc? veu vor e premer àppre que ces utres Senteurs etment necere pour conoder es pye dontnousnvres & cette me rtfceue croe fre chnger de fce àonce preentc cét Hdre enuenmé contrepu reté des ntentons de notre Pr ement veu rumer vnmouueu fmeu de deordre & de reeon veu detruNton Frnçoes nen peut empeter e gouuernement? msfut uprunt qu fé perr tous ceux qu ont ffe ctonnez à cctte Couronne & e Roy n pont de ujets qu ne e crfent pourconeruton de on uthortéen qu fut mcrer tout vn peupe pour occuper cette Mo nrche Ms non ces utres Heros dont es rmes ppuynscue deutce truent pour notrommun repos prodgueront encore eue pout trouuer dnscontnu jon de eurs truuxpx que nous demndons depusonemps Cet pr eux que es murs de cette Ve ont hors de ecde & ne redoute pus proche de ce Tyrn s ont gurnty nos tets du couu es mençot nous nuone pus à crndre pour nous ny pout nos fmes tnds que ces vuns Boueers des oppreez veeront pour notre defene Decernons des tromh s à ces dgnes Lerteurs dePtre fon des vœux pourongueur de eurs nnées prtgeons eur nos cœurs & ne refuons ren àgore de ceux qu nous donnent toutMds"
-        ],
-        [
-            "Ms trernente & ugute Conpge n detpez pn dns vote Aemé́e c y n qu sede fos e ffurcé d vous dver Ce mentre qu n po &prgué́ e fer ny e poo pourr detrurs cét ogute Corps uque ont ujout dhuy tt hésdes pus noes pres de Et Hes reent à ce Br re que cetdoceur & ooer pscruuté qu ggne es cœurs genereux Lvne ne seerce ss ns cquerr de nouuees creures & on ne e ert pont de utte quee ne ucteh ne de tous es peupes Qu ve à on gré de es forces nous u rons ez de generoté oour ne pont per ous es honteux ens de f Tyrne Vertus ouffeop d contrnte ous e gu uernement des mechns cet ors quee ngt ps eon ese tmens & quee et forcée de ceder àcorrupton des vces Ceuy qu neçt ps corrger e déregoment de es pons et nheà dmntrton deMonrche FtnçoeNoos ne pouuons ouffrr que e gouuernement de nos oys uopont de rport ueeerutude puqueerté de ns ujets e conerue dnsutce e eur Pruce & que nu te peut meme qu dveut e tendre r ous vn emhe gou rneeotEn effetujeon peu duner ous e regne d Mo ntquemsnen et ms utheur & fe tté́ cont à fr cs ue on dere çe net que e muusujet qu peut de uenr Ecue pousce que ne fnt ce qu veurngt que pscrnte deutce de o Souuern Msceuy à uet ps reetndgne de ere & s deuent erf ce netps pr e gouuoneuent d Prnce puque cet e eu effet de ou peché qu chnge condtonCé Enemy detos egens de hen veu en spprchne de vous comrtre votre prudente cuteé de on rrognce & otrecndnceàençore e preeott deut ceux qu ne e penueoutement egrden que desSeere yotr genro é eroe tsfte de perdre nmnté ns perdee u En nemg ? Non non Meegueurs qu écrese du Vper ppreheode pus den ete pcqueés & vous ne pouuez eprer e venn dees corps nfecé de crmes pour en compoer vn ondote qu vous eure coreorure de tos vps ujres En nœms Coneruez touours Mefegneurs cette meme rgueu core pprche des coupes Ndee s e Cr dn Mr dns voteutce Aeé́ & tequ ceét utre Sen"
-        ],
-        [
-            "6 reut Romn refufee vn ege à ce mechnt qu nous tentgez uec tnt de cruuté ne fut pont donner eu de repos à ceuy qu ote à tout n Royume Fermez es portes de Tetme à ceuy qu yãt déchné tous es ctmes que votre tce ouot écrtez es ft ujour dhuy mrcher en foue contre hoeur des Autes contrepureté des Verges & contre nnocence des oppreez & queperte erue pour ms de dctme ux e eures que vous truez de gurr 9eeéS& eoeée SVPPLCATON FTE oT OVR mncer e procez des Prtns Fncers de os Royume RE Le ttre de Roy Trehretens ous etnt eene &qu pr es vertueues ctons que vous prtquez dns vn ge qu eme nuot ucun commerce uecverto ptomettez à touteFrnee detre e pus ute de tous vos predeceeursCet à votre Mjeté qe s dree cette uppet pouprer de jetter on œ de mercor de urfce de ce Rynme & de pt court toutes es Prounces & srreter n peu detemps à contem per e depore ett dns eque ont reduts tnt de mons de vos puures ujets qo nuct & our gement ccecs ous e fx de nt de meres & de mheurs Ms u qu uype dé tourer dvne utre prt ceuy decoere & de onufte cour roux ur ces nfme Prtns & r tous es futeurs & dhers de ces nhumns Fnncers pour fneex rnes eutstos & mœurs detegee Nee ps vne choe montrueue Sre de vor des peronnesde nent& de vde condton duor ft enpeu de temps degrndes cuons demerueefe depees & deuper hes tmens qus urpent en mgnfcence vos Louuros & vns Pe Nee ps dene choe en prodgeue que cesmemes peronnes e voyns eeuées u pus hutes chrges & d gntez de votre Royume fovent u peds e repet qus do ent à votre Mjeté ccgens & detruent vos ves oue uerent & runent vos Prounces defoent tout votre oy omne voent vos treors & vos fnncos & enfn tfchendrsetez"
-        ],
-        [
-            "eours heureu de vos rmes & de renerer votre couronne & votre ceptre Courez done Sre & ne vous rretez pont à ecoutrervo chrmnte de ces Srenes qo pr eur chnt tr ompex tchent de vous urprendrevotre prudence ne retot à eur chrmes & ne vous fot éuer eurs peges Que votre Mjefté Sre ne trte pont ce corps pr com potons ny de morte quee nesrne ponrt cét Ar e pr otons ms quee portecognée àrcne que e errpe & foudroye cét mfme troupeu Votre Mjeté Sre ngnore ps qu ne ot res dnge reux de mgnrder de emes Montres qu uuent pres etre ppruoez sefforcent de perdre & de runer ceux me mes ques s ont redeues de eur e & de eurs ens Cette mudte rce dot etre comprée à ces rts qu ont dns es mneres douù on tre or eques deuorentmne& deques nentmons on ne peut trer ucun eruce non quetns morts on en ft des ntomes Et e pre votre M jeté de conderer quvnt decemence or dnre à en drot de ces nguës du peupe & que eur confernt de nou uees fueurs s ne sen erurot que pour uhorer eurs muus deens & pour entretenr eus vces Crvous penez es oge pour en uor du ecours en queque extre me neceté vous expérmenterez en tot à vetté du dre de ce fmeux & ceere Phoophe de Antquté́ Crtes qu eure que rgent de tees gens reeme ux fgues qu croent dns es hutes montgnes & eu x nccees u quees es hommes ne peuuent ttndre ms euement es Coreux & es Mns & es utres oyeus de cette nture qu ont es vuesmges de ces cruees Hrpjes Toutes ces vertez Sre ontconnuës que per nne nen peut douter etns confrmé́es pr vne nfnté de xempes qu e rencontrent dns es Htores on remrque quHenry e Grnd votre yeu quoy qu eut reconneu es tours ord dnres de ces petes de Royume ep ouue u pus forr de es ffres eur nfdeté & receu es pnes de eurs us nentmons pr vn excez de onté euss uo octroye e pr don & oton qus uy oent reque ms s cçeurent"
-        ],
-        [
-            "e e ereee m ver decemence de ce grnd Morrque que deuens de our en our pus noens s ne conterent ps euemont fomenter uec pus drtfce quuprunt Tntet vry Sre que tees peronnes nont pont du tres ncntons quu m quees ont toutft ncpes de fre ucun en & en qus yent epué toutes es fnn ces de votré Royume pour e rendre rches & puns s ont toutefosr res qus ne ont touchez ducunes câ mtez puques ms tout u contrre ne reprent que e ng & e ernge de vos peupes &rne entet e de vos Pro vnces pour ccrotre eurs rchees etr eur pûuce & ffermr eur ouuernetez e dry de pus ( votre Mjeté me e permet) que eur nte udte etgrnde quevo tre peronne etot ur e penchnt dvn precpce de mheurdont Deuvee preeruer ) tout votre Royume oueuer é ces trtres & perfdes es eroent merement perr putot que de vous donner ucun ecours Nous ne doutons pont Sre que vous nyez ez de ontépour preter oree ux utes pntes de vos puures ujets & que en tot ces mheureusx & omnes ne te entent es effets de votre utce commencez donc Sre ns pus trder à ncer vos foudres urces tetes crmnees fn que pr eur nentfemnent vous pues rendre à 9otrs Royume cetre p qu et deré́e depus vnonemps FN"
+            "7",
+            "Au diable adieu cette canaille,",
+            "Qui ne fit jamais rien qui vaille,",
+            "Hors la bonté de ſon onguent,",
+            "Elle ne vaut pas vn Sergent.",
+            "Mais pourtant Seignor vne grace,",
+            "Qu'il faut que ta femme nous face,",
+            "Qu'elle emmene au Pays Latin,",
+            "Tes voiſines & tout ton train,",
+            "Puis que c'eſt leur vraye origine,",
+            "Comme à la race Mazarine,",
+            "Adieu Seignor ne pleure plus,",
+            "Car tes pleurs ſeront ſuperflus.",
+            "Adieu.",
+            "FIN."
         ]
     ]
 }
