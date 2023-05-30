@@ -12,9 +12,11 @@ xmls = list(xmldir.glob("*.xml"))
 
 cleaner = re.compile(r"(\t+)|(\n+)|(\d+.?)|(\.)|(-)")
 
+# noinspection PyTypeChecker
 for xml in tqdm(xmls):
     print(xml)
-    with open(xml, mode="r", encoding="utf-8") as f:
+    # noinspection PyTypeChecker
+    with xml.open(mode="r", encoding="utf-8") as f:
         soup = BeautifulSoup(f.read(), "lxml")
         soup = soup.find("body")
 
@@ -27,6 +29,7 @@ for xml in tqdm(xmls):
 
     forms = sorted(list(set(forms)))
 
+    # noinspection PyUnresolvedReferences
     with open(jsondir / (xml.stem + ".json"), mode="w", encoding="utf-8") as f:
         json.dump(list(forms), f, indent=4, ensure_ascii=False)
 

@@ -32,10 +32,12 @@ def main(path: Path, url, renew=False):
         past = []
 
     xmls = get_xmls(url)
+    # noinspection PyTypeChecker
     for xml in tqdm(xmls):
         if xml in past:
             continue
-            
+
+        # noinspection PyTypeChecker
         xml_download(url + xml, path / xml)
 
 
@@ -43,5 +45,6 @@ if __name__ == "__main__":
     path = Path("../ressources/Ducange/ducange_xmls")
     path.mkdir(exist_ok=True)
 
+    # noinspection HttpUrlsUsage
     url = "http://svn.code.sf.net/p/ducange/code/xml/"
     main(path, url)

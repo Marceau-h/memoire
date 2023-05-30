@@ -243,13 +243,13 @@ class Texte:
 
         prev = None
 
-        for l in self.lexicalites:
+        for lex in self.lexicalites:
             if prev is not None:
-                diff = l - prev
+                diff = lex - prev
                 self.ecarts.append(diff)
                 if abs(diff) > 0.6:
                     print(f"Diff: {diff}, {self.path = }")
-            prev = l
+            prev = lex
 
         if len(self.ecarts) > 1:
             self.tendance = mean(self.ecarts) > 0

@@ -92,7 +92,7 @@ french_chars = {
     "ó", "ì"
 }.union(set(string.printable))
 
-chriffre_romain = re.compile("([IVXLCDMivxlcdm]+\.?)|(·[IVXLCDMivxlcdmJjUu]+·)")
+chriffre_romain = re.compile(r"([IVXLCDMivxlcdm]+\.?)|(·[IVXLCDMivxlcdmJjUu]+·)")
 
 with open("correspondances.json", mode="w", encoding="utf-8") as f:
     json.dump(correspondances, f, indent=4, ensure_ascii=False)
@@ -110,4 +110,4 @@ for e in LGERM:
 with open("lexiques/LGERM.json", mode="w", encoding="utf-8") as f:
     json.dump(LGERM, f, indent=4, ensure_ascii=False)
 
-# Pour l'instant, je ne vois pas comment remplacer les derniers caractères, du coup je les laisse tels quels.
+# Pour l'instant, je ne vois pas comment remplacer les derniers caractères, du coup, je les laisse tels quels.
