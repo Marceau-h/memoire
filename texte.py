@@ -50,8 +50,8 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile(r"^[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
-    crade2 = re.compile(r"^[liIba1ſ.,:'’]*\s[liIba1ſ.,:!;'’]*")
+    crade = re.compile(r"^[liIba1ſ.,:!;'’]{3,}")  # (r"([liIba1]*\s?)+").
+    crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*")
     toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
@@ -189,29 +189,22 @@ class Texte:
         }
 
         txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
-        txt = [unescape(e.strip()) for e in txt if e.strip()]
+
+        txt = [e.strip() for e in txt if e.strip()]
         txt = [re.split(self.reline, line) for line in txt]
 
-        txt = [self.clean(e, self.crade) for e in txt]
-        txt = [self.clean(e, self.toujours_crade) for e in txt]
+        # txt = [self.clean(e, self.crade) for e in txt]
+        # txt = [self.clean(e, self.toujours_crade) for e in txt]
         txt = [self.clean(e, self.reother) for e in txt]
         txt = [self.clean(e, self.reother2) for e in txt]
-        # txt = self.clean(txt, self.crade2)
-        txt = [[e for e in page if e] for page in txt]
+        # txt = [self.clean(e, self.crade2) for e in txt]
+        txt = [[unescape(e) for e in page if e] for page in txt]
 
         pages = [' '.join(line for line in page) for page in txt]
         plain = ' '.join(mot for page in txt for line in page for mot in line.split())
 
         txt = [[line.strip() for line in page if line.strip()] for page in txt]
         txt = [page for page in txt if page]
-
-        # txt = [e for e in txt if not re.fullmatch(self.crade, e)]
-        # txt = [e for e in txt if not re.fullmatch(self.crade2, e)]
-        # txt = [e for e in txt if not re.fullmatch(self.toujours_crade, e)]
-        # txt = [[re.sub(r"<.*?>|  |\t|¬", "", line) for line in page] for page in txt]
-        # txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
-        # txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
-        # txt = [[line for line in page if not re.fullmatch(self.toujours_crade, line)] for page in txt]
 
         if not plain:
             print(f"Empty file: {self.path = }")
@@ -322,7 +315,7 @@ if __name__ == "__main__":
     testfile = "Corpus/Mazarinades/1-100/Moreau3_MAZ.xml"
 
     texte = Texte(testfile)
-    # print(texte.__dict__)
+    print(texte.__dict__)
 
     if test != "soft":
         liste = list(corpora(path))
