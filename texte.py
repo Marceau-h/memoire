@@ -1,18 +1,17 @@
 import contextlib
-import glob
 import json
 import re
+from statistics import stdev
 from string import punctuation
 from collections import Counter
 from collections.abc import Sequence, Generator
 from xml.sax.saxutils import unescape
+from pathlib import Path
 
 import xmltodict
 from bs4 import BeautifulSoup
 from numpy import mean
 from tqdm import tqdm
-
-from pathlib import Path
 
 
 def eval_sub_type(str_: str) -> bool or str:
@@ -24,14 +23,6 @@ def eval_sub_type(str_: str) -> bool or str:
         case _:
             return str_
 
-
-# with open("lexiques/LGERM.json", encoding="utf-8") as f:
-#     LGERM = json.load(f)
-# mots_LGERM = set(LGERM)
-#
-# with open("lexiques/ducange.json", encoding="utf-8") as f:
-#     ducange = json.load(f)
-# mots_ducange = set(ducange)
 
 lexiques = Path("lexiques").glob("*.json")
 
@@ -59,11 +50,18 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile("[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
+    crade = re.compile(r"[liIba1ſ.,:!;'’]*")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"[liIba1ſ.,:'’]*\s?[liIba1ſ.,:!;'’]*")
     toujours_crade = re.compile(r"\w?-\w?")
-    chriffre_romain = re.compile("[IVXLCDM]+\.?")
+    chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
+    reline = re.compile(r"\n|<lb/>|<l>|<\\l>")
+    reother = re.compile(r"<[^>]+?>")
+    reother2 = re.compile(r"<.*?>|(\s{2})|¬")
+
+    @staticmethod
+    def clean(txt: list[str], pattern: re.Pattern, replace: str = "") -> list[str]:
+        return [re.sub(pattern, replace, e) for e in txt]
 
     def __init__(self, path: Path or str):
         self.dict_lexicalites = None
@@ -87,11 +85,17 @@ class Texte:
         self.lat_lexicalite = None
         self.lignes_non_lexicalisees = {}
         self.langue = None
+        self.ecarts = []
+        self.ecart = None
+        self.ecart_type = None
+        self.tendance = None
 
         self.n_words = None
         self.n_lines = None
         self.n_pages = None
         self.n_chars = None
+
+        self.onepage = None
 
         if isinstance(path, str):
             path = Path(path)
@@ -184,21 +188,29 @@ class Texte:
             for e in soup.find_all()
         }
 
-        txt = re.split(r"(?:<pb .*?>)", self.txt)[1:]
+        txt = re.split(r"(?:<pb .*?>)", self.txt)
         txt = [unescape(e) for e in txt if e.strip()]
-        txt = [re.split(r"\n|<lb/>|<l>|<\\l>", line) for line in txt]
-        txt = [[re.sub(r"<.*?>|  |\t|¬", "", line) for line in page] for page in txt]
-        txt = [[line.strip() for line in page if line.strip()] for page in txt]
-        txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
-        txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
-        txt = [[line for line in page if not re.fullmatch(self.toujours_crade, line)] for page in txt]
-        # txt = [[line.strip() for line in page if line.strip()] for page in txt]
 
+        txt = self.clean(txt, self.crade)
+        # txt = self.clean(txt, self.crade2)
+        txt = self.clean(txt, self.toujours_crade)
+
+        txt = self.clean(txt, self.reother)
+        txt = self.clean(txt, self.reother2)
+        txt = [re.split(self.reline, line) for line in txt]
+        txt = [[line.strip() for line in page if line.strip()] for page in txt]
         txt = [page for page in txt if page]
 
-        pages = [' '.join(line for line in page) for page in txt]
+        # txt = [e for e in txt if not re.fullmatch(self.crade, e)]
+        # txt = [e for e in txt if not re.fullmatch(self.crade2, e)]
+        # txt = [e for e in txt if not re.fullmatch(self.toujours_crade, e)]
+        # txt = [[re.sub(r"<.*?>|  |\t|¬", "", line) for line in page] for page in txt]
+        # txt = [[line for line in page if not re.fullmatch(self.crade, line)] for page in txt]
+        # txt = [[line for line in page if not re.fullmatch(self.crade2, line)] for page in txt]
+        # txt = [[line for line in page if not re.fullmatch(self.toujours_crade, line)] for page in txt]
 
-        plain = ' '.join(mot for page in txt for line in page for mot in line.split())
+        pages = ['\n'.join(line for line in page) for page in txt]
+        plain = '\n\n'.join(mot for page in txt for line in page for mot in line.split())
 
         if not plain:
             print(f"Empty file: {self.path = }")
@@ -234,6 +246,26 @@ class Texte:
         self.hapax_ratio = self.hapax / self.n_words
 
         self.pages = pages
+
+        prev = None
+
+        for l in self.lexicalites:
+            if prev is not None:
+                diff = l - prev
+                self.ecarts.append(diff)
+                if abs(diff) > 0.6:
+                    print(f"Diff: {diff}, {self.path = }")
+            prev = l
+
+        if len(self.ecarts) > 1:
+            self.tendance = mean(self.ecarts) > 0
+            self.ecart = mean([abs(e) for e in self.ecarts])
+            self.onepage = False
+            self.ecart_type = stdev(self.ecarts)
+        elif len(self.ecarts) == 1:
+            self.ecart = self.ecarts[0]
+            if self.n_pages == 1:
+                self.onepage = True
 
     def mesurer_ttr(self, text):
         mots = text.split()
@@ -289,7 +321,7 @@ if __name__ == "__main__":
     testfile = "Corpus/Mazarinades/1-100/Moreau3_MAZ.xml"
 
     texte = Texte(testfile)
-    print(texte.__dict__)
+    # print(texte.__dict__)
 
     if test != "soft":
         liste = list(corpora(path))
