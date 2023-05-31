@@ -50,7 +50,7 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile(r"^[liIba1ſ.,:!;'’]{3,}$")  # (r"([liIba1]*\s?)+").
+    crade = re.compile(r"^[liIba1ſ.,:!;'’]{2,}$")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*$")
     toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
@@ -247,8 +247,8 @@ class Texte:
             if prev is not None:
                 diff = lex - prev
                 self.ecarts.append(diff)
-                if abs(diff) > 0.6:
-                    print(f"Diff: {diff}, {self.path = }")
+                # if abs(diff) > 0.6:
+                #     print(f"Diff: {diff}, {self.path = }")
             prev = lex
 
         if len(self.ecarts) > 1:
@@ -273,11 +273,11 @@ class Texte:
         return mot in lexique or mot.isdigit() or mot in punctuation or re.fullmatch(self.chriffre_romain, mot)
 
     def mesurer_lexicalite(self, text: str, mode: str = "LGERM", type_: str = "page"):
-        tokens = text.split()
+        tokens = re.split(r"(?:\s)|(?:\.)", text)
         lexique = self.lexique[mode]
 
         mots = [mot.lower() for mot in tokens]
-        mots = [mot for mot in mots if self.lexicalise(mot, lexique)]
+        mots = [mot for mot in mots if self.lexicalise(mot, lexique) or mot in lexique]
 
         if type_ == "page":
             self.lignes_non_lexicalisees[mode] = 0
