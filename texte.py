@@ -50,14 +50,17 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 class Texte:
     lexique = dict_lexiques
-    crade = re.compile(r"^[liIba1ſ.,:!;'’]{2,}$")  # (r"([liIba1]*\s?)+").
+    crade = re.compile(r"^[liIba1ſ.,:!;'’]+$")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*$")
+    crade3 = re.compile(r"[liIba1ſ.,:!;'’]{10,}")
+
     toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
     reline = re.compile(r"\n|<lb/>|<l>|<\\l>")
     reother = re.compile(r"<[^>]+?>")
     reother2 = re.compile(r"<.*?>|(\s{2})|¬")
+    rep = re.compile(r"(.)\1{2,}")
 
     @staticmethod
     def clean(txt: list[str], pattern: re.Pattern, replace: str = "") -> list[str]:
@@ -197,6 +200,10 @@ class Texte:
         # txt = [self.clean(e, self.toujours_crade) for e in txt]
         txt = [self.clean(e, self.reother) for e in txt]
         txt = [self.clean(e, self.reother2) for e in txt]
+        txt = [self.clean(e, self.rep) for e in txt]
+        txt = [self.clean(e, self.crade) for e in txt]
+        txt = [self.clean(e, self.crade2) for e in txt]
+        txt = [self.clean(e, self.crade3) for e in txt]
         # txt = [self.clean(e, self.crade2) for e in txt]
         txt = [[unescape(e) for e in page if e] for page in txt]
 
