@@ -66,6 +66,24 @@ class Texte:
     def clean(txt: list[str], pattern: re.Pattern, replace: str = "") -> list[str]:
         return [re.sub(pattern, replace, e) for e in txt]
 
+    @staticmethod
+    def mesurer_hapax(text):
+        mots = text.split()
+        count = Counter(mots)
+        return sum(1 for mot, occurrences in count.items() if occurrences == 1)
+
+    @classmethod
+    def lexicalise(cls, mot: str, lexique: set) -> bool:
+        return mot.lower() in lexique or mot.isdigit() or mot in punctuation or re.fullmatch(cls.chriffre_romain, mot)
+
+    @property
+    def lexicalites(self):
+        return self.dict_lexicalites[self.langue]
+
+    @property
+    def lexicalite(self):
+        return self.dict_lexicalite[self.langue]
+
     def __init__(self, path: Path or str):
         self.dict_lexicalites = None
         self.dict_lexicalite = None
@@ -275,10 +293,6 @@ class Texte:
             raise ValueError(f"Empty string, {self.path = }")
         return len(vocabulaire) / len(mots)
 
-    def lexicalise(self, mot: str, lexique: set) -> bool:
-        mot = mot.lower()
-        return mot in lexique or mot.isdigit() or mot in punctuation or re.fullmatch(self.chriffre_romain, mot)
-
     def mesurer_lexicalite(self, text: str, mode: str = "LGERM", type_: str = "page"):
         tokens = re.split(r"(?:\s)|(?:\.)", text)
         lexique = self.lexique[mode]
@@ -295,23 +309,9 @@ class Texte:
 
         return len(mots) / len(tokens)
 
-    @staticmethod
-    def mesurer_hapax(text):
-        mots = text.split()
-        count = Counter(mots)
-        return sum(1 for mot, occurrences in count.items() if occurrences == 1)
-
     def determiner_langue(self):
         k, _ = max(self.dict_lexicalite.items(), key=lambda item: item[1])
         return k, self.lignes_non_lexicalisees[k]
-
-    @property
-    def lexicalites(self):
-        return self.dict_lexicalites[self.langue]
-
-    @property
-    def lexicalite(self):
-        return self.dict_lexicalite[self.langue]
 
 
 if __name__ == "__main__":
