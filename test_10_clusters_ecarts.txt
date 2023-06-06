@@ -3,6 +3,7 @@ cluster = 2
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau100_GALL.xml')
 txt.lexicalite = 0.6798603026775321
 txt.n_pages = 7
+txt.ecart = 0.0889565166016779
 txt.ecarts = [-0.23015384615384615, 0.134, -0.0892857142857143, 0.017857142857142905, -0.02050691244239633, 0.04193548387096768]
 Texte = 
 ["L'APOLOGIE", 'DE', "L'AVTRVCHE", 'EN VERS BVRLESQVES.', 'M. DC. L.']
@@ -19,6 +20,7 @@ cluster = 9
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau13_GALL.xml')
 txt.lexicalite = 0.7085514834205934
 txt.n_pages = 6
+txt.ecart = 0.07929292929292928
 txt.ecarts = [-0.23989898989898983, 0.009129759129759107, 0.0283882783882784, 0.0009920634920634885, 0.11805555555555558]
 Texte = 
 ['A', 'VN MINISTRE', "D'ESTAT", 'SVR LES', 'OEUFS', 'M. DC XLIX.']
@@ -34,6 +36,7 @@ cluster = 3
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau17_GBOOKS.xml')
 txt.lexicalite = 0.5339805825242718
 txt.n_pages = 7
+txt.ecart = 0.11470683701292493
 txt.ecarts = [-0.31220177232447166, -0.05773667924663295, 0.083920376079345, -0.11006505800144578, -0.0023598955230719754, 0.12195724090258231]
 Texte = 
 ['LES', 'ACCLAMATIONS', 'DE IOYE DES BONS', 'PARISIENS.', 'SVR L’HEVREVSE ARRIVEE', 'DE LA PAIX.', 'A PARIS,', 'Chez NICOLAS DE LA VIGNE,', 'prés Sainct Hilaire.', 'M. DC. XLIX.', 'AVEC PERMISSION.']
@@ -50,6 +53,7 @@ cluster = 0
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau18_GBOOKS.xml')
 txt.lexicalite = 0.5726718885987816
 txt.n_pages = 7
+txt.ecart = 0.07594800491111557
 txt.ecarts = [-0.15592515592515593, 0.05739447312481022, 0.044789903032168676, 0.039214533482274105, 0.07287044446060953, -0.08549351944167494]
 Texte = 
 ['LACCoRD PASSE’', 'Eipnpvs', 'Poar eoenger la mort das RQaoy d’Angleterre.', 'la ſollicitation de la Nobleſſe de France.', '8', 'Ches', 'PAR1s,', 'AVEC PERMISSION.']
@@ -66,6 +70,7 @@ cluster = 4
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau25_GBOOKS.xml')
 txt.lexicalite = 0.6104477611940299
 txt.n_pages = 7
+txt.ecart = 0.053699814667418765
 txt.ecarts = [-0.1058620689655172, -0.08228070175438595, 0.04941150344214962, -0.01870974905618472, -0.038775034932463925, -0.027159829853811157]
 Texte = 
 ['ACTION DE GRACE', 'A NOS', 'SEIGNEVRS', 'DE', 'PARLEMENT,', 'PAR LES HABITANS DE LA VILLE', 'ET FAVX-BOVRGS DE PARIS,', 'pour l’acquitement & la deſcharge des loüages des', 'Maiſons du quartier de Paſques dernier.', 'Par vn Arreſt ſolemnel.', 'A PARIS,', 'Chez CLAVDE MORLOT, ruë de la Bucherie,', 'aux vieilles Eſtuues.', 'M. DC. XLIX.']
@@ -82,6 +87,7 @@ cluster = 1
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau27_MAZ.xml')
 txt.lexicalite = 0.6513339466421343
 txt.n_pages = 7
+txt.ecart = 0.06365061570804013
 txt.ecarts = [-0.17428571428571427, -0.05608465608465607, -0.01823066589905975, 0.062285246795745874, -0.050568632636868505, 0.02044877854619631]
 Texte = 
 ['ACTIONS', 'DE GRACE DE', 'LA FRANCE', 'AV PRINCE DE LA PAIX.', 'Monſeigneur le Duc de Beau-fort.', 'Par le ſieur D. P.', 'A PARIS,', 'Chez la vefue A. MUSNIER, au mont ſainct Hi', "laire, en la Cour d'Albret.", 'M. DC. XLIX.']
@@ -98,6 +104,7 @@ cluster = 6
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau43_GBOOKS.xml')
 txt.lexicalite = 0.6265723270440252
 txt.n_pages = 7
+txt.ecart = 0.09181306278551282
 txt.ecarts = [-0.27713178294573637, 0.002873563218390718, 0.08045977011494254, -0.07330567081604422, 0.06300966052003398, -0.0540979290979291]
 Texte = 
 ["L'ADIEV", 'DV SIEVR CATALAN,', 'ENVOYE’ DE S. GERMAIN', 'AV SIEVR DE LA', 'RAILLERE', 'DANS LA BASTILLE.', 'A PARIS.', 'Chez CLAVDE HVOT, ruë S. Iacques,', 'proche les Iacobins, au pied de Biche.', 'M. DC. XLIX.']
@@ -114,6 +121,7 @@ cluster = 8
 txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau52_GBOOKS.xml')
 txt.lexicalite = 0.6259791122715405
 txt.n_pages = 7
+txt.ecart = 0.14902394545575395
 txt.ecarts = [-0.19589552238805974, -0.1940745374921798, 0.19497005988023958, -0.1008754208754209, 0.11267869956394538, -0.09564943253467839]
 Texte = 
 ['AFFICHE', "L'ARBITRE", 'DE LA', 'PAIX', 'AVX', 'PARISIENS', 'A PARIS,', 'M. DC. LII.']
@@ -130,6 +138,7 @@ cluster = 7
 txt.path = PosixPath('Corpus/Mazarinades/101-200/Moreau139_GBOOKS.xml')
 txt.lexicalite = 0.5791982057751612
 txt.n_pages = 15
+txt.ecart = 0.0566969901619135
 txt.ecarts = [-0.08880428871105583, -0.09090366004221595, 0.05916491596638651, 0.02289772727272732, -0.0647626058152374, 0.034895736283095835, -0.06225434258907059, 0.10932105868814734, -0.04859708745833957, -0.031942431988017495, -0.037810605413713616, 0.1154991726420298, 0.015666513971598683, -0.011237715425153061]
 Texte = 
 ["L'APPARITION", 'DE LA GVERRE', 'ET DE LA PAIX,', 'A', 'L’HERMITE', 'DV MONT VALERIEN.', 'ET', 'LE DIALOGVE DE CE', 'Religieux auec vn Gentilhomme, ſur les', 'deſſeins pernicieux du Cardinal Maza', 'rin, ſur le merite du Sacerdoce, & ſur', 'la gloire du Parlement.', 'A PARIS,', 'Chez FRANCOIS NOEL, ruë Sainct-Iacques, aux', "Colomnes d'Hercule.", 'M. DC. XLIX.']
@@ -154,6 +163,7 @@ cluster = 5
 txt.path = PosixPath('Corpus/Mazarinades/3501-3600/Moreau3529_GBOOKS.xml')
 txt.lexicalite = 0.5806264501160093
 txt.n_pages = 6
+txt.ecart = 0.07875040933706683
 txt.ecarts = [-0.14029346702095635, 0.06798877227239442, 0.09310255075481522, -0.09161424458897538, -0.0007530120481927804]
 Texte = 
 ['PREFACE', 'E ’ayrien dequoy repartir aux meſpriſeurs des Anagra', 'mes, inon qu ie ſuis d’accond aueceux, que c’eſt vn la', 'bear aſſez ingrat dedans nos iours, & qu’on ne voit point', 'dreſonra pui os deuieninenr ius eieire nr pus adi anme eo ei', '’onuois ouien Ct le raualenmenr parny lae ſprns conmon', 'pſanle qiſeroi eur que ie leuadederois pluſo, puiſque', 'E ne ſi ue de leur nonlle, lais ſeaalan Gaueur que le', 'pnud eriuenonr ps inprouue le de’lnſrenear des Nonms non', 'plu ue ſage des fmiienus e de, Deuires ie ſuis eonraint de', 'en pmneſer ounſieuenno de ne ſie n peu lu que', 'e lieiil euiunu ue ue le ine ne noen i eieiee ls ne', 'eſ pnne n pe aiſeieies eue eln ue ie eu uie ie', 'ie donent eanuenir aus cdoſe duns la ſaine Eſerinune', 'ne oen ouun le uon ee e prleſe e poior ie re de reiene', 'e legerines lais ſon onre n oune oun aian e aue len', 'e nuenadtemen, u nmeſdueu u eous lnre ſoui y u enu ſlaiſet', 'Conr ue pes ne ion e en e ue ene p nen e niere', 'lenenin l nie enie lu e ueonu oen e pue en e er ue le', 'lenonie e ie ae dun e euienun nmi e ei ene qianr', 'merité.', 'rpe eſt dffeiſles hare nge', '’e ſluln lelr ſt ienriarun', 'C as dire e dilne ie nn', 'Sln a ne dlpi e qun ſo nurame Toureſai.', 'pen l ee e r e ene n ue len punenee ounnel', 're en l ue ine euns e e e e ee e o e ee', 'eonos euie enrnia inu eli e l e nen e eone e de dnue', 'leueie e reienrer e en oner en eneoerue ſenrun', 'oeue de deunieſ ene de eneieneune ne ieinire', 'ous ſeaune rue n pue oeur ſe ue peieſilnunee', 'llpet utouſ']
