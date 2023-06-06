@@ -303,7 +303,7 @@ class Texte:
         tokens = re.split(r"(?:\s)|(?:\.)", text)
         lexique = self.lexique[mode]
 
-        mots = [mot.lower() for mot in tokens]
+        mots = [mot.lower().replace("ſ", "s") for mot in tokens]
         mots = [mot for mot in mots if self.lexicalise(mot, lexique) or mot in lexique]
 
         if type_ == "page":
