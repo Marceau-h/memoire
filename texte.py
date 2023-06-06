@@ -133,6 +133,11 @@ class Texte:
             self.process_body()
 
             self.header["langue_detectee"] = self.langue
+            if self.plain:
+                self.header["lexicalites"] = self.lexicalites
+                self.header["lexicalite"] = self.lexicalite
+                self.header["ecarts"] = self.ecarts
+                self.header["ecart"] = self.ecart
 
             if isinstance(self.header["langue"], list):
                 print(f"""Plusieurs langues détectées pour {path.name} :
@@ -193,6 +198,8 @@ class Texte:
             dict_header["langue"] = langues["@ident"]
 
         dict_header["fichier"] = self.path.name
+        dict_header["path"] = str(self.path)
+        dict_header["json_path"] = str(self.json_path)
 
         return dict_header
 
@@ -329,9 +336,9 @@ if __name__ == "__main__":
 
     texte = Texte(testfile)
 
-    print(texte.json_path)
+    # print(texte.json_path)
 
-    # print(texte.__dict__)
+    print(texte.__dict__)
 
     if test != "soft":
         liste = list(corpora(path))
