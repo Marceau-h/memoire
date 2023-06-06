@@ -28,7 +28,26 @@
             "lat"
         ],
         "fichier": "M13487_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Bibliotheque_Mazarine/M13487_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Bibliotheque_Mazarine/M13487_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.74,
+            0.6495726495726496,
+            0.5443786982248521,
+            0.45901639344262296,
+            0.52,
+            0.6416184971098265
+        ],
+        "lexicalite": 0.5763612217795485,
+        "ecarts": [
+            -0.0904273504273504,
+            -0.10519395134779752,
+            -0.08536230478222911,
+            0.06098360655737706,
+            0.12161849710982653
+        ],
+        "ecart": 0.09271714204491613
     },
     "texte": [
         [

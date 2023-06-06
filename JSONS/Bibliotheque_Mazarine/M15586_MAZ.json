@@ -19,7 +19,24 @@
         },
         "langue": "fra",
         "fichier": "Ms4414-24_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Bibliotheque_Mazarine/Ms4414-24_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Bibliotheque_Mazarine/Ms4414-24_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7142857142857143,
+            0.6923076923076923,
+            0.6417112299465241,
+            0.6491228070175439,
+            0.6116504854368932
+        ],
+        "lexicalite": 0.6494992846924177,
+        "ecarts": [
+            -0.02197802197802201,
+            -0.050596462361168215,
+            0.007411577071019804,
+            -0.037472321580650725
+        ],
+        "ecart": 0.02936459574771519
     },
     "texte": [
         [

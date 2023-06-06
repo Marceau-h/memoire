@@ -22,7 +22,26 @@
         },
         "langue": "fra",
         "fichier": "Labadie334_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Labadie/Labadie334_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Labadie/Labadie334_GBOOKS.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.9210526315789473,
+            0.6840277777777778,
+            0.5776566757493188,
+            0.5779036827195467,
+            0.5498652291105122,
+            0.6612903225806451
+        ],
+        "lexicalite": 0.6115942028985507,
+        "ecarts": [
+            -0.23702485380116955,
+            -0.10637110202845901,
+            0.0002470069702279476,
+            -0.028038453609034564,
+            0.11142509347013296
+        ],
+        "ecart": 0.0966213019758048
     },
     "texte": [
         [

@@ -17,7 +17,30 @@
         },
         "langue": "fra",
         "fichier": "Socard24_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Socard/Socard24_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Socard/Socard24_GBOOKS.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.6330275229357798,
+            0.5591397849462365,
+            0.48255813953488375,
+            0.5958549222797928,
+            0.5661375661375662,
+            0.59,
+            0.7474048442906575,
+            1.0
+        ],
+        "lexicalite": 0.5996955859969558,
+        "ecarts": [
+            -0.07388773798954329,
+            -0.07658164541135276,
+            0.11329678274490901,
+            -0.029717356142226592,
+            0.023862433862433807,
+            0.1574048442906575,
+            0.25259515570934254
+        ],
+        "ecart": 0.10390656516435222
     },
     "texte": [
         [

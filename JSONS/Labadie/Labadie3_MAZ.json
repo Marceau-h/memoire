@@ -26,7 +26,26 @@
         },
         "langue": "fra",
         "fichier": "Labadie50_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Labadie/Labadie50_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Labadie/Labadie50_MAZ.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.8392857142857143,
+            0.6994219653179191,
+            0.5959595959595959,
+            0.6622950819672131,
+            0.6608391608391608,
+            0.5824742268041238
+        ],
+        "lexicalite": 0.6462480857580398,
+        "ecarts": [
+            -0.1398637489677952,
+            -0.1034623693583232,
+            0.06633548600761718,
+            -0.0014559211280522621,
+            -0.07836493403503708
+        ],
+        "ecart": 0.07789649189936498
     },
     "texte": [
         [

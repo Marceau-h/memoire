@@ -26,7 +26,26 @@
             "lat"
         ],
         "fichier": "Moreau1322_GALL.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/1301-1400/Moreau1322_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/1301-1400/Moreau1322_GALL.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7419354838709677,
+            0.6238532110091743,
+            0.6620689655172414,
+            0.6442953020134228,
+            0.6120218579234973,
+            0.6753246753246753
+        ],
+        "lexicalite": 0.6363636363636364,
+        "ecarts": [
+            -0.1180822728617934,
+            0.038215754508067024,
+            -0.017773663503818593,
+            -0.032273444089925496,
+            0.06330281740117805
+        ],
+        "ecart": 0.053929590472956514
     },
     "texte": [
         [

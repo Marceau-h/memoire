@@ -19,7 +19,20 @@
         },
         "langue": "fra",
         "fichier": "Moreau3suppl74_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Moreau_sup3/Moreau3suppl74_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Moreau_sup3/Moreau3suppl74_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.6403669724770642,
+            0.6384096024006002,
+            0.6639209225700164
+        ],
+        "lexicalite": 0.6439241017359709,
+        "ecarts": [
+            -0.0019573700764640156,
+            0.025511320169416263
+        ],
+        "ecart": 0.01373434512294014
     },
     "texte": [
         [

@@ -18,7 +18,20 @@
         },
         "langue": "fra",
         "fichier": "Moreau3040_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/3001-3100/Moreau3040_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/3001-3100/Moreau3040_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7307692307692307,
+            0.5227272727272727,
+            0.46853146853146854
+        ],
+        "lexicalite": 0.5230998509687034,
+        "ecarts": [
+            -0.20804195804195802,
+            -0.054195804195804165
+        ],
+        "ecart": 0.1311188811188811
     },
     "texte": [
         [

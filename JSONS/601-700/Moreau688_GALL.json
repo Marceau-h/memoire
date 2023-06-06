@@ -31,7 +31,26 @@
         ],
         "langue": "fra",
         "fichier": "Moreau689_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/601-700/Moreau689_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/601-700/Moreau689_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.9,
+            0.7608695652173914,
+            0.7452471482889734,
+            0.7804878048780488,
+            0.716,
+            0.7480314960629921
+        ],
+        "lexicalite": 0.7524229074889868,
+        "ecarts": [
+            -0.13913043478260867,
+            -0.015622416928417926,
+            0.03524065658907538,
+            -0.06448780487804884,
+            0.03203149606299216
+        ],
+        "ecart": 0.05730256184822859
     },
     "texte": [
         [

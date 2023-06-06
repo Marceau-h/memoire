@@ -22,7 +22,30 @@
         },
         "langue": "fra",
         "fichier": "Labadie158_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Labadie/Labadie158_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Labadie/Labadie158_GBOOKS.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7647058823529411,
+            0.7095238095238096,
+            0.6666666666666666,
+            0.5318181818181819,
+            0.535,
+            0.5055555555555555,
+            0.6558139534883721,
+            0.6596858638743456
+        ],
+        "lexicalite": 0.609584214235377,
+        "ecarts": [
+            -0.05518207282913157,
+            -0.04285714285714293,
+            -0.13484848484848477,
+            0.0031818181818181746,
+            -0.029444444444444495,
+            0.1502583979328166,
+            0.003871910385973454
+        ],
+        "ecart": 0.05994918163997314
     },
     "texte": [
         [

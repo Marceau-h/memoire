@@ -22,7 +22,24 @@
         },
         "langue": "fra",
         "fichier": "Labadie90_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Labadie/Labadie90_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Labadie/Labadie90_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7966101694915254,
+            0.6666666666666666,
+            0.6333333333333333,
+            0.6225165562913907,
+            0.631578947368421
+        ],
+        "lexicalite": 0.6515151515151515,
+        "ecarts": [
+            -0.12994350282485878,
+            -0.033333333333333326,
+            -0.010816777041942616,
+            0.00906239107703033
+        ],
+        "ecart": 0.04578900106929126
     },
     "texte": [
         [

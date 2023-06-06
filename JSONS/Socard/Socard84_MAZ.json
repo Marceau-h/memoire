@@ -19,7 +19,26 @@
         },
         "langue": "fra",
         "fichier": "Socard85_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Socard/Socard85_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Socard/Socard85_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7131782945736435,
+            0.6377952755905512,
+            0.5905511811023622,
+            0.6285714285714286,
+            1.0,
+            0.9629629629629629
+        ],
+        "lexicalite": 0.6660377358490566,
+        "ecarts": [
+            -0.0753830189830923,
+            -0.047244094488189003,
+            0.038020247469066404,
+            0.37142857142857144,
+            -0.03703703703703709
+        ],
+        "ecart": 0.11382259388119124
     },
     "texte": [
         [

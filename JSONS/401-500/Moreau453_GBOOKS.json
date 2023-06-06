@@ -18,7 +18,20 @@
         },
         "langue": "fra",
         "fichier": "Moreau454_GALL.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/401-500/Moreau454_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/401-500/Moreau454_GALL.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.6875,
+            0.6347826086956522,
+            0.4827586206896552
+        ],
+        "lexicalite": 0.5598086124401914,
+        "ecarts": [
+            -0.05271739130434783,
+            -0.15202398800599698
+        ],
+        "ecart": 0.1023706896551724
     },
     "texte": [
         [

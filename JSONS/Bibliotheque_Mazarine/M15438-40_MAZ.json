@@ -26,7 +26,22 @@
         },
         "langue": "fra",
         "fichier": "M15438-45_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Bibliotheque_Mazarine/M15438-45_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Bibliotheque_Mazarine/M15438-45_MAZ.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7551020408163265,
+            0.6318681318681318,
+            0.6919431279620853,
+            0.6503067484662577
+        ],
+        "lexicalite": 0.6655574043261231,
+        "ecarts": [
+            -0.12323390894819464,
+            0.0600749960939535,
+            -0.04163637949582766
+        ],
+        "ecart": 0.0749817615126586
     },
     "texte": [
         [

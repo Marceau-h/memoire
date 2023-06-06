@@ -23,7 +23,26 @@
         },
         "langue": "fra",
         "fichier": "Socard6_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Socard/Socard6_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Socard/Socard6_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7402597402597403,
+            0.5098039215686274,
+            0.4276315789473684,
+            0.6748971193415638,
+            0.6838235294117647,
+            0.6190476190476191
+        ],
+        "lexicalite": 0.5697674418604651,
+        "ecarts": [
+            -0.23045581869111287,
+            -0.082172342621259,
+            0.2472655403941954,
+            0.008926410070200896,
+            -0.06477591036414565
+        ],
+        "ecart": 0.12671920442818277
     },
     "texte": [
         [

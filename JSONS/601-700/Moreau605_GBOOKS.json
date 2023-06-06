@@ -24,7 +24,22 @@
             "lat"
         ],
         "fichier": "Moreau606_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/601-700/Moreau606_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/601-700/Moreau606_GBOOKS.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.5520361990950227,
+            0.5177514792899408,
+            0.5677749360613811,
+            0.6020942408376964
+        ],
+        "lexicalite": 0.5576631259484067,
+        "ecarts": [
+            -0.034284719805081854,
+            0.05002345677144027,
+            0.034319304776315285
+        ],
+        "ecart": 0.03954249378427913
     },
     "texte": [
         [

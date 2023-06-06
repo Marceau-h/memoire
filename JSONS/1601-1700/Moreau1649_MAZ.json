@@ -18,7 +18,26 @@
         },
         "langue": "fra",
         "fichier": "Moreau1650_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/1601-1700/Moreau1650_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/1601-1700/Moreau1650_MAZ.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7954545454545454,
+            0.6741573033707865,
+            0.6343283582089553,
+            0.5753968253968254,
+            0.6172839506172839,
+            0.6678832116788321
+        ],
+        "lexicalite": 0.6372315035799523,
+        "ecarts": [
+            -0.12129724208375892,
+            -0.03982894516183122,
+            -0.05893153281212993,
+            0.041887125220458565,
+            0.05059926106154822
+        ],
+        "ecart": 0.06250882126794537
     },
     "texte": [
         [

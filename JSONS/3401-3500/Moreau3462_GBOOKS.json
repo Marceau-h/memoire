@@ -28,7 +28,28 @@
         },
         "langue": "fra",
         "fichier": "Moreau3463_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/3401-3500/Moreau3463_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/3401-3500/Moreau3463_MAZ.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.8653846153846154,
+            0.7194244604316546,
+            0.6341463414634146,
+            0.59,
+            0.6618357487922706,
+            0.6243386243386243,
+            0.68
+        ],
+        "lexicalite": 0.6538108356290174,
+        "ecarts": [
+            -0.14596015495296077,
+            -0.08527811896824,
+            -0.04414634146341467,
+            0.07183574879227062,
+            -0.03749712445364628,
+            0.055661375661375745
+        ],
+        "ecart": 0.07339647738198468
     },
     "texte": [
         [

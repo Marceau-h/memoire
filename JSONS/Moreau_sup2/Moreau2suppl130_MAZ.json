@@ -22,7 +22,30 @@
         },
         "langue": "fra",
         "fichier": "Moreau2suppl132_MAZ.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Moreau_sup2/Moreau2suppl132_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Moreau_sup2/Moreau2suppl132_MAZ.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7884615384615384,
+            0.7113636363636363,
+            0.6799242424242424,
+            0.6497584541062802,
+            0.6464379947229552,
+            0.6982758620689655,
+            0.7175572519083969,
+            0.5819209039548022
+        ],
+        "lexicalite": 0.6616541353383458,
+        "ecarts": [
+            -0.07709790209790213,
+            -0.03143939393939388,
+            -0.03016578831796224,
+            -0.003320459383325036,
+            0.05183786734601037,
+            0.019281389839431395,
+            -0.1356363479535947
+        ],
+        "ecart": 0.04982559269680282
     },
     "texte": [
         [

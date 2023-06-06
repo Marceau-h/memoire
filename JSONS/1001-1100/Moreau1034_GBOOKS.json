@@ -19,7 +19,28 @@
         },
         "langue": "fra",
         "fichier": "Moreau1034_GBOOKS.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/1001-1100/Moreau1034_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/1001-1100/Moreau1034_GBOOKS.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7254901960784313,
+            0.6326530612244898,
+            0.5134099616858238,
+            0.5381679389312977,
+            0.68561872909699,
+            0.63,
+            0.6987951807228916
+        ],
+        "lexicalite": 0.6176836861768369,
+        "ecarts": [
+            -0.09283713485394152,
+            -0.11924309953866608,
+            0.024757977245473906,
+            0.1474507901656923,
+            -0.05561872909698995,
+            0.06879518072289159
+        ],
+        "ecart": 0.08478381860394256
     },
     "texte": [
         [

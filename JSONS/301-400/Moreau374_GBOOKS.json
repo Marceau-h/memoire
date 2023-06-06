@@ -25,7 +25,28 @@
         },
         "langue": "fra",
         "fichier": "Moreau375_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/301-400/Moreau375_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/301-400/Moreau375_GBOOKS.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7985074626865671,
+            0.6507462686567164,
+            0.5694444444444444,
+            0.5373134328358209,
+            0.6185819070904646,
+            0.609375,
+            0.6260869565217392
+        ],
+        "lexicalite": 0.596291613990729,
+        "ecarts": [
+            -0.14776119402985077,
+            -0.08130182421227194,
+            -0.03213101160862353,
+            0.08126847425464367,
+            -0.009206907090464567,
+            0.01671195652173918
+        ],
+        "ecart": 0.06139689461959894
     },
     "texte": [
         [

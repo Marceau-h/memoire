@@ -19,7 +19,20 @@
         },
         "langue": "fra",
         "fichier": "Socard48_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Socard/Socard48_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Socard/Socard48_GBOOKS.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.6265060240963856,
+            0.5829787234042553,
+            0.726027397260274
+        ],
+        "lexicalite": 0.6289424860853432,
+        "ecarts": [
+            -0.04352730069213029,
+            0.14304867385601872
+        ],
+        "ecart": 0.0932879872740745
     },
     "texte": [
         [

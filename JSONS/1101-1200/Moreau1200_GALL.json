@@ -22,7 +22,24 @@
         },
         "langue": "fra",
         "fichier": "Moreau1200_GALL.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/1101-1200/Moreau1200_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/1101-1200/Moreau1200_GALL.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.6944444444444444,
+            0.6032608695652174,
+            0.5333333333333333,
+            0.5949008498583569,
+            0.601078167115903
+        ],
+        "lexicalite": 0.5785597381342062,
+        "ecarts": [
+            -0.09118357487922701,
+            -0.06992753623188408,
+            0.06156751652502357,
+            0.006177317257546111
+        ],
+        "ecart": 0.05721398622342019
     },
     "texte": [
         [

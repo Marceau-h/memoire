@@ -23,7 +23,20 @@
         },
         "langue": "fra",
         "fichier": "Moreau3715_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/3701-3800/Moreau3715_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/3701-3800/Moreau3715_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7183098591549296,
+            0.6808510638297872,
+            0.6307692307692307
+        ],
+        "lexicalite": 0.6754385964912281,
+        "ecarts": [
+            -0.0374587953251424,
+            -0.05008183306055647
+        ],
+        "ecart": 0.043770314192849435
     },
     "texte": [
         [

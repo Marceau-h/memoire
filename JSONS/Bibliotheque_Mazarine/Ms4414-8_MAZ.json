@@ -19,7 +19,22 @@
         },
         "langue": "fra",
         "fichier": "Labadie115_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Labadie/Labadie115_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Labadie/Labadie115_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7304347826086957,
+            0.6745562130177515,
+            0.5833333333333334,
+            0.6436781609195402
+        ],
+        "lexicalite": 0.6437847866419295,
+        "ecarts": [
+            -0.05587856959094417,
+            -0.09122287968441811,
+            0.06034482758620685
+        ],
+        "ecart": 0.06914875895385637
     },
     "texte": [
         [

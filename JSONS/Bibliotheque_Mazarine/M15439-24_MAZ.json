@@ -17,7 +17,28 @@
         },
         "langue": "fra",
         "fichier": "M15439-39_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/Bibliotheque_Mazarine/M15439-39_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Bibliotheque_Mazarine/M15439-39_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.7857142857142857,
+            0.5970149253731343,
+            0.6285714285714286,
+            0.660958904109589,
+            0.6319702602230484,
+            0.6928838951310862,
+            0.5882352941176471
+        ],
+        "lexicalite": 0.6426426426426426,
+        "ecarts": [
+            -0.18869936034115142,
+            0.03155650319829428,
+            0.03238747553816046,
+            -0.028988643886540655,
+            0.060913634908037806,
+            -0.10464860101343909
+        ],
+        "ecart": 0.07453236981427062
     },
     "texte": [
         [

@@ -30,7 +30,28 @@
         ],
         "langue": "fra",
         "fichier": "Moreau708_GALL.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/701-800/Moreau708_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/701-800/Moreau708_GALL.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.75,
+            0.7804878048780488,
+            0.7393617021276596,
+            0.7333333333333333,
+            0.6785714285714286,
+            0.6408839779005525,
+            0.7142857142857143
+        ],
+        "lexicalite": 0.7092050209205021,
+        "ecarts": [
+            0.030487804878048808,
+            -0.04112610275038919,
+            -0.006028368794326333,
+            -0.05476190476190468,
+            -0.03768745067087609,
+            0.07340173638516179
+        ],
+        "ecart": 0.04058222804011782
     },
     "texte": [
         [

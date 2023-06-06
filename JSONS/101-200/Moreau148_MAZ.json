@@ -19,7 +19,26 @@
         },
         "langue": "lat",
         "fichier": "Moreau148_MAZ.xml",
-        "langue_detectee": "tlfi"
+        "path": "Corpus/Mazarinades/101-200/Moreau148_MAZ.xml",
+        "json_path": "Corpus/Mazarinades_jsons/101-200/Moreau148_MAZ.json",
+        "langue_detectee": "tlfi",
+        "lexicalites": [
+            0.625,
+            1.0,
+            0.4682080924855491,
+            0.424,
+            0.5314685314685315,
+            0.325
+        ],
+        "lexicalite": 0.4509433962264151,
+        "ecarts": [
+            0.375,
+            -0.5317919075144508,
+            -0.04420809248554913,
+            0.10746853146853147,
+            -0.20646853146853145
+        ],
+        "ecart": 0.2529874125874126
     },
     "texte": [
         [

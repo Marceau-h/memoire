@@ -23,7 +23,20 @@
         },
         "langue": "fra",
         "fichier": "Antonomaz1_GBOOKS.xml",
-        "langue_detectee": "LGERM"
+        "path": "Corpus/Mazarinades/Antonomaz/Antonomaz1_GBOOKS.xml",
+        "json_path": "Corpus/Mazarinades_jsons/Antonomaz/Antonomaz1_GBOOKS.json",
+        "langue_detectee": "LGERM",
+        "lexicalites": [
+            0.7241379310344828,
+            0.6190476190476191,
+            0.6538461538461539
+        ],
+        "lexicalite": 0.6505376344086021,
+        "ecarts": [
+            -0.1050903119868637,
+            0.034798534798534786
+        ],
+        "ecart": 0.06994442339269924
     },
     "texte": [
         [
