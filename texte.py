@@ -54,12 +54,11 @@ class Texte:
     crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*$")
     crade3 = re.compile(r"[liIba1ſ.,:!;'’]{10,}")
 
-    toujours_crade = re.compile(r"\w?-\w?")
+    # toujours_crade = re.compile(r"\w?-\w?")
     chriffre_romain = re.compile(r"[IVXLCDM]+\.?")
 
     reline = re.compile(r"\n|<lb/>|<l>|<\\l>")
-    reother = re.compile(r"<[^>]+?>")
-    reother2 = re.compile(r"<.*?>|(\s{2})|¬")
+    reother = re.compile(r"<[^>]+?>|<.*?>|(\s{2})|¬")
     rep = re.compile(r"(.)\1{2,}")
 
     @staticmethod
@@ -124,6 +123,7 @@ class Texte:
         assert path.suffix == ".xml", f"Invalid file extension ({path.suffix}), expected .xml"
 
         self.path = path
+        self.json_path = self.json_pathfinder()
 
         with open(path, encoding="utf-8") as f:
             self.txt = f.read()
@@ -217,11 +217,10 @@ class Texte:
         # txt = [self.clean(e, self.crade) for e in txt]
         # txt = [self.clean(e, self.toujours_crade) for e in txt]
         txt = [self.clean(e, self.reother) for e in txt]
-        txt = [self.clean(e, self.reother2) for e in txt]
-        txt = [self.clean(e, self.rep) for e in txt]
-        txt = [self.clean(e, self.crade) for e in txt]
-        txt = [self.clean(e, self.crade2) for e in txt]
-        txt = [self.clean(e, self.crade3) for e in txt]
+        # txt = [self.clean(e, self.rep) for e in txt]
+        # txt = [self.clean(e, self.crade) for e in txt]
+        # txt = [self.clean(e, self.crade2) for e in txt]
+        # txt = [self.clean(e, self.crade3) for e in txt]
         # txt = [self.clean(e, self.crade2) for e in txt]
         txt = [[unescape(e) for e in page if e] for page in txt]
 
@@ -313,6 +312,13 @@ class Texte:
         k, _ = max(self.dict_lexicalite.items(), key=lambda item: item[1])
         return k, self.lignes_non_lexicalisees[k]
 
+    def json_pathfinder(self):
+        file = Path(self.path).name
+        parent = Path(self.path).parent.name
+        jsonfolder = Path(self.path).parent.parent.parent / "Mazarinades_jsons" / parent / file.replace(".xml", ".json")
+
+        return jsonfolder
+
 
 if __name__ == "__main__":
     test = "soft"
@@ -322,7 +328,10 @@ if __name__ == "__main__":
     testfile = "Corpus/Mazarinades/1-100/Moreau3_MAZ.xml"
 
     texte = Texte(testfile)
-    print(texte.__dict__)
+
+    print(texte.json_path)
+
+    # print(texte.__dict__)
 
     if test != "soft":
         liste = list(corpora(path))
