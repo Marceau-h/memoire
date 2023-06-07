@@ -15,3 +15,8 @@ for txt in collection_textes:
             if re.fullmatch(crade, line):
                 print(line)
 
+
+                
+                
+                
+                
