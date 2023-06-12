@@ -212,7 +212,7 @@ class Texte:
         soup = BeautifulSoup(tei_head, "html.parser")
 
         elts = {
-            e.tag: e.text
+            e.name: e.text
             for e in soup.find_all()
         }
 
