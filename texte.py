@@ -228,7 +228,6 @@ class Texte:
         # txt = [self.clean(e, self.crade) for e in txt]
         # txt = [self.clean(e, self.crade2) for e in txt]
         # txt = [self.clean(e, self.crade3) for e in txt]
-        # txt = [self.clean(e, self.crade2) for e in txt]
         txt = [[unescape(e) for e in page if e] for page in txt]
 
         pages = [' '.join(line for line in page) for page in txt]
