@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 from numpy import mean
 from tqdm import tqdm
 
-
 def eval_sub_type(str_: str) -> bool or str:
     match str_:
         case "no":
@@ -49,6 +48,7 @@ def corpora(path: Path or str or Sequence[Path or str]) -> Generator:
 
 
 class Texte:
+    flag = False
     lexique = dict_lexiques
     crade = re.compile(r"^[liIba1ſ.,:!;'’]+$")  # (r"([liIba1]*\s?)+").
     crade2 = re.compile(r"^[liIba1ſ.,:'’]+\s[liIba1ſ.,:!;'’]*$")
@@ -263,6 +263,9 @@ class Texte:
                                  self.lexique}
         self.dict_lexicalite = {key: self.mesurer_lexicalite(plain, mode=key, type_="plain") for key in self.lexique}
 
+        if self.flag:
+            print(self)
+
         self.langue, self.lignes_non_lexicalisees = self.determiner_langue()
 
         self.hapaxes = [self.mesurer_hapax(page) if page else 0 for page in pages]
@@ -300,18 +303,27 @@ class Texte:
 
     def mesurer_lexicalite(self, text: str, mode: str = "LGERM", type_: str = "page"):
         tokens = re.split(r"(?:\s)|(?:\.)", text)
+        if not tokens:
+            return 0
+
         lexique = self.lexique[mode]
 
         mots = [mot.lower().replace("ſ", "s") for mot in tokens]
         mots = [mot for mot in mots if self.lexicalise(mot, lexique) or mot in lexique]
+
+        if all(e in punctuation or e.isdigit() for e in mots):
+            return 0
 
         if type_ == "page":
             self.lignes_non_lexicalisees[mode] = 0
         if not mots:
             if type_ == "page":
                 self.lignes_non_lexicalisees[mode] += .5
+            print("a")
+            Texte.flag = True
             return 0  # 0 | -1  a retester
-
+        # print(len(mots))
+        # print(len(tokens))
         return len(mots) / len(tokens)
 
     def determiner_langue(self):
