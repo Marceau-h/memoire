@@ -9,8 +9,6 @@
         0.6855895196506551,
         0.6041666666666666
     ],
-    "imprimatur": "AVEC PERMISSION",
-    "corrector": false,
     "entête": {
         "form": "prose",
         "genre": [
@@ -32,34 +30,7 @@
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
-        },
-        "author": null,
-        "pubDate": [
-            {
-                "@source": "Moreau",
-                "@when": "1649",
-                "#text": "1649"
-            },
-            {
-                "@source": "Antonomaz",
-                "@notBefore": "1649-01-05",
-                "#text": "après le 5 janvier 1649"
-            }
-        ],
-        "pubPlace": {
-            "@ref": "geonames:2988507",
-            "@source": "Moreau",
-            "#text": "Paris"
-        },
-        "publisher": {
-            "@ref": "isni:0000000011194155",
-            "@xml:id": "IL_MusnierVeuvedAndre.xml",
-            "persName": {
-                "forename": "Veuve d'André",
-                "surname": "Musnier"
-            }
-        },
-        "nbPages": "8"
+        }
     },
     "texte": [
         [

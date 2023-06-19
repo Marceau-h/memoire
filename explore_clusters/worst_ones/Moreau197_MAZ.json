@@ -6,8 +6,6 @@
         0.7889546351084813,
         0.7126436781609196
     ],
-    "imprimatur": null,
-    "corrector": false,
     "entête": {
         "form": "prose",
         "genre": [
@@ -32,37 +30,7 @@
             "@type": "file_creation",
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
-        },
-        "author": {
-            "@ref": "isni:0000000123225884",
-            "orgName": "Parlement de Bretagne"
-        },
-        "pubDate": [
-            {
-                "@source": "Mazarine",
-                "@when": "1651",
-                "#text": "1651"
-            },
-            {
-                "@source": "Antonomaz",
-                "@when": "1651-03-22",
-                "#text": "22 mars 1651"
-            }
-        ],
-        "pubPlace": {
-            "@source": "Mazarine",
-            "@ref": "geonames:2988507",
-            "#text": "Paris"
-        },
-        "publisher": {
-            "@ref": "isni:0000000121259642",
-            "@xml:id": "IL_PreuverayFrancois.xml",
-            "persName": {
-                "forename": "François",
-                "surname": "Preuveray"
-            }
-        },
-        "nbPages": "7"
+        }
     },
     "texte": [
         [

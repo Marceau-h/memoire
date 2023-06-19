@@ -1,6 +1,4 @@
 {
-    "imprimatur": null,
-    "corrector": false,
     "entête": {
         "form": "vers",
         "genre": [
@@ -24,27 +22,7 @@
             "@type": "file_creation",
             "@when": "2022-10-25",
             "#text": "25 octobre 2022"
-        },
-        "author": null,
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
-        "pubPlace": {
-            "@source": "Moreau",
-            "@ref": "geonames:2988507",
-            "#text": "Paris"
-        },
-        "publisher": {
-            "@ref": "isni:0000000108647130",
-            "@xml:id": "IL_BoudevilleClaude.xml",
-            "persName": {
-                "forename": "Claude",
-                "surname": "Boudeville"
-            }
-        },
-        "nbPages": "4"
+        }
     },
     "texte": [
         [

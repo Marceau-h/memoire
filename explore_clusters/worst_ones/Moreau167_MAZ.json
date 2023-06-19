@@ -6,8 +6,6 @@
         0.6788321167883211,
         0
     ],
-    "imprimatur": null,
-    "corrector": false,
     "entête": {
         "form": "prose",
         "genre": [
@@ -32,38 +30,7 @@
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
-        },
-        "author": {
-            "@ref": "isni:0000000119572170",
-            "@source": "Mazarine",
-            "orgName": "Parlement de Bordeaux"
-        },
-        "pubDate": [
-            {
-                "@source": "Mazarine",
-                "@when": "1649",
-                "#text": "1649"
-            },
-            {
-                "@source": "Carrier",
-                "@when": "1649-10-12",
-                "#text": "mention de publication le 12 octobre 1649"
-            }
-        ],
-        "pubPlace": {
-            "@source": "Mazarine",
-            "@ref": "geonames:2988507",
-            "#text": "Paris"
-        },
-        "publisher": {
-            "@ref": "isni:0000000110444682",
-            "@xml:id": "IL_LesselinAlexandre.xml",
-            "persName": {
-                "forename": "Alexandre",
-                "surname": "Lesselin"
-            }
-        },
-        "nbPages": "6"
+        }
     },
     "texte": [
         [

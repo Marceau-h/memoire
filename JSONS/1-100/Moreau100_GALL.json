@@ -31,11 +31,11 @@
         ],
         "langue": "fra",
         "fichier": "Moreau100_GALL.xml",
-        "path": "Corpus\\Mazarinades\\1-100\\Moreau100_GALL.xml",
-        "json_path": "Corpus\\Mazarinades_jsons\\1-100\\Moreau100_GALL.json",
+        "path": "Corpus/Mazarinades/1-100/Moreau100_GALL.xml",
+        "json_path": "Corpus/Mazarinades_jsons/1-100/Moreau100_GALL.json",
         "langue_detectee": "LGERM",
         "lexicalites": [
-            0.9090909090909091,
+            0.8461538461538461,
             0.744,
             0.8372093023255814,
             0.7692307692307693,
@@ -43,22 +43,22 @@
             0.8129032258064516,
             0.8166666666666667
         ],
-        "lexicalite": 0.7963176064441887,
+        "lexicalite": 0.7941860465116279,
         "ecarts": [
-            -0.16509090909090907,
+            -0.10215384615384615,
             0.09320930232558144,
             -0.06797853309481217,
             0.016483516483516425,
             0.02718894009216588,
             0.0037634408602150726
         ],
-        "ecart": 0.062285773657866673
+        "ecart": 0.05179626316835619
     },
     "texte": [
         [
             "L'APOLOGIE",
             "DE",
-            "L'AVTRVCHE TOTO LE RETOUR DU RETOUR RETOURNÉ ENCORE ET ENCORE",
+            "L'AVTRVCHE",
             "EN VERS BVRLESQVES.",
             "M. DC. L."
         ],

@@ -1,13 +1,13 @@
 i = 0
 cluster = 8
-txt.path = WindowsPath('Corpus/Mazarinades/1-100/Moreau100_GALL.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1-100/Moreau100_GALL.json')
-txt.lexicalite = 0.7963176064441887
+txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau100_GALL.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1-100/Moreau100_GALL.json')
+txt.lexicalite = 0.7941860465116279
 txt.n_pages = 7
-txt.ecart = 0.062285773657866673
-txt.ecarts = [-0.16509090909090907, 0.09320930232558144, -0.06797853309481217, 0.016483516483516425, 0.02718894009216588, 0.0037634408602150726]
+txt.ecart = 0.05179626316835619
+txt.ecarts = [-0.10215384615384615, 0.09320930232558144, -0.06797853309481217, 0.016483516483516425, 0.02718894009216588, 0.0037634408602150726]
 Texte = 
-["L'APOLOGIE", 'DE', "L'AVTRVCHE TOTO LE RETOUR DU RETOUR RETOURNÉ ENCORE ET ENCORE", 'EN VERS BVRLESQVES.', 'M. DC. L.']
+["L'APOLOGIE", 'DE', "L'AVTRVCHE", 'EN VERS BVRLESQVES.', 'M. DC. L.']
 ['3', "L'APOLOGIE", 'DE', "L'AVTRVCHE", 'EN VERS BVRLESQVES.', "FAVT-il que ie porte l'endoſſe,", "N'ay ie point aſſez de ma boſſe,", 'Eſtant delicat & fluet', "N'aymant rien tant que le duvet.", 'De quoy puis-ie eſtre mis en peine,', "N'ayant point deſeruy la Reyne,", 'Pour auoir eſté dans Paris;', "C'eſtoit pour prendre les ſoûris", 'Qui euſſent rongé ſes panchartes,', 'Et euſſent trop meſlé les cartes', "Et n'euſſent que trop connivé,", 'Et les Impoſts eſcanillé:', "Mais & l'vn & l'autre Cabale", "M'appelloient General de balle,", "I'auois, c'eſtoit mon intention", "De ne ſeruir que d'Eſpion.", 'Elle ſçait bien que mon Efpée', 'Sans auor eſté deſgainée,', 'A meſme ſouuentes fois mis', 'En deſroute ſes Ennemis,', 'Oüy pour elle ie me vente', "D'auoir donné de l'eſpouuente", 'A ij']
 ['4', "Toute l'armée s'alarmer", "Quand on m'a veu me gendarmer", "Lors que monté à l'aduantage", 'Pour vn General de mon âge', "I'éfarouchay tous les cheuaux,", 'Auecque leurs brides à veaux;', 'Que tous ceux meſme de ma troupe', "Croyant que i'eus vn Diable en croupe,", 'Eſtant ſortis hors de leurs rangs', "S'entaſſoient comme des harangs,", 'Et iamais tant de Diablerie', 'Ne fuſt dans la gendarmerie,', "Que lors que ie donnay l'effroy,", 'Et les mis tous en deſarroy.', "Paroiſſant ainſi qu'vn phantôme,", 'Deuant tant de beſtes de ſommes;', 'Quoy puis que tous les Garnemens', 'Qui eſtoient dans mes Regimens,', 'Ont franchement quitté les armes', 'Dans le choc & dans les alarmes;', 'Et que moy-meſme ſuis tombé,', 'Pour reduire tout à Iubé;', 'Faut-il que ces exploits de guerre', 'Faſſent craindre mon Cimeterre?', 'Madame, ie iure ma foy', 'Que ſi vous ne craignez que moy,', 'Que voſtre terreur eſt Panique,', 'Vous ay ie iamais fait la Nique ?', "A-t'on ouy que dedans le Cours", "I'aye tenu mauuais diſcours;", 'Pourquoy me faire mettre en Cage ?']
 ['5', "Ie n'aurois certes le courage", "D'entreprendre quoy que ce ſoit", 'Qui requiſt quelque grand exploit.', "Si mon frere s'eſt voulu rendre", 'Maiſtre de tout, comme Alexandre,', 'le ne ſuis pas ambitieux,', 'Comme luy, ny ſi vicieux;', 'Ie ſuis aſſez grand pour mon âge,', 'Et vous promets que ſeray ſage,', "S'il ne tenoit pour eſtre hors", "Qu'à dire des Confiteors,", "I'en dirois plus d'vne douzaine,", 'Pourueu auſſi que pour ma peine', "L'interceſſion d'vn Flateur", 'Reſponde,', 'Miſereatur', ';', 'Voyez comme ie me confeſſe,', "I'ay du regret en ma détreſſe;", "Et ſçay que i'ay beaucoup pâty,", 'Pour auoir eſté mal bafty,', "Que i'ay receu dans la matrice", 'Toutes les ſemences de vice;', 'Iamais ie ne ſuis allé droit,', 'Et au chaut comme dans le froid', "Ie me tiens plus ſerré qu'vn chiche,", 'Veſtu comme le mauuais Riche.', 'En montant les degrez il faut,', 'Pour ſuppléer à mon defaut,', "Qu'on m'eſleue auec plus de peine,", "Que l'enfant d'vn an qu'on promeine.", 'Deux me ſouſleuent par les bras', 'B']
@@ -18,8 +18,8 @@ Texte =
 
 i = 9
 cluster = 5
-txt.path = WindowsPath('Corpus/Mazarinades/1-100/Moreau27_MAZ.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1-100/Moreau27_MAZ.json')
+txt.path = PosixPath('Corpus/Mazarinades/1-100/Moreau27_MAZ.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1-100/Moreau27_MAZ.json')
 txt.lexicalite = 0.7422018348623853
 txt.n_pages = 7
 txt.ecart = 0.04216521184855845
@@ -36,8 +36,8 @@ Texte =
 
 i = 133
 cluster = 3
-txt.path = WindowsPath('Corpus/Mazarinades/1001-1100/Moreau1095_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1001-1100/Moreau1095_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/1001-1100/Moreau1095_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1001-1100/Moreau1095_GBOOKS.json')
 txt.lexicalite = 0.7740585774058577
 txt.n_pages = 3
 txt.ecart = 0.02679238237490661
@@ -50,8 +50,8 @@ Texte =
 
 i = 284
 cluster = 9
-txt.path = WindowsPath('Corpus/Mazarinades/1201-1300/Moreau1210_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1201-1300/Moreau1210_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/1201-1300/Moreau1210_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1201-1300/Moreau1210_GBOOKS.json')
 txt.lexicalite = 0.7551020408163265
 txt.n_pages = 7
 txt.ecart = 0.07337676126091036
@@ -68,8 +68,8 @@ Texte =
 
 i = 297
 cluster = 7
-txt.path = WindowsPath('Corpus/Mazarinades/1201-1300/Moreau1239_GALL.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1201-1300/Moreau1239_GALL.json')
+txt.path = PosixPath('Corpus/Mazarinades/1201-1300/Moreau1239_GALL.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1201-1300/Moreau1239_GALL.json')
 txt.lexicalite = 0.6861499364675985
 txt.n_pages = 6
 txt.ecart = 0.08866772655007953
@@ -85,8 +85,8 @@ Texte =
 
 i = 472
 cluster = 1
-txt.path = WindowsPath('Corpus/Mazarinades/1401-1500/Moreau1478_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1401-1500/Moreau1478_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/1401-1500/Moreau1478_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1401-1500/Moreau1478_GBOOKS.json')
 txt.lexicalite = 0.6535488404778637
 txt.n_pages = 8
 txt.ecart = 0.07444111403747225
@@ -104,8 +104,8 @@ Texte =
 
 i = 598
 cluster = 4
-txt.path = WindowsPath('Corpus/Mazarinades/1601-1700/Moreau1662_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/1601-1700/Moreau1662_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/1601-1700/Moreau1662_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/1601-1700/Moreau1662_GBOOKS.json')
 txt.lexicalite = 0.699728997289973
 txt.n_pages = 7
 txt.ecart = 0.08494989190350126
@@ -122,8 +122,8 @@ Texte =
 
 i = 1986
 cluster = 2
-txt.path = WindowsPath('Corpus/Mazarinades/3401-3500/Moreau3488_GALL.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/3401-3500/Moreau3488_GALL.json')
+txt.path = PosixPath('Corpus/Mazarinades/3401-3500/Moreau3488_GALL.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/3401-3500/Moreau3488_GALL.json')
 txt.lexicalite = 0.6688102893890675
 txt.n_pages = 7
 txt.ecart = 0.10837612518680706
@@ -140,8 +140,8 @@ Texte =
 
 i = 2227
 cluster = 6
-txt.path = WindowsPath('Corpus/Mazarinades/3801-3900/Moreau3808_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/3801-3900/Moreau3808_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/3801-3900/Moreau3808_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/3801-3900/Moreau3808_GBOOKS.json')
 txt.lexicalite = 0.703662182361734
 txt.n_pages = 27
 txt.ecart = 0.07252217610093163
@@ -178,8 +178,8 @@ Texte =
 
 i = 2581
 cluster = 0
-txt.path = WindowsPath('Corpus/Mazarinades/601-700/Moreau627_GBOOKS.xml')
-txt.json_path = WindowsPath('Corpus/Mazarinades_jsons/601-700/Moreau627_GBOOKS.json')
+txt.path = PosixPath('Corpus/Mazarinades/601-700/Moreau627_GBOOKS.xml')
+txt.json_path = PosixPath('Corpus/Mazarinades_jsons/601-700/Moreau627_GBOOKS.json')
 txt.lexicalite = 0.6464560204953032
 txt.n_pages = 6
 txt.ecart = 0.10382801020802723

@@ -6,8 +6,6 @@
         0.8247011952191236,
         0.8026315789473685
     ],
-    "imprimatur": null,
-    "corrector": false,
     "entête": {
         "form": "prose",
         "genre": [
@@ -28,38 +26,7 @@
             "@type": "file_creation",
             "@when": "2022-03-02",
             "#text": "2 mars 2022"
-        },
-        "author": {
-            "@ref": "isni:0000000119572170",
-            "@source": "Mazarine",
-            "orgName": "Parlement de Bordeaux"
-        },
-        "pubDate": [
-            {
-                "@source": "Mazarine",
-                "@when": "1650",
-                "#text": "1650"
-            },
-            {
-                "@source": "Carrier",
-                "@when": "1650-05-15",
-                "#text": "mi-mai 1650"
-            }
-        ],
-        "pubPlace": {
-            "@source": "Mazarine",
-            "@ref": "geonames:2988507",
-            "#text": "Paris"
-        },
-        "publisher": {
-            "@ref": "isni:0000000068219536",
-            "@xml:id": "IL_LozetThomas.xml",
-            "persName": {
-                "forename": "Thomas",
-                "surname": "Lozet"
-            }
-        },
-        "nbPages": "6"
+        }
     },
     "texte": [
         [
